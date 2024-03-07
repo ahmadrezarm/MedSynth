@@ -1,0 +1,675 @@
+"Prompt: Assume you are a very experienced family physician doctor and you are conducting a research. The research project is to generate synthetic medical notes from doctor-patient conversations. 
+The notes must in this format:
+
+1. Subjective: This section includes the patient's own description of their symptoms and complaints.
+
+2. Objective: This section includes observations and data gathered by the family physician, such as vital signs, physical examination findings, and test results.
+
+3. Assessment: This section includes the family physician's evaluation of the patient's condition, including a diagnosis or differential diagnosis.
+
+4. Plan: This section includes the family physician's recommendations for treatment, management, and follow-up. 
+
+
+The notes must contain these variables:
+
+1) Medical Outcome: Like diagnosis, prescribed treatment, follow-up recommendations, referral to specialists, referral to further tests or imaging, medication adjustment, lifestyle change (sleep, diet, exercise, tobacco use, alcohol use)
+
+
+2) Medical History: Like previous diagnoses, family medical history, medication history, allergies, and chronic conditions.
+
+3) Symptom Description: Like severity, duration, associated symptoms, frequency, and impact on daily activities.
+
+4) Patient’s self-reported habits and lifestyle: Sleep, diet, exercise, tobacco use, alcohol consumption, drug use, recreational activities.
+
+5) Demographic Information: Like age, gender, ethnicity, socio-economic status, education level, health literacy, and job status.
+
+6) Patient's Behavior: Like the patient's cooperation with medical advice
+
+7) Geographical Location: Like Big city vs small city, rural vs urban, pollution and environmental health risks, neighborhood type- eg if impoverished or affluent, well-served by transit, food desert, etc.
+
+8) Clinical Setting: Like hospitals, clinics, telemedicine, community health services, urgent care centers, research facilities, school health services, private practice, and specialty clinics.
+
+9) Type of Encounter: Like initial consultation, follow-up, emergency visit, routine check-up, chronic disease management (regular appointments to manage long-term health conditions like diabetes, heart disease, or chronic pain), preventive health screening.
+
+10) Treatment Disparities: There may be a tendency to offer less aggressive treatment or fewer options due to assumptions about compliance or ability to pay.
+
+11) Native or Non-Native English Speaking Patient.
+
+The user will give you the ICD-10 description of the disease and you should generate a note in the format mentioned above. "
+Medical_Condition,Note
+"Upper respiratory tract infection, unspecified","Subjective:
+A 35-year-old female patient presents complaining of a persistent cough, nasal congestion, and a sore throat for the past 5 days. She reports the symptoms as moderate in severity but has noticed increased difficulty in performing her daily activities, such as taking care of her children and maintaining focus at work. She denies any associated fever, chest pain, or shortness of breath. The patient mentions that her symptoms have been worsening despite over-the-counter cold remedies. She is a non-smoker with occasional alcohol use on weekends and tries to maintain a balanced diet. She reports sleeping poorly due to discomfort from her symptoms.
+
+Objective:
+Vital signs on presentation: Temperature 98.6°F, Pulse 80 bpm, Blood Pressure 120/78 mmHg, Respiratory Rate 16 breaths/min, O2 Saturation 98% on room air. Physical examination reveals erythematous oropharynx with no exudates, nasal mucosa with clear rhinorrhea, and no sinus tenderness. Lungs are clear to auscultation bilaterally. No cervical lymphadenopathy is noted. The remainder of the exam is unremarkable.
+
+Assessment:
+The patient is assessed with an upper respiratory tract infection (URTI), unspecified, likely viral in etiology given the absence of fever and purulent discharge. The absence of high-risk features such as significant dyspnea, high fever, or focal consolidation on examination makes a bacterial infection less likely.
+
+Plan:
+The patient will be advised to continue symptomatic relief with over-the-counter antipyretics and decongestants. A recommendation for increased fluid intake, rest, and a humidifier at night is given to ease the symptoms. A follow-up appointment is scheduled for 7 days, or earlier if symptoms worsen or if she develops a high fever, suggesting a potential bacterial superinfection. No antibiotic therapy is indicated at this time. Patient education regarding the natural course of viral URTIs is provided, along with reassurance. She is encouraged to maintain her non-smoking status and moderate alcohol consumption.
+
+Variables:
+
+1) Medical Outcome: Diagnosis of unspecified URTI, advice for symptomatic treatment, follow-up recommended.
+
+2) Medical History: No significant past medical or medication history provided. The patient has no known allergies.
+
+3) Symptom Description: Moderate severity, 5 days' duration, impacting daily activities.
+
+4) Patient’s self-reported habits and lifestyle: Non-smoker, occasional alcohol use, balanced diet, currently experiencing poor sleep due to symptoms.
+
+5) Demographic Information: 35-year-old female, demographic details not specified.
+
+6) Patient's Behavior: Patient is cooperative with medical advice and appears to be adhering to recommendations.
+
+7) Geographical Location: Not specified, but implications of environmental factors can be considered based on further information.
+
+8) Clinical Setting: Family physician's office.
+
+9) Type of Encounter: Initial consultation for acute symptoms.
+
+10) Treatment Disparities: None indicated; treatment appears to have been provided based on clinical presentation without assumptions regarding compliance or ability to pay.
+
+11) Native or Non-Native English Speaking Patient: Not specified; communication was effective and without barriers during the consultation."
+Hypertension,"Subjective:
+A 52-year-old African American male presents for a routine follow-up visit. He reports continuing to experience occasional headaches, primarily in the mornings, which he describes as ""mild but annoying."" The patient mentions that he has been feeling more stressed at work over the past few months. He denies any chest pain, palpitations, or dizziness. He states that his exercise routine has decreased due to longer working hours, and he occasionally indulges in fast food due to time constraints. He has been monitoring his blood pressure at home and notes readings often in the range of 140/90 mmHg. He is compliant with his current medication regimen but is concerned about the persistent elevated readings.
+
+Objective:
+Blood pressure on examination is 145/92 mmHg. Heart rate is regular at 78 beats per minute. BMI is calculated at 30, indicating obesity. Physical examination is unremarkable with no signs of hypertensive retinopathy upon fundoscopic exam, and cardiovascular examination reveals no abnormal heart sounds. Laboratory tests from two weeks ago show normal renal function and electrolytes. The patient is currently on hydrochlorothiazide and lisinopril.
+
+Assessment:
+The patient is assessed to have uncontrolled hypertension, likely exacerbated by increased stress, dietary habits, and reduced physical activity. There is no evidence of end-organ damage at this time.
+
+Plan:
+1. Medical Outcome: Continue current antihypertensive medications and introduce amlodipine to better control blood pressure. Schedule a follow-up in 4 weeks to reassess blood pressure and medication efficacy.
+2. Medical History: The patient has a history of hypertension for 5 years and Type 2 diabetes mellitus. No known drug allergies. Family history is significant for hypertension and stroke.
+3. Symptom Description: Mild headaches, typically in the morning, with no other associated symptoms.
+4. Patient’s self-reported habits and lifestyle: Reports decreased physical activity and increased consumption of fast food. Normally sleeps 6-7 hours per night.
+5. Demographic Information: 52-year-old African American male, works as a financial analyst, has a bachelor's degree in finance, lives in a suburban area with moderate access to healthcare services.
+6. Patient's Behavior: Patient shows good compliance with medication but struggles with lifestyle modifications.
+7. Geographical Location: Suburban environment with moderate levels of pollution, well-served by public transit.
+8. Clinical Setting: Private practice.
+9. Type of Encounter: Routine follow-up for chronic disease management.
+10. Treatment Disparities: There are no current disparities in offered treatment. However, ensure patient has access to medication and consider socioeconomic status when discussing lifestyle changes.
+11. Native or Non-Native English Speaking Patient: Native English speaker.
+
+Recommendations include increasing physical activity to at least 30 minutes of moderate-intensity exercise most days of the week, adopting the DASH diet to lower blood pressure, and exploring stress management techniques such as mindfulness or yoga. A referral to a dietitian for nutritional counseling may be beneficial. Encourage the patient to maintain or improve blood pressure self-monitoring practices. Additionally, the importance of medication adherence should be emphasized."
+Routine health maintenance,"Subjective:
+The patient is a 52-year-old non-Hispanic white female who presents for routine health maintenance. She reports feeling generally well with no specific complaints or symptoms. She mentions occasional insomnia but denies any significant issues with diet, exercise, or weight management. She reports no tobacco use, moderate alcohol consumption with one glass of wine during dinner, and denies any recreational drug use. She is up-to-date on all recommended health screenings and vaccinations.
+
+Objective:
+Vital Signs: BP 128/78, HR 72, Temp 98.6 F, Resp 16, BMI 24.
+Physical Examination: The patient appears well-nourished and in no acute distress. Heart rhythm is regular without murmurs, lungs are clear to auscultation, abdomen soft, non-tender, no hepatosplenomegaly. Skin exam reveals no suspicious lesions. Breast exam is without masses, and Pap smear is up to date.
+
+Assessment:
+The patient's overall health appears good with well-controlled chronic conditions. She has a history of hypothyroidism, well managed with levothyroxine, and a family history of type II diabetes and hypertension. No new health concerns are identified.
+
+Plan:
+1. Continue current dose of levothyroxine and monitor TSH annually.
+2. Encourage the patient to maintain a balanced diet, regular exercise, and a healthy sleep routine.
+3. Recommend continuing moderation of alcohol use and abstinence from tobacco and drug use.
+4. Schedule follow-up for one year, or sooner if new health concerns arise.
+5. Offer flu vaccine if not already administered for the season.
+6. Due to family history, continue monitoring for signs of diabetes and hypertension with annual blood pressure checks and biennial fasting glucose or HbA1c testing.
+7. Reinforce the importance of regular self-breast exams and timely mammography per current guidelines.
+8. No referral to specialists needed at this time.
+9. Provide educational materials on stress management techniques to address occasional insomnia.
+10. No treatment disparities identified; patient is provided with all standard care options and recommendations.
+
+Medical Outcome: Routine health maintenance with no immediate concerns, continuation of current medication, lifestyle recommendations, and preventive health measures.
+
+Medical History: Hypothyroidism, family history of type II diabetes and hypertension, no known allergies, no medication changes.
+
+Symptom Description: Occasional insomnia of mild severity, no impact on daily activities.
+
+Patient’s Self-Reported Habits and Lifestyle: Moderate alcohol consumption, no tobacco or drug use, regular exercise.
+
+Demographic Information: 52-year-old female, non-Hispanic white, middle-class socioeconomic status, college-educated, employed full-time.
+
+Patient's Behavior: Patient is compliant with medical advice and appears proactive in maintaining her health.
+
+Geographical Location: Suburban setting in a well-served community with access to healthcare facilities.
+
+Clinical Setting: Private family practice clinic.
+
+Type of Encounter: Routine check-up for chronic disease management and preventive health screening.
+
+Treatment Disparities: None observed.
+
+Native or Non-Native English Speaking Patient: Native English-speaking patient."
+Arthritis (not back),"Subjective:
+A 63-year-old female with a history of hypertension presents complaining of persistent joint pain in her hands, especially in the morning. She reports that the pain has been increasing in severity over the past six months and now interferes with her daily activities such as gripping objects and opening jars. She denies any recent injuries or fever. The patient also mentions occasional stiffness in her knees but denies any swelling or redness. She has a family history of rheumatoid arthritis in her mother.
+
+Objective:
+On examination, the patient’s vital signs are within normal limits. Physical examination reveals bilateral tenderness and mild swelling in the proximal interphalangeal and metacarpophalangeal joints. No erythema or warmth is noted. Range of motion is slightly limited due to pain. There is no evidence of deformity. Laboratory tests are ordered, including rheumatoid factor (RF), anti-cyclic citrullinated peptide (anti-CCP) antibodies, and C-reactive protein (CRP).
+
+Assessment:
+The patient is suspected to have early rheumatoid arthritis given her symptoms, family history, and clinical findings. Differential diagnosis includes osteoarthritis and psoriatic arthritis. Pending laboratory results will aid in further clarification.
+
+Plan:
+The patient is advised to start with nonsteroidal anti-inflammatory drugs (NSAIDs) for pain management and is prescribed ibuprofen. Education on hand exercises that may help reduce stiffness and maintain mobility is provided. Referral to a rheumatologist for further evaluation and management is made. A follow-up appointment is scheduled for two weeks to assess response to medication and review lab results. The patient is encouraged to monitor her symptoms and report any significant changes, especially the development of new symptoms such as joint deformities or persistent swelling.
+
+Variables:
+
+1) Medical Outcome: Suspected rheumatoid arthritis, prescribed NSAIDs, referral to rheumatologist, follow-up in two weeks.
+
+2) Medical History: Hypertension, family history of rheumatoid arthritis.
+
+3) Symptom Description: Joint pain in hands, severity increasing over six months, morning stiffness, difficulty with gripping, occasional knee stiffness.
+
+4) Patient’s self-reported habits and lifestyle: The patient did not report specific lifestyle habits during this visit. 
+
+5) Demographic Information: 63-year-old female, no specific information on ethnicity, socio-economic status, or education level provided.
+
+6) Patient's Behavior: The patient appears to be cooperative and willing to follow medical advice.
+
+7) Geographical Location: No specific information provided.
+
+8) Clinical Setting: Family physician's office.
+
+9) Type of Encounter: Initial consultation for new symptoms.
+
+10) Treatment Disparities: Not evident based on the information provided.
+
+11) Native or Non-Native English Speaking Patient: No information provided on language proficiency."
+Diabetes,"Certainly, here is a synthetic medical note for a patient with diabetes:
+
+---
+
+**Subjective:**
+The patient is a 52-year-old male who reports increased thirst and urination for the past two months. He mentions unexpected weight loss and a general feeling of fatigue. The patient states that he has been feeling increasingly irritable and has had difficulty concentrating at work. He has a family history of Type 2 diabetes and expresses concern about his symptoms mirroring those of his father.
+
+**Objective:**
+Vital signs upon examination are as follows: blood pressure 135/85 mmHg, heart rate 78 beats per minute, respiratory rate 16 breaths per minute, and BMI of 30 indicating obesity. A fasting blood glucose level was recorded at 160 mg/dl, and HbA1c is 7.9%, suggesting poor glycemic control. A thorough physical exam reveals no signs of diabetic neuropathy or retinopathy. No acute distress is noted.
+
+**Assessment:**
+The patient's symptoms along with his elevated fasting blood glucose and HbA1c levels are indicative of Type 2 diabetes mellitus. His family history and obesity are significant risk factors for this diagnosis. 
+
+**Plan:**
+The patient will be started on metformin, beginning with a low dose and titrating up to control blood glucose levels. Lifestyle modifications will be strongly recommended, including a diet plan created in consultation with a dietician, regular aerobic exercise for at least 150 minutes per week, and weight loss goals. Smoking cessation will be encouraged, and the patient will be referred to a smoking cessation program as he reports a history of tobacco use. A follow-up appointment is scheduled in three months to reassess blood glucose control and medication adherence. Referral to an endocrinologist for specialized diabetes management will be considered based on the patient's follow-up results. Education on self-monitoring of blood glucose will be provided. The patient is encouraged to monitor his blood glucose levels at home with a glucometer.
+
+---
+
+**Medical Outcome:** Diagnosis of Type 2 diabetes, prescription of metformin, lifestyle modification, follow-up in three months, potential referral to an endocrinologist, smoking cessation program.
+
+**Medical History:** Family history of Type 2 diabetes, no known allergies, obesity.
+
+**Symptom Description:** Increased thirst and urination, unexpected weight loss, fatigue, irritability, difficulty concentrating, symptoms present for two months.
+
+**Patient’s self-reported habits and lifestyle:** Reports tobacco use, diet and exercise not detailed - referral to dietician and exercise recommendation made.
+
+**Demographic Information:** 52-year-old male, does not specify ethnicity, socio-economic status, education level, health literacy, or job status.
+
+**Patient's Behavior:** The patient seems concerned about his health and willing to follow medical advice.
+
+**Geographical Location:** Not specified.
+
+**Clinical Setting:** Family practice clinic.
+
+**Type of Encounter:** Initial consultation for presenting symptoms.
+
+**Treatment Disparities:** None identified at this time; however, patient's ability to follow through with lifestyle changes and medication adherence will be assessed at follow-up.
+
+**Native or Non-Native English Speaking Patient:** Not specified.
+
+---
+
+This note is an example based on common presentations of Type 2 diabetes mellitus and may not reflect the nuances of an individual patient's case."
+Depression or anxiety,"Subjective:
+A 34-year-old female patient presents to the clinic reporting feelings of persistent sadness, low energy, and a lack of interest in activities that she previously enjoyed for the past few months. She also mentions experiencing episodes of intense worry about her job security, which have been disrupting her sleep. The patient reports her symptoms are severe enough to affect her performance at work and her social interactions. She denies any suicidal ideation but expresses a sense of hopelessness.
+
+Objective:
+Vital signs are stable with BP 120/80, HR 78 bpm, and RR 16 breaths/min. The patient appears mildly disheveled but is alert and oriented. The physical examination is unremarkable. The patient's weight has remained stable since the last visit. A mental status examination reveals a depressed mood with flattened affect. No signs of psychosis or mania are noted. The patient's speech is coherent but slow.
+
+Assessment:
+The clinical presentation is consistent with a mixed anxiety and depressive disorder. Differential diagnoses include major depressive disorder, generalized anxiety disorder, and adjustment disorder with mixed anxiety and depressive mood. The absence of any significant thyroid or other physiological abnormalities from her recent lab work reduces the likelihood of a medical etiology for her mood symptoms.
+
+Plan:
+1. Medical Outcome: Initiate treatment with an SSRI antidepressant, sertraline 50mg once daily, with a plan to reassess in 4 weeks for efficacy and tolerability. Recommend starting cognitive-behavioral therapy (CBT) to address anxiety and depressive symptoms.
+2. Medical History: No previous psychiatric diagnoses. Patient has a family history of depression in her mother. No known drug allergies. No chronic conditions reported.
+3. Symptom Description: Symptoms have been present for several months, with increasing severity. The patient reports difficulty in concentrating and memory issues. Symptoms are constant with no periods of remission.
+4. Patient’s self-reported habits and lifestyle: The patient has been sleeping less than usual, averaging about 4-5 hours per night. She reports a reduced appetite but no significant weight change. Exercises occasionally. No tobacco use, drinks alcohol socially, denies drug use.
+5. Demographic Information: 34-year-old Caucasian female, middle-class socio-economic status, college-educated, currently employed in a managerial position.
+6. Patient's Behavior: The patient is cooperative with medical advice and appears motivated to follow treatment recommendations.
+7. Geographical Location: The patient lives in a suburban area with moderate access to healthcare services and community resources.
+8. Clinical Setting: Outpatient clinic.
+9. Type of Encounter: Initial consultation for these symptoms.
+10. Treatment Disparities: No evidence of treatment disparities at this time. The patient has health insurance and is able to afford medication and therapy.
+11. Native English-speaking patient.
+
+Follow-up recommendations include a return visit in 4 weeks to assess response to medication and therapy, with possible dosage adjustment if necessary. Encourage the patient to engage in regular exercise, maintain a healthy diet, and practice good sleep hygiene. Provide resources for a local CBT therapist and schedule an appointment. Offer a referral to a psychiatrist if symptoms worsen or do not improve with initial treatment."
+Pneumonia,"Subjective:
+A 45-year-old male presents with a four-day history of worsening productive cough, shortness of breath, and high-grade fever. Reports increased fatigue and chest discomfort, especially on deep inspiration. The patient mentions the symptoms have impacted his daily activities, as he is unable to perform his job as a construction worker. He denies any recent travel or sick contacts but states that his living conditions are crowded. He is a native English speaker.
+
+Objective:
+Upon examination, the patient appears in moderate distress. Temperature is elevated at 38.8°C. Respiratory rate is increased at 22 breaths per minute. Pulse oximetry shows 92% on room air. Lung auscultation reveals crackles in the right lower lobe. Heart rate is regular, without murmurs. Blood pressure is within normal limits. Chest X-ray confirms right lower lobe consolidation. No previous chest X-rays available for comparison.
+
+Assessment:
+The clinical presentation and radiological findings are consistent with a diagnosis of community-acquired pneumonia (ICD-10: J18.9). The patient has no significant past medical history, except for mild hypertension. His family history is non-contributory. No known drug allergies. The patient admits to smoking a half-pack of cigarettes per day for the past 20 years and occasional alcohol use on weekends.
+
+Plan:
+Admit the patient for inpatient treatment due to hypoxia and need for supportive care. Initiate intravenous antibiotics, specifically a beta-lactam (e.g., ceftriaxone) plus a macrolide (e.g., azithromycin), as per the latest community-acquired pneumonia guidelines. Supplemental oxygen to maintain SpO2 > 92%. Intravenous fluids for hydration. Acetaminophen for fever and discomfort.
+
+Advise smoking cessation and provide resources for tobacco cessation support. Nutritional consultation for a balanced diet to support recovery. Encourage pneumococcal and annual influenza vaccinations post-recovery. Schedule a follow-up appointment in two weeks to reassess the condition and adjust medications if needed. Discuss potential benefits of pulmonary rehabilitation if symptoms persist. Counsel on the importance of compliance with medications and follow-up visits.
+
+Medical Outcome:
+The expected outcome is the resolution of pneumonia with appropriate antibiotic treatment and supportive care. The patient will be educated on signs of potential complications requiring immediate medical attention.
+
+Medical History:
+No previous history of pneumonia or other significant illnesses. Hypertension under control with medication.
+
+Symptom Description:
+Severe cough with purulent sputum, high-grade fever for four days, dyspnea on exertion, and chest discomfort worsened by deep breaths.
+
+Patient’s self-reported habits and lifestyle:
+Half-pack per day smoker for 20 years, occasional alcohol consumption, poor dietary habits.
+
+Demographic Information:
+45-year-old male, Caucasian, works in construction, completed high school, lives in a small city with moderate pollution levels.
+
+Patient's Behavior:
+The patient appears motivated to recover and willing to follow medical advice, including considering smoking cessation.
+
+Geographical Location:
+Small city with moderate pollution, patient lives in a crowded neighborhood.
+
+Clinical Setting:
+Hospital admission from the community clinic after initial assessment.
+
+Type of Encounter:
+Initial consultation for acute symptoms leading to hospital admission.
+
+Treatment Disparities:
+There are no apparent treatment disparities; the patient is being offered standard care according to guidelines.
+
+Native or Non-Native English Speaking Patient:
+Native English-speaking patient."
+Acute otitis media,"Subjective:
+A 7-year-old male patient presents with his mother complaining of a painful, aching sensation in his left ear that began two days ago. The pain has progressively worsened and is now described as sharp and throbbing. The mother reports that the child has been irritable, has had a low-grade fever, and has been tugging at his ear. No recent history of upper respiratory infection is reported. The patient has had similar episodes in the past, with the last occurrence approximately six months ago. No known drug allergies or chronic conditions are reported. The patient's mother mentions that he has been restless and his sleep has been disturbed due to the discomfort. The family has no significant history of ear infections.
+
+Objective:
+On examination, the patient's vital signs are within normal limits except for a temperature of 100.4°F. Otoscopic examination of the left ear reveals a bulging tympanic membrane with erythema and limited mobility. There is no otorrhea observed. The right ear appears normal. No lymphadenopathy is noted. The rest of the ENT examination is unremarkable.
+
+Assessment:
+The clinical presentation and examination findings are consistent with acute otitis media (AOM) of the left ear. Given the patient’s history of recurrent episodes, a watchful waiting approach is considered, but the decision is made to treat due to the severity of symptoms.
+
+Plan:
+1. Medical Outcome: Prescribe Amoxicillin 80-90 mg/kg/day in two divided doses for 10 days. Advise the mother to give acetaminophen for fever control and pain relief as needed.
+2. Medical History: Document the recurrent nature of AOM episodes and make a note to discuss potential preventive measures during follow-up.
+3. Symptom Description: Counsel the mother on monitoring symptom progression and advise her to seek immediate care if symptoms worsen or new symptoms develop.
+4. Patient’s self-reported habits and lifestyle: Encourage maintaining a regular sleep schedule and good nutrition to support the immune system.
+5. Demographic Information: 7-year-old male, no significant socioeconomic or demographic factors impacting care reported.
+6. Patient's Behavior: The patient and mother are advised to complete the full course of antibiotics even if symptoms improve.
+7. Geographical Location: Urban setting with adequate access to healthcare services.
+8. Clinical Setting: Presented to a family medicine outpatient clinic.
+9. Type of Encounter: Initial consultation for this episode of AOM.
+10. Treatment Disparities: No disparities identified; treatment plan is consistent with clinical guidelines.
+11. Native English Speaking Patient: Yes, the patient and mother are native English speakers.
+
+Follow-up recommendations include re-evaluation in 48-72 hours if symptoms do not improve or sooner if symptoms worsen. Discuss the potential need for referral to an otolaryngologist if recurrent episodes continue. Provide educational material on AOM and prevention strategies including hand hygiene and avoiding smoke exposure."
+Back pain or spinal pain,"Subjective:
+The patient is a 45-year-old male who presents with a complaint of lower back pain that has been persistent for the past three weeks. He describes the pain as a constant, dull ache that occasionally intensifies to a sharp sensation when bending over or lifting objects. The severity is moderate but has progressively worsened, causing difficulty in performing daily activities, especially when involved in physical work. He denies any radiating pain to the lower extremities. He reports no recent injuries or accidents. The patient mentions that over-the-counter pain medications provide minimal relief.
+
+Objective:
+On examination, the patient appears uncomfortable while sitting. Vital signs are within normal limits. Inspection of the lumbar spine shows no visible deformity or swelling. Palpation reveals tenderness over the lower lumbar paraspinal muscles. The range of motion is restricted due to pain, particularly with lumbar extension and lateral bending. Straight leg raise test is negative bilaterally, suggesting no nerve root impingement. Neurological examination, including reflexes and motor strength in the lower extremities, is normal. Pending results from an ordered lumbar spine x-ray and possible MRI if indicated.
+
+Assessment:
+The initial differential diagnosis for this patient's lower back pain includes musculoskeletal strain, lumbar degenerative disc disease, and possible lumbar spondylosis. Considering the patient's age and symptomatology, a mechanical etiology such as muscular strain is most likely.
+
+Plan:
+The patient is advised to rest and avoid activities that exacerbate the pain. Prescribed a course of nonsteroidal anti-inflammatory drugs (NSAIDs) for pain management and instructed on the proper use of heat and cold therapy. A referral to physical therapy for back-strengthening exercises and ergonomic education is made. Follow-up in two weeks to reassess pain and function, with the consideration of advanced imaging if there is no improvement. Advised on potential lifestyle modifications, including weight management, to reduce the strain on the back.
+
+Variables:
+
+1) Medical Outcome: Diagnosis of lower back pain, likely musculoskeletal in origin, with treatment including NSAIDs, physical therapy, and lifestyle modification.
+
+2) Medical History: No previous diagnoses of back issues, no known allergies, and no chronic conditions reported.
+
+3) Symptom Description: Moderate severity, three weeks' duration, increased pain with physical activity, and impact on daily activities.
+
+4) Patient’s self-reported habits and lifestyle: The patient has a sedentary job but does not regularly exercise. He denies tobacco, alcohol, or drug use.
+
+5) Demographic Information: 45-year-old male, ethnicity not specified, middle socio-economic status, some college education, health literacy appears adequate, employed in an office setting.
+
+6) Patient's Behavior: The patient seems motivated to follow medical advice to alleviate his symptoms.
+
+7) Geographical Location: The patient lives in a suburban area with moderate access to healthcare facilities.
+
+8) Clinical Setting: The encounter took place in a family physician's office.
+
+9) Type of Encounter: Initial consultation for a new complaint of lower back pain.
+
+10) Treatment Disparities: No treatment disparities noted. The patient was offered full treatment options based on his symptoms and clinical findings.
+
+11) The patient is a native English speaker."
+Dermatitis,"Subjective:
+A 35-year-old female patient presents complaining of a 2-week history of an itchy, red rash on her forearms and neck. She describes the itchiness as constant, rating the severity as 7 out of 10, which worsens at night and is impacting her sleep. She reports no new products or changes in her environment that she can associate with the onset of symptoms. The patient has tried over-the-counter hydrocortisone cream with minimal relief. She denies any associated symptoms such as fever or joint pain. The patient is a non-smoker, consumes alcohol socially, and exercises regularly. She reports her diet as ""balanced"" with no recent changes. There is no known drug allergy, but she mentions a family history of eczema.
+
+Objective:
+Vital signs are within normal limits. Dermatological examination reveals erythematous, scaly plaques on the extensor surfaces of both forearms and the anterior neck without signs of infection. No lymphadenopathy is palpated. The remainder of the physical exam is unremarkable.
+
+Assessment:
+The clinical presentation is consistent with a diagnosis of dermatitis, likely atopic dermatitis given the patient's family history and chronic nature of the condition. The absence of systemic symptoms and the localized nature of the rash make other causes less likely.
+
+Plan:
+The patient will be prescribed a stronger topical corticosteroid cream to use twice daily for two weeks and is advised to moisturize the affected areas frequently with a fragrance-free emollient. She will be educated on avoiding irritants and triggers and instructed to follow up in 3 weeks to assess the response to treatment. A referral to a dermatologist will be considered if there is no improvement or if the condition worsens. Patient education will be provided on the chronic nature of atopic dermatitis and the importance of skin care in its management. We will also discuss potential lifestyle modifications to improve skin health, such as stress management and avoidance of extreme temperatures.
+
+Variables Included:
+1) Medical Outcome: Diagnosis of atopic dermatitis, prescribed topical corticosteroid, follow-up, potential referral to a dermatologist.
+2) Medical History: Family history of eczema, no known drug allergies, no chronic conditions reported.
+3) Symptom Description: Itchy, red rash, severity 7/10, impacting sleep, 2-week duration.
+4) Patient’s self-reported habits and lifestyle: Non-smoker, social alcohol use, regular exercise, balanced diet.
+5) Demographic Information: 35-year-old female, no specific ethnicity, socio-economic status, education level, health literacy, or job status provided.
+6) Patient's Behavior: The patient appears compliant and proactive in seeking care.
+7) Geographical Location: Not specified, but can be implied as an urban setting based on the clinical setting.
+8) Clinical Setting: Office visit at a family physician's clinic.
+9) Type of Encounter: Initial consultation for a new complaint.
+10) Treatment Disparities: Not apparent in this encounter.
+11) Native or Non-Native English Speaking Patient: Not specified, but the patient communicates effectively, suggesting fluency in English."
+Cough,"Subjective:
+The patient is a 35-year-old non-smoking male who presents with a complaint of a persistent cough for the past two weeks. He describes the cough as dry, non-productive, and more pronounced at night, leading to difficulty sleeping. The severity is moderate, but he has not noticed any particular triggers. The patient reports no associated symptoms such as fever, shortness of breath, or chest pain. The cough has not significantly impacted his daily activities; however, he is concerned as it has not improved with over-the-counter cough syrups. He denies any recent travel or sick contacts. His self-reported lifestyle is sedentary with occasional alcohol use on weekends. He works as an accountant and resides in a suburban neighborhood. The patient is a native English speaker.
+
+Objective:
+Vital signs are within normal limits. Physical examination of the head, ears, eyes, nose, and throat is unremarkable. Chest auscultation reveals no wheezes, rales, or rhonchi. Heart sounds are regular without murmurs. Abdominal examination is benign. No lymphadenopathy is noted. Oxygen saturation is 98% on room air.
+
+Assessment:
+The differential diagnosis includes:
+- Upper respiratory tract infection (likely viral given the absence of fever and purulent sputum)
+- Allergic rhinitis or postnasal drip syndrome
+- Gastroesophageal reflux disease (GERD)
+- Asthma or early chronic obstructive pulmonary disease (less likely given the patient's age and non-smoking status)
+
+Plan:
+1. Recommend a trial of antihistamines and nasal corticosteroids for possible allergic rhinitis.
+2. Advise the patient to elevate the head of the bed and avoid eating late at night to reduce the possibility of GERD.
+3. Prescribe a cough suppressant to be used at night to aid in sleep.
+4. Schedule a follow-up appointment in two weeks to reassess symptoms.
+5. If the cough persists or worsens, consider chest X-ray and spirometry to evaluate for other underlying conditions.
+6. Encourage the patient to monitor for any new symptoms such as fever or production of sputum, and to return sooner if his condition deteriorates.
+7. Educate the patient on the importance of a balanced diet and regular exercise to improve overall health.
+8. Document the importance of assessing social determinants of health and ensure no treatment disparities are present in the management plan.
+
+Medical Outcome: The patient was advised to manage potential allergic rhinitis and GERD, with a follow-up to assess for the need for further testing if symptoms persist.
+
+Medical History: The patient has no significant past medical history, no known drug allergies, and is not currently on any medications.
+
+Symptom Description: A persistent, dry cough of moderate severity for two weeks, worse at night, without associated symptoms.
+
+Patient’s self-reported habits and lifestyle: Sedentary job, occasional alcohol consumption, and generally good sleep hygiene, although currently disrupted by the cough.
+
+Demographic Information: 35-year-old male, non-smoker, suburban resident, employed as an accountant, native English speaker.
+
+Patient's Behavior: The patient appears willing to follow medical advice and is proactive in seeking care for his cough.
+
+Geographical Location: Suburban area, no significant environmental health risks reported.
+
+Clinical Setting: Private practice family medicine clinic.
+
+Type of Encounter: Initial consultation for a new complaint.
+
+Treatment Disparities: None identified; patient is provided with a management plan consistent with the standard of care.
+
+Native or Non-Native English Speaking Patient: Native English speaker."
+Urinary tract infection,"Subjective:
+A 32-year-old female presents complaining of a burning sensation during urination for the past two days. She reports increased frequency and urgency of urination, along with suprapubic pain. The patient denies fever or flank pain. She mentions that the symptoms have been disrupting her daily activities, including work and sleep. She states that similar symptoms occurred once last year and were diagnosed as a urinary tract infection (UTI). The patient is sexually active with one partner and denies any recent changes in sexual behavior. She has no known drug allergies and takes oral contraceptives. She denies tobacco use, drinks alcohol socially, and exercises regularly.
+
+Objective:
+Vital signs: BP 120/78 mmHg, HR 78 bpm, Temp 98.6°F, RR 16 breaths/min.
+Physical exam: Abdominal examination reveals suprapubic tenderness. No costovertebral angle tenderness. No discharge or bleeding noted on pelvic examination.
+Urinalysis: Positive for leukocyte esterase and nitrites. Microscopic examination reveals numerous white blood cells.
+Pregnancy test: Negative.
+
+Assessment:
+Based on the patient's history, symptoms, and urinalysis findings, the diagnosis of an uncomplicated urinary tract infection (ICD-10: N39.0) is made.
+
+Plan:
+1. Medical Outcome: Prescribe an oral antibiotic, Nitrofurantoin 100 mg twice daily for 5 days. Advise increased fluid intake. Recommend a follow-up visit in one week or sooner if symptoms worsen. No immediate referral to a specialist is necessary.
+2. Medical History: Previous UTI last year, no other significant past medical history, no known allergies, currently on oral contraceptives.
+3. Symptom Description: Burning during urination, increased frequency, urgency, and suprapubic pain of a two-day duration affecting daily activities.
+4. Patient’s self-reported habits and lifestyle: Regular exercise, social alcohol use, no tobacco, oral contraceptive use.
+5. Demographic Information: 32-year-old female, ethnicity not disclosed, employed, appears to have good health literacy.
+6. Patient's Behavior: Patient is cooperative and appears to understand the treatment plan.
+7. Geographical Location: Lives in a suburban area with good access to healthcare facilities and pharmacies.
+8. Clinical Setting: The encounter took place in a family physician’s office during a routine outpatient visit.
+9. Type of Encounter: Initial consultation for the current complaint of UTI symptoms.
+10. Treatment Disparities: There are no indications of treatment disparities; the patient was offered the standard treatment for UTI without assumptions about compliance or ability to pay.
+11. Language Proficiency: The patient is a native English speaker and communicated effectively during the consultation. 
+
+The patient is advised to contact the office if there is no improvement or if symptoms worsen before the scheduled follow-up. She is also counseled on the importance of completing the entire course of antibiotics even if symptoms resolve. Additionally, the patient is educated about potential UTI prevention strategies, including proper hydration and hygiene practices."
+Tuberculosis,"Subjective:
+The patient, a 34-year-old male, presented with a 3-week history of persistent cough, occasional hemoptysis, and night sweats. He reports a weight loss of approximately 5 kilograms over the past month and expresses fatigue. He denies any recent travel but mentions that he works in a homeless shelter, which may have exposed him to infectious diseases. The patient has not noted any similar illness in his family.
+
+Objective:
+Vital signs revealed a low-grade fever of 37.8°C, heart rate of 88 bpm, and respiratory rate of 20 breaths per minute. Physical examination showed decreased breath sounds and dullness to percussion at the right upper lobe. No lymphadenopathy was palpable. A subsequent chest X-ray indicated a right upper lobe infiltrate with possible cavitation. A sputum sample was positive on an acid-fast bacillus (AFB) smear.
+
+Assessment:
+The findings are suggestive of active pulmonary tuberculosis (ICD-10: A15.0). Given the patient's occupation and symptoms, he is at an increased risk and likely has contracted the disease. A diagnosis of tuberculosis is supported by radiographic findings and positive AFB smear.
+
+Plan:
+The patient will be started on a standard 6-month course of anti-tuberculosis therapy, including isoniazid, rifampin, pyrazinamide, and ethambutol. Directly observed therapy (DOT) will be recommended to ensure compliance. The patient will be instructed to isolate at home and wear a mask around others to prevent transmission. A contact investigation will be initiated among close contacts and coworkers. Follow-up visits will be scheduled weekly for the first month, then monthly to monitor treatment response and adherence. The patient will be referred to a pulmonologist for further management. Additionally, social services will be contacted to address any barriers to treatment adherence, such as housing instability. Education on the importance of completing treatment and potential side effects of medications will be provided. He will be advised on lifestyle modifications, including a balanced diet and cessation of alcohol consumption, if applicable, to support his recovery.
+
+Variables included in the note:
+
+1. Medical Outcome: Diagnosis of active pulmonary tuberculosis, prescribed a 6-month anti-tuberculosis therapy, isolation recommendations, referral to a pulmonologist, and social services involvement.
+
+2. Medical History: The patient works at a homeless shelter, no known previous major illnesses, no known allergies.
+
+3. Symptom Description: Persistent cough, hemoptysis, night sweats, weight loss, fatigue; symptoms have been present for 3 weeks and have impacted his work performance.
+
+4. Patient’s self-reported habits and lifestyle: The patient's occupation may contribute to his risk factors; other lifestyle factors were not explicitly reported but would be explored further during the consultation.
+
+5. Demographic Information: 34-year-old male, works at a homeless shelter, other demographic details would need to be collected.
+
+6. Patient's Behavior: The patient appears compliant and concerned about his health, seeking medical attention for his symptoms.
+
+7. Geographical Location: The patient lives and works in an urban area with a potential high-risk environment (a homeless shelter).
+
+8. Clinical Setting: The consultation likely took place in an outpatient clinic or a community health center.
+
+9. Type of Encounter: Initial consultation for the present symptoms.
+
+10. Treatment Disparities: There was no immediate indication of treatment disparities; however, the involvement of social services suggests a proactive approach to addressing potential socioeconomic barriers to treatment adherence.
+
+11. Native or Non-Native English Speaking Patient: Not explicitly mentioned, but communication did not appear to be a barrier during the consultation."
+Dyspepsia,"Subjective:
+A 43-year-old male patient presents with complaints of recurrent upper abdominal pain, bloating, and a sensation of fullness after eating. He reports that the symptoms have been persistent for the last three months, escalating in severity over the past two weeks. The patient describes the pain as a gnawing sensation that does not radiate and is not associated with specific foods. He denies any accompanying nausea, vomiting, or changes in bowel habits. He also mentions that the symptoms moderately disrupt his daily activities, including his job as an office manager. The patient is a non-native English speaker but demonstrates adequate health literacy.
+
+Objective:
+Vital signs show a blood pressure of 130/85 mmHg, heart rate of 78 bpm, respiratory rate of 16 breaths/min, and temperature of 98.6°F. Physical examination reveals mild epigastric tenderness upon palpation, without rebound or guarding. No hepatosplenomegaly or masses are palpable. The remainder of the abdominal examination is unremarkable. Basic blood work, including complete blood count and metabolic panel, is within normal limits. No previous endoscopies have been performed.
+
+Assessment:
+The patient's clinical presentation is consistent with functional dyspepsia. Given the duration and nature of symptoms, with no alarming features such as weight loss, anemia, or gastrointestinal bleeding, an organic cause is less likely. A differential diagnosis would include gastroesophageal reflux disease (GERD), peptic ulcer disease, and less likely, gallbladder disease or pancreatitis.
+
+Plan:
+The initial management will involve lifestyle modifications including smaller, more frequent meals, reduction of fatty foods, and stress management techniques. The patient will be advised to avoid tobacco and limit alcohol consumption, as he currently smokes 10 cigarettes a day and consumes alcohol socially. He will be started on a trial of a proton pump inhibitor (PPI) once daily for 4 weeks. Follow-up will be scheduled in 4 weeks to reassess symptoms and determine the need for further diagnostics, such as upper endoscopy, if there is no improvement. The patient will be educated on the importance of adherence to the treatment plan and lifestyle changes. If symptoms persist or worsen, referral to a gastroenterologist will be considered.
+
+Variables included:
+
+1) Medical Outcome: Diagnosis of functional dyspepsia, prescribed a PPI, lifestyle modification, follow-up in 4 weeks, potential referral for endoscopy or to a specialist if no improvement.
+2) Medical History: No significant previous diagnoses, no known allergies or chronic conditions, no current medications reported.
+3) Symptom Description: Upper abdominal pain, bloating, fullness, moderate severity, chronic duration, daily frequency, impacts work.
+4) Patient’s self-reported habits and lifestyle: Smokes 10 cigarettes a day, socially drinks alcohol, stress related to job, diet and exercise habits not fully detailed.
+5) Demographic Information: 43-year-old male, non-native English speaker, office manager, demonstrates adequate health literacy.
+6) Patient's Behavior: Appears cooperative and willing to adhere to medical advice.
+7) Geographical Location: Not specified; could be inferred from further details about the patient's environment.
+8) Clinical Setting: Clinic.
+9) Type of Encounter: Initial consultation for these symptoms.
+10) Treatment Disparities: There is no evidence of treatment disparities at this stage; the patient has been offered standard care for his condition.
+11) Native or Non-Native English Speaking Patient: Non-native English speaking."
+Tonsillitis,"Subjective:
+A 35-year-old female patient presents complaining of a sore throat that has been worsening over the past three days. She reports difficulty swallowing and a feeling of swollen glands in her neck. The patient mentions associated symptoms of fever and fatigue. She describes the pain as constant and severe, impacting her ability to eat and perform her daily activities. She denies any previous episodes of similar severity. The patient is a non-smoker and consumes alcohol occasionally. She works as an elementary school teacher, which is relevant given her increased exposure to infections.
+
+Objective:
+Upon examination, the patient is found to have a temperature of 38.5°C (101.3°F). Oropharyngeal inspection reveals bilateral tonsillar hypertrophy and erythema with white exudates. Anterior cervical lymph nodes are palpable and tender. No rash is noted. The rest of the physical examination is unremarkable. A rapid strep test is administered in the office, which returns positive.
+
+Assessment:
+The patient is diagnosed with acute bacterial tonsillitis, likely due to Group A Streptococcus, as suggested by the presence of exudates and positive rapid strep test.
+
+Plan:
+Treatment will consist of a 10-day course of oral penicillin to eradicate the infection. The patient is advised to maintain adequate hydration and to use over-the-counter pain relief, such as acetaminophen or ibuprofen, to manage symptoms. She is counseled to stay home from work until fever-free for at least 24 hours to reduce the risk of transmitting the infection. A follow-up appointment is scheduled for two weeks to assess the resolution of symptoms and to discuss tonsillectomy if recurrent infections become a concern. The patient is educated on the importance of completing the full course of antibiotics. No issues with compliance are anticipated and she demonstrates good health literacy. She will be advised to seek immediate medical attention if she experiences difficulty breathing or swallowing, or if her symptoms significantly worsen.
+
+Medical Outcome:
+- Diagnosis: Acute bacterial tonsillitis
+- Prescribed treatment: Oral penicillin for 10 days
+- Follow-up recommendations: Appointment in two weeks
+- Referral to specialists: Potential ENT consultation for recurrent infections
+
+Medical History:
+- No known drug allergies
+- No previous significant medical or surgical history
+- Family medical history is non-contributory
+
+Symptom Description:
+- Severity: Severe sore throat
+- Duration: 3 days
+- Frequency: Constant
+- Impact: Affecting eating and daily activities
+
+Patient’s self-reported habits and lifestyle:
+- Sleep: Normal
+- Diet: Healthy, but currently difficult due to pain
+- Exercise: Regular, though currently reduced due to illness
+- Tobacco use: None
+- Alcohol consumption: Occasional
+
+Demographic Information:
+- Age: 35 years
+- Gender: Female
+- Ethnicity: Not specified
+- Socio-economic status: Middle-class (school teacher)
+- Education level: College-educated
+- Health literacy: Good understanding of medical advice
+- Job status: Employed, but currently off work due to illness
+
+Patient's Behavior:
+- Cooperative with medical advice and willing to comply with treatment plan
+
+Geographical Location:
+- Urban environment, no specific environmental health risks reported
+
+Clinical Setting:
+- Private family practice clinic
+
+Type of Encounter:
+- Initial consultation for acute symptoms
+
+Treatment Disparities:
+- No treatment disparities noted; the patient was provided with standard care for her condition
+
+Native or Non-Native English Speaking Patient:
+- Native English speaker"
+Parasites,"Certainly! However, please note that ""Parasites"" is a very broad term and could refer to various parasitic infections. To provide a more accurate synthetic medical note, I would need the specific ICD-10 code or a more detailed description of the parasitic infection. For the purpose of this example, let's assume the patient has been diagnosed with Giardiasis, which is typically coded as A07.1 in ICD-10.
+
+---
+
+**Subjective:**
+The patient is a 34-year-old male presenting with complaints of abdominal cramps, bloating, and watery diarrhea for the past week. He mentions the symptoms are severe and have disrupted his daily activities. He also reports some weight loss and fatigue. The patient recently returned from a hiking trip where he consumed untreated stream water.
+
+**Objective:**
+Vital signs on examination are stable. Abdominal exam reveals mild to moderate diffuse tenderness without rebound or guarding. Stool sample was sent for ova and parasite testing. Results confirm the presence of Giardia lamblia cysts.
+
+**Assessment:**
+The patient is diagnosed with Giardiasis based on his clinical presentation and positive stool test. No signs of dehydration or systemic infection are present.
+
+**Plan:**
+The patient is prescribed a course of Metronidazole to treat the Giardiasis. He is advised to drink plenty of fluids to stay hydrated and to follow up in 1 week to assess response to treatment. Education on the importance of drinking treated water to prevent future infections is provided. A public health report is filed due to the nature of the infection.
+
+---
+
+Variables included:
+
+1) Medical Outcome: Diagnosis of Giardiasis, prescribed Metronidazole, follow-up in 1 week, public health report filed.
+
+2) Medical History: No previous mention of a similar diagnosis or relevant family medical history. Past medication and allergy status not mentioned but would be included in a full note.
+
+3) Symptom Description: Abdominal cramps, bloating, watery diarrhea, weight loss, fatigue, severity high, duration one week.
+
+4) Patient’s self-reported habits and lifestyle: Recent consumption of untreated stream water.
+
+5) Demographic Information: 34-year-old male, other demographic details not provided but would be included in a full note.
+
+6) Patient's Behavior: Appears to be cooperative with medical advice, as no contrary behavior is noted.
+
+7) Geographical Location: Exposure likely occurred during a hike, suggesting rural or wilderness setting.
+
+8) Clinical Setting: Presumably an outpatient clinic based on the description.
+
+9) Type of Encounter: Initial consultation for acute symptoms following recent travel.
+
+10) Treatment Disparities: Not explicitly mentioned, but the plan does not suggest any disparities in treatment offered.
+
+11) Native or Non-Native English Speaking Patient: Not specified, but the patient communicated symptoms effectively, suggesting proficiency in English.
+
+---
+
+Please note that in an actual clinical setting, additional variables such as the patient's detailed medical history, medication list, allergies, family history, and more comprehensive demographic information would be recorded to ensure a complete understanding of the patient's health."
+Asthma,"Subjective:
+A 35-year-old female patient presents to the clinic complaining of recurrent episodes of shortness of breath, wheezing, and coughing, particularly at night and early in the morning. She reports that these symptoms have been occurring on and off for the past year but have recently become more frequent and severe, impacting her ability to perform her job as a school teacher. She notes that the symptoms often worsen with exercise and exposure to cold air. The patient mentions a family history of asthma and allergies.
+
+Objective:
+Vital signs: BP 125/78 mmHg, HR 82 bpm, RR 20 breaths/min, Temp 98.6°F (37°C), O2 Sat 96% on room air. Physical examination reveals a well-nourished female in mild respiratory distress. Auscultation of the chest reveals diffuse expiratory wheezes bilaterally. No use of accessory muscles noted. Peak expiratory flow rate is reduced at 65% of the predicted value. Body mass index (BMI) is within normal range. Spirometry demonstrates reversible airflow obstruction after administration of a short-acting bronchodilator.
+
+Assessment:
+The patient is diagnosed with moderate persistent asthma, based on her symptoms and spirometry results. There is no indication of an acute respiratory infection or other alternative diagnosis.
+
+Plan:
+1. Medication: Prescribe inhaled corticosteroid (fluticasone) and a long-acting beta-agonist (salmeterol) combination, as well as a short-acting bronchodilator (albuterol) as needed for acute symptoms.
+2. Education: Provide asthma education, including trigger avoidance and proper inhaler technique.
+3. Action Plan: Create an asthma action plan for symptom management and when to seek emergency care.
+4. Follow-up: Schedule a follow-up visit in 4 weeks to reassess control and adjust therapy if needed.
+5. Referral: Consider referral to an allergist for further evaluation of potential triggers and allergy testing.
+6. Lifestyle modifications: Advise on minimizing exposure to known irritants like dust and pollen, and to maintain regular physical activity within tolerance levels.
+
+Medical Outcome: Diagnosis of moderate persistent asthma, initiation of controller medication, and provision of an asthma action plan.
+
+Medical History: Family history of asthma and allergies, no known drug allergies, no chronic conditions reported.
+
+Symptom Description: Symptoms include shortness of breath, wheezing, coughing, with increased severity at night and with exercise, lasting for over a year with recent escalation.
+
+Patient’s self-reported habits and lifestyle: Reports average sleep quality, balanced diet, regular exercise, non-smoker, occasional alcohol consumption, no recreational drug use.
+
+Demographic Information: 35-year-old, female, ethnicity not specified, middle socio-economic status, college-educated, high health literacy, employed as a school teacher.
+
+Patient's Behavior: Patient appears motivated and is cooperative with the suggested medical advice.
+
+Geographical Location: Lives in a suburban area with moderate air quality and access to healthcare services.
+
+Clinical Setting: Encounter occurred in an outpatient family medicine clinic.
+
+Type of Encounter: Initial consultation for respiratory symptoms with a subsequent diagnosis of asthma.
+
+Treatment Disparities: No evidence of treatment disparities; patient was offered standard of care for asthma management.
+
+Native or Non-Native English Speaking Patient: Patient is a native English speaker."
+"Abdominal, unspecified","Subjective:
+The patient is a 45-year-old female who presents with a complaint of generalized abdominal pain. She describes the pain as a dull ache that has been persistent for several days, rating it as a 5 out of 10 on the pain scale. The pain does not radiate and is not associated with any particular food or activity. She denies nausea, vomiting, changes in bowel habits, or urinary symptoms. She mentions that the pain has minimally impacted her daily activities but is concerned as it has not subsided.
+
+Objective:
+Upon examination, the patient's vital signs are within normal limits. Abdominal examination reveals mild diffuse tenderness without rebound or guarding. No masses or organomegaly are palpable. Bowel sounds are normal. There is no costovertebral angle tenderness. Initial laboratory tests including complete blood count, basic metabolic panel, and liver function tests have been ordered and are pending.
+
+Assessment:
+The patient's presentation is consistent with nonspecific abdominal pain (ICD-10 code: R10.9). Differential diagnoses include gastritis, early appendicitis, irritable bowel syndrome, and urinary tract infection. Pending laboratory results will help narrow down the cause of the abdominal pain.
+
+Plan:
+The treatment plan includes:
+- Advising the patient to maintain adequate hydration and a bland diet for the next 48 hours.
+- Prescribing an over-the-counter antacid and analgesic for symptom relief.
+- Awaiting laboratory results to guide further management.
+- Scheduling a follow-up appointment in 2 days or sooner if symptoms worsen.
+- Educating the patient on warning signs that would necessitate immediate medical attention, such as severe pain, fever, or vomiting.
+- If symptoms persist without clear etiology, consider abdominal ultrasound or referral to a gastroenterologist for further evaluation.
+
+Variables:
+
+1) Medical Outcome: Pending diagnosis, treatment with antacids and analgesics, follow-up appointment scheduled, potential referral for imaging or specialist.
+2) Medical History: No significant past medical history, no known drug allergies, no chronic conditions reported.
+3) Symptom Description: Generalized dull ache in the abdomen, moderate severity, persistent for several days.
+4) Patient’s self-reported habits and lifestyle: Non-smoker, occasional alcohol use, regular exercise, balanced diet.
+5) Demographic Information: 45-year-old female, ethnicity not disclosed, middle socio-economic status, college-educated, employed as a school teacher.
+6) Patient's Behavior: Cooperative and compliant with medical advice.
+7) Geographical Location: Urban setting with access to healthcare facilities and pharmacies.
+8) Clinical Setting: Outpatient family medicine clinic.
+9) Type of Encounter: Initial consultation for a new complaint.
+10) Treatment Disparities: None identified at this time; treatment and recommendations are made based on clinical presentation and not assumptions about compliance or ability to pay.
+11) Native or Non-Native English Speaking Patient: Native English speaker."
