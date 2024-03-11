@@ -1,0 +1,430 @@
+Disease Description,Scenario,Note,Role
+Shortness of Breath,"ROLE: General Physician
+
+1) Medical Outcome: Diagnosis of bronchitis, prescribed treatment is oral Amoxicillin 500mg, three times daily for 7 days, quantity 21 tablets; Inhaler Salbutamol, two puffs every 4-6 hours as needed for wheezing. Follow-up recommendation in 2 weeks or sooner if symptoms worsen. Order for chest X-ray, Posteroanterior (PA) and lateral views, to rule out pneumonia.
+   
+2) Medical History: No previous hospitalizations or diagnoses, no known drug allergies, non-smoker, no family history of asthma or COPD.
+   
+3) Symptom Description: Moderate shortness of breath, worsening over the past 5 days, associated with productive cough, no chest pain, frequency increasing, impacting ability to perform vigorous activities.
+   
+4) Patient’s self-reported habits and lifestyle: Adequate sleep, balanced diet, engages in moderate exercise, denies tobacco or excessive alcohol use, no illicit drug use, enjoys biking on weekends.
+   
+5) Demographic Information: 35-year-old, female, Caucasian, middle socio-economic status, college education, good health literacy, employed as a school teacher.
+
+6) Patient's Behavior: The patient is concerned about her symptoms and appears motivated to follow medical advice and instructions for medication administration.
+
+7) Geographical Location: Suburban environment, low pollution, middle-class neighborhood, well-served by public transit, no immediate health risks identified in the area.
+   
+8) Clinical Setting: Primary care clinic.
+   
+9) Type of Encounter: Initial consultation for new onset of symptoms.
+   
+10) Treatment Disparities: No obvious disparities observed; patient appears able to comprehend and follow the treatment plan, with insurance coverage expected to cover prescribed medications and tests.
+   
+11) Native English-Speaking Patient: Yes.
+   
+12) Physical Exams: Respiratory examination revealed bilateral wheezing on auscultation, no cyanosis, respiratory rate 20 breaths per minute.
+   
+13) Investigation/Test Results: Chest X-ray ordered, results pending; no other tests performed at this visit.","Subjective:
+A 35-year-old Caucasian female, middle socio-economic status, employed as a school teacher, presents with symptoms of moderate shortness of breath that has been worsening over the past five days. The patient reports an associated productive cough, increased frequency of coughing, and an impact on her ability to perform vigorous activities. She denies chest pain. She reports no previous hospitalizations or medical diagnoses and has no known drug allergies. The patient is a non-smoker with no family history of asthma or COPD and denies tobacco, excessive alcohol use, and any illicit drug use. She maintains a balanced diet, gets adequate sleep, engages in moderate exercise regularly, and enjoys biking on weekends. The patient is concerned about her symptoms and appears motivated to adhere to medical advice.
+
+Objective:
+Physical examination reveals the patient to be in no acute distress. Bilateral wheezing is noted on auscultation of the lungs; however, there is no cyanosis. Respiratory rate is 20 breaths per minute. Vital signs and other objective data are within normal limits or unremarkable. A chest X-ray has been ordered with Posteroanterior (PA) and lateral views to rule out pneumonia, which is currently pending 
+
+Assessment:
+The patient's clinical presentation and history are suggestive of bronchitis. Differential diagnoses include asthma and pneumonia; however, the lack of personal or family history of asthma and absence of chest pain make bronchitis more likely. Pending chest X-ray results will further aid in ruling out pneumonia.
+
+Plan:
+1. Prescribe Amoxicillin 500mg orally, three times daily for 7 days (total quantity of 21 tablets) to target bacterial infection.
+2. Provide Salbutamol inhaler, instructing the patient to take two puffs every 4-6 hours as needed for wheezing.
+3. Recommend a follow-up appointment in 2 weeks or sooner if symptoms worsen.
+4. Chest X-ray results will need to be reviewed once available.
+5. Educate the patient on the importance of rest, hydration, and adherence to medication.
+6. Advise the patient to avoid any irritants that may exacerbate her respiratory symptoms.
+7. Confirm with the patient that insurance coverage is anticipated to cover prescribed medications and tests, and there are no treatment disparities.
+8. Encourage the patient to seek medical attention immediately should she experience any worsening symptoms, such as increased breathlessness, chest pain, or fever. 
+
+The treatment plan will be re-evaluated based on the patient's response to medications and the results of her chest X-ray.",General Physician
+Shortness of Breath,"ROLE: Family Medicine Physician
+
+1) Medical Outcome: Diagnosis of acute exacerbation of chronic obstructive pulmonary disease (COPD), prescribed treatment: inhaler (Albuterol, 90 mcg, 2 puffs every 4-6 hours as needed for shortness of breath, 200 doses per canister, inhalation route), follow-up recommendations: outpatient follow-up in 1 week, referral to pulmonologist for COPD management, order for Chest X-ray (PA and lateral) to assess lung status.
+
+2) Medical History: Known diagnosis of COPD, hypertension, family history of coronary artery disease, medication history includes tiotropium bromide, lisinopril, allergies to penicillin, no chronic conditions other than those mentioned.
+
+3) Symptom Description: Severity - moderate shortness of breath on exertion, duration - worsening over the past week, associated symptoms - productive cough, frequency - daily, impact on daily activities - limits ability to walk short distances.
+
+4) Patient’s self-reported habits and lifestyle: Sleep - 6 hours per night, diet - high sodium, exercise - limited due to dyspnea, tobacco use - 30 pack-year smoking history, quit 2 years ago, no alcohol use, no drug use, recreational activities - mostly sedentary activities due to respiratory limitations.
+
+5) Demographic Information: Age - 68 years, gender - male, ethnicity - Caucasian, socio-economic status - retired, lives on a pension, education level - high school diploma, health literacy - moderate, job status - retired due to illness.
+
+6) Patient's Behavior: Patient generally follows medical advice but has difficulties with smoking cessation in the past.
+
+7) Geographical Location: Small city, urban setting, moderate pollution, lives in a senior living community with good access to transit.
+
+8) Clinical Setting: Outpatient community health services.
+
+9) Type of Encounter: Follow-up for chronic disease management.
+
+10) Treatment Disparities: No current evidence of treatment disparities, patient has Medicare insurance which covers most medical expenses.
+
+11) Native English Speaking Patient: Yes.
+
+12) Physical exams: Pulmonary auscultation revealing reduced breath sounds and prolonged expiration, use of accessory muscles for breathing.
+
+13) Investigation/Test results: Awaiting results of Chest X-ray, previous spirometry indicating FEV1/FVC ratio < 70%.","Subjective:
+The patient is a 68-year-old Caucasian male with a known history of COPD and hypertension, presenting with moderate shortness of breath on exertion that has worsened over the past week. He reports a productive cough with daily occurrences and states that his symptoms are limiting his ability to walk even short distances. The patient has a 30 pack-year smoking history but quit two years ago. He is retired, lives on a pension in a small city, and describes his daily activities as mostly sedentary due to respiratory limitations. He follows a diet high in sodium and exercises minimally due to dyspnea. The patient is generally compliant with medical advice but had previous difficulties with stopping smoking. He has allergies to penicillin and no other chronic conditions have been reported. The patient sleeps about 6 hours per night and is a native English speaker with moderate health literacy.
+
+Objective:
+On examination, there is reduced breath sound with prolonged expiration and evidence of the use of accessory muscles for breathing. His FEV1/FVC ratio from previous spirometry is less than 70%, confirming the diagnosis of COPD, with an awaited Chest X-ray (PA and lateral) for further lung status assessment. The patient has a stable blood pressure controlled on lisinopril, and is currently taking tiotropium bromide for COPD with no known drug interactions or complications.
+
+Assessment:
+Diagnosis of acute exacerbation of chronic obstructive pulmonary disease (COPD) in a 68-year-old male with significant smoking history and comorbidity of hypertension. The exacerbation is characterized by worsening shortness of breath, daily productive cough, and activity limitation.
+
+Plan:
+1. Prescribe Albuterol inhaler (90 mcg, 2 puffs every 4-6 hours as needed for shortness of breath).
+2. Order a Chest X-ray (PA and lateral) to assess lung status.
+3. Instruct the patient on the proper use of the Albuterol inhaler and the importance of monitoring for potential side effects.
+4. Schedule outpatient follow-up in 1 week to reassess symptoms and review Chest X-ray results.
+5. Refer to a pulmonologist for comprehensive COPD management, including revisiting the management of exacerbation and regular monitoring.
+6. Reinforce smoking cessation, the importance of pulmonary rehabilitation, and discuss the potential benefits of enrolling in a smoking cessation program if needed.
+7. Counsel on diet modification to decrease sodium intake and gradual increase of light exercise as tolerated.
+8. Ensure that the patient's Medicare insurance coverage is checked for the referred services.
+9. Provide written and verbal instructions in regards to treatment changes and follow-up appointments, ensuring instructions are clear to accommodate his moderate health literacy level.",Family Medicine Physician
+Shortness of Breath,"ROLE: Family Medicine Physician
+
+Scenario:
+
+1) Medical Outcome: Diagnosis of acute bronchitis, prescribed treatment: Amoxicillin 500 mg orally, 3 times a day for 10 days, 30 tablets in total. Advised lifestyle change to include increased fluid intake and rest. Follow-up recommended in 1 week or sooner if symptoms worsen. No referral to specialists at this time. Chest X-ray ordered to rule out pneumonia, PA and lateral views.
+
+2) Medical History: Previous diagnoses include seasonal allergies, no known drug allergies, family history of hypertension, no chronic conditions.
+
+3) Symptom Description: Experiencing moderate shortness of breath, started 4 days ago, intermittent, worse in the morning, associated with mild cough, impacting daily activities like climbing stairs.
+
+4) Patient’s self-reported habits and lifestyle: Reports recent poor sleep quality, diet rich in processed foods, exercises infrequently, non-smoker, occasional alcohol use, no illicit drug use, enjoys walking as a recreational activity.
+
+5) Demographic Information: Age 45, Female, Mixed ethnicity, Middle socio-economic status, College-educated, Moderate health literacy, Employed as a school teacher.
+
+6) Patient's Behavior: Cooperative with medical advice, expresses eagerness to improve symptoms.
+
+7) Geographical Location: Suburban location, moderate pollution, neighborhood is middle-class, well-served by transit, no significant environmental health risks identified.
+
+8) Clinical Setting: Outpatient clinic.
+
+9) Type of Encounter: Initial consultation for acute symptoms.
+
+10) Treatment Disparities: No treatment disparities noted; treatment offered in line with standard guidelines.
+
+11) Non-Native English Speaking Patient: Speaks English fluently, language not a barrier to care.
+
+12) Physical exams: Bilateral wheezing on auscultation, no signs of respiratory distress, no use of accessory muscles, SpO2 at 97% on room air.
+
+13) Investigation/Test results: Chest X-ray results pending, no other tests done at this time.","Subjective: 
+A 45-year-old female presents with a 4-day history of moderate shortness of breath, which is worse in the morning and associated with a mild cough. The breathlessness has impacted her daily activities, such as climbing stairs. She also reports a recent period of poor sleep quality and regular consumption of processed foods. She exercises infrequently but enjoys walking. The patient is a non-smoker, consumes alcohol occasionally, and denies illicit drug use. Her past medical history is notable for seasonal allergies. She has no known drug allergies and a family history of hypertension. She works as a school teacher, is college-educated with moderate health literacy, lives in a suburban area with moderate pollution, and is of mixed ethnicity and middle socio-economic status. The patient is cooperative, appears eager to improve her symptoms, and speaks English fluently.
+
+Objective: 
+Vital signs are within normal limits, except for bilateral wheezing on auscultation. There is no sign of respiratory distress, no use of accessory muscles for breathing, and SpO2 is 97% on room air. Physical examination findings are otherwise unremarkable. A chest X-ray has been ordered to rule out pneumonia, with PA and lateral views. 
+
+Assessment: 
+Given the clinical presentation and physical examination findings, the patient is assessed with acute bronchitis. There is no indication at this time for a more serious condition like pneumonia, although a chest X-ray has been ordered as a precaution.
+
+Plan: 
+The patient is prescribed Amoxicillin 500 mg orally, three times a day for 10 days, with a total of 30 tablets. Lifestyle modifications are recommended to increase fluid intake and ensure adequate rest. A follow-up appointment is recommended in 1 week, or sooner if symptoms worsen. No referral to a specialist is deemed necessary at this time. The patient will be contacted with results of the chest X-ray when available and given further instructions as needed.",Family Medicine Physician
+Shortness of Breath,"ROLE: Family Medicine Physician
+
+Scenario:
+
+1) Medical Outcome: Patient diagnosed with acute bronchitis; prescribed treatment includes an inhaler albuterol 90 mcg, use two puffs every 4-6 hours as needed for wheezing or shortness of breath, quantity 1 inhaler, route inhaled. Follow-up recommendation: return visit in 10 days to reassess symptoms. Additional recommendation for rest, increased fluid intake, and humidifier use at home.
+
+2) Medical History: Past diagnosis of seasonal allergies, no known drug allergies, history of intermittent asthma, family history of COPD.
+
+3) Symptom Description: Patient reports moderate shortness of breath with exertion, a productive cough for the last 3 days, infrequent wheezing, affects ability to perform daily activities like walking up stairs.
+
+4) Patient's self-reported habits and lifestyle: Sleeps 6-7 hours per night, high-fat diet with periodic fast food consumption, walks occasionally, non-smoker, social alcohol use on weekends.
+
+5) Demographic Information: 52-year-old, female, Caucasian, middle socio-economic status, college-educated, good health literacy, employed as a school teacher.
+
+6) Patient's Behavior: Patient is compliant with medical advice and interested in improving her health.
+
+7) Geographical Location: Suburban area, moderately polluted due to nearby traffic, lives in an area well-served by transit, not a food desert.
+
+8) Clinical Setting: Primary care clinic.
+
+9) Type of Encounter: Initial consultation for the current episode of shortness of breath and cough.
+
+10) Treatment Disparities: No apparent treatment disparities. Patient has medical insurance and can afford prescribed medications.
+
+11) Native or Non-Native English Speaking Patient: Native English-speaking patient.
+
+12) Physical exams: Chest auscultation revealing wheezing bilaterally, no cyanosis, throat mildly erythematous, no sinus tenderness.
+
+13) Investigation/Test results: Chest X-ray to rule out pneumonia, modality of Imaging: Plain radiography, area of body: Chest, anteroposterior and lateral views. Results pending. Blood work ordered - CBC with differential to assess infection or inflammation level, and CRP to gauge inflammation.","Subjective: 
+
+A 52-year-old, Caucasian, female teacher presents with a history of seasonal allergies, intermittent asthma, and a family history of COPD. She reports suffering from a productive cough for the past three days, moderate shortness of breath with exertion, and infrequent wheezing. These symptoms have impacted her daily activities, notably walking up stairs. The patient sleeps for 6-7 hours per night, has a high-fat diet with periodic fast food consumption, occasionally walks for exercise, does not smoke, and drinks alcohol socially on weekends. She is compliant with medical advice and is proactive about improving her health.
+
+Objective: 
+
+Physical examination reveals bilateral wheezing on chest auscultation, a mildly erythematous throat, and no sinus tenderness or cyanosis. Vital signs are within normal limits. Investigations include a chest X-ray (AP and lateral views) to exclude pneumonia with results pending, and blood work consisting of a CBC with differential and CRP which have been ordered to assess for infection or inflammation.
+
+Assessment:
+
+Based on the history of intermittent asthma and the findings of productive cough, wheezing, and exertional dyspnea, the patient is diagnosed with acute bronchitis. There is no indication of treatment disparities as the patient has adequate health insurance and can afford medications. She is from a suburban area with moderate pollution.
+
+Plan:
+
+The treatment plan consists of prescribing an inhaler albuterol 90 mcg; the patient is instructed to use two puffs every 4-6 hours as needed for wheezing or shortness of breath. She is also advised to rest and increase fluid intake to support recovery. Additionally, using a humidifier at home may provide symptomatic relief. A follow-up visit is scheduled in 10 days to reassess her symptoms and ensure adequate response to the treatment. Education on diet modification and increasing exercise for overall health improvement should be provided. Pending test results will be reviewed to refine the treatment plan as needed.",Family Medicine Physician
+Shortness of Breath,"ROLE: Family Medicine Physician
+
+Medical Outcome:
+- Diagnosis: Differential diagnosis includes Asthma, COPD, Congestive Heart Failure, Pneumonia, and Anxiety disorder.
+- Prescribed treatment: Initiation of a short-acting beta-agonist (Albuterol) via inhaler; 90 mcg per actuation, 2 puffs every 4-6 hours as needed for wheezing or shortness of breath.
+- Follow-up recommendations: Patient to be seen in office within one week.
+- Referral to a Pulmonologist, if symptoms worsen or do not improve with initial treatment.
+- Blood work order for a complete blood count (CBC), N-terminal pro b-type natriuretic peptide (NT-proBNP), and D-dimer to assist in differential diagnosis.
+- Imaging order for Chest X-ray, PA and lateral, to assess for pulmonary conditions.
+
+Medical History:
+- Previous diagnoses: Hypertension, mild intermittent asthma.
+- Family medical history: Father with chronic obstructive pulmonary disease (COPD), mother with type 2 diabetes.
+- Medication history: Occasional use of over-the-counter ibuprofen.
+- Allergies: No known drug allergies.
+- Chronic conditions: Hypertension, well-controlled.
+
+Symptom Description:
+- Severity: Moderate difficulty breathing on exertion.
+- Duration: Symptoms started 2 days ago.
+- Associated symptoms: Mild wheezing, no chest pain.
+- Frequency: Intermittent, with exertion.
+- Impact on daily activities: Patient avoids stairs and reduces physical activity.
+
+Patient’s self-reported habits and lifestyle:
+- Sleep: Average 7 hours per night.
+- Diet: Balanced diet with occasional fast food.
+- Exercise: Light walking, 2-3 times a week.
+- Tobacco use: No history of smoking.
+- Alcohol consumption: Social drinker, 1-2 drinks on weekends.
+- Drug use: None reported.
+- Recreational activities: Enjoys gardening.
+
+Demographic Information:
+- Age: 52 years old.
+- Gender: Female.
+- Ethnicity: African American.
+- Socio-economic status: Middle income.
+- Education level: College graduate.
+- Health literacy: Demonstrates good understanding of health information.
+- Job status: Employed as a school administrator.
+
+Patient's Behavior:
+- The patient is cooperative and expresses willingness to follow medical advice.
+
+Geographical Location:
+- Big city, urban environment with moderate pollution.
+- Neighborhood type: Middle-class, well-served by transit, nearby parks, and recreational facilities.
+
+Clinical Setting:
+- Private practice, family medicine clinic.
+
+Type of Encounter:
+- Initial consultation for the presented symptoms.
+
+Treatment Disparities:
+- Patient has health insurance and is provided with a standard level of care with no apparent disparities.
+
+Native or Non-Native English Speaking Patient:
+- Native English speaker.
+
+Physical exams:
+- Vital signs: Blood pressure within normal limits, elevated heart rate.
+- Respiratory examination reveals mild expiratory wheezing.
+
+Investigation/Test results:
+- Awaiting results of blood work and Chest X-ray.","**Subjective:**
+The patient is a 52-year-old African American female who presents with moderate difficulty breathing on exertion which started 2 days ago. She reports mild wheezing, but no chest pain. The symptoms are intermittent, mainly with exertion, leading her to avoid stairs and limit physical activity. She has a past medical history of hypertension and mild intermittent asthma. The patient's father has COPD, and her mother has type 2 diabetes. She uses over-the-counter ibuprofen occasionally and has no known drug allergies. Hypertension is reported to be well-controlled. Her lifestyle includes light walking 2-3 times a week and a balanced diet, with sleep averaging 7 hours per night. She denies any tobacco use and is a social drinker with 1-2 drinks on weekends. No illegal drug use is reported. She enjoys gardening and is well-educated with a good understanding of health information. The patient expresses a willingness to follow medical advice.
+
+**Objective:**
+BP is within normal range, however heart rate is elevated. Respiratory examination reveals mild expiratory wheezing. No further abnormalities noted on exam at this time. Blood work including CBC, NT-proBNP, and D-dimer, as well as Chest X-ray (PA and lateral) have been ordered but results are pending.
+
+**Assessment:**
+The differential diagnosis includes:
+- Asthma exacerbation
+- Chronic Obstructive Pulmonary Disease (COPD)
+- Congestive Heart Failure (CHF)
+- Pneumonia
+- Anxiety disorder
+
+The patient’s history of mild intermittent asthma combined with symptomatology and family history supports these considerations.
+
+**Plan:**
+1. Medication: Patient to start Albuterol inhaler; 90 mcg per actuation, 2 puffs every 4-6 hours as needed for wheezing or shortness of breath.
+   
+2. Follow-Up: Schedule appointment for one week to reassess symptoms and review test results.
+
+3. Referral: Possible referral to a Pulmonologist if symptoms worsen or do not show improvement with initiation of Albuterol.
+
+4. Investigations: Awaiting results of CBC, NT-proBNP, and D-dimer tests, as well as Chest X-ray to further delineate the cause of respiratory symptoms.
+
+5. Lifestyle: Encourage the patient to continue with light exercises as tolerated and maintain a balanced diet.
+
+6. Monitoring: Advise the patient to monitor and record the frequency of inhaler use, and any factors that exacerbate symptoms.
+
+7. Education: Reinforce asthma action plan and use of inhaler, educate on signs of infection or exacerbation.
+
+8. Management: Advise on potential environmental adjustments to reduce exposure to irritants given urban living conditions.",Family Medicine Physician
+Shortness of Breath,"ROLE: Family Medicine Physician
+
+1) Medical Outcome: 
+   - Diagnosis: Shortness of breath due to suspected acute bronchitis
+   - Prescribed medication: Amoxicillin 500mg, oral tablet form, take 1 tablet every 8 hours for 10 days, 30 tablets total
+   - Follow-up recommendation: Schedule a follow-up appointment in 2 weeks
+   - Order for blood work: Complete blood count to rule out infection severity, arterial blood gas to assess oxygenation
+   - Lifestyle change: Advised to avoid tobacco use and minimize exposure to air pollutants
+
+2) Medical History:
+   - Chronic conditions: History of mild asthma
+   - Allergies: No known drug allergies
+   - Medication history: Occasional use of albuterol inhaler for asthma
+
+3) Symptom Description:
+   - Severity: Moderate difficulty breathing, particularly during exertion
+   - Duration: Symptoms began three days ago.
+   - Frequency: Persistent throughout the day, worsens at night
+   - Impact on daily activities: Patient reports difficulty climbing stairs and performing usual daily tasks
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Average 7 hours a night, recently disrupted by coughing
+   - Diet: Balanced
+   - Exercise: Walks daily, but currently limited by breathlessness
+   - Tobacco use: Smoker, 1 pack per day for the past 15 years
+   - Alcohol consumption: Occasional, socially
+
+5) Demographic Information:
+   - Age: 47 years
+   - Gender: Female
+   - Ethnicity: Hispanic
+   - Socio-economic status: Middle-income
+   - Health literacy: Moderate; understands basic health information
+   - Job status: Full-time office worker
+
+6) Patient's Behavior:
+   - Cooperation with medical advice: Generally adheres to recommendations, but struggles with smoking cessation
+
+7) Geographical Location:
+   - Urban city with moderate pollution
+
+8) Clinical Setting:
+   - Private practice outpatient clinic
+
+9) Type of Encounter:
+   - Initial consultation for recent onset of symptoms
+
+10) Treatment Disparities:
+   - None observed; treatment provided based on clinical assessment without bias
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English speaker
+
+12) Physical exams:
+   - Respiratory examination revealed bronchial breathing sounds, no wheezing at the moment
+
+13) Investigation/Test Results:
+   - Awaiting results of complete blood count and arterial blood gas measurements",Rejected,Rejected
+Shortness of Breath,"ROLE: Family Medicine Physician
+
+Scenario:
+
+1) Medical Outcome: Diagnosis of Acute Bronchitis; prescribed treatment of amoxicillin 500 mg, 1 tablet every 8 hours for 10 days; recommendation for follow-up in 2 weeks; lifestyle change suggested with emphasis on rest, increased fluid intake.
+
+2) Medical History: Previous episodes of bronchitis, no known allergies, history of hypertension controlled with medication.
+
+3) Symptom Description: Dyspnea of moderate severity, worsening over the past 3 days, occasional cough, impacting the ability to perform moderate exercise.
+
+4) Patient’s self-reported habits and lifestyle: Sleeps 6-7 hours on weekdays, has a high-sodium diet, exercises infrequently, non-tobacco user, moderate alcohol consumption on weekends.
+
+5) Demographic Information: 45-year-old male, Caucasian, middle-class, college-educated, good health literacy, employed as a financial analyst.
+
+6) Patient's Behavior: Generally compliant with medical advice, open to lifestyle changes.
+
+7) Geographical Location: Suburban area, good environmental conditions, affluent neighborhood, well-served by transit.
+
+8) Clinical Setting: Private practice clinic.
+
+9) Type of Encounter: Initial consultation.
+
+10) Treatment Disparities: No indication of treatment disparities, patient has insurance and demonstrates understanding and ability to follow prescribed regimen.
+
+11) Native English-speaking patient.
+
+12) Physical exams: Mild wheezing on auscultation, no cyanosis, normal oxygen saturation on room air.
+
+13) Investigation/Test results: Chest X-ray ordered to rule out pneumonia, specifically a Posteroanterior and Lateral Chest X-ray. Blood work including Complete Blood Count (CBC) with differential to assess for infection/inflammation markers. Results are pending.",Rejected,Rejected
+Shortness of Breath,"ROLE: Family Medicine Physician
+
+Scenario:
+1) Medical Outcome:
+   - Diagnosis: Acute Exacerbation of Chronic Obstructive Pulmonary Disease (COPD)
+   - Prescribed treatment: 
+     - Medication: Albuterol inhaler, 90 mcg, use two puffs every 4-6 hours as needed for shortness of breath
+     - Medication: Oral Prednisone, 40 mg daily for 5 days 
+   - Follow-up recommendations: Appointment scheduled for 1 week to reassess symptoms and lung function
+   - Referral to pulmonologist if no improvement after medication course
+   - Blood work: Arterial blood gas (ABG), Complete Blood Count (CBC), Electrolyte Panel
+   - Order for imaging: Chest X-Ray, Posteroanterior (PA) and Lateral view
+
+2) Medical History:
+   - Previous diagnoses: COPD, Hypertension
+   - Family medical history: Father with COPD, Mother with type 2 diabetes
+   - Medication history: Tiotropium inhaler, Amlodipine for hypertension
+   - Allergies: Penicillin
+   - Chronic conditions: COPD, Hypertension
+
+3) Symptom Description:
+   - Severity: Moderate to severe shortness of breath
+   - Duration: Symptoms worsening over the past 3 days
+   - Associated symptoms: Chronic cough with sputum production
+   - Frequency: Intermittent shortness of breath, exacerbated by physical activity
+   - Impact on daily activities: Unable to perform usual activities without experiencing breathlessness
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Patient reports disrupted sleep due to coughing
+   - Diet: Balanced diet, but with reduced appetite recently
+   - Exercise: Limited due to dyspnea
+   - Tobacco use: 30-pack year smoking history, quit 5 years ago
+   - Alcohol consumption: Occasional, 1-2 drinks on weekends
+   - Drug use: None reported
+   - Recreational activities: Minimal due to COPD
+
+5) Demographic Information:
+   - Age: 67 years
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic status: Middle class
+   - Education level: High school diploma
+   - Health literacy: Average, understands the basic disease process and medication use
+   - Job status: Retired
+
+6) Patient's Behavior:
+   - The patient is generally cooperative with medical advice, but sometimes forgets to take daily medications.
+
+7) Geographical Location:
+   - Small city, moderate to high pollution levels
+   - Neighborhood: Suburban, well-served by transit
+
+8) Clinical Setting:
+   - Primary care clinic
+
+9) Type of Encounter:
+   - Follow-up for chronic disease management of COPD
+
+10) Treatment Disparities:
+   - None evident; all treatment options provided based on clinical guidelines and patient's insurance coverage
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English speaker
+
+12) Physical exams:
+   - Auscultation reveals decreased breath sounds with widespread wheezing
+   - Use of accessory muscles noted during respiration
+   - Mild peripheral edema
+
+13) Investigation/Test results: 
+   - Awaiting results from ordered chest X-Ray and blood work.",Rejected,Rejected
