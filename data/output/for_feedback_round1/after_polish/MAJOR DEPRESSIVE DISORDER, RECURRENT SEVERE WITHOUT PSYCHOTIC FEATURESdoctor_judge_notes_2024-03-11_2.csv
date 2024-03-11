@@ -1,0 +1,509 @@
+Disease Description,Scenario,Note,Polished Note,Role
+"MAJOR DEPRESSIVE DISORDER, RECURRENT SEVERE WITHOUT PSYCHOTIC FEATURES","ROLE: Psychiatrist
+
+1) Medical Outcome: Diagnosis of Major Depressive Disorder, Recurrent Severe without Psychotic Features. Prescribed treatment includes pharmacotherapy and psychotherapy. Medication prescribed: Sertraline 100 mg,  tablets,  frequency once daily, duration 6 months, quantity 180 tablets, route oral. Referral for Cognitive Behavioral Therapy (CBT) with a Clinical Psychologist, Dr. Jane Smith.
+
+2) Medical History: Previous depressive episodes, family history of Mood Disorders, past use of antidepressants, no known allergies, no chronic conditions other than recurrent depression.
+
+3) Symptom Description: Severe depressive episodes lasting over two weeks, frequent episodes, significantly impairing social and occupational functioning.
+
+4) Patient’s self-reported habits and lifestyle: Poor sleep pattern, reduced appetite, no regular exercise, no tobacco or alcohol use, reports feeling too fatigued for recreational activities.
+
+5) Demographic Information: Age 35, Gender Female, Ethnicity Caucasian, Lower-middle socio-economic status, college education, moderate health literacy, currently unemployed.
+
+6) Patient's Behavior: Patient is cooperative but exhibits low energy and motivation which may affect medical advice adherence.
+
+7) Geographical Location: Lives in a small urban area with moderate pollution. Neighborhood is middle-class, adequately served by transit, no significant food deserts.
+
+8) Clinical Setting: Outpatient psychiatric clinic.
+
+9) Type of Encounter: Initial consultation after referral from primary care provider due to recurrent symptoms.
+
+10) Treatment Disparities: No current disparities identified, treatment plan made with consideration of socio-economic status and health insurance.
+
+11) Native English Speaking Patient: Yes
+
+12) Physical exams: General physical exam unremarkable, mental status exam demonstrates depressed mood and flat affect.
+
+13) Investigation/Test results: Recent complete blood count and thyroid function tests within normal limits; awaiting Vitamin D levels and electrolyte panel to rule out organic causes of depressive symptoms.","Subjective:
+A 35-year-old Caucasian female presents with severe depressive symptoms that have persisted for over two weeks, occurring frequently and significantly impairing social and occupational functioning. She reports a history of previous depressive episodes and a family history of Mood Disorders, with past treatment including antidepressants. The patient describes a poor sleep pattern, reduced appetite, and an absence of regular exercise. She denies tobacco or alcohol use, citing fatigue as a barrier to participating in recreational activities. She has moderate health literacy, is currently unemployed, and resides in a small urban area.
+
+Objective:
+The patient's general physical exam is unremarkable. However, the mental status exam indicates a depressed mood and flat affect. Vital signs are within normal ranges. Previous investigations, including a complete blood count and thyroid function tests, are normal. We are awaiting the results of Vitamin D levels and an electrolyte panel.
+
+Assessment:
+Major Depressive Disorder, Recurrent Severe without Psychotic Features. The patient's presentation, medical history, and lack of organic pathology identified through standard lab work align with this diagnosis. No substance abuse issues are contributing to the presentation.
+
+Plan:
+1. Pharmacotherapy: Prescribe Sertraline 100 mg, tablets taken orally once daily. Issue prescription for 6 months with a quantity of 180 tablets. Provide medication counseling, emphasizing the importance of adherence and discussing potential side effects.
+2. Psychotherapy: Refer the patient for Cognitive Behavioral Therapy (CBT) with a Clinical Psychologist, Dr. Jane Smith. Ensure the referral is comprehensive and includes necessary contact information and documentation.
+3. Follow-up: Schedule a follow-up appointment in 4 weeks to assess the patient's response to medication and initiation of psychotherapy. Offer resources to support her with appointment logistics, considering her socio-economic status.
+4. Tests: Retain a reminder in the patient's chart to review the forthcoming Vitamin D levels and electrolyte panel to further rule out any organic causes once the results are available.
+5. Lifestyle: Encourage the patient to engage in moderate-intensity exercise as tolerated to improve mood symptoms and promote better sleep hygiene. Provide resources for local community centers or support groups that may offer structured activities suited to her current level of energy and motivation.
+6. Monitoring: Given the patient’s low energy and motivation, which may affect adherence to medical advice, consider engagement strategies that may include more frequent contact, support groups, or involve a case manager if necessary.
+7. Documentation: Record today’s assessment and management plan in the patient's health record and ensure she has the necessary documentation for her pharmacy and the psychologist referral.","Subjective:
+The patient, Emily Carter, a 35-year-old Caucasian female, presents with severe depressive symptoms, including a poor sleep pattern, reduced appetite, and fatigue, which have persisted for over two weeks, occurring frequently and significantly impairing her social and occupational functioning. She reports a history of previous depressive episodes, treatment with antidepressants, and a family history of mood disorders. Emily denies tobacco or alcohol use and lacks engagement in regular exercise due to fatigue. She has moderate health literacy, is currently unemployed, and resides in a small urban area.
+
+Objective:
+General physical examination of Emily Carter is unremarkable. Mental status exam indicates a depressed mood and flat affect. Vital signs are within normal ranges. Previous investigations, including complete blood count and thyroid function tests, are normal. Results of Vitamin D levels and an electrolyte panel are pending.
+
+Assessment:
+Emily Carter is diagnosed with Major Depressive Disorder, Recurrent Severe without Psychotic Features. Her clinical presentation, medical history, and negative findings in standard lab work align with this diagnosis. No substance abuse issues are contributing to the current clinical picture.
+
+Plan:
+1. Pharmacotherapy: Prescribe Sertraline 100 mg, tablets taken orally once daily for Emily Carter. Issue prescription for 6 months with a quantity of 180 tablets, and provide medication counseling, emphasizing treatment adherence and discussion of potential side effects.
+2. Psychotherapy: Refer Emily for Cognitive Behavioral Therapy (CBT) with a Clinical Psychologist, Dr. Jane Smith, including the patient's clinical history and current condition. 
+3. Follow-up: Schedule a follow-up appointment in 4 weeks to assess Emily's response to medication and initiation of psychotherapy. Offer support with appointment logistics in view of her socio-economic status.
+4. Laboratory Results: Set a prompt to review forthcoming Vitamin D levels and electrolyte panel results to exclude organic causes once available.
+5. Lifestyle Modification: Encourage Emily to engage in moderate-intensity exercise as tolerated and improve sleep hygiene. Provide information on local community centers or support groups that accommodate her current energy levels and motivation.
+6. Monitoring: Given Emily's low energy and motivation that may affect her adherence, consider more frequent contact or involve a case manager if necessary.
+7. Documentation: Ensure documentation of today’s assessment and management plan in Emily Carter's health record, including necessary information for her pharmacy and psychologist referral.",Psychiatrist
+"MAJOR DEPRESSIVE DISORDER, RECURRENT SEVERE WITHOUT PSYCHOTIC FEATURES","ROLE: Psychiatrist
+
+Scenario:
+1) Medical Outcome:
+   - Diagnosis: Major depressive disorder, recurrent, severe without psychotic features
+   - Prescribed Treatment: Cognitive Behavioral Therapy starting with weekly sessions
+   - Medication: Escitalopram 10 mg orally once daily for 4 weeks followed by re-evaluation, quantity of 28 tablets
+   - Follow-up Recommendation: Appointment in 4 weeks to assess response to medication and therapy
+   - Lifestyle Change: Introduction of regular physical activity, gradual incorporation of a balanced diet, establishing a regular sleep schedule
+   - Referral: To a psychologist for psychotherapy sessions
+
+2) Medical History:
+   - Previous Diagnoses: Generalized anxiety disorder
+   - Family Medical History: Mother with a history of major depressive disorder
+   - Medication History: Previous use of Sertraline discontinued due to side effects
+   - Allergies: No known drug allergies
+   - Chronic Conditions: Hypothyroidism, well-controlled on levothyroxine
+
+3) Symptom Description:
+   - Severity: Moderate to severe, impacting daily functioning
+   - Duration: Intermittent episodes over the past 3 years, current episode lasting for 2 months
+   - Associated Symptoms: Anhedonia, insomnia, low energy, poor concentration, feelings of worthlessness
+   - Frequency: Daily symptoms with little fluctuation
+   - Impact on Daily Activities: Unable to perform job duties efficiently, withdraws from social gatherings
+
+4) Patient’s Self-Reported Habits and Lifestyle:
+   - Sleep: Irregular with frequent nocturnal awakenings
+   - Diet: Poor, with irregular meal times and high consumption of processed foods
+   - Exercise: Sedentary, no regular exercise routine
+   - Tobacco Use: Occasional smoker
+   - Alcohol Consumption: Mild to moderate alcohol intake, primarily on weekends
+   - Drug Use: None reported
+   - Recreational Activities: Previously enjoyed painting and hiking, no current engagement
+
+5) Demographic Information:
+   - Age: 34 years
+   - Gender: Female
+   - Ethnicity: Caucasian
+   - Socio-Economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: Moderate understanding of health-related issues
+   - Job Status: Employed as a graphic designer
+
+6) Patient's Behavior:
+   - Cooperation with Medical Advice: Patient appears motivated and willing to follow treatment recommendations
+
+7) Geographical Location:
+   - Urban setting with moderate pollution levels
+
+8) Clinical Setting:
+   - Private practice mental health clinic
+
+9) Type of Encounter:
+   - Initial consultation for the current depressive episode
+
+10) Treatment Disparities:
+   - Patient has good insurance coverage and there are no apparent disparities in offered treatment
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English speaker
+
+12) Physical Exams:
+   - Normal physical examination with no acute findings
+   - BMI within normal range
+
+13) Investigation/Test Results:
+   - Awaiting results of thyroid function tests (TSH and free T4) to ensure adequate control of hypothyroidism
+   - Complete blood count (CBC) and comprehensive metabolic panel (CMP) ordered to rule out alternative causes of symptoms","Subjective:
+A 34-year-old Caucasian female presents with a moderate to severe depressive episode, with symptoms persisting for approximately 2 months. She reports daily experiences of anhedonia, insomnia, low energy, poor concentration, and feelings of worthlessness. The patient notes that these symptoms have substantially impaired her ability to perform her job as a graphic designer and participate in social activities. She has a history of generalized anxiety disorder and her mother has a history of major depressive disorder. The patient reports a prior trial of Sertraline, which was discontinued due to side effects. She endorses irregular sleep patterns, a diet high in processed foods, and a lack of regular exercise. She also reports occasional tobacco use, mild to moderate alcohol consumption on weekends, and no illicit drug use. The patient has previously found enjoyment in activities like painting and hiking, but currently does not engage in them. She is motivated to follow treatment recommendations and has a moderate understanding of health-related issues. She is a native English speaker from an urban setting.
+
+Objective:
+The patient's BMI is within normal limits and the physical examination is unremarkable. She is currently well-controlled on levothyroxine for hypothyroidism. Thyroid function tests (TSH and free T4) and laboratory work, including a CBC and CMP, have been ordered but results are pending.
+
+Assessment:
+Major depressive disorder, recurrent, severe without psychotic features. Differential diagnosis considered and ruled out based on history, presentation, and pending lab investigations to exclude organic causes of depressive symptoms.
+
+Plan:
+1. Cognitive Behavioral Therapy: Initiate weekly sessions.
+2. Medication: Start Escitalopram 10 mg orally once daily for 4 weeks, with a quantity of 28 tablets prescribed. Re-evaluate in 4 weeks.
+3. Lifestyle Modifications:
+   - Regular physical activity: Encourage to start with light activities such as walking.
+   - Balanced diet: Gradually incorporate fresh fruits, vegetables, and whole grains; reduce processed food consumption.
+   - Sleep hygiene: Advise to establish a consistent sleep schedule.
+4. Follow-Up: Schedule an appointment in 4 weeks to assess response to medication and therapy.
+5. Referral: Refer to a psychologist for additional psychotherapy sessions.
+6. Investigations:
+   - Await results for TSH and free T4 to reassess control of hypothyroidism.
+   - Await results of the CBC and CMP to rule out other causes of depression.
+7. Patient Education: Discuss the importance of medication adherence, therapy engagement, lifestyle changes, and continuity of care.
+8. Observe Mental Health Parity Act guidelines to ensure appropriate and equitable treatment.
+9. Next steps: Based on the evaluation in 4 weeks, consider adjustments to medication management; escalate dose of Escitalopram if well-tolerated and if symptoms persist.","Subjective:
+The patient, Emily, a 34-year-old Caucasian female, presents with a moderate to severe depressive episode. Symptoms persisting for approximately 2 months include daily anhedonia, insomnia, low energy, poor concentration, and feelings of worthlessness. These symptoms have significantly impaired her ability to work as a graphic designer and engage in social activities. Emily has a history of generalized anxiety disorder, and her mother has a history of major depressive disorder. She notes a prior trial of Sertraline, which was discontinued due to side effects. Emily endorses irregular sleep patterns, a diet high in processed foods, and a lack of regular exercise. She reports occasional tobacco use, mild to moderate alcohol consumption on weekends, and no illicit drug use. Previously enjoyed activities such as painting and hiking are currently not pursued. She is motivated to follow treatment recommendations and has a moderate understanding of health-related issues. Emily is a native English speaker from an urban setting.
+
+Objective:
+Emily's BMI is within normal limits, and the physical examination is unremarkable. She is well-controlled on levothyroxine for hypothyroidism. Thyroid function tests (TSH and free T4) and laboratory work, including a CBC and CMP, have been ordered, with results pending.
+
+Assessment:
+Emily is assessed with major depressive disorder, recurrent, severe without psychotic features. Differential diagnosis considered and ruled out based on history, presentation, and pending laboratory investigations to exclude organic causes of depressive symptoms.
+
+Plan:
+1. Refer Emily to Dr. Susan Clark, a psychologist, for Cognitive Behavioral Therapy with weekly sessions.
+2. Prescribe medication: Escitalopram 10 mg orally once daily for 4 weeks, with a quantity of 28 tablets. Plan for re-evaluation in 4 weeks.
+3. Lifestyle Modifications: Recommend regular light physical activity such as walking, a gradual transition to a balanced diet including fresh fruits, vegetables, and whole grains, and establishment of a consistent sleep schedule.
+4. Follow-Up: Schedule an appointment for Emily in 4 weeks to assess the response to medication and therapy.
+5. Await results for TSH and free T4 to reassess control of hypothyroidism and the results of the CBC and CMP to rule out other causes of depression.
+6. Provide patient education on the importance of medication adherence, engagement in therapy, lifestyle changes, and continuity of care.
+7. Observe Mental Health Parity Act guidelines to ensure appropriate and equitable treatment.
+8. If Escitalopram is well-tolerated and symptoms persist upon re-evaluation in 4 weeks, consider dose adjustment or other changes in medication management.",Psychiatrist
+"MAJOR DEPRESSIVE DISORDER, RECURRENT SEVERE WITHOUT PSYCHOTIC FEATURES","ROLE: Psychiatrist
+
+1) Medical Outcome: Diagnosis of Major Depressive Disorder, recurrent, severe without psychotic features. Prescribed treatment includes initiation of sertraline, 50 mg orally, once daily, duration of 30 days, with 30 tablets. Scheduled a follow-up appointment in 4 weeks. Suggested lifestyle changes such as incorporating exercise three times a week and mindfulness meditation.
+
+2) Medical History: Previous episodes of depression, family history of mood disorders, history of using fluoxetine and citalopram in the past with partial response, no known drug allergies, no chronic physical conditions.
+
+3) Symptom Description: Reports severe depression for the past 8 weeks, symptoms are persistent throughout the day, significant loss of interest in all activities, appreciable weight loss, and impaired concentration; symptoms are affecting the ability to work and maintain social relationships.
+
+4) Patient's self-reported habits and lifestyle: Poor sleep quality, irregular diet low in nutrients, minimal physical activity, non-smoker, minimal alcohol use, no drug use, no significant recreational activities reported.
+
+5) Demographic Information: 40-year-old female, Caucasian, middle socio-economic status, college educated, high health literacy, employed as a sales manager.
+
+6) Patient's Behavior: Has been engaged with treatment in the past, currently motivated to follow medical advice for current depressive episode.
+
+7) Geographical Location: Mid-sized city, urban environment, lives in a well-served neighborhood by transit with average environmental health risks.
+
+8) Clinical Setting: Private psychiatric practice.
+
+9) Type of Encounter: Initial consultation with the psychiatrist for this particular depressive episode; however, it is a follow-up in the context of recurrent major depressive disorder.
+
+10) Treatment Disparities: No treatment disparities reported. Treatment plan tailored to patient's history and current symptomatology.
+
+11) Native English-speaking patient.
+
+12) Physical exams: General physical examination unremarkable, psychiatry-specific mental status exam consistent with depression including decreased affect and psychomotor retardation.
+
+13) Investigation/Test results: Thyroid-stimulating hormone (TSH) and complete blood count (CBC) ordered to rule out organic causes of depression; results are awaiting.","**Subjective:**
+The patient is a 40-year-old Caucasian female presenting with severe depression for the past 8 weeks. She reports persistent depressive symptoms throughout the day, a significant loss of interest in all activities, appreciable weight loss, and impaired concentration. These symptoms have adversely impacted her ability to work and maintain social relationships. She has a previous history of depression with partial response to fluoxetine and citalopram, and a family history of mood disorders. She reports poor sleep quality, an irregular and nutrient-poor diet, and minimal physical activity. She is a non-smoker, has minimal alcohol use, and does not use drugs. She has been engaged with treatment in the past and is currently motivated to manage her condition.
+
+**Objective:**
+General physical examination findings were unremarkable. Psychiatry-specific mental status exam revealed decreased affect and psychomotor retardation consistent with her reported symptoms of depression. The patient lives in an urban environment with access to resources and maintains a high health literacy as a college-educated sales manager. 
+
+**Assessment:**
+Diagnosis of Major Depressive Disorder, recurrent, severe without psychotic features is made based on clinical presentation and patient's psychiatric history. Other organic causes of depression will be ruled out pending TSH and CBC results.
+
+**Plan:**
+1. Medications: Start sertraline 50 mg orally once daily for 30 days, with 30 tablets provided. Monitor for side effects and therapeutic response.
+2. Follow-up: Schedule a follow-up appointment in 4 weeks to reassess symptoms and medication efficacy.
+3. Lifestyle Modifications: Advise the patient to incorporate exercise into her routine three times a week and practice mindfulness meditation to support treatment.
+4. Investigations: TSH and CBC have been ordered to exclude thyroid dysfunction and other organic causes. Review results when available.
+5. Patient Education: Discuss the chronic nature of Major Depressive Disorder and the importance of adherence to the treatment plan, including medication and lifestyle changes.
+6. Referral: Consider a referral to a dietician for nutritional counseling to address her irregular and nutrient-poor diet, depending on response to lifestyle changes.
+7. Therapy: Recommend starting cognitive-behavioral therapy (CBT) to address depressive cognitions and behavior patterns, with referrals provided.","**Subjective:**
+The patient, Emma Johnson, a 40-year-old Caucasian female, presents with severe depression persisting for the past 8 weeks. She describes experiencing persistent depressive symptoms throughout the day, a significant loss of interest in all activities, appreciable weight loss, and impaired concentration. These symptoms have negatively affected her ability to perform at work and maintain social relationships. She reports previous episodes of depression with partial response to fluoxetine and citalopram and has a family history of mood disorders. Emma complains of poor sleep quality, an irregular and nutrient-poor diet, and minimal physical activity. She denies tobacco use, reports minimal alcohol consumption, and denies illicit drug use. She is engaged in treatment and currently motivated to manage her condition.
+
+**Objective:**
+General physical examination findings were unremarkable. Psychiatry-specific mental status examination revealed decreased affect and psychomotor retardation, in line with her reported depressive symptoms. Emma is a college-educated sales manager who lives in an urban environment with access to resources and maintains a high health literacy.
+
+**Assessment:**
+The clinical presentation and psychiatric history confirm a diagnosis of Major Depressive Disorder, recurrent, severe without psychotic features. Differential diagnosis includes other potential organic causes of depression, which will be considered pending laboratory results.
+
+**Plan:**
+1. Medications: Initiate sertraline 50 mg orally once daily for 30 days, with 30 tablets provided. Monitor for side effects and response to treatment.
+2. Follow-up: Schedule a follow-up appointment in 4 weeks to reassess symptoms and evaluate the efficacy of sertraline.
+3. Lifestyle Modifications: Encourage the patient to engage in regular exercise, targeting at least three times a week, and to practice mindfulness meditation to complement pharmacological treatment.
+4. Investigations: Review results of TSH and CBC that have been ordered to exclude thyroid dysfunction and other organic causes.
+5. Patient Education: Educate Emma on the chronic nature of her illness and the importance of adhering to her comprehensive treatment plan, which includes medication and recommended lifestyle adjustments.
+6. Referral: To a dietician for nutritional counseling, with Dr. Susan Clarke as the dietician, to improve her diet and overall health, contingent on her response to the suggested lifestyle changes.
+7. Therapy: Refer to a psychologist for cognitive-behavioral therapy (CBT) to address maladaptive thoughts and behaviors, with Dr. Michael Thompson as the psychologist.",Psychiatrist
+"MAJOR DEPRESSIVE DISORDER, RECURRENT SEVERE WITHOUT PSYCHOTIC FEATURES","ROLE: Psychiatrist
+
+1) Medical Outcome: Diagnosis of Major Depressive Disorder, recurrent severe without psychotic features. Prescribed treatment includes starting on Sertraline 50 mg, oral tablets, once daily, for 4 weeks initially, with a quantity of 28 tablets. Monthly follow-up appointments recommended for medication review and adjustment as necessary. Cognitive Behavioral Therapy (CBT) sessions once a week for 3 months. No referral to specialists at this time.
+
+2) Medical History: History of two previous major depressive episodes in the past 5 years. No known family history of mental health issues. Previous medication trials include fluoxetine and bupropion, with partial response. No known drug allergies. No chronic conditions reported.
+
+3) Symptom Description: Patient reports severe depressive symptoms persisting for more than 6 weeks, including anhedonia, significant weight loss, and sleep disturbances. Symptoms impact daily activities, rendering the patient unable to work effectively.
+
+4) Patient’s self-reported habits and lifestyle: Reports poor sleep quality, eating one meal a day (poor appetite), no regular exercise due to lack of energy/motivation, non-smoker, occasional alcohol consumption but has abstained since the onset of the current depressive episode.
+
+5) Demographic Information: 38-year-old female, Caucasian, middle-class socio-economic status, college-educated, currently unemployed due to depressive symptoms, high health literacy.
+
+6) Patient's Behavior: Demonstrates understanding of the illness and expresses willingness to comply with medical advice.
+
+7) Geographical Location: Lives in a suburban neighborhood, moderate to high socioeconomic status, low pollution, well-served by transit.
+
+8) Clinical Setting: Private psychiatric practice.
+
+9) Type of Encounter: Initial consultation following referral from primary care physician due to the severity of depression symptoms.
+
+10) Treatment Disparities: None observed or reported.
+
+11) Native or Non-Native English Speaking Patient: Native English-speaking patient.
+
+12) Physical exams: Conducted a brief physical examination revealing no abnormal findings.
+
+13) Investigation/Test results: Blood workup ordered to rule out thyroid dysfunction or other physiological contributions to depressive symptoms. Order details: Complete Blood Count (CBC), Thyroid Stimulating Hormone (TSH) test, Comprehensive Metabolic Panel (CMP). Results pending.","Subjective:
+The patient, a 38-year-old Caucasian female, reports severe symptoms of depression that have been persistent for over six weeks. She has experienced anhedonia, significant weight loss, and sleep disturbances, severely impacting her ability to perform daily activities and maintain employment. The patient has a history of two previous major depressive episodes in the last five years, and trials of fluoxetine and bupropion were met with partial response only. No family history of mental health issues has been reported, and there are no known drug allergies. The patient reports poor dietary habits, eating only one meal daily, and does not engage in regular exercise due to lack of energy and motivation. She is a non-smoker and has reduced her alcohol intake to zero since the onset of the current episode. She is well-educated, has high health literacy, and is currently unemployed due to her depressive symptoms. Despite her condition, she demonstrates an understanding of her illness and is willing to comply with medical recommendations. There have been no observed or reported treatment disparities, and she is a native English speaker.
+
+Objective:
+A brief physical examination conducted showed no abnormal findings. The patient's general appearance is consistent with her reported symptoms of depression, including poor nutrition and fatigue.
+
+Assessment:
+The patient is diagnosed with Major Depressive Disorder, recurrent, severe without psychotic features.
+
+Plan:
+1. Medication: Initiate treatment with Sertraline 50 mg, oral tablets, once daily, for 4 weeks with 28 tablets prescribed. Monitor for side effects and response to treatment with potential dosage adjustments at the monthly follow-up appointment.
+2. Therapy: Cognitive Behavioral Therapy (CBT) sessions are recommended once a week for 3 months, to address negative thinking patterns and promote behavioral changes.
+3. Follow-up: Monthly follow-up appointments for medication review and necessary adjustments.
+4. Investigations: Order the following to rule out physiological contributors to depressive symptoms: Complete Blood Count (CBC), Thyroid Stimulating Hormone (TSH) test, Comprehensive Metabolic Panel (CMP). Await results.
+5. Lifestyle Modification: Encourage the patient to attempt small, manageable changes in diet and exercise as tolerated, which may improve mood and overall well-being.
+6. Support: Discuss available community resources and support groups that could provide additional support and encourage adherence to the treatment plan.","Subjective:
+The patient, whom I shall refer to as Ms. Jane Doe, a 38-year-old Caucasian female, reports severe symptoms of depression that have been persistent for over six weeks. She describes anhedonia, significant weight loss, and sleep disturbances, which have severely impacted her ability to perform daily activities and maintain employment. Ms. Doe has a history of two previous major depressive episodes in the last five years, and trials of fluoxetine and bupropion were met with only a partial response. No family history of mental health issues has been reported, and there are no known drug allergies. Ms. Doe reports poor dietary habits, eating only one meal daily, and does not engage in regular exercise due to a lack of energy and motivation. She is a non-smoker and has reduced her alcohol intake to zero since the onset of the current episode. She is well-educated, with high health literacy, and is currently unemployed due to her depressive symptoms. Despite her condition, she demonstrates an understanding of her illness and is willing to comply with medical recommendations. There have been no observed or reported treatment disparities, and she is a native English speaker.
+
+Objective:
+A brief physical examination conducted showed no abnormal findings. The patient's general appearance is consistent with her reported symptoms of depression, including poor nutrition and fatigue. Vital signs were within normal limits at the time of examination.
+
+Assessment:
+Ms. Doe is diagnosed with Major Depressive Disorder, recurrent, severe without psychotic features. 
+
+Plan:
+1. Medication: Initiate treatment with Sertraline 50 mg, oral tablets, once daily, for 4 weeks with 28 tablets prescribed. Monitor for side effects and response to treatment with potential dosage adjustments at the monthly follow-up appointment.
+
+2. Therapy: Refer Ms. Doe for Cognitive Behavioral Therapy (CBT) sessions once a week for 3 months, to address negative thinking patterns and promote behavioral changes. The referral will be made to a licensed clinical psychologist, Dr. Emily Johnson.
+
+3. Follow-up: Monthly follow-up appointments for medication review and necessary adjustments.
+
+4. Investigations: Order the following tests to rule out physiological contributors to depressive symptoms: Complete Blood Count (CBC), Thyroid Stimulating Hormone (TSH) test, Comprehensive Metabolic Panel (CMP). Await results.  
+
+5. Lifestyle Modification: Encourage Ms. Doe to attempt small, manageable changes in diet and exercise as tolerated, which may improve mood and overall well-being.
+
+6. Support: Discuss available community resources and support groups that could provide additional support and encourage adherence to the treatment plan.",Psychiatrist
+"MAJOR DEPRESSIVE DISORDER, RECURRENT SEVERE WITHOUT PSYCHOTIC FEATURES","ROLE: Psychiatrist
+
+Scenario:
+- Medical Outcome: Diagnosis of Major Depressive Disorder, recurrent severe without psychotic features, initiation of antidepressant medication (Sertraline 50 mg, oral, once daily, 30 tablets with 1 refill), referral for cognitive-behavioral therapy (CBT), and recommendation for follow-up in 4 weeks.
+- Medical History: Previous episodes of depression, family history of mood disorders, no known drug allergies, non-smoker, no chronic physical illnesses.
+- Symptom Description: Profound sadness, loss of interest in most activities, significant weight change, trouble sleeping, fatigue, and feelings of worthlessness for the past 6 weeks; occurs daily and affects the ability to work.
+- Patient’s self-reported habits and lifestyle: Poor sleep hygiene, high-sugar diet, sedentary lifestyle, occasional alcohol consumption, no tobacco or drug use, lack of recreational activities.
+- Demographic Information: 35 years old, female, Caucasian, middle socio-economic status, college-educated, high health literacy, employed as an office manager.
+- Patient's Behavior: Patient is cooperative with medical advice and expresses willingness to start treatment.
+- Geographical Location: Urban city, middle-class neighborhood, limited green spaces but well-served by public transport, not a food desert.
+- Clinical Setting: Private psychiatry practice.
+- Type of Encounter: Initial consultation for current episode, though has a history of recurrent episodes.
+- Treatment Disparities: No disparities noted; full range of treatment options provided based on clinical guidelines and patient's insurance coverage.
+- Native English-speaking patient.
+- Physical exams: Mental status exam showing depressed mood, decreased affect, no signs of psychosis, alert and oriented to time, place, and person.
+- Investigation/Test results: Awaiting results of Complete Blood Count (CBC) and Thyroid Function Tests (TFT) to rule out physiological causes of depressive symptoms; additionally, Vitamin D levels ordered given the patient’s sedentary lifestyle and poor dietary habits.","Subjective: 
+The patient is a 35-year-old Caucasian female presenting with profound sadness, loss of interest in most activities, significant weight change, trouble sleeping, fatigue, and feelings of worthlessness for the past 6 weeks. These symptoms occur daily and have impacted her ability to work effectively. She has a previous history of depressive episodes and a family history of mood disorders. The patient reports poor sleep hygiene, a high-sugar diet, sedentariness, and occasional alcohol use, with no use of tobacco or illicit drugs. She lacks recreational activities. She self-identifies as being cooperative and expresses a willingness to start the recommended treatment.
+
+Objective: 
+Vital signs are stable. Mental status examination reveals depressed mood with decreased affect. The patient is alert and oriented to time, place, and person with no signs of psychosis. Physical exams are otherwise unremarkable. Laboratory investigations, including CBC, TFT, and Vitamin D levels, are pending.
+
+Assessment: 
+Major Depressive Disorder, recurrent severe without psychotic features. No evidence of other physical illness to explain the mood disorder at this point in time.
+
+Plan:
+1. Initiate pharmacotherapy with Sertraline 50 mg orally once daily, 30 tablets with 1 refill.
+2. Refer patient to cognitive-behavioral therapy (CBT) to address maladaptive thought patterns and behaviors.
+3. Recommend improvements in sleep hygiene, nutrition counseling, and incorporate regular physical activity into the patient’s daily routine to enhance overall mental health.
+4. Schedule a follow-up appointment in 4 weeks to reassess the patient’s response to Sertraline and adherence to lifestyle modifications.
+5. Await results of CBC, TFT, and Vitamin D levels to rule out organic causes of depression and adjust the treatment plan if necessary. If abnormalities are found, further management will be planned accordingly.","Subjective: 
+The patient, identified as Emily Smith, a 35-year-old Caucasian female, presents with profound sadness, loss of interest in most activities, significant weight change, trouble sleeping, fatigue, and feelings of worthlessness for the past 6 weeks. These symptoms are present daily and have impacted her ability to work effectively. She has a previous history of depressive episodes and a family history of mood disorders. Emily Smith reports poor sleep hygiene, high-sugar diet, sedentariness, and occasional alcohol use, with no use of tobacco or illicit drugs. She has a lack of recreational activities and self-identifies as cooperative with a willingness to start the recommended treatment.
+
+Objective: 
+Vital signs are stable. The mental status examination reveals a depressed mood with decreased affect. The patient is alert and oriented to time, place, and person with no signs of psychosis. Physical exams are otherwise unremarkable. Laboratory investigations, including CBC, TFT, and Vitamin D levels, are pending.
+
+Assessment: 
+Major Depressive Disorder, recurrent severe without psychotic features. There is no evidence of other physical illnesses to explain the mood disorder at this point in time.
+
+Plan:
+1. Prescribe Sertraline 50 mg orally once daily, 30 tablets with 1 refill.
+2. Refer to a psychologist for cognitive-behavioral therapy (CBT) to address maladaptive thought patterns and behaviors. The referral is to Dr. Jane Doe, a specialist in clinical psychology.
+3. Advise improvements in sleep hygiene, nutrition counseling, and incorporating regular physical activity into Emily Smith's daily routine to enhance overall mental health.
+4. Schedule a follow-up appointment in 4 weeks to reassess the patient’s response to Sertraline and adherence to lifestyle modifications.
+5. Await results of CBC, TFT, and Vitamin D levels to rule out organic causes of depression and adjust the treatment plan if necessary. If abnormalities are found, further management will be planned accordingly.",Psychiatrist
+"MAJOR DEPRESSIVE DISORDER, RECURRENT SEVERE WITHOUT PSYCHOTIC FEATURES","ROLE: Psychiatrist
+
+Scenario:
+
+1) Medical Outcome: Diagnosis confirmed as Major Depressive Disorder, recurrent severe without psychotic features. Prescribed treatment includes Escitalopram 20 mg oral tablet, 1 tablet once daily for depression, with a follow-up appointment in 6 weeks to reassess medication efficacy and tolerability. Referral to a psychotherapist for Cognitive Behavioral Therapy (CBT) twice weekly. Lifestyle change recommendations focusing on increased physical activity and improved sleep hygiene.
+
+2) Medical History: Previous diagnosis of Major Depressive Disorder two years prior; no family history of psychiatric conditions; no known drug allergies; no chronic physical conditions reported.
+
+3) Symptom Description: Reports severe depressive symptoms persisting for over 2 months, with a significant impact on daily functioning, including work and social interactions. Symptoms include persistent sadness, lack of energy, difficulty concentrating, and loss of interest in activities.
+
+4) Patient’s self-reported habits and lifestyle: Reports poor sleep quality, averaging 4-5 hours per night; diet consists primarily of processed foods with irregular meal patterns; minimal exercise due to lack of energy; denies tobacco use; occasional alcohol consumption on weekends, but within recommended limits; denies recreational drug use.
+
+5) Demographic Information: 35-year-old female, Caucasian, middle socio-economic status, college-educated, works as a graphic designer, moderate health literacy.
+
+6) Patient's Behavior: The patient is cooperative and expresses a desire to improve her mental health.
+
+7) Geographical Location: Lives in a small city with limited access to specialized mental health resources, but in an area relatively well-served by transit.
+
+8) Clinical Setting: Private psychiatric practice.
+
+9) Type of Encounter: Follow-up visit after initial assessment two months earlier.
+
+10) Treatment Disparities: None evident; patient has insurance coverage and appears engaged in the treatment plan.
+
+11) Native English Speaking Patient: Yes.
+
+12) Physical exams: Normal vital signs, no specific physical exam findings pertinent to current psychiatric diagnosis.
+
+13) Investigation/Test Results: No tests pending at this time; treatment efficacy will be evaluated through clinical assessment at follow-up.",Rejected,Rejected,Rejected
+"MAJOR DEPRESSIVE DISORDER, RECURRENT SEVERE WITHOUT PSYCHOTIC FEATURES","ROLE: Psychiatrist
+
+Scenario:
+
+1) Medical Outcome: Diagnosis of Major Depressive Disorder, recurrent, severe without psychotic features. Prescribed treatment includes initiation of Sertraline 50 mg orally, once daily for 4 weeks, with a plan to increase to 100 mg if tolerated well. Quantity: 28 tablets. Suggestions for Cognitive Behavioral Therapy (CBT) are made, along with follow-up in 4 weeks to assess treatment efficacy and manage any side effects. No current need for referral to specialty services, but if lack of improvement or worsening of symptoms, consider referral to a psychologist for intensive therapy or psychosocial interventions.
+
+2) Medical History: Patient has a history of two prior depressive episodes, has previously been treated with Fluoxetine which was discontinued due to side effects. No known drug allergies. Family history of depression in a parent. No history of chronic medical conditions.
+
+3) Symptom Description: Reports of persistent sadness, loss of interest in activities, fatigue, and impaired concentration for more than 6 weeks. Symptoms are severe enough to impact daily functioning including missed workdays.
+
+4) Patient’s self-reported habits and lifestyle: States sleeping 4-5 hours per night, poor appetite with recent weight loss, no regular exercise, denies tobacco use or illicit drug use, occasional alcohol use on weekends.
+
+5) Demographic Information: 35 years old, female, Caucasian, middle socio-economic status, holds a college degree, works in marketing, good health literacy.
+
+6) Patient's Behavior: Patient is cooperative with medical advice and is motivated for treatment to improve symptoms.
+
+7) Geographical Location: Suburban area, minimal environmental health risks, middle-class neighborhood, good access to community services.
+
+8) Clinical Setting: Private psychiatric practice.
+
+9) Type of Encounter: Initial consultation for this episode of Major Depressive Disorder, though patient has had multiple prior contacts with mental health services.
+
+10) Treatment Disparities: No apparent treatment disparities. Patient has health insurance and is able to access prescribed medications and therapy.
+
+11) Native English-Speaking Patient: Yes.
+
+12) Physical exams: Physical examination is within normal limits, with notable lack of energy and subdued affect noted during the mental status examination.
+
+13) Investigation/Test Results: Plan to order Complete Blood Count (CBC), Thyroid Function Tests (TFTs), and Vitamin D levels to rule out any organic causes of depression symptoms. All tests are pending at the time of the encounter. If abnormalities are found, treatment plan may be adjusted accordingly.",Rejected,Rejected,Rejected
+"MAJOR DEPRESSIVE DISORDER, RECURRENT SEVERE WITHOUT PSYCHOTIC FEATURES","ROLE: Psychiatrist
+
+1) Medical Outcome: Diagnosis - Major Depressive Disorder, Recurrent Severe without Psychotic Features. Prescribed treatment - Escitalopram 10 mg, tablets, orally, once daily, for 30 days with a review afterward. Referral for Cognitive Behavioral Therapy (CBT) with a clinical psychologist, Dr. Jane Smith.
+
+2) Medical History: Previous episodes of depression, family history of mood disorders, no known medication allergies, no chronic conditions reported.
+
+3) Symptom Description: Severe depressive symptoms persisting for over two months, feelings of hopelessness, decreased energy, daily frequency, significant impact on work and social life.
+
+4) Patient’s self-reported habits and lifestyle: Poor sleep quality, irregular diet with reduced appetite, no regular exercise, denies tobacco or drug use, occasional alcohol consumption.
+
+5) Demographic Information: 35-year-old, female, Caucasian, middle socio-economic status, college-educated, high health literacy, employed full time.
+
+6) Patient's Behavior: Patient is motivated to follow medical advice and reports a high willingness to adhere to prescribed treatments and therapy.
+
+7) Geographical Location: Mid-sized suburban area, moderate pollution, middle-class neighborhood, adequate access to public transit and grocery stores.
+
+8) Clinical Setting: Private practice specialized in psychiatric care.
+
+9) Type of Encounter: Initial consultation for this recurrent episode.
+
+10) Treatment Disparities: None identified, patient has good insurance coverage and resources for treatment.
+
+11) Native English-Speaking Patient: Yes.
+
+12) Physical exams: General physical exam conducted, normal findings apart from psychomotor retardation consistent with depression.
+
+13) Investigation/Test results: No further tests ordered at this initial visit, pending observation of medication efficacy and psychotherapy response.",Rejected,Rejected,Rejected
+"MAJOR DEPRESSIVE DISORDER, RECURRENT SEVERE WITHOUT PSYCHOTIC FEATURES","ROLE: Psychiatrist
+
+Medical Outcome:
+- Diagnosis: Major Depressive Disorder, recurrent severe without psychotic features.
+- Prescribed treatment: Initiation of Sertraline 50 mg orally, once daily, for a duration of 4 weeks, with a follow-up appointment scheduled in 1 month to assess effectiveness and consider dosage adjustment if necessary.
+- Additional recommendations: Begin Cognitive Behavioral Therapy (CBT) once weekly, encourage regular physical activity, and maintain a regular sleep schedule.
+- Referral: None needed at this point.
+
+Medical History:
+- Previous diagnoses: Recurrent episodes of Major Depressive Disorder.
+- Family medical history: Maternal history of depression and paternal history of anxiety.
+- Medication history: Previous trial of Fluoxetine, discontinued due to gastrointestinal side effects.
+- Allergies: No known drug allergies.
+- Chronic conditions: None reported.
+
+Symptom Description:
+- Severity: Severe impairment in daily functioning.
+- Duration: Current episode approximately 3 months.
+- Associated symptoms: Anhedonia, significant weight change, sleep disturbance, low energy, feelings of worthlessness.
+- Frequency: Daily symptoms.
+- Impact on daily activities: Inability to perform work duties, withdrawal from social activities.
+
+Patient’s self-reported habits and lifestyle:
+- Sleep: Irregular, often fewer than 5 hours per night.
+- Diet: Poor appetite with unintentional weight loss.
+- Exercise: Minimal, lacks motivation.
+- Tobacco use: Non-smoker.
+- Alcohol consumption: Small amounts of alcohol on weekends.
+- Drug use: None reported.
+- Recreational activities: None, due to lack of interest and energy.
+
+Demographic Information:
+- Age: 35 years old.
+- Gender: Female.
+- Ethnicity: Caucasian.
+- Socio-economic status: Middle class.
+- Education level: Bachelor’s degree.
+- Health literacy: Good understanding of health information.
+- Job status: Currently on leave from work due to depression.
+
+Patient's Behavior:
+- Cooperation with medical advice: Willing to follow treatment recommendations but expresses concern about medication side effects.
+
+Geographical Location:
+- Big city urban environment with moderate pollution levels.
+- Neighborhood type: Middle-income, well-served by transit.
+
+Clinical Setting:
+- Private practice psychiatric office.
+
+Type of Encounter:
+- Routine check-up for chronic disease management.
+
+Treatment Disparities:
+- No treatment disparities identified, equal access to treatment options is provided.
+
+Native or Non-Native English Speaking Patient:
+- Native English speaker.
+
+Physical exams:
+- Mental status exam revealing depressed mood, reduced affect, and slowed thought processes.
+
+Investigation/Test results:
+- Laboratory orders for baseline CBC (Complete Blood Count), CMP (Comprehensive Metabolic Panel), Thyroid Function Tests, and Vitamin B12 levels to rule out organic causes of depressive symptoms. Results are pending at the time of the visit.",Rejected,Rejected,Rejected
+"MAJOR DEPRESSIVE DISORDER, RECURRENT SEVERE WITHOUT PSYCHOTIC FEATURES","ROLE: Psychiatrist
+
+1) Medical Outcome: Diagnosis - Major depressive disorder, recurrent severe without psychotic features. Prescribed treatment - Escitalopram 10 mg orally once daily and cognitive-behavioral therapy once a week. Follow-up recommendation - Schedule a follow-up visit in four weeks to evaluate treatment efficacy and tolerance. Lifestyle change - Encourage a regular sleep schedule, balanced diet, and daily exercise.
+   
+2) Medical History: Previous episodes of depression treated with fluoxetine, family medical history of depression, no known drug allergies, and no chronic conditions reported.
+
+3) Symptom Description: Reports severe depression with a duration of 6 weeks, symptoms persistent throughout the day, associated with anhedonia and feelings of worthlessness, impacts daily activities such as work and socialization.
+
+4) Patient’s Self-Reported Habits and Lifestyle: Irregular sleep patterns, poor appetite, no regular exercise routine, denies tobacco or significant alcohol use, no illicit drug use.
+
+5) Demographic Information: Age 32, gender female, ethnicity Caucasian, middle socio-economic status, college-educated, high health literacy, employed as a graphic designer.
+
+6) Patient's Behavior: Patient is cooperative and expresses a strong desire to improve her mental health.
+
+7) Geographical Location: Urban environment, metropolitan city with moderate pollution, resides in an affluent neighborhood with adequate transit access and no food deserts.
+
+8) Clinical Setting: Private practice psychiatric clinic.
+
+9) Type of Encounter: Initial consultation for this episode, although the patient has a history of similar problems in the past.
+
+10) Treatment Disparities: No current evidence of treatment disparities, patient appears to have adequate insurance coverage and financial means to afford prescribed therapy.
+
+11) Native English speaking patient.
+
+12) Physical Exams: The patient appears well-groomed but has a downcast demeanor with reduced eye contact; no abnormalities noted in neuropsychiatric examination.
+
+13) Investigation/Test Results: None performed at this visit. However, the patient is advised to get routine blood work to rule out hypothyroidism or other underlying conditions that could contribute to depressive symptoms. Specific tests to order: Complete Blood Count (CBC), Thyroid-Stimulating Hormone (TSH), Comprehensive Metabolic Panel (CMP), Vitamin D levels. Results are pending and will be discussed at the follow-up visit.",Rejected,Rejected,Rejected
