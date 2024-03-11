@@ -1,0 +1,260 @@
+Disease Description,Scenario,Note,Role
+Shortness of Breath,"ROLE: Family Medicine Physician
+
+Scenario:
+
+1) Medical Outcome: Diagnosis of Dyspnea unspecified - ICD-10: R06.00. Prescribed Salbutamol inhaler: 100 mcg/dose, 1-2 puffs every 4-6 hours as needed for wheezing and shortness of breath. Duration: Use for the next 4 weeks and revaluate. Quantity: 1 inhaler, 200 doses, route: Inhalation. Referral to a pulmonologist for further evaluation, Dr. Jane Smith, Pulmonary Medicine. Order for chest X-ray, posteroanterior and lateral views to assess lung structures.
+
+2) Medical History: Previous diagnosis of asthma, family history of chronic obstructive pulmonary disease (COPD), medication history includes albuterol as needed, no known allergies, no other chronic conditions reported.
+
+3) Symptom Description: Patient reports sudden onset of shortness of breath, moderate severity for past 2 days, no associated chest pain or cough, frequency intermittent, impacting ability to climb stairs and perform vigorous activities.
+
+4) Patient’s self-reported habits and lifestyle: Sleep 6-8 hours nightly with occasional insomnia, diet includes heavy reliance on processed foods, exercises infrequently, non-smoker, admits to occasional alcohol use on weekends, no current drug use, enjoys hiking on weekends.
+
+5) Demographic Information: 45-year-old female, Caucasian, middle socio-economic status, college educated, adequate health literacy, employed as a high school teacher.
+
+6) Patient's Behavior: Patient is generally cooperative but admits to not always using inhaler as prescribed during previous mild episodes.
+
+7) Geographical Location: Medium-sized city, urban environment with moderate pollution, lives in a well-served community by public transit, not a food desert.
+
+8) Clinical Setting: Outpatient clinic.
+
+9) Type of Encounter: Initial consultation for this episode, though patient is established with the clinic.
+
+10) Treatment Disparities: Patient has health insurance, and compliance with treatment is expected to be high barring any unforeseen economic changes.
+
+11) Native English Speaking Patient: Yes.
+
+12) Physical exams: Revealed mild wheezing on auscultation, respiratory rate of 20 breaths per minute, rest of the exam is unremarkable.
+
+13) Investigation/Test results: Chest X-ray ordered, awaiting results. ","Subjective:
+A 45-year-old Caucasian female presents with a sudden onset of shortness of breath of moderate severity for the past 2 days. She reports that episodes are intermittent and specifically impact her ability to climb stairs and perform vigorous activities. The patient has a known history of asthma and a family history of COPD. She is currently using albuterol as needed and has no known allergies or other chronic conditions. Patient admits to infrequent exercise, reliance on processed foods, and occasional alcohol use on weekends. She sleeps 6-8 hours a night but experiences occasional insomnia. The patient is a non-smoker and denies current drug use. She lives in an urban environment and is employed as a high school teacher. Patient acknowledges not always using her inhaler as prescribed during previous mild episodes. She is cooperative and is expected to comply with treatment recommendations.
+
+Objective:
+The physical examination reveals mild wheezing on auscultation, with a respiratory rate of 20 breaths per minute. The rest of the exam is unremarkable. The patient's weight and blood pressure are within normal limits. Oxygen saturation is not specified but should be assessed.
+
+Assessment:
+The differential diagnosis includes an exacerbation of asthma, but given the patient's family history, COPD could be a concern as well. There are no signs of acute infection or other causes of dyspnea based on the history and physical examination. The diagnosis at this stage is Dyspnea unspecified (ICD-10: R06.00).
+
+Plan:
+1. Prescribe Salbutamol inhaler: 100 mcg/dose, 1-2 puffs every 4-6 hours as needed for wheezing and shortness of breath. Patient is instructed to use the inhaler for the next 4 weeks and report any side effects or lack of symptom relief.
+   - Quantity: 1 inhaler, 200 doses
+   - Route: Inhalation
+
+2. Referral to Dr. Jane Smith, Pulmonologist, for further evaluation to rule out COPD and optimize long-term asthma management.
+
+3. Order chest X-ray, including posteroanterior and lateral views, to assess lung structures and assist in differential diagnosis.
+
+4. Recommend improvements in diet, reducing reliance on processed foods, and encourage regular exercise as tolerated.
+
+5. Schedule a follow-up appointment in 4 weeks to reevaluate the patient's symptoms and management plan, or sooner if the patient experiences worsening of symptoms.
+
+6. Discuss inhaler technique and adherence to ensure proper use of Salbutamol and control of symptoms.
+
+7. Provide education on monitoring peak flow readings at home if applicable, to track asthma control.
+
+8. Inform the patient to seek immediate medical attention for severe dyspnea, chest pain, or other alarming symptoms.",Family Medicine Physician
+Shortness of Breath,"ROLE: Family Medicine Physician
+
+1) Medical Outcome: Diagnosis of Acute Bronchitis, Prescribed Treatment with Azithromycin, dose: 500mg, units: mg, frequency: once daily, duration: 5 days, quantity: 5, quantity type: tablets, route: oral. Recommendation for follow-up in one week. Suggestion for an albuterol inhaler for symptomatic relief, 90 mcg per actuation, 2 puffs every 4-6 hours as needed.
+
+2) Medical History: Previous upper respiratory infections, no known drug allergies, no chronic conditions noted.
+
+3) Symptom Description: Patient reports severe difficulty breathing, symptoms present for 2 days, coughing increases symptom severity, breathing difficulties occur sporadically throughout the day, impacting ability to perform daily activities such as walking short distances.
+
+4) Patient’s self-reported habits and lifestyle: Adequate sleep, balanced diet, irregular exercise, no tobacco use, moderate alcohol use on weekends, no drug use, enjoys reading and gardening.
+
+5) Demographic Information: Age: 45 years old, Gender: Female, Ethnicity: Caucasian, Socio-economic status: Middle class, Education level: College degree, Health literacy: Moderate, Job status: Employed full-time as a school administrator.
+
+6) Patient's Behavior: Patient is generally compliant with medical advice but expresses concern about taking antibiotics and prefers to avoid medications when possible.
+
+7) Geographical Location: Suburban neighborhood, medium-sized city, low pollution levels, neighborhood is well-served by transit, not a food desert.
+
+8) Clinical Setting: Private practice clinic.
+
+9) Type of Encounter: Initial consultation for the recent symptoms.
+
+10) Treatment Disparities: None observed or anticipated, patient has health insurance, and treatment options have been explained including home care and over-the-counter options.
+
+11) Native English Speaking Patient: Yes.
+
+12) Physical exams: Lungs auscultated, presence of wheezing and rhonchi in the lower lobes bilaterally, no signs of cyanosis, respiratory rate elevated.
+
+13) Investigation/Test results: Chest X-ray ordered to rule out pneumonia, modality: Radiography, body area: Chest, results pending.","Subjective:
+A 45-year-old Caucasian female presents with severe difficulty breathing, which has persisted for 2 days. She reports that her breathing troubles occur sporadically throughout the day and are exacerbated by coughing, severely impacting her daily activities, including walking short distances. The patient has a history of upper respiratory infections but no known drug allergies or chronic conditions. She maintains adequate sleep and a balanced diet but exercises irregularly. She consumes alcohol moderately on weekends and does not use tobacco or drugs. Her social history includes reading and gardening. Although generally compliant, the patient is hesitant about taking antibiotics, preferring to avoid medications when possible.
+
+Objective:
+Physical examination reveals wheezing and rhonchi in the lower lobes bilaterally; no cyanosis is observed, but her respiratory rate is elevated. A chest X-ray has been ordered to rule out pneumonia, with results currently pending.
+
+Assessment:
+The clinical presentation and examination findings are suggestive of Acute Bronchitis.
+
+Plan:
+1. Prescribe Azithromycin 500mg orally once daily for 5 days (quantity: 5 tablets).
+2. Recommend an albuterol inhaler for symptomatic relief; 90 mcg per actuation, with 2 puffs every 4-6 hours as needed.
+3. Schedule a follow-up appointment in one week to reassess the patient’s condition.
+4. Patient education, emphasizing the importance of completing the antibiotic course despite her concerns about medication use. Counselling to address the responsible use of the albuterol inhaler and to monitor for any potential side effects.
+5. Await the chest X-ray results; to be reviewed upon follow-up or sooner if results are abnormal.
+6. Advise on the importance of adequate hydration and rest, and to avoid smoke and pollutants which may aggravate respiratory symptoms.
+7. Instruct the patient to seek immediate medical care if experiencing a worsening of symptoms such as high fever, difficulty breathing, or if new symptoms appear.",Family Medicine Physician
+Shortness of Breath,"ROLE: Family Medicine Physician
+
+Scenario:
+
+1) Medical Outcome: Diagnosis of dyspnea likely due to bronchitis. Prescribed treatment includes Amoxicillin 500mg, tablets, take one tablet orally three times daily for a duration of 10 days. Follow-up recommendation for reevaluation in two weeks. Advised on lifestyle modifications, including rest, hydration, and a smoke-free environment due to tobacco use. Additional recommendation for use of a humidifier at home to ease breathing.
+
+2) Medical History: History of recurrent bronchitis, no known drug allergies, father with chronic obstructive pulmonary disease (COPD), currently manages hypertension with Lisinopril.
+
+3) Symptom Description: Reports moderate to severe difficulty breathing, with symptoms lasting 3 days, increasingly frequent episodes, affecting ability to engage in physical activity.
+
+4) Patient’s self-reported habits and lifestyle: Has a history of tobacco use, currently smokes half a pack of cigarettes per day, limited exercise due to current symptoms, sleeps poorly due to cough, diet rich in processed foods.
+
+5) Demographic Information: 52-year-old male, Caucasian, middle socio-economic status, high school education, adequate health literacy, employed as a construction worker.
+
+6) Patient's Behavior: Generally adherent to medical advice but struggles with smoking cessation.
+
+7) Geographical Location: Lives in a small city with moderate air pollution, blue-collar neighborhood, limited access to quality food markets.
+
+8) Clinical Setting: Visiting a family medicine clinic.
+
+9) Type of Encounter: Initial consultation for the current episode, but a follow-up for underlying recurrent bronchitis.
+
+10) Treatment Disparities: None evident in the current scenario. Treatment plan considers financial and practical accessibility to medications and follow-up.
+
+11) Native English-Speaking Patient.
+
+12) Physical exams: Respiratory exam showed wheezing on auscultation, evidence of prolonged expiration, no cyanosis.
+
+13) Investigation/Test results: Chest X-ray ordered to rule out pneumonia; Imaging to be done - radiography of the chest, anterior-posterior, and lateral views. Currently awaiting results. Basic metabolic panel blood work ordered, including biochemistry for electrolytes and renal function, given the history of hypertension and current medication. Results are pending.","Subjective:
+A 52-year-old male presents with moderate to severe difficulty in breathing that has persisted for 3 days. The patient reports an increasing frequency of episodes that have begun to impact his level of physical activity significantly. He has a recurrent history of bronchitis and currently smokes half a pack of cigarettes per day, which he has struggled to quit. His sleep is disturbed by a cough, and he consumes a diet that is high in processed foods. He is aware of his father's history of COPD and has been managing his hypertension with Lisinopril. He understands his health condition and the potential consequences of his lifestyle choices. The patient is generally adherent to medical advice, except for smoking cessation.
+
+Objective:
+On physical exam, the patient has a respiratory rate within normal limits, but with wheezing on auscultation, and evidence of prolonged expiration; however, no cyanosis is noted. Blood pressure is stable, monitored due to known hypertension. A chest X-ray was performed to rule out pneumonia, and a basic metabolic panel was ordered to check electrolytes and renal function. These investigations are pending.
+
+Assessment:
+The likely diagnosis for the patient is bronchitis, considering the symptoms and the history of recurrent bronchial infections. The family history of COPD and tobacco use are risk factors for both bronchitis and potential COPD development. The diagnosis of pneumonia is currently being ruled out with a chest X-ray, considering the patient's respiratory symptoms.
+
+Plan:
+1. Medication Prescribed: Amoxicillin 500mg, oral tablets, 1 tablet to be taken three times daily for 10 days.
+2. Lifestyle Modifications: Advise patient to rest adequately, maintain hydration, and ensure a smoke-free environment. Recommend the use of a humidifier at home to help ease breathing difficulties.
+3. Follow-Up: Arrange a reevaluation in two weeks to assess the effectiveness of treatment and symptom progression.
+4. Tobacco Use: Encourage patient to quit smoking and consider providing resources for smoking cessation assistance.
+5. Investigations: Await results of the chest X-ray and basic metabolic panel. If additional findings, consider adjustments to treatment accordingly.
+6. Review Medication: Ensure that the current hypertension management does not contraindicate the prescribed antibiotic treatment and keep monitoring blood pressure levels.
+7. Education: Reinforce education and counsel the patient on the importance of a balanced diet and potential benefits of incorporating regular physical activity into his routine once his current symptoms resolve.",Family Medicine Physician
+Shortness of Breath,"ROLE: General Physician
+
+1) Medical Outcome: Diagnosis of Dyspnea, not otherwise specified (ICD-10 R06.02); prescribed Salbutamol inhaler, 100 mcg per dose, 2 puffs every 4-6 hours as needed for acute symptoms; refer to Pulmonology for further evaluation; recommend lifestyle change including moderate exercise to improve lung function and to quit tobacco use; order for Chest X-ray (PA and Lateral view) and Pulmonary Function Test (Spirometry).
+
+2) Medical History: Previous diagnosis of asthma, hypertension; family history of asthma and COPD; medication history includes inhalers and antihypertensives; no known drug allergies; chronic conditions of asthma and hypertension.
+
+3) Symptom Description: Moderate severity of shortness of breath, increasing over the past week, shortness of breath occurs during mild exertion, impacting the ability to perform daily activities such as climbing stairs.
+
+4) Patient’s self-reported habits and lifestyle: Reports poor sleep quality, diet high in processed foods, sedentary lifestyle, current tobacco use (1 pack/day for 15 years), occasional alcohol consumption, no illicit drug use.
+
+5) Demographic Information: 52-year-old male, Caucasian, lower-middle-class socio-economic status, high school education level, limited health literacy, employed as a mechanic.
+
+6) Patient's Behavior: Patient is initially reluctant to modify lifestyle but shows willingness to quit smoking after counseling on the risks.
+
+7) Geographical Location: Lives in a small, industrial city with moderate pollution and environmental health risks, neighborhood is semi-affluent and well-served by transit, some areas are considered food deserts.
+
+8) Clinical Setting: Outpatient in a community clinic.
+
+9) Type of Encounter: Initial consultation due to recent worsening of symptoms.
+
+10) Treatment Disparities: None observed; patient is provided with the same standard of care and treatment options as would be offered to any patient presenting with similar symptoms and condition.
+
+11) Native English Speaking Patient: Yes.
+
+12) Physical Exams: Cardiovascular and respiratory exam revealed wheezes on auscultation bilaterally, without cyanosis; oxygen saturation 94% on room air.
+
+13) Investigation/Test Results: Awaiting results for Chest X-ray and Pulmonary Function Test (ordered today).","Subjective:
+The patient is a 52-year-old Caucasian male presenting with a moderate increase in dyspnea over the past week, particularly during mild exertion such as climbing stairs. He reports that this exacerbation is impacting his daily activities. His medical history includes a diagnosis of asthma and hypertension, with a family history of asthma and COPD. Currently, he is on inhalers and antihypertensives, with no known drug allergies. The patient's self-reported lifestyle includes a diet high in processed foods, a sedentary lifestyle, poor sleep quality, and current tobacco use (1 pack/day for 15 years), with occasional alcohol and no illicit drug use. He has expressed a willingness to quit smoking after receiving counseling about the associated risks. The patient lives in a small industrial city and works as a mechanic.
+
+Objective:
+Exam findings reveal bilateral wheezing on auscultation, no signs of cyanosis, and an oxygen saturation level of 94% on room air. Vital signs and other examination details are within expected parameters for the patient's age and history.
+
+Assessment:
+The patient's symptoms and history suggest Dyspnea, not otherwise specified (ICD-10 R06.02). Considering the previous diagnosis of asthma, the recent increase in symptoms might indicate poor control of the underlying asthma or a possible superimposed complication. His smoking habit is a significant contributor to his respiratory symptoms and might be a barrier to optimal asthma control.
+
+Plan:
+1. Prescribe Salbutamol inhaler, 100 mcg per dose, with instructions to take 2 puffs every 4-6 hours as needed for acute symptoms.
+2. Refer the patient to a Pulmonologist for detailed evaluation and to explore the need for additional asthma controller therapy.
+3. Strongly advise a lifestyle change, focusing on moderate exercise to improve lung function and a balanced diet, and provide resources for tobacco cessation assistance.
+4. Order imaging studies: Chest X-ray (PA and Lateral view) to check for any structural abnormalities and acute issues.
+5. Order a Pulmonary Function Test (Spirometry) to assess lung function and the severity of asthma.
+6. Schedule a follow-up appointment to review test results and assess the response to the inhaler and any new changes after attempting lifestyle modifications.
+7. Provide educational materials tailored to the patient's health literacy to help manage asthma and hypertension effectively.
+8. Reinforce the importance of a smoke-free environment and offer support for smoking cessation, including options such as a quitline, counseling, and potential pharmacotherapy if the patient is interested.",General Physician
+Shortness of Breath,"ROLE: Family Medicine Physician
+
+1) Medical Outcome: Diagnosis of Shortness of Breath due to acute bronchitis, prescribed treatment includes inhalational salbutamol using a metered-dose inhaler, two puffs every 4 hours as needed for wheezing or shortness of breath, follow-up recommended in 1 week to reassess symptoms or earlier if symptoms worsen. Opt for chest x-ray if no improvement to rule out pneumonia.
+
+2) Medical History: Previously diagnosed with mild intermittent asthma, family history of atopic conditions, medication history includes occasional use of inhalational salbutamol, no known drug allergies, no other chronic conditions.
+
+3) Symptom Description: Shortness of breath described as mild to moderate in severity, progressively worsening over the past 3 days, associated with a productive cough, occurs predominantly in the mornings, impacts the ability to perform vigorous activities.
+
+4) Patient’s self-reported habits and lifestyle: Reports 7 hours of sleep per night with occasional disruptions, balanced diet without specific restrictions, moderate exercise routine including walking 30 minutes daily, no tobacco use, social alcohol consumption on weekends, no illicit drug use, enjoys gardening on weekends.
+
+5) Demographic Information: Age 42, gender female, ethnicity non-Hispanic white, middle socio-economic status, college-educated, has a good understanding of health-related issues, employed as a school teacher.
+
+6) Patient's Behavior: The patient is typically compliant with medical recommendations and is proactive about seeking medical attention when symptoms arise.
+
+7) Geographical Location: Lives in a suburban area, relatively low pollution, in a well-connected neighborhood with access to parks and supermarkets, neither impoverished nor affluent.
+
+8) Clinical Setting: The consultation is taking place in a family medicine clinic.
+
+9) Type of Encounter: Initial consultation for the current episode of shortness of breath. The patient has a history of sporadic visits for similar symptoms.
+
+10) Treatment Disparities: There are no indications of treatment disparities; the patient appears to have adequate insurance and reports no barriers to accessing health care.
+
+11) Native or Non-Native English Speaking Patient: Native English-speaking patient.
+
+12) Physical exams: General examination reveals mild respiratory distress, wheezing upon auscultation, no signs of cyanosis, and normal oxygen saturation on room air.
+
+13) Investigation/Test results: Chest x-ray was ordered to assess the lungs, pending results to exclude pneumonia if no improvement with initial management.","Subjective:
+A 42-year-old female presents with mild to moderate shortness of breath that has progressively worsened over the past three days. She mentions a productive cough and notes that symptoms are more prevalent in the morning, which limits her ability to perform vigorous activities. She has a history of mild intermittent asthma and uses salbutamol inhalers as needed. The patient has a family history of atopic conditions but denies any known drug allergies. She leads a moderately active lifestyle and is compliant with previous medical advice. There is no tobacco use, but she consumes alcohol socially on weekends.
+
+Objective:
+On examination, the patient appears to be in mild respiratory distress with wheezing heard on auscultation. No cyanosis is present, and oxygen saturation remains normal while breathing room air. Her overall health appears good and no other abnormalities are found in the general physical exam. A chest x-ray has been ordered but results are not yet available.
+
+Assessment:
+The patient's clinical presentation is consistent with acute bronchitis, potentially superimposed on her known asthma. The worsening shortness of breath, coupled with her cough, indicates a likely inflammatory process within the airways. Without signs of more severe disease and with normal oxygen saturation, a working diagnosis of acute bronchitis is appropriate at this time.
+
+Plan:
+1. Prescribe inhalational salbutamol using a metered-dose inhaler, two puffs every 4 hours as needed for relief of wheezing or shortness of breath.
+2. Advise the patient to return for a follow-up visit in one week for symptom reassessment, or earlier if her symptoms worsen unexpectedly.
+3. Instruct the patient to monitor her symptoms closely, especially for any signs that might suggest bacterial infection or other complications requiring prompt medical attention.
+4. Arrange for a chest x-ray to be done if there is no improvement with the inhaler treatment as this would be necessary to rule out pneumonia.
+5. Educate the patient on the importance of staying hydrated and the option of using a humidifier at home to help with breathing.
+6. Recommend the continuation of her moderate exercise routine and balanced diet to maintain overall health.
+7. The patient will be provided with an action plan for managing her asthma and recognizing signs of exacerbation.
+
+It is important for the patient to contact the clinic or seek emergent care if she experiences a significant increase in shortness of breath, persistent fever, or any other acute changes.",Family Medicine Physician
+Shortness of Breath,"ROLE: Family Medicine Physician
+
+1) Medical Outcome: Diagnosis of Dyspnea (ICD-10: R06.02), prescribed treatment includes Salbutamol inhaler, 100 micrograms, 2 puffs inhaled every 4-6 hours as needed for acute symptoms; Chest X-ray ordered to assess for potential underlying causes such as pneumonia or heart failure – PA and lateral views; Referral to Pulmonologist, Dr. Evelyn Hayes for further evaluation given the persistence of symptoms despite initial treatment.
+
+2) Medical History: Previous diagnosis of mild asthma, family medical history of atopic disease, no known medication allergies, no chronic conditions other than mild asthma.
+
+3) Symptom Description: Acute on chronic shortness of breath, moderate severity, worsening over the past week, associated with mild wheezing, impacting daily activities like walking up stairs.
+
+4) Patient’s self-reported habits and lifestyle: Sleeps approximately 7 hours per night, balanced diet, occasional exercise, denies tobacco use, moderate alcohol use on weekends, denies drug use.
+
+5) Demographic Information: 34 years old, Male, Caucasian, middle socio-economic status, college-educated, high health literacy, employed as an engineer.
+
+6) Patient's Behavior: Generally cooperative with medical advice but occasionally forgets to use inhaler as prescribed.
+
+7) Geographical Location: Urban area, moderate pollution, lives in a well-served neighborhood by transit.
+
+8) Clinical Setting: Outpatient clinic.
+
+9) Type of Encounter: Follow-up after an initial consultation for an episode of severe dyspnea.
+
+10) Treatment Disparities: None observed or reported, the patient has insurance and seems to be complying well with the treatment plan.
+
+11) Native English-Speaking Patient: Yes.
+
+12) Physical exams: Revealed mild expiratory wheeze on auscultation, no cyanosis; The rest of the physical exam is within normal limits.
+
+13) Investigation/Test results: Spirometry performed showing FEV1/FVC ratio slightly reduced indicating possible obstruction, awaiting Chest X-ray results.",Rejected,Rejected
