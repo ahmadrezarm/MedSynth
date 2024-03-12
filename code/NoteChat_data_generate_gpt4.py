@@ -20,7 +20,7 @@ def read_api_key(file_path):
         return file.read().strip()
     
 #  path to API key file
-api_key_file_path = '/Users/ahmadrezaie/DalPhD/Research/note_taking_v2/data/input/OpenAIkey.txt'
+api_key_file_path = '/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/input/OpenAIkey.txt'
 # Read the API key from the specified file
 client = OpenAI(api_key=read_api_key(api_key_file_path))
 
@@ -330,7 +330,7 @@ def chat(text, history_conv='', flag=0, max_epochs=60):
   messages_fluence.append({"role": "user", "content": f'Conversation:\n{conv}'})
   messages_fluence.append({"role": "user", "content": f"Key Words:\n{','.join(word_list)}"})
 
-  sample = pd.read_csv('/Users/ahmadrezaie/DalPhD/Research/note_taking_v2/data/input/TaskC-TrainingSet.csv')['dialogue'].sample(n=1)    #.loc[0]: instead of .loc[0], I used sample to add more variety. I also keep it just the training set, not aci-al-together so that I can test on the test set in the future.
+  sample = pd.read_csv('/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/input/TaskC-TrainingSet.csv')['dialogue'].sample(n=1)    #.loc[0]: instead of .loc[0], I used sample to add more variety. I also keep it just the training set, not aci-al-together so that I can test on the test set in the future.
   sample = sample.replace('[doctor]', 'Doctor:')
   sample = sample.replace('[patient]', 'Patient:')
   prompt = f"""
@@ -400,18 +400,19 @@ def main():
   parser.add_argument('--index', type=int, required=True, help="Index of the note to process")
   args = parser.parse_args()
 
-  data = pd.read_csv('/Users/ahmadrezaie/DalPhD/Research/note_taking_v2/data/output/doctor_judge_notes_2024-02-21_2.csv')
+  #data = pd.read_csv('/Users/ahmadrezaie/DalPhD/Research/note_taking_v2/data/output/doctor_judge_notes_2024-02-21_2.csv')
+  data = pd.read_csv("/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/for_feedback_round1/after_polish/sample_notes.csv", sep="|")
   
   # Check if the index is within the valid range of the DataFrame's index
   if args.index not in data.index:
     raise ValueError(f"Index {args.index} is out of bounds for the dataset.")
   
-  text = (str(args.index), 'MEDICATIONS', data['Note'].loc[args.index])
-  cui, _, _ = cui_code(data['Note'].loc[args.index])
-  conv = chat(text, max_epochs=min(50, max(len(data['Note'].loc[args.index].split('.')), len(list(cui.keys())))))
+  text = (str(args.index), 'MEDICATIONS', data['Polished Note'].loc[args.index])
+  cui, _, _ = cui_code(data['Polished Note'].loc[args.index])
+  conv = chat(text, max_epochs=min(50, max(len(data['Polished Note'].loc[args.index].split('.')), len(list(cui.keys())))))
   len_conv = len(conv.split('\n'))
   
-  file_path = f'/Users/ahmadrezaie/DalPhD/Research/note_taking_v2/data/output/NoteChat_gpt4/{args.index}.txt'
+  file_path = f'/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/for_feedback_round1/after_polish/{args.index}.txt'
   with open(file_path, 'w') as file:
     file.write(conv)
   print(f"Conversation saved to {file_path}")
