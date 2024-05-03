@@ -1,7 +1,8 @@
 import evaluate
 import numpy as np
-from MEDCON import UMLSScorer 
+from medcon import UMLSScorer 
 
+#TODO: Add PROMETHEUS
 class Metrics:
     def __init__(self, prediction_list, gt_list):
         self.pred_list = prediction_list
