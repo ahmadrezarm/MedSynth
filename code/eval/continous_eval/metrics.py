@@ -2,7 +2,7 @@ import evaluate
 import numpy as np
 from medcon import UMLSScorer 
 
-#TODO: Add PROMETHEUS
+#TODO: Add PROMETHEUS 2
 class Metrics:
     def __init__(self, prediction_list, gt_list):
         self.pred_list = prediction_list

@@ -50,18 +50,18 @@ class Evaluator:
         quantizes the model and makes it ready to be tested
         """
         # Flash Attention
-        if torch.cuda.get_device_capability()[0] >= 8:
-            attn_implementation = "flash_attention_2"
-            torch_dtype = torch.bfloat16
-        else:
-            attn_implementation = "eager"
-            torch_dtype = torch.float16
+        #if torch.cuda.get_device_capability()[0] >= 8:
+            #attn_implementation = "flash_attention_2"
+            #torch_dtype = torch.bfloat16
+        #else:
+            #attn_implementation = "eager"
+            #torch_dtype = torch.float16
 
         # QLoRA config
         bnb_config = BitsAndBytesConfig(
             load_in_4bit=True,
             bnb_4bit_quant_type="nf4",
-            bnb_4bit_compute_dtype=torch_dtype,
+            bnb_4bit_compute_dtype=torch.float16, #torch_dtype,
             bnb_4bit_use_double_quant=True,
         )
 
@@ -73,7 +73,7 @@ class Evaluator:
             model,
             quantization_config=bnb_config,
             device_map="auto",
-            attn_implementation=attn_implementation
+            #attn_implementation=attn_implementation
         )
 
         return model, tokenizer
