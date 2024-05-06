@@ -20,4 +20,4 @@ scores = get_absolute_score(conversations_list = conversation_list,
                             reference_list= refence_list, 
                             model_response_list = model_note_list)
 
-save_results_to_csv(scores= scores, name= "prometheus_absolute_scores_base_model")
+save_results_to_csv(scores= scores, name= "prometheus_absolute_scores_base_model_second_run")

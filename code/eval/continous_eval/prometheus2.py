@@ -41,7 +41,10 @@ def get_preference_score(conversation_list, reference_list, model_A_response_lis
         }
 
         feedback, score = preference_judge.single_relative_grade(**data)
-        preferences[idx] = {"feedback": feedback, "Preference": score}
+        preferences[idx] = {"conversation": conversation_list[idx], "reference_note": reference, 
+                            "model_A_note": model_A_response_list[idx], "model_B_note": model_B_response_list[idx], 
+                            "feedback": feedback, "Preference": score}
+        print(f"index {idx} processed")
 
     return preferences
 
@@ -79,7 +82,11 @@ def get_absolute_score(conversations_list, reference_list, model_response_list):
             rubric=absolute_score_rubric,
             reference_answer=reference
         )
-        absolute_scores[idx] = {"feedback": feedback, "Score": score}
+        
+        absolute_scores[idx] = {"conversation": conversations_list[idx], "reference_note": reference, 
+                                "model_note": model_response_list[idx], "feedback": feedback, "Score": score}
+        
+        print(f"index {idx} processed")
 
     return absolute_scores
 
