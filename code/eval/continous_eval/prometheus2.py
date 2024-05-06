@@ -7,9 +7,7 @@ from prometheus_eval.prompts import ABSOLUTE_PROMPT, SCORE_RUBRIC_TEMPLATE
 
 from utils import constants
 
-preference_judge = PrometheusEval(model_id="prometheus-eval/prometheus-7b-v2.0", relative_grade_template=RELATIVE_PROMPT)
 
-absolute_judge = PrometheusEval(model_id="prometheus-eval/prometheus-7b-v2.0", absolute_grade_template=ABSOLUTE_PROMPT)
 
 """
 def get_preference_score(conversations_list, refrence_list, model_A_response_list, model_B_response_list):
@@ -30,9 +28,10 @@ def get_preference_score(conversations_list, refrence_list, model_A_response_lis
 """
 
 def get_preference_score(conversation_list, reference_list, model_A_response_list, model_B_response_list):
+    preference_judge = PrometheusEval(model_id="prometheus-eval/prometheus-7b-v2.0", relative_grade_template=RELATIVE_PROMPT)
     preferences = {}
     for idx, reference in enumerate(reference_list):
-        instruction_with_conversation = constants.prometheus_preference_instruction.format(conversation=conversation_list[idx])
+        instruction_with_conversation = constants.prometheus_preference_instruction .format(conversation=conversation_list[idx])
         data = {
             "instruction": instruction_with_conversation,
             "response_A": model_A_response_list[idx],
@@ -67,6 +66,7 @@ def get_absolute_score(conversations_list, refrence_list, model_response_list):
 
 # Absolute Grading: Outputs score of 1 to 5
 def get_absolute_score(conversations_list, reference_list, model_response_list):
+    absolute_judge = PrometheusEval(model_id="prometheus-eval/prometheus-7b-v2.0", absolute_grade_template=ABSOLUTE_PROMPT)
     absolute_scores = {}
     for idx, reference in enumerate(reference_list):
         instruction_with_conversation = constants.prometheus_absolute_instruction.format(conversation=conversations_list[idx])
@@ -82,9 +82,6 @@ def get_absolute_score(conversations_list, reference_list, model_response_list):
         absolute_scores[idx] = {"feedback": feedback, "Score": score}
 
     return absolute_scores
-
-
-absolute_scores = get_absolute_score()
 
 
 

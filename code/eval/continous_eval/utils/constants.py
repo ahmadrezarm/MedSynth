@@ -21,12 +21,13 @@ You are to review each summary to ensure that it:
 4. Uses medical terminology correctly and appropriately.
 5. Provides evidence-based assessments and plans where applicable.
 
-Here is the conversation:
+#Here is the conversation:
 #############################
-{conversation}
+#{conversation}
 #############################
-"""
 
+"""
+# I ran out of gpu memory, removing conversations to see how it goes.
 
 prometheus_preference_rubric= """
 1. Completeness:
@@ -52,11 +53,16 @@ You are a medical professional evaluating summary notes taken from doctor-patien
 These conversations are summarized in the SOAP (Subjective, Objective, Assessment, Plan) format. 
 Each summary should capture essential details and nuances of the conversation comprehensively and accurately.
 Your task is to evaluate each summary note to ensure it captures the key components of the conversation, employs medical terminology correctly, and organizes the information clearly and accurately according to the SOAP format.
-Here is the conversation:
+#Here is the conversation:
+
 #############################
-{conversation}
+#{conversation}
 #############################
 """
+
+# I ran out of gpu memory, removing conversations to see how it goes.
+
+
 
 prometheus_absolute_rubric_data = {
   "criteria":"Does the summary note accurately and comprehensively reflect the SOAP format with clarity and medical precision?",
