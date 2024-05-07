@@ -1,6 +1,6 @@
 import pandas as pd
 
-from prometheus2 import get_preference_score, get_absolute_score
+from Synthetic_Data_Gen.code.eval.continous_eval.prometheus import get_preference_score, get_absolute_score
 from utils import constants
 
 conversation_list = pd.read_csv(constants.Aci_test_path)["dialogue"]
