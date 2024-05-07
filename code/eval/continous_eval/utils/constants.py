@@ -7,9 +7,8 @@ HF_READ_TOKEN = os.getenv('MY_HF_READ_TOKEN')
 
 
 # for base model eval
-summarizer_system_prompt = """You are a an assistant to medical doctors and help them summarize their conversations with patients.
-                The doctor will give you the conversation and you should summarize it into SOAP format. Please make sure it is comprehensive and accuarate. The summary will be used to
-                as the medical note of the visit in Electronic Health Record system."""
+summarizer_system_prompt= """You are an assistant for medical professionals, specializing in summarizing their conversations with patients. Your role is to accurately and comprehensively summarize these conversations in the SOAP (Subjective, Objective, Assessment, Plan) format. These summaries will serve as official medical notes for patient visits within the Electronic Health Record system. Ensure that each summary is thorough and precise, reflecting all relevant details from the conversation to provide a reliable medical record."""
+
 
 base_model= "meta-llama/Meta-Llama-3-8B-Instruct"
 
@@ -20,22 +19,18 @@ Aci_train_path = "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/TaskC-Trai
 # for prometheus:
 prometheus_preference_instruction = """
 Imagine you are a medical professional tasked with evaluating summary notes taken from doctor-patient conversations. These conversations are summarized using the SOAP (Subjective, Objective, Assessment, Plan) format. Each summary must accurately capture the key details and nuances of the conversation, including symptoms described by the patient (Subjective), observable facts and findings from the doctor (Objective), the doctor's diagnosis or interpretation of the patient's condition (Assessment), and the proposed treatment or next steps (Plan).
-
 You are to review each summary to ensure that it:
-
 1. Accurately reflects the information provided during the conversation.
 2. Is clearly organized according to the SOAP format.
 3. Contains all relevant details needed for a comprehensive understanding of the patient’s situation.
 4. Uses medical terminology correctly and appropriately.
 5. Provides evidence-based assessments and plans where applicable.
-
-#Here is the conversation:
+Here is the conversation:
 #############################
-#{conversation}
+{conversation}
 #############################
-
 """
-# I ran out of gpu memory, removing conversations to see how it goes.
+
 
 prometheus_preference_rubric= """
 1. Completeness:
@@ -61,15 +56,11 @@ You are a medical professional evaluating summary notes taken from doctor-patien
 These conversations are summarized in the SOAP (Subjective, Objective, Assessment, Plan) format. 
 Each summary should capture essential details and nuances of the conversation comprehensively and accurately.
 Your task is to evaluate each summary note to ensure it captures the key components of the conversation, employs medical terminology correctly, and organizes the information clearly and accurately according to the SOAP format.
-#Here is the conversation:
-
+Here is the conversation:
 #############################
-#{conversation}
+{conversation}
 #############################
 """
-
-# I ran out of gpu memory, removing conversations to see how it goes.
-
 
 
 prometheus_absolute_rubric_data = {

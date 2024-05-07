@@ -84,7 +84,7 @@ class MistralInstructDataset(InstructDataset):
         """
         prompts = []
         for index, row in self.dataset.iterrows():
-            prompt = f"""<s>[INST] {row['instruction']} This is the question: {row['dialogue']} [/INST] \\n {row['note_SOAP']}</s>"""
+            prompt = f"""<s>[INST] {row['instruction']} This is the conversation: {row['dialogue']} [/INST] \\n {row['note_SOAP']}</s>"""
             prompts.append(prompt)
         self.dataset["prompt"] = prompts
 
@@ -110,7 +110,7 @@ class Llama3InstructDataset(InstructDataset):
         """
         prompts = []
         for index, row in self.dataset.iterrows():
-            prompt = f"""<|start_header_id|>system<|end_header_id|> {row['instruction']}<|eot_id|><|start_header_id|>user<|end_header_id|> This is the question: {row['dialogue']}<|eot_id|><|start_header_id|>assistant<|end_header_id|> {row['note_SOAP']}<|eot_id|>"""
+            prompt = f"""<|start_header_id|>system<|end_header_id|> {row['instruction']}<|eot_id|><|start_header_id|>user<|end_header_id|> This is the conversation: {row['dialogue']}<|eot_id|><|start_header_id|>assistant<|end_header_id|> {row['note_SOAP']}<|eot_id|>"""
             prompts.append(prompt)
         self.dataset["prompt"] = prompts
 
@@ -123,6 +123,6 @@ class GemmaInstructDataset(InstructDataset):
         """
         prompts = []
         for index, row in self.dataset.iterrows():
-            prompt = f"<start_of_turn>user {row['instruction']} This is the question: {row['dialogue']}<end_of_turn> \\n <start_of_turn>model {row['note_SOAP']}<end_of_turn>model"
+            prompt = f"<start_of_turn>user {row['instruction']} This is the conversation: {row['dialogue']}<end_of_turn> \\n <start_of_turn>model {row['note_SOAP']}<end_of_turn>model"
             prompts.append(prompt)
         self.dataset["prompt"] = prompts
