@@ -1,4 +1,3 @@
-# Relative Grading: Outputs A or B
 
 from prometheus_eval import PrometheusEval
 from prometheus_eval.prompts import RELATIVE_PROMPT
@@ -27,6 +26,7 @@ def get_preference_score(conversations_list, refrence_list, model_A_response_lis
     return preferences
 """
 
+# Relative Grading: Outputs A or B
 def get_preference_score(conversation_list, reference_list, model_A_response_list, model_B_response_list):
     preference_judge = PrometheusEval(model_id="prometheus-eval/prometheus-7b-v2.0", relative_grade_template=RELATIVE_PROMPT)
     preferences = {}
@@ -44,7 +44,7 @@ def get_preference_score(conversation_list, reference_list, model_A_response_lis
         preferences[idx] = {"conversation": conversation_list[idx], "reference_note": reference, 
                             "model_A_note": model_A_response_list[idx], "model_B_note": model_B_response_list[idx], 
                             "feedback": feedback, "Preference": score}
-        print(f"index {idx} processed")
+        print(f"Prometheus has processed Prefernce Score for index {idx}")
 
     return preferences
 
@@ -86,7 +86,7 @@ def get_absolute_score(conversations_list, reference_list, model_response_list):
         absolute_scores[idx] = {"conversation": conversations_list[idx], "reference_note": reference, 
                                 "model_note": model_response_list[idx], "feedback": feedback, "Score": score}
         
-        print(f"index {idx} processed")
+        print(f"Prometheus has processed Absolute Score for index {idx}")
 
     return absolute_scores
 
