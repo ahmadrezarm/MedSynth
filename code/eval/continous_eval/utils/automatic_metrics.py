@@ -1,6 +1,7 @@
 import evaluate
 import numpy as np
-from utils.medcon import UMLSScorer 
+
+#from utils.medcon import UMLSScorer 
 
 class MetricsComputer:
     def __init__(self, prediction_list, gt_list):
@@ -23,10 +24,12 @@ class MetricsComputer:
         return  np.mean(results['f1']) # based on this paper, just mean of f1: https://github.com/StanfordMIMI/clin-summ/blob/main/src/calc_metrics.py
     
     # awaiting UML licence to install QuickUMLS
+    """ 
     def compute_MEDCON(self):
         medcon = UMLSScorer()
         score_medcon = medcon(self.gt_list, self.pred_list)
         return score_medcon
+    """ 
 
 
 

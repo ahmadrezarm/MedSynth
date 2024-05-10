@@ -10,12 +10,13 @@ HF_READ_TOKEN = os.getenv('MY_HF_READ_TOKEN')
 # for model eval
 summarizer_system_prompt= """You are an assistant for medical professionals, specializing in summarizing their conversations with patients. Your role is to accurately and comprehensively summarize these conversations in the SOAP (Subjective, Objective, Assessment, Plan) format. These summaries will serve as official medical notes for patient visits within the Electronic Health Record system. Ensure that each summary is thorough and precise, reflecting all relevant details from the conversation to provide a reliable medical record."""
 
-base_model= "meta-llama/Meta-Llama-3-8B-Instruct"
+base_model= "unsloth/llama-3-8b-Instruct-bnb-4bit" # changed to be consistent with the training.
+#"meta-llama/Meta-Llama-3-8B-Instruct"
 
 Aci_test_path = "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/clinicalnlp_taskC_test2_SOAP.csv"
 Aci_train_path = "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/TaskC-TrainingSet_SOAP.csv"
 
-model_evaluator_generation_config = {"max_new_tokens":2000,
+model_evaluator_generation_config = {"max_new_tokens":3000,
                      "do_sample":True,
                      "temperature":0.6,
                      "top_p":0.9}
@@ -91,7 +92,7 @@ tuning_config = {
     "model_config": {
         "base_model":"{BASE_MODEL}", # The base model
         "finetuned_model":"{FINE_TUNED_MODEL_NAME}", #"llama-3-8b-Instruct-aci-train", # The finetuned model
-        "max_seq_length": 9000, # The maximum sequence length
+        "max_seq_length": 8192, # The maximum sequence length that the base model can handle.
         "dtype":torch.bfloat16 , # The data type: changed from float16
         "load_in_4bit": True, # Load the model in 4-bit 
     },

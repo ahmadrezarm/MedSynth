@@ -7,13 +7,13 @@ import os
 
 import pandas as pd
 from datasets import Dataset, DatasetDict
-from code.eval.continous_eval.instruct_datasets import (
+from utils.instruct_datasets import (
     GemmaInstructDataset,
     MistralInstructDataset,
     LlamaInstructDataset,
     Llama3InstructDataset,
 )
-import constants
+from utils import constants
 
 from huggingface_hub import HfFolder
 HfFolder.save_token(constants.HF_WRITE_TOKEN)
@@ -76,8 +76,8 @@ def create_dataset_hf(
 
 
 if __name__ == "__main__":
-    processed_data_path = r"/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/eval_results/cont_eval/instruction_tuning_data"
-    os.makedirs(processed_data_path, exist_ok=True)
+    #processed_data_path = r"/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/eval_results/cont_eval/instruction_tuning_data"
+    #os.makedirs(processed_data_path, exist_ok=True)
 
     mistral_datasets = []
     gemma_datasets = []
@@ -98,5 +98,5 @@ if __name__ == "__main__":
     #    os.path.join(processed_data_path, f"llama3_instruct_{DATASETS_PATHS[-1][-10:]}_dataset")
     #)
 
-    llama3_dataset.push_to_hub(f"llama3_instruct_{DATASETS_PATHS[-1][-10:]}_dataset", private= True)
+    llama3_dataset.push_to_hub(f"llama3_{DATASETS_PATHS[-1][:-10]}_instruct_dataset", private= True)
 

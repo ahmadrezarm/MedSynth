@@ -124,34 +124,20 @@ class ModelEvaluatorAutoMetrics:
                             name, path= constants.PATH_TO_SAVE_EVAL_OUTPUT):
         
         df = pd.DataFrame.from_dict(dial_summary_pairs, orient='index')
-
         current_date= datetime.now().strftime("%Y-%m-%d")
         full_name = f"{name}_{current_date}.csv"
         full_path = f"{path}/{full_name}"
-    
-        df.to_csv(full_path, index=False)
+        df.to_csv(full_path, index=False, sep="|")
 
 
-    def save_eval_metrics_to_csv(self, eval_metrics, metrics_filename):
+
+    def save_eval_metrics_to_csv(self, eval_metrics, metrics_filename,
+                                  path= constants.PATH_TO_SAVE_EVAL_OUTPUT):
+
         metrics_df = pd.DataFrame([eval_metrics])
-
         current_date = datetime.now().strftime("%Y-%m-%d")
         metrics_name = f"{metrics_filename}_{current_date}.csv"
-        full_metrics_path = f"{self.path_to_save_eval_output}/{metrics_name}"
-
-        metrics_df.to_csv(full_metrics_path, index=False)
-
+        full_metrics_path = f"{path}/auto_metics_{metrics_name}"
+        metrics_df.to_csv(full_metrics_path, index=False, sep="|")
 
 
-""" 
-############### needs to be separated.
-def main():
-    evaluator= ModelEvaluatorAutoMetrics(constants.base_model)
-    dial_summary_pairs = evaluator.get_model_responses()
-    evaluator.save_model_output_to_csv(dial_summary_pairs = dial_summary_pairs, name= "base_model")
-
-
-if __name__ == '__main__':
-    main()
-
-"""
