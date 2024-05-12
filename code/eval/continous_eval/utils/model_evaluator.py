@@ -11,9 +11,10 @@ from huggingface_hub import HfFolder
 import pandas as pd
 from datetime import datetime
 
-from utils import access_tokens, constants 
+from unsloth import FastLanguageModel
+
+from utils import constants 
 from utils.automatic_metrics import MetricsComputer
-import utils.prometheus as prometheus
 
 
 HfFolder.save_token(constants.HF_WRITE_TOKEN)
@@ -28,15 +29,21 @@ class ModelEvaluatorAutoMetrics:
                  generation_config= constants.model_evaluator_generation_config):
         
         self.summarizer_system_promt= summarizer_system_promt
-        self.model= model
+        #self.model= model
         self.test_dataset= pd.read_csv(test_dataset_path)
         self.generation_config = generation_config
 
+        # Loading the fine-tuned model and the tokenizer for inference
+        self.model, self.tokenizer=  FastLanguageModel.from_pretrained(model_name = model,
+                                                                        max_seq_length = constants.tuning_config.get("model_config").get("max_seq_length"),
+                                                                        dtype = constants.tuning_config.get("model_config").get("dtype"),
+                                                                        load_in_4bit = constants.tuning_config.get("model_config").get("load_in_4bit"),)
 
+        # Using FastLanguageModel for fast inference
+        FastLanguageModel.for_inference(self.model)
+
+    """ 
     def _prepare_model(self, model):
-        """
-        quantizes the model and makes it ready to be tested
-        """
 
         # QLoRA config
         bnb_config = BitsAndBytesConfig(
@@ -57,7 +64,7 @@ class ModelEvaluatorAutoMetrics:
         )
 
         return model, tokenizer
-
+    """ 
 
     def _prepare_messages(self, messages, tokenizer, model):
             input_ids = tokenizer.apply_chat_template(
@@ -75,7 +82,7 @@ class ModelEvaluatorAutoMetrics:
             
 
     def get_model_responses(self):
-        model, tokenizer = self._prepare_model(self.model)
+        #model, tokenizer = self._prepare_model(self.model)
         dial_summary_pairs = {}
         for idx, conversation in enumerate (self.test_dataset["dialogue"]):
             print(f"processing idx: {idx}")
@@ -84,9 +91,9 @@ class ModelEvaluatorAutoMetrics:
                 {"role": "user", "content": f"""{conversation}"""},
             ]
 
-            input_ids, terminators= self._prepare_messages(messages, tokenizer, model)
+            input_ids, terminators= self._prepare_messages(messages, self.tokenizer, self.model)
 
-            outputs = model.generate(
+            outputs = self.model.generate(
                 input_ids,
                 max_new_tokens= self.generation_config["max_new_tokens"],
                 eos_token_id= terminators,
@@ -96,7 +103,7 @@ class ModelEvaluatorAutoMetrics:
             )
 
             response= outputs[0][input_ids.shape[-1]:]
-            summary= tokenizer.decode(response, skip_special_tokens=True)
+            summary= self.tokenizer.decode(response, skip_special_tokens=True)
 
             dial_summary_pairs[idx]= {"conversation": conversation, "summary": summary}
 
@@ -117,7 +124,7 @@ class ModelEvaluatorAutoMetrics:
             'ROUGE-L': metrics_computer.compute_ROUGE()['rougeL'],
             'ROUGE-LSum': metrics_computer.compute_ROUGE()['rougeLsum'],
             'BERTScore': metrics_computer.compute_BERTScore()
-        }
+            }
 
 
     def save_model_output_to_csv(self, dial_summary_pairs, 
