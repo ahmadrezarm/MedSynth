@@ -102,7 +102,7 @@ def get_and_save_prometheus_preference_scores(model_A_name, model_B_name,
         model_B_dial_summary_pairs_df= pd.read_csv(model_B_dial_summary_pairs_path, sep="|")
         #model_A_dial_summary_pairs_df = pd.DataFrame.from_dict(model_A_dial_summary_pairs, orient='index')
         #model_B_dial_summary_pairs_df = pd.DataFrame.from_dict(model_B_dial_summary_pairs, orient='index')
-        prometheus_preference_scores = get_preference_score(conversations_list= model_A_dial_summary_pairs_df["conversation"], 
+        prometheus_preference_scores = get_preference_score(conversation_list= model_A_dial_summary_pairs_df["conversation"], 
                                                             reference_list= pd.read_csv(constants.Aci_test_path)["note_SOAP"], 
                                                             model_A_response_list= model_A_dial_summary_pairs_df["summary"],
                                                             model_B_response_list= model_B_dial_summary_pairs_df["summary"])
