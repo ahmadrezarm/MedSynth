@@ -66,6 +66,8 @@ class ModelEvaluatorAutoMetrics:
         return model, tokenizer
     """ 
 
+
+    ''' 
     def _prepare_messages(self, messages, tokenizer, model):
             input_ids = tokenizer.apply_chat_template(
                 messages,
@@ -109,7 +111,41 @@ class ModelEvaluatorAutoMetrics:
 
         return dial_summary_pairs
         
-    
+    ''' 
+
+
+    def get_model_responses(self):
+
+        dial_summary_pairs = {}
+        for idx, conversation in enumerate (self.test_dataset["dialogue"]):
+            print(f"processing idx: {idx}")
+
+            inputs = self.tokenizer(
+            [f"<|start_header_id|>system<|end_header_id|> {self.summarizer_system_promt}<|eot_id|><|start_header_id|>user<|end_header_id|> This is the conversation: {conversation}<|eot_id|>"], return_tensors = "pt").to("cuda")
+            
+            outputs= self.model.generate(**inputs, 
+                                         max_new_tokens= self.generation_config["max_new_tokens"], 
+                                         use_cache = True,
+                                         do_sample= self.generation_config["do_sample"],
+                                         temperature= self.generation_config["temperature"],
+                                         top_p= self.generation_config["top_p"])
+            
+
+            response= self.tokenizer.batch_decode(outputs, skip_special_tokens = False) #True
+            start_index = response[0].rfind("<|start_header_id|>assistant<|end_header_id|>")+45
+            end_index = response[0].rfind("<|eot_id|>")
+
+            # Extract the summary part
+            summary = response[0][start_index:end_index].strip()
+
+            dial_summary_pairs[idx]= {"conversation": conversation, "summary": summary}
+
+            if idx == 0:
+                print(f"summary is: {summary}")
+
+        return dial_summary_pairs
+
+
 
     def get_automatic_eval_scores(self, dial_summary_pairs):
         dial_summary_pairs_df = pd.DataFrame.from_dict(dial_summary_pairs, orient='index')
