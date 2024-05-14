@@ -121,7 +121,7 @@ class ModelEvaluatorAutoMetrics:
             print(f"processing idx: {idx}")
 
             inputs = self.tokenizer(
-            [f"<|start_header_id|>system<|end_header_id|> {self.summarizer_system_promt}<|eot_id|><|start_header_id|>user<|end_header_id|> This is the conversation: {conversation}<|eot_id|>"], return_tensors = "pt").to("cuda")
+            [f"<|begin_of_text|><|start_header_id|>system<|end_header_id|> \n\n {self.summarizer_system_promt}<|eot_id|><|start_header_id|>user<|end_header_id|> \n\n This is the conversation: {conversation}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"], return_tensors = "pt").to("cuda")
             
             outputs= self.model.generate(**inputs, 
                                          max_new_tokens= self.generation_config["max_new_tokens"], 
@@ -133,10 +133,19 @@ class ModelEvaluatorAutoMetrics:
 
             response= self.tokenizer.batch_decode(outputs, skip_special_tokens = False) #True
             start_index = response[0].rfind("<|start_header_id|>assistant<|end_header_id|>")+45
-            end_index = response[0].rfind("<|eot_id|>")
+            #end_index = response[0].rfind("<|eot_id|>")
 
             # Extract the summary part
-            summary = response[0][start_index:end_index].strip()
+            summary = response[0][start_index:].strip()
+            print(f"len of response is: {len(response[0])}")
+            print(f"len of summary is: {len(summary)}")
+            if len(summary)<10:
+                print("###########################################")
+                print("response is: ",response[0])
+                print("summary is: ",summary)
+
+                
+
 
             dial_summary_pairs[idx]= {"conversation": conversation, "summary": summary}
 

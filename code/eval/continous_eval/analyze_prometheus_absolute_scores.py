@@ -4,11 +4,8 @@ from scipy import stats
 import matplotlib.pyplot as plt
 
 base_model_results= pd.read_csv("/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/eval_results/cont_eval/prometheus_scores_base_model_2024-05-12.csv", sep="|")
-aci_train_model_results= pd.read_csv("/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/eval_results/cont_eval/prometheus_scores_aci_train_model_2024-05-12.csv",sep= "|")
+aci_train_model_results= pd.read_csv("/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/eval_results/cont_eval/prometheus_scores_aci_train_v2_2024-05-13.csv",sep= "|")
 
-# Exclude row 10 from calculations
-#base_model_except_10 = base_model_results.drop(10)
-#aci_train_except_10 = aci_train_model_results.drop(10)
 
 # Base model calculations
 print(f"Base model score mean is: {np.mean(base_model_results['Score'])}")
@@ -22,6 +19,15 @@ base_score_counts = base_model_results['Score'].value_counts()
 aci_score_counts = aci_train_model_results['Score'].value_counts()
 
 
-print(base_score_counts)
-print(aci_score_counts)
+print(f"Base Model: {base_score_counts}")
+print(f" Aci Model v2: {aci_score_counts}")
+
+
+# Filter the rows where Score is equal to 1
+filtered_data = aci_train_model_results[aci_train_model_results['Score'] == 1]
+
+# Loop over each row in the filtered DataFrame
+for index, row in filtered_data.iterrows():
+    print(f"Note is: {row['model_note']}")
+    print(f"Feedback is: {row['feedback']}")
 

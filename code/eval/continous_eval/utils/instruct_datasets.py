@@ -75,7 +75,7 @@ class InstructDataset(ABC):
         """
         return self.dataset
 
-
+# needs investigation to ensure correctness.
 class MistralInstructDataset(InstructDataset):
 
     def create_prompt(self):
@@ -89,8 +89,8 @@ class MistralInstructDataset(InstructDataset):
         self.dataset["prompt"] = prompts
 
 
+# needs investigation to ensure correctness.
 class LlamaInstructDataset(InstructDataset):
-
     def create_prompt(self):
         """
         Create the prompt column in the dataset which will be used for
@@ -102,21 +102,23 @@ class LlamaInstructDataset(InstructDataset):
         self.dataset["prompt"] = prompts
 
 
-class Llama3InstructDataset(InstructDataset):
 
+class Llama3InstructDataset(InstructDataset):
+    # source for my edit: https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct/discussions/14
+    
     def create_prompt(self):
         """
         Create the prompt column in the dataset which will be used for
         """
         prompts = []
         for index, row in self.dataset.iterrows():
-            prompt = f"""<|start_header_id|>system<|end_header_id|> {row['instruction']}<|eot_id|><|start_header_id|>user<|end_header_id|> This is the conversation: {row['dialogue']}<|eot_id|><|start_header_id|>assistant<|end_header_id|> {row['note_SOAP']}<|eot_id|>"""
+            prompt = f"""<|begin_of_text|><|start_header_id|>system<|end_header_id|> \n\n {row['instruction']}<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n  This is the conversation: {row['dialogue']}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n {row['note_SOAP']}<|eot_id|>"""
             prompts.append(prompt)
         self.dataset["prompt"] = prompts
 
 
+ # needs investigation to ensure correctness.
 class GemmaInstructDataset(InstructDataset):
-
     def create_prompt(self):
         """
         Create the prompt column in the dataset which will be used for

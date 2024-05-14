@@ -40,27 +40,29 @@ conversation|summary
 [doctor] hey , dragon . finalize the note .
 "|"Here is the summary of the conversation in the SOAP format:
 
-**Subjective**
+**Subjective:**
 
-Carolyn, a 49-year-old female, presented for a follow-up visit regarding her chronic problems, specifically her osteoarthritis. She reported that her osteoarthritis has been flaring up in her elbows, particularly on the right side, and has been bothering her. She attributed this to prolonged sitting at her desk and typing, which may have increased the flare-ups. She also mentioned occasional numbness and tingling in her hands when typing for long periods. Carolyn reported that her gout has been under control since her last episode three months ago, and her psoriasis has also been stable.
+Carolyn, a 49-year-old female, presented for follow-up of her chronic problems, specifically her osteoarthritis. She reported that her symptoms have been flaring up lately, particularly in her elbows, which has been bothering her. She attributes this to possibly being stagnant in her office job, typing at a desk all day. She also mentioned occasional numbing sensations in her hands when typing for long periods. She has not had any recent episodes of gout, and her psoriasis has been under control.
 
-**Objective**
+**Objective:**
 
-Vital signs: Normal blood pressure, pulse, and respiratory rate. Physical examination: Edema and inflammation of the right olecranon, tenderness and effusion noted, with pain to palpation and with pronation and supination. Abdomen was soft, and there was no lower extremity edema.
+* Vital signs: Within normal limits
+* Physical examination: Right elbow showed edema and inflammation of the olecranon, tenderness, and an effusion. There was pain with palpation of the olecranon bursa, pronation, and supination.
 
-**Assessment**
+**Assessment:**
 
-Based on the patient's symptoms and physical examination, it appears that Carolyn's osteoarthritis is causing flare-ups in her elbows, particularly on the right side. There is no evidence of systemic inflammatory processes or gout activity. The patient's psoriasis is stable, and the steroid cream for her scalp is effective.
+* The patient's gout is stable, and the colchicine regimen will continue as needed for flare-ups.
+* The patient's osteoarthritis in her elbows will be managed with meloxicam 15mg once a day.
+* The patient's psoriasis is stable, and the steroid cream for her scalp will continue.
+* An x-ray of the right elbow will be ordered to assess the severity of the osteoarthritis.
 
-**Plan**
+**Plan:**
 
-1. Continue colchicine 0.6 milligrams twice a day as needed for flare-ups of gout.
-2. Order a right elbow x-ray to assess the extent of osteoarthritis.
-3. Prescribe meloxicam 15 milligrams once a day for pain and swelling related to osteoarthritis.
-4. Monitor the patient's response to treatment and consider referral for physical therapy if necessary.
-5. Continue the patient on the steroid cream for her scalp to manage psoriasis.
-
-Note: The doctor's conversation with the patient and the physical examination findings were summarized in the SOAP format to provide a comprehensive and accurate record of the patient's visit."
+* Continue colchicine 0.6mg twice a day as needed for gout flare-ups.
+* Prescribe meloxicam 15mg once a day for osteoarthritis pain and swelling.
+* Order an x-ray of the right elbow to assess the severity of the osteoarthritis.
+* Refer to physical therapy if necessary based on the results of the x-ray.
+* Continue the steroid cream for scalp psoriasis."
 "[doctor] good afternoon , beverly . good to see you .
 [patient] nice to see you too .
 [doctor] so , i know my nurse told you a little bit about dax . um , now , if you do n't mind , i'd like to tell dax a little bit about you .
@@ -123,21 +125,27 @@ Note: The doctor's conversation with the patient and the physical examination fi
 [patient] thank you .
 [doctor] hey , dragon ? finalize the note ."|"Here is the summary of the conversation in the SOAP format:
 
-**Subjective**
+**Subjective:**
 
-The patient, Beverly, is a 24-year-old female with a history of type 2 diabetes and high blood pressure. She has been doing well, but has recently started working in a bakery and has been snacking and eating more desserts than usual, which she believes is affecting her blood sugar control. She reports that her blood sugars have been up and down, but her blood pressure has been good.
+* The patient, a 24-year-old female, is a new patient with a history of type 2 diabetes and hypertension. She reports that her blood sugars have been elevated due to her diet, which has been poor since starting a new job at a bakery. She has been snacking and eating more desserts than usual.
 
-**Objective**
+**Objective:**
 
-The patient's blood pressure has been normal, and she has been sleeping well. Her exam is essentially normal, with no swelling, no carotid bruits, and no thyromegaly. Her lab work shows an elevated hemoglobin A1c, indicating that her blood sugars have been out of control.
+* The patient's blood pressure is stable, and her exam is normal, with no swelling, edema, or carotid bruits.
+* The patient's hemoglobin A1c is elevated, indicating that her blood sugars have been out of control.
+* The patient is taking metformin twice a day as prescribed.
 
-**Assessment**
+**Assessment:**
 
-The patient's main problem is diabetes, which is currently out of control. Her hemoglobin A1c is elevated, and her blood sugars have been up and down. Her second problem is hypertension, which is stable and being controlled with lisinopril 10 mg once a day.
+* The patient's primary problem is diabetes, which is out of control due to her diet.
+* The patient's hypertension is stable, and she is on lisinopril 10 mg once a day.
 
-**Plan**
+**Plan:**
 
-The patient is instructed to try to cut down on snacking and additional sweets, and to check her blood sugars in the morning. She is to call in her blood sugar results in two weeks and return for a follow-up visit in two months. If her blood sugars do not improve, additional medication may be necessary. The patient is to continue taking her current medication, lisinopril 10 mg once a day, and is to stay on the current regimen."
+* The patient will try to cut down on snacking and additional sweets to improve her blood sugar control.
+* The patient will check her blood sugars in the morning and call in the results in two weeks.
+* The patient will return in two months to reassess her blood sugar control and adjust her treatment plan as needed.
+* The patient will continue taking her current medication regimen, including metformin and lisinopril, without changes at this time."
 "[doctor] hi , anna , how are you ?
 [patient] i'm doing okay . how are you ?
 [doctor] i'm doing well . uh , so i know the nurse told you a little bit about dax . i'd like to tell dax a little bit about you .
@@ -216,34 +224,24 @@ The patient is instructed to try to cut down on snacking and additional sweets, 
 [patient] bye .
 [doctor] hey , dragon , finalize the note ."|"**Subjective:**
 
-Anna, a 26-year-old female with a past medical history of epilepsy, depression, and peptic ulcer disease, presents with left elbow pain. She reports that the pain is exacerbated by repetitive trauma from typing and staying in a fixed position at her desk. She also experiences stiffness and difficulty opening and closing her left elbow. She has noticed swelling on the tip of her left elbow, which is her non-dominant hand. She has not experienced any numbness, tingling, or weakness in her arm. She is still taking Keppra for her epilepsy and has been doing well with therapy for her depression.
+Anna, a 26-year-old female with a past medical history of epilepsy, depression, and peptic ulcer disease, presents with left elbow pain. She reports that the pain is due to repetitive trauma from typing and staying in the same position at work. She experiences stiffness, swelling, and pain on the tip of the left elbow, which is exacerbated by opening and closing the elbow. She has not experienced any numbness or tingling in her hands, but reports some weakness in her left arm. She has not had any recent seizures and is currently taking keppra. She has been doing well with therapy for depression, but still experiences some stress and feelings of sadness. She has not had any issues with her peptic ulcer disease since the endoscopy procedure.
 
 **Objective:**
 
-* Physical examination of the left elbow reveals erythema and edema.
-* Palpation of the olecranon elicits pain.
-* The elbow is warm to palpation.
-* Flexion and extension of the left elbow elicit pain.
-* The radial pulse is palpable.
-* Review of the left arm x-ray shows no evidence of fracture.
-* Review of the endoscopy results shows an episode of gastritis, which resolved with protonix treatment.
+Physical examination of the left elbow reveals erythema and edema, with pain to palpation of the olecranon. The elbow is warm to palpation, and there is pain with flexion and extension. The radial pulse is palpable. The endoscopy results show evidence of gastritis, which was treated with protonix.
 
 **Assessment:**
 
-* Left elbow pain is likely due to olecranon bursitis caused by repetitive trauma.
-* The patient's epilepsy is well-controlled with Keppra.
-* The patient's depression is being managed with therapy, and medical treatment options will be discussed.
-* The patient's peptic ulcer disease is under control with protonix treatment.
+Based on the patient's symptoms and physical examination, the diagnosis of olecranon bursitis is made. The patient will be prescribed meloxicam, 15 mg, once daily, and instructed to use a pillow for the elbow and ice the area. The patient's epilepsy is well-controlled with keppra, and she will be prescribed a refill. The patient will also start lexapro, 10 mg, once daily, for depression. The patient will continue taking protonix, 40 mg, once daily before meals, for peptic ulcer disease.
 
 **Plan:**
 
-* Prescribe meloxicam 15 mg once daily for left elbow pain.
-* Continue Keppra 500 mg twice daily for epilepsy.
-* Start lexapro 10 mg once daily for depression.
-* Continue protonix 40 mg once daily before meals for peptic ulcer disease.
-* Schedule a follow-up appointment in a couple of weeks.
-* Provide a little pillow for the patient's left elbow to alleviate pain.
-* Encourage the patient to ice the area and take a break from typing to reduce repetitive trauma."
+1. Prescribe meloxicam, 15 mg, once daily, for olecranon bursitis.
+2. Instruct the patient to use a pillow for the elbow and ice the area.
+3. Prescribe a refill of keppra, 500 mg, twice daily, for epilepsy.
+4. Start lexapro, 10 mg, once daily, for depression.
+5. Continue protonix, 40 mg, once daily before meals, for peptic ulcer disease.
+6. Schedule a follow-up appointment in a couple of weeks."
 "hi , susan , how are you ?
 [patient] good . how are you ?
 [doctor] good . are you ready to get started ?
@@ -280,31 +278,31 @@ so , the nurse will come in soon and she'll help you schedule all of the al- sch
 [patient] thank you .
 [doctor] hey , dragon , finalize the note ."|"Here is the summary of the conversation in the SOAP format:
 
-**Subjective:**
+**Subjective**
 
-* The patient, a 26-year-old female, is experiencing difficulty controlling her high blood pressure, which has been worsening lately.
-* She has been taking Norvasc 10mg daily, but her blood pressures at home have been running over 150mmHg.
-* She has also experienced headaches, which she attributes to stress at work or possibly related to her high blood pressure.
-* She has a history of kidney transplant and is taking immunosuppressive medications, with no issues reported.
+* Patient presents with high blood pressure, which has been getting out of control recently. She is concerned about finding a new medication or diet restrictions to help control her blood pressure.
+* She has been experiencing headaches, but no chest pain, shortness of breath, or other concerning symptoms.
+* She has a history of kidney transplant and is taking immunosuppressive medications.
 
-**Objective:**
+**Objective**
 
-* Physical examination: The patient appears to be in no distress, with a supple neck, irregular heart rate and rhythm, and a slight systolic ejection murmur.
-* The scar from the kidney transplant is healed.
-* No lower extremity edema is present.
-* Laboratory results: Kidney function is good, and the EKG is normal.
+* Blood pressure at home has been running high, with readings over 150.
+* Physical examination reveals a regular heart rhythm with a slight systolic ejection murmur, clear lungs, and no lower extremity edema.
+* Kidney function is normal after transplant, and the scar is healed.
+* EKG is normal.
 
-**Assessment:**
+**Assessment**
 
-* The patient's blood pressure is not adequately controlled with Norvasc 10mg daily.
-* The patient is at risk for complications related to uncontrolled hypertension.
+* The patient's blood pressure is not well-controlled on her current medication, Norvasc.
+* She is experiencing headaches, which may be related to stress or high blood pressure.
+* Her kidney function is normal, and she is taking immunosuppressive medications as prescribed.
 
-**Plan:**
+**Plan**
 
-* Prescribe Coreg 25mg, twice daily, to help bring blood pressure under better control.
-* Order a lipid panel and complete metabolic panel to monitor the patient's overall health.
-* Continue the patient on immunosuppressive medications as prescribed.
-* Schedule a follow-up appointment in a couple of weeks to reassess the patient's blood pressure and adjust treatment as necessary."
+* Prescribe Coreg 25mg twice a day to help control blood pressure.
+* Order a lipid panel and complete metabolic panel to monitor her overall health.
+* Continue her current immunosuppressive medications.
+* Schedule a follow-up appointment in a couple of weeks to reassess her blood pressure and adjust her medication as needed."
 "[doctor] hello mrs. lee , i see you're here for back pain .
 [patient] yes .
 [doctor] hey dragon , i'm seeing mrs. lee today for , uh , back pain . she's a 40-year-old female . so can you tell me what happened to you ?
@@ -350,27 +348,23 @@ so , the nurse will come in soon and she'll help you schedule all of the al- sch
 
 **Subjective:**
 
-* Mrs. Lee, a 40-year-old female, presents with back pain following a surprise birthday party where she jumped out from behind a railing and landed on her back.
-* She reports pain on the right side of her back, which is exacerbated by twisting motions and lying flat.
-* She has a history of lumbar fusion and experiences some stiffness with rotation, but no pain or numbness down her legs.
+Mrs. Lee, a 40-year-old female, presented with a complaint of back pain after falling down the stairs at a surprise birthday party. She reported that she was hiding behind a railing and jumped out when the person arrived, landing on her back and twisting it. She described the pain as worse with twisting motions and lying flat. She also mentioned having a previous lumbar fusion and experiencing stiffness with rotation.
 
 **Objective:**
 
-* Physical examination reveals no evidence of compression fractures or pinched nerves.
-* The patient's lower back is tender to palpation, but she does not have any evidence of radiculopathy.
-* The doctor performs a twisting motion on the patient's back, which causes discomfort, but no pain or numbness down her legs.
+* Physical examination revealed no evidence of compression fractures or significantly abnormal findings on the x-ray, except for the existing lumbar fusion.
+* The doctor performed an examination, which showed no pain or numbness down the legs, but some stiffness with rotation.
 
 **Assessment:**
 
-* The patient has a strain of her lower back, likely caused by the twisting motion during the birthday party.
+Based on the patient's history and physical examination, the diagnosis is a strain of the lower back. There is no evidence of a pinched nerve or radiculopathy.
 
 **Plan:**
 
-* Continue taking 800mg of ibuprofen three times a day with food.
-* Use alternating ice and heat on the back.
-* Encourage walking.
-* Follow-up appointment in one week if the pain persists or worsens.
-* Medication and procedures to be ordered by the doctor."
+* Continue taking 800mg of Motrin, three times a day, with food.
+* Use ice and heat, alternating on the back, to manage pain and stiffness.
+* Encourage walking to maintain mobility.
+* Follow-up appointment in one week if the pain does not improve or worsens."
 "[doctor] good morning rebecca , nice to see you .
 [patient] nice to see you too .
 [doctor] so , my nurse told you a little bit about dax , now i'm wondering if i can tell dax a little bit about you .
@@ -430,35 +424,32 @@ so , the nurse will come in soon and she'll help you schedule all of the al- sch
 [doctor] hey dragon , finalize the report .
 "|"Here is the summary of the conversation in the SOAP format:
 
-**Subjective**
+**Subjective:**
 
-* 27-year-old female patient with a history of carpal tunnel release, chronic back pain, and depression
-* Reports knee pain in the right knee, specifically during breaststroke swimming, which started after increasing swimming frequency
-* No history of injury or trauma
-* No pain or discomfort in the back or legs, except for occasional chronic back pain that has been well-controlled
-* Medication and therapy for depression have been effective, and patient is sleeping and eating well
-* No suicidal or homicidal ideations
+* The patient, a 27-year-old female, presents with a 4-week history of right knee pain while swimming, specifically with breaststroke. The pain is located in the knee joint, worsens with swimming, and is relieved with rest. The patient has a history of carpal tunnel syndrome and chronic back pain, which has been well-controlled. She also has a history of depression, which has been stable on medication and therapy.
 
-**Objective**
+**Objective:**
 
-* Normal x-ray of the right knee
-* Physical examination reveals pain with patellar inhibition and limited range of motion in the right knee
-* No swelling or effusion in the knee joint
-* Grip strength is equal, and the rest of the examination is normal
+* The patient's physical examination reveals:
+	+ Normal x-ray of the right knee
+	+ No swelling or effusion in the knee joint
+	+ Pain with patellar inhibition and range of motion
+	+ Normal heart, lungs, and thyroid examination
+	+ Normal grip strength and rest of the physical examination
 
-**Assessment**
+**Assessment:**
 
-* Chondromalacia of the patella, caused by overuse from swimming
-* No evidence of underlying conditions, such as patellar tendinitis or ligament sprain
+* The patient is diagnosed with chondromalacia of the patella, likely caused by overuse from swimming.
 
-**Plan**
+**Plan:**
 
-* Prescribe ibuprofen 600mg four times a day with food for pain management
-* Recommend straight leg raising exercises to strengthen quadriceps and alleviate pain
-* Advise patient to avoid activities that put extra pressure on the knees, including breaststroke swimming, for a few weeks
-* If symptoms do not improve in a couple of weeks, schedule a follow-up appointment
-* Keep patient on current medication regimen for depression, and monitor for any changes or side effects
-* No changes to treatment plan for carpal tunnel syndrome."
+* Treatment includes:
+	+ Anti-inflammatory medication (ibuprofen 600mg four times a day with food)
+	+ Straight leg raising exercises to strengthen quadriceps
+	+ Avoidance of activities that put extra pressure on the knee, including breaststroke, for a few weeks
+	+ Follow-up appointment in a couple of weeks if the pain does not improve
+	+ Continue swimming with alternative strokes that do not involve bending the knees
+	+ Monitoring of chronic back pain and depression, with no changes to treatment at this time."
 "[doctor] we're gon na go right to the front- . so when you touch that- hi , michelle , how are you ?
 [patient] i'm good . how are you ?
 [doctor] i'm good . so i know the nurse told you about dax . i'd like to dax a little bit about you , okay ?
@@ -519,28 +510,26 @@ so for your second problem , your type 2 diabetes , i wan na go ahead and order 
 [patient] no , i do n't .
 [doctor] okay , so i'm gon na , you know , the nurse is gon na come in , and she's gon na check you out , and then we'll make a follow-up appointment for you , okay ?
 [patient] okay .
-[doctor] hey , dragon , finalize the note ."|"Here is the summary of the conversation in the SOAP format:
+[doctor] hey , dragon , finalize the note ."|"**Subjective:**
 
-**Subjective:**
-
-The patient, a 31-year-old female with a history of type 2 diabetes and hypertension, presents with abnormal lab findings, including a positive Lyme titer. She reports feeling tired, lacking energy, and experiencing swollen joints in her elbows, body aches, and nausea. She has not had any high fevers and has been trying to manage her blood sugar levels.
+The patient, a 31-year-old female with a history of type 2 diabetes and hypertension, presented with abnormal lab findings, including a positive Lyme titer. She reported feeling tired, lacking energy, and experiencing swollen joints in her elbows, body aches, and nausea. She also mentioned that she had been having trouble eating and had noticed a bull's-eye rash on her abdomen. Her blood sugars had been stable, with occasional high and low readings, and she was taking metformin and lisinopril as prescribed.
 
 **Objective:**
 
-Physical examination reveals swelling of the elbow joints bilaterally, with pain to palpation. The patient has a bull's-eye rash on her abdomen, which is warm to palpation but non-tender. The rest of the examination is normal.
+Physical examination revealed swelling of the elbow joints bilaterally, with pain to palpation. A bull's-eye rash was noted on the left-hand side of the abdomen, which was warm to palpation but non-tender. The rest of the examination was normal.
 
 **Assessment:**
 
-The patient has newly diagnosed Lyme disease, which will be treated with doxycycline for three weeks. The patient's type 2 diabetes will be monitored with a hemoglobin A1c test, and no changes to the metformin medication are necessary. The patient's high blood pressure is well-controlled, and she will continue to take lisinopril 10 milligrams daily. A lipid panel will be ordered to monitor her cholesterol levels.
+The patient was diagnosed with Lyme disease, based on the elevated Lyme titer and symptoms. She was prescribed doxycycline 100mg twice a day for three weeks, with follow-up planned for next week. Her type 2 diabetes and hypertension were also assessed, with no changes to her current medications or treatment plan necessary at this time.
 
 **Plan:**
 
-1. The patient will start taking doxycycline 100 milligrams twice a day for three weeks to treat Lyme disease.
-2. The patient will have a follow-up appointment in one week to monitor her progress.
-3. The patient's hemoglobin A1c test will be ordered to monitor her type 2 diabetes.
-4. The patient will continue to take lisinopril 10 milligrams daily to control her high blood pressure.
-5. A lipid panel will be ordered to monitor the patient's cholesterol levels.
-6. The patient will need a refill of lisinopril, which will be ordered."
+* Prescribe doxycycline 100mg twice a day for three weeks for Lyme disease
+* Order a hemoglobin A1c to monitor type 2 diabetes
+* Continue patient on lisinopril 10mg daily for hypertension
+* Order a lipid panel to monitor lipid levels
+* Schedule a follow-up appointment in one week to reassess the patient's condition and adjust treatment as necessary
+* Refill prescription for lisinopril as needed."
 "[patient] um , i have high blood sugar . yeah , osteoarthritis , arterial fibrillation , and reflux .
 [doctor] hi , hannah . how are you ?
 [patient] good , how are you ?
@@ -595,30 +584,29 @@ The patient has newly diagnosed Lyme disease, which will be treated with doxycyc
 
 **Subjective:**
 
-* Patient, Hannah, a 52-year-old female, presents with a history of high blood sugar, osteoarthritis, and atrial fibrillation.
-* She reports eating a lot of sweets recently, particularly during the holidays, and experienced symptoms of light-headedness, dizziness, and seeing spots.
-* She was treated in the emergency room with IV fluids and was advised to cut out extra sweets and return to her normal diet.
-* She expresses concern about maintaining a healthy diet while visiting her family, who are big bakers.
+* Patient, 52-year-old female, presented with high blood sugar, diagnosed in the emergency room, and seeking follow-up evaluation.
+* Patient reported consuming excessive sweets during the holiday season, which led to symptoms of lightheadedness, dizziness, and seeing spots.
+* Patient has a history of osteoarthritis, atrial fibrillation, and reflux, and is currently taking medication for the latter.
 
 **Objective:**
 
-* Physical examination: The patient appears in no distress, with a slightly enlarged thyroid gland, no carotid bruits, an irregular heart rate and rhythm, and clear lungs.
-* Laboratory results: Elevated blood sugar and hemoglobin A1c levels, with a pending complete metabolic panel to determine the type of diabetes.
+* Physical examination: The patient appeared in no distress, with a slightly enlarged thyroid gland, irregular heart rate and rhythm, clear lungs, and soft abdomen with no edema in the lower extremities.
+* Laboratory results: Elevated blood sugar and hemoglobin A1c, indicating high blood sugars for several months.
 
 **Assessment:**
 
-* Diagnosis of diabetes, possibly type I or type II, pending laboratory results.
-* Osteoarthritis and atrial fibrillation are also present.
-* Reflux is well-controlled with protonix.
+* Diagnosis of diabetes, possibly type I or type II, with the need for further laboratory testing to determine the exact type.
+* Presence of atrial fibrillation, currently being managed with metoprolol, and no changes needed at this time.
+* Reflux being managed with protonix, with no changes needed at this time.
 
 **Plan:**
 
-* Start metformin, 500 milligrams, twice a day, to help control blood sugar levels.
+* Start patient on metformin, 500 milligrams, twice a day to control blood sugars.
 * Order a complete metabolic panel to determine the type of diabetes.
-* If autoimmune laboratory results indicate type I diabetes, the patient will be started on insulin.
-* Patient is advised to avoid foods high in sugar and will be taught how to perform blood sugar testing with a glucometer.
-* Refill prescription for metoprolol, 25 milligrams, twice a day, to continue treatment for atrial fibrillation.
-* Continue protonix, 40 milligrams, once a day, for reflux control."
+* Monitor patient's blood sugar levels with a glucometer and provide education on blood sugar testing.
+* Continue patient on metoprolol, 25 milligrams, twice a day, with a refill ordered.
+* Continue patient on protonix, 40 milligrams, once a day, with no changes needed at this time.
+* Schedule follow-up appointment to review laboratory results and adjust treatment plan as needed."
 "[doctor] hi janet , how are you ?
 [patient] good , how are you ?
 [doctor] i'm good . uh , are you ready to get started ?
@@ -664,23 +652,42 @@ The patient has newly diagnosed Lyme disease, which will be treated with doxycyc
 [doctor] okay . the nurse will be in soon . it was good to see you .
 [patient] nice seeing you too .
 [doctor] hey dragon , finalize the note .
-"|"Here is the summary of the conversation in the SOAP format:
+"|"Here is the SOAP summary:
 
-**Subjective**
+**Subjective:**
 
-The patient, a 33-year-old female, presented with joint pain in both knees, which has been exacerbated by stair workouts. She has a history of rotator cuff repair two years ago, but has not experienced any issues since then. She has diabetes, which is under control, and takes norvasc (5mg) daily. She has high blood pressure, which is monitored and managed with medication. She has not experienced any fever, chills, nausea, vomiting, chest pain, or shortness of breath.
+* The patient, a 33-year-old female, presented with joint pain, specifically in both knees, which has been bothering her since starting stair workouts to build muscle.
+* She mentioned having a rotator cuff repair two years ago, but has not experienced any issues since then.
+* The patient has a history of diabetes, which is under control, and takes medication for high blood pressure.
+* She has not experienced any fever, chills, nausea, vomiting, or chest pain.
 
-**Objective**
+**Objective:**
 
-The patient's blood pressure was elevated during the visit. The physical examination revealed a slight erythema and edema on the left knee, with a small effusion present. The patient had decreased flexion and extension of the knee, but her strength in the lower extremities was good. The x-ray of the left knee showed no abnormalities. The patient's white blood cell count and a1c levels were within normal limits, but her a1c was slightly elevated.
+* Physical examination revealed:
+	+ Normal neck and thyroid
+	+ Regular heart rate and rhythm
+	+ Clear lungs
+	+ Soft abdomen
+	+ Left knee showed erythema and edema with a small effusion, decreased flexion and extension, and good lower extremity strength
+	+ X-ray of the left knee was normal
+	+ Lab results showed a slightly elevated a1c, but not concerning
+	+ Blood pressure was elevated, but not severely
 
-**Assessment**
+**Assessment:**
 
-The patient's joint pain in both knees is likely due to a strain or overuse. The patient's high blood pressure was noted, and the doctor recommended continued monitoring and management. The patient's diabetes is under control, and she will continue on her current regimen.
+* The patient has joint pain in both knees, likely related to a strain or overuse
+* The patient has a history of diabetes and high blood pressure, which may be contributing to the joint pain
+* The patient's elevated blood pressure may be related to the joint pain or other factors
 
-**Plan**
+**Plan:**
 
-The doctor ordered meloxicam 15mg once a day to help with the patient's joint pain. A physical therapy referral was ordered to help with the patient's knee pain. An autoimmune profile was ordered to work up the patient's left knee pain. The patient was advised to continue monitoring her blood pressure at home and to send in a report in a few weeks. A lipid profile was ordered to assess the patient's cholesterol levels. The patient's metformin medication will be continued at 500mg twice a day."
+* Order meloxicam 15 mg once a day for anti-inflammatory medication
+* Refer the patient to physical therapy to work on knee pain and stiffness
+* Order an autoimmune profile to rule out any underlying conditions
+* Continue the patient's current regimen for diabetes and high blood pressure
+* Monitor blood pressure at home and report any changes to the doctor
+* Order a lipid profile to assess cholesterol levels
+* Continue metformin 500 mg twice a day for diabetes management"
 "[doctor] morning christine , nice to see you .
 [patient] nice to see you too .
 [doctor] so i know my nurse told you a little bit of- ... um , about dax and i'm gon na tell dax a little bit about you , if that's okay ?
@@ -736,21 +743,31 @@ The doctor ordered meloxicam 15mg once a day to help with the patient's joint pa
 [doctor] hey dragon , finalize the report .
 "|"Here is the summary of the conversation in the SOAP format:
 
-**Subjective**
+**Subjective:**
 
-The patient, a 63-year-old female, presents for a routine yearly exam. She reports doing well, with her depression under control due to medication and therapy. She mentions that her blood pressure has been fluctuating, with readings that are either high or low, and has not been able to maintain a normal reading in the past couple of weeks. She also reports some headaches, which she attributes to prolonged computer screen use. She has been stressed at work and has not had time to cook meals, resulting in a diet that is not ideal. Her carpal tunnel release, performed two years ago, is doing well with no numbness or tingling in her hands.
+* The patient, a 63-year-old female, reported doing well overall, with good control of depression symptoms since starting medication and therapy two years ago.
+* She mentioned that her blood pressure has been fluctuating, with readings that are either high or low, and has not been able to maintain a normal reading in the past couple of weeks.
+* The patient also reported stress at work, which has led to poor eating habits and increased screen time, contributing to her high blood pressure.
+* She denied any suicidal thoughts or plans and reported getting a full eight hours of sleep per night.
 
-**Objective**
+**Objective:**
 
-The patient's vital signs are within normal limits, except for her blood pressure, which is elevated in the office. Her lab results are essentially normal. The physical exam reveals no abnormalities, including clear lungs, no adenopathy in the neck, and a regular heart rhythm without murmurs.
+* The patient's blood pressure was taken in the office and was found to be elevated.
+* The patient's physical examination was normal, with no signs of swelling, numbness, or tingling in the hands or fingers.
+* The patient's lung exam, heart exam, and neurological exam were all normal.
 
-**Assessment**
+**Assessment:**
 
-The patient has hypertension, which needs to be managed with increased medication. Her depression is under control, and no changes are needed at this time. Her carpal tunnel release is doing well, and no further treatment is needed.
+* The patient has hypertension, which needs to be managed with increased medication.
+* The patient's depression is under control, and no changes are needed at this time.
+* The patient's carpal tunnel release surgery two years ago was successful, and she is not experiencing any symptoms.
 
-**Plan**
+**Plan:**
 
-The patient's blood pressure medication will be increased to 10 milligrams of lisinopril once daily. She will return in a month for follow-up to assess the effectiveness of this change. The patient will continue to take her depression medication and attend therapy sessions as scheduled. She will be advised to monitor her blood pressure and report any changes or concerns."
+* Increase the patient's lisinopril medication to 10 milligrams once a day to better control her blood pressure.
+* Schedule a follow-up appointment in a month to reassess the patient's blood pressure and adjust medication as needed.
+* Monitor the patient's carpal tunnel release for any signs of recurrence or worsening symptoms.
+* Continue the patient's current depression treatment regimen, including medication and therapy."
 "[doctor] next patient is emily hernandez . date of birth , march 26 2001 . this is a 20 year old female being seen today for our yearly follow-up for asthma , allergic rhinitis and food allergy . due to insurance changes since our last office appointment in april 2020 , she was switched from symbicort to wixela . she also uses zyrtec in the spring , summer and fall for her seasonal allergy symptoms , which tend to work well . she also has known peanut allergy , she does tolerate almonds and cashews . please put in the asthma section at the very bottom that the act score is 21 . please put under interval history , written consent is obtained today to use dax for documentation .
 [doctor] hi emily , how are you ?
 [patient] i'm pretty good , how are you ?
@@ -869,21 +886,26 @@ The patient's blood pressure medication will be increased to 10 milligrams of li
 [patient] okay sounds good .
 [doctor] all right well thanks so much and you have a great day .
 [patient] you too .
-[doctor] and we'll do a follow-up in four months with act and spirometry , sooner if needed . follow-up 25 minutes ."|"**Subjective**
+[doctor] and we'll do a follow-up in four months with act and spirometry , sooner if needed . follow-up 25 minutes ."|"**Subjective:**
 
-The patient, Emily Hernandez, a 20-year-old female, was seen for a yearly follow-up for asthma, allergic rhinitis, and food allergy. She was switched to Wixela due to insurance changes and has been using it with good control. She also uses Zyrtec in the spring, summer, and fall for seasonal allergy symptoms, which work well. She has a known peanut allergy, but tolerates almonds and cashews. She has been trying to reduce her inhaler use as she prepares for military service.
+The patient, Emily Hernandez, a 20-year-old female, presented for her yearly follow-up appointment for asthma, allergic rhinitis, and food allergy. She reported being switched to Wixela due to insurance changes and has been using it as prescribed. She uses Zyrtec in the spring, summer, and fall for seasonal allergy symptoms, which tend to work well. She has a known peanut allergy and tolerates almonds and cashews. She has not had any urgent care or ER visits for breathing issues in the past year.
 
-**Objective**
+**Objective:**
 
-The patient's breathing test results were reviewed, and her lungs sounded terrific. Her breathing test results were similar to those from 2019, and her numbers looked better. She has been trying to cut out vaping and smoking, but still occasionally uses them.
+The patient's breathing test (ACT score) was 21. She has been using Wixela as prescribed, with some flexibility in her usage, and has not had any issues with it. She has not needed to use her albuterol inhaler frequently, only on occasion for strenuous activity.
 
-**Assessment**
+**Assessment:**
 
-The patient's asthma is well-controlled with Wixela, and she is doing well. However, due to insurance limitations, it was suggested that she try a step-down approach with Alvesco, a single-medication inhaler. This would involve using two puffs twice a day. The patient is willing to try this approach and will have her pharmacy updated to reflect the change. She will also continue to use her albuterol inhaler as needed and Zyrtec as needed for seasonal allergies. Written consent was obtained for the use of Dax for documentation.
+The patient's asthma is well-controlled with Wixela, and her breathing test results indicate good lung function. She has been trying to reduce her inhaler use to meet military requirements. She has a history of vaping and smoking, but has been trying to cut back. Her Zyrtec usage is as needed for seasonal allergies.
 
-**Plan**
+**Plan:**
 
-The patient will start using Alvesco, 80 mcg, two puffs twice a day. She will continue to use her albuterol inhaler as needed and Zyrtec as needed for seasonal allergies. She will also continue to avoid peanuts and tree nuts. The patient will have a follow-up in four months to repeat her breathing test and document her progress."
+1. Continue using Wixela as needed, with the option to step down to Alvesco (80 mcg) if needed.
+2. Use albuterol as needed for bronchospasm.
+3. Continue using Zyrtec as needed for seasonal allergies.
+4. Avoid peanuts and tree nuts, and carry an EpiPen with her at all times.
+5. Follow-up in four months for a repeat breathing test and spirometry to assess her asthma control.
+6. Refill prescription for albuterol and epinephrine auto-injector as needed."
 "[doctor] all right , new patient , jordan roberts . date of birth : 3/2/1972 . he's a 49 year old , uh hm , with hypertension and palpitations . please copy forward his thyroid profile from march 1st , 2021 .
 [doctor] hello mr. roberts , how are you doing today ?
 [patient] i'm fine , thank you .
@@ -959,31 +981,28 @@ The patient will start using Alvesco, 80 mcg, two puffs twice a day. She will co
 [patient] will do .
 [doctor] all right . have a great day mr. roberts .
 [patient] you too .
-[doctor] mr. roberts presents with resistant hypertension . he's on three meds and maximum dose . i have added spironolactone to his regiment . we will need to monitor his potassium and sodium . he will have a metabolic panel and blood pressure check in two weeks . uh , next medication would be carvedilol , uh , which i try to avoid giving , it's potential for erectile dysfunction . i have talked to the patient about that , and the potential side effects of spironolactone , including the gynecomastia and electrolyte disturbances . if he is not controlled on spironolactone , the next step would be sending him to resistant hypertension clinic ."|"**SOAP Note**
+[doctor] mr. roberts presents with resistant hypertension . he's on three meds and maximum dose . i have added spironolactone to his regiment . we will need to monitor his potassium and sodium . he will have a metabolic panel and blood pressure check in two weeks . uh , next medication would be carvedilol , uh , which i try to avoid giving , it's potential for erectile dysfunction . i have talked to the patient about that , and the potential side effects of spironolactone , including the gynecomastia and electrolyte disturbances . if he is not controlled on spironolactone , the next step would be sending him to resistant hypertension clinic ."|"**Subjective:**
 
-**Subjective:**
-
-* Jordan Roberts, a 49-year-old male, presents with hypertension and palpitations. He has a family history of high blood pressure and has been experiencing issues with his blood pressure since a young age.
-* He has been taking benicar hct (hydrochlorothiazide) and amlodipine, and his blood pressure has been running at 146-155 mmHg.
-* He has been trying to reduce his salt intake and has been walking on the treadmill regularly.
+The patient, Jordan Roberts, is a 49-year-old male who presented with hypertension and palpitations. He has a family history of high blood pressure and has been experiencing issues with his blood pressure since a young age. He was recently in the emergency room with high blood pressure and palpitations, which he attributes to a panic attack caused by consuming coffee and not eating breakfast. He is currently taking Benicar HCT (hydrochlorothiazide) and amlodipine, and his blood pressure has not been controlled. He has been trying to reduce his salt intake and has been walking on a treadmill regularly.
 
 **Objective:**
 
-* The patient's physical exam is unremarkable, with no signs of swelling in his ankles and feet.
-* His potassium level is 4.0, and his blood pressure is not under control.
+* Blood pressure: 146-155 mmHg
+* Potassium level: 4.0 (normal)
+* No swelling in the ankles and feet
+* No tenderness or pain in any areas during the physical exam
 
 **Assessment:**
 
-* The patient has resistant hypertension, and his blood pressure is not under control despite being on maximum dose of his current medications.
-* The patient has been experiencing palpitations, which may be related to his high blood pressure.
+The patient has resistant hypertension, which is not responding to his current medication regimen. The doctor suspects that there may be an underlying hormonal response driving his hypertension, possibly related to his adrenal glands overproducing aldosterone. The doctor has added spironolactone to his medication regimen to try to control his blood pressure and has instructed him to monitor his potassium and sodium levels. The patient will have a follow-up appointment in two weeks to check his blood pressure and electrolytes.
 
 **Plan:**
 
-* The patient will be started on spironolactone, a medication that can help lower his blood pressure and reduce his aldosterone levels.
-* The patient will need to be monitored for potential side effects, including electrolyte disturbances, dehydration, and gynecomastia.
-* The patient will need to have regular blood pressure checks and metabolic panels to monitor his potassium and sodium levels.
-* The patient will be scheduled for a follow-up appointment in two weeks to assess his response to the new medication.
-* If the patient's blood pressure is not under control after two weeks, the next step would be to refer him to the resistant hypertension clinic for further evaluation and treatment."
+* Continue taking Benicar HCT and amlodipine as prescribed
+* Start taking spironolactone as directed
+* Monitor potassium and sodium levels regularly
+* Attend a follow-up appointment in two weeks to check blood pressure and electrolytes
+* If not controlled on spironolactone, consider referral to the resistant hypertension clinic for further evaluation and treatment."
 "[doctor] brittany edwards , 07 , 1898 . she is a return visit for ibs with functional abdominal pain , nausea , vomiting . ms. edwards is a pleasant , 32-year-old female who was last seen in august of 2019 with flares of abdominal pain , who was diagnosed with irritable bowl that was treated with bentyl .
 [doctor] she had a previous prescription for reglan that she received from the emergency room that she used as needed for nausea . she was instructed to start a low dose fiber supplement , such as citrucel , daily , probiotics to help with gas and bloating , bentyl up to four times daily for intestinal cramping , and stop reglan and use zofran as needed . neuromodulators such as elavil and buspar were discussed but not started .
 [doctor] hello , how are you ?
@@ -1049,31 +1068,31 @@ The patient will start using Alvesco, 80 mcg, two puffs twice a day. She will co
 [doctor] so review of symptoms is positive for diarrhea , nausea , and abdominal pain . assessment and plan . brittany edwards is a pleasant female with ibs and functional abdominal pain , aggravated by high stress , poor eating habits , and poor sleeping habits . i've encouraged dietary and lifestyle modifications , as well as starting a neuromodulator such as elavil 25 milligrams at bedtime for ibs .
 [doctor] she can use bentyl 20 milligrams as needed 30 to 45 minutes prior to eating out at a restaurant . she can also use zofran if needed . however , i have encouraged her to reduce greasy and fatty foods and alcohol consumption . i have asked her to follow up in one month by emailing over mychart regarding any side effects and issues , or issues with elavil or if adjustments are needed ."|"Here is the summary of the conversation in the SOAP format:
 
-**Subjective**
+**Subjective:**
 
-* Patient, Brittany Edwards, 32-year-old female, reports symptoms of diarrhea, nausea, and abdominal pain, which are exacerbated by spicy foods, fatty foods, and alcohol consumption.
-* She has a history of irritable bowel syndrome (IBS) and was previously prescribed Bentyl, Reglan, and Zofran.
-* She has been experiencing cramping and sharp pains, which are alleviated by avoiding heavy foods.
-* She reports that she has been going out to eat on Friday and Saturday nights and consuming spicy foods, which exacerbate her symptoms.
+* Patient, Brittany Edwards, 32-year-old female, returns for follow-up visit for IBS with functional abdominal pain, nausea, and vomiting.
+* She has a history of flares of abdominal pain and was previously diagnosed with irritable bowel syndrome (IBS) and treated with Bentyl.
+* She was previously prescribed Reglan, which she used as needed for nausea, and was instructed to start a low-dose fiber supplement, probiotics, and Bentyl for intestinal cramping.
+* She has not been using the fiber supplement regularly and has been experiencing frequent bowel movements (2-3 times a day) with formed stools.
+* She has noticed an increase in symptoms after eating spicy foods, such as shrimp, and has experienced diarrhea and abdominal pain after consuming these foods.
 
-**Objective**
+**Objective:**
 
-* Physical examination: The patient is alert and cooperative, appears stated age, with a soft, non-tender abdomen, normal active bowel sounds, and no masses or organomegaly.
+* Physical examination: The patient appears stated age, alert, and cooperative. Her abdomen is soft, non-tender, and without masses or organomegaly. Active bowel sounds are present.
 
-**Assessment**
+**Assessment:**
 
-* Brittany Edwards has a diagnosis of IBS with functional abdominal pain, which is exacerbated by her dietary and lifestyle habits.
-* Her symptoms are likely triggered by her consumption of spicy foods, fatty foods, and alcohol.
-* She has been using Bentyl as needed, but has not been using her prescribed fiber supplement or probiotics.
-* She has been experiencing cramping and sharp pains, which are alleviated by avoiding heavy foods.
+* Patient has IBS with functional abdominal pain, aggravated by poor eating habits, stress, and poor sleeping habits.
+* She has not been adhering to the prescribed dietary and lifestyle modifications, which has contributed to her symptoms.
+* She has been experiencing frequent bowel movements, diarrhea, and abdominal pain, which are likely related to her diet and lifestyle.
 
-**Plan**
+**Plan:**
 
-* Encourage dietary and lifestyle modifications, including reducing consumption of greasy and fatty foods, spicy foods, and alcohol.
-* Start a neuromodulator, such as Elavil 25mg at bedtime, to help reduce symptoms.
-* Prescribe Bentyl 20mg as needed, 30-45 minutes prior to eating out at a restaurant.
-* Prescribe Zofran as needed, but encourage patient to reduce triggers before using medication.
-* Encourage patient to follow up in one month by emailing over MyChart regarding any side effects, issues with Elavil, or if adjustments are needed."
+* Start Bentyl 20mg as needed 30-45 minutes prior to eating out at a restaurant.
+* Start Elavil 25mg at bedtime to help regulate bowel habits and reduce symptoms.
+* Encourage patient to reduce consumption of greasy and fatty foods, sugary drinks, and spicy foods.
+* Encourage patient to drink plenty of water and avoid triggers that exacerbate symptoms.
+* Follow-up appointment in one month to review patient's progress and adjust treatment plan as needed."
 "[doctor] okay , so our next patient is christopher watson . date of birth 04/12/1934 . mr . watson is- is an 86-year-old male who returns in follow-up for adult hydrocephalus . this is his first visit since undergoing sh- shunt surgery , excuse me , on august 1st , 2020 .
 [doctor] i have followed mr . watson since may of 2020 when he first presented with eight to ten years of progressive gait impairment , cognitive impairment , and decreased bladder control . we established a diagnosis of adult hydrocephalus with a spino catheter protocol in june 2020 , and he underwent shunt surgery on august 1st , 2020 . a medtronic strata programmable shunt in the ventricular peritoneal configuration was programmed at a level 2.0 was placed .
 [doctor] good morning , mr . watson , who is the nice lady you have with you today ?
@@ -1121,33 +1140,27 @@ The patient will start using Alvesco, 80 mcg, two puffs twice a day. She will co
 [doctor] mr . watson is a pleasant and cooperative man who's able to converse easily through , um , though his daughter does add some details . the shunt sight was clean , dry , and intact with a confirmed setting of two . um he was tested um for recent and remote memory , attention span , and concentration in fund of knowledge . he scored a 26 out of 30 on the mmse when tested with spelling and 25 out of 30 when tested with calculations . of note , he was able to get two of the three memory words with cuing , and the third with multiple choice . this was a slight improvement over his initial score of 23 out of 30 with calculations and 24 out of 30 with spelling . and at the time he was unable um in the previous test , excuse me , he was unable to remember any memory words with cuing without and only one with multiple choice .
 [doctor] gait testing using the tinetti assessment tool . he was tested without an assistive device and received a gait score of six to eight out of 12 and a balance score of 12 out of 16 for a total score of 18 to 20 out of 28 . this is slightly improved from his initial score of 15 to 17 out of 28 .
 [doctor] cranial nerves , pupils are equal . eoms are intact . face symmetric . no disarchria . motor normal for bulk and strength . coordination slow from no- finger to nose . of note , the ct scan from the head of 10/15/2020 shows a frontal horn span at the level of foramen of monro of 4.6 centimeters with a third ventricular contour that is flat with a span of 10 millimeters . by my reading there is a tiny amount of blood in the right front region with a tiny subdermal collection . this was not noticed or noted by the radiologist who stated any extra axial fluid collections . there is also substantial small vessel ischemic change .
-[doctor] diagnosis adult hydrocephalus , gait impairment , urinary incontinence and urgency , and cognitive impairment ."|"Here is the summary of the conversation in the SOAP format:
+[doctor] diagnosis adult hydrocephalus , gait impairment , urinary incontinence and urgency , and cognitive impairment ."|"**Subjective:**
 
-**Subjective:**
-
-The patient, Christopher Watson, an 86-year-old male, returns for follow-up after undergoing shunt surgery for adult hydrocephalus on August 1st, 2020. He reports improved gait impairment, cognitive impairment, and decreased bladder control since surgery. He is currently wearing diapers and has not experienced any issues with sores or painful urination.
+The patient, Christopher Watson, an 86-year-old male, presented for a follow-up visit after undergoing shunt surgery for adult hydrocephalus on August 1st, 2020. He reported improved gait impairment, with the ability to walk to the dining room without assistance, although he still requires help with occasional tasks. He noted that his bladder control has leveled out, and he is currently wearing diapers. The patient reported no headaches, pain, or sores related to the shunt. He also reported improved cognitive function, with the ability to have normal conversations without feeling lost.
 
 **Objective:**
 
-* The patient's cognitive function has improved, and he is able to have normal conversations with his family members.
-* The patient's gait has improved, and he is able to walk to the dining room without assistance.
-* The patient's bladder control has improved, but he still experiences urinary incontinence and urgency.
-* The patient's shunt site is clean, dry, and intact with a confirmed setting of 2.0.
-* The patient scored 26 out of 30 on the Mini-Mental State Examination (MMSE) for recent and remote memory, attention span, and concentration.
-* The patient's gait score using the Tinetti Assessment Tool is 18 to 20 out of 28, which is slightly improved from his initial score.
-* The patient's cranial nerves, pupils, and motor functions are normal.
-* The patient's CT scan shows a tiny amount of blood fluid collection in the right parietal region, which was not noticed by the radiologist.
+* The patient's vital signs were as follows: blood pressure 124/80, heart rate 64, respirations 18, weight 174 pounds, and pain 0 out of 10.
+* The shunt site was clean, dry, and intact with a confirmed setting of 2.0.
+* The patient scored 26 out of 30 on the Mini-Mental Status Examination (MMSE) for recent and remote memory, attention span, and concentration in fund of knowledge.
+* He was able to get two of the three memory words with cuing and one with multiple choice, showing a slight improvement over his initial score.
+* Gait testing using the Tinetti Assessment Tool showed a score of 18 to 20 out of 28, slightly improved from his initial score.
+* Cranial nerves, pupils, and face were normal. Motor strength and coordination were normal, with slow finger-to-nose coordination.
+* The CT scan from October 15th, 2020, showed a frontal horn span at the level of the foramen of Monro of 4.6 centimeters with a flat third ventricular contour and a tiny subdural collection in the right frontal region.
 
 **Assessment:**
 
-The patient's symptoms of adult hydrocephalus, gait impairment, urinary incontinence and urgency, and cognitive impairment have improved since surgery. The patient's shunt site is intact, and the setting is confirmed. The patient's cognitive function has improved, and his gait has improved. However, the patient still experiences urinary incontinence and urgency.
+The patient has made significant improvements in his gait impairment, cognitive function, and bladder control since the shunt surgery. However, he still requires assistance with occasional tasks and wears diapers. The CT scan showed a tiny amount of blood fluid collection in the right parietal region, which is not causing any symptoms.
 
 **Plan:**
 
-* The patient will return in three months for further evaluation and possible adjustment of the shunt setting.
-* The patient will continue to wear diapers and use adult briefs as needed.
-* The patient will be advised to enroll in a driver safety program or wait for further improvement before attempting to drive again.
-* The patient will be monitored for any signs of shunt malfunction or complications."
+The patient will return in three months for follow-up. The doctor will continue to monitor his progress and adjust the shunt setting if necessary. The patient was advised to enroll in a driver safety program to assess his driving abilities and potentially regain his driver's license."
 "[doctor] amanda taylor , birth date october 31st 1949 . patient is a 72 year old woman who comes for followup for hypertension . her history includes significant alcohol use disorder and mi- mild hypercholesterolemia . at last visit on april 16th her blood pressure was 130 over 90 . after presenting at 150 over 100 she was prescribed hydrochlorothiazide 12.5 milligrams by mouth once daily , and lisinopril 20 milligrams by mouth once daily . cmp and cbc were essentially unremarkable .
 [doctor] hi miss taylor , how are you today ?
 [patient] hi , i'm- i'm good , thank you .
@@ -1220,34 +1233,29 @@ The patient's symptoms of adult hydrocephalus, gait impairment, urinary incontin
 [doctor] miss taylor is drinking alcohol four to five days per week to excess . no tobacco , no substance abuse , skin is moist , good trigger . on exam she is alert , pleasant , in no acute distress . she is not diabetic , there is no tremor , no cva tenderness , chest clear to percussion and auscultation , unlabored breathing , cardiac rhythm regular , no murmur , no gallop , jvp flat , with a head at 90 degrees . she does not appear anxious , agitated or depressed . my impression , alcohol use disorder . she would like to start naltrexone which we have previously discussed . she will take the injectable form and start on may 17th . we reviewed side effects and risks . the potential benefit of alcohol cessation would be highly beneficial to her for many reasons . hypertension , she is taking lisinopril 10 milligrams daily and hydrochlorothiazide 12.5 milligrams daily . quite possibly her blood pressure will improve completely with cessation of alcohol . her target bp is 130 to 140 over 70 to 80 . i will see her back week of june 14th , which is likely around the time of her second naltrexone injection . i recommend upgrading influenza vaccination and shingrix . number two , she did defer this .
 "|"Here is the summary of the conversation in the SOAP format:
 
-**Subjective**
+**Subjective:**
 
-* The patient, Amanda Taylor, a 72-year-old woman, presents for follow-up on her hypertension. She has a history of significant alcohol use disorder and mild hypercholesterolemia.
-* She reports struggling with not drinking and wants to discuss the shot mentioned during her previous visit.
-* She admits to drinking four to five times a week, with four to five drinks, and has been taking half the dose of lisinopril due to side effects.
-* She is taking her medications as prescribed, including hydrochlorothiazide 12.5 milligrams daily and lisinopril 20 milligrams daily.
-* She has been checking her blood pressure at home and reports seeing higher numbers in the evening.
+* Patient Amanda Taylor, 72-year-old woman, presents for follow-up on her hypertension. She reports struggling with not drinking and wants to discuss her alcohol use disorder. She has been taking hydrochlorothiazide 12.5mg daily and lisinopril 20mg daily since her last visit, and has been taking half the dose of lisinopril due to side effects. She reports feeling better on the half dose, but acknowledges that it's not ideal.
 
-**Objective**
+**Objective:**
 
-* The patient's blood pressure was 150/100 at the time of presentation.
-* The patient's ankles and feet appear normal on examination.
-* The patient is not diabetic, has no tremor, no CVa tenderness, and has a regular cardiac rhythm.
-* The patient does not appear anxious, agitated, or depressed.
+* Patient's blood pressure at last visit was 150/100, and current blood pressure is not specified.
+* Patient reports taking her medications as prescribed, except for taking half the dose of lisinopril.
+* Physical examination: patient is alert, pleasant, and in no acute distress. Skin is moist, no signs of swelling or tenderness, no tremor, no cardiac murmurs, and regular cardiac rhythm.
 
-**Assessment**
+**Assessment:**
 
-* The patient has a history of alcohol use disorder and is currently taking half the dose of lisinopril due to side effects.
-* The patient's blood pressure is not well controlled, and she is at risk for complications if her hypertension is not managed effectively.
-* The patient is interested in starting naltrexone injections to help with her alcohol use disorder.
+* Patient has a history of significant alcohol use disorder and mild hypercholesterolemia.
+* Patient is taking hydrochlorothiazide 12.5mg daily and lisinopril 20mg daily, and has been experiencing side effects from the lisinopril.
+* Patient's blood pressure is not well-controlled, and she reports that it is higher in the evenings.
+* Patient is willing to try a new medication, naltrexone, to help with her alcohol use disorder.
 
-**Plan**
+**Plan:**
 
-* The patient will start naltrexone injections on May 17th.
-* The patient will continue to take her medications as prescribed, including lisinopril 20 milligrams daily and hydrochlorothiazide 12.5 milligrams daily.
-* The patient will return for a follow-up visit on June 14th, around the time of her second naltrexone injection.
-* The patient will be encouraged to upgrade her influenza vaccination and Shingrix.
-* The patient will be monitored for side effects and will be encouraged to continue taking her medications as prescribed."
+* Patient will start taking the injectable form of naltrexone on May 17th.
+* Patient will continue taking her current medications, including hydrochlorothiazide 12.5mg daily and lisinopril (full dose) daily.
+* Patient will be seen again in June to monitor her progress and adjust her treatment plan as needed.
+* Patient will be recommended to upgrade her influenza vaccination and Shingrix."
 "[doctor] next patient is grace ross . date of birth 8-23-97 . ms. ross is a new patient . she's here today for a full spectrum std testing . the patient states that she's having symptoms of discomfort , a change in discharge , and odor in her vaginal region . she says that the right side of her vagina is starting to become painful . she denies any fevers or chills . she reports , that she recently learned , her partner has been in sexual encounters with other people , and she wants to be evaluated for all stds .
 [doctor] hello , ms. ross . i'm dr. diaz . it's good to meet you .
 [patient] hi . yes . nice to meet you , too .
@@ -1280,30 +1288,22 @@ The patient's symptoms of adult hydrocephalus, gait impairment, urinary incontin
 [doctor] of course , my pleasure . and , if everything is normal , i'll see you again , at your next annual checkup .
 [doctor] assessment : is screen for std .
 [doctor] plan : discussed with patient , and please add that she is high risk due to an abnormal pap smear in the past , and the recent discovery of her sexual partner having multiple partners , for some period of time .
-[doctor] end of recording ."|"Here is the summary of the conversation in the SOAP format:
+[doctor] end of recording ."|"**Subjective**
 
-**Subjective**
-
-* Patient, Grace Ross, a 24-year-old female, presents with symptoms of discomfort, change in discharge, and odor in her vaginal region. She reports that the right side of her vagina has become painful.
-* She is a new patient, seeking full-spectrum STD testing due to her recent discovery of her sexual partner's infidelity.
-* She denies any fevers or chills and reports that she recently learned her partner has been in sexual encounters with other people.
+The patient, Grace Ross, a 24-year-old female, presents for a full-spectrum STD testing. She reports symptoms of discomfort, change in discharge, and odor in her vaginal region, with the right side of her vagina becoming painful. She denies fever or chills. The patient recently discovered that her sexual partner has been unfaithful, and she is concerned about contracting an STD.
 
 **Objective**
 
-* Physical examination reveals no external lesions, normal labia majora and labia minora, and normal physiological discharge with normal color and smell.
-* Pelvic examination demonstrates no cervical motion tenderness, no adnexal tenderness or masses, and normal cervix and vaginal wall.
-* Swabs were taken for STD testing, including gonorrhea, chlamydia, trichomoniasis, and blood was drawn for syphilis, HIV, and hepatitis C.
+* Physical examination: No external lesions were noted on the vulva. The labia majora and labia minora were normal. The physiological discharge was normal in color and smell.
+* Pelvic examination: The cervix was normal, and the vaginal wall was normal. No cervical motion tenderness or adnexal tenderness or masses were noted.
 
 **Assessment**
 
-* Patient is at high risk for STDs due to her abnormal pap smear in the past and her partner's infidelity.
-* Patient is seeking evaluation and treatment for potential STDs.
+The patient is at high risk for STDs due to her past abnormal Pap smear and her recent sexual partner's infidelity. She is being evaluated for gonorrhea, chlamydia, trichomoniasis, syphilis, HIV, and hepatitis C.
 
 **Plan**
 
-* Patient will receive results of STD testing in 3 days, and will be contacted if any abnormalities are detected.
-* Patient will be seen again at her next annual checkup, assuming all test results are normal.
-* Patient will be counseled on the importance of regular pap smears and the risks associated with her partner's infidelity."
+The patient will undergo STD testing, and the results will be discussed with her. If everything is normal, she will be scheduled for her next annual checkup. The patient will be contacted if any abnormalities are detected, and she will be encouraged to call the office in three days for results."
 "[doctor] tyler nelson , date of birth : 3 , 6 , 1949 , mrn , 385729 . he is here today for ongoing management of rheumatoid arthritis . last time he was here , he received a steroid injection in his right knee . hello mr. nelson , how are you ?
 [patient] um , about the same as last time . my knee is still swollen .
 [doctor] that was your right knee , correct ? i take it the injection did n't help ?
@@ -1347,33 +1347,33 @@ The patient's symptoms of adult hydrocephalus, gait impairment, urinary incontin
 [doctor] yes , of course . well let me go ahead and get supplies and we'll get to work on your knee .
 [doctor] fluid aspiration and steroid injection procedure . the risks , benefits , and alternatives were explained . the risks of steroid injection were explained , including , but not limited to : hypopigmentation , soft tissue atrophy , tendon ruptures , and transient hypoglycemia among others . verbal consent was attained . the right knee was , uh , um , accessed through the lateral approach with 3 milliliters of initially clear fluid , then bloo- blood tinged fluid . then the right knee was prepped in a standard-fashion . the right knee was injected with 80 milligrams of triamcinolone , and one milliliter of lidocaine . the procedure was tolerated well , with no complications . post-procedure instructions were given . patient will follow up with his pcp . thank you ."|"Here is the summary of the conversation in the SOAP format:
 
-**Subjective**
+**Subjective:**
 
-* The patient, Mr. Nelson, is experiencing ongoing symptoms of rheumatoid arthritis, including swollen and painful knees.
-* He received a steroid injection in his right knee during his last visit, which provided temporary relief but has since worsened.
-* The patient reports a pain level of 3 out of 10, with the knee being particularly painful and swollen.
-* He has tried compression socks to alleviate swelling but has not seen significant improvement.
+* Patient, Mr. Tyler Nelson, presents with ongoing management of rheumatoid arthritis, specifically with his right knee. He reports that the steroid injection given during his previous visit provided temporary relief, but the pain and swelling have returned.
+* The patient describes his pain level as a 3 out of 10, with the knee and surrounding leg being swollen.
+* He mentions that compression socks have not been effective in reducing the swelling.
+* The patient has been taking Xeljanz (11mg daily) and Celebrex (200mg daily) as prescribed, but the swelling has persisted.
+* He reports difficulty getting up from sitting, requiring the use of a cane, and stiffness in his knee.
 
-**Objective**
+**Objective:**
 
-* The patient's right knee is swollen, with pitting around the knee and ankle.
-* The knee is hot to the touch, indicating inflammation.
-* Range of motion is slightly diminished, and the patient reports pain when trying to straighten the knee.
+* Physical examination findings: Swelling and pitting around the knee and ankle, with normal capillary refill in the toes. The knee is hot, indicating inflammation.
+* Range of motion is slightly diminished, with the patient experiencing pain when attempting to straighten his leg.
+* The doctor notes that the knee is swollen, with the patient reporting soreness similar to an old bruise.
 
-**Assessment**
+**Assessment:**
 
-* The patient's symptoms are consistent with ongoing rheumatoid arthritis, with the right knee being particularly affected.
-* The steroid injection provided temporary relief but has since worsened.
-* The patient's reports of pain and swelling suggest that the condition is not well-controlled.
+* The patient's symptoms are consistent with ongoing rheumatoid arthritis, with the right knee being the primary affected area.
+* The patient's response to previous steroid injection and medication is not satisfactory, indicating a need for further management.
+* The presence of pitting and swelling around the knee and ankle suggests ongoing inflammation.
 
-**Plan**
+**Plan:**
 
-* The doctor plans to give the patient another steroid injection to help alleviate symptoms.
-* An x-ray of the knee will be ordered to evaluate the extent of the swelling and identify any potential causes.
-* Physical therapy will be set up to help improve range of motion and reduce pain.
-* The patient will be advised to reduce salt intake, prop his feet up at night, and consider using compression socks.
-* The doctor will also recommend that the patient make an appointment with his primary care physician to discuss the condition and potential treatment options.
-* The patient will need to follow up with his primary care physician for blood work to monitor his CMP levels."
+* The doctor plans to give the patient another steroid injection, followed by an x-ray to assess the cause of the swelling.
+* Physical therapy will be scheduled to address the patient's mobility and range of motion issues.
+* The patient will be referred to his primary care physician for further management and consideration of surgery if necessary.
+* The doctor will also discuss the importance of reducing salt intake, using compression socks, and elevating the patient's legs to reduce swelling.
+* The patient will be scheduled for regular blood work to monitor Xeljanz levels and adjust treatment as needed."
 "[doctor] uh , mrn49282721 . patient's name is jacqueline miller . use last visit exam where appropriate .
 [doctor] hi , how are you doing , jacqueline ?
 [patient] i'm pretty . good . how are you ?
@@ -1501,34 +1501,30 @@ The patient's symptoms of adult hydrocephalus, gait impairment, urinary incontin
 [patient] okay , thank you .
 [doctor] okay . and i would stay away from any kind of anti-aging thing , any kind of plant thing . um , really let's just be sure we talk about any new products , or reach out to me if you're gon na try something else . um , let's go get those samples .
 [patient] okay , that sounds good .
-[doctor] for assessment and plan , perioral dermatitis , rosacea , including ocular rosacea , and copy and paste her patient instructions . i recommend that she gently wash her eyelids once a day with gentle cleanser such as vanicream , also use bruder mask as needed ."|"Here is the summary of the conversation in the SOAP format:
+[doctor] for assessment and plan , perioral dermatitis , rosacea , including ocular rosacea , and copy and paste her patient instructions . i recommend that she gently wash her eyelids once a day with gentle cleanser such as vanicream , also use bruder mask as needed ."|"**Subjective:**
 
-**Subjective**
+The patient, Jacqueline Miller, reported that her skin condition is under good control. She mentioned that she has a small bit of rash leftover and has been using doxycycline once a day, which has plateaued her improvement. She also mentioned that she stopped breastfeeding and started using doxycycline after that. She expressed concerns about the potential risks of elidel cream and was unsure about its use.
 
-* The patient, Jacqueline Miller, is experiencing a plateau in her improvement after using doxycycline once a day, which was reduced from twice a day due to concerns about the medication's potential side effects.
-* She has been using sulfacetamide wash and metro cream, and has noticed some improvement, but still has some residual rash.
-* The patient is concerned about the cost of the elidel cream, which is not covered by insurance, and is considering alternative treatments.
+**Objective:**
 
-**Objective**
+The doctor examined the patient's face and noted a few faint erythematous papules and redness on the bilateral medial cheeks and around the nostrils.
 
-* The patient's Fitzpatrick skin type is IV, indicating a moderate to high risk of developing rosacea.
-* Examination of the patient's face reveals a few faint erythematous papules and redness around and underneath the nostrils.
-* The patient is not experiencing any significant dryness or thinning of the skin.
+**Assessment:**
 
-**Assessment**
+The patient has perioral dermatitis, rosacea, including ocular rosacea. The doctor recommends increasing the use of doxycycline to twice a day and adding tacrolimus ointment to the treatment plan.
 
-* The patient's perioral dermatitis and rosacea are not fully resolved, and require further treatment.
-* The patient's use of doxycycline once a day is not effective in clearing the rash, and increasing the dosage to twice a day is recommended.
-* The patient's use of sulfacetamide wash and metro cream is appropriate, but may need to be adjusted based on the patient's response to treatment.
-* The patient's concerns about the cost of elidel cream are valid, and alternative treatments such as tacrolimus ointment may be considered.
+**Plan:**
 
-**Plan**
+1. Continue using the same face wash.
+2. Apply tacrolimus ointment to the rash on the face twice daily until the rash is gone, then once a day for another week before stopping.
+3. Continue using doxycycline at twice a day until the rash is gone, then once a day for another week before stopping.
+4. Use the sulfacetamide wash twice a day.
+5. Apply metro cream after washing the face.
+6. Avoid using any lotions or creams, except for petroleum jelly or vanicream for moisturizing.
+7. Avoid using any anti-aging or plant-based products.
+8. Follow-up appointment in four weeks.
 
-* The patient will continue to use sulfacetamide wash and metro cream as directed.
-* The patient will increase the dosage of doxycycline to twice a day and apply it to the affected area until the rash is cleared.
-* The patient will apply tacrolimus ointment to the affected area twice a day until the rash is cleared, and then once a day for an additional week before stopping.
-* The patient will avoid using any anti-aging or plant-based products, and will instead use gentle, fragrance-free cleansers and moisturizers, such as vanicream and petroleum jelly.
-* The patient will have a follow-up appointment in four weeks to assess the progress of her treatment and adjust her treatment plan as necessary."
+Note: The doctor will cancel the elidel cream and will provide samples of vanicream and petroleum jelly for moisturizing."
 "[doctor] hey good morning bobby how are you
 [patient] i'm doing okay i as you're aware doctor miller sent me over for this pain in my belly that i've had for several weeks they did he did an ultrasound and and said i had gallstones and they recommended i stay several way from some high fat food but i'm just still having a lot of pain and he referred me to you
 [doctor] alright well i'm i'm sorry to hear that you're having pain but i i'm glad that he sent you over to see me i wan na talk a little bit more about that pain can you describe the kind of pain that you feel
@@ -1582,28 +1578,36 @@ The patient's symptoms of adult hydrocephalus, gait impairment, urinary incontin
 [patient] well thank you very much i'm looking forward to i i do n't want anymore of that pain so
 [doctor] alright that sounds good we'll see you next week then
 [patient] okay take care
-[doctor] yeah"|"**Subjective:**
+[doctor] yeah"|"**SOAP Note**
 
-The patient, Bobby, is a 25-pound weight loss over the last three months due to a keto diet. He has been experiencing severe, squeezing pain on the right-hand side of his belly, underneath his ribs, which is exacerbated by fatty food intake. The pain is described as an 8/10 and is accompanied by nausea and vomiting. He has a history of type 2 diabetes and has been managing it with diet and exercise. His gallbladder was previously diagnosed with gallstones, and his primary care physician referred him to our office.
+**Subjective:**
+
+* The patient, a 45-year-old male, presented with a several-week history of right upper quadrant abdominal pain, which is exacerbated by eating fatty foods.
+* He reported that the pain is severe, rating an 8 out of 10, and is accompanied by nausea and vomiting.
+* The patient has a family history of gallbladder disease, with both parents having had their gallbladders removed.
+* He has been following a keto diet to manage his type 2 diabetes, which has resulted in a 25-pound weight loss over the past three months.
+* The patient enjoys outdoor activities, including photography, and has not been able to participate in these activities due to his abdominal pain.
 
 **Objective:**
 
-* Vital signs: Blood pressure 128/88, respiratory rate 16, pulse rate 68, and oxygen saturation 99% on room air.
-* Physical exam: Abdominal exam revealed positive bowel sounds, soft, non-distended abdomen, and slight guarding in the right upper quadrant. Murphy's sign was appreciated, but no rebound tenderness was noted.
+* Physical examination revealed afebrile patient with a normal blood pressure, pulse, and oxygen saturation.
+* The abdomen was soft and nontender, with slight guarding to the right upper quadrant.
+* The patient exhibited Murphy's sign, but no rebound tenderness was noted.
+* Abdominal ultrasound showed multiple gallstones in the gallbladder, with mild thickening of the gallbladder wall.
 
 **Assessment:**
 
-* Mild cholecystitis with gallstones
-* Gallbladder inflammation, likely occurring over the last few weeks
-* No frank obstruction was appreciated
+* The patient has mild cholecystitis with gallstones, with no frank obstruction.
+* The gallbladder is inflamed, likely over the past few weeks.
+* The patient's symptoms have not improved with dietary modifications, and surgical removal of the gallbladder is recommended.
 
 **Plan:**
 
-* Laparoscopic cholecystectomy to remove the gallbladder
-* Avoid high-fat foods after surgery and eat foods high in fiber
-* Follow-up appointment in a week to ensure recovery and monitor type 2 diabetes
-* Continue to manage type 2 diabetes as outlined by the endocrinologist or primary care provider
-* Post-operative instructions: take it easy for the first 24 hours, then gradually increase activity levels over the next week."
+* Laparoscopic cholecystectomy is planned to remove the gallbladder.
+* The patient will need to avoid high-fat foods after surgery and follow a high-fiber diet.
+* The patient will be hospitalized for 24 hours postoperatively and will need to take it easy for the first few days.
+* Follow-up appointment will be scheduled for 1-2 weeks after surgery to monitor the patient's recovery and adjust the treatment plan as needed.
+* The patient will need to follow up with his primary care physician to monitor his type 2 diabetes and adjust his treatment plan accordingly."
 "[doctor] hi matthew how are you the medical assistant told me that you injured your shoulder
 [patient] hey yeah i'm i'm hanging in there
 [doctor] what happened
@@ -1661,33 +1665,39 @@ The patient, Bobby, is a 25-pound weight loss over the last three months due to 
 [doctor] okay anything else
 [patient] no i think that's that's been great thank you so much
 [doctor] okay you're welcome have a good day bye
-[patient] thanks"|"Here is the summary of the conversation in the SOAP format:
+[patient] thanks"|"Here is the SOAP note summary:
 
 **Subjective:**
 
-* The patient, a 67-year-old male, reported injuring his right shoulder while playing tackle football about 4 days ago. He mentioned that he was tackled and landed on his shoulder in an unusual way.
-* The patient described his symptoms as a persistent pain on the back side of his right shoulder, which has been bothering him since the injury. He has been taking Tylenol for the pain, but it has not provided significant relief.
-* The patient reported that his symptoms have remained the same since the injury and that he has not experienced any numbness or tingling in his fingers.
-* He mentioned that he has had a slight headache but no fever since the injury.
+* The patient, a 67-year-old male, presented with a right shoulder injury sustained during a tackle football game approximately 4 days ago.
+* He reported pain and stiffness in his right shoulder, specifically on the back side around the acromioclavicular joint.
+* He described the injury as a result of being tackled and landing on his shoulder, and reported that he was able to get back into the game, but the pain and stiffness persisted.
+* He mentioned that he had taken Tylenol for the pain, but it did not provide significant relief.
+* He reported no numbness, tingling, or weakness in his fingers, and was able to lift his arm, but experienced pain when lifting a heavy box.
 
 **Objective:**
 
-* The patient's vital signs were normal, with a blood pressure of 122/76 mmHg, heart rate of 82 beats per minute, and oxygen saturation of 95% on room air.
-* The physical examination revealed tenderness to palpation of the posterior shoulder at the acromioclavicular joint, decreased abduction and adduction to about 90 degrees, and pain with supination and pronation of the right arm.
-* A palpable radial artery pulse was noted.
-* The patient's cervical spine exam was normal, with full range of motion and no tenderness to palpation.
+* Physical examination revealed:
+	+ Tenderness to palpation of the posterior shoulder at the acromioclavicular joint
+	+ Decreased abduction and adduction to 90 degrees
+	+ Pain with supination and pronation of the right arm
+	+ Palpable radial radial artery pulse
+	+ No ecchymosis or bruising on the right shoulder
+	+ Normal cervical spine exam
+	+ Normal vital signs, including blood pressure, heart rate, and oxygenation
 
 **Assessment:**
 
-* The patient has an acute acromioclavicular joint fracture, which is likely to require conservative management.
+* Acute acromioclavicular joint fracture
 
 **Plan:**
 
-* The patient will be placed in a sling to immobilize the shoulder and reduce pain.
-* Meloxicam 15mg once daily will be prescribed to manage pain.
-* A CT scan of the right shoulder will be ordered to further evaluate the fracture.
-* The patient will be referred to physical therapy to strengthen the shoulder and avoid future surgery.
-* The patient will be advised to avoid playing tackle football and consider alternative activities, such as flag football, in the future."
+* Prescribed meloxicam 15mg once daily for pain management
+* Ordered a CAT scan of the right shoulder to further evaluate the joint
+* Referral to physical therapy to strengthen the shoulder and potentially avoid future surgery
+* Sling application to immobilize the shoulder and promote healing
+* Recommendation to avoid tackle football and consider flag football as an alternative
+* Follow-up appointment to reassess the patient's condition and adjust treatment as needed."
 "[doctor] hi jeremy how are you the medical assistant told me that you injured your back
 [patient] yeah i was moving some boxes when my son was moving out of his college dorm and i really hurt my lower back
 [doctor] okay how long ago did that happen
@@ -1745,36 +1755,25 @@ The patient, Bobby, is a 25-pound weight loss over the last three months due to 
 [doctor] any questions
 [patient] not at this point
 [doctor] okay great thank you
-[patient] thank you"|"Here is the summary of the conversation in the SOAP format:
+[patient] thank you"|"**Subjective:**
 
-**Subjective:**
-
-* The patient, Jeremy, presented with a history of injuring his lower back approximately four months ago while moving boxes during his son's college dorm move-out.
-* He reported pain in his lower back, specifically on the right side, which was exacerbated by certain movements and positions.
-* The patient mentioned that he had tried physical therapy at his gym, but it did not provide significant relief.
-* He also reported numbness and tingling in his right foot, which resolved after an hour.
-* Jeremy expressed concern about carrying heavy objects due to the sensation of weakness in his legs.
+The patient, Jeremy, is a 20-something-year-old male who presented with a 4-month history of lower back pain following a sudden injury while moving boxes. He initially tried physical therapy at his gym, but it did not provide relief. He has been experiencing pain in his lower back, which worsens when he moves or lifts heavy objects. He has also reported numbness and tingling in his right toes, which has since resolved. He has been taking Tylenol and ibuprofen for pain relief, with some temporary improvement. He is concerned about the persistent pain and wants to explore further treatment options.
 
 **Objective:**
 
-* The patient's vital signs were normal, with no fever, chills, or abnormal blood pressure.
-* The neck and lumbar spine exams were unremarkable, except for decreased flexion and extension of the lower back, a positive straight leg raise, and some spasm of the paraspinal muscles.
-* The patient's lower extremities had equal strength bilaterally.
-* A lumbar spine x-ray showed no acute bony abnormality.
+* The patient's vital signs were normal, with a blood pressure of 117/56, heart rate of 68, and oxygenation of 95% on room air.
+* Physical examination revealed bony protuberance of the C5-C6, but no pain on palpation of the lumbar spine. There was decreased flexion and extension of the lower back, and positive straight leg raise. The patient had some spasm of the paraspinal muscles of the lumbar spine on musculoskeletal exam.
 
 **Assessment:**
 
-* The patient is likely experiencing an acute disk herniation, which occurred several months ago.
-* The physical examination findings, including decreased flexion and extension of the lower back, a positive straight leg raise, and some spasm of the paraspinal muscles, are consistent with this diagnosis.
-* The patient's history of knee surgery and the presence of some bony protuberance of the C5-C6 are not directly related to his current symptoms.
+Based on the patient's history and physical examination, it is likely that Jeremy has an acute disk herniation, which occurred 4 months ago. The lumbar spine x-ray showed no acute bony abnormality, which is consistent with the patient's history.
 
 **Plan:**
 
-* The doctor ordered a lumbar spine MRI to better evaluate the patient's condition.
-* Physical therapy was recommended to continue treating the patient's symptoms.
-* The doctor prescribed meloxicam 15mg once a day to help manage the patient's pain.
-* The possibility of an epidural steroid injection was discussed as a potential treatment option for the herniated disk.
-* The patient was referred to a physical therapist through the health system."
+* Order a lumbar spine MRI to further evaluate the extent of the disk herniation.
+* Refer the patient to a physical therapist through our health system to continue with physical therapy.
+* Prescribe meloxicam 15mg once a day to help manage pain and inflammation.
+* Discuss the possibility of an epidural steroid injection as a treatment option for the herniated disk, but this will be addressed once the MRI results are available."
 "[doctor] so dennis is a 57 -year-old male today complaining of shortness of breath he has also got a history of diabetes high blood pressure and history of asthma so dennis tell me what's going on how're you doing
 [patient] not too good
 [doctor] okay how long have you been feeling not too well
@@ -1823,36 +1822,38 @@ The patient, Bobby, is a 25-pound weight loss over the last three months due to 
 
 **Subjective:**
 
-* 57-year-old male patient presents with shortness of breath, coughing up blood, and a history of diabetes, high blood pressure, and asthma.
-* Patient reports waking up with shortness of breath, which persists even after resting.
-* He has been coughing up blood for about three weeks, with an estimated amount of three to four cups per day.
-* Patient has not noticed any swelling in his legs, bruising, or bleeding from his teeth or gums.
-* He has not been to the emergency room or hospital for his symptoms.
+* 57-year-old male presents with a 2-week history of shortness of breath
+* Reports waking up with shortness of breath, which persists throughout the day
+* Has been coughing up blood for approximately 3 weeks, with 3-4 cups per day
+* Has a history of diabetes, high blood pressure, and asthma
+* Has been experiencing knee pain, but no swelling or bleeding
+* Has not had any recent travel or hospitalizations
+* Has been taking metformin and norvasc, but blood sugar has been running high and blood pressure has been running low
 
 **Objective:**
 
-* Patient's oxygen level is 94% on pulse oximetry.
-* His blood sugar has been running high, with morning readings around 150 and after-meal spikes over 200.
-* His blood pressure is 120/70 mmHg, with occasional readings in the lower 90s.
-* Physical examination reveals:
-	+ No jugular venous distension or swelling in the neck.
-	+ No carotid bruits or wheezing in the lungs.
-	+ Diminished breath sounds in the right lung field.
-	+ A 2/6 systolic ejection murmur in the heart.
-	+ Soft and non-pitting edema in both lower extremities.
+* Oxygen level in the clinic: 94%
+* No swelling or bruising noted on physical examination
+* Diminished breath sounds on the right side, with rhonchi and rales present
+* No wheezing or carotid bruits noted
+* Heart exam: 2+ ejection murmur, regular rate and rhythm
+* Extremity exam: 1+ non-pitting edema on both lower extremities
 
 **Assessment:**
 
-* Patient has a respiratory infection or possible blood clot in the lungs, which is causing his shortness of breath and coughing up blood.
-* His diabetes is not well-controlled, with high blood sugar readings.
-* His high blood pressure is likely related to the underlying infection or other factors.
+* The patient is experiencing a possible infection or inflammation in the lungs, as evidenced by the coughing up of blood and diminished breath sounds on the right side
+* The patient's blood sugar has been running high, with a recent hemoglobin A1c level of 7.0%
+* The patient's blood pressure has been running low, with a current reading of 120/70 mmHg
+* The patient has a history of asthma and high blood pressure, which may be contributing to the current symptoms
 
 **Plan:**
 
-* Patient will be referred to the emergency department for a chest X-ray, CT scan, and blood testing to evaluate the cause of his shortness of breath and coughing up blood.
-* Once the patient is stable, his blood sugar will be re-evaluated, and his metformin dose may be increased.
-* Patient will be instructed to hold his norvasc medication until his blood pressure is re-evaluated after the emergency department visit.
-* Follow-up appointment will be scheduled in three weeks to discuss the patient's diabetes treatment plan."
+* Order a chest X-ray to evaluate the patient's lung condition
+* Refer the patient to the emergency department for further evaluation and treatment, including a CT scan and blood work
+* Hold the norvasc until the patient's blood pressure is stabilized
+* Increase the patient's metformin dose to 750mg twice daily to better control their blood sugar
+* Schedule a follow-up appointment in 3 weeks to re-evaluate the patient's blood sugar and develop a plan to manage their diabetes
+* Have the patient return to the emergency department once the shortness of breath and coughing up blood have been stabilized."
 "[doctor] alright scott so so i understand that you you had some right knee injury can you tell me a little bit about what happened
 [patient] yeah i was trying to go out and play some pickup soccer games over the weekend and went to go plank kick the ball and and just felt a pop in my right knee
 [doctor] okay and and how long ago did that happen
@@ -1893,36 +1894,33 @@ The patient, Bobby, is a 25-pound weight loss over the last three months due to 
 
 **Subjective:**
 
-* The patient, Scott, presented with a right knee injury sustained during a soccer game three days ago.
-* He reported a sudden pop in his knee while trying to kick the ball, followed by swelling, pain, and limited mobility.
-* The patient has been taking anti-inflammatory medication, including ibuprofen, to alleviate the pain.
-* He is experiencing pain on a scale of 6-7, with some relief from the medication.
-* The patient has difficulty bending and straightening his leg, and feels like he needs to help straighten his knee.
-* He is able to bear weight on the knee, but it feels loose and unstable.
+* The patient, Scott, is a [age]-year-old male who presented with a right knee injury that occurred three days ago during a soccer game. He reported a sudden pop in his knee while attempting to kick a ball, followed by swelling, pain, and limited mobility. He has been taking ibuprofen for pain relief and has noticed some improvement in swelling, but still experiences pain and stiffness.
 
 **Objective:**
 
-* The patient has a marked limp on the right leg during ambulation.
-* There is significant effusion in the right knee, with a slight bit of ecchymosis.
-* Palpation of the medial joint line elicits some pain.
-* The patient has limited passive range of motion, with 115 degrees of terminal extension and 30 degrees of terminal flexion.
-* The Lachman exam is positive, suggesting an anterior cruciate ligament (ACL) tear.
-* The patient's neurovascular examination is normal, with 5/5 muscle strength in the bilateral lower extremities.
+* Physical examination revealed:
+	+ Marked limp on the right leg during ambulation
+	+ Significant effusion in the right knee
+	+ Slight ecchymosis
+	+ Pain to palpation at the medial joint line
+	+ Limited passive range of motion, with difficulty bending and straightening the knee
+	+ Positive Lachman exam
+	+ Muscle strength of 5/5 in both lower extremities
+	+ Neurovascularly, bilateral lower extremities are intact
 
 **Assessment:**
 
-* The patient's symptoms are consistent with an ACL tear.
-* The patient requires further evaluation with an MRI to confirm the diagnosis and determine the extent of the injury.
+* Based on the patient's symptoms and physical examination findings, the doctor suspects an anterior cruciate ligament (ACL) tear.
 
 **Plan:**
 
-* Order an MRI to evaluate the integrity of the ACL.
-* Prescribe meloxicam 50mg daily to reduce swelling and pain.
-* Advise the patient to use ice and wear a knee immobilizer to reduce stress and strain on the knee.
-* Limit the patient's activities, including work activities, to reduce stress on the knee.
-* Suggest moderate exercise, such as light stretching, to maintain mobility and prevent stiffness.
-* Prohibit jogging until the results of the MRI are available and a treatment plan is established.
-* Schedule the patient for an MRI and arrange for the doctor to follow up with the patient once the results are available."
+* Order an MRI to evaluate the integrity of the ACL
+* Prescribe meloxicam 50mg daily to reduce swelling and pain
+* Advise the patient to use ice as needed to reduce swelling and pain
+* Recommend moderate activities, including wearing a knee immobilizer and using crutches when walking
+* Limit work activities, including sitting and standing, to avoid putting excessive stress on the knee
+* Advise against jogging for the time being until the results of the MRI are available and a treatment plan is established
+* Schedule an appointment for the patient to return after the MRI results are available."
 "[doctor] alright teresa i see here in your chart that you seem to be experiencing some elbow pain could you tell me where it hurts
 [patient] yeah so it's hurting on the inside of my elbow
 [doctor] mm-hmm
@@ -2009,39 +2007,37 @@ The patient, Bobby, is a 25-pound weight loss over the last three months due to 
 [patient] okay
 [doctor] alright no problem any other questions
 [patient] nope
-[doctor] alright thank you for keeping me accountable"|"Here is the summary of the conversation in the SOAP format:
+[doctor] alright thank you for keeping me accountable"|"**SOAP Note**
 
 **Subjective:**
 
-* The patient, Teresa, is experiencing elbow pain on the medial aspect of her right elbow.
-* The pain is exacerbated by her pottery work, specifically when using a pottery wheel.
-* She has been taking ibuprofen and applying ice, but the pain has not improved.
-* The patient has a history of hypertension and diabetes, and is currently taking medications for both conditions.
-* She is concerned about the impact of her elbow pain on her ability to complete a ceramic bowl for her son's birthday.
+* Patient, Teresa, presents with complaints of elbow pain on the medial aspect, which started 4 days ago. The pain is exacerbated by activities such as pottery and baking. She reports a pain level of 7 out of 10, which interferes with her daily activities and sleep.
+* She has been taking ibuprofen for pain relief, but it has not provided significant relief. She has tried ice application, but it has not helped.
+* Patient has a history of hypertension and diabetes, and is currently taking medications for these conditions.
+* She is a potter and baker, and enjoys these activities, but recognizes the need to manage her health.
 
 **Objective:**
 
-* The patient's vital signs were within normal range, including blood pressure (120/70 mmHg), pulse rate (normal), and oxygen saturation (100%).
-* The patient's weight has increased by 5 pounds, but this is considered normal fluctuation.
-* The physical examination revealed moderate tenderness at the medial epicondyle, with pain on flexion and pronation of the right forearm.
-* The patient's heart and lungs are normal, with no murmurs, rubs, or gallops.
+* Physical examination of the right elbow reveals moderate tenderness at the medial epicondyle, with pain on flexion and pronation of the forearm.
+* The patient's vital signs are within normal limits, including blood pressure, pulse, and oxygen saturation.
+* The patient's respiratory and cardiovascular systems are normal.
 
 **Assessment:**
 
-* The patient's elbow pain is consistent with medial epicondylitis, caused by overuse and damage to the tendons in her arm.
-* The patient's diabetes and hypertension are well-controlled, but may require further evaluation and management.
+* The patient's symptoms are consistent with medial epicondylitis, a condition caused by overuse and damage to the tendons in the arm.
+* The patient's medical history and physical examination support this diagnosis.
 
 **Plan:**
 
-* Rest the patient's right arm and apply ice for 20 minutes three times a day.
-* Prescribe 600mg of ibuprofen every 6 hours with food for 1 week.
-* Order a sling for the patient's right arm.
-* Refer the patient to physical rehabilitation for further evaluation and treatment of her elbow pain.
-* Increase the patient's metformin dosage to 1000mg twice a day.
-* Order an A1C test to evaluate the patient's blood sugar control.
-* Refer the patient to diabetic counseling for further education and support.
-* Continue the patient's lisinopril at 10mg daily.
-* Schedule a follow-up appointment in 2 weeks to evaluate the patient's progress and adjust the treatment plan as necessary."
+* Rest and avoid activities that exacerbate the pain for the next 2 weeks.
+* Apply ice to the elbow for 20 minutes, three times a day.
+* Take 600mg of ibuprofen, three times a day, with food, for 1 week.
+* Wear a sling while awake to reduce strain on the arm.
+* Follow-up appointment in 2 weeks to reassess the condition.
+* Increase metformin to 1000mg, twice a day, for the patient's diabetes.
+* Order a referral to diabetic counseling to provide additional guidance on managing diabetes.
+* Continue lisinopril at 10mg for hypertension.
+* Consider physical rehabilitation if the condition does not improve with conservative management."
 "[doctor] good morning noah tell me a little bit about why you are here today
 [patient] hi document i'm i'm just had you know the back pain you know and i've i've had it for you know about a week and
 [doctor] oh
@@ -2119,25 +2115,40 @@ The patient, Bobby, is a 25-pound weight loss over the last three months due to 
 [doctor] take care
 [patient] that one is a follow-up mm-hmm"|"Here is the summary of the conversation in the SOAP format:
 
-**Subjective**
+**Subjective:**
 
-The patient, Noah, presented with a week-long history of low back pain, which started without any specific injury or trauma. The pain is located in the middle of the back, possibly on the lower side, and is exacerbated by sudden movements to the left. The patient has tried over-the-counter medications for the pain, but they have not provided significant relief. Noah also mentioned that he has a history of diabetes and has been taking metformin twice a day, with occasional exercise and sugar intake.
+* Patient presents with low back pain that started about a week ago, which has been ongoing despite trying over-the-counter medications.
+* Pain is located in the middle of the back, possibly on the lower side, and worsens with sudden movements, especially to the left.
+* Patient has a history of diabetes and has been taking metformin twice a day.
+* Patient's blood sugar levels have been slightly elevated, but they try to control them through diet and exercise.
+* Patient has a sweet tooth and enjoys visiting a local bakery, which can be a challenge for them.
 
-**Objective**
+**Objective:**
 
-The patient's physical examination revealed tenderness in the lower back, particularly in the center, which worsened when pressure was applied. The patient reported pain when his legs were lifted, with more significant pain on the left side. The examination did not reveal any numbness, tingling, or pain in the patient's feet.
+* Physical examination revealed:
+	+ No significant pain in the upper back
+	+ Pain in the low back, particularly in the center, which worsens with pressure
+	+ Pain is also present on the left side of the back
+	+ No numbness or tingling in the feet
+	+ No pain or discomfort in the legs when lifted
 
-**Assessment**
+**Assessment:**
 
-Based on the patient's symptoms and physical examination, the doctor assessed that the patient has a musculoskeletal low back strain. The doctor ordered a low back x-ray to further evaluate the patient's condition and to rule out any disk issues. The doctor also ordered physical therapy to help with pain relief and strengthen the muscles in the back.
+* Diagnosis of musculoskeletal low back strain
+* Recommendation for a low back x-ray to assess joint spaces and potential disk issues
+* Prescription for physical therapy to help with pain and strengthen back muscles
+* Recommendation for ibuprofen and flexeril for pain management
+* Order for an a1c test to assess blood sugar control
+* Advice to continue with diet and exercise, and to monitor blood sugar levels regularly
 
-**Plan**
+**Plan:**
 
-The doctor prescribed 400 milligrams of ibuprofen, which the patient can take occasionally with Tylenol, up to three times a day. The doctor also prescribed flexeril, a muscle relaxant, to be taken once a day in the evening. The doctor instructed the patient to avoid strenuous or hazardous activities while taking these medications.
-
-For the patient's diabetes, the doctor ordered an A1C test to assess the patient's current glucose control. The doctor advised the patient to continue with their diet and exercise regimen and to take their metformin as prescribed.
-
-The doctor scheduled a follow-up appointment and instructed the patient to keep a record of their blood sugar levels and blood pressure. The doctor may refer the patient to a pain doctor if the low back pain persists and diagnostic tests do not reveal any significant issues."
+* Patient will take 400mg of ibuprofen with Tylenol as needed, up to three times a day
+* Patient will take one flexeril tablet per day in the evening
+* Patient will undergo a low back x-ray as an outpatient
+* Patient will start physical therapy to help with pain and strengthen back muscles
+* Patient will continue with diet and exercise, and monitor blood sugar levels regularly
+* Patient will return for a follow-up appointment to discuss the results of the x-ray and a1c test."
 "[patient] i hope i did n't hurt it again
 [doctor] hi gregory how are you i the medical assistant told me that you injured your knee
 [patient] yeah yeah i heard it stepping off a curb
@@ -2204,28 +2215,28 @@ The doctor scheduled a follow-up appointment and instructed the patient to keep 
 
 **Subjective:**
 
-* The patient, Gregory, presented with a 2.5-week-old injury to his right knee, which occurred when he stepped off a curb and twisted his ankle.
-* He reported clicking and pain on the outside of his knee, especially when standing on one foot or doing squats.
-* He has been taking ibuprofen, which provides some relief at night, but not during the day.
-* He is concerned about the clicking and potential injury.
+* The patient, Gregory, presented with a two-and-a-half-week-old injury to his right knee, specifically the lateral aspect, after stepping off a curb.
+* He reported that the injury occurred without falling, but rather by twisting his ankle and feeling a sudden click in his knee.
+* The patient mentioned that the knee clicks when walking, but only when standing on one foot or doing squats.
+* He has not taken any medication for the pain, except for occasional ibuprofen, which provides some relief at night.
+* The patient is concerned about the clicking and potential long-term damage.
 
 **Objective:**
 
-* The patient has a slight effusion on the outside of his knee.
-* The doctor performed a physical exam, which showed a positive varus test, full range of motion, and a negative Lachman sign.
-* The patient's cardiovascular exam was normal, and his dorsalis pedis and posterior tibialis pulses were palpable.
-* The doctor reviewed the patient's knee x-ray, which showed no acute fracture or bony abnormality.
+* Physical examination revealed slight edema and a positive varus test.
+* The patient had a full range of motion and a negative Lachman sign.
+* The knee x-ray did not show any acute fracture or bony abnormality.
 
 **Assessment:**
 
-* The doctor diagnosed a lateral collateral ligament strain based on the patient's exam findings.
+* Based on the patient's history and physical examination, the doctor diagnosed a lateral collateral ligament strain.
 
 **Plan:**
 
 * The doctor prescribed meloxicam 15mg once a day for pain management.
-* He referred the patient to physical therapy to strengthen the muscles around the injured area and prevent future injuries.
-* He recommended continued icing of the knee, which the patient has been doing, and encouraged the patient to continue using ibuprofen as needed.
-* If the patient's symptoms do not improve, the doctor may consider ordering an MRI."
+* A referral to physical therapy was made to strengthen the muscles around the injured area and prevent future injuries.
+* The doctor advised the patient to continue icing the knee, as it has been doing so already, and to follow up if the symptoms worsen or do not improve.
+* If the patient's symptoms do not improve with physical therapy, an MRI may be considered."
 "[doctor] hi dennis how are you today
 [patient] good
 [doctor] so what what brings you into the office i do n't believe i have ever seen you before here
@@ -2277,32 +2288,31 @@ The doctor scheduled a follow-up appointment and instructed the patient to keep 
 [doctor] oh
 [patient] hockey town but not so much anymore
 [doctor] no yeah detroit is a hockey town yeah the red wings okay well i'm gon na go ahead and i'll send my nurse in and go ahead and get you discharged and like i said i'd like to see you back here in seven to ten days after that first physical therapy appointment i've got a great phenomenal office staff you just call in once that gets scheduled they will get you in to that next available appointment so take care and i will talk to you later
-[patient] thanks"|"Here is the summary of the conversation in the SOAP format:
+[patient] thanks"|"**SOAP Note**
 
 **Subjective:**
 
-* The patient, Dennis, is a 30-year-old male who is training for a triathlon and has been experiencing pain in the back of his heel and calf, which worsens after activity and improves with rest.
-* The pain is described as feeling like it's tearing and is exacerbated by sitting or standing for extended periods.
-* The patient has not been stretching or doing any specific exercises to alleviate the pain.
+* The patient, Dennis, is a 30-year-old male who presented to the office with a complaint of pain in the back of his heel and calf, which occurs after training for a triathlon. He reported that the pain is exacerbated by running, cycling, and swimming, and is also present in the morning when he first gets out of bed.
+* He has been training for the triathlon five days a week, with a mix of running, cycling, and swimming. He does not stretch before or after his workouts and has been experiencing pain for several weeks.
+* The patient reported that the pain is not limited to the affected area, as it also radiates up the calf and is exacerbated by activities such as sitting and standing.
 
 **Objective:**
 
-* The patient's physical examination revealed tenderness in the Achilles tendon, particularly on the right side.
-* The Thompson test was negative, indicating that the Achilles tendon was not inflamed.
-* The patient's calf muscles were not tender to palpation.
+* Examination revealed tenderness to palpation in the Achilles tendon, particularly on the right side. The Thompson test was negative, indicating that there was no significant pain or weakness in the calf muscles.
+* The patient's calf muscles were found to be normal in strength and flexibility.
 
 **Assessment:**
 
-* The patient's symptoms are consistent with Achilles tendinitis, likely caused by overuse and lack of proper stretching and strengthening exercises.
-* The patient's aggressive training schedule, including running, cycling, and swimming, is likely contributing to the development of the condition.
+* Based on the patient's symptoms and physical examination, the diagnosis of Achilles tendinitis was made.
+* The patient was advised to stop training for a week or two to allow for healing and to take anti-inflammatory medication to reduce pain and inflammation.
+* Physical therapy was recommended to provide strength and stretching exercises to help alleviate symptoms and prevent future recurrences.
 
 **Plan:**
 
-* The patient will stop training for a week or two to allow the Achilles tendon to heal.
-* The patient will take ibuprofen or Advil as needed to reduce inflammation and alleviate pain.
-* The patient will attend physical therapy sessions to learn proper stretching and strengthening exercises for the lower extremities.
-* The patient will return to the doctor's office in 7-10 days for follow-up and to assess the effectiveness of the treatment plan.
-* If the patient's symptoms do not improve with treatment, further evaluation and treatment options will be discussed."
+* The patient was instructed to take three tablets of ibuprofen or Advil every six hours as needed to reduce pain and inflammation.
+* Physical therapy was ordered to provide strength and stretching exercises to help alleviate symptoms and prevent future recurrences.
+* The patient was advised to return to the office in seven to ten days to follow up on his progress and to reassess the need for further treatment.
+* The patient was also advised to avoid activities that exacerbate the symptoms and to modify his training program to reduce the risk of further injury."
 "[doctor] so hey christina good to see you today i see you're here you have a nonhealing foot ulcer well also looks like in my notes that you got some you've got type two diabetes and that probably the reason for your ear but ulcer not healing so how you doing today what's going on
 [patient] doing pretty good except i ca n't get this ulcer to heal
 [doctor] okay how long has that wound been present
@@ -2337,34 +2347,30 @@ The doctor scheduled a follow-up appointment and instructed the patient to keep 
 [patient] thank you
 [doctor] alright thanks"|"Here is the summary of the conversation in the SOAP format:
 
-**Subjective**
+**Subjective:**
 
-* Patient presents with a non-healing foot ulcer on the dorsal aspect of the lateral right foot, which has been present for approximately one year.
-* The patient has type 2 diabetes and has been experiencing drainage and increased fatigue.
-* The patient has been on antibiotics (Keflex) for five months, but the wound has not shown significant improvement.
-* The patient has limited feeling in their foot due to neuropathy.
-* The patient plans to walk around with the wound this weekend and has been eating out, which may not be ideal for their diabetes.
+* The patient, Christina, presented with a non-healing foot ulcer on the dorsal aspect of the lateral right foot, proximal to the fifth metatarsal head. The ulcer has been present for approximately one year, and despite previous treatment with antibiotics (Keflex), it has not improved.
+* The patient has type 2 diabetes and reports a lack of feeling in her foot. She has been experiencing increased drainage and fatigue, but no pain.
+* The patient has been eating out and not following her primary care physician's advice, which may be contributing to her poor blood sugar control (A1C of 10).
 
-**Objective**
+**Objective:**
 
-* Examination of the right foot reveals a 1x2 cm circular wound on the dorsal aspect of the lateral right foot, proximal to the fifth MTP joint.
-* The wound has yellow slough and minimal granulation tissue, with no surrounding erythema or cellulitis.
-* No evidence of fluid collection, necrosis, or bony exposure is present.
-* The patient's vitals are stable, and no fever is present.
+* Physical examination of the foot revealed a 1x2 cm wound with yellow slough and minimal granulation tissue. There was no surrounding erythema, cellulitis, or fluid collection. The wound did not have an odor, and there was no bony exposure.
+* An X-ray of the right foot showed no evidence of osteomyelitis (bone infection).
 
-**Assessment**
+**Assessment:**
 
-* The patient has a diabetic foot ulcer that has not responded to previous treatment.
-* The patient has limited blood flow to the affected area, which may be contributing to the non-healing wound.
-* The patient's diabetes is not well-controlled, with an A1C of 10.
+* The patient has a diabetic foot ulcer that has been present for an extended period.
+* The patient has poor blood flow to the affected area, as evidenced by the lack of healing.
+* The patient's poor blood sugar control (A1C of 10) is likely contributing to the development and persistence of the ulcer.
 
-**Plan**
+**Plan:**
 
-* Order an ABI (ankle brachial index) to assess blood flow to the affected area.
-* Perform a debridement of the wound to remove dead tissue.
-* Prescribe colaganase ointment to be applied once daily to the wound, covered with a sterile dressing.
-* Provide a surgical shoe to reduce pressure on the affected area.
-* Schedule a follow-up appointment in two weeks to reassess the wound and consider additional debridement or other treatments as necessary."
+* The patient will undergo an ABI (ankle-brachial index) to assess blood flow to the affected area.
+* A debridement of the wound will be performed to remove dead tissue.
+* The patient will be prescribed colaganase ointment to be applied to the wound once daily, covered with a sterile dressing.
+* The patient will be fitted with a surgical shoe to reduce pressure on the affected area.
+* Follow-up appointment in two weeks to reassess the wound and consider another debridement."
 "[doctor] alright julia so you've been coming to see me for a while now ever since you had an rca stent placed back in twenty eighteen but i see you're here for follow-up after an interior stemi where we had to put in another stent right so like how are you doing
 [patient] well i mean it was a real shock for me i thought everything was fine after my last heart attack and then i just started having this horrible chest pain and it would n't go away so i went to the emergency room and yeah they told me i needed another stent
 [doctor] wow so you were experiencing similar symptoms similar to what you had the first time
@@ -2403,39 +2409,38 @@ The doctor scheduled a follow-up appointment and instructed the patient to keep 
 [patient] that sounds good yeah so i'm yeah as long as you tell me i'm gon na get better i believe you
 [doctor] yes yeah i i strongly believe this is our best course of action and that you will get better given enough time i i see that you are making efforts i'm really glad that you are out there walking and that you're cognizant of your diet and willing to make changes we will just you know monitor it over time okay
 [patient] okay
-[doctor] alright thank you"|"Here is the summary of the conversation in the SOAP format:
+[doctor] alright thank you"|"**Subjective:**
 
-**Subjective:**
-
-* The patient, Julia, has been experiencing chest pain and shortness of breath, similar to her previous heart attack symptoms, which led to the placement of another stent.
-* She has noticed swelling in her legs since being discharged from the hospital.
-* Julia has been taking her medications as prescribed, but has not been strictly adhering to her diet, particularly with regards to salt intake.
-* She enjoys pizza and pepperoni, but is aware of the high salt content and is willing to make changes.
+The patient, Julia, is a 65-year-old female who has been experiencing chest pain and shortness of breath since her recent interior ST elevation myocardial infarction (STEMI). She had a stent placed and has been experiencing similar symptoms to her previous heart attack. She has been taking her medications as prescribed and has been walking her dog daily. She has noticed swelling in her legs since being discharged from the hospital. She has not been adhering to a strict diet and enjoys consuming high-sodium foods, such as pizza.
 
 **Objective:**
 
-* The patient's vital signs are normal.
-* The physical examination revealed no jugular venous distension, carotid bruits, or significant murmurs.
-* The patient's lungs are clear, and extremities show some lower edema swelling (pitting one plus on the right radial artery).
-* The cath site is clean, dry, and intact without hematoma.
-* The ECG shows a normal sinus rhythm and good R-wave progression.
-* The echo revealed a reduced ejection fraction of 35% and moderate mitral regurgitation.
+* Vital signs: Within normal limits
+* Physical examination: No jugular venous distension, no carotid bruits, and a 3/6 systolic ejection murmur heard at the left base
+* Lung examination: Clear
+* Extremities: Lower limb edema, pitting 1+ on the right radial artery
+* Cath site: Clean, dry, and intact without hematoma
+* Radial artery pulses: Palpable
+* ECG: Normal sinus rhythm, good R wave progression, and evolutionary changes expected after STEMI
+* Echocardiogram: Reduced ejection fraction of 35%
 
 **Assessment:**
 
 * Primary diagnosis: Coronary artery disease
-* Secondary diagnosis: Newly reduced left ventricular dysfunction and moderate mitral regurgitation
-* Tertiary diagnosis: Acute heart failure
+* Secondary diagnoses:
+	+ Reduced left ventricular dysfunction and moderate mitral regurgitation
+	+ Acute heart failure
 
 **Plan:**
 
 * Continue aspirin 81mg daily and brilinta 90mg twice daily
 * Continue high-dose statin (lipitor) 80mg daily
 * Continue toprol 50mg daily
-* Refer to cardiac rehab for education and exercise guidance
-* Prescribe lasix 40mg daily and aldactone 12.5mg daily for acute heart failure
-* Repeat echo in two months
-* Consider nutrition counseling and diet modifications to reduce salt intake and manage hypertension."
+* Refer to cardiac rehabilitation for education and exercise guidance
+* Prescribe lasix 40mg daily and aldactone 12.5mg daily for heart failure management
+* Schedule follow-up echocardiogram in two months
+* Monitor blood pressure and adjust medication as needed
+* Encourage dietary changes, including reducing sodium intake and exploring alternative food options."
 "[doctor] hey jose how are you doing it's been about you know three or four months since i last saw you what's going on
 [patient] i'm doing okay i i guess the medications are helping i'm concerned about all the medications i'm taking but i think i'm doing okay
 [doctor] yeah yeah you are on a fair amount of medications you know we do have you on those medications because you did have a heart attack about six months ago they put that that stent into your left anterior descending artery and so that's a major artery on the left side of your heart and so we need to keep those stents open and and kinda help your heart heal so it is gon na be very important for you to continue on those medications so you're still taking your aspirin and are you still taking the brilinta
@@ -2505,33 +2510,36 @@ The doctor scheduled a follow-up appointment and instructed the patient to keep 
 [doctor] yep i'm gon na put them into the computer and and whatever pharmacy you want yep mm-hmm
 [patient] okay alright sounds great thank you
 [doctor] okay you're welcome i'll be in touch bye
-[patient] okay alright bye-bye"|"**SOAP Note**
+[patient] okay alright bye-bye"|"Here is the summary of the conversation in the SOAP format:
 
 **Subjective:**
 
-The patient, Jose, presented with concerns about his medications and the potential side effects. He reported feeling dizzy when standing up quickly, which was attributed to his beta-blocker medication. He also expressed concerns about the stents in his heart and asked about the possibility of replacing them. Additionally, he mentioned his struggles with managing his diabetes and his a1c levels. He also reported feeling down since his heart attack and expressed interest in seeking help for his depression.
+* The patient reported being ""okay"" since their last visit, with their medications helping, but expressed concerns about the number of medications they are taking.
+* They mentioned that they get dizzy when standing up quickly, which was attributed to their beta-blocker medication.
+* The patient asked about the stents in their heart and how long they will need to be in place.
+* They also discussed their diabetes management, including their A1C levels and diet, and expressed a desire to improve their diet.
+* The patient mentioned that they have been feeling down since their heart attack and was looking for medication to help alleviate their depression.
 
 **Objective:**
 
-* Vital signs: Blood pressure 127/80 mmHg, pulse 60 beats per minute
-* Physical exam: Slight three out of six systolic ejection murmur heard at the left base, one plus non-pitting edema in the lower extremities
-* Kidney function: Stable, no evidence of kidney damage
+* The patient's vital signs were within normal range, with a blood pressure of 127/80 mmHg.
+* The physical examination revealed a slight systolic ejection murmur heard at the left base and one plus non-pitting edema in the lower extremities.
+* The patient's kidney function was stable, and their creatinine level was within normal range.
 
 **Assessment:**
 
-* Coronary artery disease: The patient is doing well on his medications, and no further testing is necessary at this time.
-* Stage three chronic kidney disease: The patient's kidney function is stable, but he needs to follow up with his nephrologist to ensure that his condition does not worsen.
-* Diabetes: The patient's a1c levels are not where they should be, and he needs to work on managing his diet and glucose levels.
-* Depression: The patient is experiencing mild depression and is interested in seeking help. A referral to psychiatry was made to help him cope with his depression.
+* The patient has coronary artery disease and is at risk for further cardiac events.
+* They have stage three chronic kidney disease and will need to follow up with their nephrologist.
+* The patient has mild depression and will benefit from a referral to psychiatry for further evaluation and treatment.
 
 **Plan:**
 
-* Referral to cardiac rehab to help the patient become more active and confident in exercising.
-* Refill of metoprolol, crestor, and aspirin as needed.
-* Referral to the dietitian for dietary education to help the patient manage his diabetes.
-* Appointment with the nephrologist to follow up on his chronic kidney disease.
-* Hemoglobin a1c test to monitor the patient's glucose levels.
-* Referral to psychiatry to help the patient cope with his depression."
+* The patient will continue taking their current medications, including metoprolol, crestor, and aspirin.
+* They will be referred for cardiac rehab to improve their physical activity and confidence.
+* The patient will be referred to a dietitian for education on managing their diabetes.
+* The patient will have a follow-up appointment with their nephrologist to monitor their kidney function.
+* The patient will have a referral to psychiatry for further evaluation and treatment of their depression.
+* The doctor will place a referral for the patient to see a psychiatrist for mild depression and difficulty adjusting after having a heart attack."
 "[doctor] yeah so sorry so barbara is a 31 -year-old female and she has history of diabetes type two and asthma and she is here today with abdominal pain so barbara tell me a little more about your abdominal pain what's been going on
 [patient] so i've been having this pain for the past one week and as you know i have a longstanding history of diabetes and i guess i've been drinking too much coffee lately i do n't know if that triggered my gastritis so
 [doctor] yeah
@@ -2570,33 +2578,31 @@ The patient, Jose, presented with concerns about his medications and the potenti
 [patient] lately that could be contributing towards my gastritis so i'm gon na cut back on that as well
 [doctor] okay yeah i'd also recommend while this is hurting you definitely cut back on the spices the spicy food easier said than done sometimes i know but yep yep alright sounds good well listen i'll see you back in four weeks give me a holler if if you have any questions or anything else in the meantime
 [patient] i will
-[doctor] alright you take care sure you got"|"Here is the summary of the conversation in the SOAP format:
+[doctor] alright you take care sure you got"|"**Subjective:**
 
-**Subjective**
+The patient, a 31-year-old female with a history of type 2 diabetes and asthma, presents with a one-week history of abdominal pain. She reports that the pain has been gradually increasing in severity and is accompanied by nausea and vomiting. She attributes the pain to her recent increase in coffee consumption, particularly venti-sized cups from Starbucks. She also mentions that the pain worsens with physical activity, such as jogging or running. The patient has been experiencing nausea and vomiting approximately three times in the past week, with a couple of instances of vomiting. She has not had a fever.
 
-* 31-year-old female patient with a history of type 2 diabetes and asthma presents with abdominal pain that has been increasing in severity over the past week.
-* The patient has been drinking excessive amounts of coffee, specifically venti-sized nitrocolbrus from Starbucks, which may have triggered gastritis.
-* The patient has also experienced nausea and vomiting, and has noticed that the pain worsens with exercise.
-* The patient has been controlling her diabetes with metformin 500mg twice a day, and has not had any recent asthma attacks.
+**Objective:**
 
-**Objective**
+The physical examination was unremarkable, with mild tenderness in the epigastrium of the abdomen. The patient has a grade 3 out of 6 systolic ejection murmur on her heart exam, which is unchanged from her prior exam. Her lung exam was normal, with faint end-expiratory wheezes.
 
-* Physical examination reveals mild tenderness in the epigastrium of the abdomen, with no significant tenderness in the right lower or upper quadrants.
-* The patient's heart exam shows a grade 3 out of 6 systolic ejection murmur, which is unchanged from previous exams.
-* The patient's lung exam shows mild end-expiratory wheezes, but otherwise normal.
+**Assessment:**
 
-**Assessment**
+The patient is diagnosed with acute gastritis, which is likely related to her increased caffeine intake and moderate history of alcohol use. The doctor recommends reducing her caffeine and alcohol consumption to alleviate the symptoms.
 
-* The patient is diagnosed with acute gastritis, likely related to caffeine intake and moderately heavy history of alcohol use.
-* The patient's diabetes is under control, but the doctor recommends increasing the metformin dose to 1000mg in the morning and 500mg in the evening.
-* The patient's asthma is well-controlled, and the doctor recommends continuing the flovent twice a day and albuterol as needed.
+**Plan:**
 
-**Plan**
+1. The patient will be prescribed Zantac to take twice a day to help with acid reflux and pain.
+2. A urinalysis, urine pregnancy test, CBC, and comprehensive metabolic panel will be ordered to rule out any underlying conditions.
+3. The patient will continue taking metformin, with an adjusted dose of 1000mg in the morning and 500mg in the evening.
+4. The patient will be advised to monitor her blood sugar levels and report any changes.
+5. The patient will be scheduled for a follow-up appointment in four weeks.
+6. The patient will be advised to cut back on spicy food and reduce her caffeine intake.
+7. The patient will continue taking Flovent daily and use albuterol as needed for asthma symptoms.
 
-* The patient is prescribed zantac 150mg twice a day to help manage acid in the stomach and alleviate pain.
-* The patient is advised to cut back on caffeine and alcohol intake, and to avoid spicy food.
-* The patient is scheduled for a follow-up appointment in four weeks, and is instructed to continue monitoring her blood sugars and to report any changes.
-* The doctor recommends a urinalysis, urine pregnancy test, CBC, and comprehensive metabolic panel to rule out any underlying conditions."
+**Additional Notes:**
+
+The patient will be encouraged to follow up with the doctor in four weeks and report any changes or concerns in the meantime."
 "[doctor] good afternoon alexis i understand you're having some issues with your hand
 [patient] yes i sit at the keyboard all day long and recently i've been having some numbness and tingling in my right hand
 [doctor] okay how long has that been going on
@@ -2641,30 +2647,29 @@ The patient, Jose, presented with concerns about his medications and the potenti
 
 **Subjective:**
 
-* Patient, Alexis, has been experiencing numbness and tingling in her right hand, which has been persistent for the past month.
-* The numbness and tingling are accompanied by some pain, which is exacerbated by typing on the keyboard and using the mouse.
-* The pain is not severe enough to wake her up at night, and it is not affecting her sleep.
-* She has been taking ibuprofen (MOTRIN) for the pain, which seems to provide some relief.
+* Patient, Alexis, presents with numbness and tingling in her right hand, particularly in the thumb, index, and middle fingers, which has been ongoing for approximately six months, with increased persistence over the past month.
+* The numbness and tingling are accompanied by some pain, which is exacerbated by typing on the keyboard and using a mouse.
+* Patient has been taking ibuprofen for pain relief and finds that not typing and resting helps alleviate the symptoms.
 
 **Objective:**
 
-* Physical examination revealed:
+* Physical examination reveals:
+	+ Numbness and tingling in the right hand, particularly in the thumb, index, and middle fingers.
 	+ Pain on extension and flexion of the wrist.
-	+ Numbness and tingling in the thumb, index, and middle fingers.
-	+ Reduced grip strength on the right hand.
-	+ Positive Tinel's sign, indicating compression of the median nerve.
+	+ Reduced grip strength on the right hand compared to the left.
+	+ Positive Tinel's sign on the inside of the wrist and forearm.
 
 **Assessment:**
 
-* Based on the patient's symptoms and physical examination, the doctor suspects Carpal Tunnel Syndrome, which is a common condition caused by compression of the median nerve in the wrist.
+* Based on the patient's symptoms and physical examination findings, the doctor suspects Carpal Tunnel Syndrome.
 
 **Plan:**
 
-* The doctor plans to put Alexis in a wrist splint to be worn at night to help alleviate the symptoms.
-* She will continue taking ibuprofen, increasing the dosage to 600mg four times a day.
-* The doctor will order an Electromyography (EMG) test to confirm the diagnosis and assess the severity of the compression.
-* If the EMG test is positive, the doctor will discuss the option of surgery to release the impingement on the nerves with the patient.
-* The doctor will also consider sending the patient for physical therapy, but this will depend on the results of the EMG test."
+* Prescribe a wrist splint to be worn at night.
+* Increase ibuprofen dosage to 600mg, four times a day.
+* Order an Electromyography (EMG) test to confirm the diagnosis and assess the severity of the condition.
+* Consider conservative treatment first, including physical therapy, before considering surgery if the EMG test is positive.
+* Schedule a follow-up visit to discuss the results of the EMG test and plan further treatment."
 "[doctor] hey good to see you philip so i see here you're coming in you had some right elbow pain also you have a past medical history of hypertension diabetes we are gon na check up on those as well so can you tell me what happened to your elbow
 [patient] sure i hurt it about a week ago playing lacrosse with my kids just suddenly started hurting me when i was throwing the ball
 [doctor] okay okay so how old are your kids
@@ -2708,36 +2713,31 @@ The patient, Jose, presented with concerns about his medications and the potenti
 [doctor] alright so your right elbow exam shows you have pain to palpation of the olecranon area of the posterior elbow you do have mild pain with flexion and extension but you do have also normal range of motion at that elbow so we we did do an x-ray before you came in and luckily nothing's broken no fracture no bony abnormality so it's a normal x-ray which is really good so let me just talk to you a little bit about my assessment and plan for you so you have a elbow contusion i believe your son did hit you with the lacrosse stick and it caused that that pain i see some swelling little inflammation there as well you have a little bit of a bruise i think that's that's what happened so for that i know you're having some pain i'm gon na prescribe you eight hundred milligrams of ibuprofen you can take that twice a day and that should help with some of that swelling and pain i also want you to ice it three times a day for twenty minutes at a time that should also help with the swelling and pain and just for the time being for the next couple of weeks just you know maybe you know not play lacrosse with your son just to help that heal then you can get back on on the field so for your your high blood pressure we're just gon na keep you on the hypertension we'll just keep you on that twenty milligrams of lisinopril looks like you're doing great with that and your diet and then for your diabetes we will keep you on the five hundred milligrams of metformin and we will also get a a1c just to check your levels and see if we do need to adjust the medication in the future alright so do you have any questions for me
 [patient] no sounds good
 [doctor] alright so we will see you next time and my nurse will be in with those prescriptions
-[patient] alright thank you"|"Here is the summary of the conversation in the SOAP format:
+[patient] alright thank you"|"**Subjective:**
 
-**Subjective**
+The patient, a 13-year-old boy, presented with a 1-week history of right elbow pain after playing lacrosse with his 13-year-old son. The patient reported sharp pain at the tip of the elbow, which radiates down the forearm. He mentioned that he was hit by his son with a lacrosse stick, and he may have gotten hit at the elbow. The patient also reported taking Advil for a few days, which provided some relief. He has a past medical history of hypertension and diabetes, which are well-controlled with medication.
 
-* The patient, Philip, presented with right elbow pain that started about a week ago while playing lacrosse with his kids.
-* He mentioned that his son got rough with him and checked him several times with a stick, which may have caused the injury.
-* The pain is sharp and radiates down the forearm.
-* The patient reported taking Advil for a few days, which helped alleviate the pain.
-* He has a past medical history of hypertension and diabetes, and is currently taking medications for both conditions.
+**Objective:**
 
-**Objective**
+* Blood pressure: 150/90 mmHg
+* Blood glucose: Not checked regularly, but reported to be between 80-100 mg/dL
+* Physical exam: Mild pain to palpation of the olecranon area, with normal range of motion and no bony abnormalities on x-ray
 
-* The patient's blood pressure was 150/90 mmHg, which is slightly elevated.
-* His blood sugars were reported to be between 80-100 mg/dL when checked, and he is currently taking 500 mg of metformin daily.
-* The patient's elbow examination revealed pain to palpation of the olecranon area, mild pain with flexion and extension, and normal range of motion.
-* An x-ray of the elbow was normal, with no signs of fracture or bony abnormality.
+**Assessment:**
 
-**Assessment**
+* Elbow contusion, likely caused by a hit from a lacrosse stick
+* Mild swelling and inflammation
+* Bruising at the elbow
+* No fracture or bony abnormality on x-ray
 
-* The patient has an elbow contusion caused by his son's rough play during lacrosse.
-* The patient's hypertension is well-controlled with 20 mg of lisinopril daily.
-* The patient's diabetes is also well-controlled with 500 mg of metformin daily.
+**Plan:**
 
-**Plan**
-
-* The patient will be prescribed 800 mg of ibuprofen twice daily to help alleviate pain and swelling in the elbow.
-* He will be instructed to ice the elbow three times a day for 20 minutes to reduce swelling and pain.
-* The patient will be advised to avoid playing lacrosse with his son for the next few weeks to allow the elbow to heal.
-* The patient's blood sugar levels will be re-checked with a hemoglobin A1c test to assess the need for adjusting his metformin dosage.
-* The patient will continue to take his hypertension medication as prescribed."
+* Prescribed 800mg of ibuprofen twice a day for pain and swelling
+* Advised to ice the elbow three times a day for 20 minutes
+* Recommended avoiding lacrosse for the next few weeks to allow the elbow to heal
+* Continued management of hypertension with lisinopril (20mg daily)
+* Continued management of diabetes with metformin (500mg daily)
+* Scheduled a follow-up appointment to check on the patient's progress and adjust medication as needed."
 "[doctor] patient is an 82 -year-old male with past medical history significant for hypertension and stage three chronic kidney disease who presents for hospital follow-up after an acute on chronic chf exacerbation alright hey hey kevin how are you doing today
 [patient] hi document well i mean i thought i was doing good but then i've been trying to watch my diet like you said and i really noticed that my ankles were swelling and then one day i got really super short of breath and i even had to call nine one one now when the paramedics got there they put me on the special mask to breathe when i got to the er the doctor in the er said my blood pressure was super high
 [doctor] yeah okay so yeah so i saw that and i was notified that you were in the hospital for heart failure now i do see here that your blood pressure was two hundred over ninety are you have you been taking your medications
@@ -2772,36 +2772,35 @@ The patient, Jose, presented with concerns about his medications and the potenti
 [patient] i do n't think right now
 [doctor] okay well then i'll see you again in three months then kevin okay take care of yourself
 [patient] alright thanks document
-[doctor] alrighty bye"|"**SOAP Note**
+[doctor] alrighty bye"|"**Subjective:**
 
-**Subjective:**
+The patient, an 82-year-old male with a past medical history of hypertension and stage three chronic kidney disease, presented for follow-up after an acute on chronic CHF exacerbation. He reported that he had been trying to watch his diet as instructed, but noticed his ankles were swelling, and one day, he became severely short of breath, requiring an emergency call. His blood pressure was noted to be 200/90 during his hospitalization.
 
-* The patient, an 82-year-old male with a history of hypertension and stage three chronic kidney disease, presented for follow-up after an acute on chronic CHF exacerbation.
-* He reported swelling in his ankles and shortness of breath, which prompted him to call 911 and seek emergency medical attention.
-* The patient acknowledged missing doses of his medications and indulging in salty foods, including pizza and chicken wings, on weekends.
-* He expressed a desire to avoid future hospitalizations and follow his diet and medication regimen consistently.
+The patient admitted to not always taking his medications as prescribed, but has been trying to take them consistently. He also mentioned that he has been enjoying social gatherings on the weekends, which often involve consuming pizza and chicken wings, which he loves.
 
 **Objective:**
 
-* Vital signs: Blood pressure 128/72, heart rate 79, respiratory rate 26, and oxygen saturation 99%.
-* Physical examination: No jugular venous distension, stable systolic ejection murmur, and clear lungs bilaterally. Lower extremities showed trace edema.
-* Echocardiogram results: Preserved EF of 55%, abnormal diastolic filling, and mild to moderate mitral regurgitation.
+* Blood pressure: 200/90 during hospitalization, currently 128/72
+* Vital signs: Heart rate 79, respiratory rate 26, oxygen saturation 99%
+* Physical exam: No jugular venous distension, systolic ejection murmur, and clear lungs bilaterally; trace of edema in lower extremities
+* Echocardiogram: Preserved EF of 55%, abnormal diastolic filling, and mild to moderate mitral regurgitation
 
 **Assessment:**
 
-* The patient's congestive heart failure was likely caused by dietary indiscretion and uncontrolled hypertension.
-* His hypertension requires continued management with Cozaar and Norvasc.
-* The patient's kidney disease requires further monitoring and potential adjustments to his regimen.
+The patient's CHF exacerbation was likely caused by dietary indiscretion and uncontrolled hypertension. He has been prescribed bumex 2mg daily and instructed to continue watching his diet and avoiding salty foods. He is also advised to weigh himself daily and report any weight gain of three pounds in two days.
+
+The patient's hypertension will be managed with continued treatment with cozaar 100mg daily and norvasc 5mg daily. A renal artery ultrasound will be ordered to rule out secondary causes of kidney disease.
 
 **Plan:**
 
-* Continue bumex 2mg daily for water pill management.
-* Monitor diet and avoid salty foods, including pizza and chicken wings.
-* Weigh daily and report any significant changes to the doctor.
-* Schedule a follow-up appointment in three months.
-* Refer the patient to a nutritionist for education on healthy food choices.
-* Order a renal artery ultrasound to rule out secondary causes of kidney disease.
-* Obtain further blood work to monitor the patient's kidney function and medication tolerance."
+1. Continue bumex 2mg daily for CHF management.
+2. Monitor diet and avoid salty foods.
+3. Weigh himself daily and report any weight gain of three pounds in two days.
+4. Follow up with a nutritionist for education on healthy eating habits.
+5. Continue treatment with cozaar 100mg daily and norvasc 5mg daily for hypertension.
+6. Schedule a renal artery ultrasound to evaluate for secondary causes of kidney disease.
+7. Obtain further blood work to monitor kidney function and adjust treatment as necessary.
+8. Follow-up appointment in three months."
 "[patient] okay
 [doctor] hi gregory hi how are you doing today
 [patient] good how are you
@@ -2850,32 +2849,30 @@ The patient, Jose, presented with concerns about his medications and the potenti
 [doctor] alright alright take care gregory
 [patient] alright thank you
 [doctor] bye
-[patient] bye"|"Here is the summary of the conversation in the SOAP format:
+[patient] bye"|"**Subjective:**
 
-**Subjective:**
-
-* The patient, Gregory, presented with right ankle pain and swelling after falling on ice. He reported that the pain was improving with elevation, icing, and ibuprofen.
-* He has a history of playing soccer and has had previous injuries, but does not recall injuring this specific ankle before.
-* He is concerned about returning to play soccer and wants to know when he can start playing again.
+Gregory, a 45-year-old male, presented to the clinic with complaints of right ankle pain and swelling after slipping on ice. He reported that the injury occurred the previous day, and he has been experiencing some improvement in symptoms after icing and elevating the ankle. He mentioned that he has been taking ibuprofen for pain relief and has noticed some improvement. He also mentioned that he has a history of playing soccer and has had previous injuries, but he cannot recall any specific injuries to the right ankle.
 
 **Objective:**
 
-* The patient's vital signs were normal, and his right ankle showed ecchymosis and swelling.
-* The physical examination revealed tenderness to palpation anterolaterally in the soft tissue, with no laxity on anterior drawer and inversion stress, and no bony tenderness on palpation of the foot.
-* The neurovascular examination showed capillary refill less than three seconds, with a strong dorsalis pedis pulse, and intact sensation to light touch.
-* The patient's right ankle x-ray showed no fracture.
+* On physical examination, the patient had ecchymosis and bruising on the lateral malleolus, associated swelling, and tenderness to palpation in the anterolateral soft tissue.
+* The patient had no laxity on anterior drawer and inversion stress, and no bony tenderness on palpation of the foot.
+* The neurovascular examination revealed a capillary refill of less than three seconds, a strong dorsalis pedis pulse, and intact sensation to light touch.
 
 **Assessment:**
 
-* The patient's symptoms are consistent with a right ankle sprain.
+The patient's symptoms are consistent with a right ankle sprain. The radiographs showed no fracture.
 
 **Plan:**
 
-* The patient is to keep his leg elevated and continue icing the ankle.
-* He will be given an aircast to stabilize the ankle and crutches for the next one to two days.
-* He will start walking on the ankle as tolerated after the initial two days.
-* Follow-up with the doctor in two weeks to assess progress and determine readiness to return to play soccer.
-* The patient is to take NSAIDs as needed to manage pain."
+* Continue to elevate the ankle, especially when seated.
+* Continue to ice the ankle.
+* Use an aircast to stabilize the ankle.
+* Use crutches for the next one to two days.
+* Start walking on the ankle as tolerated after the two-day period.
+* Follow-up appointment in two weeks to assess progress.
+* Continue taking NSAIDs as needed for pain relief.
+* Monitor for any signs of worsening symptoms or complications before the next visit."
 "[doctor] julie cruz is a 17 -year-old non- binary immensipated minor with no significant past medical history presents for evaluation of newly diagnosed hypercholesterolemia patient is here at the clinic hi julie how're you doing
 [patient] i'm okay
 [doctor] so i now i know you're worried about you know what's been happening with your with your you know with your blood cholesterol so can you tell me a little bit more about what's going on
@@ -2934,36 +2931,30 @@ The patient, Jose, presented with concerns about his medications and the potenti
 
 **Subjective:**
 
-* 17-year-old non-binary individual presents with newly diagnosed hypercholesterolemia.
-* Patient is worried about the finding and wants to understand what is going on.
-* Patient reports being active, enjoying outdoor activities like bike riding, and having a good relationship with grandparents.
-* Patient mentions a family history of borderline high cholesterol in the past but is unsure if it is a concern.
-* Patient is open to making lifestyle changes and is willing to work with a nutritionist.
+* 17-year-old non-binary individual presents for evaluation of newly diagnosed hypercholesterolemia.
+* Patient reports being worried about the finding and not understanding why their cholesterol levels are elevated.
+* Patient is active, enjoys outdoor activities such as bike riding, and tries to eat a balanced diet.
+* Patient has a family history of heart disease, with a cousin dying at the age of 44 or 45 from a suspected heart attack.
+* Patient has a history of borderline high cholesterol in the past, but was told it was not a cause for concern.
 
 **Objective:**
 
-* Physical examination reveals no significant findings, including normal vital signs, heart exam, lung exam, eye exam, and abdominal exam.
-* Review of the patient's cholesterol level shows an elevated reading of 210.
-* No murmurs, rubs, or gallops are appreciated on heart exam.
-* Lungs are clear, and no zenthomas are seen on eye exam.
-* No thyroid megaly or splenomegaly is appreciated on neck exam.
-* Abdominal exam reveals no hepatomegaly or splenomegaly.
+* Physical exam: Vital signs are within normal range, with no murmurs, rubs, or gallops on heart exam, clear lungs, and no thyroid enlargement or organomegaly.
 
 **Assessment:**
 
-* Patient has newly diagnosed hypercholesterolemia with an elevated cholesterol level of 210.
-* Patient's family history is unclear, but there is a mention of a cousin who died of a heart attack at a young age.
-* Patient is at risk for premature heart attacks due to high cholesterol.
+* Patient has elevated cholesterol levels (210) and is at risk for premature heart disease.
+* Family history of heart disease and premature death suggests a possible genetic component.
+* Patient's diet and activity level may be contributing factors to their high cholesterol.
 
 **Plan:**
 
-* Order a full cholesterol panel to rule out other causes of high cholesterol.
-* Check glucose, complete metabolic panel, thyroid studies, and liver panels.
-* Perform genetic testing to determine if high cholesterol is familial or secondary.
-* Follow up with a well-balanced diet, including a variety of foods lower in saturated fat and sugars.
-* Meet with a nutritionist to discuss dietary changes.
-* Continue to be active and exercise regularly.
-* Follow up with another cholesterol level in three to six months after dietary changes have been instituted."
+* Order a full cholesterol panel, glucose, complete metabolic panel, thyroid studies, and liver panels to rule out other causes of high cholesterol.
+* Perform genetic testing to determine if the high cholesterol is familial or secondary.
+* Recommend a well-balanced diet with a focus on reducing saturated fats and sugars.
+* Schedule a follow-up appointment with a nutritionist to provide personalized dietary advice.
+* Encourage continued physical activity, such as bike riding.
+* Schedule a follow-up cholesterol level in 3-6 months to assess the effectiveness of dietary changes and monitor progress."
 "[doctor] so elizabeth is a 53 -year-old female today complaining of chest pain and she has a past medical history of diabetes and high blood pressure so elizabeth tell me what's going on with your with your chest pain
 [patient] i do n't know every time i start walking i'm just having this kind of pressure and chest pain in my chest
 [doctor] okay are you having it now or is it gone right now
@@ -3009,29 +3000,27 @@ The patient, Jose, presented with concerns about his medications and the potenti
 [doctor] alright any other questions we got
 [patient] that's it
 [doctor] alright well great seeing you thanks for coming in today
-[patient] thank you appreciate it"|"**SOAP Note**
+[patient] thank you appreciate it"|"**Subjective:**
 
-**Subjective:**
-
-Elizabeth, a 53-year-old female, presented with chest pain, which she described as dull and pressure-like, occurring mainly during walking. She reported that the pain started about three months ago and has been ongoing. She denied any radiation, shortness of breath, or sweating. Elizabeth has a history of diabetes and high blood pressure, and her family history includes heart disease.
+The patient, a 53-year-old female, presented with a 3-month history of chest pain that occurs when she starts walking. The pain is described as dull and pressure-like, without radiation or shortness of breath, sweats, or clamminess. She has a history of diabetes and high blood pressure, and has been experiencing higher blood sugars due to reduced physical activity. She has also been having difficulty controlling her diet, particularly with regards to soda consumption.
 
 **Objective:**
 
-The patient's physical examination was normal, except for mild swelling in her lower legs, with a 1+ non-pitting edema in her ankle area. The heart examination revealed a systolic ejection murmur, which was previously documented. The lung and abdominal examinations were normal.
+* Physical examination: The patient's neck, lung, and heart exams were normal. The patient has a 2/6 systolic ejection murmur, and her pulses are equal. Her belly exam was normal, with no tenderness, guarding, or masses. Her back exam was also normal. The patient has mild swelling in her lower legs, with 1+ non-pitting edema in her ankle area.
 
 **Assessment:**
 
-Based on the patient's symptoms and physical examination, the doctor suspected unstable angina, considering her history of diabetes, suspected high blood pressure, and family history of heart disease. The doctor also noted a trend of elevated blood pressure in the patient's chart.
+The patient's chest pain is suspected to be related to unstable angina, given her history of diabetes and suspected high blood pressure. The patient will be referred to cardiology for further evaluation and treatment. The doctor is also concerned about the patient's blood pressure, which has been trending high in her chart, and will start her on hydrochlorothiazide to help control it.
 
 **Plan:**
 
-1. The patient was referred to cardiology for further evaluation and a stress test to assess her heart.
-2. The doctor started the patient on aspirin (81mg daily) and nitroglycerin (prescription medication) for chest pain.
-3. The patient was advised to take the nitroglycerin pill if the chest pain persists for more than 5 minutes, and to go to the hospital if the pain does not resolve.
-4. The doctor ordered another hemoglobin A1c test and scheduled a follow-up appointment in two weeks to reassess the patient's condition.
-5. The patient was instructed to continue her metformin medication (500mg twice a day) and to attend her scheduled eye exam.
-6. The doctor started the patient on hydrochlorothiazide (a low-dose medication) to help manage her blood pressure and swelling in her feet.
-7. The patient was advised to use a blood pressure cuff at home and enter her readings into Epic MyChart."
+* The patient will start taking aspirin daily and will be prescribed nitroglycerin to take if she experiences chest pain.
+* The patient will have a stress test to evaluate her heart function.
+* The patient will continue to take metformin 500mg twice a day and will have her hemoglobin A1c checked regularly.
+* The patient will attend an ophthalmology appointment for a diabetic retinopathy exam.
+* The patient will start using a blood pressure cuff at home and will enter her readings into her Epic MyChart account.
+* The patient will return in two weeks for follow-up and will have her blood pressure monitored and adjusted as needed.
+* The patient will be educated on the side effects of hydrochlorothiazide and will be given a handout with information on potential side effects."
 "[doctor] hey sophia how are you doing today
 [patient] i've been better my primary care doctor wanted me to see you because of this knee pain that i've been having for about six months now
 [doctor] okay do you remember what caused the pain initially
@@ -3077,21 +3066,33 @@ Based on the patient's symptoms and physical examination, the doctor suspected u
 [doctor] bye
 [patient] bye"|"Here is the summary of the conversation in the SOAP format:
 
-**Subjective**
+**Subjective:**
 
-The patient, Sophia, has been experiencing bilateral knee pain for approximately six months. The pain is described as a deep, achy pain behind the kneecaps, with occasional creaking sensations. The pain worsens with activities such as getting up from a seated position, going up and down stairs, and running. Rest and ibuprofen/aleve provide temporary relief. Sophia is an active runner, but has had to decrease her mileage significantly due to the pain.
+* The patient, Sophia, has been experiencing bilateral knee pain for approximately six months.
+* The pain is described as a deep, achy sensation behind the kneecaps, with occasional creaking sounds.
+* The pain worsens with activities such as getting up from a seated position, going up and down stairs, and running.
+* The patient has tried using ice, ace bandages, and over-the-counter pain relievers, but has not found significant relief.
+* She has decreased her running distance from 5-6 miles to half a mile due to knee pain.
 
-**Objective**
+**Objective:**
 
-The patient's vital signs were within normal limits. The physical exam revealed no erythema, ecchymosis, or warmth on the skin. There was no effusion, and the patient had normal gait and strength in the lower extremities. The patellar grind test was positive, indicating tenderness to palpation of the retinacular retinaculum. The patient was able to squat, but with pain. Lachman, anterior and posterior drawer, and McMurray tests were all negative bilaterally. The patient's neuro exam was normal, with symmetrical patella and achilles reflexes.
+* The patient's vital signs were normal, with regular heart rate and rhythm.
+* The physical exam revealed normal gait, strength, and range of motion in the lower extremities.
+* The knee exam showed tenderness to palpation of the bilateral retinacular retinaculum, and a positive patellar grind test.
+* The Lachman, anterior and posterior drawer, and McMurray tests were negative bilaterally.
+* The patient was able to squat, but with pain.
+* The MRI showed no fractures or osteoarthritis.
 
-**Assessment**
+**Assessment:**
 
-Based on the patient's symptoms, physical exam, and MRI results, the diagnosis is bilateral patellofemoral pain syndrome.
+* The patient's symptoms are consistent with patellofemoral pain syndrome, a common condition causing knee pain in active young individuals.
 
-**Plan**
+**Plan:**
 
-The patient will continue taking ibuprofen or anti-inflammatory medication as needed to manage pain. Physical therapy will be recommended to increase lower extremity strength, mobility, and correct any incorrect running mechanics. The patient will need to take it easy from running for the time being, and will be followed up with regularly to assess progress. The goal is to get the patient back to running again, but this will require careful monitoring and gradual progression to avoid exacerbating the pain."
+* Continue taking ibuprofen or anti-inflammatory medication as needed for pain relief.
+* Refer to physical therapy for exercises to increase lower extremity strength, mobility, and correct running mechanics.
+* Avoid running for the time being, and reassess progress with each visit.
+* Monitor the patient's progress and adjust the treatment plan as necessary."
 "[doctor] hey kyle so i see here on your chart that you've been having some back pain could you tell me like how you've been doing what's going on
 [patient] yeah i have this real bad low back pain it started a couple of weeks ago i was lifting something and i just felt a pop and i i do n't know what's going on
 [doctor] okay and so you were like moving what what were you moving exactly when you say lifting
@@ -3170,30 +3171,33 @@ The patient will continue taking ibuprofen or anti-inflammatory medication as ne
 
 **Subjective:**
 
-* The patient, a 30-year-old Olympic weightlifter, has been experiencing low back pain for a few weeks, which started after lifting a box of books and feeling a ""pop.""
-* The pain is described as achy and sharp, with radiation down the left leg.
-* The patient has tried taking ibuprofen and Tylenol, which sometimes helps.
-* He has a sedentary job and has been inconsistent with his exercise routine.
-* The patient has a family history of back pain (his father) and played soccer in his youth.
+* The patient, a 30-year-old male, presents with low back pain that started a couple of weeks ago after lifting a box of books. He reports a ""pop"" sensation at the time of injury.
+* The pain is described as achy and sharp in the low back, with radiation down the left leg.
+* He has tried taking ibuprofen and Tylenol, which provides some relief.
+* He has a history of playing soccer and has a family member with back pain.
+* He is currently experiencing some limitation in his activity level due to the pain.
 
 **Objective:**
 
-* Vital signs: Blood pressure is 130/70, respiratory rate is 18, and heart rate is regular.
-* Physical exam: The patient has midline tenderness at the L4-L5 disk space with right-sided lumbar paravertebral tenderness.
-* Supine straight leg test is positive.
-* Neurological exam: Patella and Achilles reflexes are symmetrical, but there is no decreased sensation.
-* MRI results show a disk desiccation, disk bulge, and paracentral disk herniation resulting in moderate right neuroforaminal stenosis.
+* Physical examination reveals:
+	+ Tender midline at the L4-L5 disk space with right-sided lumbar paravertebral tenderness
+	+ Positive straight leg raise test
+	+ Normal respiratory rate and blood pressure
+	+ Normal heart sounds and lung examination
+	+ Normal patella and Achilles reflexes
+	+ MRI results show a disk desiccation, disk bulge, and paracentral disk herniation resulting in moderate right neuroforaminal stenosis
 
 **Assessment:**
 
 * The patient has lumbar back pain at the L4-L5 disk space due to a herniated disk with radiculopathy.
-* The symptoms are consistent with nerve impingement caused by the bulging disk.
+* The pain is caused by nerve impingement from the bulging disk.
 
 **Plan:**
 
-* The doctor recommends a spinal injection with a strong NSAID and corticosteroid to reduce inflammation and alleviate pain.
-* The procedure will be done in-office under fluoroscopy and can be scheduled for the same day.
-* The patient will receive paperwork explaining the procedure and potential risks, and will have the opportunity to ask questions and discuss any concerns."
+* The doctor recommends a spinal injection with a strong NSAID and corticosteroid to reduce inflammation and relieve pain.
+* The injection will be performed under fluoroscopy in the office.
+* The patient will be given paperwork explaining the procedure and potential risks.
+* The doctor will answer any additional questions the patient may have before proceeding with the injection."
 "[doctor] angela good to see you today so i'm writing here in my notes that you're you're coming in you had some left knee pain so how did you hurt your knee
 [patient] yeah so i hurt my knee the other day when i was running around with my niece she she is learning how to take off the training wheels for her bike
 [doctor] mm-hmm
@@ -3234,30 +3238,30 @@ The patient will continue taking ibuprofen or anti-inflammatory medication as ne
 [patient] no that's it
 [doctor] alright great thanks"|"Here is the summary of the conversation in the SOAP format:
 
-**Subjective**
+**Subjective:**
 
-* The patient, a 5-year-old's aunt, presented with left knee pain after twisting her knee while running with her niece to help her learn how to ride a bike without training wheels.
-* The patient reported a sudden onset of pain, which has worsened over time.
-* She described the pain as a throbbing sensation, rating it as a 4 out of 10 initially, but now as a higher level of pain.
-* The patient has been taking Tylenol as needed, but it only provides temporary relief.
+* The patient, a 5-year-old's aunt, presents with left knee pain that started after twisting her knee while running with her niece to help her learn to ride a bike without training wheels.
+* The pain is located on both sides of the knee, with more discomfort on the medial aspect.
+* The patient reports a popping sensation at the time of injury and has been limping since.
+* She has been taking Tylenol and wrapping her knee with kinesiology tape for pain relief.
+* The pain has been rated as a 4 out of 10 initially, but has worsened over time.
+* The patient is unable to take ibuprofen due to a previous ulcer diagnosis.
 
-**Objective**
+**Objective:**
 
-* The patient demonstrated a limp and reported difficulty bearing weight on her left leg.
-* She had a history of ulcers and was advised not to take NSAIDs, including ibuprofen.
-* The patient had a normal x-ray of her left knee, with no fractures or bony abnormalities.
-* The physical exam revealed moderate range of motion, some edema, and effusion (fluid) in the knee, as well as pain on flexion and extension.
-* The patient had a negative Lachman's test and valgus and varus tests, suggesting no ligamentous tears.
+* Physical examination reveals moderate range of motion, edema, and effusion in the left knee.
+* The patient has pain on flexion and extension of the knee, and negative Lachman's and valgus tests.
+* X-ray of the left knee shows no fractures or bony abnormalities.
 
-**Assessment**
+**Assessment:**
 
-* The patient has a medial collateral ligament (MCL) strain, likely caused by the twisting injury during the bike ride.
+* The doctor diagnoses a medial collateral ligament (MCL) strain on the inside of the knee.
 
-**Plan**
+**Plan:**
 
-* The doctor prescribed tramadol (50mg, twice a day) for pain management, as an alternative to NSAIDs.
-* The patient was advised to take Tylenol as needed for breakthrough pain.
-* A knee immobilizer was recommended to be worn for the next week to reduce movement and inflammation.
-* The patient was instructed to ice the knee three to four times a day for 20-30 minutes to reduce swelling.
-* The doctor advised avoiding running for the next three weeks to allow the knee to heal.
-* Follow-up appointments were scheduled to monitor the patient's progress and consider further imaging, such as an MRI, if necessary."
+* Prescription of tramadol for pain relief, with a dosage of 50mg twice a day.
+* Recommendation to take Tylenol as needed for breakthrough pain.
+* Use of a knee immobilizer for the next week to reduce inflammation and allow the knee to heal.
+* Icing the knee three to four times a day for 20-30 minutes to reduce swelling.
+* Avoidance of running or heavy activity for the next three weeks to allow the knee to heal.
+* Follow-up appointment in a month to reassess the patient's condition and consider additional imaging (MRI) if necessary."
