@@ -112,8 +112,10 @@ class Llama3InstructDataset(InstructDataset):
         """
         prompts = []
         for index, row in self.dataset.iterrows():
-            prompt = f"""<|begin_of_text|><|start_header_id|>system<|end_header_id|> \n\n {row['instruction']}<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n  This is the conversation: {row['dialogue']}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n {row['note_SOAP']}<|eot_id|>"""
+            prompt = f"""<|begin_of_text|><|start_header_id|>system<|end_header_id|> \n\n {{{{ {row['instruction']} }}}}<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n  {{{{ This is the conversation: {row['dialogue']} }}}}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n {{{{ {row['note_SOAP']} }}}}<|eot_id|>"""
             prompts.append(prompt)
+            if index==0:
+                print(prompt)
         self.dataset["prompt"] = prompts
 
 

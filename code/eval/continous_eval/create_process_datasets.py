@@ -89,7 +89,7 @@ if __name__ == "__main__":
         llama3_dataset = process_dataset(dataset_path, "llama3")
         llama3_datasets.append(llama3_dataset)
         llama3_dataset = create_dataset_hf(llama3_dataset)
-        llama3_dataset.push_to_hub(f"llama3_{dataset_name}_instruct_dataset_v2", private=True)
+        llama3_dataset.push_to_hub(f"llama3_{dataset_name}_instruct_dataset_v3", private=True)
 
     llama3_dataset = pd.concat(llama3_datasets, ignore_index=True)
     llama3_dataset = create_dataset_hf(llama3_dataset)
@@ -98,5 +98,5 @@ if __name__ == "__main__":
     #    os.path.join(processed_data_path, f"llama3_instruct_{DATASETS_PATHS[-1][-10:]}_dataset")
     #)
 
-    llama3_dataset.push_to_hub(f"llama3_{DATASETS_PATHS[-1][:-10]}_instruct_dataset_v2", private= True)
+    llama3_dataset.push_to_hub(f"llama3_{DATASETS_PATHS[-1][:-10]}_instruct_dataset_v3", private= True)
 

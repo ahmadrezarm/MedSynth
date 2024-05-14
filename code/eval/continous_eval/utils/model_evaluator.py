@@ -121,14 +121,15 @@ class ModelEvaluatorAutoMetrics:
             print(f"processing idx: {idx}")
 
             inputs = self.tokenizer(
-            [f"<|begin_of_text|><|start_header_id|>system<|end_header_id|> \n\n {self.summarizer_system_promt}<|eot_id|><|start_header_id|>user<|end_header_id|> \n\n This is the conversation: {conversation}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"], return_tensors = "pt").to("cuda")
+            [f"<|begin_of_text|><|start_header_id|>system<|end_header_id|> \n\n {{{{ {self.summarizer_system_promt} }}}}<|eot_id|><|start_header_id|>user<|end_header_id|> \n\n {{{{ This is the conversation: {conversation} }}}}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"], return_tensors = "pt").to("cuda")
             
             outputs= self.model.generate(**inputs, 
                                          max_new_tokens= self.generation_config["max_new_tokens"], 
-                                         use_cache = True,
+                                         use_cache = self.generation_config["use_cache"],
                                          do_sample= self.generation_config["do_sample"],
                                          temperature= self.generation_config["temperature"],
-                                         top_p= self.generation_config["top_p"])
+                                         top_p= self.generation_config["top_p"],
+                                         repetition_penalty= self.generation_config["repetition_penalty"])
             
 
             response= self.tokenizer.batch_decode(outputs, skip_special_tokens = False) #True
@@ -149,8 +150,8 @@ class ModelEvaluatorAutoMetrics:
 
             dial_summary_pairs[idx]= {"conversation": conversation, "summary": summary}
 
-            if idx == 0:
-                print(f"summary is: {summary}")
+            #if idx == 0:
+            print(f"summary is: {summary}")
 
         return dial_summary_pairs
 

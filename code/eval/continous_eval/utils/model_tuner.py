@@ -109,27 +109,7 @@ class ModelTuner:
         self.model.push_to_hub(self.tuning_config.get("model_config").get("finetuned_model"), tokenizer= self.tokenizer, private= True)
 
 
-# this is how they used it, but we need to use the model through evaluator_with_auto_metric.py
-"""
-# Loading the fine-tuned model and the tokenizer for inference
-model, tokenizer = FastLanguageModel.from_pretrained(
-        model_name = config.get("model_config").get("finetuned_model"),
-        max_seq_length = config.get("model_config").get("max_seq_length"),
-        dtype = config.get("model_config").get("dtype"),
-        load_in_4bit = config.get("model_config").get("load_in_4bit"),
-    )
 
-# Using FastLanguageModel for fast inference
-FastLanguageModel.for_inference(model)
-
-# Tokenizing the input and generating the output
-inputs = tokenizer(
-[
-    "<|start_header_id|>system<|end_header_id|> Answer the question truthfully, you are a medical professional.<|eot_id|><|start_header_id|>user<|end_header_id|> This is the question: Can you provide an overview of the lung's squamous cell carcinoma?<|eot_id|>"
-], return_tensors = "pt").to("cuda")
-outputs = model.generate(**inputs, max_new_tokens = 256, use_cache = True)
-tokenizer.batch_decode(outputs, skip_special_tokens = True)
-"""
 
 
     

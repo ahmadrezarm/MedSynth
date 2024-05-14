@@ -16,10 +16,19 @@ base_model= "unsloth/llama-3-8b-Instruct-bnb-4bit" # changed to be consistent wi
 Aci_test_path = "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/clinicalnlp_taskC_test2_SOAP.csv"
 Aci_train_path = "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/TaskC-TrainingSet_SOAP.csv"
 
+# useful link: https://huggingface.co/docs/transformers/main_classes/text_generation#transformers.GenerationConfig
 model_evaluator_generation_config = {"max_new_tokens":3000,
                      "do_sample":True,
-                     "temperature":0.6,
-                     "top_p":0.9}
+                     "temperature":0.6, #0.6
+                     "top_p":0.9,
+                     "use_cache": True,
+                     # added
+                     #"num_beams": 2,
+                     #"no_repeat_ngram_size": 5,
+                     "repetition_penalty": 1.2,
+                     #"length_penalty": ,
+                     #"exponential_decay_length_penalty": (1800, -0.2), #(tuple(int, float), optional) — This Tuple adds an exponentially increasing length penalty, after a certain amount of tokens have been generated.
+                    }# #
 
 PATH_TO_SAVE_EVAL_OUTPUT= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/eval_results/cont_eval"
 
