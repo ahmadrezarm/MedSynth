@@ -3,6 +3,7 @@
 
 import logging
 import os
+from datetime import datetime
 
 
 import pandas as pd
@@ -21,7 +22,12 @@ HfFolder.save_token(constants.HF_WRITE_TOKEN)
 REMOVE_COLUMNS = []
 RENAME_COLUMNS = {}
 INSTRUCTION = constants.summarizer_system_prompt
-DATASETS_PATHS = [constants.Aci_train_path]
+
+# edit this whenevr you wanna make a new dataset
+Notechat_sample_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/NoteChatSamples/note_chat_sample_2024-05-14_14-17.csv"
+current_date= datetime.now().strftime("%Y-%m-%d_%H-%M")
+repo_name= f"llama3_NoteChat_Sample_instruct_dataset_v3_{current_date}"
+DATASETS_PATHS = [constants.Aci_train_path, Notechat_sample_path] 
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
@@ -84,12 +90,15 @@ if __name__ == "__main__":
     llama_datasets = []
     llama3_datasets = []
     for dataset_path in DATASETS_PATHS:
+        print(f"{dataset_path}##############################")
         dataset_name = dataset_path.split(os.sep)[-1].split(".")[0]
 
         llama3_dataset = process_dataset(dataset_path, "llama3")
         llama3_datasets.append(llama3_dataset)
-        llama3_dataset = create_dataset_hf(llama3_dataset)
-        llama3_dataset.push_to_hub(f"llama3_{dataset_name}_instruct_dataset_v3", private=True)
+        
+        # I commented the below lines right before adding note_chat data
+        #llama3_dataset = create_dataset_hf(llama3_dataset)
+        #llama3_dataset.push_to_hub(f"llama3_{dataset_name}_instruct_dataset_v3", private=True)
 
     llama3_dataset = pd.concat(llama3_datasets, ignore_index=True)
     llama3_dataset = create_dataset_hf(llama3_dataset)
@@ -97,6 +106,5 @@ if __name__ == "__main__":
     #llama3_dataset.save_to_disk(
     #    os.path.join(processed_data_path, f"llama3_instruct_{DATASETS_PATHS[-1][-10:]}_dataset")
     #)
-
-    llama3_dataset.push_to_hub(f"llama3_{DATASETS_PATHS[-1][:-10]}_instruct_dataset_v3", private= True)
+    llama3_dataset.push_to_hub(repo_name, private= True)
 

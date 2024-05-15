@@ -139,3 +139,13 @@ tuning_config = {
         "output_dir" : "outputs", # The output directory
     }
 }
+
+
+
+
+# NoteChat 
+
+NOTE_CHAT_HF_PATH= "akemiH/NoteChat"
+NUM_NOTE_CHAT_SAMPLES= 50
+PATH_TO_SAVE_NOTE_CHAT_SAMPLES= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/NoteChatSamples"
+NOTE_CHAT_SAMPLE_BASE_NAME= "note_chat_sample"
