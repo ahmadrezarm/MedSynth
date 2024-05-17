@@ -186,7 +186,7 @@ Just output the revised note, not anything else."""
 
 
 
-scenario_generator_config= {"model": "gpt-4-1106-preview",
+scenario_generator_config= {"model": "gpt-4o", # "gpt-4-1106-preview"
                             "temperature": 1,
                             "max_tokens": 4000,
                             "top_p": 1,
@@ -194,7 +194,7 @@ scenario_generator_config= {"model": "gpt-4-1106-preview",
                             "presence_penalty": 0}
 
 
-scenario_judge_config= {"model": "gpt-4-1106-preview",
+scenario_judge_config= {"model": "gpt-4o", # "gpt-4-1106-preview"
                             "temperature": 0,
                             "max_tokens": 4000,
                             "top_p": 1,
@@ -202,7 +202,7 @@ scenario_judge_config= {"model": "gpt-4-1106-preview",
                             "presence_penalty": 0}
 
 
-note_generator_config= {"model": "gpt-4-1106-preview",
+note_generator_config= {"model": "gpt-4o", # "gpt-4-1106-preview"
                             "temperature": 0.7,
                             "max_tokens": 4000,
                             "top_p": 1,
@@ -210,7 +210,7 @@ note_generator_config= {"model": "gpt-4-1106-preview",
                             "presence_penalty": 0}
 
 
-note_polisher_config= {"model": "gpt-4-1106-preview",
+note_polisher_config= {"model": "gpt-4o", # "gpt-4-1106-preview"
                             "temperature": 0,
                             "max_tokens": 4000,
                             "top_p": 1,

@@ -166,7 +166,9 @@ def generate_and_save_medical_notes(disease_description, notes_count, openai_cli
                 print(f"Note number {len(approved_notes)} has been generated!")
             else:
                 rejected_scenarios.append({"Disease Description": disease_description, "Scenario": scenario, "Note": "Rejected", "Polished Note": "Rejected", "Role": "Rejected"})
-            
+                # to save on input tokens: drop the rejected ones from the memory
+                #judge_conversations_memory.pop()
+        
             # reset to respect the input token limit
             if  (len(approved_notes) % 4) == 0:
                      judge_conversations_memory = [{"role": "system", "content":gen_constants.SCENARIO_JUDGE_SYSTEM_PROMPT}]
@@ -183,7 +185,7 @@ def generate_and_save_medical_notes(disease_description, notes_count, openai_cli
         results = approved_notes + rejected_scenarios
         current_date = datetime.now().strftime("%Y-%m-%d")
         results_df= pd.DataFrame(results)
-        full_path= f"{path_to_save_notes}/{disease_description}_{current_date}_v3.csv"
+        full_path= f"{path_to_save_notes}/{disease_description}_{current_date}_v4.csv"
         results_df.to_csv(full_path, index=False, sep="|")
 
 
