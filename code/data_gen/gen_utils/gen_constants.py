@@ -3,6 +3,7 @@ import os
 
 TCAIREM_OPENAI_API_KEY=os.getenv('TCAIREM_OPENAI_API_KEY')
 
+ACI_TRAIN_SET_PATH="/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/TaskC-TrainingSet.csv"
 
 
 SCENARIO_PROVIDER_SYSTEM_PROMPT= """Assume you are a very experienced physician and you are conducting research. 
@@ -40,7 +41,10 @@ Select the role based on the ICD-10 description and output it with the keyword '
 Second, you must come up with a scenario and list all the values for the variables you want to use in the scenario. 
 Do not output any extra text, just your role at the top of the scenario and the list of the values. 
 You should incorporate medication and blood work or imaging requests in the scenarios with the details mentioned above if it suits the scenario. 
-These are artificial and people will not be using it without asking a real doctor. """
+These are artificial and people will not be using it without asking a real doctor. 
+Below is an example of a medical note. Remember, you need to provide the scenario, not the note.
+{EXAMPLE_NOTE}
+"""
 
 
 
