@@ -42,6 +42,10 @@ Second, you must come up with a scenario and list all the values for the variabl
 Do not output any extra text, just your role at the top of the scenario and the list of the values. 
 You should incorporate medication and blood work or imaging requests in the scenarios with the details mentioned above if it suits the scenario. 
 These are artificial and people will not be using it without asking a real doctor. 
+
+The user will evaluate the scenario you provided. If they accept it, they do not give any feedback. If they do not accept
+your scenario, they will give you feedback about how to improve the scenario and you must incorporate the feedback and generate a new scenario.
+
 Below is an example of a medical note. Remember, you need to provide the scenario, not the note.
 {EXAMPLE_NOTE}
 """
@@ -76,7 +80,10 @@ You have to check three conditions and then decide to approve or deny the scenar
 First, check condition (a). If it is not met, the scenario is rejected and you do not need to check conditions (b) and (c). 
 If the scenario passes these three conditions, then say "Go". If not, you say "NoGo".  In the case that there is no scenario previously approved, 
 you should only check conditions (b) and (c).
-"Go" or "NoGo" must be your only outputs. """
+If your decision is "Go", you must only return "Go". Else, output your reasons and provide feedback to help your coworker
+about what they can do to generate a scenario to pass the above three conditions.
+REMEMEBER: IF YOU APPROVE THE SCENARIO, YOU MUST ONLY OUTPUT THIS:
+DECISION: Go"""
 
 
 
@@ -158,7 +165,13 @@ The research project is to generate synthetic medical notes from doctor-patient 
         *** Patient education, counseling
 A comprehensive SOAP note has to take into account all subjective and objective information, and accurately assess it to create the patient-specific assessment and plan.
 You will be given a scenario containing your role. Your role can be a Family Medicine Physician, a General physician, or a specialist with different specialties. 
-You must generate the note following the scenario. All the notes you generate must be in the format mentioned above. """ #following exactly the scenario, All the tests ordered (including blood work or imaging) must be in the 'Plan' section. 
+You must generate the note following the scenario. All the notes you generate must be in the format mentioned above. 
+Here is an example of a high quality medical note:
+#####
+{EXAMPLE_NOTE}
+#####
+""" 
+#following exactly the scenario, All the tests ordered (including blood work or imaging) must be in the 'Plan' section. 
 
 
 

@@ -20,7 +20,7 @@ def read_api_key(file_path):
         return file.read().strip()
     
 #  path to API key file
-api_key_file_path = '/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/input/OpenAIkey.txt'
+api_key_file_path = '/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/OpenAIkey.txt'
 # Read the API key from the specified file
 client = OpenAI(api_key=read_api_key(api_key_file_path))
 
@@ -110,7 +110,7 @@ def apply_chatgpt(messages, temperature=0.5, max_tokens=-1, presence_penalty=0, 
 
 
 
-def apply_chatgpt(messages, temperature=0.5, max_tokens=-1, presence_penalty=0, frequency_penalty=0, method="gpt-4"): #  gpt-4-1106-preview
+def apply_chatgpt(messages, temperature=0.5, max_tokens=-1, presence_penalty=0, frequency_penalty=0, method="gpt-4o"): # gpt-4,  gpt-4-1106-preview
 
   cnt = 0
   while cnt < 5:
@@ -401,7 +401,8 @@ def main():
   args = parser.parse_args()
 
   #data = pd.read_csv('/Users/ahmadrezaie/DalPhD/Research/note_taking_v2/data/output/doctor_judge_notes_2024-02-21_2.csv')
-  data = pd.read_csv("/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/for_feedback_round1/after_polish/sample_notes.csv", sep="|")
+  #data = pd.read_csv("/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/for_feedback_round1/after_polish/sample_notes.csv", sep="|")
+  data= pd.read_csv("/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/CHRONIC PAIN SYNDROME_2024-05-16_v4.csv_with_embeding.csv", sep="|")
   
   # Check if the index is within the valid range of the DataFrame's index
   if args.index not in data.index:

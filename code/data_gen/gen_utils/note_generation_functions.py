@@ -28,59 +28,36 @@ def initialize_openai_client():
 
 
 
-def doctor_generate_scenario(condition, openai_client):
+def doctor_generate_scenario(condition, scenario_provider_memory, openai_client):
+
         aci_note_sample = pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)['note'].sample(n=1)
         scenario_prompt= scenario_prompt = gen_constants.SCENARIO_PROVIDER_SYSTEM_PROMPT.format(EXAMPLE_NOTE=aci_note_sample)
         
         scenario_response = openai_client.chat.completions.create(
-        model=gen_constants.scenario_generator_config["model"],
-        temperature = gen_constants.scenario_generator_config["temperature"],
-        max_tokens = gen_constants.scenario_generator_config["max_tokens"],
-        top_p = gen_constants.scenario_generator_config["top_p"],
-        frequency_penalty = gen_constants.scenario_generator_config["frequency_penalty"],
-        presence_penalty = gen_constants.scenario_generator_config["presence_penalty"],
-        messages=[
-            {
-                "role": "system",
-                "content": scenario_prompt #doctor_scenario_generator_system_prompt
-            },
-            {
-                "role": "user",
-                "content": condition
-            }
-        ]
-        )
+                model=gen_constants.scenario_generator_config["model"],
+                temperature = gen_constants.scenario_generator_config["temperature"],
+                max_tokens = gen_constants.scenario_generator_config["max_tokens"],
+                top_p = gen_constants.scenario_generator_config["top_p"],
+                frequency_penalty = gen_constants.scenario_generator_config["frequency_penalty"],
+                presence_penalty = gen_constants.scenario_generator_config["presence_penalty"],
+                messages=[
+                    {
+                        "role": "system",
+                        "content": scenario_prompt #doctor_scenario_generator_system_prompt
+                    },
+                    {
+                        "role": "user",
+                        "content": condition
+                    }
+                    ]+ scenario_provider_memory
+                )
+        print(f"len of scenario_provider_memory is: {len(scenario_provider_memory)}")
         return scenario_response.choices[0].message.content
 
 
-
-def doctor_generate_note(scenario, openai_client):
-        note_response = openai_client.chat.completions.create(
-        model=gen_constants.note_generator_config["model"],
-        temperature = gen_constants.note_generator_config["temperature"],
-        max_tokens = gen_constants.note_generator_config["max_tokens"],
-        top_p = gen_constants.note_generator_config["top_p"],
-        frequency_penalty = gen_constants.note_generator_config["frequency_penalty"],
-        presence_penalty = gen_constants.note_generator_config["presence_penalty"],
-        messages=[
-            {
-                "role": "system",
-                "content": gen_constants.NOTE_GENERATOR_SYSTEM_PROMPT #doctor_note_generator_system_prompt
-            },
-            {
-                "role": "user",
-                "content": scenario
-            }
-        ]
-        )
-        return note_response.choices[0].message.content
-
-
-
-
-def judge_evaluate_scenario(scenario, conversations_memory, openai_client):
+def judge_evaluate_scenario(scenario, judge_conversations_memory, openai_client):
     # Add system prompt and user scenario to memory
-        conversations_memory += [
+        judge_conversations_memory += [
         {"role": "user", "content": scenario}
         ]
         evaluation_response = openai_client.chat.completions.create(
@@ -90,19 +67,49 @@ def judge_evaluate_scenario(scenario, conversations_memory, openai_client):
                 top_p = gen_constants.scenario_judge_config["top_p"],
                 frequency_penalty = gen_constants.scenario_judge_config["frequency_penalty"],
                 presence_penalty = gen_constants.scenario_judge_config["presence_penalty"],
-                messages=conversations_memory
+                messages=judge_conversations_memory
                 )
         # Accessing the last message's content correctly
         latest_message = evaluation_response.choices[0].message.content
-        print("Latest message is: ", latest_message)
+        print("Latest message in judge is: ", latest_message)
         decision = latest_message.split()[-1]  # Extract the last word
 
         # Update memory with the model's latest response
-        conversations_memory.append({"role": "assistant", "content": latest_message})
+        judge_conversations_memory.append({"role": "assistant", "content": latest_message})
         print(decision)
-        print(conversations_memory)
-        print("len of conversation_momory is: ",len(conversations_memory))
-        return decision
+        print(judge_conversations_memory)
+        print("len of judge_conversation_momory is: ",len(judge_conversations_memory))
+        return decision, latest_message
+
+
+
+def doctor_generate_note(scenario, openai_client):
+        aci_note_sample = pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)['note'].sample(n=1)
+        note_prompt= gen_constants.NOTE_GENERATOR_SYSTEM_PROMPT.format(EXAMPLE_NOTE=aci_note_sample)
+        
+        note_response = openai_client.chat.completions.create(
+                model=gen_constants.note_generator_config["model"],
+                temperature = gen_constants.note_generator_config["temperature"],
+                max_tokens = gen_constants.note_generator_config["max_tokens"],
+                top_p = gen_constants.note_generator_config["top_p"],
+                frequency_penalty = gen_constants.note_generator_config["frequency_penalty"],
+                presence_penalty = gen_constants.note_generator_config["presence_penalty"],
+                messages=[
+                    {
+                        "role": "system",
+                        "content": note_prompt #gen_constants.NOTE_GENERATOR_SYSTEM_PROMPT #doctor_note_generator_system_prompt
+                    },
+                    {
+                        "role": "user",
+                        "content": scenario
+                    }
+                ]
+                )
+        return note_response.choices[0].message.content
+
+
+
+
 
 
 def polish_note(note, openai_client):
@@ -152,22 +159,25 @@ def generate_and_save_medical_notes(disease_description, notes_count, openai_cli
     approved_notes = []
     rejected_scenarios = []
     judge_conversations_memory = [{"role": "system", "content": gen_constants.SCENARIO_JUDGE_SYSTEM_PROMPT}]
-
+    scenario_provider_memory= []
     try:
         while True:
-            scenario = doctor_generate_scenario(disease_description, openai_client)
-            decision = judge_evaluate_scenario(scenario, judge_conversations_memory, openai_client)
+            scenario = doctor_generate_scenario(disease_description, scenario_provider_memory, openai_client)
+            scenario_provider_memory.append({"role": "assistant", "content": scenario})
+            decision, latest_message = judge_evaluate_scenario(scenario, judge_conversations_memory, openai_client)
             if decision == "Go" or decision == "Go.":
                 role = _extract_role(scenario)
                 note = doctor_generate_note(scenario, openai_client)
                 polished_note = polish_note(note, openai_client)
                 approved_notes.append({"Disease Description": disease_description, "Scenario": scenario, "Note": note, "Polished Note": polished_note , "Role": role })
-                
+                scenario_provider_memory = []
                 print(f"Note number {len(approved_notes)} has been generated!")
             else:
                 rejected_scenarios.append({"Disease Description": disease_description, "Scenario": scenario, "Note": "Rejected", "Polished Note": "Rejected", "Role": "Rejected"})
-                # to save on input tokens: drop the rejected ones from the memory
-                #judge_conversations_memory.pop()
+                # to save on input tokens: drop the rejected scenario from the memory
+                del judge_conversations_memory[-2:]
+                scenario_provider_memory.append({"role": "assistant", "content": latest_message})
+
         
             # reset to respect the input token limit
             if  (len(approved_notes) % 4) == 0:
@@ -185,7 +195,7 @@ def generate_and_save_medical_notes(disease_description, notes_count, openai_cli
         results = approved_notes + rejected_scenarios
         current_date = datetime.now().strftime("%Y-%m-%d")
         results_df= pd.DataFrame(results)
-        full_path= f"{path_to_save_notes}/{disease_description}_{current_date}_v4.csv"
+        full_path= f"{path_to_save_notes}/{disease_description}_{current_date}_v5.csv"
         results_df.to_csv(full_path, index=False, sep="|")
 
 
