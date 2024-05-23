@@ -14,13 +14,15 @@ import numpy as np
 import re
 import random
 
+from gen_utils import gen_constants
+
 # Function to read the OpenAI API key from a file
 def read_api_key(file_path):
     with open(file_path, 'r') as file:
         return file.read().strip()
     
 #  path to API key file
-api_key_file_path = '/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/OpenAIkey.txt'
+api_key_file_path = '/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/input/OpenAIkey.txt'
 # Read the API key from the specified file
 client = OpenAI(api_key=read_api_key(api_key_file_path))
 
@@ -110,7 +112,7 @@ def apply_chatgpt(messages, temperature=0.5, max_tokens=-1, presence_penalty=0, 
 
 
 
-def apply_chatgpt(messages, temperature=0.5, max_tokens=-1, presence_penalty=0, frequency_penalty=0, method="gpt-4o"): # gpt-4,  gpt-4-1106-preview
+def apply_chatgpt(messages, temperature=0.5, max_tokens=-1, presence_penalty=0, frequency_penalty=0, method="gpt-4"): # gpt-4, "gpt-4o"  "gpt-4-1106-preview" 
 
   cnt = 0
   while cnt < 5:
@@ -243,7 +245,7 @@ def chat(text, history_conv='', flag=0, max_epochs=60):
   messages_question.append({"role": "user", "content": 'Key Words:' + ','.join(list(cui_word.keys()))})
   messages_question = messages_question + conv_m
   messages_question.append({"role": "user", "content": "Your conversations must include all the keywords I provided to you, and if it's not possible to include them all, you can make slight modifications based on the original wording in the notes.  You cannot revise or eliminate any key words and you cannot use synonyms of the keywords. Your conversation should also include all information. If it's difficult to include all the information and key words, you can use the original sentences in the clinical note. Your generation must follow the logical sequence of a doctor's inquiry. Your conversations must follow the logical sequence of a doctor's inquiry. For example, the general logical order of the conversation is: first discussing symptoms, then discussing the medical history, followed by discussing testing and results, and finally discussing the conlusion and treatment options, etc. The doctor didn't know any information of medical history or symptoms. These information should be told by patient"})
-  questions = apply_chatgpt(messages_question, temperature=0.7, method='gpt-4-1106-preview')
+  questions = apply_chatgpt(messages_question, temperature=0.7, method="gpt-4") #"gpt-4o" 'gpt-4-1106-preview' "gpt-4"
   cui_note_word, cui_note_code, cui_note_entity = cui_code(text)
   cui_conv_word, cui_conv_code, cui_conv_entity = cui_code(questions)
   delete_key = diff(cui_conv_word, cui_note_word, cui_conv_entity, cui_note_code, text)
@@ -330,7 +332,9 @@ def chat(text, history_conv='', flag=0, max_epochs=60):
   messages_fluence.append({"role": "user", "content": f'Conversation:\n{conv}'})
   messages_fluence.append({"role": "user", "content": f"Key Words:\n{','.join(word_list)}"})
 
-  sample = pd.read_csv('/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/input/TaskC-TrainingSet.csv')['dialogue'].sample(n=1)    #.loc[0]: instead of .loc[0], I used sample to add more variety. I also keep it just the training set, not aci-al-together so that I can test on the test set in the future.
+  aci_train_df= pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)
+  randome_index= random.randint(0, 66)
+  sample= aci_train_df["dialogue"][randome_index]   #.loc[0]: instead of .loc[0], I used sample to add more variety. I also keep it just the training set, not aci-al-together so that I can test on the test set in the future.
   sample = sample.replace('[doctor]', 'Doctor:')
   sample = sample.replace('[patient]', 'Patient:')
   prompt = f"""
@@ -402,7 +406,7 @@ def main():
 
   #data = pd.read_csv('/Users/ahmadrezaie/DalPhD/Research/note_taking_v2/data/output/doctor_judge_notes_2024-02-21_2.csv')
   #data = pd.read_csv("/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/for_feedback_round1/after_polish/sample_notes.csv", sep="|")
-  data= pd.read_csv("/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/CHRONIC PAIN SYNDROME_2024-05-16_v4.csv_with_embeding.csv", sep="|")
+  data= pd.read_csv("/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/CHRONIC PAIN SYNDROME_2024-05-22_v12.csv_with_embeding.csv", sep="|")
   
   # Check if the index is within the valid range of the DataFrame's index
   if args.index not in data.index:
@@ -413,10 +417,10 @@ def main():
   conv = chat(text, max_epochs=min(50, max(len(data['Polished Note'].loc[args.index].split('.')), len(list(cui.keys())))))
   len_conv = len(conv.split('\n'))
   
-  file_path = f'/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/for_feedback_round1/after_polish/{args.index}.txt'
-  with open(file_path, 'w') as file:
+  output_file_path = f'/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/dialogues_onVector/{args.index}_gpt4.txt'
+  with open(output_file_path, 'w') as file:
     file.write(conv)
-  print(f"Conversation saved to {file_path}")
+  print(f"Conversation saved to {output_file_path}")
 
 if __name__ == "__main__":
   main()

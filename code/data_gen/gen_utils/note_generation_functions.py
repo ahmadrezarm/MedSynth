@@ -2,6 +2,7 @@ import openai
 import re
 import pandas as pd
 from datetime import datetime
+import random
 
 from . import gen_constants
 
@@ -18,7 +19,7 @@ def initialize_openai_client():
     openai.Client: An instance of the OpenAI client.
     """
     try:
-        client = openai.Client(api_key=gen_constants.TCAIREM_OPENAI_API_KEY)
+        client = openai.Client(api_key= "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") #gen_constants.TCAIREM_OPENAI_API_KEY
         print("OpenAI client initialized successfully!")
         return client
     except Exception as e:
@@ -30,9 +31,12 @@ def initialize_openai_client():
 
 def doctor_generate_scenario(condition, scenario_provider_memory, openai_client):
 
-        aci_note_sample = pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)['note'].sample(n=1)
+        aci_train_df= pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)
+        randome_index= random.randint(0, 66)
+        aci_note_sample= aci_train_df["note"][randome_index]
         scenario_prompt= scenario_prompt = gen_constants.SCENARIO_PROVIDER_SYSTEM_PROMPT.format(EXAMPLE_NOTE=aci_note_sample)
-        
+
+
         scenario_response = openai_client.chat.completions.create(
                 model=gen_constants.scenario_generator_config["model"],
                 temperature = gen_constants.scenario_generator_config["temperature"],
@@ -52,6 +56,8 @@ def doctor_generate_scenario(condition, scenario_provider_memory, openai_client)
                     ]+ scenario_provider_memory
                 )
         print(f"len of scenario_provider_memory is: {len(scenario_provider_memory)}")
+        #print("##############",scenario_provider_memory)
+
         return scenario_response.choices[0].message.content
 
 
@@ -71,20 +77,24 @@ def judge_evaluate_scenario(scenario, judge_conversations_memory, openai_client)
                 )
         # Accessing the last message's content correctly
         latest_message = evaluation_response.choices[0].message.content
-        print("Latest message in judge is: ", latest_message)
+        #print("Latest message in judge is: ", latest_message)
         decision = latest_message.split()[-1]  # Extract the last word
 
         # Update memory with the model's latest response
         judge_conversations_memory.append({"role": "assistant", "content": latest_message})
-        print(decision)
-        print(judge_conversations_memory)
+        print(f"decission is: {decision}")
+        #print(f"latest_message is: {latest_message}")
+        #print(judge_conversations_memory)
         print("len of judge_conversation_momory is: ",len(judge_conversations_memory))
         return decision, latest_message
 
 
 
 def doctor_generate_note(scenario, openai_client):
-        aci_note_sample = pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)['note'].sample(n=1)
+        aci_train_df= pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)
+        randome_index= random.randint(0, 66)
+        aci_note_sample= aci_train_df["note"][randome_index]
+
         note_prompt= gen_constants.NOTE_GENERATOR_SYSTEM_PROMPT.format(EXAMPLE_NOTE=aci_note_sample)
         
         note_response = openai_client.chat.completions.create(
@@ -163,7 +173,12 @@ def generate_and_save_medical_notes(disease_description, notes_count, openai_cli
     try:
         while True:
             scenario = doctor_generate_scenario(disease_description, scenario_provider_memory, openai_client)
+
+            # if len(scenario_provider_memory) == 0:
+            #     scenario_provider_memory.append({"role": "user", "content": disease_description})
+                
             scenario_provider_memory.append({"role": "assistant", "content": scenario})
+
             decision, latest_message = judge_evaluate_scenario(scenario, judge_conversations_memory, openai_client)
             if decision == "Go" or decision == "Go.":
                 role = _extract_role(scenario)
@@ -176,11 +191,13 @@ def generate_and_save_medical_notes(disease_description, notes_count, openai_cli
                 rejected_scenarios.append({"Disease Description": disease_description, "Scenario": scenario, "Note": "Rejected", "Polished Note": "Rejected", "Role": "Rejected"})
                 # to save on input tokens: drop the rejected scenario from the memory
                 del judge_conversations_memory[-2:]
-                scenario_provider_memory.append({"role": "assistant", "content": latest_message})
+
+                scenario_provider_memory.append({"role": "user", "content": latest_message})
 
         
             # reset to respect the input token limit
-            if  (len(approved_notes) % 4) == 0:
+            # the second condition prevents the occurance of infinite loops of rejecting scenarios.
+            if  ((len(approved_notes) % 4) == 0) or (len(scenario_provider_memory) >= 6):
                      judge_conversations_memory = [{"role": "system", "content":gen_constants.SCENARIO_JUDGE_SYSTEM_PROMPT}]
 
             # Respecting the number of needed approved notes
@@ -195,7 +212,7 @@ def generate_and_save_medical_notes(disease_description, notes_count, openai_cli
         results = approved_notes + rejected_scenarios
         current_date = datetime.now().strftime("%Y-%m-%d")
         results_df= pd.DataFrame(results)
-        full_path= f"{path_to_save_notes}/{disease_description}_{current_date}_v5.csv"
+        full_path= f"{path_to_save_notes}/{disease_description}_{current_date}_v12.csv"
         results_df.to_csv(full_path, index=False, sep="|")
 
 
