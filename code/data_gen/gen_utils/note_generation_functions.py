@@ -34,7 +34,7 @@ def doctor_generate_scenario(condition, scenario_provider_memory, openai_client)
         aci_train_df= pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)
         randome_index= random.randint(0, 66)
         aci_note_sample= aci_train_df["note"][randome_index]
-        scenario_prompt= scenario_prompt = gen_constants.SCENARIO_PROVIDER_SYSTEM_PROMPT.format(EXAMPLE_NOTE=aci_note_sample)
+        scenario_prompt= gen_constants.SCENARIO_PROVIDER_SYSTEM_PROMPT.format(EXAMPLE_NOTE=aci_note_sample)
 
 
         scenario_response = openai_client.chat.completions.create(

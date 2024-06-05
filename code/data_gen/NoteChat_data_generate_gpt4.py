@@ -347,9 +347,9 @@ def chat(text, history_conv='', flag=0, max_epochs=60):
   Patient: Here you are.
   Doctor: Based on your medical history record...
   Because after patient has finished describing common symptoms or medical history, he will give doctor his medical history records. 
-  After patient give the doctor his medical history record, the doctor could could know medical history record. Otherwise he didn't know any information of the medical history.
+  After patient give the doctor his medical history record, the doctor could know medical history record. Otherwise he didn't know any information of the medical history.
   Some result should not come from history clinical note they should come from examination.
-  All the examination result, history examination result, vital sigh and medical number must be told by doctor.
+  All the examination result, history examination result, vital signs and medical number must be told by doctor.
   You could expand the parts of doctor to include more key words. If it is difficult to include you could just use the sentence of clinical note.
   The revised conversation should be at least around 80 to 150 utterances(doctor or patient should say too much information at once).
   The conversation must include all the information of the clinical note.

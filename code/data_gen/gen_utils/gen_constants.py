@@ -274,202 +274,96 @@ Try to write it in a paragraph and include all the information. You can sometime
 
 DIALOGUE_GENERATOR_SYSTEM_PROMPT= ''' 
 You are a helpful medical research assistance. You will be give a medical note and your task is to generate the conversation between the doctor and the patient that led to that note. 
-
-
-
-Here are two examples of note and the corresponding conversation:
-
-
+Your conversation must include all information. if it's difficult to include them all, you can use the original sentences in the notes. 
+The common symptoms and common medical history should be told by patient. 
+Some specific symptoms and medical history should be added by the doctor after the patient has finished describing his symptoms and medical history.
+For example:
+Doctor: Can you give me your medical history record?
+Patient: Here you are.
+Doctor: Based on your medical history record...
+Because after patient has finished describing common symptoms or medical history, he will give doctor his medical history records. 
+After patient give the doctor his medical history record, the doctor could know medical history record. Otherwise he didn't know any information of the medical history.
+Some result should not come from history clinical note they should come from examination.
+All the examination result, history examination result, vital signs and medical number must be told by doctor.
+You could expand the parts of doctor to include more key words. If it is difficult to include you could just use the sentence of clinical note.
+The revised conversation should be at least around 80 to 150 utterances(doctor or patient should not say too much information at once).
+The conversation must include all the information of the clinical note.
+You must include all the key words I gave you. If it is difficult to include all the key words you could use original the sentences of clinical note. 
+You cannot revise or eliminate any key words and you cannot use synonyms of the key words. 
+You shoudn't use the abbreviation if you know the full name(you should use full name not abbreviation, such as D9 must be day 9, D7 must be day 7. If both the full name and the abbreviation appear, it's better to use the full name rather than the abbreviation.
+Patients must not say any highly specialized terms, medical terminology or medical dosage. They can only describe limited common symptoms. The doctor should supplement the remaining information based on test results.
+Don't repeat the same information in long paragraphs. The utterance of the dialogue needs to be expanded as much as possible.
+Here are a good real note and dialogue example:
 # Example 1: 
     ## Note:
-
+    """
+    {EXAMPLE_1_NOTE}
     """
 
-    CHIEF COMPLAINT
-
-    Right knee pain.
-
-    MEDICAL HISTORY
-
-    The patient has a history of diabetes. She has been doing pretty good with her diet. She states that she forgets to check her sugars quite a bit.
-
-    REVIEW OF SYSTEMS
-
-    Musculoskeletal: Reports right knee pain and swelling.
-
-    PHYSICAL EXAM
-
-    Respiratory
-    - Auscultation of Lungs: Clear bilaterally.
-
-    Cardiovascular
-    No murmurs, gallops.
-
-    Musculoskeletal
-    - Examination of the right knee: Some swelling present.
-    - Palpation: Some pain to palpation on the medial aspect of the right knee, and a little bit of pain on the lateral aspect of the right knee.
-    - Range of Motion: Limited range of motion as well as pain on both flexion and extension of the knee.
-    - Special Testing:
-    McMurray's Test: Negative.
-
-    ASSESSMENT AND PLAN
-
-    1. Right knee pain.
-    - Medical Reasoning: I am concerned about a torn MCL due to pain on ambulation and trouble with weightbearing, as well as the pop she heard.
-    - Patient Education and Counseling: We discussed treatment options today including bracing, anti-inflammatories, and icing. - Medical Treatment: I am going to put her in a straight leg brace and I will prescribe some Mobic. She can start taking that as a pain reliever and to try to get some of the swelling down. I want her to ice her knee once an hour for about 15 minutes.
-    - Additional Testing: I am also going to send her out for an MRI.
-
-    2. Type 2 diabetes.
-    - Medical Reasoning: The patient states that her type 2 diabetes are well-managed.
-    - Medical Treatment: I am also going to get a refill on the metformin that she has been taking 500 mg.
-    - Additional Testing: We are going to recheck her hemoglobin A1c.
-
-    Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.
+    ## conversations:
+    """
+    {EXAMPLE_1_DIALOGUE}
     """
 
-
-
-    ## Conversation:
-
-    """
-
-    [doctor] so sophia i see that you you hurt your knee tell me about what happened
-    [patient] yeah i was jumping on my kid's trampoline and i could just slipped out from under me
-    [doctor] my gosh one of those big trampolines in your back yard
-    [patient] yeah a pretty big one
-    [doctor] okay which knee was it
-    [patient] my right knee
-    [doctor] right knee okay and when did this happen
-    [patient] about four days ago
-    [doctor] great the weather was perfect this weekend so i'm glad you at least got outside sorry to hear you got hurt okay so your right knee did you did you feel it like pop or or snap or anything when you hurt it
-    [patient] yeah i felt a little pop and then it swelled up really big afterward
-    [doctor] okay did you try anything for the pain
-    [patient] i took some ibuprofen and i put some ice on it
-    [doctor] okay did that help
-    [patient] a little bit but it's still really hard to get around
-    [doctor] alright and have you have you been able to stand on it or does that hurt too much
-    [patient] it hurts quite a bit to stand but i am able to put weight on it
-    [doctor] okay alright and what part of the knee is it inside outside middle
-    [patient] kind of that inside part of my kneecap
-    [doctor] okay alright and okay so as long as you're here and then your primary care physician i'm looking through your chart and it looks like we're treating your diabetes so how you've been doing with your your diet overall are you are you keeping your sugars low
-    [patient] it's going okay i i forget to check quite a bit though
-    [doctor] sure
-    [patient] on it
-    [doctor] yeah i understand how has your diet been lately
-    [patient] it's been pretty good
-    [doctor] okay okay good good you know it's hard to stay away from the sugary foods sometimes i i enjoy ice cream regularly okay so let's do physical exam as long as you are here so i'm just gon na listen to your heart your heart sounds normal no murmurs or gallops listen to your lungs quick if you can take a deep breath lungs are clear that's good news let's take a look at that knee right knee looks like it definitely has some swelling i'm gon na do some maneuvers here does it hurt when i push you on the inside of the knee
-    [patient] yeah that hurts
-    [doctor] okay how about the outside
-    [patient] a little bit but not as much
-    [doctor] okay so some pain on palpation on the inside little bit of pain on the outside of the knee if i bend the knee back does that hurt
-    [patient] yeah
-    [doctor] how about when i extend it
-    [patient] yeah that hurts
-    [doctor] okay so little bit of limited range of motion as well as pain on both flexion and extension on the knee i'm gon na push on this a little bit looks like your mcmurray's test is negative just checking for a meniscus tear okay so let's talk a little bit about your plan what i am concerned about for your knee is it sounds like you have a torn or injured mcl i it's that inside tendon in your knee so i'm concerned about that since you're having trouble with weightbearing and you heard that pop so what i'm gon na do is i'm gon na put you in a straight leg brace and i'll prescribe some mobic you can start taking that as a a pain reliever and to try to get some of the swelling down i want you to ice your knee once an hour for about fifteen minutes but i'm also gon na send you out for an mri because we wan na make sure this is what happens see if there's any other damage to the knee does that sound good
-    [patient] yeah that sounds great thank you
-    [doctor] yeah and then for your diabetes as long as you're here it sounds like you're managing that pretty well but i do wan na get a recheck on your hemoglobin a1c and then i'm also i'm going to get a refill on the metformin that you have been taking five hundred milligrams so you can keep taking that as well so do you have any other questions for me
-    [patient] no that's it thanks
-    [doctor] alright well thank you hope that you feel better
-
-    """
-
-    
-# Example 2:
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+# Example 2: 
     ## Note:
     """
-    CHIEF COMPLAINT
-
-    Left shoulder pain.
-
-    HISTORY OF PRESENT ILLNESS
-
-    Alan Mitchell is a pleasant 69-year-old male who presents to the clinic today for the evaluation of left shoulder pain. The onset of his pain began 3 weeks ago, without any improvement. He denies any specific injury; however, he has been renovating his basement and putting in a new ceiling. He does not recall hitting or falling onto the left shoulder. The patient states he is very active and has experienced left shoulder pain before that usually resolves with Tylenol.
-
-    The patient reports significant pain with reaching, lifting, and overhead activities. The pain is constant. He states the pain is primarily located in the left shoulder and denies it radiates down into the left arm. The patient also reports difficulty sleeping secondary to the pain. He denies any numbness or tingling in his left arm or fingers. He has been taking Tylenol for pain, which provides partial relief. He initially iced his shoulder but has not iced it recently. The patient denies he has done any physical therapy.
-
-    REVIEW OF SYSTEMS
-
-    Musculoskeletal: Reports left shoulder pain. Neurological: Denies numbness or tingling.
-
-    VITALS
-
-    All vital signs are within the normal limits.
-
-    PHYSICAL EXAM
-
-    MSK: Examination of the left shoulder: Limited active and passive ROM. Tenderness over the greater tuberosity of the humerus. No tenderness at the sternoclavicular or AC joints. Good hand grip. Neurovascularly intact distally. Capillary refill is less than 3 seconds. Sensation is intact to light touch distally.
-
-    RESULTS
-
-    X-rays of the left shoulder were obtained and reviewed today. These are normal and reveal no fracture or bony abnormalities.
-
-    ASSESSMENT
-
-    Left shoulder pain, likely rotator cuff tendinopathy.
-
-    PLAN
-
-    After reviewing the patient's examination and radiographic findings today, I have had a lengthy discussion with him regarding his current symptoms. I have explained that his x-rays did not reveal any signs of a fracture. I have recommended that we obtain an MRI of the left shoulder to evaluate for possible rotator cuff tendinopathy. The patient was provided with a referral to formal physical therapy. He will engage in a 6-to-8-week course in order to strengthen his left shoulder. I have also advised him to take Tylenol as needed for pain. If his symptoms do not improve, we may consider a steroid injection to the left shoulder.
-
-    INSTRUCTIONS
-
-    The patient will follow up with me once the MRI results are available for review and further discussion.
+    {EXAMPLE_2_NOTE}
     """
 
-
-    ## Conversation:
-
+    ## conversations:
     """
-    alright you can go ahead
-    [patient] hey alan i good to see you today so i looked here my appointment notes and i see that you're coming in you had some shoulder pain left shoulder pain for the last three weeks so
-    [doctor] how you doing is it is it gotten any better
-    [patient] yeah yeah i've been having a lot of pain of my shoulder for the last three weeks now and it's not getting better okay do you remember what you were doing when the pain first started
-    [doctor] so i i was thinking that i i ca n't recall like falling on it injuring it getting hit
-    [patient] hmmm
-    [doctor] i have been doing a lot of work in my basement and i even i put in a new ceiling so i do n't know if it's from all that activity doing that but otherwise that's that's all i can think of
-    [patient] okay so do you remember hitting it or anything like that
-    [doctor] no nothing at all
-    [patient] okay alright did you fall do you remember doing that
-    [doctor] no
-    [patient] okay hmmm so like a little mystery so have you had pain in that shoulder before
-    [doctor] i mean i'm very active so i can get pains in my shoulders but it's nothing that sometime some tylenol can help
-    [patient] okay and are you able to move the arm or is it kinda just stuck
-    [doctor] i'm having a lot of pain like i can move it but you know when i try to reach for something lifting anything and even like i do n't even try to put my hands over my head because it causes so much pain
-    [patient] alright so does that pain radiate anywhere or like where would you say it is in your shoulder
-    [doctor] it actually it stays pretty much just right at the shoulder it does n't go down anywhere
-    [patient] okay and the pain is it is it all the time or does it come and go
-    [doctor] it's pretty much all the time anytime i put any pressure on it like when i'm trying to sleep it hurts even more so it's been affecting my sleep as well
-    [patient] okay so i know you mentioned tylenol so this time i have n't taken anything for it
-    [doctor] yeah i i do the tylenol which usually works for me and it does take the edge off but i still have pain okay did you try icing it at all
-    [patient] i iced it initially but i have n't iced it at all recently
-    [doctor] alright
-    [patient] and so with your shoulder have you experienced any numbness in your arm or in your fingers
-    [doctor] no numbness or tingling
-    [patient] okay good so i'm gon na go ahead and do a quick physical exam and take a look at your your shoulder so i reviewed your your vitals everything looks good with that so touch here in your shoulder so your left shoulder exam you have limited active and passive range of motion so pressure here so that there is tenderness of the greater
-    [doctor] okay
-    [patient] tuberosity of the humerus let's see there is no tenderness at the sternoclavicular or acro
-    [doctor] yeah
-    [patient] acromioclavicular joints
-    [doctor] yeah yeah
-    [patient] and looks like you have good hand grip let me see so on the neurovascular exam of your left arm your capillary refill is less than three seconds and your sensation is is intact to light touch
-    [doctor] yes thank you yep
-    [patient] so you did get a we get we had to get a x-ray of your shoulder before you came in and so it's normal so that's really good so there is no fractures no bony abnormalities so let's talk a little bit about my assessment and plan for you so you you do have that left shoulder pain so your symptoms are
-    [doctor] most likely due to a rotator cuff tendinopathy so this means that you injured tendon you have injured tendons and muscles that make up your shoulder and make up your shoulder muscles so what i'm gon na do is i'm gon na order an mri of your left shoulder
-    [patient] and so we're gon na begin with that just to make sure nothing else is going on have you done physical therapy before
-    [doctor] i have n't
-    [patient] okay so what i'm gon na do i'm going to refer you to physical therapy for approximately six to eight weeks and so they can help you strengthen those muscles around your shoulder and that should definitely help with the pain during that time you can also continue to take tylenol i do n't think i need to prescribe anything else for the pain you said as it's working pretty good for you so if your symptoms do n't improve we can consider a steroid injection of your shoulder which should provide some relief but i think right now we can just go with the the pt and hopefully that works to alleviate your injury so do you have any questions about the plan
-    [doctor] so like i said i'm really active do you think that this pain will ever go away
-    [patient] yeah so many patients are very successful with rehab and so we'll start with that and see how you do most most of the time once we build up those muscles around that shoulder you know things things the pain alleviates itself and and and you will be good to go back to working on your basement and running and jogging and lifting weights all all the active things people do these days
-    [doctor] okay alright thank you
-    [patient] bye
-    [doctor] okay bye
-    '""
+    {EXAMPLE_2_DIALOGUE}
+    """
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+# Example 3: 
+    ## Note:
+    """
+    {EXAMPLE_3_NOTE}
+    """
+
+    ## conversations:
+    """
+    {EXAMPLE_3_DIALOGUE}
+    """
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+You must follow the structure of the dialogues in the examples above.
+
+The number of utterance should be at least 80 and sometimes patient didn't clearly hear and he could say parden to let the doctor say again.
+
 '''
 
+
+DIALOGUE_POLISHER_SYSTEM_PROMPT= """ Expand the conversation. The conversation for patient parts can be more colloquial. When the doctor is speaking, the patient can have many modal particles (e.g. hmm, yes, okay) to increase interaction.
+  All the numbers and medical concepts that appear in the note should be mentioned by the doctor.
+  Professional medical terms and numbers should always occur in the doctor's utterances but not in the patient's answer. 
+  The doctor may describe and explain professional judgment to the patient and instruct the patient on follow-up requirements, but not ask questions that require professional medical knowledge to answer.
+  All the information of medical history, symptoms and medication history should be told by patient
+  The patient's answer should be succinct and accurate in a colloquial lay language style. The answer must align with the clinical notes and as colloquial as possible.
+  You can add some transitional phrases to make the conversation more logical. For example:
+  Example 1:
+  Patient: I understand, please go ahead.
+  (After examination)
+  Doctor: The result shows......
+  Example 2:
+  Patient: Thank you for the diagnosis, doctor.
+  (After two years)
+  Doctor: Hi....
+  Example 3:
+  Patient: Okay, I understand. 
+  (Few days latter)
+  Doctor: Hi....
+  Your conversations must follow the logical sequence of a doctor's inquiry. For example, the general logical order of the conversation is: first discussing symptoms, then discussing the medical history, followed by discussing testing and results, and finally discussing treatment options, conclusioin etc."
+  If you find this conversation to be incoherent, you can try dividing it into two separate coherent conversations.
+  Patients should not say too much information at once.
+  """
+
+
 dial_generator_config= {"model": "gpt-4o", # "gpt-4-1106-preview"
-                            "temperature": 0.59,
-                            "max_tokens": 2236,
+                            "temperature": 0.7,
+                            "max_tokens": 4095,
                             "top_p": 1,
                             "frequency_penalty": 0,
                             "presence_penalty": 0}

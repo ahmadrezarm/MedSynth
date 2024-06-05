@@ -29,6 +29,28 @@ def initialize_openai_client():
 
 
 def generate_dialogue(note, openai_client):
+        aci_train_df= pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)
+        randome_index_1= random.randint(0, 66)
+        randome_index_2= random.randint(0, 66)
+        randome_index_3= random.randint(0, 66)
+
+        aci_note_sample_1= aci_train_df["dialogue"][randome_index_1]
+        aci_dial_sample_1= aci_train_df["note"][randome_index_1]
+
+        aci_note_sample_2= aci_train_df["dialogue"][randome_index_2]
+        aci_dial_sample_2= aci_train_df["note"][randome_index_2]
+
+        aci_note_sample_3= aci_train_df["dialogue"][randome_index_3]
+        aci_dial_sample_3= aci_train_df["note"][randome_index_3]
+
+
+        dial_prompt= gen_constants.DIALOGUE_GENERATOR_SYSTEM_PROMPT.format(EXAMPLE_1_NOTE=aci_note_sample_1,
+                                                                           EXAMPLE_1_DIALOGUE= aci_dial_sample_1,
+                                                                           EXAMPLE_2_NOTE= aci_note_sample_2,
+                                                                           EXAMPLE_2_DIALOGUE= aci_dial_sample_2,
+                                                                           EXAMPLE_3_NOTE= aci_note_sample_3,
+                                                                           EXAMPLE_3_DIALOGUE= aci_dial_sample_3)
+        
         note_response = openai_client.chat.completions.create(
                 model=gen_constants.dial_generator_config["model"],
                 temperature = gen_constants.dial_generator_config["temperature"],
@@ -39,7 +61,7 @@ def generate_dialogue(note, openai_client):
                 messages=[
                     {
                         "role": "system",
-                        "content": gen_constants.DIALOGUE_GENERATOR_SYSTEM_PROMPT 
+                        "content": dial_prompt
                     },
                     {
                         "role": "user",
@@ -49,6 +71,28 @@ def generate_dialogue(note, openai_client):
                 )
         return note_response.choices[0].message.content
 
+
+def polish_dialogue(dialogue, openai_client):
+        
+        note_response = openai_client.chat.completions.create(
+                model=gen_constants.dial_generator_config["model"],
+                temperature = gen_constants.dial_generator_config["temperature"],
+                max_tokens = gen_constants.dial_generator_config["max_tokens"],
+                top_p = gen_constants.dial_generator_config["top_p"],
+                frequency_penalty = gen_constants.dial_generator_config["frequency_penalty"],
+                presence_penalty = gen_constants.dial_generator_config["presence_penalty"],
+                messages=[
+                    {
+                        "role": "system",
+                        "content": gen_constants.DIALOGUE_POLISHER_SYSTEM_PROMPT
+                    },
+                    {
+                        "role": "user",
+                        "content": dialogue
+                    }
+                ]
+                )
+        return note_response.choices[0].message.content
 
 
 NOTE= '''
@@ -149,8 +193,16 @@ NOTE= '''
 
 openai_client= initialize_openai_client()
 dial= generate_dialogue(NOTE, openai_client= openai_client)
+polished_dial= polish_dialogue(dialogue= dial, openai_client= openai_client)
 
-output_file_path = f'/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/dialogues_onVector/ICL_version/test.txt'
-with open(output_file_path, 'w') as file:
+dial_output_file_path = f'/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/dialogues_onVector/ICL_version/test_icl_3.txt'
+with open(dial_output_file_path, 'w') as file:
     file.write(dial)
-print(f"Conversation saved to {output_file_path}")
+
+print(f" Conversation saved to {dial_output_file_path}")
+
+
+polished_dial_output_file_path = f'/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/dialogues_onVector/ICL_version/test_icl_3_polioshed.txt'
+with open(polished_dial_output_file_path, 'w') as file:
+    file.write(polished_dial)
+print(f"Polished Conversation saved to {polished_dial_output_file_path}")
