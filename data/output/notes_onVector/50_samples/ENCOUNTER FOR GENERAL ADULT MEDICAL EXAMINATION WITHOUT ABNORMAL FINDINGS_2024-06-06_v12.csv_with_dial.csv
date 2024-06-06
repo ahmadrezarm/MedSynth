@@ -1,0 +1,2652 @@
+Disease Description|Scenario|Note|Polished Note|Role|dial|polished_dial
+ENCOUNTER FOR GENERAL ADULT MEDICAL EXAMINATION WITHOUT ABNORMAL FINDINGS|"ROLE: Family Medicine Physician
+
+Scenario:
+
+1) Medical Outcome:
+   - Preventive Health Screening
+   - No diagnosis or treatment as there are no abnormal findings.
+   - Follow-up recommendations: Routine check-up in one year, or sooner if any symptoms arise.
+   - Lifestyle change recommendations: Encourage balanced diet, regular exercise, and avoiding tobacco and excessive alcohol consumption.
+   
+2) Medical History:
+   - Previous Diagnoses: Seasonal allergies.
+   - Family Medical History: Father with hypertension, mother with type 2 diabetes.
+   - Medication History: Over-the-counter antihistamines for allergies.
+   - Allergies: None.
+   - Chronic Conditions: None.
+   
+3) Symptom Description:
+   - No significant complaints or symptoms.
+   
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: 7-8 hours per night, feels rested.
+   - Diet: Generally balanced, but admits to occasional fast food.
+   - Exercise: 30 minutes of moderate exercise 3 times a week.
+   - Tobacco Use: None.
+   - Alcohol Consumption: Occasional, 1-2 drinks per week.
+   - Drug Use: None.
+   - Recreational Activities: Enjoys hiking and gardening.
+   
+5) Demographic Information:
+   - Age: 35
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: High
+   - Job Status: Full-time software engineer
+   
+6) Patient's Behavior:
+   - Very cooperative with medical advice.
+   
+7) Geographical Location:
+   - Urban
+   - Well-served by transit
+   - Living in an apartment in an affluent neighborhood
+   
+8) Clinical Setting:
+   - Private Practice
+   
+9) Type of Encounter:
+   - Routine Check-up
+   
+10) Treatment Disparities:
+   - None identified.
+   
+11) Native or Non-Native English Speaking Patient:
+   - Native English speaker.
+   
+12) Physical exams:
+   - General Examination: Normal.
+   - Blood Pressure: 120/80 mmHg.
+   - Heart Rate: 72 bpm.
+   - Auscultation of Lungs and Heart: Normal.
+   - Abdominal Examination: Soft, non-tender, no organomegaly.
+   - Neurological Examination: No deficits noted.
+   
+13) Investigation/Test results:
+   - Basic blood work ordered for preventive screening: CBC (Complete Blood Count), CMP (Comprehensive Metabolic Panel), Lipid profile.
+   - Results: Awaiting. Advised patient to visit the lab for blood work within the next week."|"#####
+CHIEF COMPLAINT
+
+Routine preventive health screening.
+
+HISTORY OF PRESENT ILLNESS
+
+Mr. John Smith is a 35-year-old, healthy appearing Caucasian male here for a routine preventive check-up. He reports no significant complaints or symptoms at this time. His last primary care visit was one year ago, and his medical history includes seasonal allergies for which he takes over-the-counter antihistamines as needed. He denies any other chronic conditions or significant illnesses.
+
+PAST HISTORY
+
+Medical
+- Seasonal allergies.
+
+Family
+- Father with hypertension.
+- Mother with type 2 diabetes.
+
+Medication
+- Over-the-counter antihistamines for allergies.
+- Denies taking any other medications.
+
+SOCIAL HISTORY
+
+- Sleep: 7-8 hours per night, feels rested.
+- Diet: Generally balanced, occasional fast food.
+- Exercise: 30 minutes of moderate exercise 3 times a week.
+- Tobacco Use: None.
+- Alcohol Consumption: Occasional, 1-2 drinks per week.
+- Drug Use: None.
+- Recreational Activities: Enjoys hiking and gardening.
+- Occupation: Full-time software engineer.
+- Socio-economic Status: Middle class.
+- Education Level: College graduate.
+- Health Literacy: High.
+- Living in an affluent urban neighborhood, well-served by transit.
+
+ALLERGIES
+
+- None.
+
+REVIEW OF SYSTEMS
+
+- General: No significant complaints.
+- Respiratory: Denies shortness of breath, cough.
+- Cardiovascular: Denies chest pain, palpitations.
+- Gastrointestinal: Denies abdominal pain, changes in bowel habits.
+- Neurological: Denies headaches, dizziness.
+- Musculoskeletal: No joint pain or stiffness.
+
+PHYSICAL EXAM
+
+Vital Signs
+- Blood pressure: 120/80 mmHg.
+- Heart rate: 72 bpm.
+
+General
+- Healthy, well-nourished male, cooperative and alert.
+
+Cardiovascular
+- Regular rate and rhythm, no murmurs, gallops, or rubs.
+
+Respiratory
+- Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+
+Abdomen
+- Soft, non-tender, no organomegaly, normal bowel sounds.
+
+Neurological
+- No focal deficits, cranial nerves II-XII intact.
+
+Musculoskeletal
+- Full range of motion in all joints, no swelling or tenderness.
+
+Skin
+- No rashes or lesions.
+
+RESULTS
+
+- Pending: Basic blood work (CBC, CMP, Lipid profile). Patient advised to visit the lab for blood draw within the next week.
+
+ASSESSMENT
+
+- Routine preventive health screening in a 35-year-old male with no abnormal findings on physical examination.
+
+PLAN
+
+1. Preventive Health Maintenance:
+   - Await blood test results for CBC, CMP, and lipid profile.
+   - Routine check-up recommended in one year, or sooner if any symptoms arise.
+
+2. Lifestyle Recommendations:
+   - Encouraged to maintain a balanced diet with more whole foods and less fast food.
+   - Recommended to continue regular exercise, aiming for at least 30 minutes of moderate exercise 5 times a week.
+   - Advised to avoid tobacco use and limit alcohol consumption to no more than 1-2 drinks per week.
+   - Discussed importance of staying hydrated and getting adequate sleep (7-8 hours per night).
+
+3. Patient Education:
+   - Educated on the benefits of routine health screenings and early detection of potential health issues.
+   - Provided information on stress management techniques due to his high-stress job as a software engineer.
+
+The patient verbalizes understanding of the plan and agrees to follow-up accordingly. All questions were answered to his satisfaction today.
+
+#####
+
+"|"#####
+**1. Subjective:**
+This section includes the patient's own description of their symptoms and complaints.
+
+**CHIEF COMPLAINT**
+Routine preventive health screening.
+
+**HISTORY OF PRESENT ILLNESS**
+Mr. John Smith is a 35-year-old, healthy appearing Caucasian male here for a routine preventive check-up. He reports no significant complaints or symptoms at this time. His last primary care visit was one year ago, and his medical history includes seasonal allergies for which he takes over-the-counter antihistamines as needed. He denies any other chronic conditions or significant illnesses.
+
+**PAST HISTORY**
+
+**Medical**
+- Seasonal allergies.
+
+**Family**
+- Father with hypertension.
+- Mother with type 2 diabetes.
+
+**Medication**
+- Over-the-counter antihistamines for allergies.
+- Denies taking any other medications.
+
+**SOCIAL HISTORY**
+- Sleep: 7-8 hours per night, feels rested.
+- Diet: Generally balanced, occasional fast food.
+- Exercise: 30 minutes of moderate exercise 3 times a week.
+- Tobacco Use: None.
+- Alcohol Consumption: Occasional, 1-2 drinks per week.
+- Drug Use: None.
+- Recreational Activities: Enjoys hiking and gardening.
+- Occupation: Full-time software engineer.
+- Socio-economic Status: Middle class.
+- Education Level: College graduate.
+- Health Literacy: High.
+- Living in an affluent urban neighborhood, well-served by transit.
+
+**ALLERGIES**
+- None.
+
+**REVIEW OF SYSTEMS**
+- General: No significant complaints.
+- Respiratory: Denies shortness of breath, cough.
+- Cardiovascular: Denies chest pain, palpitations.
+- Gastrointestinal: Denies abdominal pain, changes in bowel habits.
+- Neurological: Denies headaches, dizziness.
+- Musculoskeletal: No joint pain or stiffness.
+
+**2. Objective:**
+This section includes observations and data gathered by the physician, such as vital signs, physical examination findings, and test results.
+
+**PHYSICAL EXAM**
+
+**Vital Signs**
+- Blood pressure: 120/80 mmHg.
+- Heart rate: 72 bpm.
+
+**General**
+- Healthy, well-nourished male, cooperative and alert.
+
+**Cardiovascular**
+- Regular rate and rhythm, no murmurs, gallops, or rubs.
+
+**Respiratory**
+- Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+
+**Abdomen**
+- Soft, non-tender, no organomegaly, normal bowel sounds.
+
+**Neurological**
+- No focal deficits, cranial nerves II-XII intact.
+
+**Musculoskeletal**
+- Full range of motion in all joints, no swelling or tenderness.
+
+**Skin**
+- No rashes or lesions.
+
+**RESULTS**
+- Pending: Basic blood work (CBC, CMP, Lipid profile). Patient advised to visit the lab for blood draw within the next week.
+
+**3. Assessment:**
+This section includes the physician's evaluation of the patient's condition, including a diagnosis or differential diagnosis.
+
+- Routine preventive health screening in a 35-year-old male with no abnormal findings on physical examination.
+
+**4. Plan:**
+This section includes the physician's recommendations for treatment, management, and follow-up.
+
+1. Preventive Health Maintenance:
+   - Await blood test results for CBC, CMP, and lipid profile.
+   - Routine check-up recommended in one year, or sooner if any symptoms arise.
+
+2. Lifestyle Recommendations:
+   - Encouraged to maintain a balanced diet with more whole foods and less fast food.
+   - Recommended to continue regular exercise, aiming for at least 30 minutes of moderate exercise 5 times a week.
+   - Advised to avoid tobacco use and limit alcohol consumption to no more than 1-2 drinks per week.
+   - Discussed importance of staying hydrated and getting adequate sleep (7-8 hours per night).
+
+3. Patient Education:
+   - Educated on the benefits of routine health screenings and early detection of potential health issues.
+   - Provided information on stress management techniques due to his high-stress job as a software engineer.
+
+The patient verbalizes understanding of the plan and agrees to follow-up accordingly. All questions were answered to his satisfaction today.
+#####"|Family Medicine Physician|"## Conversation
+
+[doctor] Hi, Mr. Smith. How are you doing today?
+
+[patient] Hi, Doctor. I'm doing well, thank you. How about you?
+
+[doctor] I'm doing great, thanks for asking. So, you’re here for a routine preventive check-up, is that right?
+
+[patient] Yes, that's correct. Just wanted to make sure everything is in order.
+
+[doctor] Excellent. Can you tell me if you’ve had any significant complaints or symptoms recently?
+
+[patient] No, nothing significant. I feel pretty good overall.
+
+[doctor] That’s great to hear. When was your last primary care visit?
+
+[patient] It was about a year ago.
+
+[doctor] Perfect. Any new medical conditions or significant illnesses since then?
+
+[patient] No, nothing new. Just the usual seasonal allergies.
+
+[doctor] Okay, and you take over-the-counter antihistamines for those, right?
+
+[patient] Yes, only when I need them.
+
+[doctor] Alright. Any other medications you’re taking?
+
+[patient] No, just the antihistamines.
+
+[doctor] Got it. Can you give me a brief rundown of your family medical history?
+
+[patient] Sure. My father has hypertension, and my mother has type 2 diabetes.
+
+[doctor] Thank you. How about your lifestyle? How many hours of sleep do you get on average?
+
+[patient] I usually get about 7-8 hours of sleep each night and feel pretty rested.
+
+[doctor] That’s good. And how’s your diet?
+
+[patient] Generally balanced, but I do have fast food occasionally.
+
+[doctor] Understood. How about exercise?
+
+[patient] I try to exercise for about 30 minutes, three times a week.
+
+[doctor] Excellent. Do you smoke or use any tobacco products?
+
+[patient] No, I don't.
+
+[doctor] How about alcohol consumption?
+
+[patient] Just occasionally, about 1-2 drinks per week.
+
+[doctor] Any recreational drug use?
+
+[patient] No, none.
+
+[doctor] What do you do for recreational activities?
+
+[patient] I enjoy hiking and gardening.
+
+[doctor] That’s wonderful. And what’s your occupation?
+
+[patient] I’m a full-time software engineer.
+
+[doctor] Okay, and how would you describe your socio-economic status?
+
+[patient] I'd say middle class.
+
+[doctor] Education level?
+
+[patient] I’m a college graduate.
+
+[doctor] Great. How would you rate your health literacy?
+
+[patient] I’d say it’s pretty high.
+
+[doctor] And where do you live?
+
+[patient] In an affluent urban neighborhood, well-served by transit.
+
+[doctor] Any allergies?
+
+[patient] None, other than the seasonal allergies.
+
+[doctor] Great, let’s go through a quick review of systems. Any general complaints?
+
+[patient] No, none.
+
+[doctor] Any issues with your respiratory system, like shortness of breath or cough?
+
+[patient] No, I’m fine in that area.
+
+[doctor] How about cardiovascular concerns such as chest pain or palpitations?
+
+[patient] No, nothing like that.
+
+[doctor] Any gastrointestinal issues like abdominal pain or changes in bowel habits?
+
+[patient] No, everything’s normal.
+
+[doctor] Neurological symptoms like headaches or dizziness?
+
+[patient] No, none of those either.
+
+[doctor] Any musculoskeletal problems, like joint pain or stiffness?
+
+[patient] No, my joints feel fine.
+
+[doctor] Excellent. Let’s move on to the physical exam. I’ll start with your vital signs. Your blood pressure is 120/80 mmHg and your heart rate is 72 bpm, which are both within normal limits.
+
+[patient] That sounds good.
+
+[doctor] You appear healthy and well-nourished. You’re cooperative and alert, which is great.
+
+[patient] Thank you.
+
+[doctor] Your cardiovascular exam shows a regular rate and rhythm, and I didn’t detect any murmurs, gallops, or rubs.
+
+[patient] That’s a relief.
+
+[doctor] Your respiratory exam is clear. I didn’t hear any wheezes, rales, or rhonchi.
+
+[patient] Good to know.
+
+[doctor] Your abdomen is soft and non-tender, with no organomegaly, and normal bowel sounds.
+
+[patient] Okay, great.
+
+[doctor] Neurologically, you have no focal deficits, and your cranial nerves II-XII are intact.
+
+[patient] Alright.
+
+[doctor] Musculoskeletally, you have a full range of motion in all joints with no swelling or tenderness.
+
+[patient] That’s good to hear.
+
+[doctor] Your skin looks clear, with no rashes or lesions.
+
+[patient] Perfect.
+
+[doctor] We’ll need to do some basic blood work, including a complete blood count, comprehensive metabolic panel, and lipid profile. Please visit the lab for a blood draw within the next week.
+
+[patient] Sure, I can do that.
+
+[doctor] Based on your physical exam and history, everything looks normal. This is a routine preventive health screening in a 35-year-old male with no abnormal findings.
+
+[patient] That’s reassuring.
+
+[doctor] For preventive health maintenance, we’ll await the blood test results. I recommend a routine check-up in one year, or sooner if any symptoms arise.
+
+[patient] Sounds good.
+
+[doctor] Let’s talk about some lifestyle recommendations. Try to maintain a balanced diet with more whole foods and less fast food.
+
+[patient] I’ll work on that.
+
+[doctor] Continue your regular exercise, but try to aim for at least 30 minutes of moderate exercise five times a week.
+
+[patient] I can do that.
+
+[doctor] Avoid tobacco use and limit your alcohol consumption to no more than 1-2 drinks per week.
+
+[patient] That’s manageable.
+
+[doctor] Also, stay hydrated and make sure you get adequate sleep, around 7-8 hours per night.
+
+[patient] Will do.
+
+[doctor] We’ve talked about the benefits of routine health screenings and early detection of potential health issues. Do you have any questions about that?
+
+[patient] No questions. I understand the importance.
+
+[doctor] Great. Given your high-stress job as a software engineer, I recommend looking into some stress management techniques.
+
+[patient] That’s a good idea. I’ll look into it.
+
+[doctor] If you have any other questions or concerns, feel free to reach out.
+
+[patient] Will do. Thanks, doctor.
+
+[doctor] You’re welcome. Have a great day, Mr. Smith.
+
+[patient] Thanks, you too."|"## Conversation Part 1
+
+[doctor] Hi, Mr. Smith. How are you doing today?
+
+[patient] Hi, Doctor. I'm doing well, thank you. How about you?
+
+[doctor] I'm doing great, thanks for asking. So, you’re here for a routine preventive check-up, is that right?
+
+[patient] Yes, that's correct. Just wanted to make sure everything is in order.
+
+[doctor] Excellent. Can you tell me if you’ve had any significant complaints or symptoms recently?
+
+[patient] No, nothing significant. I feel pretty good overall.
+
+[doctor] That’s great to hear. When was your last primary care visit?
+
+[patient] It was about a year ago.
+
+[doctor] Perfect. Any new medical conditions or significant illnesses since then?
+
+[patient] No, nothing new. Just the usual seasonal allergies.
+
+[doctor] Okay, and you take over-the-counter antihistamines for those, right?
+
+[patient] Yes, only when I need them.
+
+[doctor] Alright. Any other medications you’re taking?
+
+[patient] No, just the antihistamines.
+
+[doctor] Got it. Can you give me a brief rundown of your family medical history?
+
+[patient] Sure. My father has hypertension, and my mother has type 2 diabetes.
+
+[doctor] Thank you. How about your lifestyle? How many hours of sleep do you get on average?
+
+[patient] I usually get about 7-8 hours of sleep each night and feel pretty rested.
+
+---
+
+## Conversation Part 2
+
+[doctor] That’s good. And how’s your diet?
+
+[patient] Generally balanced, but I do have fast food occasionally.
+
+[doctor] Understood. How about exercise?
+
+[patient] I try to exercise for about 30 minutes, three times a week.
+
+[doctor] Excellent. Do you smoke or use any tobacco products?
+
+[patient] No, I don't.
+
+[doctor] How about alcohol consumption?
+
+[patient] Just occasionally, about 1-2 drinks per week.
+
+[doctor] Any recreational drug use?
+
+[patient] No, none.
+
+[doctor] What do you do for recreational activities?
+
+[patient] I enjoy hiking and gardening.
+
+[doctor] That’s wonderful. And what’s your occupation?
+
+[patient] I’m a full-time software engineer.
+
+[doctor] Okay, and how would you describe your socio-economic status?
+
+[patient] I'd say middle class.
+
+[doctor] Education level?
+
+[patient] I’m a college graduate.
+
+[doctor] Great. How would you rate your health literacy?
+
+[patient] I’d say it’s pretty high.
+
+[doctor] And where do you live?
+
+[patient] In an affluent urban neighborhood, well-served by transit.
+
+[doctor] Any allergies?
+
+[patient] None, other than the seasonal allergies.
+
+[doctor] Great, let’s go through a quick review of systems. Any general complaints?
+
+[patient] No, none.
+
+[doctor] Any issues with your respiratory system, like shortness of breath or cough?
+
+[patient] No, I’m fine in that area.
+
+[doctor] How about cardiovascular concerns such as chest pain or palpitations?
+
+[patient] No, nothing like that.
+
+[doctor] Any gastrointestinal issues like abdominal pain or changes in bowel habits?
+
+[patient] No, everything’s normal.
+
+[doctor] Neurological symptoms like headaches or dizziness?
+
+[patient] No, none of those either.
+
+[doctor] Any musculoskeletal problems, like joint pain or stiffness?
+
+[patient] No, my joints feel fine.
+
+[doctor] Excellent. Let’s move on to the physical exam.
+
+---
+
+## Conversation Part 3
+
+[doctor] I’ll start with your vital signs. Your blood pressure is 120/80 mmHg and your heart rate is 72 bpm, which are both within normal limits.
+
+[patient] That sounds good.
+
+[doctor] You appear healthy and well-nourished. You’re cooperative and alert, which is great.
+
+[patient] Thank you.
+
+[doctor] Your cardiovascular exam shows a regular rate and rhythm, and I didn’t detect any murmurs, gallops, or rubs.
+
+[patient] That’s a relief.
+
+[doctor] Your respiratory exam is clear. I didn’t hear any wheezes, rales, or rhonchi.
+
+[patient] Good to know.
+
+[doctor] Your abdomen is soft and non-tender, with no organomegaly, and normal bowel sounds.
+
+[patient] Okay, great.
+
+[doctor] Neurologically, you have no focal deficits, and your cranial nerves II-XII are intact.
+
+[patient] Alright.
+
+[doctor] Musculoskeletally, you have a full range of motion in all joints with no swelling or tenderness.
+
+[patient] That’s good to hear.
+
+[doctor] Your skin looks clear, with no rashes or lesions.
+
+[patient] Perfect.
+
+[doctor] We’ll need to do some basic blood work, including a complete blood count, comprehensive metabolic panel, and lipid profile. Please visit the lab for a blood draw within the next week.
+
+[patient] Sure, I can do that.
+
+[doctor] Based on your physical exam and history, everything looks normal. This is a routine preventive health screening in a 35-year-old male with no abnormal findings.
+
+[patient] That’s reassuring.
+
+[doctor] For preventive health maintenance, we’ll await the blood test results. I recommend a routine check-up in one year, or sooner if any symptoms arise.
+
+[patient] Sounds good.
+
+---
+
+## Conversation Part 4
+
+[doctor] Let’s talk about some lifestyle recommendations. Try to maintain a balanced diet with more whole foods and less fast food.
+
+[patient] I’ll work on that.
+
+[doctor] Continue your regular exercise, but try to aim for at least 30 minutes of moderate exercise five times a week.
+
+[patient] I can do that.
+
+[doctor] Avoid tobacco use and limit your alcohol consumption to no more than 1-2 drinks per week.
+
+[patient] That’s manageable.
+
+[doctor] Also, stay hydrated and make sure you get adequate sleep, around 7-8 hours per night.
+
+[patient] Will do.
+
+[doctor] We’ve talked about the benefits of routine health screenings and early detection of potential health issues. Do you have any questions about that?
+
+[patient] No questions. I understand the importance.
+
+[doctor] Great. Given your high-stress job as a software engineer, I recommend looking into some stress management techniques.
+
+[patient] That’s a good idea. I’ll look into it.
+
+[doctor] If you have any other questions or concerns, feel free to reach out.
+
+[patient] Will do. Thanks, doctor.
+
+[doctor] You’re welcome. Have a great day, Mr. Smith.
+
+[patient] Thanks, you too."
+ENCOUNTER FOR GENERAL ADULT MEDICAL EXAMINATION WITHOUT ABNORMAL FINDINGS|"ROLE: Family Medicine Physician
+
+1) Medical Outcome: Blood pressure management, prescribed treatment, lifestyle changes, referral to a dietitian, and follow-up appointment in six weeks
+
+2) Medical History: History of borderline hypertension, family history of Type 2 Diabetes (mother), currently not on any medication, seasonal allergies treated with over-the-counter antihistamines, no drug allergies reported
+
+3) Symptom Description: Reports occasional headaches and dizziness over the past month, moderate severity, occurring 2-3 times a week, characterized by throbbing pain that makes it difficult to perform tasks at work 
+
+4) Patient’s self-reported habits and lifestyle: Sleeps 5-6 hours a night, often feels tired, diet high in processed foods and salt, rarely exercises, smokes a half pack of cigarettes per day, consumes alcohol 2 times per week, no drug use, enjoys TV and socializing at a local bar
+
+5) Demographic Information: 60-year-old, female, African American, low-income, some college education, low health literacy, unemployed but previously worked as a retail cashier
+
+6) Patient's Behavior: Exhibits moderate compliance with medical advice but expresses difficulty in adhering to dietary changes and quitting smoking
+
+7) Geographical Location: Rural area, lives in a low-income neighborhood with limited access to healthcare and fresh produce, some community health support available
+
+8) Clinical Setting: Community Health Clinic
+
+9) Type of Encounter: Initial Consultation
+
+10) Treatment Disparities: Patient faces economic challenges that impact access to comprehensive healthcare, including limited options for medication
+
+11) Native or Non-Native English Speaking Patient: Native English speaker
+
+12) Physical exams: Blood pressure 155/100 mmHg, heart rate 88 bpm, respiratory rate 20 breaths/min, BMI 32, signs of stress and anxiety, mild edema in lower extremities, otherwise general physical exam within normal limits
+
+13) Investigation/Test results: Order routine blood work including complete blood count (CBC), basic metabolic panel (BMP), lipid profile, and urinalysis; results awaited
+
+Medications Prescribed:
+- Hydrochlorothiazide 25 mg, oral, once daily, 30 tablets with one refill
+
+Referrals:
+- Referral to a dietitian for nutritional counseling to better manage blood pressure and weight (Jane Doe, RD)
+
+Follow-Up:
+- Schedule a follow-up appointment in six weeks to monitor blood pressure and review test results"|"**1. Subjective:**
+The patient is a 60-year-old African American female who presents for an initial consultation at the Community Health Clinic for blood pressure management. She reports experiencing occasional headaches and dizziness over the past month, with moderate severity. These symptoms occur 2-3 times a week and are characterized by a throbbing pain that makes it difficult for her to perform tasks at work. The patient has a history of borderline hypertension and a family history of Type 2 Diabetes (mother). Currently, she is not on any hypertension medication but uses over-the-counter antihistamines for seasonal allergies. She has no drug allergies.
+
+The patient self-reports sleeping 5-6 hours a night and often feels tired. Her diet is high in processed foods and salt, and she rarely exercises. She smokes half a pack of cigarettes per day and consumes alcohol twice a week. She has no history of drug use. The patient enjoys watching TV and socializing at a local bar.
+
+**2. Objective:**
+- Vital Signs: Blood pressure is 155/100 mmHg, heart rate is 88 bpm, respiratory rate is 20 breaths/min.
+- General: Signs of stress and anxiety are observed.
+- Cardiovascular: Mild edema in the lower extremities.
+- Respiratory: Unremarkable.
+- Gastrointestinal: Unremarkable.
+- Musculoskeletal: Unremarkable.
+- BMI: 32.
+- Scheduled Investigations: Routine blood work including complete blood count (CBC), basic metabolic panel (BMP), lipid profile, and urinalysis. Results are awaited.
+
+**3. Assessment:**
+The patient is a 60-year-old African American female with a history of borderline hypertension and a family history of Type 2 Diabetes, presenting with symptoms of headaches and dizziness likely secondary to uncontrolled hypertension. Additional contributing factors include a high-sodium diet, sedentary lifestyle, smoking, and limited sleep. There is also mild edema in the lower extremities.
+
+**4. Plan:**
+- **Medications:**
+  - Start Hydrochlorothiazide 25 mg, oral, once daily, 30 tablets with one refill to help manage blood pressure.
+  
+- **Lifestyle Modifications:**
+  - Emphasize the importance of dietary changes to reduce sodium intake and encourage consumption of fresh produce when possible.
+  - Educate about the benefits of regular physical activity, aiming for at least 30 minutes of moderate exercise most days of the week.
+  - Encourage smoking cessation and provide resources for support, such as counseling or smoking cessation programs.
+  - Advise reducing alcohol consumption.
+
+- **Referrals:**
+  - Refer to Jane Doe, RD, for nutritional counseling to better manage blood pressure and weight.
+  
+- **Follow-Up:**
+  - Schedule a follow-up appointment in six weeks to monitor blood pressure and review test results.
+
+- **Patient Education and Support:**
+  - Provide educational materials tailored to low health literacy, focusing on the understanding and management of hypertension.
+  - Discuss stress management techniques and consider referral to a mental health professional if stress and anxiety persist.
+
+- **Community Support:**
+  - Highlight available community health resources and support groups to assist with dietary changes and lifestyle modifications.
+
+By addressing these factors, we aim to achieve better blood pressure control and overall health improvement for the patient. The patient understands and agrees with the treatment plan."|"**1. Subjective:**
+The patient, named Mary Johnson, is a 60-year-old African American female who presents for an initial consultation at the Community Health Clinic for blood pressure management. She reports experiencing occasional headaches and dizziness over the past month, with moderate severity. These symptoms occur 2-3 times a week and are characterized by a throbbing pain that makes it difficult for her to perform tasks at work. The patient has a history of borderline hypertension and a family history of Type 2 Diabetes (mother). Currently, she is not on any hypertension medication but uses over-the-counter antihistamines for seasonal allergies. She has no drug allergies.
+
+The patient self-reports sleeping 5-6 hours a night and often feels tired. Her diet is high in processed foods and salt, and she rarely exercises. She smokes half a pack of cigarettes per day and consumes alcohol twice a week. She has no history of drug use. The patient enjoys watching TV and socializing at a local bar.
+
+**2. Objective:**
+- Vital Signs: Blood pressure is 155/100 mmHg, heart rate is 88 bpm, respiratory rate is 20 breaths/min.
+- General: Signs of stress and anxiety are observed.
+- Cardiovascular: Mild edema in the lower extremities.
+- Respiratory: Unremarkable.
+- Gastrointestinal: Unremarkable.
+- Musculoskeletal: Unremarkable.
+- BMI: 32.
+
+**3. Assessment:**
+The patient is a 60-year-old African American female with a history of borderline hypertension and a family history of Type 2 Diabetes, presenting with symptoms of headaches and dizziness likely secondary to uncontrolled hypertension. Additional contributing factors include a high-sodium diet, sedentary lifestyle, smoking, and limited sleep. There is also mild edema in the lower extremities.
+
+**4. Plan:**
+- **Medications:**
+  - Start Hydrochlorothiazide 25 mg, oral, once daily, 30 tablets with one refill to help manage blood pressure.
+  
+- **Lifestyle Modifications:**
+  - Emphasize the importance of dietary changes to reduce sodium intake and encourage consumption of fresh produce when possible.
+  - Educate about the benefits of regular physical activity, aiming for at least 30 minutes of moderate exercise most days of the week.
+  - Encourage smoking cessation and provide resources for support, such as counseling or smoking cessation programs.
+  - Advise reducing alcohol consumption.
+
+- **Referrals:**
+  - Refer to Jane Doe, RD, for nutritional counseling to better manage blood pressure and weight.
+  
+- **Follow-Up:**
+  - Schedule a follow-up appointment in six weeks to monitor blood pressure and review test results.
+
+- **Patient Education and Support:**
+  - Provide educational materials tailored to low health literacy, focusing on the understanding and management of hypertension.
+  - Discuss stress management techniques and consider referral to a mental health professional if stress and anxiety persist.
+
+- **Community Support:**
+  - Highlight available community health resources and support groups to assist with dietary changes and lifestyle modifications.
+
+- **Scheduled Investigations:**
+  - Routine blood work including complete blood count (CBC), basic metabolic panel (BMP), lipid profile, and urinalysis. Results are awaited.
+
+By addressing these factors, we aim to achieve better blood pressure control and overall health improvement for the patient. The patient understands and agrees with the treatment plan."|Family Medicine Physician|"**CHIEF COMPLAINT**
+
+Headaches and dizziness.
+
+**HISTORY OF PRESENT ILLNESS**
+
+Doctor: Good morning, how can I help you today?
+
+Patient: Good morning, doctor. I've been having headaches and feeling dizzy for the past month.
+
+Doctor: I'm sorry to hear that. How often do these symptoms occur?
+
+Patient: They happen about 2-3 times a week.
+
+Doctor: Could you describe the headaches for me? Are they constant or come and go?
+
+Patient: They come and go, but when they do, it's a throbbing pain.
+
+Doctor: Does this pain make it difficult for you to perform tasks, especially at work?
+
+Patient: Yes, it does. It really makes it hard to concentrate.
+
+Doctor: Have you noticed any other symptoms when you have these headaches and dizziness?
+
+Patient: Not really, just the headaches and dizziness.
+
+Doctor: Do you have any known medical conditions?
+
+Patient: I have borderline hypertension.
+
+Doctor: Do you have any family medical history that we should be aware of?
+
+Patient: Yes, my mother had Type 2 Diabetes.
+
+Doctor: Are you currently on any medications for your hypertension?
+
+Patient: No, I'm not taking anything for it right now.
+
+Doctor: Have you taken any over-the-counter medications recently?
+
+Patient: Yes, I take antihistamines for my seasonal allergies.
+
+Doctor: Do you have any drug allergies?
+
+Patient: No, I don't have any drug allergies.
+
+Doctor: How many hours do you sleep each night?
+
+Patient: I usually sleep about 5-6 hours a night.
+
+Doctor: Do you often feel tired during the day?
+
+Patient: Yes, I often feel tired.
+
+Doctor: Can you describe your diet for me?
+
+Patient: I eat a lot of processed foods and salty snacks.
+
+Doctor: How often do you exercise?
+
+Patient: I rarely exercise.
+
+Doctor: Do you smoke or use any other tobacco products?
+
+Patient: I smoke about half a pack of cigarettes a day.
+
+Doctor: Do you drink alcohol?
+
+Patient: Yes, I drink alcohol twice a week.
+
+Doctor: Have you ever used any recreational drugs?
+
+Patient: No, I have never used drugs.
+
+Doctor: What do you enjoy doing in your free time?
+
+Patient: I like watching TV and socializing at a local bar.
+
+**REVIEW OF SYSTEMS**
+
+Doctor: Besides the headaches and dizziness, have you experienced any other symptoms like chest pain, shortness of breath, nausea, or vomiting?
+
+Patient: No, just the headaches and dizziness.
+
+Doctor: Any issues with your vision or hearing?
+
+Patient: No, my vision and hearing are fine.
+
+Doctor: Any recent weight changes?
+
+Patient: No, my weight has been stable.
+
+Doctor: Any problems with your appetite or digestion?
+
+Patient: No, everything seems normal.
+
+Doctor: Any pain or swelling in your joints or muscles?
+
+Patient: No, nothing out of the ordinary.
+
+**PHYSICAL EXAMINATION**
+
+Doctor: Let's check your vital signs. Your blood pressure is 155/100 mmHg, heart rate is 88 bpm, and respiratory rate is 20 breaths/min. You have a BMI of 32. I see signs of stress and anxiety.
+
+Patient: Oh, that's high, isn't it?
+
+Doctor: Yes, it is. Let's also take a look at your cardiovascular and respiratory systems.
+
+Doctor: There is mild edema in the lower extremities, but your respiratory and gastrointestinal exams are unremarkable. Your musculoskeletal exam is also unremarkable.
+
+Patient: Okay.
+
+**ASSESSMENT**
+
+Doctor: Based on your symptoms and examination, it looks like your headaches and dizziness are likely due to uncontrolled hypertension. Your diet, sedentary lifestyle, smoking, and limited sleep might be contributing to your high blood pressure. We also noted mild edema in your lower extremities.
+
+Patient: That makes sense. What should I do?
+
+**PLAN**
+
+Doctor: We'll start with a few steps to help manage your blood pressure.
+
+Doctor: First, we'll start you on Hydrochlorothiazide 25 mg, oral, once daily. I'll prescribe 30 tablets with one refill.
+
+Patient: Okay, thank you.
+
+Doctor: Next, we need to make some lifestyle changes. Reducing sodium intake and eating more fresh produce will be important. Regular physical activity is also essential. Aim for at least 30 minutes of moderate exercise most days of the week.
+
+Patient: That sounds doable.
+
+Doctor: It's also crucial that you stop smoking. I can provide resources for smoking cessation programs and counseling.
+
+Patient: I've been meaning to quit. I'll give it a try.
+
+Doctor: Reducing your alcohol intake will also help manage your blood pressure.
+
+Patient: I'll cut back on that too.
+
+Doctor: I'll refer you to Jane Doe, RD, for nutritional counseling to better manage your blood pressure and weight.
+
+Patient: That sounds helpful.
+
+Doctor: We'll schedule a follow-up appointment in six weeks to monitor your blood pressure and review your test results.
+
+Patient: Okay, I'll be here.
+
+Doctor: I'll also provide you with educational materials tailored to low health literacy, focusing on understanding and managing hypertension. We'll discuss stress management techniques and consider a referral to a mental health professional if your stress and anxiety persist.
+
+Patient: That sounds like a good plan.
+
+Doctor: Additionally, I'll highlight available community health resources and support groups to assist with dietary changes and lifestyle modifications.
+
+Patient: I appreciate that.
+
+Doctor: By addressing these factors, we aim to achieve better blood pressure control and overall health improvement for you. Do you have any questions or concerns?
+
+Patient: No, I understand everything. Thank you, doctor.
+
+Doctor: You're welcome. It was good meeting you. I'll see you in six weeks for your follow-up appointment.
+
+Patient: Thank you. See you then.
+
+**Patient Agreements:**
+
+Doctor: Please note that the patient understands and agrees with the recommended medical treatment plan."|"**CHIEF COMPLAINT**
+
+Headaches and dizziness.
+
+**HISTORY OF PRESENT ILLNESS**
+
+Doctor: Good morning, how can I help you today?
+
+Patient: Good morning, doctor. I've been having headaches and feeling dizzy for the past month.
+
+Doctor: I'm sorry to hear that. How often do these symptoms occur?
+
+Patient: They happen about 2-3 times a week.
+
+Doctor: Could you describe the headaches for me? Are they constant or come and go?
+
+Patient: They come and go, but when they do, it's a throbbing pain.
+
+Doctor: Does this pain make it difficult for you to perform tasks, especially at work?
+
+Patient: Yes, it does. It really makes it hard to concentrate.
+
+Doctor: Have you noticed any other symptoms when you have these headaches and dizziness?
+
+Patient: Not really, just the headaches and dizziness.
+
+Doctor: Do you have any known medical conditions?
+
+Patient: I have borderline hypertension.
+
+Doctor: Do you have any family medical history that we should be aware of?
+
+Patient: Yes, my mother had Type 2 Diabetes.
+
+Doctor: Are you currently on any medications for your hypertension?
+
+Patient: No, I'm not taking anything for it right now.
+
+Doctor: Have you taken any over-the-counter medications recently?
+
+Patient: Yes, I take antihistamines for my seasonal allergies.
+
+Doctor: Do you have any drug allergies?
+
+Patient: No, I don't have any drug allergies.
+
+Doctor: How many hours do you sleep each night?
+
+Patient: I usually sleep about 5-6 hours a night.
+
+Doctor: Do you often feel tired during the day?
+
+Patient: Yes, I often feel tired.
+
+Doctor: Can you describe your diet for me?
+
+Patient: I eat a lot of processed foods and salty snacks.
+
+Doctor: How often do you exercise?
+
+Patient: I rarely exercise.
+
+Doctor: Do you smoke or use any other tobacco products?
+
+Patient: I smoke about half a pack of cigarettes a day.
+
+Doctor: Do you drink alcohol?
+
+Patient: Yes, I drink alcohol twice a week.
+
+Doctor: Have you ever used any recreational drugs?
+
+Patient: No, I have never used drugs.
+
+Doctor: What do you enjoy doing in your free time?
+
+Patient: I like watching TV and socializing at a local bar.
+
+**REVIEW OF SYSTEMS**
+
+Doctor: Besides the headaches and dizziness, have you experienced any other symptoms like chest pain, shortness of breath, nausea, or vomiting?
+
+Patient: No, just the headaches and dizziness.
+
+Doctor: Any issues with your vision or hearing?
+
+Patient: No, my vision and hearing are fine.
+
+Doctor: Any recent weight changes?
+
+Patient: No, my weight has been stable.
+
+Doctor: Any problems with your appetite or digestion?
+
+Patient: No, everything seems normal.
+
+Doctor: Any pain or swelling in your joints or muscles?
+
+Patient: No, nothing out of the ordinary.
+
+**PHYSICAL EXAMINATION**
+
+Doctor: Let's check your vital signs. Your blood pressure is 155/100 mmHg, heart rate is 88 bpm, and respiratory rate is 20 breaths/min. You have a BMI of 32. I see signs of stress and anxiety.
+
+Patient: Oh, that's high, isn't it?
+
+Doctor: Yes, it is. Let's also take a look at your cardiovascular and respiratory systems.
+
+Doctor: There is mild edema in the lower extremities, but your respiratory and gastrointestinal exams are unremarkable. Your musculoskeletal exam is also unremarkable.
+
+Patient: Okay.
+
+**ASSESSMENT**
+
+Doctor: Based on your symptoms and examination, it looks like your headaches and dizziness are likely due to uncontrolled hypertension. Your diet, sedentary lifestyle, smoking, and limited sleep might be contributing to your high blood pressure. We also noted mild edema in your lower extremities.
+
+Patient: That makes sense. What should I do?
+
+**PLAN**
+
+Doctor: We'll start with a few steps to help manage your blood pressure.
+
+Doctor: First, we'll start you on Hydrochlorothiazide 25 mg, oral, once daily. I'll prescribe 30 tablets with one refill.
+
+Patient: Okay, thank you.
+
+Doctor: Next, we need to make some lifestyle changes. Reducing sodium intake and eating more fresh produce will be important. Regular physical activity is also essential. Aim for at least 30 minutes of moderate exercise most days of the week.
+
+Patient: That sounds doable.
+
+Doctor: It's also crucial that you stop smoking. I can provide resources for smoking cessation programs and counseling.
+
+Patient: I've been meaning to quit. I'll give it a try.
+
+Doctor: Reducing your alcohol intake will also help manage your blood pressure.
+
+Patient: I'll cut back on that too.
+
+Doctor: I'll refer you to Jane Doe, RD, for nutritional counseling to better manage your blood pressure and weight.
+
+Patient: That sounds helpful.
+
+Doctor: We'll schedule a follow-up appointment in six weeks to monitor your blood pressure and review your test results.
+
+Patient: Okay, I'll be here.
+
+Doctor: I'll also provide you with educational materials tailored to low health literacy, focusing on understanding and managing hypertension. We'll discuss stress management techniques and consider a referral to a mental health professional if your stress and anxiety persist.
+
+Patient: That sounds like a good plan.
+
+Doctor: Additionally, I'll highlight available community health resources and support groups to assist with dietary changes and lifestyle modifications.
+
+Patient: I appreciate that.
+
+Doctor: By addressing these factors, we aim to achieve better blood pressure control and overall health improvement for you. Do you have any questions or concerns?
+
+Patient: No, I understand everything. Thank you, doctor.
+
+Doctor: You're welcome. It was good meeting you. I'll see you in six weeks for your follow-up appointment.
+
+Patient: Thank you. See you then.
+
+**Patient Agreements:**
+
+Doctor: Please note that the patient understands and agrees with the recommended medical treatment plan.
+
+"
+ENCOUNTER FOR GENERAL ADULT MEDICAL EXAMINATION WITHOUT ABNORMAL FINDINGS|"ROLE: Family Medicine Physician
+
+** 1) Medical Outcome:**
+   - Diagnosis: Encounter for general adult medical examination without abnormal findings.
+   - Preventive Health Screening: Routine blood work (CBC, Lipid Panel, Basic Metabolic Panel).
+   - Lifestyle advice: Increase physical activity and dietary changes.
+   - Follow-up Recommendations: Annual check-up.
+
+** 2) Medical History:**
+   - Previous Diagnoses: Asthma, seasonal allergies.
+   - Family Medical History: Father had hypertension, mother has osteoarthritis.
+   - Medication History: Albuterol inhaler as needed for asthma, over-the-counter antihistamine for allergies.
+   - Allergies: Pollen.
+   - Chronic Conditions: Asthma.
+
+** 3) Symptom Description:**
+   - Severity: None at this time.
+   - Duration: NA.
+   - Associated Symptoms: NA.
+   - Frequency: NA.
+   - Impact on Daily Activities: NA.
+
+** 4) Patient’s self-reported habits and lifestyle:**
+   - Sleep: 7-8 hours per night.
+   - Diet: Balanced diet with occasional fast food.
+   - Exercise: Regular running, 4 times a week.
+   - Tobacco Use: Never smoked.
+   - Alcohol Consumption: Drinks a glass of wine once a week. 
+   - Drug Use: NA.
+   - Recreational Activities: Enjoys running marathons and hiking.
+
+** 5) Demographic Information:**
+   - Age: 28
+   - Gender: Female
+   - Ethnicity: Asian
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: High
+   - Job Status: Full-time employed as a marketing specialist
+
+** 6) Patient's Behavior:**
+   - Highly cooperative and proactive about health.
+
+** 7) Geographical Location:**
+   - Urban
+   - Neighborhood Type: Affluent, well-served by public transit.
+
+** 8) Clinical Setting:**
+   - Private Practice
+
+** 9) Type of Encounter:**
+   - Routine Check-up
+
+** 10) Treatment Disparities:**
+   - No known treatment disparities.
+
+** 11) Native or Non-Native English Speaking Patient:**
+   - Native English Speaking Patient.
+
+** 12) Physical exams:**
+   - NA (No physical abnormalities to note).
+
+** 13) Investigation/Test results:**
+   - Routine blood tests (awaiting results)."|"#####
+CHIEF COMPLAINT
+Routine general adult medical examination.
+
+HISTORY OF PRESENT ILLNESS
+Anna Lee is a 28-year-old Asian female who presents today for a routine annual check-up. She reports no current complaints or symptoms. She has a history of asthma, well-controlled with an albuterol inhaler as needed, and seasonal allergies managed with over-the-counter antihistamines. Her asthma and allergies are both stable, with no recent exacerbations.
+
+MEDICAL HISTORY
+- Asthma, managed with albuterol inhaler as needed.
+- Seasonal allergies, managed with over-the-counter antihistamines.
+- Allergic to pollen.
+
+FAMILY MEDICAL HISTORY
+- Father: Hypertension.
+- Mother: Osteoarthritis.
+
+SOCIAL HISTORY
+- Exercise: Regular running, 4 times a week; enjoys running marathons and hiking.
+- Diet: Balanced diet with occasional fast food.
+- Sleep: 7-8 hours per night.
+- Tobacco Use: Never smoked.
+- Alcohol Consumption: One glass of wine once a week.
+- Recreational Activities: Running marathons, hiking.
+- Job: Full-time employed as a marketing specialist.
+
+REVIEW OF SYSTEMS
+- General: No weight loss, fever, or fatigue.
+- Respiratory: No wheezing, shortness of breath, or cough.
+- Cardiovascular: No chest pain or palpitations.
+- Gastrointestinal: No abdominal pain, nausea, or changes in bowel habits.
+- Musculoskeletal: No joint pain or swelling.
+- Neurological: No headaches or dizziness.
+- Skin: No rashes or lesions.
+
+PHYSICAL EXAM
+- VITAL SIGNS: Blood pressure 120/80 mmHg; Heart rate 72 bpm; Respiratory rate 16 breaths per minute; Temperature 98.6°F.
+- GENERAL: Alert and oriented, in no apparent distress.
+- HEENT: Normocephalic, atraumatic. Oropharynx clear.
+- NECK: No lymphadenopathy or thyromegaly.
+- CARDIOVASCULAR: Heart sounds normal, no murmurs, rubs, or gallops.
+- RESPIRATORY: Lungs clear to auscultation bilaterally, no wheezing or crackles.
+- ABDOMEN: Soft, non-tender, no hepatosplenomegaly.
+- EXTREMITIES: No edema, good capillary refill.
+- NEUROLOGICAL: Cranial nerves II-XII intact, no focal deficits.
+
+ASSESSMENT
+Encounter for general adult medical examination without abnormal findings. Routine preventive health maintenance visit.
+
+PLAN
+1. Preventive Health Screening:
+   - Ordered routine blood work: Complete Blood Count (CBC), Lipid Panel, Basic Metabolic Panel.
+2. Lifestyle Advice:
+   - Encourage increased physical activity; suggested incorporating strength training exercises.
+   - Advised dietary changes to include more fruits and vegetables, limit fast food intake.
+3. Follow-Up Recommendations:
+   - Annual check-up.
+   - Will review blood test results once available and notify the patient of any findings.
+4. Asthma Management:
+   - Continue current use of albuterol inhaler as needed.
+5. Allergies Management:
+   - Continue over-the-counter antihistamines as needed.
+
+The patient understands and agrees with the plan. All questions were addressed to her satisfaction.
+
+INSTRUCTIONS
+- Follow up in one year for the next routine check-up or sooner if any health concerns arise.
+- Will contact the patient with blood test results and any necessary follow-up actions.
+#####
+"|"#####
+**1. Subjective:**
+Anna Lee is a 28-year-old Asian female who presents today for a routine annual check-up. She reports no current complaints or symptoms. She has a history of asthma, well-controlled with an albuterol inhaler as needed, and seasonal allergies managed with over-the-counter antihistamines. Her asthma and allergies are both stable, with no recent exacerbations.
+
+**2. Objective:**
+- VITAL SIGNS: Blood pressure 120/80 mmHg; Heart rate 72 bpm; Respiratory rate 16 breaths per minute; Temperature 98.6°F.
+- GENERAL: Alert and oriented, in no apparent distress.
+- HEENT: Normocephalic, atraumatic. Oropharynx clear.
+- NECK: No lymphadenopathy or thyromegaly.
+- CARDIOVASCULAR: Heart sounds normal, no murmurs, rubs, or gallops.
+- RESPIRATORY: Lungs clear to auscultation bilaterally, no wheezing or crackles.
+- ABDOMEN: Soft, non-tender, no hepatosplenomegaly.
+- EXTREMITIES: No edema, good capillary refill.
+- NEUROLOGICAL: Cranial nerves II-XII intact, no focal deficits.
+
+**3. Assessment:**
+Encounter for general adult medical examination without abnormal findings. Routine preventive health maintenance visit.
+
+**4. Plan:**
+1. Preventive Health Screening:
+   - Ordered routine blood work: Complete Blood Count (CBC), Lipid Panel, Basic Metabolic Panel.
+2. Lifestyle Advice:
+   - Encourage increased physical activity; suggested incorporating strength training exercises.
+   - Advised dietary changes to include more fruits and vegetables, limit fast food intake.
+3. Follow-Up Recommendations:
+   - Annual check-up.
+   - Will review blood test results once available and notify the patient of any findings.
+4. Asthma Management:
+   - Continue current use of albuterol inhaler as needed.
+5. Allergies Management:
+   - Continue over-the-counter antihistamines as needed.
+
+The patient understands and agrees with the plan. All questions were addressed to her satisfaction.
+
+**INSTRUCTIONS:**
+- Follow up in one year for the next routine check-up or sooner if any health concerns arise.
+- Will contact the patient with blood test results and any necessary follow-up actions.
+#####"|Family Medicine Physician|"```markdown
+[doctor] Hi Anna, how are you doing today?
+
+[patient] Hi, I'm doing well. How about you?
+
+[doctor] I'm doing great, thank you. So, I see you're here for your routine annual check-up. Do you have any current complaints or symptoms?
+
+[patient] No, everything seems fine.
+
+[doctor] Good to hear. Can you tell me about your medical history?
+
+[patient] Sure. I have asthma, which I manage with an albuterol inhaler as needed, and I also have seasonal allergies. I take over-the-counter antihistamines for those.
+
+[doctor] Okay, and how are your asthma and allergies doing lately?
+
+[patient] They’re both stable. I haven’t had any recent flare-ups.
+
+[doctor] That’s great. Could you hand me your medical history record?
+
+[patient] Here you are.
+
+[doctor] Thank you. Based on your records, you have asthma managed with an albuterol inhaler as needed and seasonal allergies managed with over-the-counter antihistamines. Is that correct?
+
+[patient] Yes, that’s right.
+
+[doctor] And you’re allergic to pollen, correct?
+
+[patient] Yes, that’s my main trigger.
+
+[doctor] Understood. How about your family’s medical history? Any significant issues?
+
+[patient] My father has hypertension, and my mother has osteoarthritis.
+
+[doctor] Thank you for sharing that. Now, let’s talk about your social history. How often do you exercise?
+
+[patient] I run regularly, about four times a week. I enjoy running marathons and hiking.
+
+[doctor] That’s wonderful. How’s your diet?
+
+[patient] I try to keep a balanced diet, but I do indulge in fast food occasionally.
+
+[doctor] What about your sleep? Are you getting enough rest?
+
+[patient] Yes, I usually get about 7 to 8 hours of sleep per night.
+
+[doctor] Good to know. Do you smoke or use tobacco in any form?
+
+[patient] No, I’ve never smoked.
+
+[doctor] How about alcohol? Do you drink?
+
+[patient] I have one glass of wine once a week.
+
+[doctor] Okay, and what do you do for fun?
+
+[patient] I love running marathons and hiking.
+
+[doctor] That sounds like a lot of fun. What about your job? What do you do for a living?
+
+[patient] I’m a full-time marketing specialist.
+
+[doctor] Great. Let’s go through a quick review of systems. Any recent weight loss, fever, or fatigue?
+
+[patient] No, none of that.
+
+[doctor] Any wheezing, shortness of breath, or cough?
+
+[patient] No.
+
+[doctor] Chest pain or palpitations?
+
+[patient] No.
+
+[doctor] How about abdominal pain, nausea, or changes in bowel habits?
+
+[patient] No, everything’s normal there.
+
+[doctor] Any joint pain or swelling?
+
+[patient] No.
+
+[doctor] Any headaches or dizziness?
+
+[patient] No.
+
+[doctor] Any rashes or lesions on your skin?
+
+[patient] No, my skin is fine.
+
+[doctor] Excellent. Let’s move on to the physical exam. Your vital signs look good today. Your blood pressure is 120/80 mmHg, heart rate is 72 bpm, respiratory rate is 16 breaths per minute, and your temperature is 98.6°F.
+
+[patient] That’s good to know.
+
+[doctor] You’re alert and oriented, in no apparent distress. Let’s check your head, ears, eyes, nose, and throat. Everything looks normal. Your neck is fine too, no lymphadenopathy or thyromegaly.
+
+[patient] Great.
+
+[doctor] Your heart sounds normal, no murmurs, rubs, or gallops. Your lungs are clear to auscultation bilaterally, no wheezing or crackles.
+
+[patient] That’s a relief.
+
+[doctor] Your abdomen is soft and non-tender, no hepatosplenomegaly. Your extremities show no edema, and you have good capillary refill. Your neurological exam is also normal; cranial nerves II-XII are intact, and there are no focal deficits.
+
+[patient] Sounds good.
+
+[doctor] So, my assessment is that this is a routine general adult medical examination without abnormal findings. This is just a routine preventive health maintenance visit.
+
+[patient] That’s what I was hoping for.
+
+[doctor] For your plan, we’ll go ahead and do some preventive health screening. I’ll order routine blood work including a Complete Blood Count (CBC), Lipid Panel, and Basic Metabolic Panel.
+
+[patient] Okay, that sounds good.
+
+[doctor] I also want to encourage you to increase your physical activity by incorporating some strength training exercises. What do you think about that?
+
+[patient] I think I can do that.
+
+[doctor] Great. I’d also recommend some dietary changes to include more fruits and vegetables and to limit your fast food intake.
+
+[patient] I’ll try to work on that.
+
+[doctor] For your asthma, continue using your albuterol inhaler as needed. For your allergies, continue taking over-the-counter antihistamines as needed.
+
+[patient] Will do.
+
+[doctor] We’ll follow up in one year for your next routine check-up, but feel free to come in sooner if any health concerns arise.
+
+[patient] Okay, will do.
+
+[doctor] I’ll contact you with the results of your blood tests and let you know if any follow-up actions are necessary.
+
+[patient] Sounds good.
+
+[doctor] Do you have any questions for me today?
+
+[patient] No, I think I’m all set.
+
+[doctor] Great. Well, it was nice seeing you, Anna. Have a wonderful day!
+
+[patient] You too, thank you!
+```"|"[doctor] Hi Anna, how are you doing today?
+
+[patient] Hi, I'm doing well. How about you?
+
+[doctor] I'm doing great, thank you. So, I see you're here for your routine annual check-up. Do you have any current complaints or symptoms?
+
+[patient] No, everything seems fine.
+
+[doctor] Good to hear. Can you tell me about your medical history?
+
+[patient] Sure. I have asthma, which I manage with an albuterol inhaler as needed, and I also have seasonal allergies. I take over-the-counter antihistamines for those.
+
+[doctor] Okay, and how are your asthma and allergies doing lately?
+
+[patient] They’re both stable. I haven’t had any recent flare-ups.
+
+[doctor] That’s great. Could you hand me your medical history record?
+
+[patient] Here you are.
+
+[doctor] Thank you. Based on your records, you have asthma managed with an albuterol inhaler as needed and seasonal allergies managed with over-the-counter antihistamines. Is that correct?
+
+[patient] Yes, that’s right.
+
+[doctor] And you’re allergic to pollen, correct?
+
+[patient] Yes, that’s my main trigger.
+
+[doctor] Understood. How about your family’s medical history? Any significant issues?
+
+[patient] My father has hypertension, and my mother has osteoarthritis.
+
+[doctor] Thank you for sharing that. Now, let’s talk about your social history. How often do you exercise?
+
+[patient] I run regularly, about four times a week. I enjoy running marathons and hiking.
+
+[doctor] That’s wonderful. How’s your diet?
+
+[patient] I try to keep a balanced diet, but I do indulge in fast food occasionally.
+
+[doctor] What about your sleep? Are you getting enough rest?
+
+[patient] Yes, I usually get about 7 to 8 hours of sleep per night.
+
+[doctor] Good to know. Do you smoke or use tobacco in any form?
+
+[patient] No, I’ve never smoked.
+
+[doctor] How about alcohol? Do you drink?
+
+[patient] I have one glass of wine once a week.
+
+[doctor] Okay, and what do you do for fun?
+
+[patient] I love running marathons and hiking.
+
+[doctor] That sounds like a lot of fun. What about your job? What do you do for a living?
+
+[patient] I’m a full-time marketing specialist.
+
+[doctor] Great. Let’s go through a quick review of systems. Any recent weight loss, fever, or fatigue?
+
+[patient] No, none of that.
+
+[doctor] Any wheezing, shortness of breath, or cough?
+
+[patient] No.
+
+[doctor] Chest pain or palpitations?
+
+[patient] No.
+
+[doctor] How about abdominal pain, nausea, or changes in bowel habits?
+
+[patient] No, everything’s normal there.
+
+[doctor] Any joint pain or swelling?
+
+[patient] No.
+
+[doctor] Any headaches or dizziness?
+
+[patient] No.
+
+[doctor] Any rashes or lesions on your skin?
+
+[patient] No, my skin is fine.
+
+[doctor] Excellent. Let’s move on to the physical exam. Your vital signs look good today. Your blood pressure is 120/80 mmHg, heart rate is 72 bpm, respiratory rate is 16 breaths per minute, and your temperature is 98.6°F.
+
+[patient] That’s good to know.
+
+[doctor] You’re alert and oriented, in no apparent distress. Let’s check your head, ears, eyes, nose, and throat. Everything looks normal. Your neck is fine too, no lymphadenopathy or thyromegaly.
+
+[patient] Great.
+
+[doctor] Your heart sounds normal, no murmurs, rubs, or gallops. Your lungs are clear to auscultation bilaterally, no wheezing or crackles.
+
+[patient] That’s a relief.
+
+[doctor] Your abdomen is soft and non-tender, no hepatosplenomegaly. Your extremities show no edema, and you have good capillary refill. Your neurological exam is also normal; cranial nerves II-XII are intact, and there are no focal deficits.
+
+[patient] Sounds good.
+
+[doctor] So, my assessment is that this is a routine general adult medical examination without abnormal findings. This is just a routine preventive health maintenance visit.
+
+[patient] That’s what I was hoping for.
+
+[doctor] For your plan, we’ll go ahead and do some preventive health screening. I’ll order routine blood work including a Complete Blood Count (CBC), Lipid Panel, and Basic Metabolic Panel.
+
+[patient] Okay, that sounds good.
+
+[doctor] I also want to encourage you to increase your physical activity by incorporating some strength training exercises. What do you think about that?
+
+[patient] I think I can do that.
+
+[doctor] Great. I’d also recommend some dietary changes to include more fruits and vegetables and to limit your fast food intake.
+
+[patient] I’ll try to work on that.
+
+[doctor] For your asthma, continue using your albuterol inhaler as needed. For your allergies, continue taking over-the-counter antihistamines as needed.
+
+[patient] Will do.
+
+[doctor] We’ll follow up in one year for your next routine check-up, but feel free to come in sooner if any health concerns arise.
+
+[patient] Okay, will do.
+
+[doctor] I’ll contact you with the results of your blood tests and let you know if any follow-up actions are necessary.
+
+[patient] Sounds good.
+
+[doctor] Do you have any questions for me today?
+
+[patient] No, I think I’m all set.
+
+[doctor] Great. Well, it was nice seeing you, Anna. Have a wonderful day!
+
+[patient] You too, thank you!"
+ENCOUNTER FOR GENERAL ADULT MEDICAL EXAMINATION WITHOUT ABNORMAL FINDINGS|"ROLE: Family Medicine Physician
+
+Variable Values:
+
+- **Medical Outcome:**
+  - Diagnosis: (ICD-10 code Z00.00) Encounter for general adult medical examination without abnormal findings
+  - Follow-up recommendations: Routine annual check-up in one year, colonoscopy referral for colorectal cancer screening
+  - Lifestyle change: Encouraged to increase physical activity to 5 times a week, advised to reduce sodium intake due to borderline high blood pressure
+
+- **Medical History:**
+  - Previous Diagnoses: Hyperlipidemia
+  - Family Medical History: Father had cardiovascular disease, mother had breast cancer
+  - Medication History: Statin for hyperlipidemia
+  - Allergies: Penicillin
+  - Chronic Conditions: Borderline hypertension
+
+- **Symptom Description:**
+  - NA (no symptoms as it is a preventive health screening)
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: Reports sleep of 6 hours per night, feels it is insufficient
+  - Diet: Diet includes high intake of processed foods
+  - Exercise: Does infrequent physical activity, exercises once a week
+  - Tobacco Use: Occasionally smokes socially on weekends
+  - Alcohol Consumption: Consumes 4-5 drinks per week
+  - Drug Use: Occasional marijuana use
+  - Recreational Activities: Enjoys gardening and hiking
+
+- **Demographic Information:**
+  - Age: 55
+  - Gender: Male
+  - Ethnicity: Hispanic
+  - Socio-economic Status: Lower-middle class
+  - Education Level: High school graduate
+  - Health Literacy: Moderate
+  - Job Status: Factory worker
+
+- **Patient's Behavior:**
+  - Mostly cooperative, concerns about medical costs affecting compliance
+
+- **Geographical Location:**
+  - Big City vs Small City: Small city
+  - Pollution and Environmental Health Risks: Low pollution, fairly good environmental health conditions
+  - Neighborhood Type: Working-class, food desert
+
+- **Clinical Setting:**
+  - Community health clinic
+
+- **Type of Encounter:**
+  - Preventive Health Screening
+
+- **Treatment Disparities:**
+  - Potential disparity due to economic concerns, patient has basic insurance with high copays
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English speaking
+
+- **Physical exams:**
+  - General physical examination: Normal except for BP
+  - BMI: 28 (Overweight)
+  - Blood pressure: 130/85 mmHg (Borderline high)
+  - Heart rate: 75 bpm (Regular)
+
+- **Investigation/Test results:**
+  - Basic blood work ordered: CBC, lipid profile, fasting blood glucose, awaiting results
+  - ECG: Normal results"|"#####
+**1. Subjective:**
+
+The patient is a 55-year-old Hispanic male presenting for his routine preventive health screening. He reports no current symptoms or acute complaints but expresses concern about sleep insufficiency and the costs of medical care. The patient notes he sleeps approximately 6 hours per night, which he feels is inadequate. His diet consists largely of processed foods, and he exercises infrequently, typically only once a week. He occasionally smokes socially on weekends, consumes approximately 4-5 alcoholic drinks per week, and occasionally uses marijuana. Recreational activities include gardening and hiking, which he enjoys.
+
+Family medical history includes cardiovascular disease in his father and breast cancer in his mother. He has hyperlipidemia and is currently taking a statin. He has a documented allergy to penicillin and a chronic condition of borderline hypertension.
+
+**2. Objective:**
+
+- **General:** Alert and cooperative male, appears stated age, no acute distress.
+- **Vital Signs:**
+  - Blood pressure: 130/85 mmHg (Borderline high)
+  - Heart rate: 75 bpm (Regular)
+- **Physical Examination:**
+  - **HEENT:** Normocephalic, atraumatic, no JVD.
+  - **Cardiovascular:** Normal S1, S2, no murmurs, rubs, or gallops.
+  - **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+  - **Abdomen:** Soft, non-tender, no organomegaly.
+  - **Extremities:** No edema, pulses 2+ bilaterally.
+  - **Musculoskeletal:** No deformities or tenderness, full range of motion in all extremities.
+  - **Neurological:** Alert and oriented, cranial nerves II-XII intact.
+- **BMI:** 28 (Overweight)
+
+**3. Assessment:**
+
+- **Health Maintenance:** Routine adult medical examination without abnormal findings (ICD-10 Z00.00).
+- **Hyperlipidemia:** Currently managed on statin therapy.
+- **Borderline Hypertension:** Blood pressure currently at 130/85 mmHg.
+- **Lifestyle Concerns:** Inadequate sleep, high intake of processed foods, infrequent physical activity, occasional smoking and alcohol consumption, and occasional marijuana use.
+
+**4. Plan:**
+
+- **Routine Follow-Up:**
+  - Schedule a routine annual check-up in one year.
+  - Refer the patient for a colonoscopy to screen for colorectal cancer given his age.
+
+- **Lifestyle Modifications:**
+  - Encourage increasing physical activity to at least 5 times a week.
+  - Advise reducing sodium intake to help manage his borderline hypertension.
+  - Discuss the importance of a healthy diet and recommend reducing the intake of processed foods.
+  - Counsel on the benefits of cessation of smoking and moderation of alcohol intake.
+
+- **Medical Management:**
+  - Continue current statin therapy for hyperlipidemia.
+  - Monitor blood pressure; consider antihypertensive therapy if readings persistently elevated.
+  
+- **Behavioral Health:**
+  - Discuss strategies to improve sleep quality and duration.
+  - Offer resources for smoking cessation if the patient is interested.
+
+- **Patient Education and Support:**
+  - Acknowledge and address concerns about medical costs and compliance.
+  - Provide educational materials relevant to his conditions and lifestyle changes.
+  - Ensure the patient understands the importance of follow-up appointments and adherence to the treatment plan.
+
+- **Pending Results:**
+  - Await results from the basic blood work (CBC, lipid profile, fasting blood glucose).
+
+Patient agreements: The patient understands and agrees with the recommended medical treatment plan, including lifestyle changes and follow-up."|"#####
+**1. Subjective:**
+
+The patient, Mr. Carlos Martinez, is a 55-year-old Hispanic male presenting for his routine preventive health screening. He reports no current symptoms or acute complaints but expresses concern about sleep insufficiency and the costs of medical care. The patient notes he sleeps approximately 6 hours per night, which he feels is inadequate. His diet consists largely of processed foods, and he exercises infrequently, typically only once a week. He occasionally smokes socially on weekends, consumes approximately 4-5 alcoholic drinks per week, and occasionally uses marijuana. Recreational activities include gardening and hiking, which he enjoys.
+
+Family medical history includes cardiovascular disease in his father and breast cancer in his mother. He has hyperlipidemia and is currently taking a statin. He has a documented allergy to penicillin and a chronic condition of borderline hypertension.
+
+**2. Objective:**
+
+- **General:** Alert and cooperative male, appears stated age, no acute distress.
+- **Vital Signs:**
+  - Blood pressure: 130/85 mmHg (Borderline high)
+  - Heart rate: 75 bpm (Regular)
+- **Physical Examination:**
+  - **HEENT:** Normocephalic, atraumatic, no JVD.
+  - **Cardiovascular:** Normal S1, S2, no murmurs, rubs, or gallops.
+  - **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+  - **Abdomen:** Soft, non-tender, no organomegaly.
+  - **Extremities:** No edema, pulses 2+ bilaterally.
+  - **Musculoskeletal:** No deformities or tenderness, full range of motion in all extremities.
+  - **Neurological:** Alert and oriented, cranial nerves II-XII intact.
+- **BMI:** 28 (Overweight)
+
+**3. Assessment:**
+
+- **Health Maintenance:** Routine adult medical examination without abnormal findings (ICD-10 Z00.00).
+- **Hyperlipidemia:** Currently managed on statin therapy.
+- **Borderline Hypertension:** Blood pressure currently at 130/85 mmHg.
+- **Lifestyle Concerns:** Inadequate sleep, high intake of processed foods, infrequent physical activity, occasional smoking and alcohol consumption, and occasional marijuana use.
+
+**4. Plan:**
+
+- **Routine Follow-Up:**
+  - Schedule a routine annual check-up in one year.
+  - Refer the patient for a colonoscopy to screen for colorectal cancer given his age. Referral to Dr. Emily Johnson, Gastroenterologist, for colorectal cancer screening.
+
+- **Lifestyle Modifications:**
+  - Encourage increasing physical activity to at least 5 times a week.
+  - Advise reducing sodium intake to help manage his borderline hypertension.
+  - Discuss the importance of a healthy diet and recommend reducing the intake of processed foods.
+  - Counsel on the benefits of cessation of smoking and moderation of alcohol intake.
+
+- **Medical Management:**
+  - Continue current statin therapy for hyperlipidemia.
+  - Monitor blood pressure; consider antihypertensive therapy if readings persistently elevated.
+  
+- **Behavioral Health:**
+  - Discuss strategies to improve sleep quality and duration.
+  - Offer resources for smoking cessation if the patient is interested.
+
+- **Patient Education and Support:**
+  - Acknowledge and address concerns about medical costs and compliance.
+  - Provide educational materials relevant to his conditions and lifestyle changes.
+  - Ensure the patient understands the importance of follow-up appointments and adherence to the treatment plan.
+
+- **Pending Results:**
+  - Await results from the basic blood work (CBC, lipid profile, fasting blood glucose).
+
+Patient agreements: The patient understands and agrees with the recommended medical treatment plan, including lifestyle changes and follow-up."|Family Medicine Physician|"**Dialogue:**
+
+**[Doctor]**: Hi, Mr. Rodriguez. How are you today?
+
+**[Patient]**: Hi, Doctor. I'm doing okay, thanks. Just here for my routine check-up.
+
+**[Doctor]**: Great. I see you’re here for your routine preventive health screening. Are you experiencing any symptoms or have any acute complaints today?
+
+**[Patient]**: No, not really. Just here to make sure everything’s in order. 
+
+**[Doctor]**: Good to hear. I noticed you mentioned some concerns about sleep and the costs of medical care. Can you tell me more about your sleep issues?
+
+**[Patient]**: Yeah, I usually get about 6 hours of sleep a night. It doesn’t feel like enough. I wake up tired.
+
+**[Doctor]**: I see. And what about your diet and exercise habits?
+
+**[Patient]**: My diet is mostly processed foods, and I don’t exercise much. Maybe once a week if I’m lucky.
+
+**[Doctor]**: Okay. I also see here that you occasionally smoke socially on weekends and have about 4-5 alcoholic drinks per week. Is that correct?
+
+**[Patient]**: Yes, that’s right. And I sometimes use marijuana too, but not very often.
+
+**[Doctor]**: Understood. It’s good that you’re honest about these habits. How about recreational activities? Do you have any hobbies?
+
+**[Patient]**: I enjoy gardening and hiking when I can. It helps me relax.
+
+**[Doctor]**: Great hobbies to have. Now let’s talk about your family medical history. You have a family history of cardiovascular disease in your father and breast cancer in your mother, correct?
+
+**[Patient]**: Yes, that’s right. My dad had heart problems, and my mom had breast cancer.
+
+**[Doctor]**: Okay. And I see you have hyperlipidemia and are currently taking a statin. How is that going?
+
+**[Patient]**: It’s going fine. I take my medication as prescribed.
+
+**[Doctor]**: Good to hear. You also have a documented allergy to penicillin and a chronic condition of borderline hypertension, correct?
+
+**[Patient]**: Yes, that’s correct.
+
+**[Doctor]**: Thank you for sharing. Let's move on to the physical exam. Please take a seat. 
+
+**[Patient]**: Sure.
+
+**[Doctor]**: I see your vital signs are as follows: Blood pressure is 130/85 mmHg, which is borderline high, and your heart rate is 75 bpm. Your BMI is 28, which classifies you as overweight. How are you feeling overall?
+
+**[Patient]**: I feel okay, but I know I could be doing better with my health.
+
+**[Doctor]**: I appreciate your honesty. Let me perform the physical examination. 
+
+[Doctor performs the physical examination]
+
+**[Doctor]**: Everything seems normal on the physical exam. Your heart sounds are normal, and your lungs are clear. Your abdomen is soft and non-tender, and you have no edema in your extremities. Your neurological exam is also normal.
+
+**[Patient]**: That’s good to hear.
+
+**[Doctor]**: Now, let's talk about your plan. I recommend scheduling a routine annual check-up in one year. Given your age, I’ll refer you for a colonoscopy to screen for colorectal cancer. 
+
+**[Patient]**: Okay, sounds good.
+
+**[Doctor]**: For lifestyle modifications, I encourage you to increase your physical activity to at least 5 times a week. Reducing sodium intake will help manage your borderline hypertension. 
+
+**[Patient]**: I know I need to exercise more and eat better.
+
+**[Doctor]**: That’s a good start. Reducing your intake of processed foods and moderating alcohol consumption will also be beneficial. Have you considered smoking cessation?
+
+**[Patient]**: I’ve thought about it but haven’t taken any steps yet.
+
+**[Doctor]**: I can offer resources to help with smoking cessation if you’re interested. 
+
+**[Patient]**: That might be helpful, yes.
+
+**[Doctor]**: Great. We’ll continue your current statin therapy for hyperlipidemia and monitor your blood pressure. If your readings remain elevated, we may need to consider antihypertensive therapy. 
+
+**[Patient]**: Okay, I’ll keep an eye on my blood pressure.
+
+**[Doctor]**: Regarding your sleep issues, improving sleep quality and duration is important. We can discuss strategies to help with that. 
+
+**[Patient]**: That would be great. I’m always tired.
+
+**[Doctor]**: We’ll address that. Also, I understand your concerns about medical costs. We’ll work together to find cost-effective ways to manage your health.
+
+**[Patient]**: Thank you, I appreciate that.
+
+**[Doctor]**: Lastly, we’re awaiting results from the basic blood work, including a CBC, lipid profile, and fasting blood glucose. Once we have those results, we’ll have a better understanding of your overall health.
+
+**[Patient]**: Okay, I’ll wait for the results.
+
+**[Doctor]**: Excellent. Do you have any other questions or concerns?
+
+**[Patient]**: No, I think that covers everything.
+
+**[Doctor]**: Perfect. I’ll ensure you have all the educational materials you need and remind you of the importance of follow-up appointments and adhering to your treatment plan.
+
+**[Patient]**: Thank you, Doctor. I feel better informed.
+
+**[Doctor]**: You’re welcome. Take care, Mr. Rodriguez, and see you at your next appointment.
+
+**[Patient]**: Thanks, Doctor. Have a great day.
+
+**[Doctor]**: You too. Take care.
+
+**[Doctor]**: Hey, Dragon, finalize the note."|"Certainly! Let's expand the conversation with more colloquial language for the patient and professional details for the doctor:
+
+---
+
+**[Doctor]**: Hi, Mr. Rodriguez. How are you today?
+
+**[Patient]**: Hi, Doctor. I'm doing okay, thanks. Just here for my routine check-up.
+
+**[Doctor]**: Great. I see you’re here for your routine preventive health screening. Are you experiencing any symptoms or have any acute complaints today?
+
+**[Patient]**: No, not really. Just here to make sure everything’s in order.
+
+**[Doctor]**: Good to hear. I noticed you mentioned some concerns about sleep and the costs of medical care. Can you tell me more about your sleep issues?
+
+**[Patient]**: Yeah, I usually get about 6 hours of sleep a night. It doesn’t feel like enough. I wake up tired.
+
+**[Doctor]**: I see. And what about your diet and exercise habits?
+
+**[Patient]**: My diet is mostly processed foods, and I don’t exercise much. Maybe once a week if I’m lucky.
+
+**[Doctor]**: Okay. I also see here that you occasionally smoke socially on weekends and have about 4-5 alcoholic drinks per week. Is that correct?
+
+**[Patient]**: Yes, that’s right. And I sometimes use marijuana too, but not very often.
+
+**[Doctor]**: Understood. It’s good that you’re honest about these habits. How about recreational activities? Do you have any hobbies?
+
+**[Patient]**: I enjoy gardening and hiking when I can. It helps me relax.
+
+**[Doctor]**: Great hobbies to have. Now let’s talk about your family medical history. You have a family history of cardiovascular disease in your father and breast cancer in your mother, correct?
+
+**[Patient]**: Yes, that’s right. My dad had heart problems, and my mom had breast cancer.
+
+**[Doctor]**: Okay. And I see you have hyperlipidemia and are currently taking a statin. How is that going?
+
+**[Patient]**: It’s going fine. I take my medication as prescribed.
+
+**[Doctor]**: Good to hear. You also have a documented allergy to penicillin and a chronic condition of borderline hypertension, correct?
+
+**[Patient]**: Yes, that’s correct.
+
+**[Doctor]**: Thank you for sharing. Let's move on to the physical exam. Please take a seat.
+
+**[Patient]**: Sure.
+
+**[Doctor]**: I see your vital signs are as follows: Blood pressure is 130/85 mmHg, which is borderline high, and your heart rate is 75 bpm. Your BMI is 28, which classifies you as overweight. How are you feeling overall?
+
+**[Patient]**: I feel okay, but I know I could be doing better with my health.
+
+**[Doctor]**: I appreciate your honesty. Let me perform the physical examination.
+
+[Doctor performs the physical examination]
+
+**[Doctor]**: Everything seems normal on the physical exam. Your heart sounds are normal, and your lungs are clear. Your abdomen is soft and non-tender, and you have no edema in your extremities. Your neurological exam is also normal.
+
+**[Patient]**: That’s good to hear.
+
+**[Doctor]**: Now, let's talk about your plan. I recommend scheduling a routine annual check-up in one year. Given your age, I’ll refer you for a colonoscopy to screen for colorectal cancer.
+
+**[Patient]**: Okay, sounds good.
+
+**[Doctor]**: For lifestyle modifications, I encourage you to increase your physical activity to at least 5 times a week. Reducing sodium intake will help manage your borderline hypertension.
+
+**[Patient]**: I know I need to exercise more and eat better.
+
+**[Doctor]**: That’s a good start. Reducing your intake of processed foods and moderating alcohol consumption will also be beneficial. Have you considered smoking cessation?
+
+**[Patient]**: I’ve thought about it but haven’t taken any steps yet.
+
+**[Doctor]**: I can offer resources to help with smoking cessation if you’re interested.
+
+**[Patient]**: That might be helpful, yes.
+
+**[Doctor]**: Great. We’ll continue your current statin therapy for hyperlipidemia and monitor your blood pressure. If your readings remain elevated, we may need to consider antihypertensive therapy.
+
+**[Patient]**: Okay, I’ll keep an eye on my blood pressure.
+
+**[Doctor]**: Regarding your sleep issues, improving sleep quality and duration is important. We can discuss strategies to help with that.
+
+**[Patient]**: That would be great. I’m always tired.
+
+**[Doctor]**: We’ll address that. Also, I understand your concerns about medical costs. We’ll work together to find cost-effective ways to manage your health.
+
+**[Patient]**: Thank you, I appreciate that.
+
+**[Doctor]**: Lastly, we’re awaiting results from the basic blood work, including a CBC, lipid profile, and fasting blood glucose. Once we have those results, we’ll have a better understanding of your overall health.
+
+**[Patient]**: Okay, I’ll wait for the results.
+
+**[Doctor]**: Excellent. Do you have any other questions or concerns?
+
+**[Patient]**: No, I think that covers everything.
+
+**[Doctor]**: Perfect. I’ll ensure you have all the educational materials you need and remind you of the importance of follow-up appointments and adhering to your treatment plan.
+
+**[Patient]**: Thank you, Doctor. I feel better informed.
+
+**[Doctor]**: You’re welcome. Take care, Mr. Rodriguez, and see you at your next appointment.
+
+**[Patient]**: Thanks, Doctor. Have a great day.
+
+**[Doctor]**: You too. Take care.
+
+**[Doctor]**: Hey, Dragon, finalize the note.
+
+---
+
+This expanded dialogue includes more colloquial responses from the patient, while the doctor maintains professional medical language and details."
+ENCOUNTER FOR GENERAL ADULT MEDICAL EXAMINATION WITHOUT ABNORMAL FINDINGS|"ROLE: Family Medicine Physician
+
+Demographic Information: 
+- Age: 45 
+- Gender: Female 
+- Ethnicity: Caucasian 
+- Socio-economic Status: Middle class 
+- Education Level: Bachelor's Degree 
+- Health Literacy: High 
+- Job Status: Office job
+
+Symptom Description: 
+- Severity: N/A 
+- Duration: N/A 
+- Associated Symptoms: N/A 
+- Frequency: N/A 
+- Impact on Daily Activities: N/A
+
+Patient’s self-reported habits and lifestyle: 
+- Sleep: 7-8 hours per night, good quality 
+- Diet: Balanced diet, includes vegetables, fruits, and lean proteins, avoids fast food 
+- Exercise: Exercises 3-4 times per week, including both cardio and strength training 
+- Tobacco Use: Non-smoker 
+- Alcohol Consumption: Consumes alcohol occasionally, about 1-2 glasses of wine per week 
+- Drug Use: Denies recreational drug use 
+- Recreational Activities: Enjoys hiking and yoga
+
+Medical History: 
+- Previous Diagnoses: Hypertension, well-controlled 
+- Family Medical History: Mother has type 2 diabetes, father had myocardial infarction at age 55 
+- Medication History: Takes Lisinopril 10 mg once daily for hypertension, no other regular medications 
+- Allergies: No known drug allergies 
+- Chronic Conditions: Hypertension
+
+Patient's Behavior: 
+- Patient is highly cooperative with medical advice and follows prescribed treatments diligently
+
+Geographical Location: 
+- Urban 
+- Neighborhood Type: Affluent, well-served by transit and amenities
+
+Clinical Setting: 
+- Private Practice
+
+Type of Encounter: 
+- Routine Check-up
+
+Treatment Disparities: 
+- None noted for this scenario
+
+Native or Non-Native English Speaking Patient: 
+- Native English Speaking
+
+Physical exams: 
+- Blood Pressure: 126/78 mmHg 
+- Heart Rate: 72 bpm 
+- Respiratory Rate: 16 breaths per minute 
+- General appearance: Well-nourished, no distress
+- Cardiovascular: Normal S1, S2, no murmurs or extra sounds 
+- Respiratory: Clear to auscultation bilaterally 
+- Abdominal: Soft, non-tender, no masses or organomegaly 
+- Musculoskeletal: Full range of motion, no deformities 
+- Skin: No rashes, lesions, or abnormalities observed 
+- Neurological: Alert and oriented, cranial nerves II-XII intact
+
+Investigation/Test results: 
+- Complete Blood Count (CBC) with differential 
+- Comprehensive Metabolic Panel (CMP) 
+- Lipid Panel 
+- Hemoglobin A1c 
+- Thyroid Stimulating Hormone (TSH) 
+- Vitamin D level
+
+Medical Outcome: 
+- Diagnosis: Encounter for general adult medical examination without abnormal findings (Z00.00)
+- Prescribed Treatment: Continue current medications (Lisinopril 10 mg once daily)
+- Follow-up Recommendations: Annual physical exam
+- Lifestyle Change: Maintain current healthy lifestyle including diet, exercise, and sleep habits
+- Referrals: None needed
+- Investigation/Test results: Pending, to review in follow-up if abnormal"|"#####
+**1. Subjective:**
+
+The patient is a 45-year-old Caucasian female presenting for a routine check-up. The patient reports overall good health and follows a balanced diet, regular exercise regimen, and has no significant lifestyle risk factors. She has a history of hypertension, which is well-controlled with Lisinopril 10 mg once daily. There are no new complaints or symptoms reported. She sleeps well, gets 7-8 hours of quality sleep per night, and engages in hiking and yoga recreationally. 
+
+**2. Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 126/78 mmHg
+  - Heart Rate: 72 bpm
+  - Respiratory Rate: 16 breaths per minute
+  - Temperature: Afebrile
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:** 
+  - Well-nourished, no distress
+
+- **Cardiovascular:**
+  - Normal S1, S2, no murmurs or extra sounds
+
+- **Respiratory:**
+  - Clear to auscultation bilaterally 
+
+- **Abdominal:**
+  - Soft, non-tender, no masses or organomegaly
+
+- **Musculoskeletal:**
+  - Full range of motion, no deformities 
+
+- **Skin:**
+  - No rashes, lesions, or abnormalities observed
+
+- **Neurological:**
+  - Alert and oriented, cranial nerves II-XII intact
+
+**3. Assessment:**
+
+- Encounter for general adult medical examination without abnormal findings (Z00.00).
+- Hypertension, well-controlled.
+
+**4. Plan:**
+
+- **Medications:**
+  - Continue Lisinopril 10 mg once daily for hypertension.
+
+- **Laboratory Tests:**
+  - Complete Blood Count (CBC) with differential
+  - Comprehensive Metabolic Panel (CMP)
+  - Lipid Panel
+  - Hemoglobin A1c 
+  - Thyroid Stimulating Hormone (TSH)
+  - Vitamin D level
+
+- **Lifestyle Recommendations:**
+  - Maintain current healthy lifestyle, including balanced diet, regular exercise, and adequate sleep.
+
+- **Follow-Up:**
+  - Annual physical exam
+  - Review pending lab results; if any abnormalities are found, the patient will be notified and a follow-up appointment will be scheduled.
+
+- **Referrals:**
+  - None needed at this time.
+
+**INSTRUCTIONS:**
+
+- The patient was advised to continue her current regimen for hypertension and maintain her healthy lifestyle habits.
+- She was informed that her lab results will be reviewed, and she will be contacted if follow-up is needed.
+- Given her family history, she should continue to monitor her health and report any new symptoms or concerns promptly.
+- Schedule the next annual physical exam.
+  
+#####
+"|"#####
+**1. Subjective:**
+
+The patient, named Emily Johnson, is a 45-year-old Caucasian female presenting for a routine check-up. The patient reports overall good health and follows a balanced diet, regular exercise regimen, and has no significant lifestyle risk factors. She has a history of hypertension, which is well-controlled with Lisinopril 10 mg once daily. There are no new complaints or symptoms reported. She sleeps well, gets 7-8 hours of quality sleep per night, and engages in hiking and yoga recreationally. 
+
+**2. Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 126/78 mmHg
+  - Heart Rate: 72 bpm
+  - Respiratory Rate: 16 breaths per minute
+  - Temperature: Afebrile
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:** 
+  - Well-nourished, no distress
+
+- **Cardiovascular:**
+  - Normal S1, S2, no murmurs or extra sounds
+
+- **Respiratory:**
+  - Clear to auscultation bilaterally 
+
+- **Abdominal:**
+  - Soft, non-tender, no masses or organomegaly
+
+- **Musculoskeletal:**
+  - Full range of motion, no deformities 
+
+- **Skin:**
+  - No rashes, lesions, or abnormalities observed
+
+- **Neurological:**
+  - Alert and oriented, cranial nerves II-XII intact
+
+**3. Assessment:**
+
+- Encounter for general adult medical examination without abnormal findings (Z00.00).
+- Hypertension, well-controlled.
+
+**4. Plan:**
+
+- **Medications:**
+  - Continue Lisinopril 10 mg once daily for hypertension.
+
+- **Laboratory Tests:**
+  - Complete Blood Count (CBC) with differential
+  - Comprehensive Metabolic Panel (CMP)
+  - Lipid Panel
+  - Hemoglobin A1c 
+  - Thyroid Stimulating Hormone (TSH)
+  - Vitamin D level
+
+- **Lifestyle Recommendations:**
+  - Maintain current healthy lifestyle, including balanced diet, regular exercise, and adequate sleep.
+
+- **Follow-Up:**
+  - Annual physical exam
+  - Review pending lab results; if any abnormalities are found, the patient will be notified and a follow-up appointment will be scheduled.
+
+- **Referrals:**
+  - None needed at this time.
+
+**INSTRUCTIONS:**
+
+- The patient was advised to continue her current regimen for hypertension and maintain her healthy lifestyle habits.
+- She was informed that her lab results will be reviewed, and she will be contacted if follow-up is needed.
+- Given her family history, she should continue to monitor her health and report any new symptoms or concerns promptly.
+- Schedule the next annual physical exam.
+  
+#####"|Family Medicine Physician|"### Conversation
+
+**Doctor:** Good morning! How are you feeling today?
+
+**Patient:** Good morning, Doctor. I'm feeling great, thank you.
+
+**Doctor:** I'm glad to hear that. So, you're here for a routine check-up, right?
+
+**Patient:** Yes, that's correct. Just a regular check-up.
+
+**Doctor:** Great. Can you tell me about your general health and any concerns you might have?
+
+**Patient:** Overall, I feel like I'm in good health. I eat a balanced diet, exercise regularly, and try to maintain a healthy lifestyle. I don't have any new complaints or symptoms to report.
+
+**Doctor:** Excellent. How's your sleep been?
+
+**Patient:** I sleep well, usually getting about 7 to 8 hours of quality sleep each night.
+
+**Doctor:** That's good to hear. What kind of exercise do you usually do?
+
+**Patient:** I enjoy hiking and yoga. I try to do both regularly.
+
+**Doctor:** Wonderful. You're doing all the right things to stay healthy. Now, let's talk about your hypertension. How's it been?
+
+**Patient:** My hypertension is well-controlled with the medication I'm on. No issues there.
+
+**Doctor:** That's great. You're taking Lisinopril, correct?
+
+**Patient:** Yes, 10 mg once daily.
+
+**Doctor:** Perfect. How have you been feeling with that medication? Any side effects?
+
+**Patient:** No, no side effects at all. It's been working well for me.
+
+**Doctor:** Excellent. Let's go over your vital signs now. Your blood pressure is 126/78 mmHg, which is well within the normal range. Your heart rate is 72 beats per minute, respiratory rate is 16 breaths per minute, and your oxygen saturation is 98% on room air. You're afebrile too, so everything looks good there.
+
+**Patient:** That's good to know.
+
+**Doctor:** You appear well-nourished and in no distress. Your cardiovascular exam reveals normal heart sounds, and your respiratory exam shows clear lungs. Your abdomen is soft and non-tender with no masses or organomegaly. Your musculoskeletal system shows a full range of motion with no deformities. Your skin looks healthy with no rashes or lesions, and neurologically, you're alert and oriented with all cranial nerves intact.
+
+**Patient:** That's a relief to hear.
+
+**Doctor:** Based on your examination and history, my assessment is that you're here for a general adult medical examination without any abnormal findings. Your hypertension is well-controlled.
+
+**Patient:** That's great news.
+
+**Doctor:** As part of your plan, we'll continue your current medication, Lisinopril 10 mg once daily. I'd also like to order some routine lab tests: a Complete Blood Count with differential, a Comprehensive Metabolic Panel, a Lipid Panel, Hemoglobin A1c, Thyroid Stimulating Hormone, and a Vitamin D level.
+
+**Patient:** Okay, that sounds good.
+
+**Doctor:** It's important to maintain your current healthy lifestyle, including your balanced diet, regular exercise, and adequate sleep.
+
+**Patient:** I will definitely continue with that.
+
+**Doctor:** We'll schedule your next annual physical exam and review your lab results once they're in. If there are any abnormalities, we'll notify you and set up a follow-up appointment.
+
+**Patient:** Sure, that makes sense.
+
+**Doctor:** No referrals are needed at this time, and you should continue your current regimen for hypertension. If you notice any new symptoms or have any concerns, don't hesitate to contact us.
+
+**Patient:** I will. Thank you, Doctor.
+
+**Doctor:** You're welcome. Take care and see you at your next annual check-up.
+
+**Patient:** See you then. Thanks again!"|"### Conversation 1
+
+**Doctor:** Good morning! How are you feeling today?
+
+**Patient:** Good morning, Doctor. I'm feeling great, thank you.
+
+**Doctor:** I'm glad to hear that. So, you're here for a routine check-up, right?
+
+**Patient:** Yes, that's correct. Just a regular check-up.
+
+**Doctor:** Great. Can you tell me about your general health and any concerns you might have?
+
+**Patient:** Overall, I feel like I'm in good health. I eat a balanced diet, exercise regularly, and try to maintain a healthy lifestyle. I don't have any new complaints or symptoms to report.
+
+**Doctor:** Excellent. How's your sleep been?
+
+**Patient:** I sleep well, usually getting about 7 to 8 hours of quality sleep each night.
+
+**Doctor:** That's good to hear. What kind of exercise do you usually do?
+
+**Patient:** I enjoy hiking and yoga. I try to do both regularly.
+
+**Doctor:** Wonderful. You're doing all the right things to stay healthy. Now, let's talk about your hypertension. How's it been?
+
+**Patient:** My hypertension is well-controlled with the medication I'm on. No issues there.
+
+**Doctor:** That's great. You're taking Lisinopril, correct?
+
+**Patient:** Yes, 10 mg once daily.
+
+**Doctor:** Perfect. How have you been feeling with that medication? Any side effects?
+
+**Patient:** No, no side effects at all. It's been working well for me.
+
+**Doctor:** Excellent. Let's go over your vital signs now. Your blood pressure is 126/78 mmHg, which is well within the normal range. Your heart rate is 72 beats per minute, respiratory rate is 16 breaths per minute, and your oxygen saturation is 98% on room air. You're afebrile too, so everything looks good there.
+
+**Patient:** That's good to know.
+
+**Doctor:** You appear well-nourished and in no distress. Your cardiovascular exam reveals normal heart sounds, and your respiratory exam shows clear lungs. Your abdomen is soft and non-tender with no masses or organomegaly. Your musculoskeletal system shows a full range of motion with no deformities. Your skin looks healthy with no rashes or lesions, and neurologically, you're alert and oriented with all cranial nerves intact.
+
+**Patient:** That's a relief to hear.
+
+**Doctor:** Based on your examination and history, my assessment is that you're here for a general adult medical examination without any abnormal findings. Your hypertension is well-controlled.
+
+**Patient:** That's great news.
+
+---
+
+### Conversation 2
+
+**Doctor:** Hi, let's continue from where we left off. As part of your plan, we'll continue your current medication, Lisinopril 10 mg once daily. I'd also like to order some routine lab tests: a Complete Blood Count with differential, a Comprehensive Metabolic Panel, a Lipid Panel, Hemoglobin A1c, Thyroid Stimulating Hormone, and a Vitamin D level.
+
+**Patient:** Okay, that sounds good.
+
+**Doctor:** It's important to maintain your current healthy lifestyle, including your balanced diet, regular exercise, and adequate sleep.
+
+**Patient:** I will definitely continue with that.
+
+**Doctor:** We'll schedule your next annual physical exam and review your lab results once they're in. If there are any abnormalities, we'll notify you and set up a follow-up appointment.
+
+**Patient:** Sure, that makes sense.
+
+**Doctor:** No referrals are needed at this time, and you should continue your current regimen for hypertension. If you notice any new symptoms or have any concerns, don't hesitate to contact us.
+
+**Patient:** I will. Thank you, Doctor.
+
+**Doctor:** You're welcome. Take care and see you at your next annual check-up.
+
+**Patient:** See you then. Thanks again!"
+ENCOUNTER FOR GENERAL ADULT MEDICAL EXAMINATION WITHOUT ABNORMAL FINDINGS|"ROLE: Family Medicine Physician
+
+1) Medical Outcome: Routine preventive care, follow-up recommendations, lifestyle and diet suggestions
+
+2) Medical History: No significant past medical history, no family history of chronic diseases, no current medications, denied allergies
+
+3) Symptom Description: No symptoms; patient reports overall good health
+
+4) Patient’s self-reported habits and lifestyle: Sleeps 7-8 hours a night, balanced diet rich in fruits and vegetables but high in salt, exercises 3 times a week, non-smoker, occasional social alcohol consumption, no drug use, enjoys hiking and gardening
+
+5) Demographic Information: 35-year-old, female, Caucasian, middle-class, college-educated, moderate health literacy, employed as an office manager
+
+6) Patient's Behavior: Highly cooperative and follows medical advice
+
+7) Geographical Location: Urban area, lives in a moderately affluent neighborhood with access to grocery stores and public transportation
+
+8) Clinical Setting: Primary Care Clinic
+
+9) Type of Encounter: Routine Check-up
+
+10) Treatment Disparities: NA
+
+11) Native or Non-Native English Speaking Patient: Native English speaker
+
+12) Physical exams: Blood pressure 120/80 mmHg, heart rate 72 bpm, respiratory rate 16 breaths/min, BMI 24.2, general physical exam within normal limits
+
+13) Investigation/Test results: Recommended routine blood work including complete blood count (CBC), lipid profile, and fasting glucose; all results pending"|Rejected|Rejected|Rejected||
+ENCOUNTER FOR GENERAL ADULT MEDICAL EXAMINATION WITHOUT ABNORMAL FINDINGS|"ROLE: Family Medicine Physician
+
+1) Medical Outcome: General adult medical examination with no abnormalities, follow-up recommendations, referral for routine dental and vision check-ups
+
+2) Medical History: History of mild seasonal allergies, family history of hypertension (father), takes over-the-counter antihistamines during allergy season, no other medications, denied known drug allergies
+
+3) Symptom Description: No current symptoms, patient reports good overall health
+
+4) Patient’s self-reported habits and lifestyle: Sleeps 6-7 hours a night but reports occasional difficulty falling asleep, diet includes fast food 2-3 times a week, exercises 1-2 times a week, non-smoker, drinks alcohol moderately on weekends, no drug use, enjoys reading and participating in community gardening
+
+5) Demographic Information: 45-year-old, male, African American, lower-middle-class, high school education, low health literacy, works as a construction worker
+
+6) Patient's Behavior: Modestly cooperative and generally follows medical advice but struggles with diet changes
+
+7) Geographical Location: Small city, lives in a lower-income neighborhood with limited access to fresh produce and healthcare facilities, moderately polluted area
+
+8) Clinical Setting: Community Health Clinic
+
+9) Type of Encounter: Initial Consultation
+
+10) Treatment Disparities: The patient has limited healthcare options due to economic constraints 
+
+11) Native or Non-Native English Speaking Patient: Native English speaker
+
+12) Physical exams: Blood pressure 140/90 mmHg, heart rate 80 bpm, respiratory rate 18 breaths/min, BMI 28.5, mild tenderness in nasal passages due to allergic rhinitis, general physical exam otherwise within normal limits
+
+13) Investigation/Test results: Order routine blood work including complete blood count (CBC), lipid profile, and fasting glucose; refer for urinalysis; all results awaiting"|Rejected|Rejected|Rejected||
+ENCOUNTER FOR GENERAL ADULT MEDICAL EXAMINATION WITHOUT ABNORMAL FINDINGS|"ROLE: Family Medicine Physician
+
+1) Medical Outcome: Diagnosis of hypertension, prescribed medication, lifestyle change recommendations, follow-up appointment in three months
+
+2) Medical History: History of borderline hypertension, family history of Type 2 Diabetes and hypertension (both parents), previously on a low-sodium diet, currently not on any medication, denied known drug allergies
+
+3) Symptom Description: Reports occasional headaches and dizziness over the past two months, moderate severity, occurs 2-3 times a week, impact on daily activities includes difficulty concentrating at work
+
+4) Patient’s self-reported habits and lifestyle: Sleeps 5-6 hours a night with difficulty maintaining sleep, diet consists mostly of processed foods, rarely exercises, smokes one pack per day, consumes 2-3 alcoholic drinks on weekends, no drug use, enjoys watching TV and playing video games
+
+5) Demographic Information: 50-year-old, male, Hispanic, lower-middle-class, GED, low health literacy, works as a security guard
+
+6) Patient's Behavior: Shows moderate concern about health, previously non-compliant with dietary recommendations
+
+7) Geographical Location: Urban area, resides in a low-income neighborhood with high crime rates, limited access to healthcare facilities, and fresh produce (food desert)
+
+8) Clinical Setting: Community Health Clinic
+
+9) Type of Encounter: Initial Consultation
+
+10) Treatment Disparities: Patient has economic constraints impacting healthcare access and treatment options
+
+11) Native or Non-Native English Speaking Patient: Non-Native English speaker, Spanish as primary language; needs interpreter
+
+12) Physical exams: Blood pressure 150/95 mmHg, heart rate 85 bpm, respiratory rate 20 breaths/min, BMI 31.2, mild obesity, noticeable stress and anxiety observed; general physical exam reveals no other abnormalities
+
+13) Investigation/Test results: Order blood work for complete blood count (CBC), basic metabolic panel (BMP), and fasting lipid profile; awaiting results
+
+Medications Prescribed:
+- Lisinopril 10 mg, oral, once daily, 30 tablets with one refill
+
+Follow-Up:
+- Schedule a follow-up appointment in three months for blood pressure monitoring and to review test results"|Rejected|Rejected|Rejected||
+ENCOUNTER FOR GENERAL ADULT MEDICAL EXAMINATION WITHOUT ABNORMAL FINDINGS|"ROLE: Family Medicine Physician
+
+** 1) Medical Outcome: 
+   - Preventive Health Screening: Routine blood work including CBC and lipid panel.
+   - Lifestyle change: Counsel on diet and exercise.
+
+** 2) Medical History:
+   - Previous Diagnoses: NA
+   - Family Medical History: Father had hypertension and mother had type 2 diabetes.
+   - Medication History: Currently taking a multivitamin daily.
+   - Allergies: No known drug allergies.
+   - Chronic Conditions: NA
+
+** 3) Symptom Description:
+   - Severity: NA
+   - Duration: NA
+   - Associated Symptoms: NA
+   - Frequency: NA
+   - Impact on Daily Activities: NA
+
+** 4) Patient’s self-reported habits and lifestyle:
+   - Sleep: 7-8 hours per night.
+   - Diet: Generally healthy, mostly home-cooked meals, some occasional fast food.
+   - Exercise: Walks 3 times a week for 30 minutes.
+   - Tobacco Use: Never smoked.
+   - Alcohol Consumption: Drinks socially, about 2-3 times a month.
+   - Drug Use: NA
+   - Recreational Activities: Enjoys gardening and reading.
+
+** 5) Demographic Information:
+   - Age: 45
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: High
+   - Job Status: Full-time employed as a software engineer
+
+** 6) Patient's Behavior:
+   - The patient is cooperative and adheres well to medical advice.
+
+** 7) Geographical Location:
+   - Big City
+   - Neighborhood Type: Affluent
+   - Well-served by Transit
+
+** 8) Clinical Setting:
+   - Private Practice
+
+** 9) Type of Encounter:
+   - Routine Check-up
+
+** 10) Treatment Disparities:
+   - No apparent treatment disparities.
+
+** 11) Native or Non-Native English Speaking Patient:
+   - Native English Speaking Patient
+
+** 12) Physical exams: 
+   - General physical examination including vitals, cardiovascular, respiratory, abdominal, and musculoskeletal.
+
+** 13) Investigation/Test results:
+   - Routine blood test ordered: CBC and Lipid Panel (awaiting results).
+
+"|Rejected|Rejected|Rejected||
+ENCOUNTER FOR GENERAL ADULT MEDICAL EXAMINATION WITHOUT ABNORMAL FINDINGS|"ROLE: Family Medicine Physician
+
+** 1) Medical Outcome:**
+   - Preventive Health Screening: Routine blood work including CBC and lipid panel.
+   - Lifestyle change: Counsel on diet and exercise.
+
+** 2) Medical History:**
+   - Previous Diagnoses: Seasonal allergies.
+   - Family Medical History: Father had hypertension and mother had type 2 diabetes.
+   - Medication History: Currently taking a multivitamin daily.
+   - Allergies: No known drug allergies.
+   - Chronic Conditions: NA
+
+** 3) Symptom Description:**
+   - Severity: Mild
+   - Duration: Past 2 weeks
+   - Associated Symptoms: Occasional fatigue and minor headaches
+   - Frequency: A few times per week
+   - Impact on Daily Activities: Slightly reduced energy levels
+
+** 4) Patient’s self-reported habits and lifestyle:**
+   - Sleep: 7-8 hours per night
+   - Diet: Generally healthy, mostly home-cooked meals, some occasional fast food
+   - Exercise: Walks 3 times a week for 30 minutes
+   - Tobacco Use: Never smoked
+   - Alcohol Consumption: Drinks socially, about 2-3 times a month
+   - Drug Use: NA
+   - Recreational Activities: Enjoys gardening and reading
+
+** 5) Demographic Information:**
+   - Age: 45
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: High
+   - Job Status: Full-time employed as a software engineer
+
+** 6) Patient's Behavior:**
+   - The patient is cooperative and adheres well to medical advice.
+
+** 7) Geographical Location:**
+   - Big City
+   - Neighborhood Type: Affluent
+   - Well-served by Transit
+
+** 8) Clinical Setting:**
+   - Private Practice
+
+** 9) Type of Encounter:**
+   - Routine Check-up
+
+** 10) Treatment Disparities:**
+   - No apparent treatment disparities.
+
+** 11) Native or Non-Native English Speaking Patient:**
+   - Native English Speaking Patient
+
+** 12) Physical exams:**
+   - General physical examination including vitals, cardiovascular, respiratory, abdominal, and musculoskeletal.
+   - Findings: Slightly elevated heart rate (96 bpm), otherwise normal.
+
+** 13) Investigation/Test results:**
+   - Routine blood test ordered: CBC and Lipid Panel (awaiting results)."|Rejected|Rejected|Rejected||
+ENCOUNTER FOR GENERAL ADULT MEDICAL EXAMINATION WITHOUT ABNORMAL FINDINGS|"ROLE: Family Medicine Physician
+
+** 1) Medical Outcome:**
+   - Medication Adjustment: Continue current antihypertensive and introduce a mild diuretic, HCTZ 12.5 mg tablets, once daily for one month.
+   - Lifestyle change: Counseling on low-sodium diet and increased physical activity.
+   - Referral to Specialist: Refer to a cardiologist for further evaluation.
+   - Follow-up Recommendations: Follow-up visit in 4 weeks to monitor blood pressure and effectiveness of the new medication.
+
+** 2) Medical History:**
+   - Previous Diagnoses: Hypertension, high cholesterol.
+   - Family Medical History: Mother had a stroke, father had coronary artery disease.
+   - Medication History: Currently taking Lisinopril 20 mg daily.
+   - Allergies: Allergic to penicillin (causes rash).
+   - Chronic Conditions: Hypertension.
+
+** 3) Symptom Description:**
+   - Severity: Moderate.
+   - Duration: Past 3 months.
+   - Associated Symptoms: Occasional dizziness, mild shortness of breath on exertion.
+   - Frequency: About once a week.
+   - Impact on Daily Activities: Difficulty in performing heavy physical tasks.
+
+** 4) Patient’s self-reported habits and lifestyle:**
+   - Sleep: 6-7 hours per night, sometimes interrupted.
+   - Diet: High sodium intake, frequent fast food consumption.
+   - Exercise: Minimal, occasional short walks.
+   - Tobacco Use: Smoked for 15 years, quit 5 years ago.
+   - Alcohol Consumption: Drinks 5-6 beers per week.
+   - Drug Use: NA.
+   - Recreational Activities: Enjoys watching TV and playing video games.
+
+** 5) Demographic Information:**
+   - Age: 52
+   - Gender: Female
+   - Ethnicity: African-American
+   - Socio-economic Status: Working class
+   - Education Level: High school graduate
+   - Health Literacy: Moderate
+   - Job Status: Part-time retail worker
+
+** 6) Patient's Behavior:**
+   - Shows moderate compliance with medical advice, sometimes forgets medications.
+
+** 7) Geographical Location:**
+   - Small City
+   - Neighborhood Type: Working-class neighborhood
+   - Limited access to healthy food options (food desert)
+
+** 8) Clinical Setting:**
+   - Community Health Clinic
+
+** 9) Type of Encounter:**
+   - Chronic Disease Management
+
+** 10) Treatment Disparities:**
+   - Limited access to specialist care due to financial constraints.
+   - Potentially limited access to prescribed medications due to cost.
+
+** 11) Native or Non-Native English Speaking Patient:**
+   - Native English Speaking Patient
+
+** 12) Physical exams:**
+   - Elevated blood pressure (150/95 mmHg)
+   - Cardiovascular: Mild pedal edema, Grade 2/6 systolic murmur.
+   - Respiratory: Clear to auscultation.
+   - Abdominal: NA
+   - Musculoskeletal: NA
+
+** 13) Investigation/Test results:**
+   - Routine blood test ordered: CBC, Lipid Panel, basic metabolic panel (awaiting results).
+   - Electrocardiogram (ECG) ordered for baseline evaluation."|Rejected|Rejected|Rejected||
+ENCOUNTER FOR GENERAL ADULT MEDICAL EXAMINATION WITHOUT ABNORMAL FINDINGS|"ROLE: Family Medicine Physician
+
+Variable Values:
+
+- **Medical Outcome:**
+  - Diagnosis: (ICD-10 code Z00.00) Encounter for general adult medical examination without abnormal findings
+  - Follow-up recommendations: Routine annual check-up in one year, recommendations for preventive screening based on age (colonoscopy for colorectal cancer screening, mammogram for breast cancer screening)
+  - Lifestyle change: Emphasize importance of regular exercise, balanced diet, and adequate sleep
+
+- **Medical History:**
+  - Previous Diagnoses: None
+  - Family Medical History: Father had hypertension, mother had type 2 diabetes
+  - Medication History: None
+  - Allergies: None
+  - Chronic Conditions: None
+
+- **Symptom Description:**
+  - NA (no symptoms as it is a preventive health screening)
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: Reports sleep of 7-8 hours per night
+  - Diet: Balanced diet with occasional indulgence in fast food
+  - Exercise: Exercises 2-3 times a week (jogging and yoga)
+  - Tobacco Use: None
+  - Alcohol Consumption: Occasionally consumes 1-2 drinks per week
+  - Drug Use: None
+  - Recreational Activities: Enjoys hiking and reading
+
+- **Demographic Information:**
+  - Age: 45
+  - Gender: Female
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Middle class
+  - Education Level: College graduate
+  - Health Literacy: High
+  - Job Status: Full-time marketing manager
+
+- **Patient's Behavior:**
+  - Cooperative, engaged in the conversation and proactive about health
+
+- **Geographical Location:**
+  - Big City vs Small City: Urban area of a big city
+  - Pollution and Environmental Health Risks: Urban pollution level, moderate environmental health risks
+  - Neighborhood Type: Affluent, well-served by public transit, not a food desert
+
+- **Clinical Setting:**
+  - Primary care clinic in a private practice
+
+- **Type of Encounter:**
+  - Preventive Health Screening
+
+- **Treatment Disparities:**
+  - No disparities noted, patient has good insurance coverage
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English speaking
+
+- **Physical exams:**
+  - General physical examination: Normal
+  - BMI: 24 (Normal)
+  - Blood pressure: 120/80 mmHg (Normal)
+  - Heart rate: 70 bpm (Regular)
+
+- **Investigation/Test results:**
+  - Basic blood work ordered: CBC, lipid profile, fasting blood glucose, all results within normal range
+  - Urinalysis: Normal results"|Rejected|Rejected|Rejected||

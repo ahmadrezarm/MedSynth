@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import datetime
 import random
 
-import gen_constants #from . 
+from . import gen_constants 
 
 # make the openai key an env variable and load it here
 def initialize_openai_client():
@@ -93,6 +93,25 @@ def polish_dialogue(dialogue, openai_client):
                 ]
                 )
         return note_response.choices[0].message.content
+
+
+
+def generate_dialouge_for_df(note_df, openai_client):
+    filtered_df = note_df[note_df["Note"] != "Rejected"]
+    for idx, row in filtered_df.iterrows():
+        print(f"Generating dialogue for idx: {idx}")
+        dial = generate_dialogue(row["Note"], openai_client=openai_client)
+        polished_dial = polish_dialogue(dialogue=dial, openai_client=openai_client)
+        note_df.at[idx, "dial"] = dial
+        note_df.at[idx, "polished_dial"] = polished_dial
+
+    return note_df
+
+
+
+def save_df_with_dial(df, path):
+     df.to_csv(f"{path}_with_dial.csv", sep="|", index= False)
+
 
 
 NOTE= '''

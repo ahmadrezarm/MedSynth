@@ -24,11 +24,10 @@ RENAME_COLUMNS = {}
 INSTRUCTION = constants.summarizer_system_prompt
 
 # edit this whenevr you wanna make a new dataset
-Notechat_sample_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/NoteChatSamples/note_chat_sample_2024-05-14_14-17.csv"
+#Notechat_sample_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/NoteChatSamples/note_chat_sample_2024-05-14_14-17.csv"
 current_date= datetime.now().strftime("%Y-%m-%d_%H-%M")
-repo_name= f"llama3_NoteChat_Sample_instruct_dataset_v3_{current_date}"
-DATASETS_PATHS = [constants.Aci_train_path, Notechat_sample_path] 
-
+repo_name= f"MedActPred_llama3_TaskC-TrainingSet_instruct_dataset_v3{current_date}"
+DATASETS_PATHS = [constants.Aci_train_path] #, Notechat_sample_path
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
