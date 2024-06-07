@@ -13,8 +13,8 @@ summarizer_system_prompt= """You are an assistant for medical professionals, spe
 base_model= "unsloth/llama-3-8b-Instruct-bnb-4bit" # changed to be consistent with the training.
 #"meta-llama/Meta-Llama-3-8B-Instruct"
 
-Aci_test_path = "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/clinicalnlp_taskC_test2_SOAP.csv"
-Aci_train_path = "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/TaskC-TrainingSet_SOAP.csv"
+Aci_test_path = "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/clinicalnlp_taskC_test2.csv"
+Aci_train_path = "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/TaskC-TrainingSet.csv"
 
 # useful link: https://huggingface.co/docs/transformers/main_classes/text_generation#transformers.GenerationConfig
 model_evaluator_generation_config = {"max_new_tokens":3000,

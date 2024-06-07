@@ -24,7 +24,7 @@ def get_sample_note_chat(dataset_path_hf= constants.NOTE_CHAT_HF_PATH,
 
     # Rename columns to match required names by instruct_datasets.py 
     # Note that NoteChat doesnt have SOAP format. I just used this name for instruct_datasets.py 
-    df.rename(columns={'data': 'note_SOAP', "conversation":"dialogue"}, inplace=True)
+    df.rename(columns={'data': 'note', "conversation":"dialogue"}, inplace=True)
 
     return df
 

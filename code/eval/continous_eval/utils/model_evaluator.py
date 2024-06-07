@@ -160,7 +160,7 @@ class ModelEvaluatorAutoMetrics:
     def get_automatic_eval_scores(self, dial_summary_pairs):
         dial_summary_pairs_df = pd.DataFrame.from_dict(dial_summary_pairs, orient='index')
         metrics_computer = MetricsComputer(prediction_list= dial_summary_pairs_df["summary"],
-                                            gt_list= self.test_dataset["note_SOAP"])
+                                            gt_list= self.test_dataset["note"])
         
 
         return {
