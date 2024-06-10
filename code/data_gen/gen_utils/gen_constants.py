@@ -128,6 +128,10 @@ You cannot add or remove any information, except where you have been given permi
             3) The doctor's name
          If any of the three parts mentioned above about the refereal is missing, add it. If you need add a name for the doctor, choose an appropriate name, be creative and realistic in choosing the names.
     ** d) Patients' must have names. If there is no name, add it. Choose an appropriate name, be creative and realistic in choosing the names.
+    ** e) The output must only contain the medical note. If there is anything extra at the beginning or at the end, you should remove it.
+        For example, there could be thinng like "note is: Medical Note" at the beggining or things like " Note: Please ensure this note is reviewed by the attending healthcare provider or physician for accuracy
+        and completeness before being added to the patient's medical record." at the end of the medical note. Please remove them so that the output
+        is only the medical note itself, not anything else. 
 
 Just output the revised note, not anything else."""
 
@@ -363,6 +367,15 @@ DIALOGUE_POLISHER_SYSTEM_PROMPT= """ Expand the conversation. The conversation f
 
 dial_generator_config= {"model": "gpt-4o", # "gpt-4-1106-preview"
                             "temperature": 0.7,
+                            "max_tokens": 4095,
+                            "top_p": 1,
+                            "frequency_penalty": 0,
+                            "presence_penalty": 0}
+
+
+
+dial_polisher_config= {"model": "gpt-4o", # "gpt-4-1106-preview"
+                            "temperature": 0.2,
                             "max_tokens": 4095,
                             "top_p": 1,
                             "frequency_penalty": 0,

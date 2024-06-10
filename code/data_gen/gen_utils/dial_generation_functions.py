@@ -75,12 +75,12 @@ def generate_dialogue(note, openai_client):
 def polish_dialogue(dialogue, openai_client):
         
         note_response = openai_client.chat.completions.create(
-                model=gen_constants.dial_generator_config["model"],
-                temperature = gen_constants.dial_generator_config["temperature"],
-                max_tokens = gen_constants.dial_generator_config["max_tokens"],
-                top_p = gen_constants.dial_generator_config["top_p"],
-                frequency_penalty = gen_constants.dial_generator_config["frequency_penalty"],
-                presence_penalty = gen_constants.dial_generator_config["presence_penalty"],
+                model=gen_constants.dial_polisher_config["model"],
+                temperature = gen_constants.dial_polisher_config["temperature"],
+                max_tokens = gen_constants.dial_polisher_config["max_tokens"],
+                top_p = gen_constants.dial_polisher_config["top_p"],
+                frequency_penalty = gen_constants.dial_polisher_config["frequency_penalty"],
+                presence_penalty = gen_constants.dial_polisher_config["presence_penalty"],
                 messages=[
                     {
                         "role": "system",
@@ -209,7 +209,7 @@ NOTE= '''
 
 **Patient Agreements:** The patient understands and agrees with the recommended treatment plan and follow-up schedule.
 '''
-
+''' 
 openai_client= initialize_openai_client()
 dial= generate_dialogue(NOTE, openai_client= openai_client)
 polished_dial= polish_dialogue(dialogue= dial, openai_client= openai_client)
@@ -225,3 +225,4 @@ polished_dial_output_file_path = f'/Users/ahmadrezaie/papers/Synthetic_Data_Gen/
 with open(polished_dial_output_file_path, 'w') as file:
     file.write(polished_dial)
 print(f"Polished Conversation saved to {polished_dial_output_file_path}")
+''' 
