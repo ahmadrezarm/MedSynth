@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-directory = "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/50_samples/"
+directory = "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/v2_40_samples/with_dial_temp_0.5/"
 
 all_files = os.listdir(directory)
 
@@ -12,7 +12,7 @@ df_list = []
 # Loop through the filtered files and read the required columns
 for file in filtered_files:
     file_path = os.path.join(directory, file)
-    df = pd.read_csv(file_path, usecols=["Disease Description", "Polished Note", "polished_dial"], sep="|")
+    df = pd.read_csv(file_path, usecols=["Role", "Disease Description", "Polished Note", "polished_dial"], sep="|")
     df_list.append(df)
 
 # Concatenate all dataframes into one

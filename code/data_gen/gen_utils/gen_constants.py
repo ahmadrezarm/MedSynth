@@ -336,6 +336,7 @@ Here are a good real note and dialogue example:
 You must follow the structure of the dialogues in the examples above.
 
 The number of utterance should be at least 80 and sometimes patient didn't clearly hear and he could say parden to let the doctor say again.
+The dialogue must be in English. Your job is to only generate the dialogue. You cannot generate summary notes.
 
 '''
 
@@ -359,10 +360,44 @@ DIALOGUE_POLISHER_SYSTEM_PROMPT= """ Expand the conversation. The conversation f
   Patient: Okay, I understand. 
   (Few days latter)
   Doctor: Hi....
-  Your conversations must follow the logical sequence of a doctor's inquiry. For example, the general logical order of the conversation is: first discussing symptoms, then discussing the medical history, followed by discussing testing and results, and finally discussing treatment options, conclusioin etc."
-  If you find this conversation to be incoherent, you can try dividing it into two separate coherent conversations.
+
+  Your conversations must follow the logical sequence of a doctor's inquiry. For example, the general logical order of the conversation is: first discussing symptoms, then discussing the medical history, followed by discussing testing and results, and finally discussing treatment options, conclusioin etc.
+  The conversations must be coherent and cohesive. For example, the output cannot be seperated by texts like "HISTORY OF PRESENT ILLNESS" or "SOCIAL HISTORY". 
+  
+  Extra information that does not fit into the conversation should not be added to the output. For example, below is an extra information that should be removed from the output:
+  <<<<<<<>>>>>>>>
+  - **INSTRUCTIONS**
+    
+    **Patient Agreements:** The patient understands and agrees with the recommended medical treatment plan.
+  <<<<<<<<>>>>>>>>
+    
   Patients should not say too much information at once.
+
+  ICD code of the disease must not be present in the dialogue. If it is present, remove it.
+  
+  There should not be any extra information at the beggining or at the end of the conversation. For example,
+  "dialogue is:” should not be present in the output. You must make sure you only return the dialogue itself, not 
+  anything extra. You cannot add phrases like "dialogue is: Certainly! Let's expand the conversation with more colloquial language for the patient and professional details for the doctor".
+
+  If there are only the doctor and the patient present in the dialogue, the utterances must follow these indicators:
+    [doctor]: ...
+    [patient]: ...
+
+  If there are more people present in the dialogue, make sure to include all of them with a seperate indicator. For
+  example, if the mother of the patient is present in the dialogue, use this indicators:
+  [doctor]: ...
+  [mother]: ...
+  [patient]: ...
+
+  All the information in the dialogue must align with the medical note below:
+  ''' 
+  {MEDICAL_NOTE}
+  ''' 
   """
+
+
+DELETE_2= " If you find this conversation to be incoherent, you can try dividing it into two separate coherent conversations."
+
 
 
 dial_generator_config= {"model": "gpt-4o", # "gpt-4-1106-preview"
@@ -375,7 +410,7 @@ dial_generator_config= {"model": "gpt-4o", # "gpt-4-1106-preview"
 
 
 dial_polisher_config= {"model": "gpt-4o", # "gpt-4-1106-preview"
-                            "temperature": 0.2,
+                            "temperature": 0.5,
                             "max_tokens": 4095,
                             "top_p": 1,
                             "frequency_penalty": 0,
