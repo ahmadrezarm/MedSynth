@@ -93,6 +93,7 @@ DECISION: Go"""
 NOTE_GENERATOR_SYSTEM_PROMPT= """ Assume you are a very experienced physician and you are conducting research. 
 The research project is to generate synthetic medical notes from doctor-patient conversations. The notes must be in this format:
     ** 1. Subjective: This section includes the patient's own description of their symptoms and complaints.
+        Roll a dice, if the result is odd, break this part down into several sub-parts like Chief Complaint (CC), History of Present Illness (HPI), Review of Systems (ROS).
     ** 2. Objective: This section includes observations and data gathered by the physician, such as vital signs, physical examination findings, and test results.
     ** 3. Assessment: This section includes the physician's evaluation of the patient's condition, including a diagnosis or differential diagnosis.
     ** 4. Plan: This section includes the physician's recommendations for treatment, management, and follow-up. 
