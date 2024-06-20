@@ -138,6 +138,51 @@ Just output the revised note, not anything else."""
 
 
 
+NOTE_ABBREVIATOR_SYSTEM_PROMPT= """Assume you are a very experienced physician and you are conducting research. 
+The research project is to generate synthetic medical notes from doctor-patient conversations. The notes must be in this format:
+    ** 1. Subjective: This section includes the patient's own description of their symptoms and complaints.
+    ** 2. Objective: This section includes observations and data gathered by the physician, such as vital signs, physical examination findings, and test results.
+    ** 3. Assessment: This section includes the physician's evaluation of the patient's condition, including a diagnosis or differential diagnosis.
+    ** 4. Plan: This section includes the physician's recommendations for treatment, management, and follow-up. 
+    
+You will be given a note. You taks is to make the note more similar to real notes by adding acronyms.
+
+Here is an example of replacement:
+Input Version:
+<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>
+    **4. Plan:** 
+    1. Medications: 
+    - Tramadol 50mg, oral, twice daily for severe pain if needed. 
+    2. Treatment: 
+    - Initiate physical therapy focused on pain management and improving range of motion. 
+    3. Investigations: 
+    - Order MRI of the thoracic spine to assess the extent of osteophytes and any spinal stenosis. 
+    4. Patient Education and Follow-Up: 
+    - Discussed the importance of adherence to prescribed medication and physical therapy. 
+    - Advised on the necessity of MRI for better diagnostic clarity and potential surgical planning. 
+    - Encouraged maintaining blood sugar and blood pressure control through medication and lifestyle changes. 
+    - Return visit in 2 weeks for reassessment and review of MRI results. 
+    
+    5. Referral: 
+    - Referral to a Neurosurgeon, Dr. Karen Mitchell, for further evaluation and to discuss potential surgical options if conservative measures fail. 
+<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>
+
+Output Version:
+<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>
+    Plan:
+    Rx'ed tramadol 50mg PO BID PRN
+    PT for pain mgmt and ROM
+    MRI t-spine ordered ?spinal stenosis
+    referred neurosx Dr K Mitchell for ?surgical options
+    patient educated
+<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>
+
+Try to use accronyms that are populare in medicine in the whole note, not only the "Plan" section. Also, try to 
+preserve the length of the note to at least 70 percent of the original lenth.
+
+You cannot add or remove any information from the note, you can just replace terms with acronyms.
+"""
+
 scenario_generator_config= {"model": "gpt-4o", # "gpt-4-1106-preview"
                             "temperature": 1,
                             "max_tokens": 4000,
@@ -164,6 +209,14 @@ note_generator_config= {"model": "gpt-4o", # "gpt-4-1106-preview"
 
 note_polisher_config= {"model": "gpt-4o", # "gpt-4-1106-preview"
                             "temperature": 0,
+                            "max_tokens": 4000,
+                            "top_p": 1,
+                            "frequency_penalty": 0,
+                            "presence_penalty": 0}
+
+
+note_abbreviator_config= {"model": "gpt-4o", # "gpt-4-1106-preview"
+                            "temperature": 0.2,
                             "max_tokens": 4000,
                             "top_p": 1,
                             "frequency_penalty": 0,
@@ -298,6 +351,11 @@ You cannot revise or eliminate any key words and you cannot use synonyms of the 
 You shoudn't use the abbreviation if you know the full name(you should use full name not abbreviation, such as D9 must be day 9, D7 must be day 7. If both the full name and the abbreviation appear, it's better to use the full name rather than the abbreviation.
 Patients must not say any highly specialized terms, medical terminology or medical dosage. They can only describe limited common symptoms. The doctor should supplement the remaining information based on test results.
 Don't repeat the same information in long paragraphs. The utterance of the dialogue needs to be expanded as much as possible.
+The patient and the doctor should have many modal particles (e.g. hmm, yes, okay) to increase interaction. Pay attention to the examples below
+and try to incorporate non-linear discussions to make it more realistic. 
+
+You cannot use[Patient's Name] or any other plcae holder in the dialogue.
+
 Here are a good real note and dialogue example:
 # Example 1: 
     ## Note:
@@ -342,11 +400,12 @@ The dialogue must be in English. Your job is to only generate the dialogue. You 
 '''
 
 
-DIALOGUE_POLISHER_SYSTEM_PROMPT= """ Expand the conversation. The conversation for patient parts can be more colloquial. When the doctor is speaking, the patient can have many modal particles (e.g. hmm, yes, okay) to increase interaction.
+DIALOGUE_POLISHER_SYSTEM_PROMPT= """ Expand the conversation. You must add chit chats to the conversation. The conversation for patient parts can be more colloquial. 
+  The patient and the doctor should have many modal particles (e.g. hmm, yes, okay) to increase interaction.
   All the numbers and medical concepts that appear in the note should be mentioned by the doctor.
   Professional medical terms and numbers should always occur in the doctor's utterances but not in the patient's answer. 
   The doctor may describe and explain professional judgment to the patient and instruct the patient on follow-up requirements, but not ask questions that require professional medical knowledge to answer.
-  All the information of medical history, symptoms and medication history should be told by patient
+  All the information of medical history, symptoms and medication history should be told by patient.
   The patient's answer should be succinct and accurate in a colloquial lay language style. The answer must align with the clinical notes and as colloquial as possible.
   You can add some transitional phrases to make the conversation more logical. For example:
   Example 1:
@@ -362,7 +421,7 @@ DIALOGUE_POLISHER_SYSTEM_PROMPT= """ Expand the conversation. The conversation f
   (Few days latter)
   Doctor: Hi....
 
-  Your conversations must follow the logical sequence of a doctor's inquiry. For example, the general logical order of the conversation is: first discussing symptoms, then discussing the medical history, followed by discussing testing and results, and finally discussing treatment options, conclusioin etc.
+  Your conversations can follow the logical sequence of a doctor's inquiry. 
   The conversations must be coherent and cohesive. For example, the output cannot be seperated by texts like "HISTORY OF PRESENT ILLNESS" or "SOCIAL HISTORY". 
   
   Extra information that does not fit into the conversation should not be added to the output. For example, below is an extra information that should be removed from the output:
@@ -391,12 +450,12 @@ DIALOGUE_POLISHER_SYSTEM_PROMPT= """ Expand the conversation. The conversation f
   [patient]: ...
 
   All the information in the dialogue must align with the medical note below:
-  ''' 
+  <<<<<<<>>>>>>>>
   {MEDICAL_NOTE}
-  ''' 
+  <<<<<<<>>>>>>>>
   """
 
-
+"For example, the general logical order of the conversation is: first discussing symptoms, then discussing the medical history, followed by discussing testing and results, and finally discussing treatment options, conclusioin etc."
 DELETE_2= " If you find this conversation to be incoherent, you can try dividing it into two separate coherent conversations."
 
 

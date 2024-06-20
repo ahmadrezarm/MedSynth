@@ -5,7 +5,7 @@ from gen_utils import dial_generation_functions
 #from .gen_utils import gen_constants
 
 
-path_to_input= "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/Phase_1/"
+path_to_input= "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/Phase_2/"
 
 def main():
     openai_client= dial_generation_functions.initialize_openai_client()

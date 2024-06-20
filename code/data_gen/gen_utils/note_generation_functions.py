@@ -144,6 +144,28 @@ def polish_note(note, openai_client):
         return note_response.choices[0].message.content
 
 
+def abbreviate_note(note, openai_client):
+        note_response = openai_client.chat.completions.create(
+                model=gen_constants.note_abbreviator_config["model"],
+                temperature = gen_constants.note_abbreviator_config["temperature"],
+                max_tokens = gen_constants.note_abbreviator_config["max_tokens"],
+                top_p = gen_constants.note_abbreviator_config["top_p"],
+                frequency_penalty = gen_constants.note_abbreviator_config["frequency_penalty"],
+                presence_penalty = gen_constants.note_abbreviator_config["presence_penalty"],
+                messages=[
+                    {
+                        "role": "system",
+                        "content": gen_constants.NOTE_ABBREVIATOR_SYSTEM_PROMPT 
+                    },
+                    {
+                        "role": "user",
+                        "content": note
+                    }
+                ]
+                )
+        return note_response.choices[0].message.content
+
+
 
 def _extract_role(text):
     # take the first 5 lines
@@ -184,11 +206,12 @@ def generate_and_save_medical_notes(disease_description, notes_count, openai_cli
                 role = _extract_role(scenario)
                 note = doctor_generate_note(scenario, openai_client)
                 polished_note = polish_note(note, openai_client)
-                approved_notes.append({"Disease Description": disease_description, "Scenario": scenario, "Note": note, "Polished Note": polished_note , "Role": role })
+                abbreviated_note= abbreviate_note(polished_note, openai_client)
+                approved_notes.append({"Disease Description": disease_description, "Scenario": scenario, "Note": note, "Polished Note": polished_note, "Abbreviated Note": abbreviated_note, "Role": role })
                 scenario_provider_memory = []
                 print(f"Note number {len(approved_notes)} has been generated!")
             else:
-                rejected_scenarios.append({"Disease Description": disease_description, "Scenario": scenario, "Note": "Rejected", "Polished Note": "Rejected", "Role": "Rejected"})
+                rejected_scenarios.append({"Disease Description": disease_description, "Scenario": scenario, "Note": "Rejected", "Polished Note": "Rejected", "Abbreviated Note": "Rejected", "Role": "Rejected"})
                 # to save on input tokens: drop the rejected scenario from the memory
                 del judge_conversations_memory[-2:]
 
@@ -212,7 +235,7 @@ def generate_and_save_medical_notes(disease_description, notes_count, openai_cli
         results = approved_notes + rejected_scenarios
         current_date = datetime.now().strftime("%Y-%m-%d")
         results_df= pd.DataFrame(results)
-        full_path= f"{path_to_save_notes}/{disease_description}_{current_date}_v12.csv"
+        full_path= f"{path_to_save_notes}/{disease_description}_{current_date}.csv"
         results_df.to_csv(full_path, index=False, sep="|")
 
 

@@ -23,8 +23,9 @@ def main():
                     'OSTEOPHYTE, VERTEBRAE',
                     'PERSONAL HISTORY OF NON-HODGKIN LYMPHOMAS',
                     'WEDGE COMPRESSION FRACTURE OF FIRST LUMBAR VERTEBRA, INITIAL ENCOUNTER FOR CLOSED FRACTURE',
-                    'CUTANEOUS ABSCESS OF GROIN',
-                    'ACQUIRED KERATOSIS [KERATODERMA] PALMARIS ET PLANTARIS',
+                    'CUTANEOUS ABSCESS OF GROIN']
+    """
+                        'ACQUIRED KERATOSIS [KERATODERMA] PALMARIS ET PLANTARIS',
                     'HEART DISEASE, UNSPECIFIED',
                     'SECONDARY AND UNSPECIFIED MALIGNANT NEOPLASM OF LYMPH NODE, UNSPECIFIED',
                     'GESTATIONAL DIABETES MELLITUS IN CHILDBIRTH, UNSPECIFIED CONTROL',
@@ -33,7 +34,8 @@ def main():
                     'GANGRENE, NOT ELSEWHERE CLASSIFIED',
                     'OTHER ABNORMAL FINDINGS ON DIAGNOSTIC IMAGING OF CENTRAL NERVOUS SYSTEM',
                     'DRY EYE SYNDROME OF BILATERAL LACRIMAL GLANDS',
-                    'DISEASE OF INTESTINE, UNSPECIFIED']
+                    'DISEASE OF INTESTINE, UNSPECIFIED'
+    """
     
     
     '''[
@@ -48,9 +50,9 @@ def main():
     for disease in disease_list:
             print(disease)
             note_generation_functions.generate_and_save_medical_notes(disease_description= disease, 
-                                                              notes_count= 7, 
+                                                              notes_count= 4, 
                                                               openai_client= openai_client,
-                                                              path_to_save_notes= "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/Phase_1") #gen_constants.PATH_TO_SAVE_NOTES
+                                                              path_to_save_notes= "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/Phase_2") #gen_constants.PATH_TO_SAVE_NOTES
 
 if __name__ == '__main__':
     main()
