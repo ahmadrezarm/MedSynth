@@ -1,3 +1,5 @@
+import pandas as pd
+
 from gen_utils import note_generation_functions
 from gen_utils import gen_constants
 
@@ -19,6 +21,26 @@ def main():
 
 def main():
     openai_client= note_generation_functions.initialize_openai_client()
+    df = pd.read_csv("/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/input/IQVIA/IQVIA_cleaned.csv",  sep="|")
+    top_100_icd10_desc = df['ICD10_desc'].head(100).tolist()
+
+    for disease in top_100_icd10_desc:
+            print(disease)
+            note_generation_functions.generate_and_save_medical_notes(disease_description= disease, 
+                                                              notes_count= 5, 
+                                                              openai_client= openai_client,
+                                                              path_to_save_notes= "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/Phase_2/500_sample") #gen_constants.PATH_TO_SAVE_NOTES
+
+if __name__ == '__main__':
+    main()
+
+
+
+
+
+
+
+    ''' 
     disease_list= ['LONG TERM (CURRENT) USE OF AROMATASE INHIBITORS',
                     'OSTEOPHYTE, VERTEBRAE',
                     'PERSONAL HISTORY OF NON-HODGKIN LYMPHOMAS',
@@ -38,21 +60,12 @@ def main():
     """
     
     
-    '''[
+    [
                    "ENCOUNTER FOR GENERAL ADULT MEDICAL EXAMINATION WITHOUT ABNORMAL FINDINGS",
                    "ENCOUNTER FOR ROUTINE CHILD HEALTH EXAMINATION WITHOUT ABNORMAL FINDINGS",
                    "ENCOUNTER FOR IMMUNIZATION"]
     
    "ESSENTIAL (PRIMARY) HYPERTENSION", "TYPE 2 DIABETES MELLITUS WITHOUT COMPLICATIONS",
                    "END STAGE RENAL DISEASE", " HYPERLIPIDEMIA, UNSPECIFIED", "LOW BACK PAIN",
-                   "OBSTRUCTIVE SLEEP APNEA (ADULT) (PEDIATRIC)", " ILLNESS, UNSPECIFIED"'''
-    
-    for disease in disease_list:
-            print(disease)
-            note_generation_functions.generate_and_save_medical_notes(disease_description= disease, 
-                                                              notes_count= 4, 
-                                                              openai_client= openai_client,
-                                                              path_to_save_notes= "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/Phase_2") #gen_constants.PATH_TO_SAVE_NOTES
-
-if __name__ == '__main__':
-    main()
+                   "OBSTRUCTIVE SLEEP APNEA (ADULT) (PEDIATRIC)", " ILLNESS, UNSPECIFIED"
+    '''
