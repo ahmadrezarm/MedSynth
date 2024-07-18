@@ -1,0 +1,1259 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role
+PALPITATIONS|"**ROLE:** Family Medicine Physician
+
+**SCENARIO:**
+1) **Medical Outcome:** 
+   - Diagnosis: Palpitations (ICD-10 R00.2)
+   - Prescribed Treatment: Metoprolol 25 mg, oral, once daily, for 30 days (30 tablets).
+   - Follow-up Recommendations: Follow up in 1 month to evaluate response to medication.
+   - Referral to Specialist: Referred to Dr. Sarah Williams, Cardiologist, for further evaluation and management of palpitations.
+   - Referral for Further Tests: Holter monitor for 48 hours to assess the frequency and severity of palpitations.
+2) **Medical History:**
+   - Previous Diagnoses: Hypertension, Anxiety
+   - Family Medical History: Father with coronary artery disease.
+   - Medication History: Current medications include Lisinopril 10 mg daily for hypertension and Sertraline 50 mg daily for anxiety.
+   - Allergies: No known drug allergies.
+3) **Symptom Description:**
+   - Severity: Moderate
+   - Duration: 2 weeks
+   - Associated Symptoms: Occasional dizziness, mild shortness of breath
+   - Frequency: Daily, several episodes per day
+   - Impact on Daily Activities: Causes discomfort and anxiety, limiting the patient’s ability to concentrate at work.
+4) **Patient’s self-reported habits and lifestyle:**
+   - Sleep: Reports sleeping 6 hours per night, with occasional difficulty falling asleep.
+   - Diet: Generally balanced, high in fruits and vegetables, moderate caffeine intake (2 cups of coffee per day).
+   - Exercise: Walks regularly, 3 times a week for 30 minutes.
+   - Tobacco Use: None
+   - Alcohol Consumption: Social drinker, about 1-2 drinks per week.
+   - Drug Use: Denies illicit drug use.
+5) **Demographic Information:**
+   - Age: 45
+   - Gender: Female
+   - Ethnicity: White
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: High
+   - Job Status: Full-time accountant
+6) **Patient's Behavior:**
+   - Highly cooperative with medical advice, expresses concern and willingness to follow treatment plans.
+7) **Geographical Location:**
+   - Big City: Urban
+   - Neighborhood Type: Middle-income, well-served by public transit.
+8) **Clinical Setting:**
+   - Private Practice
+9) **Type of Encounter:**
+   - Initial Consultation
+10) **Treatment Disparities:**
+   - No disparities observed; patient has good access to healthcare and insurance coverage.
+11) **Native or Non-Native English Speaking Patient:**
+   - Native English speaker.
+12) **Physical exams:**
+   - Cardiovascular exam: Normal heart sounds, no murmurs or gallops.
+   - Respiratory exam: Clear to auscultation bilaterally.
+   - Thyroid exam: Nontender, no palpable masses.
+13) **Investigation/Test results:**
+   - Electrocardiogram (ECG): Normal sinus rhythm
+   - Blood Work Ordered: Complete Blood Count (CBC), Basic Metabolic Panel (BMP), and Thyroid Function Tests (TFTs) to rule out secondary causes.
+
+"|"#### MEDICAL NOTE
+
+**1. Subjective:**
+
+   **Chief Complaint (CC):**
+   - Palpitations.
+
+   **History of Present Illness (HPI):**
+   - 45-year-old female presents with moderate palpitations for the past 2 weeks. Symptoms occur daily, several episodes per day, associated with occasional dizziness and mild shortness of breath. The palpitations cause discomfort and anxiety, limiting her ability to concentrate at work.
+
+   **Review of Systems (ROS):**
+   - Constitutional: No fever, weight loss, or fatigue.
+   - Cardiovascular: Reports palpitations, occasional dizziness.
+   - Respiratory: Reports mild shortness of breath. Denies cough or wheezing.
+   - Neurological: No headaches or vision changes.
+   - Psychiatric: Reports anxiety, no depression or mood swings.
+   - Endocrine: No heat/cold intolerance, no changes in appetite or thirst.
+
+**2. Objective:**
+
+   **Vital Signs:**
+   - Blood Pressure: 135/85 mmHg
+   - Heart Rate: 82 bpm
+   - Respiratory Rate: 16 breaths per minute
+   - Temperature: 98.6°F
+   - Oxygen Saturation: 98% on room air
+
+   **Physical Examination:**
+   - General: Alert, no acute distress.
+   - Cardiovascular: Normal heart sounds, no murmurs, gallops, or rubs.
+   - Respiratory: Clear to auscultation bilaterally.
+   - Thyroid: Nontender, no palpable masses or nodules.
+   - Neurological: Non-focal, no deficits observed.
+
+   **Investigations:**
+   - Electrocardiogram (ECG): Normal sinus rhythm.
+   - Blood Work:
+       - Complete Blood Count (CBC): Pending
+       - Basic Metabolic Panel (BMP): Pending
+       - Thyroid Function Tests (TFTs): Pending
+
+**3. Assessment:**
+
+   **Primary Diagnosis:**
+   - Palpitations (ICD-10 R00.2) likely secondary to anxiety, exacerbated by existing hypertension.
+
+   **Differential Diagnosis:**
+   - Arrhythmia
+   - Hyperthyroidism
+   - Electrolyte imbalances
+
+**4. Plan:**
+
+   **Medical Treatment:**
+   - Prescribed Metoprolol 25 mg, oral, once daily for 30 days (30 tablets).
+
+   **Further Investigation:**
+   - Referral for Holter monitor for 48 hours to assess frequency and severity of palpitations.
+   - Blood tests including CBC, BMP, and TFTs to rule out secondary causes of palpitations.
+
+   **Referrals:**
+   - Referred to Dr. Sarah Williams, Cardiologist, for further evaluation and management of palpitations.
+
+   **Follow-Up:**
+   - Follow up in 1 month to evaluate response to medication and review Holter monitor results.
+
+   **Patient Education and Counseling:**
+   - Discussed potential side effects of Metoprolol and importance of adherence to medication regimen.
+   - Advised the patient to monitor and record episodes of palpitations, noting any triggers or associated symptoms.
+   - Encouraged continuation of regular exercise and maintaining a balanced diet.
+   - Recommended limiting caffeine intake to decrease potential triggers for palpitations.
+   - Provided reassurance about the plan for systematic evaluation and management to address both the palpitations and associated anxiety.
+
+   **Patient Agreements:**
+   - The patient understands and agrees with the recommended medical treatment plan.
+
+**Instructions:**
+   - Patient will follow up in 1 month. She can contact the office sooner if symptoms worsen or new symptoms develop.
+
+---"|"**1. Subjective:**
+
+   **Chief Complaint (CC):**
+   - Palpitations.
+
+   **History of Present Illness (HPI):**
+   - 45-year-old female presents with moderate palpitations for the past 2 weeks. Symptoms occur daily, several episodes per day, associated with occasional dizziness and mild shortness of breath. The palpitations cause discomfort and anxiety, limiting her ability to concentrate at work.
+
+   **Review of Systems (ROS):**
+   - Constitutional: No fever, weight loss, or fatigue.
+   - Cardiovascular: Reports palpitations, occasional dizziness.
+   - Respiratory: Reports mild shortness of breath. Denies cough or wheezing.
+   - Neurological: No headaches or vision changes.
+   - Psychiatric: Reports anxiety, no depression or mood swings.
+   - Endocrine: No heat/cold intolerance, no changes in appetite or thirst.
+
+**2. Objective:**
+
+   **Vital Signs:**
+   - Blood Pressure: 135/85 mmHg
+   - Heart Rate: 82 bpm
+   - Respiratory Rate: 16 breaths per minute
+   - Temperature: 98.6°F
+   - Oxygen Saturation: 98% on room air
+
+   **Physical Examination:**
+   - General: Alert, no acute distress.
+   - Cardiovascular: Normal heart sounds, no murmurs, gallops, or rubs.
+   - Respiratory: Clear to auscultation bilaterally.
+   - Thyroid: Nontender, no palpable masses or nodules.
+   - Neurological: Non-focal, no deficits observed.
+
+   **Investigations:**
+   - Electrocardiogram (ECG): Normal sinus rhythm.
+
+**3. Assessment:**
+
+   **Primary Diagnosis:**
+   - Palpitations (ICD-10 R00.2) likely secondary to anxiety, exacerbated by existing hypertension.
+
+   **Differential Diagnosis:**
+   - Arrhythmia
+   - Hyperthyroidism
+   - Electrolyte imbalances
+
+**4. Plan:**
+
+   **Medical Treatment:**
+   - Prescribed Metoprolol 25 mg, oral, once daily for 30 days (30 tablets).
+
+   **Further Investigation:**
+   - Referral for Holter monitor for 48 hours to assess frequency and severity of palpitations.
+   - Blood tests including CBC, BMP, and TFTs to rule out secondary causes of palpitations.
+
+   **Referrals:**
+   - Referred to Dr. Sarah Williams, Cardiologist, for further evaluation and management of palpitations.
+
+   **Follow-Up:**
+   - Follow up in 1 month to evaluate response to medication and review Holter monitor results.
+
+   **Patient Education and Counseling:**
+   - Discussed potential side effects of Metoprolol and importance of adherence to medication regimen.
+   - Advised the patient to monitor and record episodes of palpitations, noting any triggers or associated symptoms.
+   - Encouraged continuation of regular exercise and maintaining a balanced diet.
+   - Recommended limiting caffeine intake to decrease potential triggers for palpitations.
+   - Provided reassurance about the plan for systematic evaluation and management to address both the palpitations and associated anxiety.
+
+   **Patient Agreements:**
+   - The patient understands and agrees with the recommended medical treatment plan.
+
+**Instructions:**
+   - Patient will follow up in 1 month. She can contact the office sooner if symptoms worsen or new symptoms develop."|"**1. Subjective:**
+
+   **CC:**
+   - Palpitations.
+
+   **HPI:**
+   - 45 y/o F c/o moderate palpitations x2 weeks. Sx occur daily, several episodes/day, assoc. with occasional dizziness and mild SOB. Palpitations cause discomfort and anxiety, limiting her ability to concentrate at work.
+
+   **ROS:**
+   - Constitutional: No fever, weight loss, or fatigue.
+   - CV: Reports palpitations, occasional dizziness.
+   - Resp: Reports mild SOB. Denies cough or wheezing.
+   - Neuro: No HA or vision changes.
+   - Psych: Reports anxiety, no depression or mood swings.
+   - Endo: No heat/cold intolerance, no changes in appetite or thirst.
+
+**2. Objective:**
+
+   **VS:**
+   - BP: 135/85 mmHg
+   - HR: 82 bpm
+   - RR: 16
+   - Temp: 98.6°F
+   - SpO2: 98% on RA
+
+   **PE:**
+   - General: Alert, NAD.
+   - CV: Normal heart sounds, no murmurs, gallops, or rubs.
+   - Resp: CTA bilaterally.
+   - Thyroid: Nontender, no palpable masses or nodules.
+   - Neuro: Non-focal, no deficits observed.
+
+   **Investigations:**
+   - ECG: NSR.
+
+**3. Assessment:**
+
+   **Primary Dx:**
+   - Palpitations (ICD-10 R00.2) likely 2° to anxiety, exacerbated by existing HTN.
+
+   **DDx:**
+   - Arrhythmia
+   - Hyperthyroidism
+   - Electrolyte imbalances
+
+**4. Plan:**
+
+   **Medical Tx:**
+   - Rx Metoprolol 25 mg PO QD x30 days (30 tabs).
+
+   **Further Investigation:**
+   - Referral for Holter monitor x48 hours to assess frequency and severity of palpitations.
+   - Blood tests including CBC, BMP, and TFTs to r/o secondary causes of palpitations.
+
+   **Referrals:**
+   - Referred to Dr. Sarah Williams, Cardiology, for further eval and mgmt of palpitations.
+
+   **Follow-Up:**
+   - F/U in 1 month to eval response to medication and review Holter monitor results.
+
+   **Patient Education and Counseling:**
+   - Discussed potential SE of Metoprolol and importance of adherence to med regimen.
+   - Advised pt to monitor and record episodes of palpitations, noting any triggers or assoc. Sx.
+   - Encouraged continuation of regular exercise and maintaining a balanced diet.
+   - Recommended limiting caffeine intake to decrease potential triggers for palpitations.
+   - Provided reassurance about the plan for systematic eval and mgmt to address both the palpitations and assoc. anxiety.
+
+   **Patient Agreements:**
+   - Pt understands and agrees with the recommended medical Tx plan.
+
+**Instructions:**
+   - Pt will F/U in 1 month. She can contact the office sooner if Sx worsen or new Sx develop."|Role not found in the first 5 lines.
+PALPITATIONS|"ROLE: Cardiologist
+
+** 1) Medical Outcome:**
+- Diagnosis: Palpitations
+- Prescribed treatment: Beta-blocker (Metoprolol 25 mg, oral, once daily, 30 tablets)
+- Follow-up recommendations: Return for follow-up in 2 weeks for review of symptoms and medication effectiveness
+- Referral to specialists: Referral to Electrophysiologist, Dr. John Smith, for further evaluation of potential arrhythmia
+
+** 2) Medical History:**
+- Previous Diagnoses: Hypertension, high cholesterol
+- Medication History: Lisinopril 10 mg daily, Atorvastatin 20 mg daily
+- Allergies: None reported
+- Chronic Conditions: Hypertension
+
+** 3) Symptom Description:**
+- Severity: Moderate
+- Duration: 2 months
+- Associated Symptoms: Occasional dizziness, shortness of breath
+- Frequency: Several times a week, more frequent in the evening
+- Impact on Daily Activities: Limited ability to exercise due to fear of palpitations exacerbating 
+
+** 4) Patient’s self-reported habits and lifestyle:**
+- Sleep: Approximately 6 hours per night, reports difficulty falling asleep due to anxiety about palpitations
+- Diet: High in salt, occasional fast food, low vegetable intake
+- Exercise: Inconsistent, avoids due to fear of symptoms
+- Tobacco Use: None
+- Alcohol Consumption: Drinks socially, about once a week
+- Drug Use: None
+- Recreational Activities: Enjoys reading and watching television
+
+** 5) Demographic Information:**
+- Age: 58
+- Gender: Male
+- Ethnicity: African American
+- Socio-economic Status: Middle class
+- Education Level: College graduate
+- Health Literacy: Average understanding of medical terms and conditions
+- Job Status: Office manager, sedentary job
+
+** 6) Patient's Behavior:**
+- Generally cooperative with medical advice, expresses concern about medication side effects
+
+** 7) Geographical Location:**
+- Big City, Urban
+- Neighborhood: Affluent, well-served by transit
+
+** 8) Clinical Setting:**
+- Cardiology Clinic
+
+** 9) Type of Encounter:**
+- Initial Consultation
+
+** 10) Treatment Disparities:**
+- None noted
+
+** 11) Native or Non-Native English Speaking Patient:**
+- Native English Speaking
+
+** 12) Physical exams:**
+- Cardiovascular: Irregular heartbeat noted, no murmurs
+- Respiratory: Clear to auscultation bilaterally
+
+** 13) Investigation/Test results:**
+- EKG: Awaiting results
+- Blood Work: Ordered for biochemistry, including electrolytes, thyroid function tests, lipid profile
+- Imaging: Ordered Echocardiogram to evaluate structural heart disease"|"#####
+**Subjective:**
+
+**Chief Complaint (CC):**
+Palpitations.
+
+**History of Present Illness (HPI):**
+John Doe is a 58-year-old African American male with a past medical history of hypertension and high cholesterol who presents today for evaluation of palpitations. The patient reports experiencing moderate palpitations for the past 2 months, occurring several times a week, with increased frequency in the evening. He associates the palpitations with occasional dizziness and shortness of breath. The patient expresses concern that these symptoms limit his ability to exercise, as he fears exacerbating his palpitations.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Denies fever, weight loss.
+- **Cardiovascular:** Reports palpitations and occasional dizziness.
+- **Respiratory:** Reports shortness of breath, denies cough or wheezing.
+- **Psychological:** Reports anxiety related to palpitations, leading to difficulty falling asleep.
+
+**Objective:**
+
+**Physical Examination:**
+- **Cardiovascular:** Irregular heartbeat noted, no murmurs detected.
+- **Respiratory:** Lungs clear to auscultation bilaterally.
+
+**Investigations/Test Results:**
+- **EKG:** Awaiting results.
+- **Blood Work:** Ordered for biochemistry, including electrolytes, thyroid function tests, lipid profile.
+- **Imaging:** Ordered Echocardiogram to evaluate for structural heart disease.
+
+**Assessment:**
+
+John Doe is a 58-year-old male with a past medical history of hypertension and high cholesterol, presenting with palpitations.
+
+**1. Palpitations:**
+- **Medical Reasoning:** The patient reports moderate palpitations associated with occasional dizziness and shortness of breath, with a noticeable increase in frequency in the evening. Anxiety regarding these symptoms is noted, which affects his sleep and exercise habits.
+- **Possible Differential Diagnosis:**
+  1. Atrial fibrillation
+  2. Premature ventricular contractions
+  3. Anxiety-induced palpitations
+  4. Thyroid dysfunction (pending blood work)
+- **Additional Testing:** Await results of EKG and blood work. Echocardiogram has been ordered to rule out any structural heart disease.
+
+**Plan:**
+
+**1. Management of Palpitations:**
+- **Medication:** Prescribed Metoprolol 25 mg, oral, once daily, for 30 days. This beta-blocker will help manage the palpitations and associated symptoms.
+- **Follow-Up:** Return for follow-up in 2 weeks to review symptoms and the effectiveness of the medication.
+- **Referral:** Referral to Electrophysiologist, Dr. John Smith, for further evaluation of potential arrhythmia.
+
+**2. Lifestyle and Diet:**
+- **Patient Education and Counseling:** Advised the patient to reduce salt intake, increase vegetable consumption, and avoid fast food. Educated on the importance of regular exercise and stress management techniques to help alleviate anxiety-related symptoms.
+  
+**3. Monitoring and Prevention:**
+- **Patient Agreement:** The patient understands and agrees with the recommended medical treatment plan and lifestyle modifications. He will follow up as instructed and adhere to the prescribed medication.
+
+Patient is cooperative and expresses concerns about medication side effects, which were addressed during the consultation. No treatment disparities noted. The patient is a native English speaker with average health literacy, and he lives in an affluent urban neighborhood well-served by transit.
+#####
+"|"#####
+**Subjective:**
+
+**Chief Complaint (CC):**
+Palpitations.
+
+**History of Present Illness (HPI):**
+John Doe is a 58-year-old African American male with a past medical history of hypertension and high cholesterol who presents today for evaluation of palpitations. The patient reports experiencing moderate palpitations for the past 2 months, occurring several times a week, with increased frequency in the evening. He associates the palpitations with occasional dizziness and shortness of breath. The patient expresses concern that these symptoms limit his ability to exercise, as he fears exacerbating his palpitations.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Denies fever, weight loss.
+- **Cardiovascular:** Reports palpitations and occasional dizziness.
+- **Respiratory:** Reports shortness of breath, denies cough or wheezing.
+- **Psychological:** Reports anxiety related to palpitations, leading to difficulty falling asleep.
+
+**Objective:**
+
+**Physical Examination:**
+- **Cardiovascular:** Irregular heartbeat noted, no murmurs detected.
+- **Respiratory:** Lungs clear to auscultation bilaterally.
+
+**Assessment:**
+
+John Doe is a 58-year-old male with a past medical history of hypertension and high cholesterol, presenting with palpitations.
+
+**1. Palpitations:**
+- **Medical Reasoning:** The patient reports moderate palpitations associated with occasional dizziness and shortness of breath, with a noticeable increase in frequency in the evening. Anxiety regarding these symptoms is noted, which affects his sleep and exercise habits.
+- **Possible Differential Diagnosis:**
+  1. Atrial fibrillation
+  2. Premature ventricular contractions
+  3. Anxiety-induced palpitations
+  4. Thyroid dysfunction (pending blood work)
+
+**Plan:**
+
+**1. Management of Palpitations:**
+- **Medication:** Prescribed Metoprolol 25 mg, oral, once daily, for 30 days. This beta-blocker will help manage the palpitations and associated symptoms.
+- **Follow-Up:** Return for follow-up in 2 weeks to review symptoms and the effectiveness of the medication.
+- **Referral:** Referral to Electrophysiologist, Dr. John Smith, for further evaluation of potential arrhythmia.
+
+**2. Lifestyle and Diet:**
+- **Patient Education and Counseling:** Advised the patient to reduce salt intake, increase vegetable consumption, and avoid fast food. Educated on the importance of regular exercise and stress management techniques to help alleviate anxiety-related symptoms.
+
+**3. Monitoring and Prevention:**
+- **Patient Agreement:** The patient understands and agrees with the recommended medical treatment plan and lifestyle modifications. He will follow up as instructed and adhere to the prescribed medication.
+
+**4. Additional Testing:**
+- **Investigations/Test Results:** 
+  - **EKG:** Awaiting results.
+  - **Blood Work:** Ordered for biochemistry, including electrolytes, thyroid function tests, lipid profile.
+  - **Imaging:** Ordered Echocardiogram to evaluate for structural heart disease.
+
+Patient is cooperative and expresses concerns about medication side effects, which were addressed during the consultation. No treatment disparities noted. The patient is a native English speaker with average health literacy, and he lives in an affluent urban neighborhood well-served by transit.
+#####"|"#####
+**Subjective:**
+
+**CC:**
+Palpitations.
+
+**HPI:**
+John Doe is a 58 y/o AA male with PMH of HTN and HLD who presents today for eval of palpitations. Pt reports experiencing moderate palpitations for the past 2 mos, occurring several times a week, with increased frequency in the evening. He associates the palpitations with occasional dizziness and SOB. Pt expresses concern that these symptoms limit his ability to exercise, as he fears exacerbating his palpitations.
+
+**ROS:**
+- **Constitutional:** Denies fever, weight loss.
+- **CV:** Reports palpitations and occasional dizziness.
+- **Resp:** Reports SOB, denies cough or wheezing.
+- **Psych:** Reports anxiety related to palpitations, leading to difficulty falling asleep.
+
+**Objective:**
+
+**Physical Exam:**
+- **CV:** Irregular heartbeat noted, no murmurs detected.
+- **Resp:** Lungs clear to auscultation bilaterally.
+
+**Assessment:**
+
+John Doe is a 58 y/o male with PMH of HTN and HLD, presenting with palpitations.
+
+**1. Palpitations:**
+- **Medical Reasoning:** Pt reports moderate palpitations associated with occasional dizziness and SOB, with a noticeable increase in frequency in the evening. Anxiety regarding these symptoms is noted, which affects his sleep and exercise habits.
+- **Possible Differential Dx:**
+  1. A-fib
+  2. PVCs
+  3. Anxiety-induced palpitations
+  4. Thyroid dysfunction (pending blood work)
+
+**Plan:**
+
+**1. Mgmt of Palpitations:**
+- **Rx:** Metoprolol 25 mg PO QD for 30 days. This beta-blocker will help manage the palpitations and associated symptoms.
+- **F/U:** Return for F/U in 2 weeks to review symptoms and the effectiveness of the medication.
+- **Referral:** Referral to EP, Dr. John Smith, for further eval of potential arrhythmia.
+
+**2. Lifestyle and Diet:**
+- **Pt Ed and Counseling:** Advised pt to reduce Na intake, increase vegetable consumption, and avoid fast food. Educated on the importance of regular exercise and stress mgmt techniques to help alleviate anxiety-related symptoms.
+
+**3. Monitoring and Prevention:**
+- **Pt Agreement:** Pt understands and agrees with the recommended medical tx plan and lifestyle modifications. He will F/U as instructed and adhere to the prescribed medication.
+
+**4. Additional Testing:**
+- **Investigations/Test Results:** 
+  - **EKG:** Awaiting results.
+  - **Blood Work:** Ordered for biochemistry, including electrolytes, TFTs, lipid profile.
+  - **Imaging:** Ordered Echo to eval for structural heart disease.
+
+Pt is cooperative and expresses concerns about medication side effects, which were addressed during the consultation. No tx disparities noted. Pt is a native English speaker with average health literacy, and he lives in an affluent urban neighborhood well-served by transit.
+#####"|Cardiologist
+PALPITATIONS|"ROLE: Family Medicine Physician
+
+SCENARIO:
+
+1) Medical Outcome: 
+   - Diagnosis: R00.2 - Palpitations
+   - Prescribed Treatment: 
+     - Metoprolol 50 mg, oral, twice daily for 30 days, 60 tablets
+   - Follow-up Recommendations:
+     - Follow-up in 2 weeks to reassess symptoms and possibly adjust medications.
+   - Referral to Specialists:
+     - Referral to Cardiologist Dr. John Smith for further evaluation and management due to persistent palpitations.
+   - Order for Blood Work:
+     - Thyroid function tests (TFTs) for biochemistry
+     - Complete blood count (CBC) for hematology
+   - Order for Imaging:
+     - Electrocardiogram (ECG) to evaluate heart rhythm
+
+2) Medical History:
+   - Previous Diagnoses: Hypertension, Hyperlipidemia
+   - Family Medical History: Father with coronary artery disease
+   - Medication History: Currently taking Atorvastatin 20 mg daily for hyperlipidemia, Lisinopril 10 mg daily for hypertension
+   - Allergies: Penicillin
+   - Chronic Conditions: Hypertension, Hyperlipidemia
+
+3) Symptom Description:
+   - Severity: Moderate
+   - Duration: 3 weeks
+   - Associated Symptoms: Dizziness, occasional shortness of breath
+   - Frequency: Daily
+   - Impact on Daily Activities: Interferes with daily tasks and causing anxiety
+
+4) Patient's self-reported habits and lifestyle:
+   - Sleep: Poor quality sleep, 5-6 hours per night
+   - Diet: High in processed foods, low in fruits and vegetables
+   - Exercise: Sedentary lifestyle, minimal physical activity
+   - Tobacco Use: Former smoker, quit 5 years ago
+   - Alcohol Consumption: Social drinker, 1-2 drinks per week
+   - Drug Use: Denies
+   - Recreational Activities: Watches TV in free time
+
+5) Demographic Information:
+   - Age: 52
+   - Gender: Female
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: High school graduate
+   - Health Literacy: Moderate
+   - Job Status: Administrative assistant
+
+6) Patient's Behavior:
+   - Level of cooperation: Cooperative with medical advice, but anxious about health
+
+7) Geographical Location:
+   - Big City vs Small City: Urban
+   - Pollution and Environmental Health Risks: Moderate pollution
+   - Neighborhood Type: Well-served by transit but has food deserts
+
+8) Clinical Setting:
+   - Clinics
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - None observed, receives comprehensive care
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English Speaking Patient
+
+12) Physical exams:
+   - Cardiovascular: Regular rate and rhythm, no murmurs
+   - Respiratory: Clear to auscultation
+   - Thyroid: No palpable masses
+
+13) Investigation/Test results:
+   - Electrocardiogram (ECG) ordered, awaiting results
+   - Thyroid function tests (TFTs) ordered, awaiting results
+   - Complete blood count (CBC) ordered, awaiting results"|"**1. Subjective:**
+
+   **Chief Complaint (CC):**
+   The patient is a 52-year-old Caucasian female presenting with a primary complaint of palpitations.
+
+   **History of Present Illness (HPI):**
+   The patient reports experiencing daily palpitations for the past 3 weeks, which she describes as moderate in severity. These episodes are associated with dizziness and occasional shortness of breath. The palpitations interfere with her daily tasks and cause significant anxiety.
+
+   **Review of Systems (ROS):**
+   - Cardiovascular: Positive for palpitations, dizziness, and occasional shortness of breath.
+   - Respiratory: Negative for cough or wheezing.
+   - Gastrointestinal: Negative for nausea or vomiting.
+   - Endocrine: Negative for heat or cold intolerance.
+   - Sleep: Reports poor quality sleep, averaging 5-6 hours per night.
+   - Mental Health: Reports anxiety related to her symptoms.
+
+**2. Objective:**
+
+   **Vital Signs:**
+   - Blood pressure: 140/85 mmHg
+   - Heart rate: 85 bpm
+   - Respiratory rate: 16 breaths/min
+   - Temperature: 98.6°F
+   - Oxygen saturation: 98% on room air
+
+   **Physical Examination:**
+   - Cardiovascular: Regular rate and rhythm, no murmurs.
+   - Respiratory: Clear to auscultation bilaterally.
+   - Thyroid: No palpable masses.
+
+   **Recent Test Results:**
+   - Electrocardiogram (ECG): Ordered, awaiting results.
+   - Thyroid function tests (TFTs): Ordered, awaiting results.
+   - Complete blood count (CBC): Ordered, awaiting results.
+
+**3. Assessment:**
+
+   **Diagnosis:**
+   - R00.2 - Palpitations
+
+   **Differential Diagnoses:**
+   - Cardiac arrhythmia
+   - Anxiety disorder
+   - Thyroid dysfunction
+   - Electrolyte imbalance
+
+**4. Plan:**
+
+   **Medications:**
+   - Prescribed Metoprolol 50 mg, oral, twice daily for 30 days, 60 tablets.
+   
+   **Referrals:**
+   - Referred to Cardiologist Dr. John Smith for further evaluation and management due to persistent palpitations.
+
+   **Investigations:**
+   - Ordered Thyroid function tests (TFTs) for biochemistry.
+   - Ordered Complete blood count (CBC) for hematology.
+   - Ordered Electrocardiogram (ECG) to evaluate heart rhythm.
+
+   **Lifestyle Modifications:**
+   - Advised to reduce intake of processed foods and increase consumption of fruits and vegetables.
+   - Encouraged to engage in regular physical activity, such as brisk walking for at least 30 minutes daily.
+   - Provided resources for improving sleep hygiene.
+
+   **Follow-Up:**
+   - Follow up in 2 weeks to reassess symptoms and possibly adjust medications.
+
+   **Education and Reassurance:**
+   - Discussed the importance of medication adherence and lifestyle changes.
+   - Reassured the patient that palpitations are a common symptom and often manageable with lifestyle modifications and medications.
+   - Educated on recognizing warning signs such as severe chest pain or syncope, and advised to seek immediate medical attention if these occur.
+
+**Instructions:**
+   - Patient to return in 2 weeks for follow-up.
+   - Complete all ordered tests and schedule the cardiology referral.
+   - Report any new or worsening symptoms immediately."|"**1. Subjective:**
+
+   **Chief Complaint (CC):**
+   The patient, named Emily Johnson, is a 52-year-old Caucasian female presenting with a primary complaint of palpitations.
+
+   **History of Present Illness (HPI):**
+   The patient reports experiencing daily palpitations for the past 3 weeks, which she describes as moderate in severity. These episodes are associated with dizziness and occasional shortness of breath. The palpitations interfere with her daily tasks and cause significant anxiety.
+
+   **Review of Systems (ROS):**
+   - Cardiovascular: Positive for palpitations, dizziness, and occasional shortness of breath.
+   - Respiratory: Negative for cough or wheezing.
+   - Gastrointestinal: Negative for nausea or vomiting.
+   - Endocrine: Negative for heat or cold intolerance.
+   - Sleep: Reports poor quality sleep, averaging 5-6 hours per night.
+   - Mental Health: Reports anxiety related to her symptoms.
+
+**2. Objective:**
+
+   **Vital Signs:**
+   - Blood pressure: 140/85 mmHg
+   - Heart rate: 85 bpm
+   - Respiratory rate: 16 breaths/min
+   - Temperature: 98.6°F
+   - Oxygen saturation: 98% on room air
+
+   **Physical Examination:**
+   - Cardiovascular: Regular rate and rhythm, no murmurs.
+   - Respiratory: Clear to auscultation bilaterally.
+   - Thyroid: No palpable masses.
+
+**3. Assessment:**
+
+   **Diagnosis:**
+   - R00.2 - Palpitations
+
+   **Differential Diagnoses:**
+   - Cardiac arrhythmia
+   - Anxiety disorder
+   - Thyroid dysfunction
+   - Electrolyte imbalance
+
+**4. Plan:**
+
+   **Medications:**
+   - Prescribed Metoprolol 50 mg, oral, twice daily for 30 days, 60 tablets.
+   
+   **Referrals:**
+   - Referred to Cardiologist Dr. John Smith for further evaluation and management due to persistent palpitations.
+
+   **Investigations:**
+   - Ordered Thyroid function tests (TFTs) for biochemistry.
+   - Ordered Complete blood count (CBC) for hematology.
+   - Ordered Electrocardiogram (ECG) to evaluate heart rhythm.
+
+   **Lifestyle Modifications:**
+   - Advised to reduce intake of processed foods and increase consumption of fruits and vegetables.
+   - Encouraged to engage in regular physical activity, such as brisk walking for at least 30 minutes daily.
+   - Provided resources for improving sleep hygiene.
+
+   **Follow-Up:**
+   - Follow up in 2 weeks to reassess symptoms and possibly adjust medications.
+
+   **Education and Reassurance:**
+   - Discussed the importance of medication adherence and lifestyle changes.
+   - Reassured the patient that palpitations are a common symptom and often manageable with lifestyle modifications and medications.
+   - Educated on recognizing warning signs such as severe chest pain or syncope, and advised to seek immediate medical attention if these occur.
+
+   **Instructions:**
+   - Patient to return in 2 weeks for follow-up.
+   - Complete all ordered tests and schedule the cardiology referral.
+   - Report any new or worsening symptoms immediately."|"**1. Subjective:**
+
+   **CC:**
+   The pt, named Emily Johnson, is a 52 y/o Caucasian F presenting with a primary c/o palpitations.
+
+   **HPI:**
+   Pt reports experiencing daily palpitations for the past 3 wks, which she describes as moderate in severity. These episodes are assoc. with dizziness and occasional SOB. The palpitations interfere with her ADLs and cause significant anxiety.
+
+   **ROS:**
+   - CV: +palpitations, dizziness, and occasional SOB.
+   - Resp: -cough or wheezing.
+   - GI: -nausea or vomiting.
+   - Endo: -heat or cold intolerance.
+   - Sleep: Reports poor quality sleep, averaging 5-6 hrs/night.
+   - MH: Reports anxiety related to her symptoms.
+
+**2. Objective:**
+
+   **VS:**
+   - BP: 140/85 mmHg
+   - HR: 85 bpm
+   - RR: 16 breaths/min
+   - Temp: 98.6°F
+   - O2 Sat: 98% on RA
+
+   **PE:**
+   - CV: RRR, no murmurs.
+   - Resp: CTA bilaterally.
+   - Thyroid: No palpable masses.
+
+**3. Assessment:**
+
+   **Dx:**
+   - R00.2 - Palpitations
+
+   **DDx:**
+   - Cardiac arrhythmia
+   - Anxiety disorder
+   - Thyroid dysfunction
+   - Electrolyte imbalance
+
+**4. Plan:**
+
+   **Meds:**
+   - Rx Metoprolol 50 mg PO BID for 30 days, 60 tabs.
+   
+   **Referrals:**
+   - Referred to Cardiology, Dr. John Smith, for further eval and mgmt due to persistent palpitations.
+
+   **Investigations:**
+   - Ordered TFTs for biochem.
+   - Ordered CBC for hematology.
+   - Ordered ECG to eval heart rhythm.
+
+   **Lifestyle Modifications:**
+   - Advised to reduce intake of processed foods and increase consumption of fruits and veggies.
+   - Encouraged to engage in regular physical activity, such as brisk walking for at least 30 mins daily.
+   - Provided resources for improving sleep hygiene.
+
+   **F/U:**
+   - F/U in 2 wks to reassess symptoms and possibly adjust meds.
+
+   **Education and Reassurance:**
+   - Discussed the importance of med adherence and lifestyle changes.
+   - Reassured the pt that palpitations are a common symptom and often manageable with lifestyle modifications and meds.
+   - Educated on recognizing warning signs such as severe CP or syncope, and advised to seek immediate medical attention if these occur.
+
+   **Instructions:**
+   - Pt to return in 2 wks for F/U.
+   - Complete all ordered tests and schedule the cardiology referral.
+   - Report any new or worsening symptoms immediately."|Family Medicine Physician
+PALPITATIONS|"**ROLE:** Cardiologist
+
+**SCENARIO:**
+1. **Medical Outcome:** Diagnosis - Palpitations (ICD-10: R00.2); Prescribed Treatment - Ensure regular follow-up visits every 3 months; Medication - Metoprolol 50 mg, oral, twice daily, 30 tablets, with one refill; Ordered Tests - Electrocardiogram (ECG), 24-hour Holter monitoring.
+2. **Medical History:** Previous Diagnoses - Hypertension, Hyperlipidemia; Family Medical History - Father with a history of myocardial infarction at age 50, Mother with type 2 diabetes; Medication History - Lisinopril, Atorvastatin; Allergies - No known drug allergies; Chronic Conditions - Hypertension, Hyperlipidemia.
+3. **Symptom Description:** Severity - Moderate; Duration - 2 weeks; Associated Symptoms - Occasional dizziness and shortness of breath; Frequency - Episodes occurring 3-4 times a day; Impact on Daily Activities - Difficulty concentrating at work, occasional need to sit or lie down.
+4. **Patient’s self-reported habits and lifestyle:** Sleep - 6-7 hours per night, reports occasional insomnia; Diet - Balanced diet, avoids fatty foods, moderate sodium intake; Exercise - Lacks regular exercise, mostly sedentary; Tobacco Use - Quit smoking 5 years ago, previously smoked 1 pack/day; Alcohol Consumption - Drinks socially, 1-2 times per week; Drug Use - Denies; Recreational Activities - Enjoys reading and watching television.
+5. **Demographic Information:** Age - 52; Gender - Male; Ethnicity - Caucasian; Socio-economic Status - Middle class; Education Level - Bachelor's degree; Health Literacy - Moderate; Job Status - Middle management in a corporate firm.
+6. **Patient's Behavior:** Generally understands and follows medical advice, occasionally misses medication doses.
+7. **Geographical Location:** Urban; Well-served by public transit; Affluent neighborhood with access to healthcare facilities.
+8. **Clinical Setting:** Private Practice.
+9. **Type of Encounter:** Initial Consultation.
+10. **Treatment Disparities:** No significant disparities noted.
+11. **Native or Non-Native English Speaking Patient:** Native English speaker.
+12. **Physical exams:** Cardiovascular Exam - Apical impulse not displaced, no murmurs or gallops, regular rate and rhythm.
+13. **Investigation/Test results:** Ordered but pending results - Electrocardiogram (ECG) to assess cardiac electrical activity, 24-hour Holter monitoring to evaluate arrhythmias."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Palpitations.
+
+**History of Present Illness (HPI):**
+The patient is a 52-year-old Caucasian male, presenting for evaluation of recent onset palpitations. He reports experiencing these palpitations for the past 2 weeks, with episodes occurring 3-4 times a day. The episodes are described as a rapid, fluttering sensation in the chest, lasting several minutes. The patient also notes associated symptoms of occasional dizziness and shortness of breath during these episodes. He mentions difficulty concentrating at work and occasionally needing to sit or lie down during a palpitations episode. His current symptoms have a moderate severity, and he rates them as impacting his daily activities.
+
+**Review of Systems (ROS):**
+- **Cardiovascular:** Positive for palpitations, reports rapid heart rate episodes.
+- **Respiratory:** Positive for shortness of breath during palpitations.
+- **Neurological:** Positive for occasional dizziness.
+- **General:** Denies fever, chills, and weight loss.
+- **Gastrointestinal:** No nausea or vomiting. 
+- **Musculoskeletal:** Denies chest pain or discomfort.
+
+**2. Objective:**
+
+**Vitals:**
+- BP: 135/85 mmHg
+- HR: 80 bpm, regular
+- RR: 16 breaths/min
+- Temp: 98.6°F
+
+**Physical Examination:**
+- **General:** Alert and oriented, no acute distress.
+- **CV:** Apical impulse not displaced, S1 and S2 present, no murmurs, gallops, or rubs. Regular rate and rhythm.
+- **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Abdomen:** Soft, non-tender, no hepatosplenomegaly.
+- **Extremities:** No edema, pulses palpable, capillary refill < 2 seconds.
+
+**3. Assessment:**
+- **Primary Diagnosis:** Palpitations (ICD-10: R00.2)
+- **Secondary Diagnoses:**
+  - Hypertension
+  - Hyperlipidemia
+- **Differential Diagnoses:**
+  - Arrhythmia
+  - Anxiety/Stress-related palpitations
+  - Hyperthyroidism (less likely given no other suggestive features)
+
+**4. Plan:**
+- **Medication:**
+  - Metoprolol 50 mg, oral, twice daily, 30 tablets, with one refill.
+- **Investigations:**
+  - Electrocardiogram (ECG) to assess cardiac electrical activity.
+  - 24-hour Holter monitoring to evaluate arrhythmias.
+- **Lifestyle Modifications:**
+  - Encourage regular, moderate exercise.
+  - Stress management techniques.
+  - Maintain balanced diet, low in sodium and saturated fats.
+  - Adequate hydration and proper sleep hygiene practices.
+- **Follow-Up:**
+  - Schedule follow-up visit in 3 months to re-evaluate symptoms and treatment efficacy.
+- **Patient Education:**
+  - Educated about the importance of medication adherence and monitoring of symptoms.
+  - Advised to avoid stimulants (e.g., caffeine) that may exacerbate palpitations.
+  - Instructed to seek immediate medical attention if symptoms worsen or if he experiences chest pain, syncope, or severe dizziness.
+
+#####
+"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Palpitations.
+
+**History of Present Illness (HPI):**
+The patient, Mr. John Smith, is a 52-year-old Caucasian male, presenting for evaluation of recent onset palpitations. He reports experiencing these palpitations for the past 2 weeks, with episodes occurring 3-4 times a day. The episodes are described as a rapid, fluttering sensation in the chest, lasting several minutes. The patient also notes associated symptoms of occasional dizziness and shortness of breath during these episodes. He mentions difficulty concentrating at work and occasionally needing to sit or lie down during a palpitations episode. His current symptoms have a moderate severity, and he rates them as impacting his daily activities.
+
+**Review of Systems (ROS):**
+- **Cardiovascular:** Positive for palpitations, reports rapid heart rate episodes.
+- **Respiratory:** Positive for shortness of breath during palpitations.
+- **Neurological:** Positive for occasional dizziness.
+- **General:** Denies fever, chills, and weight loss.
+- **Gastrointestinal:** No nausea or vomiting. 
+- **Musculoskeletal:** Denies chest pain or discomfort.
+
+**2. Objective:**
+
+**Vitals:**
+- BP: 135/85 mmHg
+- HR: 80 bpm, regular
+- RR: 16 breaths/min
+- Temp: 98.6°F
+
+**Physical Examination:**
+- **General:** Alert and oriented, no acute distress.
+- **CV:** Apical impulse not displaced, S1 and S2 present, no murmurs, gallops, or rubs. Regular rate and rhythm.
+- **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Abdomen:** Soft, non-tender, no hepatosplenomegaly.
+- **Extremities:** No edema, pulses palpable, capillary refill < 2 seconds.
+
+**3. Assessment:**
+- **Primary Diagnosis:** Palpitations (ICD-10: R00.2)
+- **Secondary Diagnoses:**
+  - Hypertension
+  - Hyperlipidemia
+- **Differential Diagnoses:**
+  - Arrhythmia
+  - Anxiety/Stress-related palpitations
+  - Hyperthyroidism (less likely given no other suggestive features)
+
+**4. Plan:**
+- **Medication:**
+  - Metoprolol 50 mg, oral, twice daily, 30 tablets, with one refill.
+- **Investigations:**
+  - Electrocardiogram (ECG) to assess cardiac electrical activity.
+  - 24-hour Holter monitoring to evaluate arrhythmias.
+- **Lifestyle Modifications:**
+  - Encourage regular, moderate exercise.
+  - Stress management techniques.
+  - Maintain balanced diet, low in sodium and saturated fats.
+  - Adequate hydration and proper sleep hygiene practices.
+- **Follow-Up:**
+  - Schedule follow-up visit in 3 months to re-evaluate symptoms and treatment efficacy.
+- **Patient Education:**
+  - Educated about the importance of medication adherence and monitoring of symptoms.
+  - Advised to avoid stimulants (e.g., caffeine) that may exacerbate palpitations.
+  - Instructed to seek immediate medical attention if symptoms worsen or if he experiences chest pain, syncope, or severe dizziness.
+
+#####"|"#####
+**1. Subjective:**
+
+**CC:**
+Palpitations.
+
+**HPI:**
+The patient, Mr. John Smith, is a 52-year-old Caucasian male, presenting for eval of recent onset palpitations. He reports experiencing these palpitations for the past 2 weeks, with episodes occurring 3-4 times a day. The episodes are described as a rapid, fluttering sensation in the chest, lasting several minutes. The patient also notes associated sx of occasional dizziness and SOB during these episodes. He mentions difficulty concentrating at work and occasionally needing to sit or lie down during a palpitations episode. His current sx have a moderate severity, and he rates them as impacting his daily activities.
+
+**ROS:**
+- **CV:** Positive for palpitations, reports rapid HR episodes.
+- **Resp:** Positive for SOB during palpitations.
+- **Neuro:** Positive for occasional dizziness.
+- **General:** Denies fever, chills, and weight loss.
+- **GI:** No nausea or vomiting. 
+- **MSK:** Denies chest pain or discomfort.
+
+**2. Objective:**
+
+**Vitals:**
+- BP: 135/85 mmHg
+- HR: 80 bpm, regular
+- RR: 16 breaths/min
+- Temp: 98.6°F
+
+**Physical Exam:**
+- **General:** Alert and oriented, no acute distress.
+- **CV:** Apical impulse not displaced, S1 and S2 present, no murmurs, gallops, or rubs. Regular rate and rhythm.
+- **Resp:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Abd:** Soft, non-tender, no hepatosplenomegaly.
+- **Ext:** No edema, pulses palpable, cap refill < 2 seconds.
+
+**3. Assessment:**
+- **Primary Dx:** Palpitations (ICD-10: R00.2)
+- **Secondary Dx:**
+  - HTN
+  - HLD
+- **Differential Dx:**
+  - Arrhythmia
+  - Anxiety/Stress-related palpitations
+  - Hyperthyroidism (less likely given no other suggestive features)
+
+**4. Plan:**
+- **Rx:**
+  - Metoprolol 50 mg PO BID, 30 tabs, with one refill.
+- **Investigations:**
+  - ECG to assess cardiac electrical activity.
+  - 24-hour Holter monitoring to eval arrhythmias.
+- **Lifestyle Mods:**
+  - Encourage regular, moderate exercise.
+  - Stress mgmt techniques.
+  - Maintain balanced diet, low in Na and saturated fats.
+  - Adequate hydration and proper sleep hygiene practices.
+- **Follow-Up:**
+  - Schedule follow-up visit in 3 months to re-eval sx and treatment efficacy.
+- **Patient Education:**
+  - Educated about the importance of med adherence and monitoring of sx.
+  - Advised to avoid stimulants (e.g., caffeine) that may exacerbate palpitations.
+  - Instructed to seek immediate medical attention if sx worsen or if he experiences chest pain, syncope, or severe dizziness.
+
+#####"|Role not found in the first 5 lines.
+PALPITATIONS|"ROLE: Cardiologist
+
+1) Medical Outcome: 
+- Diagnosis: Palpitations (ICD-10 R00.2)
+- Prescribed Treatment: Metoprolol 50 mg, oral, once daily for 30 days, 30 tablets.
+- Follow-up Recommendations: Schedule a follow-up appointment in 2 weeks.
+- Referral to Specialists: Consider referral to Electrophysiologist if symptoms persist. 
+- Blood Work: Order for biochemistry, including electrolyte panel to check for imbalances.
+- Imaging: Order an Echocardiogram to assess heart structure and function, and Holter monitor for 24 hours to detect arrhythmias.
+
+2) Medical History: 
+- Previous Diagnoses: Hypertension, Hyperlipidemia.
+- Family Medical History: Father had coronary artery disease.
+- Medication History: Currently on Lisinopril 20 mg daily for hypertension, Atorvastatin 10 mg daily for hyperlipidemia.
+- Allergies: N/A
+- Chronic Conditions: Hypertension
+
+3) Symptom Description: 
+- Severity: Moderate
+- Duration: 2 weeks
+- Associated Symptoms: Occasional dizziness and shortness of breath.
+- Frequency: Intermittent episodes several times a day.
+- Impact on Daily Activities: Disrupting daily activities and causing anxiety.
+
+4) Patient’s self-reported habits and lifestyle: 
+- Sleep: 6-7 hours per night.
+- Diet: Regular meals, high salt intake.
+- Exercise: Sedentary lifestyle, limited exercise.
+- Tobacco Use: Smokes 10 cigarettes per day for the last 15 years.
+- Alcohol Consumption: Drinks alcohol socially, 1-2 times per week.
+- Drug Use: Denied.
+- Recreational Activities: Minimal, mostly passive activities like watching TV.
+
+5) Demographic Information: 
+- Age: 52
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle class
+- Education Level: College degree
+- Health Literacy: Moderate understanding of health information.
+- Job Status: Office worker, stressful job.
+
+6) Patient's Behavior: Cooperative but visibly anxious about symptoms.
+
+7) Geographical Location: 
+- Big City: Lives in urban area
+- Environmental Health Risks: Moderate pollution
+- Neighborhood Type: Affluent neighborhood, well-served by transit and healthcare facilities.
+
+8) Clinical Setting: 
+- Specialty Clinics: Cardiovascular clinic.
+
+9) Type of Encounter: 
+- Initial Consultation
+
+10) Treatment Disparities: 
+- Patient has adequate insurance and ability to pay for prescribed treatments and follow-ups.
+
+11) Native or Non-Native English Speaking Patient: 
+- Native English Speaking Patient
+
+12) Physical exams:
+- Cardiovascular Examination: Regular rate and rhythm with intermittent irregular beats.
+- Respiratory Examination: Lungs clear to auscultation.
+- General Examination: Anxious but in no acute distress.
+
+13) Investigation/Test results: 
+- Awaiting results of ordered Echocardiogram and 24-hour Holter monitor."|"#####
+
+**1. Subjective:**
+
+**Chief Complaint (CC):** 
+Palpitations.
+
+**History of Present Illness (HPI):**
+Mr. John Smith is a 52-year-old Caucasian male who presents today with a 2-week history of palpitations. The patient describes the palpitations as intermittent episodes occurring several times a day, often accompanied by occasional dizziness and shortness of breath. He reports that these symptoms are moderate in severity and have been disruptive to his daily activities, causing significant anxiety.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Endorses fatigue, denies fever, chills, or weight loss.
+- **Cardiovascular:** Endorses palpitations and occasional dizziness, denies chest pain or syncope.
+- **Respiratory:** Endorses shortness of breath with palpitations, denies cough or wheezing.
+- **Gastrointestinal:** Denies nausea, vomiting, diarrhea, or constipation.
+- **Neurological:** Denies headaches, seizures, or focal neurologic deficits.
+- **Psychiatric:** Endorses anxiety related to symptoms, denies depression.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 140/90 mmHg
+- Heart Rate: 84 beats per minute with intermittent irregularity
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F (37°C)
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **Cardiovascular:** Regular rate and rhythm with intermittent irregular beats; no murmurs, rubs, or gallops.
+- **Respiratory:** Lungs clear to auscultation bilaterally.
+- **General:** Alert, oriented, and in no acute distress, but visibly anxious.
+  
+**3. Assessment:**
+
+- **Palpitations (ICD-10 R00.2):**
+  - **Medical Reasoning:** The patient’s palpitations and associated symptoms of dizziness and shortness of breath require further evaluation to rule out arrhythmias and other cardiac issues.
+  - **Differential Diagnosis:** Possible arrhythmia, anxiety, electrolyte imbalance, ischemic heart disease.
+
+**4. Plan:**
+
+- **Medical Treatment:**
+  - Prescribed Metoprolol 50 mg, oral, once daily for 30 days, 30 tablets.
+  
+- **Follow-up Recommendations:**
+  - Schedule a follow-up appointment in 2 weeks.
+  
+- **Referrals:**
+  - Consider referral to Electrophysiologist if symptoms persist.
+  
+- **Additional Testing:**
+  - **Blood Work:** Order for biochemistry, including electrolyte panel to check for imbalances.
+  - **Imaging:** Order an Echocardiogram to assess heart structure and function.
+  - **Monitoring:** Holter monitor for 24 hours to detect arrhythmias.
+  
+- **Lifestyle Modifications:**
+  - Encourage the patient to reduce high salt intake in the diet.
+  - Discuss smoking cessation strategies.
+  - Advise on incorporating moderate exercise into daily routine.
+
+- **Patient Education and Counseling:**
+  - Provided information on the use of Metoprolol, potential side effects, and the importance of adherence to medication.
+  - Discussed anxiety management techniques and the potential impact of stress on heart health.
+  - Educated the patient about the importance of follow-up appointments and test results.
+
+- **Patient Agreements:**
+  - The patient understands and agrees with the recommended medical treatment plan and follow-up logistics.
+
+#####
+
+This note summarizes the patient's condition and outlines an appropriate plan for assessment and management, demonstrating the thorough approach typical in cardiology consultations."|"**1. Subjective:**
+
+**Chief Complaint (CC):** 
+Palpitations.
+
+**History of Present Illness (HPI):**
+Mr. John Smith is a 52-year-old Caucasian male who presents today with a 2-week history of palpitations. The patient describes the palpitations as intermittent episodes occurring several times a day, often accompanied by occasional dizziness and shortness of breath. He reports that these symptoms are moderate in severity and have been disruptive to his daily activities, causing significant anxiety.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Endorses fatigue, denies fever, chills, or weight loss.
+- **Cardiovascular:** Endorses palpitations and occasional dizziness, denies chest pain or syncope.
+- **Respiratory:** Endorses shortness of breath with palpitations, denies cough or wheezing.
+- **Gastrointestinal:** Denies nausea, vomiting, diarrhea, or constipation.
+- **Neurological:** Denies headaches, seizures, or focal neurologic deficits.
+- **Psychiatric:** Endorses anxiety related to symptoms, denies depression.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 140/90 mmHg
+- Heart Rate: 84 beats per minute with intermittent irregularity
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F (37°C)
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **Cardiovascular:** Regular rate and rhythm with intermittent irregular beats; no murmurs, rubs, or gallops.
+- **Respiratory:** Lungs clear to auscultation bilaterally.
+- **General:** Alert, oriented, and in no acute distress, but visibly anxious.
+
+**3. Assessment:**
+
+- **Palpitations (ICD-10 R00.2):**
+  - **Medical Reasoning:** The patient’s palpitations and associated symptoms of dizziness and shortness of breath require further evaluation to rule out arrhythmias and other cardiac issues.
+  - **Differential Diagnosis:** Possible arrhythmia, anxiety, electrolyte imbalance, ischemic heart disease.
+
+**4. Plan:**
+
+- **Medical Treatment:**
+  - Prescribed Metoprolol 50 mg, oral, once daily for 30 days, 30 tablets.
+  
+- **Follow-up Recommendations:**
+  - Schedule a follow-up appointment in 2 weeks.
+  
+- **Referrals:**
+  - Referral to Dr. Emily Carter, Electrophysiologist, for further evaluation if symptoms persist.
+  
+- **Additional Testing:**
+  - **Blood Work:** Order for biochemistry, including electrolyte panel to check for imbalances.
+  - **Imaging:** Order an Echocardiogram to assess heart structure and function.
+  - **Monitoring:** Holter monitor for 24 hours to detect arrhythmias.
+  
+- **Lifestyle Modifications:**
+  - Encourage the patient to reduce high salt intake in the diet.
+  - Discuss smoking cessation strategies.
+  - Advise on incorporating moderate exercise into daily routine.
+
+- **Patient Education and Counseling:**
+  - Provided information on the use of Metoprolol, potential side effects, and the importance of adherence to medication.
+  - Discussed anxiety management techniques and the potential impact of stress on heart health.
+  - Educated the patient about the importance of follow-up appointments and test results.
+
+- **Patient Agreements:**
+  - The patient understands and agrees with the recommended medical treatment plan and follow-up logistics."|"**1. Subjective:**
+
+**CC:** 
+Palpitations.
+
+**HPI:**
+Mr. John Smith, a 52 y/o Caucasian male, presents with a 2-week hx of palpitations. Pt describes the palpitations as intermittent episodes occurring several times/day, often accompanied by occasional dizziness and SOB. He reports these sx are moderate in severity and have been disruptive to his ADLs, causing significant anxiety.
+
+**ROS:**
+- **Constitutional:** Endorses fatigue, denies fever, chills, or weight loss.
+- **CV:** Endorses palpitations and occasional dizziness, denies CP or syncope.
+- **Resp:** Endorses SOB with palpitations, denies cough or wheezing.
+- **GI:** Denies N/V/D or constipation.
+- **Neuro:** Denies HA, seizures, or focal neuro deficits.
+- **Psych:** Endorses anxiety related to sx, denies depression.
+
+**2. Objective:**
+
+**VS:**
+- BP: 140/90 mmHg
+- HR: 84 bpm with intermittent irregularity
+- RR: 18 bpm
+- Temp: 98.6°F (37°C)
+- O2 Sat: 98% on RA
+
+**PE:**
+- **CV:** RRR with intermittent irregular beats; no murmurs, rubs, or gallops.
+- **Resp:** Lungs CTA bilaterally.
+- **Gen:** Alert, oriented, and in NAD, but visibly anxious.
+
+**3. Assessment:**
+
+- **Palpitations (ICD-10 R00.2):**
+  - **Medical Reasoning:** Pt’s palpitations and associated sx of dizziness and SOB require further eval to r/o arrhythmias and other cardiac issues.
+  - **DDx:** Possible arrhythmia, anxiety, electrolyte imbalance, ischemic heart disease.
+
+**4. Plan:**
+
+- **Medical Tx:**
+  - Rx Metoprolol 50 mg PO QD for 30 days, 30 tabs.
+  
+- **F/U Recommendations:**
+  - Schedule F/U in 2 weeks.
+  
+- **Referrals:**
+  - Referral to Dr. Emily Carter, EP, for further eval if sx persist.
+  
+- **Additional Testing:**
+  - **Labs:** Order biochemistry, including electrolyte panel to check for imbalances.
+  - **Imaging:** Order Echo to assess heart structure and function.
+  - **Monitoring:** Holter monitor for 24 hrs to detect arrhythmias.
+  
+- **Lifestyle Modifications:**
+  - Encourage pt to reduce high salt intake in diet.
+  - Discuss smoking cessation strategies.
+  - Advise on incorporating moderate exercise into daily routine.
+
+- **Pt Education and Counseling:**
+  - Provided info on the use of Metoprolol, potential SEs, and the importance of adherence to med.
+  - Discussed anxiety mgmt techniques and the potential impact of stress on heart health.
+  - Educated pt about the importance of F/U appts and test results.
+
+- **Pt Agreements:**
+  - Pt understands and agrees with the recommended medical tx plan and F/U logistics."|Cardiologist
