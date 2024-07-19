@@ -8,9 +8,9 @@ HF_READ_TOKEN = os.getenv('MY_HF_READ_TOKEN')
 
 
 # for model eval
-summarizer_system_prompt= """You are an assistant for medical professionals, specializing in summarizing their conversations with patients. Your role is to accurately and comprehensively summarize these conversations in the SOAP (Subjective, Objective, Assessment, Plan) format. These summaries will serve as official medical notes for patient visits within the Electronic Health Record system. Ensure that each summary is thorough and precise, reflecting all relevant details from the conversation to provide a reliable medical record."""
+summarizer_system_prompt= """You are an assistant for medical professionals, specializing in summarizing their conversations with patients. Your role is to accurately and comprehensively summarize these conversations in the SOAP (Subjective, Objective, Assessment, Plan) format. Ensure that each summary is thorough and precise, reflecting all relevant details from the conversation to provide a reliable medical record."""
 
-base_model= "unsloth/llama-3-8b-Instruct-bnb-4bit" # changed to be consistent with the training.
+base_model= "unsloth/llama-3-8b-Instruct" # changed to be consistent with the training.
 #"meta-llama/Meta-Llama-3-8B-Instruct"
 
 Aci_test_path = "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/clinicalnlp_taskC_test2.csv"
@@ -25,7 +25,7 @@ model_evaluator_generation_config = {"max_new_tokens":3000,
                      # added
                      #"num_beams": 2,
                      #"no_repeat_ngram_size": 5,
-                     "repetition_penalty": 1.2,
+                     #"repetition_penalty": 1.2,
                      #"length_penalty": ,
                      #"exponential_decay_length_penalty": (1800, -0.2), #(tuple(int, float), optional) — This Tuple adds an exponentially increasing length penalty, after a certain amount of tokens have been generated.
                     }# #
@@ -146,6 +146,6 @@ tuning_config = {
 # NoteChat 
 
 NOTE_CHAT_HF_PATH= "akemiH/NoteChat"
-NUM_NOTE_CHAT_SAMPLES= 50
+NUM_NOTE_CHAT_SAMPLES= 500
 PATH_TO_SAVE_NOTE_CHAT_SAMPLES= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/NoteChatSamples"
 NOTE_CHAT_SAMPLE_BASE_NAME= "note_chat_sample"

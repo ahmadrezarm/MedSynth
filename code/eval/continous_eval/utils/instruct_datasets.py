@@ -24,7 +24,7 @@ class InstructDataset(ABC):
         :param dataset_path: The path to the dataset
         :return: None
         """
-        if dataset_path == "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/50_samples/_combined.csv":
+        if dataset_path == "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/Phase_2/500_sample/_combined_with_dial.csv":
                 self.dataset = pd.read_csv(dataset_path, sep= "|")
         
         else:

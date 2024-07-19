@@ -23,6 +23,12 @@ class MetricsComputer:
         results = bertscore.compute(predictions=self.pred_list, references=self.gt_list, lang="en")
         return  np.mean(results['f1']) # based on this paper, just mean of f1: https://github.com/StanfordMIMI/clin-summ/blob/main/src/calc_metrics.py
     
+    def compute_METEOR(self):
+        meteor= evaluate.load('meteor')
+        results = meteor.compute(predictions=self.pred_list, references=self.gt_list)
+        return results
+    
+    
     # awaiting UML licence to install QuickUMLS
     """ 
     def compute_MEDCON(self):

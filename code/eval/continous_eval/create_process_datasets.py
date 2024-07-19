@@ -20,15 +20,15 @@ from huggingface_hub import HfFolder
 HfFolder.save_token(constants.HF_WRITE_TOKEN)
 
 REMOVE_COLUMNS = []
-RENAME_COLUMNS = {"Polished Note":"note", "polished_dial": "dialogue"} #
+RENAME_COLUMNS = {} #{"Polished Note":"note", "polished_dial": "dialogue"} #
 INSTRUCTION = constants.summarizer_system_prompt
 
 # edit this whenevr you wanna make a new dataset
-#Notechat_sample_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/NoteChatSamples/note_chat_sample_2024-06-06_19-44.csv"
-Ahmad_data_sample_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/50_samples/_combined.csv"
+Notechat_sample_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/NoteChatSamples/note_chat_sample_2024-07-19_15-05.csv"
+#Ahmad_data_sample_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/Phase_2/500_sample/_combined_with_dial.csv"
 current_date= datetime.now().strftime("%Y-%m-%d_%H-%M")
-repo_name= f"SynthDataGen_llama3_Ahmad_data_Sample_instruct_dataset_v3{current_date}"
-DATASETS_PATHS = [constants.Aci_train_path, Ahmad_data_sample_path] #
+repo_name= f"SynthDataGen_llama3_NoteChat_500_Sample_and_Aci_train_instruct_dataset{current_date}" #
+DATASETS_PATHS = [constants.Aci_train_path, Notechat_sample_path] #, 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 

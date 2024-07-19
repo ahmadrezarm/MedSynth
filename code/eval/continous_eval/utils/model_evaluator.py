@@ -128,8 +128,8 @@ class ModelEvaluatorAutoMetrics:
                                          use_cache = self.generation_config["use_cache"],
                                          do_sample= self.generation_config["do_sample"],
                                          temperature= self.generation_config["temperature"],
-                                         top_p= self.generation_config["top_p"],
-                                         repetition_penalty= self.generation_config["repetition_penalty"])
+                                         top_p= self.generation_config["top_p"],)
+                                         #repetition_penalty= self.generation_config["repetition_penalty"])
             
 
             response= self.tokenizer.batch_decode(outputs, skip_special_tokens = False) #True
@@ -169,7 +169,10 @@ class ModelEvaluatorAutoMetrics:
             'ROUGE-2': metrics_computer.compute_ROUGE()['rouge2'],
             'ROUGE-L': metrics_computer.compute_ROUGE()['rougeL'],
             'ROUGE-LSum': metrics_computer.compute_ROUGE()['rougeLsum'],
-            'BERTScore': metrics_computer.compute_BERTScore()
+            'BERTScore': metrics_computer.compute_BERTScore(),
+            "METEOR": metrics_computer.compute_METEOR(),
+            
+
             }
 
 
