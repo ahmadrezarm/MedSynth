@@ -1,0 +1,2420 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+UNSPECIFIED ACUTE APPENDICITIS|"ROLE: General Surgeon
+
+1) Medical Outcome:
+   - Diagnosis: Unspecified Acute Appendicitis (ICD-10 K35.80)
+   - Prescribed Treatment: Laparoscopic Appendectomy
+   - Follow-up Recommendations: Post-operative check-up in 1 week
+   - Referral to Imaging: Abdominal CT scan to confirm diagnosis
+   - Medication Adjustment: Post-operative antibiotics (Ciprofloxacin 500 mg, oral, twice a day for 7 days, quantity: 14 tablets)
+
+2) Medical History:
+   - Previous Diagnoses: None
+   - Family Medical History: No relevant family history
+   - Medication History: No current medications
+   - Allergies: None
+   - Chronic Conditions: None
+
+3) Symptom Description:
+   - Severity: Severe, 8/10 pain
+   - Duration: 24 hours
+   - Associated Symptoms: Nausea, vomiting, fever
+   - Frequency: Constant
+   - Impact on Daily Activities: Unable to stand or walk comfortably
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Normal
+   - Diet: Regular diet, mixed meals
+   - Exercise: Light exercise occasionally
+   - Tobacco Use: Non-smoker
+   - Alcohol Consumption: Rarely consumes alcohol
+   - Drug Use: None
+   - Recreational Activities: Enjoys reading and gardening
+
+5) Demographic Information:
+   - Age: 28
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: Good
+   - Job Status: Office worker
+
+6) Patient's Behavior:
+   - Level of Cooperation: Compliant and cooperative with medical advice
+
+7) Geographical Location:
+   - Big City vs Small City: Small City
+   - Rural vs Urban: Urban
+   - Pollution and Environmental Health Risks: Minimal pollution
+   - Neighborhood Type: Well-served by transit, close to hospital facilities
+
+8) Clinical Setting:
+   - Hospitals: Community hospital surgical department
+
+9) Type of Encounter:
+   - Initial Consultation: Emergency department visit
+   
+10) Treatment Disparities:
+   - No significant disparities 
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English Speaking
+
+12) Physical exams:
+   - Abdominal Examination: Tenderness in the right lower quadrant with rebound tenderness
+
+13) Investigation/Test results:
+   - Abdominal Ultrasound: Awaiting results to visualize appendix
+   - Blood Work: Complete Blood Count (CBC) - Elevated white blood cell count indicating infection
+   - Abdominal CT scan: Pending results to confirm and assess the extent of appendicitis"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe abdominal pain lasting for 24 hours.
+
+**History of Present Illness (HPI):**
+The patient is a 28-year-old Caucasian male who presents to the emergency department with severe abdominal pain rated 8/10. The pain started 24 hours ago and has been constant. The patient reports associated symptoms of nausea, vomiting, and fever. The pain has significantly impacted his daily activities, rendering him unable to stand or walk comfortably. He denies any previous diagnoses or significant family medical history. No current medications or chronic conditions were reported. The patient has no allergies and leads a generally healthy lifestyle, with occasional light exercise and no history of tobacco, alcohol, or drug use.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Fever, no weight loss, no fatigue.
+- **Gastrointestinal:** Nausea, vomiting, severe abdominal pain.
+- **Other systems:** Negative for relevant symptoms.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 101.3°F (38.5°C)
+- Heart Rate: 100 bpm
+- Blood Pressure: 130/85 mmHg
+- Respiratory Rate: 20 breaths/min
+
+**Physical Examination:**
+- **General:** Patient appears in acute distress due to pain.
+- **Abdominal Examination:** Marked tenderness in the right lower quadrant with rebound tenderness.
+- **Other systems:** Unremarkable.
+
+**Investigation/Test Results:**
+- **Blood Work:** Complete Blood Count (CBC) shows elevated white blood cell count indicating infection.
+- **Abdominal Ultrasound:** Awaiting results to visualize appendix.
+- **Abdominal CT scan:** Pending results to confirm and assess the extent of appendicitis.
+
+**3. Assessment:**
+
+**Diagnosis:**
+- Unspecified Acute Appendicitis (ICD-10 K35.80)
+
+**4. Plan:**
+
+**Treatment:**
+- **Surgical:** Laparoscopic Appendectomy
+- **Medications:** Post-operative antibiotics (Ciprofloxacin 500 mg, oral, twice a day for 7 days, quantity: 14 tablets)
+
+**Follow-up Recommendations:**
+- Post-operative check-up in 1 week to assess recovery and manage any post-surgical complications.
+
+**Referrals:**
+- Referral to Imaging: Abdominal CT scan to confirm diagnosis and extent of appendicitis.
+
+**Patient Instructions:**
+- Patient to follow post-operative instructions provided by the surgical team, including wound care, activity limitations, and signs of infection to monitor.
+- Continue regular diet as tolerated; increase fluid intake to prevent dehydration.
+- Avoid strenuous activities until cleared by the surgeon during follow-up.
+
+**Summary:**
+The patient presents with clinical signs consistent with acute appendicitis, confirmed by physical findings and preliminary blood work. Immediate laparoscopic appendectomy planned following abdominal CT confirmation. Post-operative management will include antibiotics and follow-up in one week."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe abdominal pain lasting for 24 hours.
+
+**History of Present Illness (HPI):**
+The patient is a 28-year-old Caucasian male who presents to the emergency department with severe abdominal pain rated 8/10. The pain started 24 hours ago and has been constant. The patient reports associated symptoms of nausea, vomiting, and fever. The pain has significantly impacted his daily activities, rendering him unable to stand or walk comfortably. He denies any previous diagnoses or significant family medical history. No current medications or chronic conditions were reported. The patient has no allergies and leads a generally healthy lifestyle, with occasional light exercise and no history of tobacco, alcohol, or drug use.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Fever, no weight loss, no fatigue.
+- **Gastrointestinal:** Nausea, vomiting, severe abdominal pain.
+- **Other systems:** Negative for relevant symptoms.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 101.3°F (38.5°C)
+- Heart Rate: 100 bpm
+- Blood Pressure: 130/85 mmHg
+- Respiratory Rate: 20 breaths/min
+
+**Physical Examination:**
+- **General:** Patient appears in acute distress due to pain.
+- **Abdominal Examination:** Marked tenderness in the right lower quadrant with rebound tenderness.
+- **Other systems:** Unremarkable.
+
+**Investigation/Test Results:**
+- **Blood Work:** Complete Blood Count (CBC) shows elevated white blood cell count indicating infection.
+
+**3. Assessment:**
+
+**Diagnosis:**
+- Unspecified Acute Appendicitis (ICD-10 K35.80)
+
+**4. Plan:**
+
+**Treatment:**
+- **Surgical:** Laparoscopic Appendectomy
+- **Medications:** Post-operative antibiotics (Ciprofloxacin 500 mg, oral, twice a day for 7 days, quantity: 14 tablets)
+
+**Follow-up Recommendations:**
+- Post-operative check-up in 1 week to assess recovery and manage any post-surgical complications.
+
+**Referrals:**
+- Referral to Imaging: Abdominal CT scan to confirm diagnosis and extent of appendicitis. Referred to Dr. Emily Johnson, Radiologist.
+
+**Patient Instructions:**
+- Patient to follow post-operative instructions provided by the surgical team, including wound care, activity limitations, and signs of infection to monitor.
+- Continue regular diet as tolerated; increase fluid intake to prevent dehydration.
+- Avoid strenuous activities until cleared by the surgeon during follow-up.
+
+**Summary:**
+The patient presents with clinical signs consistent with acute appendicitis, confirmed by physical findings and preliminary blood work. Immediate laparoscopic appendectomy planned following abdominal CT confirmation. Post-operative management will include antibiotics and follow-up in one week."|"**1. Subjective:**
+
+**CC:**
+Severe abd pain x24 hrs.
+
+**HPI:**
+28 y/o Caucasian M presents to ED with severe abd pain rated 8/10. Pain onset 24 hrs ago, constant. Reports assoc. sx of N/V and fever. Pain impacts ADLs, unable to stand/walk comfortably. Denies PMH, FHx significant for medical conditions. No current meds or chronic conditions. No allergies. Generally healthy lifestyle, occasional light exercise, no hx of tobacco, EtOH, or drug use.
+
+**ROS:**
+- **Constitutional:** Fever, no wt loss, no fatigue.
+- **GI:** N/V, severe abd pain.
+- **Other systems:** Negative for relevant sx.
+
+**2. Objective:**
+
+**VS:**
+- Temp: 101.3°F (38.5°C)
+- HR: 100 bpm
+- BP: 130/85 mmHg
+- RR: 20 breaths/min
+
+**PE:**
+- **General:** Pt appears in acute distress due to pain.
+- **Abd Exam:** Marked tenderness in RLQ with rebound tenderness.
+- **Other systems:** Unremarkable.
+
+**Labs:**
+- **CBC:** Elevated WBC indicating infection.
+
+**3. Assessment:**
+
+**Dx:**
+- Unspecified Acute Appendicitis (ICD-10 K35.80)
+
+**4. Plan:**
+
+**Tx:**
+- **Surgical:** Lap Appy
+- **Meds:** Post-op abx (Cipro 500 mg PO BID x7 days, qty: 14 tabs)
+
+**F/U Recommendations:**
+- Post-op check-up in 1 wk to assess recovery and manage any post-surgical complications.
+
+**Referrals:**
+- Referral to Imaging: Abd CT to confirm dx and extent of appendicitis. Referred to Dr. Emily Johnson, Radiologist.
+
+**Pt Instructions:**
+- Follow post-op instructions provided by the surgical team, incl wound care, activity limitations, and signs of infection to monitor.
+- Continue regular diet as tolerated; increase fluid intake to prevent dehydration.
+- Avoid strenuous activities until cleared by surgeon during F/U.
+
+**Summary:**
+Pt presents with clinical signs consistent with acute appendicitis, confirmed by PE findings and prelim blood work. Immediate lap appy planned following abd CT confirmation. Post-op mgmt will include abx and F/U in 1 wk."|General Surgeon|"**Conversation:**
+
+**Doctor:** Good afternoon. How are you feeling today?
+
+**Patient:** Not very well, doctor. I've been having severe abdominal pain for the past 24 hours.
+
+**Doctor:** I'm sorry to hear that. Can you describe the pain for me? How bad is it on a scale from 1 to 10?
+
+**Patient:** It's really bad, I'd say an 8 out of 10. It's been constant and it's really affecting my ability to stand or walk.
+
+**Doctor:** I see. Have you experienced any other symptoms along with the pain?
+
+**Patient:** Yes, I've been feeling nauseous and I've vomited a few times. I also have a fever.
+
+**Doctor:** Okay, that's important to know. Have you ever had any similar pain or been diagnosed with any medical conditions in the past?
+
+**Patient:** No, nothing like this before. I haven't been diagnosed with anything significant.
+
+**Doctor:** Alright. Do you have any family medical history that we should be aware of?
+
+**Patient:** No, not that I know of. My family has been generally healthy.
+
+**Doctor:** Do you take any medications regularly?
+
+**Patient:** No, I don't take any medications.
+
+**Doctor:** Any allergies to medications or anything else?
+
+**Patient:** No, I don't have any allergies.
+
+**Doctor:** How about your lifestyle? Do you smoke or drink alcohol?
+
+**Patient:** No, I don't smoke or drink. I try to stay healthy and do some light exercise occasionally.
+
+**Doctor:** Alright, thank you for that information. Let’s do a quick review of your symptoms to make sure we haven't missed anything. Have you had any weight loss or fatigue?
+
+**Patient:** No, just the fever and the pain.
+
+**Doctor:** Have you experienced any other gastrointestinal symptoms besides nausea and vomiting?
+
+**Patient:** No, just the severe abdominal pain.
+
+**Doctor:** Okay, let’s take a look at your vitals. Your temperature is 101.3°F, heart rate is 100 bpm, blood pressure is 130/85 mmHg, and respiratory rate is 20 breaths per minute.
+
+**Patient:** That sounds high.
+
+**Doctor:** Yes, it does indicate you have a fever and a slightly elevated heart rate. Now, I’m going to perform a physical examination, focusing on your abdomen. Please let me know if you feel any pain.
+
+**Patient:** Okay.
+
+**Doctor:** I’m going to press on your abdomen now. Let me know if it hurts. (presses on the right lower quadrant)
+
+**Patient:** Ouch! That really hurts!
+
+**Doctor:** I see. You have marked tenderness in the right lower quadrant with rebound tenderness. This could indicate an issue with your appendix. We’ll need to do some further tests to confirm that.
+
+**Patient:** What kind of tests?
+
+**Doctor:** We’ll start with some blood work and an abdominal ultrasound. We may also need to do an abdominal CT scan to get a clearer picture. Is that okay?
+
+**Patient:** Yes, whatever you need to do.
+
+**Doctor:** Great, let me get those ordered. Your blood work shows an elevated white blood cell count, which suggests an infection. The ultrasound is pending, and we’ll also get a CT scan to confirm the diagnosis.
+
+**Patient:** What do you think it might be?
+
+**Doctor:** Based on your symptoms and the physical exam, it looks like acute appendicitis. We’ll confirm with the imaging results, but we should prepare for possible surgery.
+
+**Patient:** Surgery?
+
+**Doctor:** Yes, if it is appendicitis, the best treatment is a laparoscopic appendectomy. It’s a minimally invasive procedure to remove the appendix.
+
+**Patient:** Oh, okay. What happens after the surgery?
+
+**Doctor:** You’ll need to take post-operative antibiotics to prevent infection. I’ll prescribe Ciprofloxacin, 500 mg, oral, twice a day for 7 days.
+
+**Patient:** How many tablets will that be?
+
+**Doctor:** That will be 14 tablets in total. You’ll also have a follow-up check-up in one week to assess your recovery.
+
+**Patient:** What should I watch out for after the surgery?
+
+**Doctor:** You should follow the post-operative instructions provided by the surgical team, including wound care and activity limitations. Watch for signs of infection like increased redness, swelling, or discharge from the surgical site. Continue your regular diet as tolerated and increase your fluid intake to prevent dehydration.
+
+**Patient:** Can I go back to my normal activities right away?
+
+**Doctor:** You should avoid strenuous activities until cleared by the surgeon during your follow-up. It’s important to give your body time to heal.
+
+**Patient:** Alright, I understand.
+
+**Doctor:** We’ll take good care of you. Once the CT scan results are in, we’ll proceed with the necessary treatment. Do you have any questions or concerns right now?
+
+**Patient:** No, I think you covered everything. Thank you, doctor.
+
+**Doctor:** You’re welcome. Let’s get those tests done and take it from there. 
+
+**Patient:** Okay, thank you.
+
+**Doctor:** Take care. We’ll be in touch soon with the next steps.
+
+**Patient:** Alright, thanks again."|"[doctor]: Good afternoon. How are you feeling today?
+
+[patient]: Not very well, doctor. I've been having severe abdominal pain for the past 24 hours.
+
+[doctor]: I'm sorry to hear that. Can you describe the pain for me? How bad is it on a scale from 1 to 10?
+
+[patient]: It's really bad, I'd say an 8 out of 10. It's been constant and it's really affecting my ability to stand or walk.
+
+[doctor]: I see. Have you experienced any other symptoms along with the pain?
+
+[patient]: Yes, I've been feeling nauseous and I've vomited a few times. I also have a fever.
+
+[doctor]: Hmm, okay, that's important to know. Have you ever had any similar pain or been diagnosed with any medical conditions in the past?
+
+[patient]: No, nothing like this before. I haven't been diagnosed with anything significant.
+
+[doctor]: Alright. Do you have any family medical history that we should be aware of?
+
+[patient]: No, not that I know of. My family has been generally healthy.
+
+[doctor]: Do you take any medications regularly?
+
+[patient]: No, I don't take any medications.
+
+[doctor]: Any allergies to medications or anything else?
+
+[patient]: No, I don't have any allergies.
+
+[doctor]: How about your lifestyle? Do you smoke or drink alcohol?
+
+[patient]: No, I don't smoke or drink. I try to stay healthy and do some light exercise occasionally.
+
+[doctor]: Alright, thank you for that information. Let’s do a quick review of your symptoms to make sure we haven't missed anything. Have you had any weight loss or fatigue?
+
+[patient]: No, just the fever and the pain.
+
+[doctor]: Have you experienced any other gastrointestinal symptoms besides nausea and vomiting?
+
+[patient]: No, just the severe abdominal pain.
+
+[doctor]: Okay, let’s take a look at your vitals. Your temperature is 101.3°F, heart rate is 100 bpm, blood pressure is 130/85 mmHg, and respiratory rate is 20 breaths per minute.
+
+[patient]: That sounds high.
+
+[doctor]: Yes, it does indicate you have a fever and a slightly elevated heart rate. Now, I’m going to perform a physical examination, focusing on your abdomen. Please let me know if you feel any pain.
+
+[patient]: Okay.
+
+[doctor]: I’m going to press on your abdomen now. Let me know if it hurts. (presses on the right lower quadrant)
+
+[patient]: Ouch! That really hurts!
+
+[doctor]: I see. You have marked tenderness in the right lower quadrant with rebound tenderness. This could indicate an issue with your appendix. We’ll need to do some further tests to confirm that.
+
+[patient]: What kind of tests?
+
+[doctor]: We’ll start with some blood work and an abdominal ultrasound. We may also need to do an abdominal CT scan to get a clearer picture. Is that okay?
+
+[patient]: Yes, whatever you need to do.
+
+[doctor]: Great, let me get those ordered. Your blood work shows an elevated white blood cell count, which suggests an infection. The ultrasound is pending, and we’ll also get a CT scan to confirm the diagnosis.
+
+[patient]: What do you think it might be?
+
+[doctor]: Based on your symptoms and the physical exam, it looks like acute appendicitis. We’ll confirm with the imaging results, but we should prepare for possible surgery.
+
+[patient]: Surgery?
+
+[doctor]: Yes, if it is appendicitis, the best treatment is a laparoscopic appendectomy. It’s a minimally invasive procedure to remove the appendix.
+
+[patient]: Oh, okay. What happens after the surgery?
+
+[doctor]: You’ll need to take post-operative antibiotics to prevent infection. I’ll prescribe Ciprofloxacin, 500 mg, oral, twice a day for 7 days.
+
+[patient]: How many tablets will that be?
+
+[doctor]: That will be 14 tablets in total. You’ll also have a follow-up check-up in one week to assess your recovery.
+
+[patient]: What should I watch out for after the surgery?
+
+[doctor]: You should follow the post-operative instructions provided by the surgical team, including wound care and activity limitations. Watch for signs of infection like increased redness, swelling, or discharge from the surgical site. Continue your regular diet as tolerated and increase your fluid intake to prevent dehydration.
+
+[patient]: Can I go back to my normal activities right away?
+
+[doctor]: You should avoid strenuous activities until cleared by the surgeon during your follow-up. It’s important to give your body time to heal.
+
+[patient]: Alright, I understand.
+
+[doctor]: We’ll take good care of you. Once the CT scan results are in, we’ll proceed with the necessary treatment. Do you have any questions or concerns right now?
+
+[patient]: No, I think you covered everything. Thank you, doctor.
+
+[doctor]: You’re welcome. Let’s get those tests done and take it from there.
+
+[patient]: Okay, thank you.
+
+[doctor]: Take care. We’ll be in touch soon with the next steps.
+
+[patient]: Alright, thanks again."
+UNSPECIFIED ACUTE APPENDICITIS|"ROLE: General Surgeon
+
+- **Medical Outcome:**
+  - Diagnosis: Unspecified Acute Appendicitis
+  - Prescribed Treatment: Immediate surgical intervention (appendectomy)
+  - Referral to Specialist: N/A (Already under surgical care)
+  - Referral to Further Tests or Imaging: Ordered an Abdominal Ultrasound and a CT scan of the abdomen to confirm the diagnosis
+  - Medication Adjustment: Administering IV antibiotics pre-operatively (Cefazolin 1 g IV every 8 hours)
+  - Lifestyle Changes: Post-surgery recovery instructions including diet, rest, and wound care
+
+- **Medical History:**
+  - Previous Diagnoses: Type 2 Diabetes
+  - Family Medical History: Mother has a history of hypertension and hyperlipidemia
+  - Medication History: Metformin 500 mg twice daily
+  - Allergies: Penicillin (rash)
+  - Chronic Conditions: Type 2 Diabetes
+
+- **Symptom Description:**
+  - Severity: Severe
+  - Duration: 6 hours
+  - Associated Symptoms: Nausea, vomiting, anorexia, low-grade fever, and right lower abdominal pain
+  - Frequency: Constant, progressively worsening
+  - Impact on Daily Activities: Severe limitation, unable to work or perform routine tasks
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: Frequently disrupted due to nocturia from diabetes
+  - Diet: Adheres to a low-carb diet due to diabetes
+  - Exercise: Minimal due to chronic fatigue
+  - Tobacco Use: Former smoker, quit 5 years ago
+  - Alcohol Consumption: Does not consume alcohol
+  - Drug Use: No illicit drug use
+  - Recreational Activities: Enjoys fishing on weekends
+
+- **Demographic Information:**
+  - Age: 52
+  - Gender: Female
+  - Ethnicity: African American
+  - Socio-economic Status: Low-income
+  - Education Level: High school graduate
+  - Health Literacy: Moderate
+  - Job Status: Part-time cashier
+
+- **Patient's Behavior:**
+  - Generally cooperative but anxious about surgical procedure
+
+- **Geographical Location:**
+  - Rural setting
+  - Impoverished neighborhood
+  - Limited access to healthcare facilities
+  - High pollution and environmental health risks
+
+- **Clinical Setting:**
+  - Community Health Clinic
+
+- **Type of Encounter:**
+  - Emergency Visit
+
+- **Treatment Disparities:**
+  - Potential concern about access to post-surgical follow-up care due to limited resources
+
+- **Native or Non-Native English Speaking Patient:**
+  - Non-Native English speaker (primary language is Spanish)
+
+- **Physical exams:**
+  - Palpation of the abdomen revealed severe tenderness in the right lower quadrant (McBurney's point), rebound tenderness, and guarding
+
+- **Investigation/Test results:**
+  - Awaiting results of the blood tests (CBC, basic metabolic panel, liver function tests)
+  - Awaiting imaging results (Abdominal Ultrasound, CT scan of the abdomen)"|"**1. Subjective:**
+
+    CHIEF COMPLAINT (CC)
+    - Severe right lower abdominal pain
+
+    HISTORY OF PRESENT ILLNESS (HPI)
+    - The patient is a 52-year-old African American female presenting with severe right lower abdominal pain lasting for 6 hours. The pain is constant and has progressively worsened. She also reports associated symptoms including nausea, vomiting, anorexia, and a low-grade fever. She describes severe limitation in performing daily activities and is unable to work due to the pain.
+
+    REVIEW OF SYSTEMS (ROS)
+    - General: Reports severe fatigue, fever.
+    - Gastrointestinal: Reports severe right lower abdominal pain, nausea, vomiting, anorexia.
+    - Urinary: Reports frequent nocturia due to diabetes, no dysuria or hematuria.
+    - Endocrine: Has a history of Type 2 Diabetes, currently controlled.
+    - Psychiatric: Reports anxiety related to the surgical procedure.
+
+**2. Objective:**
+
+    VITALS
+    - Temperature: 100.2°F
+    - BP: 140/85 mmHg
+    - HR: 95 bpm
+    - RR: 18 breaths/min
+    - SpO2: 97%
+
+    PHYSICAL EXAM
+    - General: Appears in notable distress due to pain, conscious and coherent.
+    - Abdominal Examination:
+      - Inspection: No visible scars or masses.
+      - Palpation: Severe tenderness in the right lower quadrant (McBurney's point), rebound tenderness, and guarding.
+      - Percussion: Tenderness over the right lower quadrant.
+      - Auscultation: Bowel sounds present but reduced in the lower quadrants.
+
+    INVESTIGATIONS
+    - Blood Tests: Awaiting results for CBC, Basic Metabolic Panel, Liver Function Tests.
+    - Imaging: Awaiting results for Abdominal Ultrasound and CT scan of the abdomen.
+
+**3. Assessment:**
+
+    - Diagnosis: Unspecified Acute Appendicitis.
+    - Medical Reasoning: Based on the patient's clinical presentation of severe right lower abdominal pain, nausea, vomiting, low-grade fever, and physical examination findings (McBurney's point tenderness, rebound tenderness, and guarding), acute appendicitis is the most likely diagnosis. Awaiting imaging results to confirm.
+
+**4. Plan:**
+
+    - Surgical Intervention: Immediate appendectomy planned.
+    - Pre-operative treatment: Administer IV antibiotics (Cefazolin 1 g IV every 8 hours), ensure NPO status, and prepare for surgery.
+    - Post-operative care: 
+      - Diet: Clear fluids initially, progressing to a low-residue diet.
+      - Rest: Advise bed rest and limit physical activity for 1-2 weeks post-surgery.
+      - Wound care: Instruct on proper wound care and signs of infection to monitor.
+    
+    - Follow-up: Schedule follow-up appointment in 1 week post-discharge to monitor recovery and address any complications.
+    - Patient Education and Counseling: Discuss the nature of appendicitis, the surgical procedure, potential risks, and post-operative care. Address her anxiety regarding the surgery and ensure she understands the importance of follow-up care despite limited access to healthcare resources. Provide translation services for communication in her primary language, Spanish.
+    
+    - Social and Community Support: Arrange for community health worker support post-surgery due to her socio-economic status and geographical location with limited healthcare facilities.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan."|"**1. Subjective:**
+
+    CHIEF COMPLAINT (CC)
+    - Severe right lower abdominal pain
+
+    HISTORY OF PRESENT ILLNESS (HPI)
+    - The patient is a 52-year-old African American female presenting with severe right lower abdominal pain lasting for 6 hours. The pain is constant and has progressively worsened. She also reports associated symptoms including nausea, vomiting, anorexia, and a low-grade fever. She describes severe limitation in performing daily activities and is unable to work due to the pain.
+
+    REVIEW OF SYSTEMS (ROS)
+    - General: Reports severe fatigue, fever.
+    - Gastrointestinal: Reports severe right lower abdominal pain, nausea, vomiting, anorexia.
+    - Urinary: Reports frequent nocturia due to diabetes, no dysuria or hematuria.
+    - Endocrine: Has a history of Type 2 Diabetes, currently controlled.
+    - Psychiatric: Reports anxiety related to the surgical procedure.
+
+**2. Objective:**
+
+    VITALS
+    - Temperature: 100.2°F
+    - BP: 140/85 mmHg
+    - HR: 95 bpm
+    - RR: 18 breaths/min
+    - SpO2: 97%
+
+    PHYSICAL EXAM
+    - General: Appears in notable distress due to pain, conscious and coherent.
+    - Abdominal Examination:
+      - Inspection: No visible scars or masses.
+      - Palpation: Severe tenderness in the right lower quadrant (McBurney's point), rebound tenderness, and guarding.
+      - Percussion: Tenderness over the right lower quadrant.
+      - Auscultation: Bowel sounds present but reduced in the lower quadrants.
+
+**3. Assessment:**
+
+    - Diagnosis: Unspecified Acute Appendicitis.
+    - Medical Reasoning: Based on the patient's clinical presentation of severe right lower abdominal pain, nausea, vomiting, low-grade fever, and physical examination findings (McBurney's point tenderness, rebound tenderness, and guarding), acute appendicitis is the most likely diagnosis. Awaiting imaging results to confirm.
+
+**4. Plan:**
+
+    - Investigations: Awaiting results for CBC, Basic Metabolic Panel, Liver Function Tests, Abdominal Ultrasound, and CT scan of the abdomen.
+    - Surgical Intervention: Immediate appendectomy planned.
+    - Pre-operative treatment: Administer IV antibiotics (Cefazolin 1 g IV every 8 hours), ensure NPO status, and prepare for surgery.
+    - Post-operative care: 
+      - Diet: Clear fluids initially, progressing to a low-residue diet.
+      - Rest: Advise bed rest and limit physical activity for 1-2 weeks post-surgery.
+      - Wound care: Instruct on proper wound care and signs of infection to monitor.
+    
+    - Follow-up: Schedule follow-up appointment in 1 week post-discharge to monitor recovery and address any complications.
+    - Patient Education and Counseling: Discuss the nature of appendicitis, the surgical procedure, potential risks, and post-operative care. Address her anxiety regarding the surgery and ensure she understands the importance of follow-up care despite limited access to healthcare resources. Provide translation services for communication in her primary language, Spanish.
+    
+    - Social and Community Support: Arrange for community health worker support post-surgery due to her socio-economic status and geographical location with limited healthcare facilities.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan."|"**1. Subjective:**
+
+    **CC**
+    - Severe RLQ abd pain
+
+    **HPI**
+    - The pt is a 52 y/o AA female presenting with severe RLQ abd pain x6 hrs. The pain is constant and has progressively worsened. She also reports associated sx including N/V, anorexia, and a low-grade fever. She describes severe limitation in performing ADLs and is unable to work due to the pain.
+
+    **ROS**
+    - General: Reports severe fatigue, fever.
+    - GI: Reports severe RLQ abd pain, N/V, anorexia.
+    - GU: Reports frequent nocturia due to DM, no dysuria or hematuria.
+    - Endo: Hx of T2DM, currently controlled.
+    - Psych: Reports anxiety related to the surgical procedure.
+
+**2. Objective:**
+
+    **VITALS**
+    - Temp: 100.2°F
+    - BP: 140/85 mmHg
+    - HR: 95 bpm
+    - RR: 18
+    - SpO2: 97%
+
+    **PHYSICAL EXAM**
+    - General: Appears in notable distress due to pain, conscious and coherent.
+    - Abd Exam:
+      - Inspection: No visible scars or masses.
+      - Palpation: Severe tenderness in the RLQ (McBurney's point), rebound tenderness, and guarding.
+      - Percussion: Tenderness over the RLQ.
+      - Auscultation: Bowel sounds present but reduced in the lower quadrants.
+
+**3. Assessment:**
+
+    - Dx: Unspecified Acute Appendicitis.
+    - Medical Reasoning: Based on the pt's clinical presentation of severe RLQ abd pain, N/V, low-grade fever, and PE findings (McBurney's point tenderness, rebound tenderness, and guarding), acute appendicitis is the most likely dx. Awaiting imaging results to confirm.
+
+**4. Plan:**
+
+    - Investigations: Awaiting results for CBC, BMP, LFTs, Abdominal US, and CT abd.
+    - Surgical Intervention: Immediate appy planned.
+    - Pre-op Tx: Administer IV abx (Cefazolin 1 g IV q8h), ensure NPO status, and prepare for surgery.
+    - Post-op care: 
+      - Diet: Clear fluids initially, progressing to a low-residue diet.
+      - Rest: Advise bed rest and limit physical activity for 1-2 weeks post-surgery.
+      - Wound care: Instruct on proper wound care and signs of infection to monitor.
+    
+    - F/U: Schedule F/U appt in 1 week post-discharge to monitor recovery and address any complications.
+    - Pt Education and Counseling: Discuss the nature of appendicitis, the surgical procedure, potential risks, and post-op care. Address her anxiety regarding the surgery and ensure she understands the importance of F/U care despite limited access to healthcare resources. Provide translation services for communication in her primary language, Spanish.
+    
+    - Social and Community Support: Arrange for community health worker support post-surgery due to her SES and geographical location with limited healthcare facilities.
+
+Pt Agreements: The pt understands and agrees with the recommended medical Tx plan."|General Surgeon|"[doctor] Hi there, how are you feeling today?
+
+[patient] I'm in a lot of pain, doctor. It's really bad.
+
+[doctor] I'm sorry to hear that. Can you tell me more about the pain you're experiencing?
+
+[patient] It's been hurting really bad in my right lower abdomen for about 6 hours now. The pain is constant and getting worse.
+
+[doctor] I see. Have you noticed any other symptoms along with the pain?
+
+[patient] Yes, I've been feeling nauseous and I vomited a couple of times. I haven't been able to eat, and I think I have a fever.
+
+[doctor] That sounds very uncomfortable. Have you been able to do any of your usual daily activities?
+
+[patient] No, I can't do anything because of the pain. I even had to take off work.
+
+[doctor] Okay. Let's go through some more details. Are you experiencing any fatigue or fever?
+
+[patient] Yes, I'm extremely tired and I think I have a low-grade fever.
+
+[doctor] How about your digestive system? Any nausea, vomiting, or changes in appetite?
+
+[patient] Yes, like I mentioned, I've been nauseous, vomiting, and I can't eat at all.
+
+[doctor] Understood. Have you had any issues with urination, like pain or blood in your urine?
+
+[patient] I go to the bathroom a lot at night because of my diabetes, but no pain or blood in my urine.
+
+[doctor] Okay, and how is your diabetes management going?
+
+[patient] It's pretty well controlled with my medication.
+
+[doctor] That's good to hear. Have you been feeling anxious about anything, like the possibility of surgery?
+
+[patient] Yes, I'm really anxious about needing surgery. It scares me.
+
+[doctor] I understand. Your vitals show a temperature of 100.2°F, blood pressure at 140/85 mmHg, heart rate at 95 beats per minute, and respiratory rate at 18 breaths per minute. Your oxygen saturation is 97%.
+
+[patient] Okay.
+
+[doctor] During the physical exam, I noticed you're in quite a bit of distress due to the pain. You're conscious and coherent, which is good.
+
+[patient] Yes, the pain is really bad.
+
+[doctor] When I examined your abdomen, there was severe tenderness in the right lower quadrant, particularly at McBurney's point. You also had rebound tenderness and guarding. Did you feel that pain when I pressed and then released?
+
+[patient] Yes, it hurt a lot.
+
+[doctor] I also noted tenderness over the right lower quadrant when I percussed your abdomen, and your bowel sounds were present but reduced in the lower quadrants.
+
+[patient] Okay.
+
+[doctor] We are currently awaiting the results of some blood tests, including a Complete Blood Count, Basic Metabolic Panel, and Liver Function Tests. We also have an Abdominal Ultrasound and a CT scan of the abdomen pending.
+
+[patient] I see.
+
+[doctor] Based on your symptoms and the physical exam findings, my primary concern is acute appendicitis. The imaging results will help confirm this diagnosis.
+
+[patient] Appendicitis? 
+
+[doctor] Yes, it seems likely given your severe right lower abdominal pain, nausea, vomiting, low-grade fever, and the tenderness at McBurney's point. We'll know more once we get the imaging results.
+
+[patient] What happens next?
+
+[doctor] If it's confirmed to be appendicitis, we will need to perform an immediate appendectomy, which is the surgical removal of the appendix.
+
+[patient] Surgery? That sounds serious.
+
+[doctor] It is a common and generally safe procedure, but it is important to address it quickly to prevent complications. We will start by giving you IV antibiotics, specifically Cefazolin 1 gram every 8 hours, and make sure you don't eat or drink anything (NPO status) as we prepare for surgery.
+
+[patient] Okay, I understand.
+
+[doctor] After the surgery, you'll start with a clear fluid diet and gradually move to a low-residue diet. Rest is very important, so we recommend bed rest and limited physical activity for 1-2 weeks post-surgery.
+
+[patient] How do I take care of the wound?
+
+[doctor] We'll give you instructions on proper wound care and what signs of infection to look out for. It's important to keep the area clean and dry.
+
+[patient] Got it.
+
+[doctor] We'll also schedule a follow-up appointment one week after you're discharged to monitor your recovery and address any complications.
+
+[patient] Okay, I can do that.
+
+[doctor] We'll discuss the nature of appendicitis, the surgical procedure, and potential risks with you. We'll also address your anxiety about surgery and ensure you understand the importance of follow-up care, even if access to healthcare resources is limited.
+
+[patient] Thank you, doctor. That helps.
+
+[doctor] We can arrange for translation services to assist with communication in your primary language, Spanish, if that would be helpful.
+
+[patient] Yes, that would be great. Thank you.
+
+[doctor] Additionally, given your socio-economic status and geographical location, we can arrange for community health worker support post-surgery to assist with your recovery.
+
+[patient] That sounds good. I appreciate it.
+
+[doctor] Do you have any other questions or concerns at this time?
+
+[patient] No, I think you covered everything. Thank you.
+
+[doctor] You're welcome. We'll take good care of you. I'll be back once we have the results from your tests.
+
+[patient] Thank you, doctor.
+
+[doctor] Take care and try to rest as much as you can.
+
+[patient] I will. Thank you.
+
+[doctor] You're welcome. I'll see you soon."|"[doctor] Hi there, how are you feeling today?
+
+[patient] I'm in a lot of pain, doctor. It's really bad.
+
+[doctor] I'm sorry to hear that. Can you tell me more about the pain you're experiencing?
+
+[patient] It's been hurting really bad in my right lower abdomen for about 6 hours now. The pain is constant and getting worse.
+
+[doctor] I see. Have you noticed any other symptoms along with the pain?
+
+[patient] Yes, I've been feeling nauseous and I vomited a couple of times. I haven't been able to eat, and I think I have a fever.
+
+[doctor] That sounds very uncomfortable. Have you been able to do any of your usual daily activities?
+
+[patient] No, I can't do anything because of the pain. I even had to take off work.
+
+[doctor] Okay. Let's go through some more details. Are you experiencing any fatigue or fever?
+
+[patient] Yes, I'm extremely tired and I think I have a low-grade fever.
+
+[doctor] How about your digestive system? Any nausea, vomiting, or changes in appetite?
+
+[patient] Yes, like I mentioned, I've been nauseous, vomiting, and I can't eat at all.
+
+[doctor] Understood. Have you had any issues with urination, like pain or blood in your urine?
+
+[patient] I go to the bathroom a lot at night because of my diabetes, but no pain or blood in my urine.
+
+[doctor] Okay, and how is your diabetes management going?
+
+[patient] It's pretty well controlled with my medication.
+
+[doctor] That's good to hear. Have you been feeling anxious about anything, like the possibility of surgery?
+
+[patient] Yes, I'm really anxious about needing surgery. It scares me.
+
+[doctor] I understand. Your vitals show a temperature of 100.2°F, blood pressure at 140/85 mmHg, heart rate at 95 beats per minute, and respiratory rate at 18 breaths per minute. Your oxygen saturation is 97%.
+
+[patient] Okay.
+
+[doctor] During the physical exam, I noticed you're in quite a bit of distress due to the pain. You're conscious and coherent, which is good.
+
+[patient] Yes, the pain is really bad.
+
+[doctor] When I examined your abdomen, there was severe tenderness in the right lower quadrant, particularly at McBurney's point. You also had rebound tenderness and guarding. Did you feel that pain when I pressed and then released?
+
+[patient] Yes, it hurt a lot.
+
+[doctor] I also noted tenderness over the right lower quadrant when I percussed your abdomen, and your bowel sounds were present but reduced in the lower quadrants.
+
+[patient] Okay.
+
+[doctor] We are currently awaiting the results of some blood tests, including a Complete Blood Count, Basic Metabolic Panel, and Liver Function Tests. We also have an Abdominal Ultrasound and a CT scan of the abdomen pending.
+
+[patient] I see.
+
+[doctor] Based on your symptoms and the physical exam findings, my primary concern is acute appendicitis. The imaging results will help confirm this diagnosis.
+
+[patient] Appendicitis? 
+
+[doctor] Yes, it seems likely given your severe right lower abdominal pain, nausea, vomiting, low-grade fever, and the tenderness at McBurney's point. We'll know more once we get the imaging results.
+
+[patient] What happens next?
+
+[doctor] If it's confirmed to be appendicitis, we will need to perform an immediate appendectomy, which is the surgical removal of the appendix.
+
+[patient] Surgery? That sounds serious.
+
+[doctor] It is a common and generally safe procedure, but it is important to address it quickly to prevent complications. We will start by giving you IV antibiotics, specifically Cefazolin 1 gram every 8 hours, and make sure you don't eat or drink anything (NPO status) as we prepare for surgery.
+
+[patient] Okay, I understand.
+
+[doctor] After the surgery, you'll start with a clear fluid diet and gradually move to a low-residue diet. Rest is very important, so we recommend bed rest and limited physical activity for 1-2 weeks post-surgery.
+
+[patient] How do I take care of the wound?
+
+[doctor] We'll give you instructions on proper wound care and what signs of infection to look out for. It's important to keep the area clean and dry.
+
+[patient] Got it.
+
+[doctor] We'll also schedule a follow-up appointment one week after you're discharged to monitor your recovery and address any complications.
+
+[patient] Okay, I can do that.
+
+[doctor] We'll discuss the nature of appendicitis, the surgical procedure, and potential risks with you. We'll also address your anxiety about surgery and ensure you understand the importance of follow-up care, even if access to healthcare resources is limited.
+
+[patient] Thank you, doctor. That helps.
+
+[doctor] We can arrange for translation services to assist with communication in your primary language, Spanish, if that would be helpful.
+
+[patient] Yes, that would be great. Thank you.
+
+[doctor] Additionally, given your socio-economic status and geographical location, we can arrange for community health worker support post-surgery to assist with your recovery.
+
+[patient] That sounds good. I appreciate it.
+
+[doctor] Do you have any other questions or concerns at this time?
+
+[patient] No, I think you covered everything. Thank you.
+
+[doctor] You're welcome. We'll take good care of you. I'll be back once we have the results from your tests.
+
+[patient] Thank you, doctor.
+
+[doctor] Take care and try to rest as much as you can.
+
+[patient] I will. Thank you.
+
+[doctor] You're welcome. I'll see you soon."
+UNSPECIFIED ACUTE APPENDICITIS|"ROLE: General Surgeon
+
+**Scenario:**
+
+- **Medical Outcome:** 
+  - Diagnosis: Unspecified acute appendicitis.
+  - Prescribed treatment: Immediate appendectomy.
+  - Follow-up recommendations: Follow-up visit in 10 days for wound check and recovery assessment.
+  - Referral: NA
+  - Blood work: Complete blood count (CBC) to check for infection, Biochemistry panel for pre-operative assessment.
+  - Imaging: Abdominal MRI to confirm diagnosis.
+  - Medications: Amoxicillin-Clavulanate 875/125 mg oral twice daily for 7 days post-operatively; pain management with Hydrocodone-Acetaminophen 5/325 mg oral every 6 hours as needed for pain, quantity 15 tablets.
+
+- **Medical History:** 
+  - Previous Diagnoses: Hypertension.
+  - Family Medical History: Brother had appendectomy; mother has diabetes.
+  - Medication History: Lisinopril 20 mg once daily for hypertension.
+  - Allergies: Sulfa drugs.
+  - Chronic Conditions: Hypertension diagnosed 5 years ago.
+
+- **Symptom Description:** 
+  - Severity: Moderate to severe right lower quadrant abdominal pain, rated 6-7/10.
+  - Duration: 16 hours.
+  - Associated Symptoms: Nausea, mild fever, diarrhea.
+  - Frequency: Intermittent.
+  - Impact on Daily Activities: Reasonably mobile but with difficulty performing strenuous tasks.
+
+- **Patient’s Self-Reported Habits and Lifestyle:**
+  - Sleep: Has been interrupted by pain.
+  - Diet: High-protein diet with minimal carbohydrates.
+  - Exercise: Regularly does yard work, unable to perform due to pain.
+  - Tobacco Use: Quit smoking 10 years ago.
+  - Alcohol Consumption: Drinks wine occasionally.
+  - Drug Use: None.
+  - Recreational Activities: Enjoys woodworking.
+
+- **Demographic Information:** 
+  - Age: 42
+  - Gender: Male
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Middle class
+  - Education Level: Bachelor's degree in engineering
+  - Health Literacy: High
+  - Job Status: Self-employed
+
+- **Patient's Behavior:** Cooperative and anxious to proceed with treatment.
+
+- **Geographical Location:** 
+  - Urban
+  - Small City
+  - Neighborhood Type: Suburban area 
+  - Access to public transit available.
+
+- **Clinical Setting:** Private surgical clinic.
+
+- **Type of Encounter:** Initial consultation for emergent surgical intervention.
+
+- **Treatment Disparities:** No observed disparities in treatment recommendations.
+
+- **Native or Non-Native English Speaking Patient:** Native English speaker.
+
+- **Physical Exams:**
+  - Abdominal exam: Rebound tenderness in the right lower quadrant, positive Rovsing's sign, localized guarding.
+  - Vitals: 
+    - Temperature: 100.6°F
+    - Heart rate: 92 bpm
+    - Blood pressure: 132/85 mm Hg
+    - Respiratory rate: 16 breaths per minute.
+
+- **Investigation/Test results:** 
+  - Awaiting results: CBC showing elevated white blood cells count, indicative of infection.
+  - Abdominal MRI: Awaiting imaging results to confirm diagnosis."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+- Moderate to severe right lower quadrant abdominal pain.
+
+**History of Present Illness (HPI):**
+- The patient, a 42-year-old Caucasian male, presents with moderate to severe right lower quadrant abdominal pain rated 6-7/10, beginning 16 hours ago. The pain is intermittent, associated with nausea, mild fever, and diarrhea. The pain has disrupted his sleep and has rendered him unable to perform strenuous tasks, such as yard work. He has a high health literacy and is anxious to proceed with treatment.
+
+**Review of Systems (ROS):**
+- **General:** Reports mild fever (100.6°F).
+- **Gastrointestinal:** Complains of moderate to severe right lower quadrant abdominal pain, nausea, and diarrhea.
+- **Musculoskeletal:** Unable to perform strenuous tasks due to abdominal pain.
+- **Neurological:** Sleep disturbances due to pain.
+- **Respiratory:** No complaints.
+- **Cardiovascular:** No changes in cardiovascular symptoms, maintains regular hypertension management with Lisinopril.
+
+**2. Objective:**
+
+**Physical Examination:**
+- **Abdomen:** Rebound tenderness in the right lower quadrant, positive Rovsing's sign, localized guarding.
+- **Vital Signs:**
+  - Temperature: 100.6°F
+  - Heart rate: 92 bpm
+  - Blood pressure: 132/85 mm Hg
+  - Respiratory rate: 16 breaths per minute.
+
+**Investigations:**
+- Awaiting results for CBC to check for elevated white blood cell count indicative of infection.
+- Awaiting results for Abdominal MRI to confirm the diagnosis of acute appendicitis.
+
+**3. Assessment:**
+
+- **Diagnosis:** Unspecified acute appendicitis.
+
+**4. Plan:**
+
+**Surgical Intervention:**
+- Immediate appendectomy is recommended.
+
+**Medications:**
+- Amoxicillin-Clavulanate 875/125 mg oral twice daily for 7 days post-operatively.
+- Pain management with Hydrocodone-Acetaminophen 5/325 mg oral every 6 hours as needed for pain, quantity 15 tablets.
+
+**Post-operative Care:**
+- Follow-up visit in 10 days for wound check and recovery assessment.
+
+**Instructions:**
+- Patient advised to continue current hypertension medication (Lisinopril 20 mg once daily).
+- Avoid sulfa drugs due to reported allergy.
+- Maintain hydration and a light diet post-operatively.
+- Seek immediate medical attention if experiencing any signs of infection, increased pain, or other concerning symptoms.
+
+**Education:**
+- Discussed the procedure and expected recovery process with the patient, who has high health literacy and a bachelor's degree in engineering. The patient is cooperative and understands the need for the urgent surgical intervention. 
+
+**Next Steps:**
+- Await completion of blood work and abdominal MRI to confirm the diagnosis prior to proceeding with appendectomy.
+
+#####
+
+This approach aims to ensure a thorough, structured, and clear communication of the patient's condition and the proposed management plan, aligned with the scenario details provided."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+- Moderate to severe right lower quadrant abdominal pain.
+
+**History of Present Illness (HPI):**
+- The patient, a 42-year-old Caucasian male named John Smith, presents with moderate to severe right lower quadrant abdominal pain rated 6-7/10, beginning 16 hours ago. The pain is intermittent, associated with nausea, mild fever, and diarrhea. The pain has disrupted his sleep and has rendered him unable to perform strenuous tasks, such as yard work. He has a high health literacy and is anxious to proceed with treatment.
+
+**Review of Systems (ROS):**
+- **General:** Reports mild fever (100.6°F).
+- **Gastrointestinal:** Complains of moderate to severe right lower quadrant abdominal pain, nausea, and diarrhea.
+- **Musculoskeletal:** Unable to perform strenuous tasks due to abdominal pain.
+- **Neurological:** Sleep disturbances due to pain.
+- **Respiratory:** No complaints.
+- **Cardiovascular:** No changes in cardiovascular symptoms, maintains regular hypertension management with Lisinopril.
+
+**2. Objective:**
+
+**Physical Examination:**
+- **Abdomen:** Rebound tenderness in the right lower quadrant, positive Rovsing's sign, localized guarding.
+- **Vital Signs:**
+  - Temperature: 100.6°F
+  - Heart rate: 92 bpm
+  - Blood pressure: 132/85 mm Hg
+  - Respiratory rate: 16 breaths per minute.
+
+**Investigations:**
+- Awaiting results for CBC to check for elevated white blood cell count indicative of infection.
+- Awaiting results for Abdominal MRI to confirm the diagnosis of acute appendicitis.
+
+**3. Assessment:**
+
+- **Diagnosis:** Unspecified acute appendicitis.
+
+**4. Plan:**
+
+**Surgical Intervention:**
+- Immediate appendectomy is recommended.
+
+**Medications:**
+- Amoxicillin-Clavulanate 875/125 mg oral twice daily for 7 days post-operatively.
+- Pain management with Hydrocodone-Acetaminophen 5/325 mg oral every 6 hours as needed for pain, quantity 15 tablets.
+
+**Post-operative Care:**
+- Follow-up visit in 10 days for wound check and recovery assessment.
+
+**Instructions:**
+- Patient advised to continue current hypertension medication (Lisinopril 20 mg once daily).
+- Avoid sulfa drugs due to reported allergy.
+- Maintain hydration and a light diet post-operatively.
+- Seek immediate medical attention if experiencing any signs of infection, increased pain, or other concerning symptoms.
+
+**Education:**
+- Discussed the procedure and expected recovery process with the patient, who has high health literacy and a bachelor's degree in engineering. The patient is cooperative and understands the need for the urgent surgical intervention. 
+
+**Next Steps:**
+- Await completion of blood work and abdominal MRI to confirm the diagnosis prior to proceeding with appendectomy.
+
+#####"|"#####
+**1. Subjective:**
+
+**CC:**
+- Mod-severe RLQ abd pain.
+
+**HPI:**
+- The pt, a 42 y/o Caucasian M named John Smith, presents with mod-severe RLQ abd pain rated 6-7/10, beginning 16 hrs ago. The pain is intermittent, assoc. with N/V, mild fever, and diarrhea. The pain has disrupted his sleep and has rendered him unable to perform strenuous tasks, such as yard work. He has high health literacy and is anxious to proceed with tx.
+
+**ROS:**
+- **General:** Reports mild fever (100.6°F).
+- **GI:** Complains of mod-severe RLQ abd pain, N/V, and diarrhea.
+- **MSK:** Unable to perform strenuous tasks due to abd pain.
+- **Neuro:** Sleep disturbances due to pain.
+- **Resp:** No complaints.
+- **CV:** No changes in CV symptoms, maintains regular HTN mgmt with Lisinopril.
+
+**2. Objective:**
+
+**PE:**
+- **Abd:** Rebound tenderness in the RLQ, +Rovsing's sign, localized guarding.
+- **VS:**
+  - Temp: 100.6°F
+  - HR: 92 bpm
+  - BP: 132/85 mm Hg
+  - RR: 16 bpm.
+
+**Investigations:**
+- Awaiting results for CBC to check for elevated WBC indicative of infection.
+- Awaiting results for Abd MRI to confirm the dx of acute appendicitis.
+
+**3. Assessment:**
+
+- **Dx:** Unspecified acute appendicitis.
+
+**4. Plan:**
+
+**Surgical Intervention:**
+- Immediate appy is recommended.
+
+**Meds:**
+- Amox-Clav 875/125 mg PO BID x7 days post-op.
+- Pain mgmt with Hydrocodone-APAP 5/325 mg PO q6h PRN pain, qty 15 tabs.
+
+**Post-op Care:**
+- F/U visit in 10 days for wound check and recovery assessment.
+
+**Instructions:**
+- Pt advised to continue current HTN med (Lisinopril 20 mg QD).
+- Avoid sulfa drugs due to reported allergy.
+- Maintain hydration and a light diet post-op.
+- Seek immediate medical attention if experiencing any signs of infection, increased pain, or other concerning symptoms.
+
+**Education:**
+- Discussed the procedure and expected recovery process with the pt, who has high health literacy and a bachelor's degree in engineering. The pt is cooperative and understands the need for the urgent surgical intervention.
+
+**Next Steps:**
+- Await completion of blood work and Abd MRI to confirm the dx prior to proceeding with appy.
+
+#####"|General Surgeon|"[doctor] Hello, how are you doing today?
+
+[patient] Hi, I'm not doing so great. I've been having some pretty bad pain in my abdomen.
+
+[doctor] I see. Can you describe the pain for me?
+
+[patient] Yeah, it's in the right lower part of my abdomen. It's been pretty intense, like a 6 or 7 out of 10. It started about 16 hours ago.
+
+[doctor] Hmm, I see. Has the pain been constant or does it come and go?
+
+[patient] It's been intermittent, but when it hits, it's really bad.
+
+[doctor] Okay. Have you noticed any other symptoms along with the pain?
+
+[patient] Yes, I've been feeling nauseous and I've had some diarrhea. I also have a mild fever.
+
+[doctor] Do you know what your temperature has been?
+
+[patient] I checked it, and it was about 100.6 degrees Fahrenheit.
+
+[doctor] Alright. Have you had any difficulty performing your regular tasks?
+
+[patient] Yes, the pain has been so bad that I couldn't even do yard work. It also kept me up last night.
+
+[doctor] That sounds very uncomfortable. Have you taken any medications for this?
+
+[patient] No, I haven't taken anything yet. 
+
+[doctor] Okay. How about your respiratory and cardiovascular systems? Any complaints there?
+
+[patient] No, I haven't noticed any changes there.
+
+[doctor] And you mentioned you manage hypertension with Lisinopril. Have you been keeping up with that?
+
+[patient] Yes, I take it regularly.
+
+[doctor] Great. Let me ask you a few more questions. Have you had any issues with your musculoskeletal system, apart from being unable to do strenuous tasks?
+
+[patient] No, just the abdominal pain.
+
+[doctor] Alright, let's move on to a physical examination. I'll check your abdomen first. Please lie down on the examination table.
+
+[patient] Sure.
+
+[doctor] I'm going to press on different areas of your abdomen. Let me know if you feel any pain. How about here, on the right lower side?
+
+[patient] Ouch, yes, that hurts!
+
+[doctor] Okay, that's rebound tenderness. Now, I'm going to press on the left side and see if it hurts on the right when I release. Does that hurt?
+
+[patient] Yes, it does.
+
+[doctor] That's a positive Rovsing's sign. I also notice some localized guarding. Your temperature is 100.6°F, heart rate is 92 beats per minute, blood pressure is 132/85 mm Hg, and respiratory rate is 16 breaths per minute. I suspect you might have acute appendicitis.
+
+[patient] Oh no, that sounds serious.
+
+[doctor] It can be, but we're going to take care of it. I've ordered a Complete Blood Count to check for elevated white blood cells, which can indicate an infection. We’re also going to do an abdominal MRI to confirm the diagnosis.
+
+[patient] Alright, what's the next step after that?
+
+[doctor] If the tests confirm acute appendicitis, we'll need to do an appendectomy, which is the surgical removal of the appendix. It's a common procedure and usually very effective.
+
+[patient] I see. How long will the recovery take?
+
+[doctor] Recovery times can vary, but most people start feeling better within a few days to a week. We'll also provide you with medications to manage pain and prevent infection post-operatively. 
+
+[patient] What kind of medications will I need?
+
+[doctor] You'll be prescribed Amoxicillin-Clavulanate 875/125 mg to take twice daily for 7 days post-operatively to prevent infection. For pain, you'll have Hydrocodone-Acetaminophen 5/325 mg to take every 6 hours as needed, with a total of 15 tablets.
+
+[patient] Okay, got it. Anything else I should know?
+
+[doctor] Yes, it's important to continue taking your Lisinopril for hypertension. Also, avoid sulfa drugs since you have an allergy. Maintain hydration and stick to a light diet after the surgery. If you notice any signs of infection, increased pain, or other concerning symptoms, seek immediate medical attention.
+
+[patient] Understood. And when should I come back for a follow-up?
+
+[doctor] We'll schedule a follow-up visit in 10 days to check your wound and assess your recovery. Does that sound alright?
+
+[patient] Yes, that sounds good.
+
+[doctor] Great. I'll discuss the procedure and recovery process in more detail with you. Given your high health literacy and background in engineering, I believe you'll understand the importance of this urgent surgical intervention.
+
+[patient] Yes, I do. I just want to get better as soon as possible.
+
+[doctor] Absolutely. We're here to help you with that. Let’s await the results of the blood work and MRI before proceeding with the surgery. If you have any questions or concerns, feel free to ask.
+
+[patient] Will do. Thank you, doctor.
+
+[doctor] You're welcome. Please wait here while we get the tests done and I'll be back with the results shortly.
+
+[patient] Alright, thanks again."|"[doctor] Hello, how are you doing today?
+
+[patient] Hi, I'm not doing so great. I've been having some pretty bad pain in my abdomen.
+
+[doctor] I see. Can you describe the pain for me?
+
+[patient] Yeah, it's in the right lower part of my abdomen. It's been pretty intense, like a 6 or 7 out of 10. It started about 16 hours ago.
+
+[doctor] Hmm, I see. Has the pain been constant or does it come and go?
+
+[patient] It's been intermittent, but when it hits, it's really bad.
+
+[doctor] Okay. Have you noticed any other symptoms along with the pain?
+
+[patient] Yes, I've been feeling nauseous and I've had some diarrhea. I also have a mild fever.
+
+[doctor] Do you know what your temperature has been?
+
+[patient] I checked it, and it was about 100.6 degrees Fahrenheit.
+
+[doctor] Alright. Have you had any difficulty performing your regular tasks?
+
+[patient] Yes, the pain has been so bad that I couldn't even do yard work. It also kept me up last night.
+
+[doctor] That sounds very uncomfortable. Have you taken any medications for this?
+
+[patient] No, I haven't taken anything yet. 
+
+[doctor] Okay. How about your respiratory and cardiovascular systems? Any complaints there?
+
+[patient] No, I haven't noticed any changes there.
+
+[doctor] And you mentioned you manage hypertension with Lisinopril. Have you been keeping up with that?
+
+[patient] Yes, I take it regularly.
+
+[doctor] Great. Let me ask you a few more questions. Have you had any issues with your musculoskeletal system, apart from being unable to do strenuous tasks?
+
+[patient] No, just the abdominal pain.
+
+[doctor] Alright, let's move on to a physical examination. I'll check your abdomen first. Please lie down on the examination table.
+
+[patient] Sure.
+
+[doctor] I'm going to press on different areas of your abdomen. Let me know if you feel any pain. How about here, on the right lower side?
+
+[patient] Ouch, yes, that hurts!
+
+[doctor] Okay, that's rebound tenderness. Now, I'm going to press on the left side and see if it hurts on the right when I release. Does that hurt?
+
+[patient] Yes, it does.
+
+[doctor] That's a positive Rovsing's sign. I also notice some localized guarding. Your temperature is 100.6°F, heart rate is 92 beats per minute, blood pressure is 132/85 mm Hg, and respiratory rate is 16 breaths per minute. I suspect you might have acute appendicitis.
+
+[patient] Oh no, that sounds serious.
+
+[doctor] It can be, but we're going to take care of it. I've ordered a Complete Blood Count to check for elevated white blood cells, which can indicate an infection. We’re also going to do an abdominal MRI to confirm the diagnosis.
+
+[patient] Alright, what's the next step after that?
+
+[doctor] If the tests confirm acute appendicitis, we'll need to do an appendectomy, which is the surgical removal of the appendix. It's a common procedure and usually very effective.
+
+[patient] I see. How long will the recovery take?
+
+[doctor] Recovery times can vary, but most people start feeling better within a few days to a week. We'll also provide you with medications to manage pain and prevent infection post-operatively. 
+
+[patient] What kind of medications will I need?
+
+[doctor] You'll be prescribed Amoxicillin-Clavulanate 875/125 mg to take twice daily for 7 days post-operatively to prevent infection. For pain, you'll have Hydrocodone-Acetaminophen 5/325 mg to take every 6 hours as needed, with a total of 15 tablets.
+
+[patient] Okay, got it. Anything else I should know?
+
+[doctor] Yes, it's important to continue taking your Lisinopril for hypertension. Also, avoid sulfa drugs since you have an allergy. Maintain hydration and stick to a light diet after the surgery. If you notice any signs of infection, increased pain, or other concerning symptoms, seek immediate medical attention.
+
+[patient] Understood. And when should I come back for a follow-up?
+
+[doctor] We'll schedule a follow-up visit in 10 days to check your wound and assess your recovery. Does that sound alright?
+
+[patient] Yes, that sounds good.
+
+[doctor] Great. I'll discuss the procedure and recovery process in more detail with you. Given your high health literacy and background in engineering, I believe you'll understand the importance of this urgent surgical intervention.
+
+[patient] Yes, I do. I just want to get better as soon as possible.
+
+[doctor] Absolutely. We're here to help you with that. Let’s await the results of the blood work and MRI before proceeding with the surgery. If you have any questions or concerns, feel free to ask.
+
+[patient] Will do. Thank you, doctor.
+
+[doctor] You're welcome. Please wait here while we get the tests done and I'll be back with the results shortly.
+
+[patient] Alright, thanks again."
+UNSPECIFIED ACUTE APPENDICITIS|"ROLE: General Surgeon
+
+**Scenario:**
+- Medical Outcome: 
+  - Diagnosis: Unspecified acute appendicitis
+  - Prescribed Treatment: Urgent laparoscopic appendectomy
+  - Follow-up Recommendations: Post-surgical follow-up in 2 weeks, dietary progression guidelines, and physical activity restrictions for 4 weeks
+  - Referral to Specialists: Referral to a dietitian for dietary planning post-surgery
+  - Referral to further tests or imaging: NA
+  - Medication adjustment: Prescribe pain management regimen post-surgery: Oxycodone 5 mg orally every 6 hours as needed for pain, maximum of 30 tablets
+  - Lifestyle change: Postoperative mobility exercises with a physical therapist
+
+- Medical History: 
+  - Previous Diagnoses: Hypertension
+  - Family Medical History: Father had colon cancer
+  - Medication History: Amlodipine for hypertension
+  - Allergies: None
+  - Chronic Conditions: Hypertension
+
+- Symptom Description: 
+  - Severity: Moderate
+  - Duration: 48 hours
+  - Associated Symptoms: Low-grade fever, loss of appetite, and mild diarrhea
+  - Frequency: Intermittent
+  - Impact on Daily Activities: Difficulty walking and maintaining normal work routine
+
+- Patient’s self-reported habits and lifestyle: 
+  - Sleep: Interrupted due to abdominal pain
+  - Diet: High-fat diet with low fiber
+  - Exercise: Minimal due to sedentary job
+  - Tobacco Use: Former smoker, quit 2 years ago
+  - Alcohol Consumption: Occasional, drinks socially on weekends
+  - Drug Use: None
+  - Recreational Activities: Enjoys gardening and cooking
+
+- Demographic Information: 
+  - Age: 45
+  - Gender: Female
+  - Ethnicity: Hispanic
+  - Socio-economic Status: Working class
+  - Education Level: High school diploma
+  - Health Literacy: Moderate
+  - Job Status: Factory worker
+
+- Patient's Behavior: Generally cooperative but expresses concern about taking time off work
+
+- Geographical Location: 
+  - Type: Rural
+  - Pollution and Environmental Health Risks: Low pollution, agricultural area
+  - Neighborhood: Lower-income, limited access to specialty healthcare
+
+- Clinical Setting: Community Health Services in a rural hospital
+
+- Type of Encounter: Emergency Visit
+
+- Treatment Disparities: Patient expressed concern about medical expenses, leading to slightly delayed presentation
+
+- Native or Non-Native English Speaking Patient: Non-Native English-speaking, Spanish primary language
+
+- Physical exams: 
+  - Abdominal exam: Tenderness in the right lower quadrant, positive Rovsing's sign, and rigidity
+
+- Investigation/Test results: 
+  - Labs: Elevated white blood cell count (18,500/mm³), elevated CRP
+  - Imaging: Abdominal CT scan confirming enlarged, inflamed appendix with peri-appendiceal fat stranding"|"#####
+
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Right lower abdominal pain.
+
+**History of Present Illness (HPI):**
+The patient is a 45-year-old Hispanic female who presents to the emergency department with a 48-hour history of moderate right lower abdominal pain. She reports that the pain started suddenly and has been intermittent. It has been associated with a low-grade fever, loss of appetite, and mild diarrhea. She also mentions difficulty walking and maintaining her normal work routine due to the pain. The pain has interrupted her sleep.
+
+**Review of Systems (ROS):**
+- Constitutional: Reports low-grade fever.
+- Gastrointestinal: Reports right lower quadrant pain, loss of appetite, and mild diarrhea.
+- Musculoskeletal: Denies joint pain but reports difficulty walking due to abdominal pain.
+- Neurological: No dizziness or headaches reported.
+
+**Social History:**
+- Diet: High-fat diet with low fiber intake.
+- Exercise: Minimal physical activity due to a sedentary job.
+- Tobacco Use: Former smoker, quit 2 years ago.
+- Alcohol Consumption: Occasional, socially on weekends.
+- Recreational Activities: Enjoys gardening and cooking.
+- Job Status: Factory worker concerned about taking time off work.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 100.3°F
+- Blood Pressure: 135/85 mmHg
+- Heart Rate: 95 beats per minute
+- Respiratory Rate: 18 breaths per minute
+
+**Physical Exam:**
+- Constitutional: Mild distress due to pain.
+- Abdominal: Tenderness in the right lower quadrant, positive Rovsing’s sign, and rigidity noted.
+- Cardiovascular: Regular rate and rhythm, no murmurs.
+- Respiratory: Clear to auscultation bilaterally.
+- Neurological: Alert and oriented, no focal deficits.
+
+**Investigation/Test Results:**
+- Labs: Elevated white blood cell count (18,500/mm³), elevated C-reactive protein (CRP).
+- Imaging: Abdominal CT scan confirms an enlarged, inflamed appendix with peri-appendiceal fat stranding.
+
+**3. Assessment:**
+
+- Acute appendicitis.
+
+**4. Plan:**
+
+**Treatment:**
+- Urgent laparoscopic appendectomy scheduled immediately.
+
+**Medications:**
+- Post-surgery pain management: Oxycodone 5 mg orally every 6 hours as needed for pain, maximum of 30 tablets.
+
+**Referrals:**
+- Referral to a dietitian for dietary planning post-surgery.
+- Postoperative mobility exercises with a physical therapist.
+
+**Follow-up:**
+- Post-surgical follow-up in 2 weeks to assess recovery and wound healing.
+- Dietary progression guidelines to be given, emphasizing a gradual return to normal diet focusing on increased fiber intake.
+- Physical activity restrictions for 4 weeks post-surgery to avoid strain on the surgical site.
+
+**Patient Education and Instructions:**
+- Explain the importance of adhering to dietary recommendations from the dietitian.
+- Emphasize the need to perform postoperative mobility exercises as guided by the physical therapist.
+- Advise the patient to avoid heavy lifting and strenuous activities for 4 weeks.
+- Discuss the importance of follow-up visits for monitoring recovery.
+- Address concerns about medical expenses by providing information on available financial assistance programs.
+
+**Instructions for Daily Living:**
+- Encourage the patient to maintain hydration and a balanced diet post-surgery.
+- Advise on signs of infection or complications to watch for, including increasing pain, fever, or redness at the surgical site, and to seek immediate medical attention if these occur.
+  
+**Language Assistance:**
+- Provide all instructions and education materials in Spanish to ensure understanding.
+
+This plan was discussed in detail with the patient who, despite concerns about taking time off work, understands the necessity of the surgery and postoperative care."|"#####
+
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Right lower abdominal pain.
+
+**History of Present Illness (HPI):**
+The patient is a 45-year-old Hispanic female named Maria Gonzalez who presents to the emergency department with a 48-hour history of moderate right lower abdominal pain. She reports that the pain started suddenly and has been intermittent. It has been associated with a low-grade fever, loss of appetite, and mild diarrhea. She also mentions difficulty walking and maintaining her normal work routine due to the pain. The pain has interrupted her sleep.
+
+**Review of Systems (ROS):**
+- Constitutional: Reports low-grade fever.
+- Gastrointestinal: Reports right lower quadrant pain, loss of appetite, and mild diarrhea.
+- Musculoskeletal: Denies joint pain but reports difficulty walking due to abdominal pain.
+- Neurological: No dizziness or headaches reported.
+
+**Social History:**
+- Diet: High-fat diet with low fiber intake.
+- Exercise: Minimal physical activity due to a sedentary job.
+- Tobacco Use: Former smoker, quit 2 years ago.
+- Alcohol Consumption: Occasional, socially on weekends.
+- Recreational Activities: Enjoys gardening and cooking.
+- Job Status: Factory worker concerned about taking time off work.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 100.3°F
+- Blood Pressure: 135/85 mmHg
+- Heart Rate: 95 beats per minute
+- Respiratory Rate: 18 breaths per minute
+
+**Physical Exam:**
+- Constitutional: Mild distress due to pain.
+- Abdominal: Tenderness in the right lower quadrant, positive Rovsing’s sign, and rigidity noted.
+- Cardiovascular: Regular rate and rhythm, no murmurs.
+- Respiratory: Clear to auscultation bilaterally.
+- Neurological: Alert and oriented, no focal deficits.
+
+**Investigation/Test Results:**
+- Labs: Elevated white blood cell count (18,500/mm³), elevated C-reactive protein (CRP).
+- Imaging: Abdominal CT scan confirms an enlarged, inflamed appendix with peri-appendiceal fat stranding.
+
+**3. Assessment:**
+
+- Acute appendicitis.
+
+**4. Plan:**
+
+**Treatment:**
+- Urgent laparoscopic appendectomy scheduled immediately.
+
+**Medications:**
+- Post-surgery pain management: Oxycodone 5 mg orally every 6 hours as needed for pain, maximum of 30 tablets.
+
+**Referrals:**
+- Referral to a dietitian for dietary planning post-surgery. Dietitian: Dr. Laura Martinez.
+- Postoperative mobility exercises with a physical therapist. Physical Therapist: Dr. John Smith.
+
+**Follow-up:**
+- Post-surgical follow-up in 2 weeks to assess recovery and wound healing.
+- Dietary progression guidelines to be given, emphasizing a gradual return to normal diet focusing on increased fiber intake.
+- Physical activity restrictions for 4 weeks post-surgery to avoid strain on the surgical site.
+
+**Patient Education and Instructions:**
+- Explain the importance of adhering to dietary recommendations from the dietitian.
+- Emphasize the need to perform postoperative mobility exercises as guided by the physical therapist.
+- Advise the patient to avoid heavy lifting and strenuous activities for 4 weeks.
+- Discuss the importance of follow-up visits for monitoring recovery.
+- Address concerns about medical expenses by providing information on available financial assistance programs.
+
+**Instructions for Daily Living:**
+- Encourage the patient to maintain hydration and a balanced diet post-surgery.
+- Advise on signs of infection or complications to watch for, including increasing pain, fever, or redness at the surgical site, and to seek immediate medical attention if these occur.
+  
+**Language Assistance:**
+- Provide all instructions and education materials in Spanish to ensure understanding.
+
+This plan was discussed in detail with the patient who, despite concerns about taking time off work, understands the necessity of the surgery and postoperative care."|"#####
+
+**1. Subjective:**
+
+**CC:**
+Right lower abdominal pain.
+
+**HPI:**
+The pt is a 45 y/o Hispanic F named Maria Gonzalez who presents to the ED with a 48-hour hx of moderate RLQ pain. She reports that the pain started suddenly and has been intermittent. It has been associated with a low-grade fever, loss of appetite, and mild diarrhea. She also mentions difficulty walking and maintaining her normal work routine due to the pain. The pain has interrupted her sleep.
+
+**ROS:**
+- Constitutional: Reports low-grade fever.
+- GI: Reports RLQ pain, loss of appetite, and mild diarrhea.
+- MSK: Denies joint pain but reports difficulty walking due to abdominal pain.
+- Neuro: No dizziness or headaches reported.
+
+**Social Hx:**
+- Diet: High-fat diet with low fiber intake.
+- Exercise: Minimal physical activity due to a sedentary job.
+- Tobacco Use: Former smoker, quit 2 years ago.
+- ETOH: Occasional, socially on weekends.
+- Recreational Activities: Enjoys gardening and cooking.
+- Job Status: Factory worker concerned about taking time off work.
+
+**2. Objective:**
+
+**VS:**
+- Temp: 100.3°F
+- BP: 135/85 mmHg
+- HR: 95 bpm
+- RR: 18 bpm
+
+**PE:**
+- Constitutional: Mild distress due to pain.
+- Abdominal: Tenderness in the RLQ, +Rovsing’s sign, and rigidity noted.
+- CV: RRR, no murmurs.
+- Resp: CTA bilaterally.
+- Neuro: Alert and oriented, no focal deficits.
+
+**Investigation/Test Results:**
+- Labs: Elevated WBC (18,500/mm³), elevated CRP.
+- Imaging: Abdominal CT confirms an enlarged, inflamed appendix with peri-appendiceal fat stranding.
+
+**3. Assessment:**
+
+- Acute appendicitis.
+
+**4. Plan:**
+
+**Tx:**
+- Urgent lap appy scheduled immediately.
+
+**Meds:**
+- Post-op pain mgmt: Oxycodone 5 mg PO q6h PRN for pain, max of 30 tabs.
+
+**Referrals:**
+- Referral to a dietitian for dietary planning post-surgery. Dietitian: Dr. Laura Martinez.
+- Post-op mobility exercises with a PT. PT: Dr. John Smith.
+
+**F/U:**
+- Post-surgical F/U in 2 weeks to assess recovery and wound healing.
+- Dietary progression guidelines to be given, emphasizing a gradual return to normal diet focusing on increased fiber intake.
+- Physical activity restrictions for 4 weeks post-surgery to avoid strain on the surgical site.
+
+**Pt Education and Instructions:**
+- Explain the importance of adhering to dietary recommendations from the dietitian.
+- Emphasize the need to perform post-op mobility exercises as guided by the PT.
+- Advise the pt to avoid heavy lifting and strenuous activities for 4 weeks.
+- Discuss the importance of F/U visits for monitoring recovery.
+- Address concerns about medical expenses by providing information on available financial assistance programs.
+
+**Instructions for Daily Living:**
+- Encourage the pt to maintain hydration and a balanced diet post-surgery.
+- Advise on signs of infection or complications to watch for, including increasing pain, fever, or redness at the surgical site, and to seek immediate medical attention if these occur.
+  
+**Language Assistance:**
+- Provide all instructions and education materials in Spanish to ensure understanding.
+
+This plan was discussed in detail with the pt who, despite concerns about taking time off work, understands the necessity of the surgery and post-op care."|General Surgeon|"**Doctor:** Hello, nice to see you today. How are you feeling?
+
+**Patient:** Not great, Doctor. I've been having some pain in my lower right abdomen for the past two days.
+
+**Doctor:** I’m sorry to hear that. Can you describe the pain for me? When did it start, and how would you rate it on a scale from 1 to 10?
+
+**Patient:** It started suddenly about 48 hours ago, and it's been coming and going. I'd say it's around a 6 or 7 most of the time.
+
+**Doctor:** I see. Has anything made the pain better or worse?
+
+**Patient:** No, nothing seems to make it better. Movement makes it worse, and it’s been hard to walk or do my job.
+
+**Doctor:** I understand. Have you noticed any other symptoms, like a fever or changes in your appetite?
+
+**Patient:** Yes, I’ve had a low-grade fever, and I haven’t felt like eating much. I also had some mild diarrhea.
+
+**Doctor:** Okay, that's helpful to know. Have you had any dizziness or headaches?
+
+**Patient:** No, I haven’t had any dizziness or headaches.
+
+**Doctor:** How about joint pain or muscle aches?
+
+**Patient:** No, just the pain in my abdomen.
+
+**Doctor:** Let's touch on your diet and lifestyle a bit. Can you tell me about your typical diet?
+
+**Patient:** I usually eat a lot of high-fat foods and not much fiber. I know it's not the best.
+
+**Doctor:** And what about exercise? Do you get much physical activity?
+
+**Patient:** Not really. I have a pretty sedentary job and don’t exercise much.
+
+**Doctor:** I see. Do you smoke or drink alcohol?
+
+**Patient:** I used to smoke but quit two years ago. I drink occasionally, mostly on weekends.
+
+**Doctor:** That’s good to hear about quitting smoking. What do you enjoy doing in your free time?
+
+**Patient:** I like gardening and cooking.
+
+**Doctor:** Those are great hobbies. And what do you do for work?
+
+**Patient:** I work in a factory. I'm worried about taking time off because of this pain.
+
+**Doctor:** I understand your concern. Let’s do a physical exam to get a better understanding of what’s going on. First, I’ll check your vitals. Your temperature is 100.3°F, your blood pressure is 135/85 mmHg, your heart rate is 95 beats per minute, and your respiratory rate is 18 breaths per minute. Based on these, you have a low-grade fever.
+
+**Patient:** Okay.
+
+**Doctor:** I’m going to examine your abdomen now. Let me know if you feel any pain when I press here.
+
+**Patient:** Ouch, yes, that hurts.
+
+**Doctor:** That’s tenderness in the right lower quadrant. How about when I press here and release?
+
+**Patient:** Yes, that hurts even more.
+
+**Doctor:** That’s a positive Rovsing’s sign. Your abdomen also feels rigid. I’m going to listen to your heart and lungs now. Your heart rate is regular and there are no murmurs. Your lungs are clear to auscultation. Everything else seems normal. 
+
+**Patient:** What do you think it could be?
+
+**Doctor:** Based on your symptoms and the physical exam, it looks like you might have acute appendicitis. We’ll need to confirm with some tests. 
+
+**Patient:** What kind of tests?
+
+**Doctor:** We’ll start with some lab tests and a CT scan of your abdomen. Your white blood cell count is elevated at 18,500/mm³ and your C-reactive protein is elevated as well. The CT scan shows an enlarged, inflamed appendix with peri-appendiceal fat stranding.
+
+**Patient:** So, it is appendicitis?
+
+**Doctor:** Yes, it’s confirmed. We need to perform an urgent laparoscopic appendectomy to remove your appendix.
+
+**Patient:** Surgery? How soon?
+
+**Doctor:** We need to do it immediately to prevent any complications. 
+
+**Patient:** Okay, I understand.
+
+**Doctor:** Post-surgery, we’ll manage your pain with Oxycodone 5 mg orally every 6 hours as needed, but no more than 30 tablets.
+
+**Patient:** Alright.
+
+**Doctor:** We’ll also refer you to a dietitian to help improve your diet post-surgery, and a physical therapist for postoperative mobility exercises.
+
+**Patient:** Do I need to follow up?
+
+**Doctor:** Yes, I want to see you back in 2 weeks to check on your recovery and wound healing. We’ll also give you dietary guidelines emphasizing increased fiber intake and physical activity restrictions for 4 weeks to avoid straining the surgical site.
+
+**Patient:** Okay, I’ll do that.
+
+**Doctor:** It’s crucial to follow the dietitian’s recommendations and do the exercises from the physical therapist. Avoid heavy lifting and strenuous activities for 4 weeks, and watch for signs of infection like increasing pain, fever, or redness at the surgical site. Seek immediate medical attention if you notice any of those.
+
+**Patient:** I will.
+
+**Doctor:** We’ll provide all instructions and materials in Spanish to ensure you understand everything. 
+
+**Patient:** Thank you, that helps.
+
+**Doctor:** If you’re worried about medical expenses, we can provide information on financial assistance programs. 
+
+**Patient:** That’s good to know.
+
+**Doctor:** Do you have any other questions or concerns?
+
+**Patient:** No, I think that covers everything.
+
+**Doctor:** Great, we’ll get you prepped for surgery now. I’ll see you in 2 weeks for your follow-up. Take care!
+
+**Patient:** Thank you, Doctor."|"[doctor]: Hello, nice to see you today. How are you feeling?
+
+[patient]: Not great, Doctor. I've been having some pain in my lower right abdomen for the past two days.
+
+[doctor]: I’m sorry to hear that. Can you describe the pain for me? When did it start, and how would you rate it on a scale from 1 to 10?
+
+[patient]: It started suddenly about 48 hours ago, and it's been coming and going. I'd say it's around a 6 or 7 most of the time.
+
+[doctor]: I see. Has anything made the pain better or worse?
+
+[patient]: No, nothing seems to make it better. Movement makes it worse, and it’s been hard to walk or do my job.
+
+[doctor]: I understand. Have you noticed any other symptoms, like a fever or changes in your appetite?
+
+[patient]: Yes, I’ve had a low-grade fever, and I haven’t felt like eating much. I also had some mild diarrhea.
+
+[doctor]: Okay, that's helpful to know. Have you had any dizziness or headaches?
+
+[patient]: No, I haven’t had any dizziness or headaches.
+
+[doctor]: How about joint pain or muscle aches?
+
+[patient]: No, just the pain in my abdomen.
+
+[doctor]: Let's touch on your diet and lifestyle a bit. Can you tell me about your typical diet?
+
+[patient]: I usually eat a lot of high-fat foods and not much fiber. I know it's not the best.
+
+[doctor]: And what about exercise? Do you get much physical activity?
+
+[patient]: Not really. I have a pretty sedentary job and don’t exercise much.
+
+[doctor]: I see. Do you smoke or drink alcohol?
+
+[patient]: I used to smoke but quit two years ago. I drink occasionally, mostly on weekends.
+
+[doctor]: That’s good to hear about quitting smoking. What do you enjoy doing in your free time?
+
+[patient]: I like gardening and cooking.
+
+[doctor]: Those are great hobbies. And what do you do for work?
+
+[patient]: I work in a factory. I'm worried about taking time off because of this pain.
+
+[doctor]: I understand your concern. Let’s do a physical exam to get a better understanding of what’s going on. First, I’ll check your vitals. Your temperature is 100.3°F, your blood pressure is 135/85 mmHg, your heart rate is 95 beats per minute, and your respiratory rate is 18 breaths per minute. Based on these, you have a low-grade fever.
+
+[patient]: Okay.
+
+[doctor]: I’m going to examine your abdomen now. Let me know if you feel any pain when I press here.
+
+[patient]: Ouch, yes, that hurts.
+
+[doctor]: That’s tenderness in the right lower quadrant. How about when I press here and release?
+
+[patient]: Yes, that hurts even more.
+
+[doctor]: That’s a positive Rovsing’s sign. Your abdomen also feels rigid. I’m going to listen to your heart and lungs now. Your heart rate is regular and there are no murmurs. Your lungs are clear to auscultation. Everything else seems normal.
+
+[patient]: What do you think it could be?
+
+[doctor]: Based on your symptoms and the physical exam, it looks like you might have acute appendicitis. We’ll need to confirm with some tests.
+
+[patient]: What kind of tests?
+
+[doctor]: We’ll start with some lab tests and a CT scan of your abdomen. Your white blood cell count is elevated at 18,500/mm³ and your C-reactive protein is elevated as well. The CT scan shows an enlarged, inflamed appendix with peri-appendiceal fat stranding.
+
+[patient]: So, it is appendicitis?
+
+[doctor]: Yes, it’s confirmed. We need to perform an urgent laparoscopic appendectomy to remove your appendix.
+
+[patient]: Surgery? How soon?
+
+[doctor]: We need to do it immediately to prevent any complications.
+
+[patient]: Okay, I understand.
+
+[doctor]: Post-surgery, we’ll manage your pain with Oxycodone 5 mg orally every 6 hours as needed, but no more than 30 tablets.
+
+[patient]: Alright.
+
+[doctor]: We’ll also refer you to a dietitian to help improve your diet post-surgery, and a physical therapist for postoperative mobility exercises.
+
+[patient]: Do I need to follow up?
+
+[doctor]: Yes, I want to see you back in 2 weeks to check on your recovery and wound healing. We’ll also give you dietary guidelines emphasizing increased fiber intake and physical activity restrictions for 4 weeks to avoid straining the surgical site.
+
+[patient]: Okay, I’ll do that.
+
+[doctor]: It’s crucial to follow the dietitian’s recommendations and do the exercises from the physical therapist. Avoid heavy lifting and strenuous activities for 4 weeks, and watch for signs of infection like increasing pain, fever, or redness at the surgical site. Seek immediate medical attention if you notice any of those.
+
+[patient]: I will.
+
+[doctor]: We’ll provide all instructions and materials in Spanish to ensure you understand everything.
+
+[patient]: Thank you, that helps.
+
+[doctor]: If you’re worried about medical expenses, we can provide information on financial assistance programs.
+
+[patient]: That’s good to know.
+
+[doctor]: Do you have any other questions or concerns?
+
+[patient]: No, I think that covers everything.
+
+[doctor]: Great, we’ll get you prepped for surgery now. I’ll see you in 2 weeks for your follow-up. Take care!
+
+[patient]: Thank you, Doctor."
+UNSPECIFIED ACUTE APPENDICITIS|"ROLE: General Surgeon
+
+- **Medical Outcome:**
+  - Diagnosis: Unspecified acute appendicitis
+  - Prescribed Treatment: Surgical removal of the appendix (appendectomy)
+  - Follow-up Recommendations: Post-surgical follow-up in 1-2 weeks to monitor recovery
+  - Referral to Specialists: NA
+  - Referral to Further Tests or Imaging: Abdominal ultrasound to confirm the diagnosis
+  - Medication Adjustment: NA
+  - Lifestyle Change: Post-surgical activity and dietary recommendations
+  - Prescribing Medication: 
+    - Antibiotic: Ceftriaxone 1g IV every 12 hours preoperatively and for 2 days postoperatively
+    - Pain management: Acetaminophen 500mg orally every 6 hours as needed for pain, up to 10 days postoperatively
+
+- **Medical History:**
+  - Previous Diagnoses: No significant medical history
+  - Family Medical History: No family history of appendicitis or gastrointestinal diseases
+  - Medication History: No current medications
+  - Allergies: No known drug allergies
+  - Chronic Conditions: None
+
+- **Symptom Description:**
+  - Severity: Moderate to severe
+  - Duration: 24 hours
+  - Associated Symptoms: Nausea, vomiting, low-grade fever, localized right lower quadrant abdominal pain
+  - Frequency: Constant pain
+  - Impact on Daily Activities: Unable to perform usual activities, bedridden
+
+- **Patient’s Self-reported Habits and Lifestyle:**
+  - Sleep: Previously normal, disrupted due to pain
+  - Diet: Regular diet, no specific restrictions
+  - Exercise: Moderate exercise (jogging, cycling) prior to pain onset
+  - Tobacco Use: Non-smoker
+  - Alcohol Consumption: Occasional (1-2 drinks per week)
+  - Drug Use: Denies any recreational drug use
+  - Recreational Activities: Participates in outdoor activities and sports
+
+- **Demographic Information:**
+  - Age: 25
+  - Gender: Male
+  - Ethnicity: Hispanic
+  - Socio-economic Status: Middle-class
+  - Education Level: College graduate
+  - Health Literacy: Moderate
+  - Job Status: Employed full-time (Software Engineer)
+
+- **Patient's Behavior:**
+  - Cooperation Level: Highly cooperative and follows medical advice
+
+- **Geographical Location:**
+  - Urban
+  - Neighborhood Type: Affluent
+  - Well-served by Transit: Yes
+  - Pollution and Environmental Health Risks: Low
+
+- **Clinical Setting:**
+  - Hospitals
+
+- **Type of Encounter:**
+  - Emergency Visit
+
+- **Treatment Disparities:**
+  - None noted (assuming full insurance coverage and compliance)
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English Speaker
+
+- **Physical Exams:**
+  - Abdominal exam revealing rebound tenderness in the right lower quadrant, Rovsing's sign positive
+
+- **Investigation/Test Results:**
+  - Abdominal ultrasound report pending to confirm appendicitis"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Moderate to severe right lower quadrant abdominal pain for the past 24 hours.
+
+**History of Present Illness (HPI):**  
+The patient, a 25-year-old Hispanic male, presents with a 24-hour history of moderate to severe right lower quadrant abdominal pain. He describes the pain as constant and exacerbated by movement. Accompanying symptoms include nausea, vomiting, and a low-grade fever. The pain has significantly impacted his daily activities, rendering him bedridden. No prior episodes of similar pain are reported.
+
+**Review of Systems (ROS):**  
+- Gastrointestinal: Reports nausea, vomiting, and localized right lower quadrant abdominal pain. Denies diarrhea or constipation.
+- General: Reports a low-grade fever. No chills or night sweats.
+- Musculoskeletal: Denies any joint pain or swelling.
+- Cardiovascular: Denies chest pain, palpitations, or shortness of breath.
+- Respiratory: Denies cough or difficulty breathing.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 38.1°C (100.6°F)
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 92 bpm
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Exam:**
+- General: The patient appears to be in moderate distress due to pain.
+- Abdominal: On inspection, the abdomen is soft and slightly distended. Palpation reveals tenderness localized to the right lower quadrant with rebound tenderness. Rovsing's sign is positive. No guarding or palpable masses.
+- Cardiovascular: Normal S1 and S2, no murmurs, rubs, or gallops.
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- Neurological: Alert and oriented x3, no focal deficits.
+
+**Investigation/Test Results:**
+- Abdominal ultrasound report pending. Preliminary examination supports the diagnosis of acute appendicitis.
+
+**3. Assessment:**
+
+Unspecified acute appendicitis.
+
+**4. Plan:**
+
+**Treatment:**
+- Schedule for an emergency surgical removal of the appendix (appendectomy).
+- Administer Ceftriaxone 1g IV every 12 hours preoperatively and continue for 2 days postoperatively.
+- For pain management, prescribe Acetaminophen 500mg orally every 6 hours as needed for pain, up to 10 days postoperatively.
+
+**Follow-up Recommendations:**
+- Post-surgical follow-up in 1-2 weeks to monitor recovery and ensure proper wound healing.
+
+**Lifestyle Changes:**
+- Post-surgical activity recommendations: Advise the patient to avoid heavy lifting and strenuous activity for at least 4-6 weeks post-surgery.
+- Dietary recommendations: Advise a gradual return to a regular diet starting with clear liquids and progressing to solid foods as tolerated.
+
+**Instructions:**
+- Monitor for signs of infection at the surgical site, such as redness, swelling, or discharge.
+- Educate the patient on recognizing symptoms of complications like increased pain, fever, or changes in bowel habits.
+- Inform the patient about the importance of compliance with the follow-up visit and medication regimen.
+
+The patient has been informed about the procedure, risks, and benefits, and has provided consent for the appendectomy. He is highly cooperative and exhibits a good understanding of the post-operative care instructions.
+
+#####"|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Moderate to severe right lower quadrant abdominal pain for the past 24 hours.
+
+**History of Present Illness (HPI):**  
+The patient, a 25-year-old Hispanic male, presents with a 24-hour history of moderate to severe right lower quadrant abdominal pain. He describes the pain as constant and exacerbated by movement. Accompanying symptoms include nausea, vomiting, and a low-grade fever. The pain has significantly impacted his daily activities, rendering him bedridden. No prior episodes of similar pain are reported.
+
+**Review of Systems (ROS):**  
+- Gastrointestinal: Reports nausea, vomiting, and localized right lower quadrant abdominal pain. Denies diarrhea or constipation.
+- General: Reports a low-grade fever. No chills or night sweats.
+- Musculoskeletal: Denies any joint pain or swelling.
+- Cardiovascular: Denies chest pain, palpitations, or shortness of breath.
+- Respiratory: Denies cough or difficulty breathing.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 38.1°C (100.6°F)
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 92 bpm
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Exam:**
+- General: The patient appears to be in moderate distress due to pain.
+- Abdominal: On inspection, the abdomen is soft and slightly distended. Palpation reveals tenderness localized to the right lower quadrant with rebound tenderness. Rovsing's sign is positive. No guarding or palpable masses.
+- Cardiovascular: Normal S1 and S2, no murmurs, rubs, or gallops.
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- Neurological: Alert and oriented x3, no focal deficits.
+
+**Investigation/Test Results:**
+- Abdominal ultrasound report pending. Preliminary examination supports the diagnosis of acute appendicitis.
+
+**3. Assessment:**
+
+Unspecified acute appendicitis.
+
+**4. Plan:**
+
+**Treatment:**
+- Schedule for an emergency surgical removal of the appendix (appendectomy).
+- Administer Ceftriaxone 1g IV every 12 hours preoperatively and continue for 2 days postoperatively.
+- For pain management, prescribe Acetaminophen 500mg orally every 6 hours as needed for pain, up to 10 days postoperatively.
+
+**Follow-up Recommendations:**
+- Post-surgical follow-up in 1-2 weeks to monitor recovery and ensure proper wound healing.
+
+**Lifestyle Changes:**
+- Post-surgical activity recommendations: Advise the patient to avoid heavy lifting and strenuous activity for at least 4-6 weeks post-surgery.
+- Dietary recommendations: Advise a gradual return to a regular diet starting with clear liquids and progressing to solid foods as tolerated.
+
+**Instructions:**
+- Monitor for signs of infection at the surgical site, such as redness, swelling, or discharge.
+- Educate the patient on recognizing symptoms of complications like increased pain, fever, or changes in bowel habits.
+- Inform the patient about the importance of compliance with the follow-up visit and medication regimen.
+
+The patient has been informed about the procedure, risks, and benefits, and has provided consent for the appendectomy. He is highly cooperative and exhibits a good understanding of the post-operative care instructions."|"**1. Subjective:**
+
+**CC:**  
+Moderate to severe RLQ abd pain for the past 24 hrs.
+
+**HPI:**  
+The pt, a 25 y/o Hispanic male, presents with a 24-hr hx of moderate to severe RLQ abd pain. He describes the pain as constant and exacerbated by movement. Accompanying sx include N/V and a low-grade fever. The pain has significantly impacted his ADLs, rendering him bedridden. No prior episodes of similar pain are reported.
+
+**ROS:**  
+- GI: Reports N/V and localized RLQ abd pain. Denies diarrhea or constipation.
+- General: Reports a low-grade fever. No chills or night sweats.
+- MSK: Denies any joint pain or swelling.
+- CV: Denies CP, palpitations, or SOB.
+- Resp: Denies cough or difficulty breathing.
+
+**2. Objective:**
+
+**VS:**
+- Temp: 38.1°C (100.6°F)
+- BP: 120/80 mmHg
+- HR: 92 bpm
+- RR: 18 bpm
+- O2 Sat: 98% on RA
+
+**PE:**
+- General: The pt appears to be in moderate distress due to pain.
+- Abd: On inspection, the abd is soft and slightly distended. Palpation reveals tenderness localized to the RLQ with rebound tenderness. Rovsing's sign is positive. No guarding or palpable masses.
+- CV: Normal S1 and S2, no murmurs, rubs, or gallops.
+- Resp: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- Neuro: Alert and oriented x3, no focal deficits.
+
+**Investigation/Test Results:**
+- Abdominal US report pending. Preliminary examination supports the dx of acute appendicitis.
+
+**3. Assessment:**
+
+Unspecified acute appendicitis.
+
+**4. Plan:**
+
+**Tx:**
+- Schedule for an emerg appendectomy.
+- Admin Ceftriaxone 1g IV q12h pre-op and continue for 2 days post-op.
+- For pain mgmt, Rx Acetaminophen 500mg PO q6h PRN for pain, up to 10 days post-op.
+
+**Follow-up Recommendations:**
+- Post-surgical follow-up in 1-2 weeks to monitor recovery and ensure proper wound healing.
+
+**Lifestyle Changes:**
+- Post-surgical activity recommendations: Advise the pt to avoid heavy lifting and strenuous activity for at least 4-6 weeks post-surgery.
+- Dietary recommendations: Advise a gradual return to a regular diet starting with clear liquids and progressing to solid foods as tolerated.
+
+**Instructions:**
+- Monitor for signs of infection at the surgical site, such as redness, swelling, or discharge.
+- Educate the pt on recognizing sx of complications like increased pain, fever, or changes in bowel habits.
+- Inform the pt about the importance of compliance with the follow-up visit and med regimen.
+
+The pt has been informed about the procedure, risks, and benefits, and has provided consent for the appendectomy. He is highly cooperative and exhibits a good understanding of the post-op care instructions."|General Surgeon|"```
+[doctor] Hi there, how are you feeling today? 
+[patient] Not great, honestly. I’ve been having this really bad pain in my lower right abdomen for about 24 hours now.
+[doctor] I see. Can you describe the pain for me? 
+[patient] It’s a constant, sharp pain that gets worse when I move around. I’ve also been feeling nauseous and I vomited a couple of times.
+[doctor] Alright, I understand. Have you noticed any fever or other symptoms? 
+[patient] Yes, I’ve had a low-grade fever since last night, but no chills or night sweats.
+[doctor] Okay, let’s go through a detailed review of systems. Besides the nausea, vomiting, and abdominal pain, have you experienced any diarrhea or constipation? 
+[patient] No, none of that.
+[doctor] How about any joint pain or swelling? 
+[patient] No joint pain or swelling.
+[doctor] Any chest pain, palpitations, or shortness of breath? 
+[patient] No, none of those either.
+[doctor] And what about respiratory symptoms like cough or difficulty breathing? 
+[patient] No, my breathing’s been fine.
+[doctor] Alright, thank you for that information. Let’s move on to your vital signs and physical exam.
+[doctor] Your temperature is 38.1°C, your blood pressure is 120/80 mmHg, your heart rate is 92 beats per minute, and your respiratory rate is 18 breaths per minute. Your oxygen saturation is 98% on room air.
+[doctor] During the physical exam, you appear to be in moderate distress due to pain. Your abdomen is soft and slightly distended. There is tenderness localized to the right lower quadrant with rebound tenderness, and Rovsing's sign is positive. However, there is no guarding or palpable masses.
+[doctor] Your cardiovascular exam shows normal heart sounds with no murmurs, rubs, or gallops. Your lungs are clear to auscultation bilaterally with no wheezes, rales, or rhonchi. Neurologically, you are alert and oriented, with no focal deficits.
+[doctor] Based on your symptoms and physical exam findings, I suspect you might have acute appendicitis. We are awaiting the results of your abdominal ultrasound to confirm this.
+[patient] Acute appendicitis? What does that mean?
+[doctor] It means that your appendix, which is a small, tube-like organ attached to the large intestine, is likely inflamed and infected. This condition requires prompt treatment, usually surgical removal of the appendix.
+[patient] Oh, I see. So, what happens next? 
+[doctor] If the ultrasound confirms appendicitis, we’ll need to schedule you for an emergency appendectomy, which is the surgical removal of the appendix.
+[patient] Okay, what should I expect with the surgery?
+[doctor] The procedure is usually straightforward and performed under general anesthesia. We’ll also start you on antibiotics, specifically Ceftriaxone 1g IV every 12 hours, to prevent infection. This will continue for 2 days postoperatively.
+[patient] What about the pain after surgery? 
+[doctor] For pain management, we’ll prescribe Acetaminophen 500mg orally every 6 hours as needed. It’s important to take it as directed, up to 10 days postoperatively.
+[patient] Alright, and what should I do after the surgery?
+[doctor] You’ll need to follow up with us in 1-2 weeks to monitor your recovery and ensure proper wound healing. Avoid heavy lifting and strenuous activity for at least 4-6 weeks post-surgery.
+[patient] What about my diet after surgery? 
+[doctor] Start with clear liquids and gradually return to a regular diet as tolerated. Listen to your body and take it slow.
+[patient] Got it. Anything else I should know?
+[doctor] Yes, monitor for signs of infection at the surgical site, such as redness, swelling, or discharge. Be aware of symptoms of complications like increased pain, fever, or changes in bowel habits. Compliance with your follow-up visit and medication regimen is crucial for a smooth recovery.
+[patient] I understand. Is there anything else I need to do before the surgery?
+[doctor] We’ve already discussed the procedure, risks, and benefits, and I see you’ve provided consent for the appendectomy. Make sure to follow all preoperative instructions given to you.
+[patient] Okay, thank you. I’ll do that.
+[doctor] You’re welcome. We’ll take good care of you. If you have any questions or concerns, don’t hesitate to reach out.
+[patient] Thank you, doctor. I appreciate it.
+[doctor] Alright, let’s get you prepped for the ultrasound and we’ll go from there. Take care.
+[patient] Will do, thanks again.
+```"|"```
+[doctor]: Hi there, how are you feeling today?
+[patient]: Not great, honestly. I’ve been having this really bad pain in my lower right abdomen for about 24 hours now.
+[doctor]: Hmm, I see. Can you describe the pain for me?
+[patient]: It’s a constant, sharp pain that gets worse when I move around. I’ve also been feeling nauseous and I vomited a couple of times.
+[doctor]: Alright, I understand. Have you noticed any fever or other symptoms?
+[patient]: Yes, I’ve had a low-grade fever since last night, but no chills or night sweats.
+[doctor]: Okay, let’s go through a detailed review of systems. Besides the nausea, vomiting, and abdominal pain, have you experienced any diarrhea or constipation?
+[patient]: No, none of that.
+[doctor]: How about any joint pain or swelling?
+[patient]: No joint pain or swelling.
+[doctor]: Any chest pain, palpitations, or shortness of breath?
+[patient]: No, none of those either.
+[doctor]: And what about respiratory symptoms like cough or difficulty breathing?
+[patient]: No, my breathing’s been fine.
+[doctor]: Alright, thank you for that information. Let’s move on to your vital signs and physical exam. Your temperature is 38.1°C, your blood pressure is 120/80 mmHg, your heart rate is 92 beats per minute, and your respiratory rate is 18 breaths per minute. Your oxygen saturation is 98% on room air.
+
+[doctor]: During the physical exam, you appear to be in moderate distress due to pain. Your abdomen is soft and slightly distended. There is tenderness localized to the right lower quadrant with rebound tenderness, and Rovsing's sign is positive. However, there is no guarding or palpable masses. Your cardiovascular exam shows normal heart sounds with no murmurs, rubs, or gallops. Your lungs are clear to auscultation bilaterally with no wheezes, rales, or rhonchi. Neurologically, you are alert and oriented, with no focal deficits.
+
+[doctor]: Based on your symptoms and physical exam findings, I suspect you might have acute appendicitis. We are awaiting the results of your abdominal ultrasound to confirm this.
+[patient]: Acute appendicitis? What does that mean?
+[doctor]: It means that your appendix, which is a small, tube-like organ attached to the large intestine, is likely inflamed and infected. This condition requires prompt treatment, usually surgical removal of the appendix.
+[patient]: Oh, I see. So, what happens next?
+[doctor]: If the ultrasound confirms appendicitis, we’ll need to schedule you for an emergency appendectomy, which is the surgical removal of the appendix.
+[patient]: Okay, what should I expect with the surgery?
+[doctor]: The procedure is usually straightforward and performed under general anesthesia. We’ll also start you on antibiotics, specifically Ceftriaxone 1g IV every 12 hours, to prevent infection. This will continue for 2 days postoperatively.
+[patient]: What about the pain after surgery?
+[doctor]: For pain management, we’ll prescribe Acetaminophen 500mg orally every 6 hours as needed. It’s important to take it as directed, up to 10 days postoperatively.
+[patient]: Alright, and what should I do after the surgery?
+[doctor]: You’ll need to follow up with us in 1-2 weeks to monitor your recovery and ensure proper wound healing. Avoid heavy lifting and strenuous activity for at least 4-6 weeks post-surgery.
+[patient]: What about my diet after surgery?
+[doctor]: Start with clear liquids and gradually return to a regular diet as tolerated. Listen to your body and take it slow.
+[patient]: Got it. Anything else I should know?
+[doctor]: Yes, monitor for signs of infection at the surgical site, such as redness, swelling, or discharge. Be aware of symptoms of complications like increased pain, fever, or changes in bowel habits. Compliance with your follow-up visit and medication regimen is crucial for a smooth recovery.
+[patient]: I understand. Is there anything else I need to do before the surgery?
+[doctor]: We’ve already discussed the procedure, risks, and benefits, and I see you’ve provided consent for the appendectomy. Make sure to follow all preoperative instructions given to you.
+[patient]: Okay, thank you. I’ll do that.
+[doctor]: You’re welcome. We’ll take good care of you. If you have any questions or concerns, don’t hesitate to reach out.
+[patient]: Thank you, doctor. I appreciate it.
+[doctor]: Alright, let’s get you prepped for the ultrasound and we’ll go from there. Take care.
+[patient]: Will do, thanks again.
+```"
+UNSPECIFIED ACUTE APPENDICITIS|"ROLE: General Surgeon
+
+- **Medical Outcome:**
+  - Diagnosis: Unspecified Acute Appendicitis
+  - Prescribed Treatment: Immediate surgical intervention (appendectomy)
+  - Referral to Specialist: N/A (Already under surgical care)
+  - Referral to Further Tests or Imaging: Ordered an Abdominal Ultrasound and a CT scan of the abdomen to confirm the diagnosis.
+  - Medication Adjustment: Administering IV antibiotics pre-operatively.
+  - Lifestyle Changes: Post-surgery recovery instructions including diet, rest, and wound care.
+
+- **Medical History:**
+  - Previous Diagnoses: None significant
+  - Family Medical History: No known history of appendicitis or gastrointestinal conditions
+  - Medication History: Occasional use of over-the-counter painkillers (ibuprofen)
+  - Allergies: None reported
+  - Chronic Conditions: None reported
+
+- **Symptom Description:**
+  - Severity: Severe
+  - Duration: 24 hours
+  - Associated Symptoms: Nausea, vomiting, fever, and right lower abdominal pain
+  - Frequency: Persistent, worsening over time
+  - Impact on Daily Activities: Unable to perform daily activities, lying in bed due to pain
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: Poor sleep due to pain
+  - Diet: Mixed diet, no specific patterns
+  - Exercise: Moderately active, engages in regular exercise
+  - Tobacco Use: Non-smoker
+  - Alcohol Consumption: Occasional social drinker
+  - Drug Use: Denies any illicit drug use
+  - Recreational Activities: Enjoys running and team sports
+
+- **Demographic Information:**
+  - Age: 28
+  - Gender: Male
+  - Ethnicity: Hispanic
+  - Socio-economic Status: Middle-income
+  - Education Level: College graduate
+  - Health Literacy: High
+  - Job Status: Full-time employed in IT sector
+
+- **Patient's Behavior:**
+  - Highly cooperative with medical advice
+
+- **Geographical Location:**
+  - Urban setting
+  - Affluent neighborhood
+  - Well-served by transit
+  - Low pollution and environmental health risks
+
+- **Clinical Setting:**
+  - Hospital emergency department
+
+- **Type of Encounter:**
+  - Emergency Visit
+
+- **Treatment Disparities:**
+  - N/A
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English speaker
+
+- **Physical exams:**
+  - Palpation of the abdomen revealed severe tenderness in the right lower quadrant (McBurney's point), rebound tenderness, and guarding.
+
+- **Investigation/Test results:**
+  - Awaiting results of the blood tests (CBC, basic metabolic panel, liver function tests)
+  - Awaiting imaging results (Abdominal Ultrasound, CT scan of the abdomen)"|Rejected|Rejected|Rejected|Rejected||
+UNSPECIFIED ACUTE APPENDICITIS|"ROLE: General Surgeon
+
+**Scenario:**
+
+- **Medical Outcome:** 
+  - Diagnosis: Unspecified acute appendicitis.
+  - Prescribed treatment: Immediate appendectomy.
+  - Follow-up recommendations: Follow-up visit in 1 week for suture removal and wound check.
+  - Referral: NA
+  - Blood work: Complete blood count (CBC), Biochemistry panel.
+  - Imaging: Abdominal ultrasound.
+  - Medications: Ceftriaxone 2 g IV once pre-operatively; post-operative pain management with Acetaminophen 500 mg oral every 6 hours as needed for pain, quantity 30 tablets.
+
+- **Medical History:** 
+  - Previous Diagnoses: Allergic rhinitis.
+  - Family Medical History: No family history of gastrointestinal disorders.
+  - Medication History: Over-the-counter antihistamines for allergies.
+  - Allergies: Penicillin.
+  - Chronic Conditions: NA.
+
+- **Symptom Description:** 
+  - Severity: Severe right lower quadrant abdominal pain.
+  - Duration: 24 hours.
+  - Associated Symptoms: Nausea, vomiting, low-grade fever.
+  - Frequency: Continuous.
+  - Impact on Daily Activities: Unable to perform daily activities due to pain.
+
+- **Patient’s Self-Reported Habits and Lifestyle:**
+  - Sleep: Difficulty sleeping due to pain.
+  - Diet: Regular diet, last meal 12 hours ago.
+  - Exercise: Regular jogger, unable to exercise due to pain.
+  - Tobacco Use: Non-smoker.
+  - Alcohol Consumption: Occasional social drinking, none in the past week.
+  - Drug Use: No illicit drug use.
+  - Recreational Activities: Enjoys outdoor activities, currently unable due to pain.
+
+- **Demographic Information:** 
+  - Age: 26
+  - Gender: Male
+  - Ethnicity: Hispanic
+  - Socio-economic Status: Middle class
+  - Education Level: College graduate
+  - Health Literacy: High
+  - Job Status: Employed as a software engineer
+
+- **Patient's Behavior:** Cooperative and concerned, eager for relief and treatment.
+
+- **Geographical Location:** 
+  - Urban
+  - Big City
+  - Neighborhood Type: Affluent area 
+  - Well-served by Transit.
+
+- **Clinical Setting:** Hospital emergency department.
+
+- **Type of Encounter:** Emergency visit.
+
+- **Treatment Disparities:** No observed disparities in treatment recommendations.
+
+- **Native or Non-Native English Speaking Patient:** Non-native English speaking but fluent in English.
+
+- **Physical Exams:**
+  - Abdominal exam: Rebound tenderness in the right lower quadrant, positive McBurney's sign, guarding present.
+  - Vitals: 
+    - Temperature: 100.4°F
+    - Heart rate: 98 bpm
+    - Blood pressure: 130/84 mm Hg
+    - Respiratory rate: 18 breaths per minute.
+
+- **Investigation/Test results:** 
+  - Awaiting results: CBC showing elevated white blood cells count, indicative of infection.
+  - Abdominal ultrasound: Awaiting imaging results to confirm diagnosis."|Rejected|Rejected|Rejected|Rejected||
+UNSPECIFIED ACUTE APPENDICITIS|"ROLE: General Surgeon
+
+**Scenario:**
+
+- **Medical Outcome:** 
+  - Diagnosis: Unspecified acute appendicitis.
+  - Prescribed treatment: Immediate appendectomy.
+  - Follow-up recommendations: Follow-up visit in 2 weeks for wound check and recovery assessment.
+  - Referral: NA
+  - Blood work: Complete blood count (CBC) to check for infection, Biochemistry panel.
+  - Imaging: Abdominal CT scan.
+  - Medications: Metronidazole 500 mg IV every 8 hours for 7 days post-operatively; pain management with Ibuprofen 400 mg oral every 6 hours as needed for pain, quantity 20 tablets.
+
+- **Medical History:** 
+  - Previous Diagnoses: Type 2 diabetes.
+  - Family Medical History: Mother has hypertension; father had stomach ulcers.
+  - Medication History: Metformin 500 mg twice daily for diabetes.
+  - Allergies: No known drug allergies.
+  - Chronic Conditions: Type 2 diabetes diagnosed 3 years ago.
+
+- **Symptom Description:** 
+  - Severity: Severe right lower quadrant abdominal pain, rated 8/10.
+  - Duration: 18 hours.
+  - Associated Symptoms: Nausea, vomiting, loss of appetite.
+  - Frequency: Continuous.
+  - Impact on Daily Activities: Missed work and unable to perform daily tasks.
+
+- **Patient’s Self-Reported Habits and Lifestyle:**
+  - Sleep: Poor sleep due to pain and nausea.
+  - Diet: Eats a balanced diabetic-friendly diet.
+  - Exercise: Walks daily for 30 minutes, but unable to due to pain.
+  - Tobacco Use: Non-smoker.
+  - Alcohol Consumption: Rare consumption, less than once a month.
+  - Drug Use: None.
+  - Recreational Activities: Occasionally goes fishing; unable due to current symptoms.
+
+- **Demographic Information:** 
+  - Age: 50
+  - Gender: Female
+  - Ethnicity: African American
+  - Socio-economic Status: Lower middle class
+  - Education Level: High school diploma
+  - Health Literacy: Moderate
+  - Job Status: Works as a cashier
+
+- **Patient's Behavior:** Very cooperative and compliant with medical advice.
+
+- **Geographical Location:** 
+  - Small City
+  - Rural
+  - Neighborhood Type: Moderately underserved area 
+  - Limited access to public transit.
+
+- **Clinical Setting:** Community Health Services.
+
+- **Type of Encounter:** Initial consultation prior to planned surgery.
+
+- **Treatment Disparities:** No observed disparities in treatment recommendations.
+
+- **Native or Non-Native English Speaking Patient:** Native English speaker.
+
+- **Physical Exams:**
+  - Abdominal exam: Rebound tenderness in the right lower quadrant, positive McBurney's sign, guarding present.
+  - Vitals: 
+    - Temperature: 100.8°F
+    - Heart rate: 102 bpm
+    - Blood pressure: 140/90 mm Hg
+    - Respiratory rate: 20 breaths per minute.
+
+- **Investigation/Test results:** 
+  - Awaiting results: CBC showing elevated white blood cells count, indicative of infection.
+  - Abdominal CT scan: Awaiting imaging results to confirm diagnosis."|Rejected|Rejected|Rejected|Rejected||
+UNSPECIFIED ACUTE APPENDICITIS|"ROLE: General Surgeon
+
+**Scenario:**
+- Medical Outcome: 
+  - Diagnosis: Unspecified acute appendicitis
+  - Prescribed Treatment: Urgent appendectomy
+  - Follow-up Recommendations: Post-surgical follow-up in 1 week, wound care instructions
+  - Referral to Specialists: None
+  - Referral to further tests or imaging: NA
+  - Medication adjustment: None
+  - Lifestyle change: Postoperative diet adjustment to soft foods for 1 week
+  
+- Medical History: 
+  - Previous Diagnoses: None
+  - Family Medical History: Mother had diverticulitis
+  - Medication History: NA
+  - Allergies: Penicillin
+  - Chronic Conditions: None
+
+- Symptom Description: 
+  - Severity: Severe
+  - Duration: 24 hours
+  - Associated Symptoms: Nausea, vomiting, fever
+  - Frequency: Constant
+  - Impact on Daily Activities: Inability to perform daily activities due to pain
+
+- Patient’s self-reported habits and lifestyle: 
+  - Sleep: Poor due to pain
+  - Diet: Regular diet, no restrictions
+  - Exercise: 3 times a week
+  - Tobacco Use: None
+  - Alcohol Consumption: Social drinking, once a week
+  - Drug Use: None
+  - Recreational Activities: Enjoys hiking and reading
+
+- Demographic Information: 
+  - Age: 30
+  - Gender: Male
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Middle class
+  - Education Level: College graduate
+  - Health Literacy: High
+  - Job Status: Software engineer
+
+- Patient's Behavior: Very cooperative with medical advice
+
+- Geographical Location: 
+  - Type: Urban
+  - Pollution and Environmental Health Risks: Moderate pollution due to city living
+  - Neighborhood: Affluent, well-served by transit
+
+- Clinical Setting: Hospital
+
+- Type of Encounter: Emergency Visit
+
+- Treatment Disparities: None
+
+- Native or Non-Native English Speaking Patient: Native English-speaking
+
+- Physical exams: 
+  - Abdominal exam: Tenderness in the right lower quadrant, rebound tenderness, and guarding
+
+- Investigation/Test results: 
+  - Labs: Mildly elevated white blood cell count (17,000/mm³), CRP elevated
+  - Imaging: Abdominal ultrasound showing enlarged, non-compressible appendix with peri-appendiceal fluid collection
+
+- Other variables: NA"|Rejected|Rejected|Rejected|Rejected||

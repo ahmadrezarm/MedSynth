@@ -1,0 +1,2391 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+CHRONIC KIDNEY DISEASE, UNSPECIFIED|"ROLE: Nephrologist
+
+**Scenario:**
+
+1) Medical Outcome: Initiate management plan for CKD, prescribe ACE inhibitor, order blood work for biochemistry (including eGFR, electrolytes), hematology (CBC), and imaging (renal ultrasound).
+   
+2) Medical History: Type 2 diabetes mellitus, hypertension, history of recurrent urinary tract infections.
+   
+3) Symptom Description: Fatigue (moderate, 3 months), mild edema in legs, frequent urination at night, occasional nausea.
+
+4) Patient’s self-reported habits and lifestyle: Poor diet (high in sodium), sedentary lifestyle, smokes 10 cigarettes/day, consumes alcohol occasionally (socially).
+
+5) Demographic Information: 62-year-old, male, African American, retired factory worker, high school education, low health literacy.
+
+6) Patient's Behavior: Moderately compliant with medical advice, missed several appointments in the past year.
+
+7) Geographical Location: Urban setting, lives in a low-income neighborhood, area with limited access to fresh produce (food desert).
+
+8) Clinical Setting: Private Practice
+
+9) Type of Encounter: Initial Consultation
+
+10) Treatment Disparities: Limited access to healthcare facilities and specialists due to insurance limitations.
+
+11) Native or Non-Native English Speaking Patient: Native English Speaking
+
+12) Physical exams: Blood pressure measurement, palpation for edema, auscultation of heart and lungs.
+
+13) Investigation/Test results: 
+   - Blood Work: Biochemistry (eGFR, electrolytes), Hematology (CBC)
+   - Imaging: Renal Ultrasound to assess kidney size and structural abnormalities.
+
+**Medication:**
+   - Lisinopril: 10 mg orally once daily, 30 tablets, to manage blood pressure and protect kidney function."|"**1. Subjective:**
+   **Chief Complaint (CC):**
+   - Fatigue (moderate, 3 months), mild edema in legs, frequent urination at night, occasional nausea.
+
+   **History of Present Illness (HPI):**
+   - The patient is a 62-year-old African American male presenting for initial consultation due to complaints of fatigue over the past three months, mild bilateral leg edema, nocturia, and occasional nausea. He has a history of type 2 diabetes mellitus and hypertension. He experiences frequent urination at night and reports moderate fatigue that affects his daily activities. The patient also admits to occasional nausea but denies vomiting.
+
+   **Review of Systems (ROS):**
+   - **General:** Reports fatigue.
+   - **Cardiovascular:** Mild bilateral edema.
+   - **Gastrointestinal:** Occasional nausea, denies vomiting.
+   - **Genitourinary:** Frequent urination at night.
+   - **Endocrine:** History of type 2 diabetes mellitus.
+   - **Neurological:** No dizziness or headaches.
+   - **Respiratory:** No shortness of breath.
+
+**2. Objective:**
+   **Vital Signs:**
+   - Blood Pressure: 150/90 mmHg
+   - Heart Rate: 82 bpm
+   - Respiratory Rate: 18 breaths/min
+   - Temperature: 98.6°F
+
+   **Physical Examination:**
+   - **General Appearance:** Appears tired but in no acute distress.
+   - **Cardiovascular:** Mild bilateral lower extremity edema. Normal heart sounds, no murmurs.
+   - **Respiratory:** Clear to auscultation bilaterally.
+   - **Abdomen:** Soft, non-tender, no organomegaly.
+   - **Neurological:** Alert and oriented, no focal deficits.
+   - **Integumentary:** No skin lesions or rashes.
+
+   **Laboratory Results:**
+   - Pending biochemistry and hematology results.
+   - Blood Work ordered for biochemistry (including eGFR, electrolytes) and hematology (CBC).
+
+   **Imaging:**
+   - Renal Ultrasound ordered to assess kidney size and structural abnormalities.
+
+**3. Assessment:**
+   - **Chronic Kidney Disease (CKD):** Suspected secondary to type 2 diabetes mellitus and hypertension, as evidenced by fatigue, mild edema, and nocturia.
+   - **Hypertension:** Uncontrolled, requiring adjustment in management.
+   - **Type 2 Diabetes Mellitus:** History of, contributing to renal issues.
+   - **Recurrent Urinary Tract Infections:** History, needs to be monitored in the context of CKD.
+
+**4. Plan:**
+   - **Medications:**
+     - Initiate Lisinopril 10 mg orally once daily to manage blood pressure and protect kidney function. Prescribe 30 tablets with instructions to take one daily and monitor for side effects.
+   - **Diagnostics:**
+     - Order blood work including biochemistry (eGFR, electrolytes) and hematology (CBC) to evaluate kidney function and other metabolic parameters.
+     - Arrange renal ultrasound to assess kidney size and structural anomalies.
+   - **Lifestyle Modifications:**
+     - Counsel patient on reducing sodium intake and adopting a healthier diet despite the challenges posed by living in a food desert. Provide resources for finding affordable healthy food options.
+     - Encourage increased physical activity and provide a basic exercise plan suitable for his current condition.
+     - Advise on smoking cessation and offer resources and support for quitting smoking.
+     - Limit alcohol consumption to occasional social use only.
+   - **Monitoring and Follow-up:**
+     - Schedule follow-up appointment in one month to review test results, monitor response to Lisinopril, and adjust treatment plan as needed.
+     - Regular monitoring of blood pressure at home and keeping a log of readings to discuss during follow-up.
+     - Educate the patient on the importance of adherence to medical appointments and medication regimen to manage CKD effectively.
+   - **Referrals:**
+     - Consider referral to a dietitian for tailored dietary advice.
+     - Possible referral to a smoking cessation program if initial counseling is ineffective.
+
+The patient was educated about chronic kidney disease, its progression, potential complications, and the importance of lifestyle modifications and medication adherence in managing his condition. He was provided with printed materials and contact information for additional support services."|"**1. Subjective:**
+   **Chief Complaint (CC):**
+   - Fatigue (moderate, 3 months), mild edema in legs, frequent urination at night, occasional nausea.
+
+   **History of Present Illness (HPI):**
+   - The patient is a 62-year-old African American male presenting for initial consultation due to complaints of fatigue over the past three months, mild bilateral leg edema, nocturia, and occasional nausea. He has a history of type 2 diabetes mellitus and hypertension. He experiences frequent urination at night and reports moderate fatigue that affects his daily activities. The patient also admits to occasional nausea but denies vomiting.
+
+   **Review of Systems (ROS):**
+   - **General:** Reports fatigue.
+   - **Cardiovascular:** Mild bilateral edema.
+   - **Gastrointestinal:** Occasional nausea, denies vomiting.
+   - **Genitourinary:** Frequent urination at night.
+   - **Endocrine:** History of type 2 diabetes mellitus.
+   - **Neurological:** No dizziness or headaches.
+   - **Respiratory:** No shortness of breath.
+
+**2. Objective:**
+   **Vital Signs:**
+   - Blood Pressure: 150/90 mmHg
+   - Heart Rate: 82 bpm
+   - Respiratory Rate: 18 breaths/min
+   - Temperature: 98.6°F
+
+   **Physical Examination:**
+   - **General Appearance:** Appears tired but in no acute distress.
+   - **Cardiovascular:** Mild bilateral lower extremity edema. Normal heart sounds, no murmurs.
+   - **Respiratory:** Clear to auscultation bilaterally.
+   - **Abdomen:** Soft, non-tender, no organomegaly.
+   - **Neurological:** Alert and oriented, no focal deficits.
+   - **Integumentary:** No skin lesions or rashes.
+
+**3. Assessment:**
+   - **Chronic Kidney Disease (CKD):** Suspected secondary to type 2 diabetes mellitus and hypertension, as evidenced by fatigue, mild edema, and nocturia.
+   - **Hypertension:** Uncontrolled, requiring adjustment in management.
+   - **Type 2 Diabetes Mellitus:** History of, contributing to renal issues.
+   - **Recurrent Urinary Tract Infections:** History, needs to be monitored in the context of CKD.
+
+**4. Plan:**
+   - **Medications:**
+     - Initiate Lisinopril 10 mg orally once daily to manage blood pressure and protect kidney function. Prescribe 30 tablets with instructions to take one daily and monitor for side effects.
+   - **Diagnostics:**
+     - Order blood work including biochemistry (eGFR, electrolytes) and hematology (CBC) to evaluate kidney function and other metabolic parameters.
+     - Arrange renal ultrasound to assess kidney size and structural anomalies.
+   - **Lifestyle Modifications:**
+     - Counsel patient on reducing sodium intake and adopting a healthier diet despite the challenges posed by living in a food desert. Provide resources for finding affordable healthy food options.
+     - Encourage increased physical activity and provide a basic exercise plan suitable for his current condition.
+     - Advise on smoking cessation and offer resources and support for quitting smoking.
+     - Limit alcohol consumption to occasional social use only.
+   - **Monitoring and Follow-up:**
+     - Schedule follow-up appointment in one month to review test results, monitor response to Lisinopril, and adjust treatment plan as needed.
+     - Regular monitoring of blood pressure at home and keeping a log of readings to discuss during follow-up.
+     - Educate the patient on the importance of adherence to medical appointments and medication regimen to manage CKD effectively.
+   - **Referrals:**
+     - Consider referral to a dietitian for tailored dietary advice.
+     - Possible referral to a smoking cessation program if initial counseling is ineffective.
+
+The patient was educated about chronic kidney disease, its progression, potential complications, and the importance of lifestyle modifications and medication adherence in managing his condition. He was provided with printed materials and contact information for additional support services."|"**1. Subjective:**
+   **CC:**
+   - Fatigue (moderate, 3 months), mild LE edema, nocturia, occasional nausea.
+
+   **HPI:**
+   - The pt is a 62 y/o African American male presenting for initial consult due to c/o fatigue over the past 3 months, mild bilateral LE edema, nocturia, and occasional nausea. He has a hx of T2DM and HTN. He experiences nocturia and reports moderate fatigue that affects his ADLs. The pt also admits to occasional nausea but denies vomiting.
+
+   **ROS:**
+   - **General:** Reports fatigue.
+   - **CV:** Mild bilateral LE edema.
+   - **GI:** Occasional nausea, denies vomiting.
+   - **GU:** Nocturia.
+   - **Endo:** Hx of T2DM.
+   - **Neuro:** No dizziness or HA.
+   - **Resp:** No SOB.
+
+**2. Objective:**
+   **VS:**
+   - BP: 150/90 mmHg
+   - HR: 82 bpm
+   - RR: 18 breaths/min
+   - Temp: 98.6°F
+
+   **PE:**
+   - **General Appearance:** Appears tired but in NAD.
+   - **CV:** Mild bilateral LE edema. Normal heart sounds, no murmurs.
+   - **Resp:** CTA bilaterally.
+   - **Abd:** Soft, non-tender, no organomegaly.
+   - **Neuro:** A&O, no focal deficits.
+   - **Integ:** No skin lesions or rashes.
+
+**3. Assessment:**
+   - **CKD:** Suspected 2° to T2DM and HTN, as evidenced by fatigue, mild edema, and nocturia.
+   - **HTN:** Uncontrolled, requiring adjustment in mgmt.
+   - **T2DM:** Hx of, contributing to renal issues.
+   - **Recurrent UTIs:** Hx, needs to be monitored in the context of CKD.
+
+**4. Plan:**
+   - **Meds:**
+     - Initiate Lisinopril 10 mg PO QD to manage BP and protect kidney function. Rx 30 tabs with instructions to take one daily and monitor for SEs.
+   - **Dx:**
+     - Order blood work including biochem (eGFR, electrolytes) and hematology (CBC) to evaluate kidney function and other metabolic parameters.
+     - Arrange renal US to assess kidney size and structural anomalies.
+   - **Lifestyle Mods:**
+     - Counsel pt on reducing Na intake and adopting a healthier diet despite the challenges posed by living in a food desert. Provide resources for finding affordable healthy food options.
+     - Encourage increased physical activity and provide a basic exercise plan suitable for his current condition.
+     - Advise on smoking cessation and offer resources and support for quitting smoking.
+     - Limit EtOH consumption to occasional social use only.
+   - **Monitoring and F/U:**
+     - Schedule F/U appt in one month to review test results, monitor response to Lisinopril, and adjust tx plan as needed.
+     - Regular monitoring of BP at home and keeping a log of readings to discuss during F/U.
+     - Educate the pt on the importance of adherence to medical appts and med regimen to manage CKD effectively.
+   - **Referrals:**
+     - Consider referral to a dietitian for tailored dietary advice.
+     - Possible referral to a smoking cessation program if initial counseling is ineffective.
+
+The pt was educated about CKD, its progression, potential complications, and the importance of lifestyle mods and med adherence in managing his condition. He was provided with printed materials and contact information for additional support services."|Nephrologist|"**Doctor:** Good morning. How are you doing today?
+
+**Patient:** Good morning, doctor. I'm feeling quite tired actually.
+
+**Doctor:** I'm sorry to hear that. Can you tell me more about what brings you in today?
+
+**Patient:** Sure. I've been feeling pretty fatigued for the past three months. I'm also experiencing some swelling in my legs, frequent urination at night, and occasional nausea.
+
+**Doctor:** Hmm, I see. How would you describe your fatigue? Is it constant or does it come and go?
+
+**Patient:** It's pretty constant and moderate. It affects my daily activities quite a bit.
+
+**Doctor:** That sounds challenging. How about the swelling in your legs? Is it in both legs or just one?
+
+**Patient:** It's in both legs, but it's not too severe, just mild.
+
+**Doctor:** Understood. And you mentioned frequent urination at night. How many times do you usually wake up to go to the bathroom?
+
+**Patient:** Usually about three to four times a night.
+
+**Doctor:** Okay. And the nausea, how often does that occur?
+
+**Patient:** It's occasional, maybe once or twice a week. I don't vomit though.
+
+**Doctor:** Alright. Do you have any other symptoms like dizziness, headaches, or shortness of breath?
+
+**Patient:** No, I don't have any dizziness or headaches, and I haven't had any shortness of breath either.
+
+**Doctor:** Alright, thank you for sharing that. Let's review your medical history. I see you have a history of type 2 diabetes and hypertension. Is that correct?
+
+**Patient:** Yes, that's right. I've been managing both for several years now.
+
+**Doctor:** Are you currently on any medications for your diabetes and hypertension?
+
+**Patient:** Yes, I'm taking Metformin for my diabetes and Amlodipine for my blood pressure.
+
+**Doctor:** Thank you. Have you noticed any changes in your blood sugar levels or blood pressure recently?
+
+**Patient:** My blood sugar has been pretty stable, but my blood pressure has been a bit high lately.
+
+**Doctor:** Okay. Let's go over your vitals. Your blood pressure today is 150/90 mmHg, your heart rate is 82 beats per minute, your respiratory rate is 18 breaths per minute, and your temperature is 98.6°F.
+
+**Patient:** Alright.
+
+**Doctor:** On physical examination, I noticed mild bilateral lower extremity edema and normal heart sounds without any murmurs. Your lungs are clear to auscultation bilaterally, and your abdomen is soft and non-tender with no organomegaly. Neurologically, you are alert and oriented with no focal deficits. Your skin looks clear without any rashes or lesions.
+
+**Patient:** Okay, that's good to know.
+
+**Doctor:** We'll need to do some additional tests to get a better understanding of what's going on. I've ordered blood work including biochemistry to check your kidney function and electrolytes, as well as a complete blood count. We'll also arrange for a renal ultrasound to assess the size and structure of your kidneys.
+
+**Patient:** Alright.
+
+**Doctor:** Based on your symptoms and medical history, I'm concerned about chronic kidney disease, possibly secondary to your diabetes and hypertension. This can explain the fatigue, leg edema, and nocturia. We also need to address your uncontrolled hypertension.
+
+**Patient:** That sounds serious. What should I do?
+
+**Doctor:** We'll start by adjusting your medications. I'm going to prescribe Lisinopril 10 mg to help manage your blood pressure and protect your kidney function. It's important to take it once daily and monitor for any side effects.
+
+**Patient:** Okay, I can do that.
+
+**Doctor:** Additionally, I want to discuss some lifestyle modifications. Reducing sodium intake is crucial. I understand it can be challenging, especially if you live in a food desert, but I'll provide you with some resources to find affordable healthy food options. Increasing physical activity is also important. I'll give you a basic exercise plan that fits your current condition.
+
+**Patient:** I appreciate that. I could use some guidance on diet and exercise.
+
+**Doctor:** Absolutely. I also recommend smoking cessation and limiting alcohol consumption to occasional social use only. Smoking is particularly harmful for your condition, so quitting is essential. I'll offer you resources and support for quitting.
+
+**Patient:** That makes sense. I'll do my best.
+
+**Doctor:** We'll monitor your progress closely. I'd like you to keep a log of your blood pressure readings at home and bring it to your follow-up appointment in one month. We'll review your test results, monitor your response to Lisinopril, and adjust your treatment plan as needed.
+
+**Patient:** Okay, I can do that.
+
+**Doctor:** If you have any concerns or experience any side effects, don't hesitate to contact me. Adherence to your medication and follow-up appointments is crucial for managing chronic kidney disease effectively.
+
+**Patient:** I understand. I'll make sure to follow your instructions.
+
+**Doctor:** Great. I might also refer you to a dietitian for tailored dietary advice and a smoking cessation program if initial counseling doesn't work.
+
+**Patient:** That sounds helpful.
+
+**Doctor:** Lastly, I'll educate you about chronic kidney disease, its progression, potential complications, and the importance of lifestyle modifications and medication adherence. I'll also provide you with printed materials and contact information for additional support services.
+
+**Patient:** Thank you, doctor. I feel more informed and prepared to manage my condition.
+
+**Doctor:** You're welcome. We'll take this step by step. See you in a month for your follow-up.
+
+**Patient:** Alright, see you then. Thank you."|"[doctor]: Good morning. How are you doing today?
+
+[patient]: Good morning, doctor. I'm feeling quite tired actually.
+
+[doctor]: I'm sorry to hear that. Can you tell me more about what brings you in today?
+
+[patient]: Sure. I've been feeling pretty fatigued for the past three months. I'm also experiencing some swelling in my legs, frequent urination at night, and occasional nausea.
+
+[doctor]: Hmm, I see. How would you describe your fatigue? Is it constant or does it come and go?
+
+[patient]: It's pretty constant and moderate. It affects my daily activities quite a bit.
+
+[doctor]: That sounds challenging. How about the swelling in your legs? Is it in both legs or just one?
+
+[patient]: It's in both legs, but it's not too severe, just mild.
+
+[doctor]: Understood. And you mentioned frequent urination at night. How many times do you usually wake up to go to the bathroom?
+
+[patient]: Usually about three to four times a night.
+
+[doctor]: Okay. And the nausea, how often does that occur?
+
+[patient]: It's occasional, maybe once or twice a week. I don't vomit though.
+
+[doctor]: Alright. Do you have any other symptoms like dizziness, headaches, or shortness of breath?
+
+[patient]: No, I don't have any dizziness or headaches, and I haven't had any shortness of breath either.
+
+[doctor]: Alright, thank you for sharing that. Let's review your medical history. I see you have a history of type 2 diabetes and hypertension. Is that correct?
+
+[patient]: Yes, that's right. I've been managing both for several years now.
+
+[doctor]: Are you currently on any medications for your diabetes and hypertension?
+
+[patient]: Yes, I'm taking Metformin for my diabetes and Amlodipine for my blood pressure.
+
+[doctor]: Thank you. Have you noticed any changes in your blood sugar levels or blood pressure recently?
+
+[patient]: My blood sugar has been pretty stable, but my blood pressure has been a bit high lately.
+
+[doctor]: Okay. Let's go over your vitals. Your blood pressure today is 150/90 mmHg, your heart rate is 82 beats per minute, your respiratory rate is 18 breaths per minute, and your temperature is 98.6°F.
+
+[patient]: Alright.
+
+[doctor]: On physical examination, I noticed mild bilateral lower extremity edema and normal heart sounds without any murmurs. Your lungs are clear to auscultation bilaterally, and your abdomen is soft and non-tender with no organomegaly. Neurologically, you are alert and oriented with no focal deficits. Your skin looks clear without any rashes or lesions.
+
+[patient]: Okay, that's good to know.
+
+[doctor]: We'll need to do some additional tests to get a better understanding of what's going on. I've ordered blood work including biochemistry to check your kidney function and electrolytes, as well as a complete blood count. We'll also arrange for a renal ultrasound to assess the size and structure of your kidneys.
+
+[patient]: Alright.
+
+[doctor]: Based on your symptoms and medical history, I'm concerned about chronic kidney disease, possibly secondary to your diabetes and hypertension. This can explain the fatigue, leg edema, and nocturia. We also need to address your uncontrolled hypertension.
+
+[patient]: That sounds serious. What should I do?
+
+[doctor]: We'll start by adjusting your medications. I'm going to prescribe Lisinopril 10 mg to help manage your blood pressure and protect your kidney function. It's important to take it once daily and monitor for any side effects.
+
+[patient]: Okay, I can do that.
+
+[doctor]: Additionally, I want to discuss some lifestyle modifications. Reducing sodium intake is crucial. I understand it can be challenging, especially if you live in a food desert, but I'll provide you with some resources to find affordable healthy food options. Increasing physical activity is also important. I'll give you a basic exercise plan that fits your current condition.
+
+[patient]: I appreciate that. I could use some guidance on diet and exercise.
+
+[doctor]: Absolutely. I also recommend smoking cessation and limiting alcohol consumption to occasional social use only. Smoking is particularly harmful for your condition, so quitting is essential. I'll offer you resources and support for quitting.
+
+[patient]: That makes sense. I'll do my best.
+
+[doctor]: We'll monitor your progress closely. I'd like you to keep a log of your blood pressure readings at home and bring it to your follow-up appointment in one month. We'll review your test results, monitor your response to Lisinopril, and adjust your treatment plan as needed.
+
+[patient]: Okay, I can do that.
+
+[doctor]: If you have any concerns or experience any side effects, don't hesitate to contact me. Adherence to your medication and follow-up appointments is crucial for managing chronic kidney disease effectively.
+
+[patient]: I understand. I'll make sure to follow your instructions.
+
+[doctor]: Great. I might also refer you to a dietitian for tailored dietary advice and a smoking cessation program if initial counseling doesn't work.
+
+[patient]: That sounds helpful.
+
+[doctor]: Lastly, I'll educate you about chronic kidney disease, its progression, potential complications, and the importance of lifestyle modifications and medication adherence. I'll also provide you with printed materials and contact information for additional support services.
+
+[patient]: Thank you, doctor. I feel more informed and prepared to manage my condition.
+
+[doctor]: You're welcome. We'll take this step by step. See you in a month for your follow-up.
+
+[patient]: Alright, see you then. Thank you."
+CHRONIC KIDNEY DISEASE, UNSPECIFIED|"ROLE: Nephrologist
+
+**Medical Outcome:**
+- Diagnosis: Chronic Kidney Disease, unspecified
+- Prescribed Treatment: 
+  - Medication: Furosemide 20 mg, oral, twice daily, 60 tablets
+  - Adjustments: Fluid restriction of 1.5 liters per day
+  - Lifestyle Change: Increase dietary fiber intake 
+  - Referral to Nutritionist for dietary modifications: Dr. Megan Lee
+- Blood work:
+  - Biochemistry: Serum Creatinine, Blood Urea Nitrogen (BUN), Electrolytes, Glomerular Filtration Rate (GFR)
+  - Immunology: Quantitative immunoglobulin levels
+- Imaging: CT Scan of the kidneys to assess structure and size
+
+**Medical History:**
+- Previous Diagnoses: Hypertension, Recurrent urinary tract infections (UTIs) 
+- Family Medical History: Father had hypertension and heart disease
+- Medication History:
+  - Atenolol 25 mg, oral, once daily
+- Allergies: Shellfish (causes swelling and difficulty breathing)
+
+**Symptom Description:**
+- Severity: Severe
+- Duration: Symptoms present for the past 2 years, with recent exacerbation
+- Associated Symptoms: Swelling in legs, decreased urine output
+- Frequency: Almost daily
+- Impact on Daily Activities: Significant difficulty with daily activities due to severe fatigue
+
+**Patient’s self-reported habits and lifestyle:**
+- Sleep: Poor quality, restless sleep
+- Diet: Poor dietary habits, high intake of processed foods
+- Exercise: Does not engage in regular physical activity
+- Tobacco Use: Quit smoking 1 year ago, after 15-year history of smoking
+- Alcohol Consumption: Drinks occasionally, 1-2 drinks per week
+- Drug Use: Denies any use
+- Recreational Activities: Limited due to fatigue and swelling
+
+**Demographic Information:**
+- Age: 58
+- Gender: Male
+- Ethnicity: Asian
+- Socio-economic Status: Low-income
+- Education Level: High school graduate
+- Health Literacy: Low to moderate
+- Job Status: Unemployed, previously worked in manufacturing
+
+**Patient's Behavior:**
+- Inconsistent adherence to prescribed medications and lifestyle modifications
+
+**Geographical Location:**
+- Urban Area, Big City
+- Neighborhood Type: Low-income, limited access to fresh produce and healthcare facilities
+
+**Clinical Setting:**
+- Hospital Outpatient Clinic
+
+**Type of Encounter:**
+- Routine Check-up
+
+**Treatment Disparities:**
+- Limited options for follow-up due to patient's lack of insurance coverage
+
+**Native or Non-Native English Speaking Patient:**
+- Non-Native English speaker, primarily Mandarin-speaking
+
+**Physical exams:**
+- Blood Pressure: 155/98 mmHg
+- Cardiovascular: Presence of pitting edema in lower extremities
+- General Appearance: Appears fatigued, pale skin
+
+**Investigation/Test results:**
+- Awaiting: Serum Creatinine, Blood Urea Nitrogen (BUN), Electrolytes, Glomerular Filtration Rate (GFR), CT Scan of the kidneys, Quantitative immunoglobulin levels"|"#### Subjective
+
+**Chief Complaint (CC)**
+Severe swelling in legs and decreased urine output.
+
+**History of Present Illness (HPI)**
+Mr. Ling Wei is a 58-year-old Asian male presenting for a routine check-up. He reports experiencing severe swelling in his legs and decreased urine output for the past 2 years, with recent exacerbation of symptoms. He also notes significant fatigue, which has impacted his daily activities. Despite being prescribed medications and lifestyle modifications, adherence has been inconsistent.
+
+**Review of Systems (ROS)**
+- **Constitutional**: Severe fatigue, poor sleep quality.
+- **Cardiovascular**: Swelling in legs, history of hypertension.
+- **Genitourinary**: Decreased urine output, history of recurrent UTIs.
+- **Gastrointestinal**: Poor dietary habits, high intake of processed foods.
+
+#### Objective
+
+**Vital Signs**
+- Blood Pressure: 155/98 mmHg
+
+**Physical Examination**
+- **General Appearance**: Patient appears fatigued with pale skin.
+- **Cardiovascular**: Presence of pitting edema in lower extremities.
+
+**Pending Investigations**
+- Blood work: Serum Creatinine, Blood Urea Nitrogen (BUN), Electrolytes, Glomerular Filtration Rate (GFR), Quantitative immunoglobulin levels.
+- Imaging: CT Scan of the kidneys to assess structure and size.
+
+#### Assessment
+
+Mr. Ling Wei is a 58-year-old male with a known history of hypertension and recurrent urinary tract infections, presenting with severe chronic symptoms consistent with Chronic Kidney Disease (CKD), unspecified category. The diagnosis is supported by his severe leg swelling, decreased urine output, and significant fatigue. Current blood pressure readings indicate poorly controlled hypertension, which may be exacerbating his renal condition. 
+
+#### Plan
+
+**Medications**
+- Start Furosemide 20 mg orally, twice daily. Dispense 60 tablets.
+
+**Lifestyle Modifications**
+- Implement a fluid restriction of 1.5 liters per day.
+- Increase dietary fiber intake.
+- Referral to Nutritionist Dr. Megan Lee for dietary modifications.
+
+**Further Tests and Follow-up**
+- Await results from the pending blood work: Serum Creatinine, Blood Urea Nitrogen (BUN), Electrolytes, Glomerular Filtration Rate (GFR), Quantitative immunoglobulin levels.
+- Schedule a CT Scan of the kidneys to further assess the renal structure and size.
+
+**Patient Education and Support**
+- Discuss the importance of adhering to prescribed medications and lifestyle modifications.
+- Provide resources on dietary options, particularly given limited access to fresh produce.
+- Address challenges related to health literacy and provide educational materials in Mandarin to ensure understanding.
+- Discuss the potential impact of non-adherence on prognosis and complications associated with CKD.
+
+**Follow-Up**
+- Schedule a follow-up visit in 4 weeks to evaluate response to the new treatment regimen and review test results.
+- Discuss options for long-term management given the patient's lack of insurance coverage.
+
+Continued monitoring and supportive care are essential to managing Mr. Wei’s chronic condition and ensuring the best possible quality of life given the limitations in his access to resources and healthcare facilities."|"#### Subjective
+
+**Chief Complaint (CC)**
+Severe swelling in legs and decreased urine output.
+
+**History of Present Illness (HPI)**
+Mr. Ling Wei is a 58-year-old Asian male presenting for a routine check-up. He reports experiencing severe swelling in his legs and decreased urine output for the past 2 years, with recent exacerbation of symptoms. He also notes significant fatigue, which has impacted his daily activities. Despite being prescribed medications and lifestyle modifications, adherence has been inconsistent.
+
+**Review of Systems (ROS)**
+- **Constitutional**: Severe fatigue, poor sleep quality.
+- **Cardiovascular**: Swelling in legs, history of hypertension.
+- **Genitourinary**: Decreased urine output, history of recurrent UTIs.
+- **Gastrointestinal**: Poor dietary habits, high intake of processed foods.
+
+#### Objective
+
+**Vital Signs**
+- Blood Pressure: 155/98 mmHg
+
+**Physical Examination**
+- **General Appearance**: Patient appears fatigued with pale skin.
+- **Cardiovascular**: Presence of pitting edema in lower extremities.
+
+#### Assessment
+
+Mr. Ling Wei is a 58-year-old male with a known history of hypertension and recurrent urinary tract infections, presenting with severe chronic symptoms consistent with Chronic Kidney Disease (CKD), unspecified category. The diagnosis is supported by his severe leg swelling, decreased urine output, and significant fatigue. Current blood pressure readings indicate poorly controlled hypertension, which may be exacerbating his renal condition. 
+
+#### Plan
+
+**Medications**
+- Start Furosemide 20 mg orally, twice daily. Dispense 60 tablets.
+
+**Lifestyle Modifications**
+- Implement a fluid restriction of 1.5 liters per day.
+- Increase dietary fiber intake.
+- Referral to Nutritionist Dr. Megan Lee for dietary modifications.
+
+**Further Tests and Follow-up**
+- Await results from the pending blood work: Serum Creatinine, Blood Urea Nitrogen (BUN), Electrolytes, Glomerular Filtration Rate (GFR), Quantitative immunoglobulin levels.
+- Schedule a CT Scan of the kidneys to further assess the renal structure and size.
+
+**Patient Education and Support**
+- Discuss the importance of adhering to prescribed medications and lifestyle modifications.
+- Provide resources on dietary options, particularly given limited access to fresh produce.
+- Address challenges related to health literacy and provide educational materials in Mandarin to ensure understanding.
+- Discuss the potential impact of non-adherence on prognosis and complications associated with CKD.
+
+**Follow-Up**
+- Schedule a follow-up visit in 4 weeks to evaluate response to the new treatment regimen and review test results.
+- Discuss options for long-term management given the patient's lack of insurance coverage.
+
+Continued monitoring and supportive care are essential to managing Mr. Wei’s chronic condition and ensuring the best possible quality of life given the limitations in his access to resources and healthcare facilities."|"#### Subjective
+
+**CC**
+Severe LE edema and ↓ UO.
+
+**HPI**
+Mr. Ling Wei, 58 y/o Asian M, presents for routine check-up. Reports severe LE edema and ↓ UO x2 yrs, recently worsened. Also notes significant fatigue impacting ADLs. Non-adherent to Rx and lifestyle mods.
+
+**ROS**
+- **Constitutional**: Severe fatigue, poor sleep quality.
+- **CV**: LE edema, h/o HTN.
+- **GU**: ↓ UO, h/o recurrent UTIs.
+- **GI**: Poor dietary habits, high intake of processed foods.
+
+#### Objective
+
+**VS**
+- BP: 155/98 mmHg
+
+**PE**
+- **General**: Appears fatigued, pale skin.
+- **CV**: Pitting edema in LEs.
+
+#### Assessment
+
+Mr. Ling Wei, 58 y/o M with h/o HTN and recurrent UTIs, presents with severe chronic sx consistent with CKD, unspecified category. Dx supported by severe LE edema, ↓ UO, and significant fatigue. Current BP indicates poorly controlled HTN, likely exacerbating renal condition.
+
+#### Plan
+
+**Meds**
+- Start Furosemide 20 mg PO BID. Dispense 60 tabs.
+
+**Lifestyle Mods**
+- Fluid restriction to 1.5 L/day.
+- ↑ dietary fiber intake.
+- Referral to Nutritionist Dr. Megan Lee for dietary mods.
+
+**Further Tests and F/U**
+- Await pending labs: Serum Cr, BUN, Electrolytes, GFR, Quant Ig levels.
+- Schedule CT kidneys to assess renal structure and size.
+
+**Pt Education and Support**
+- Discuss importance of adherence to Rx and lifestyle mods.
+- Provide dietary resources, esp. given limited access to fresh produce.
+- Address health literacy, provide educational materials in Mandarin.
+- Discuss impact of non-adherence on prognosis and CKD complications.
+
+**F/U**
+- Schedule F/U in 4 weeks to eval response to new regimen and review labs.
+- Discuss long-term mgmt options given lack of insurance coverage.
+
+Continued monitoring and supportive care are essential to managing Mr. Wei’s chronic condition and ensuring the best possible QoL given limitations in access to resources and healthcare facilities."|Nephrologist|"[doctor] Good morning, Mr. Wei. I'm Dr. Smith. How are you today?
+[patient] Good morning, Dr. Smith. I'm okay, I guess.
+[doctor] I see from your records that you're here for a routine check-up, but you're also experiencing some severe swelling in your legs and decreased urine output. Can you tell me more about that?
+[patient] Yes, my legs have been very swollen for the past two years, but it has gotten worse lately. I also noticed that I'm not urinating as much as I used to.
+[doctor] I understand. How about fatigue? Have you been feeling more tired than usual?
+[patient] Oh, definitely. I'm always tired, and it's hard for me to do my daily activities.
+[doctor] I'm sorry to hear that. Have you been able to sleep well?
+[patient] No, my sleep quality is really poor. I wake up a lot during the night.
+[doctor] Okay. How has your adherence to the prescribed medications and lifestyle modifications been?
+[patient] To be honest, it's been inconsistent. I find it hard to keep up with everything.
+[doctor] Alright, let's go over some other details. Have you noticed any changes in your appetite or dietary habits?
+[patient] Yes, my diet isn't great. I tend to eat a lot of processed foods. It's hard to get fresh produce.
+[doctor] I see. And how about your cardiovascular health? Any history of hypertension or other issues?
+[patient] Yes, I have a history of high blood pressure.
+[doctor] And any recent changes in your urinary habits, aside from the decreased output?
+[patient] I've had recurrent urinary tract infections, but nothing new besides the decreased urine.
+[doctor] Thank you for sharing that. Let me take a look at your vital signs. Your blood pressure today is 155/98 mmHg, which is quite high.
+[patient] Yes, I know. It's been difficult to control.
+[doctor] I can see that. Let me do a quick physical examination. I'll start with your general appearance.
+[patient] Sure.
+[doctor] You appear quite fatigued, and your skin looks a bit pale. Let's check your legs for swelling.
+[patient] Okay.
+[doctor] You have significant pitting edema in both of your lower extremities. This is quite concerning.
+[patient] What does that mean?
+[doctor] It means there's a lot of fluid buildup in your legs, which is likely contributing to your swelling.
+[patient] Oh, I see.
+[doctor] Based on your symptoms and history, I'm concerned that you may have Chronic Kidney Disease. This would explain the swelling, decreased urine output, and fatigue.
+[patient] That's serious, right?
+[doctor] Yes, it can be serious, but it's manageable with the right treatment. We'll need to do some further tests to confirm the diagnosis.
+[patient] What kind of tests?
+[doctor] We have some blood work pending, which includes tests for Serum Creatinine, Blood Urea Nitrogen (BUN), Electrolytes, Glomerular Filtration Rate (GFR), and Quantitative immunoglobulin levels. We also need to do a CT scan of your kidneys.
+[patient] Okay, I understand.
+[doctor] In the meantime, I'll start you on a medication called Furosemide, which is a diuretic to help reduce the fluid buildup. You'll take 20 mg orally, twice daily.
+[patient] Alright.
+[doctor] I'm also going to recommend some lifestyle modifications. You'll need to restrict your fluid intake to 1.5 liters per day.
+[patient] That sounds difficult, but I'll try.
+[doctor] It can be challenging, but it's important. We'll also need to work on improving your diet. I'll refer you to Dr. Megan Lee, a nutritionist, who can help you with dietary modifications.
+[patient] That would be helpful.
+[doctor] Great. We'll also discuss the importance of adhering to your medications and lifestyle changes. It's crucial for managing your condition.
+[patient] I understand.
+[doctor] I'll provide you with some educational materials in Mandarin to ensure you fully understand everything.
+[patient] Thank you, that will help a lot.
+[doctor] You're welcome. It's important to address these issues now to prevent complications in the future.
+[patient] Yes, I want to do everything I can to get better.
+[doctor] That's the right attitude. We'll also schedule a follow-up visit in 4 weeks to see how you're responding to the new treatment regimen and review your test results.
+[patient] Okay, I'll be here.
+[doctor] Before we finish, do you have any questions or concerns?
+[patient] Yes, I'm worried about the cost of all this. I don't have insurance.
+[doctor] I understand your concern. We'll discuss options for long-term management and look into resources that may help cover some of the costs.
+[patient] Thank you, that means a lot.
+[doctor] Of course. We're here to support you. If you have any issues or questions before your next visit, don't hesitate to contact us.
+[patient] I will, thank you.
+[doctor] You're welcome, Mr. Wei. We'll get through this together. Take care, and I'll see you in 4 weeks.
+[patient] Thank you, Dr. Smith. I'll do my best.
+[doctor] That's all we can ask for. Have a good day, Mr. Wei.
+[patient] You too, doctor. Goodbye.
+[doctor] Goodbye."|"[doctor] Good morning, Mr. Wei. I'm Dr. Smith. How are you today?
+[patient] Good morning, Dr. Smith. I'm okay, I guess.
+[doctor] I see from your records that you're here for a routine check-up, but you're also experiencing some severe swelling in your legs and decreased urine output. Can you tell me more about that?
+[patient] Yes, my legs have been very swollen for the past two years, but it has gotten worse lately. I also noticed that I'm not urinating as much as I used to.
+[doctor] Hmm, I understand. How about fatigue? Have you been feeling more tired than usual?
+[patient] Oh, definitely. I'm always tired, and it's hard for me to do my daily activities.
+[doctor] I'm sorry to hear that. Have you been able to sleep well?
+[patient] No, my sleep quality is really poor. I wake up a lot during the night.
+[doctor] Okay. How has your adherence to the prescribed medications and lifestyle modifications been?
+[patient] To be honest, it's been inconsistent. I find it hard to keep up with everything.
+[doctor] Alright, let's go over some other details. Have you noticed any changes in your appetite or dietary habits?
+[patient] Yes, my diet isn't great. I tend to eat a lot of processed foods. It's hard to get fresh produce.
+[doctor] I see. And how about your cardiovascular health? Any history of hypertension or other issues?
+[patient] Yes, I have a history of high blood pressure.
+[doctor] And any recent changes in your urinary habits, aside from the decreased output?
+[patient] I've had recurrent urinary tract infections, but nothing new besides the decreased urine.
+[doctor] Thank you for sharing that. Let me take a look at your vital signs. Your blood pressure today is 155/98 mmHg, which is quite high.
+[patient] Yes, I know. It's been difficult to control.
+[doctor] I can see that. Let me do a quick physical examination. I'll start with your general appearance.
+[patient] Sure.
+[doctor] You appear quite fatigued, and your skin looks a bit pale. Let's check your legs for swelling.
+[patient] Okay.
+[doctor] You have significant pitting edema in both of your lower extremities. This is quite concerning.
+[patient] What does that mean?
+[doctor] It means there's a lot of fluid buildup in your legs, which is likely contributing to your swelling.
+[patient] Oh, I see.
+[doctor] Based on your symptoms and history, I'm concerned that you may have Chronic Kidney Disease. This would explain the swelling, decreased urine output, and fatigue.
+[patient] That's serious, right?
+[doctor] Yes, it can be serious, but it's manageable with the right treatment. We'll need to do some further tests to confirm the diagnosis.
+[patient] What kind of tests?
+[doctor] We have some blood work pending, which includes tests for Serum Creatinine, Blood Urea Nitrogen (BUN), Electrolytes, Glomerular Filtration Rate (GFR), and Quantitative immunoglobulin levels. We also need to do a CT scan of your kidneys.
+[patient] Okay, I understand.
+[doctor] In the meantime, I'll start you on a medication called Furosemide, which is a diuretic to help reduce the fluid buildup. You'll take 20 mg orally, twice daily.
+[patient] Alright.
+[doctor] I'm also going to recommend some lifestyle modifications. You'll need to restrict your fluid intake to 1.5 liters per day.
+[patient] That sounds difficult, but I'll try.
+[doctor] It can be challenging, but it's important. We'll also need to work on improving your diet. I'll refer you to Dr. Megan Lee, a nutritionist, who can help you with dietary modifications.
+[patient] That would be helpful.
+[doctor] Great. We'll also discuss the importance of adhering to your medications and lifestyle changes. It's crucial for managing your condition.
+[patient] I understand.
+[doctor] I'll provide you with some educational materials in Mandarin to ensure you fully understand everything.
+[patient] Thank you, that will help a lot.
+[doctor] You're welcome. It's important to address these issues now to prevent complications in the future.
+[patient] Yes, I want to do everything I can to get better.
+[doctor] That's the right attitude. We'll also schedule a follow-up visit in 4 weeks to see how you're responding to the new treatment regimen and review your test results.
+[patient] Okay, I'll be here.
+[doctor] Before we finish, do you have any questions or concerns?
+[patient] Yes, I'm worried about the cost of all this. I don't have insurance.
+[doctor] I understand your concern. We'll discuss options for long-term management and look into resources that may help cover some of the costs.
+[patient] Thank you, that means a lot.
+[doctor] Of course. We're here to support you. If you have any issues or questions before your next visit, don't hesitate to contact us.
+[patient] I will, thank you.
+[doctor] You're welcome, Mr. Wei. We'll get through this together. Take care, and I'll see you in 4 weeks.
+[patient] Thank you, Dr. Smith. I'll do my best.
+[doctor] That's all we can ask for. Have a good day, Mr. Wei.
+[patient] You too, doctor. Goodbye.
+[doctor] Goodbye."
+CHRONIC KIDNEY DISEASE, UNSPECIFIED|"ROLE: Nephrologist
+
+1) Medical Outcome:
+   - Diagnosis: Chronic Kidney Disease, unspecified (ICD-10 N18.9)
+   - Prescribed Treatment: Initiate patient on Calcium Acetate 667 mg, oral, three times daily with meals for hyperphosphatemia.
+   - Follow-up recommendations: Schedule follow-up appointment in 2 months.
+   - Referral to specialists: Referral to a pain management specialist Dr. Laura Fields for chronic back pain.
+   - Further tests: Order kidney biopsy; Blood work including complete blood count (CBC), urine protein-to-creatinine ratio, and thyroid function tests (TSH, free T4).
+
+2) Medical History:
+   - Previous Diagnoses: Osteoarthritis, Hyperlipidemia
+   - Family Medical History: Brother with prostate cancer, mother had chronic kidney disease.
+   - Medication History: Atorvastatin 20 mg daily for hyperlipidemia
+   - Allergies: Sulfa drugs (rash, swelling)
+   - Chronic Conditions: Osteoarthritis
+
+3) Symptom Description:
+   - Severity: Moderate fatigue and back pain
+   - Duration: Symptoms present for the past 5 months
+   - Associated Symptoms: Increase in urinary frequency, itchy skin
+   - Frequency: Symptoms occur daily
+   - Impact on Daily Activities: Difficulty in standing for long periods and disrupted sleep due to itching
+
+4) Patient’s Self-Reported Habits and Lifestyle:
+   - Sleep: Reports disrupted sleep, about 5 hours per night
+   - Diet: High protein diet, moderate intake of fruits and vegetables
+   - Exercise: Light exercises including yoga twice a week
+   - Tobacco Use: Never smoked
+   - Alcohol Consumption: Drinks wine occasionally, about once a month
+   - Drug Use: Denies any recreational drug use
+   - Recreational Activities: Enjoys knitting and book club meetings
+
+5) Demographic Information:
+   - Age: 68 years
+   - Gender: Female
+   - Ethnicity: Asian
+   - Socio-economic Status: Middle class
+   - Education Level: College degree
+   - Health Literacy: Good understanding of health information
+   - Job Status: Part-time librarian
+
+6) Patient's Behavior:
+   - The patient is very proactive with her health and follows medical advice rigorously.
+
+7) Geographical Location:
+   - Big City vs Small City: Small City
+   - Pollution and Environmental Health Risks: Low pollution
+   - Neighborhood Type: Middle-class, well-served by community services
+
+8) Clinical Setting: Hospital Outpatient Clinic
+
+9) Type of Encounter: Chronic Disease Management
+
+10) Treatment Disparities: None evident; patient has comprehensive private insurance.
+
+11) Native or Non-Native English-Speaking Patient: Native English Speaking
+
+12) Physical Exams:
+   - Blood pressure 140/85 mmHg
+   - Mild scratch marks noted on arms due to itching
+   - BMI 27
+
+13) Investigation/Test Results:
+   - Awaiting kidney biopsy results.
+   - Blood work ordered: complete blood count (CBC), urine protein-to-creatinine ratio, thyroid function tests (TSH, free T4)."|"#### Medical Note
+
+**Subjective:**
+
+**Chief Complaint (CC):**
+The patient is a 68-year-old Asian female who presents for chronic disease management of chronic kidney disease (CKD) and associated symptoms.
+
+**History of Present Illness (HPI):**
+The patient reports moderate fatigue and back pain that have persisted for the past 5 months. She has also experienced an increase in urinary frequency and itchy skin. These symptoms occur daily and have impacted her ability to stand for long periods and disrupted her sleep, limiting it to about 5 hours per night. She follows a high-protein diet with a moderate intake of fruits and vegetables and engages in light exercises, such as yoga, twice a week. She denies tobacco, recreational drug use, and drinks wine occasionally, about once a month. 
+
+**Review of Systems (ROS):**
+- **Constitutional:** Moderate fatigue.
+- **Skin:** Itchy skin, scratch marks noted due to itching.
+- **Gastrointestinal:** No nausea or vomiting.
+- **Genitourinary:** Increased urinary frequency.
+- **Musculoskeletal:** Chronic back pain.
+- **Neurological:** No dizziness or headaches.
+- **Psychological:** No depression or anxiety.
+
+**2. Objective:**
+
+- **Vitals:**
+  - Blood pressure: 140/85 mmHg
+  - Heart rate: 78 bpm
+  - Respiratory rate: 16 breaths per minute
+  - Temperature: 98.6°F
+  - BMI: 27
+
+- **Physical Exam:**
+  - **General:** Alert and oriented, well-nourished.
+  - **Skin:** Mild scratch marks noted on arms.
+  - **Cardiovascular:** Normal S1, S2. No murmurs.
+  - **Respiratory:** Clear to auscultation bilaterally.
+  - **Abdomen:** Soft, non-tender, no organomegaly.
+  - **Musculoskeletal:** Mild tenderness in the lumbar region, no swelling or deformity.
+  - **Neurological:** Intact cranial nerves, normal reflexes.
+
+- **Results:**
+  - Awaiting results for kidney biopsy.
+  - Blood work ordered: complete blood count (CBC), urine protein-to-creatinine ratio, thyroid function tests (TSH, free T4).
+
+**3. Assessment:**
+
+- Chronic Kidney Disease, unspecified (ICD-10 N18.9)
+- Moderate fatigue, likely secondary to CKD
+- Chronic back pain, primary osteoarthritis
+- Hyperphosphatemia, likely secondary to CKD
+
+**4. Plan:**
+
+- Initiate Calcium Acetate 667 mg, oral, three times daily with meals for hyperphosphatemia.
+- Refer to a pain management specialist, Dr. Laura Fields, for chronic back pain management.
+- Schedule a follow-up appointment in 2 months for re-evaluation.
+- Continue current medication: Atorvastatin 20 mg daily for hyperlipidemia.
+- Await and review biopsy results and blood work including CBC, urine protein-to-creatinine ratio, and thyroid function tests.
+- Advise the patient on the importance of maintaining a balanced diet and regular physical activity.
+- Recommend good skin care practices to alleviate itching and advise on over-the-counter antihistamines if necessary.
+- Discuss sleep hygiene strategies to improve sleep quality.
+
+**Instructions:**
+- Follow up in 2 months.
+- Contact the clinic if there are any major changes in symptoms or if any new symptoms arise.
+
+---
+
+This note comprehensively addresses the patient's chronic kidney disease management in an organized and detailed manner, ensuring all aspects of the patient's health are considered and monitored."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+The patient, named Mei Lin, is a 68-year-old Asian female who presents for chronic disease management of chronic kidney disease (CKD) and associated symptoms.
+
+**History of Present Illness (HPI):**
+The patient reports moderate fatigue and back pain that have persisted for the past 5 months. She has also experienced an increase in urinary frequency and itchy skin. These symptoms occur daily and have impacted her ability to stand for long periods and disrupted her sleep, limiting it to about 5 hours per night. She follows a high-protein diet with a moderate intake of fruits and vegetables and engages in light exercises, such as yoga, twice a week. She denies tobacco, recreational drug use, and drinks wine occasionally, about once a month. 
+
+**Review of Systems (ROS):**
+- **Constitutional:** Moderate fatigue.
+- **Skin:** Itchy skin, scratch marks noted due to itching.
+- **Gastrointestinal:** No nausea or vomiting.
+- **Genitourinary:** Increased urinary frequency.
+- **Musculoskeletal:** Chronic back pain.
+- **Neurological:** No dizziness or headaches.
+- **Psychological:** No depression or anxiety.
+
+**2. Objective:**
+
+- **Vitals:**
+  - Blood pressure: 140/85 mmHg
+  - Heart rate: 78 bpm
+  - Respiratory rate: 16 breaths per minute
+  - Temperature: 98.6°F
+  - BMI: 27
+
+- **Physical Exam:**
+  - **General:** Alert and oriented, well-nourished.
+  - **Skin:** Mild scratch marks noted on arms.
+  - **Cardiovascular:** Normal S1, S2. No murmurs.
+  - **Respiratory:** Clear to auscultation bilaterally.
+  - **Abdomen:** Soft, non-tender, no organomegaly.
+  - **Musculoskeletal:** Mild tenderness in the lumbar region, no swelling or deformity.
+  - **Neurological:** Intact cranial nerves, normal reflexes.
+
+**3. Assessment:**
+
+- Chronic Kidney Disease, unspecified (ICD-10 N18.9)
+- Moderate fatigue, likely secondary to CKD
+- Chronic back pain, primary osteoarthritis
+- Hyperphosphatemia, likely secondary to CKD
+
+**4. Plan:**
+
+- Initiate Calcium Acetate 667 mg, oral, three times daily with meals for hyperphosphatemia.
+- Refer to a pain management specialist, Dr. Laura Fields, for chronic back pain management.
+- Schedule a follow-up appointment in 2 months for re-evaluation.
+- Continue current medication: Atorvastatin 20 mg daily for hyperlipidemia.
+- Await and review biopsy results and blood work including CBC, urine protein-to-creatinine ratio, and thyroid function tests.
+- Advise the patient on the importance of maintaining a balanced diet and regular physical activity.
+- Recommend good skin care practices to alleviate itching and advise on over-the-counter antihistamines if necessary.
+- Discuss sleep hygiene strategies to improve sleep quality.
+
+**Instructions:**
+- Follow up in 2 months.
+- Contact the clinic if there are any major changes in symptoms or if any new symptoms arise."|"**1. Subjective:**
+
+**CC:**
+The pt, named Mei Lin, is a 68 y/o Asian F who presents for chronic dz mgmt of CKD and associated sx.
+
+**HPI:**
+The pt reports moderate fatigue and back pain that have persisted for the past 5 mos. She has also experienced an increase in urinary frequency and pruritus. These sx occur daily and have impacted her ability to stand for long periods and disrupted her sleep, limiting it to about 5 hrs per night. She follows a high-protein diet with a moderate intake of fruits and vegetables and engages in light exercises, such as yoga, BID. She denies tobacco, recreational drug use, and drinks wine occasionally, about once a month.
+
+**ROS:**
+- **Constitutional:** Moderate fatigue.
+- **Skin:** Pruritus, scratch marks noted due to itching.
+- **GI:** No N/V.
+- **GU:** Increased urinary frequency.
+- **MSK:** Chronic back pain.
+- **Neuro:** No dizziness or HA.
+- **Psych:** No depression or anxiety.
+
+**2. Objective:**
+
+- **Vitals:**
+  - BP: 140/85 mmHg
+  - HR: 78 bpm
+  - RR: 16 bpm
+  - Temp: 98.6°F
+  - BMI: 27
+
+- **PE:**
+  - **General:** Alert and oriented, well-nourished.
+  - **Skin:** Mild scratch marks noted on arms.
+  - **CV:** Normal S1, S2. No murmurs.
+  - **Resp:** Clear to auscultation bilaterally.
+  - **Abd:** Soft, non-tender, no organomegaly.
+  - **MSK:** Mild tenderness in the lumbar region, no swelling or deformity.
+  - **Neuro:** Intact CNs, normal reflexes.
+
+**3. Assessment:**
+
+- CKD, unspecified (ICD-10 N18.9)
+- Moderate fatigue, likely 2° to CKD
+- Chronic back pain, primary OA
+- Hyperphosphatemia, likely 2° to CKD
+
+**4. Plan:**
+
+- Initiate Calcium Acetate 667 mg PO TID with meals for hyperphosphatemia.
+- Refer to pain mgmt specialist, Dr. Laura Fields, for chronic back pain mgmt.
+- F/U in 2 mos for re-eval.
+- Continue current Rx: Atorvastatin 20 mg daily for hyperlipidemia.
+- Await and review biopsy results and labs including CBC, urine protein-to-creatinine ratio, and TFTs.
+- Advise pt on the importance of maintaining a balanced diet and regular physical activity.
+- Recommend good skin care practices to alleviate pruritus and advise on OTC antihistamines if necessary.
+- Discuss sleep hygiene strategies to improve sleep quality.
+
+**Instructions:**
+- F/U in 2 mos.
+- Contact the clinic if there are any major changes in sx or if any new sx arise."|Nephrologist|"[doctor] Good morning! How are you feeling today?
+
+[patient] Good morning, doctor. I’ve been better. I’m here for my chronic kidney disease management.
+
+[doctor] I see. Let's go through your symptoms systematically. I understand you’ve been experiencing moderate fatigue and back pain for the past 5 months?
+
+[patient] Yes, that's correct. Both have been persistent and quite bothersome.
+
+[doctor] How severe would you rate your fatigue and back pain on a scale of 1 to 10?
+
+[patient] I’d say my fatigue is around a 6 and my back pain is about a 5.
+
+[doctor] Got it. I also see that you’ve been experiencing increased urinary frequency and itchy skin. Can you tell me more about these symptoms?
+
+[patient] Yes, I’ve been needing to use the bathroom more often, and my skin is really itchy. I’ve scratched it so much that I've got marks on my arms.
+
+[doctor] That sounds uncomfortable. How has this been affecting your daily activities?
+
+[patient] It’s been tough. I can’t stand for long periods, and my sleep is disrupted. I’m only getting about 5 hours a night.
+
+[doctor] That must be really challenging. Can you tell me a little about your diet and exercise routine?
+
+[patient] I follow a high-protein diet with moderate intake of fruits and vegetables, and I do yoga twice a week.
+
+[doctor] Okay, that sounds good. Do you smoke or use recreational drugs?
+
+[patient] No, I don't.
+
+[doctor] How about alcohol? Do you drink?
+
+[patient] I drink wine occasionally, about once a month.
+
+[doctor] Alright. Thank you for sharing that. Let’s move on to a review of your systems. Besides the fatigue, increased urinary frequency, itchy skin, and back pain, have you had any nausea or vomiting?
+
+[patient] No, none at all.
+
+[doctor] Any dizziness or headaches?
+
+[patient] No dizziness or headaches either.
+
+[doctor] How about your mood? Any depression or anxiety?
+
+[patient] No, my mood has been stable.
+
+[doctor] That’s good to hear. Let’s go over your vital signs now. Your blood pressure today is 140/85 mmHg, your heart rate is 78 bpm, respiratory rate is 16 breaths per minute, and your temperature is 98.6°F. Your BMI is 27.
+
+[patient] Hmm, okay.
+
+[doctor] During the physical exam, I noted mild scratch marks on your arms and mild tenderness in the lumbar region. Your cardiovascular exam was normal with clear heart sounds and no murmurs. Your lungs were clear to auscultation bilaterally, and your abdomen was soft and non-tender with no organomegaly. Neurologically, everything was intact with normal reflexes.
+
+[patient] Alright. 
+
+[doctor] We are still awaiting the results of your kidney biopsy. I’ve also ordered blood work, including a complete blood count, urine protein-to-creatinine ratio, and thyroid function tests.
+
+[patient] Okay, I understand.
+
+[doctor] Based on what we've discussed and your exam findings, here’s what we’ll do. For your chronic kidney disease, we’ll start you on Calcium Acetate 667 mg three times daily with meals to manage hyperphosphatemia. 
+
+[patient] Alright, I'll start taking that.
+
+[doctor] I’m also referring you to Dr. Laura Fields, a pain management specialist, to help with your chronic back pain.
+
+[patient] Thank you. I hope that helps.
+
+[doctor] We’ll schedule a follow-up appointment in 2 months to re-evaluate your condition and review the biopsy and blood work results.
+
+[patient] Sounds good.
+
+[doctor] You should continue with your current medication, Atorvastatin 20 mg daily, for hyperlipidemia.
+
+[patient] I will.
+
+[doctor] It's important to maintain a balanced diet and regular physical activity. I also recommend good skin care practices to alleviate the itching. Over-the-counter antihistamines might help as well. 
+
+[patient] I’ll try those suggestions.
+
+[doctor] Finally, let’s discuss some sleep hygiene strategies to help improve your sleep quality. Try to maintain a consistent sleep schedule, create a restful environment, and avoid heavy meals and caffeine before bedtime.
+
+[patient] I’ll definitely try to follow those tips.
+
+[doctor] Good. If you notice any major changes in your symptoms or if any new symptoms arise, please contact the clinic immediately.
+
+[patient] I will. Thank you, doctor.
+
+[doctor] You’re welcome. Take care, and we’ll see you in 2 months.
+
+[patient] Thank you. Goodbye.
+
+[doctor] Goodbye."|"[doctor] Good morning! How are you feeling today?
+
+[patient] Good morning, doctor. I’ve been better. I’m here for my chronic kidney disease management.
+
+[doctor] I see. Let's go through your symptoms systematically. I understand you’ve been experiencing moderate fatigue and back pain for the past 5 months?
+
+[patient] Yes, that's correct. Both have been persistent and quite bothersome.
+
+[doctor] How severe would you rate your fatigue and back pain on a scale of 1 to 10?
+
+[patient] I’d say my fatigue is around a 6 and my back pain is about a 5.
+
+[doctor] Got it. I also see that you’ve been experiencing increased urinary frequency and itchy skin. Can you tell me more about these symptoms?
+
+[patient] Yes, I’ve been needing to use the bathroom more often, and my skin is really itchy. I’ve scratched it so much that I've got marks on my arms.
+
+[doctor] That sounds uncomfortable. How has this been affecting your daily activities?
+
+[patient] It’s been tough. I can’t stand for long periods, and my sleep is disrupted. I’m only getting about 5 hours a night.
+
+[doctor] That must be really challenging. Can you tell me a little about your diet and exercise routine?
+
+[patient] I follow a high-protein diet with moderate intake of fruits and vegetables, and I do yoga twice a week.
+
+[doctor] Okay, that sounds good. Do you smoke or use recreational drugs?
+
+[patient] No, I don't.
+
+[doctor] How about alcohol? Do you drink?
+
+[patient] I drink wine occasionally, about once a month.
+
+[doctor] Alright. Thank you for sharing that. Let’s move on to a review of your systems. Besides the fatigue, increased urinary frequency, itchy skin, and back pain, have you had any nausea or vomiting?
+
+[patient] No, none at all.
+
+[doctor] Any dizziness or headaches?
+
+[patient] No dizziness or headaches either.
+
+[doctor] How about your mood? Any depression or anxiety?
+
+[patient] No, my mood has been stable.
+
+[doctor] That’s good to hear. Let’s go over your vital signs now. Your blood pressure today is 140/85 mmHg, your heart rate is 78 bpm, respiratory rate is 16 breaths per minute, and your temperature is 98.6°F. Your BMI is 27.
+
+[patient] Hmm, okay.
+
+[doctor] During the physical exam, I noted mild scratch marks on your arms and mild tenderness in the lumbar region. Your cardiovascular exam was normal with clear heart sounds and no murmurs. Your lungs were clear to auscultation bilaterally, and your abdomen was soft and non-tender with no organomegaly. Neurologically, everything was intact with normal reflexes.
+
+[patient] Alright. 
+
+[doctor] We are still awaiting the results of your kidney biopsy. I’ve also ordered blood work, including a complete blood count, urine protein-to-creatinine ratio, and thyroid function tests.
+
+[patient] Okay, I understand.
+
+[doctor] Based on what we've discussed and your exam findings, here’s what we’ll do. For your chronic kidney disease, we’ll start you on Calcium Acetate 667 mg three times daily with meals to manage hyperphosphatemia. 
+
+[patient] Alright, I'll start taking that.
+
+[doctor] I’m also referring you to Dr. Laura Fields, a pain management specialist, to help with your chronic back pain.
+
+[patient] Thank you. I hope that helps.
+
+[doctor] We’ll schedule a follow-up appointment in 2 months to re-evaluate your condition and review the biopsy and blood work results.
+
+[patient] Sounds good.
+
+[doctor] You should continue with your current medication, Atorvastatin 20 mg daily, for hyperlipidemia.
+
+[patient] I will.
+
+[doctor] It's important to maintain a balanced diet and regular physical activity. I also recommend good skin care practices to alleviate the itching. Over-the-counter antihistamines might help as well. 
+
+[patient] I’ll try those suggestions.
+
+[doctor] Finally, let’s discuss some sleep hygiene strategies to help improve your sleep quality. Try to maintain a consistent sleep schedule, create a restful environment, and avoid heavy meals and caffeine before bedtime.
+
+[patient] I’ll definitely try to follow those tips.
+
+[doctor] Good. If you notice any major changes in your symptoms or if any new symptoms arise, please contact the clinic immediately.
+
+[patient] I will. Thank you, doctor.
+
+[doctor] You’re welcome. Take care, and we’ll see you in 2 months.
+
+[patient] Thank you. Goodbye.
+
+[doctor] Goodbye."
+CHRONIC KIDNEY DISEASE, UNSPECIFIED|"ROLE: Nephrologist
+
+Demographic Information:
+- Age: 68
+- Gender: Male
+- Ethnicity: Hispanic
+- Socio-economic Status: Middle class
+- Education Level: High school diploma
+- Health Literacy: Moderate
+- Job Status: Retired
+
+Geographical Location:
+- Big City
+- Urban
+- Well-served by Transit
+- Moderate pollution levels
+
+Clinical Setting:
+- Specialty Clinic
+
+Type of Encounter:
+- Chronic Disease Management
+
+Medical History:
+- Previous Diagnoses: Hypertension, Type 2 Diabetes Mellitus
+- Family Medical History: Father had hypertension and chronic kidney disease
+- Medication History: Losartan 50 mg once daily, Metformin 500 mg twice daily
+- Allergies: None
+- Chronic Conditions: Hypertension, Type 2 Diabetes Mellitus
+
+Symptom Description:
+- Severity: Moderate
+- Duration: Several months
+- Associated Symptoms: Fatigue, reduced urine output, occasional swelling in the lower extremities
+- Frequency: Daily
+- Impact on Daily Activities: Reduced energy levels, difficulty walking long distances
+
+Patient’s self-reported habits and lifestyle:
+- Sleep: Reports 6-7 hours per night but feels unrested
+- Diet: Generally balanced, but high salt intake
+- Exercise: Limited physical activity due to fatigue
+- Tobacco Use: Former smoker, quit 20 years ago
+- Alcohol Consumption: Moderate, 1-2 drinks per week
+- Drug Use: Denies
+- Recreational Activities: Enjoys gardening
+
+Patient's Behavior:
+- Generally cooperative with medical advice, but admits difficulty adhering to dietary recommendations
+
+Physical Exams:
+- Blood Pressure: 150/90 mmHg
+- General Appearance: Appears fatigued
+- Cardiovascular: Slight pedal edema, Grade 2/6 systolic murmur
+- Abdominal: No tenderness or masses
+
+Investigation/Test results:
+- Awaiting results for Complete Metabolic Panel (CMP) and Serum Creatinine
+- Previous blood work revealed elevated BUN (Blood Urea Nitrogen) and serum creatinine levels
+
+Medical Outcome:
+- Diagnosis: Chronic Kidney Disease, unspecified (N18.9)
+- Prescribed Treatment: Continue Losartan 50 mg once daily, Metformin 500 mg twice daily
+- Medication Adjustment: Add Furosemide 20 mg once daily to manage edema
+- Follow-up Recommendations: Follow-up in 3 months with repeat blood work including BMP (Basic Metabolic Panel), eGFR (estimated Glomerular Filtration Rate), and urine microalbumin
+- Lifestyle Change: Low sodium diet, moderate exercise as tolerated
+- Referral to Specialists: None at this time
+- Order for Blood Work: CMP, eGFR, and urine microalbumin"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Fatigue and reduced urine output.
+
+**History of Present Illness (HPI):**
+Mr. Jose Martinez, a 68-year-old Hispanic male, presents to the nephrology clinic for chronic disease management. He has a history of hypertension and Type 2 Diabetes Mellitus and reports several months of moderate fatigue, decreased urine output, and occasional swelling in the lower extremities. These symptoms occur daily and have significantly impacted his daily activities, particularly reducing his energy levels and limiting his ability to walk long distances. He admits to difficulty adhering to dietary recommendations, particularly with salt intake. 
+
+**Review of Systems (ROS):**
+- General: Reports fatigue and reduced energy levels.
+- Cardiovascular: Occasional swelling in the lower extremities, denies chest pain or palpitations.
+- Urinary: Reduced urine output, denies pain or burning during urination.
+- Musculoskeletal: Denies muscle pain or joint swelling.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 150/90 mmHg
+
+**Physical Examination Findings:**
+- General Appearance: Appears fatigued.
+- Cardiovascular: Slight pedal edema, Grade 2/6 systolic murmur.
+- Abdominal: Non-tender, no masses detected.
+
+**Investigation/Test Results:**
+- Awaiting results for Complete Metabolic Panel (CMP) and Serum Creatinine.
+- Previous blood work revealed elevated Blood Urea Nitrogen (BUN) and serum creatinine levels.
+
+**3. Assessment:**
+
+Chronic Kidney Disease, unspecified (N18.9).
+
+**4. Plan:**
+
+**Medications:**
+- Continue Losartan 50 mg once daily.
+- Continue Metformin 500 mg twice daily.
+- Add Furosemide 20 mg once daily to manage edema.
+
+**Lifestyle Changes:**
+- Implement a low sodium diet to help manage symptoms and disease progression.
+- Encourage moderate exercise as tolerated to improve overall health and energy levels.
+
+**Follow-up Recommendations:**
+- Follow-up in 3 months with repeat blood work, including Basic Metabolic Panel (BMP), estimated Glomerular Filtration Rate (eGFR), and urine microalbumin.
+
+**Instructions:**
+- Educate the patient on the importance of adhering to a low sodium diet and the potential impact on his kidney disease.
+- Discuss strategies to improve compliance with dietary recommendations.
+- Encourage routine physical activity and provide resources for low-impact exercises suitable for his fatigue level.
+
+**Referral:**
+- None at this time.
+
+**Order for Blood Work:**
+- Complete Metabolic Panel (CMP)
+- Estimated Glomerular Filtration Rate (eGFR)
+- Urine microalbumin
+#####
+
+This medical note captures the pertinent details of the patient’s current status, history, and the plan for managing his chronic kidney disease."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Fatigue and reduced urine output.
+
+**History of Present Illness (HPI):**
+Mr. Jose Martinez, a 68-year-old Hispanic male, presents to the nephrology clinic for chronic disease management. He has a history of hypertension and Type 2 Diabetes Mellitus and reports several months of moderate fatigue, decreased urine output, and occasional swelling in the lower extremities. These symptoms occur daily and have significantly impacted his daily activities, particularly reducing his energy levels and limiting his ability to walk long distances. He admits to difficulty adhering to dietary recommendations, particularly with salt intake. 
+
+**Review of Systems (ROS):**
+- General: Reports fatigue and reduced energy levels.
+- Cardiovascular: Occasional swelling in the lower extremities, denies chest pain or palpitations.
+- Urinary: Reduced urine output, denies pain or burning during urination.
+- Musculoskeletal: Denies muscle pain or joint swelling.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 150/90 mmHg
+
+**Physical Examination Findings:**
+- General Appearance: Appears fatigued.
+- Cardiovascular: Slight pedal edema, Grade 2/6 systolic murmur.
+- Abdominal: Non-tender, no masses detected.
+
+**Investigation/Test Results:**
+- Previous blood work revealed elevated Blood Urea Nitrogen (BUN) and serum creatinine levels.
+
+**3. Assessment:**
+
+Chronic Kidney Disease, unspecified (N18.9).
+
+**4. Plan:**
+
+**Medications:**
+- Continue Losartan 50 mg once daily.
+- Continue Metformin 500 mg twice daily.
+- Add Furosemide 20 mg once daily to manage edema.
+
+**Lifestyle Changes:**
+- Implement a low sodium diet to help manage symptoms and disease progression.
+- Encourage moderate exercise as tolerated to improve overall health and energy levels.
+
+**Follow-up Recommendations:**
+- Follow-up in 3 months with repeat blood work, including Basic Metabolic Panel (BMP), estimated Glomerular Filtration Rate (eGFR), and urine microalbumin.
+
+**Instructions:**
+- Educate the patient on the importance of adhering to a low sodium diet and the potential impact on his kidney disease.
+- Discuss strategies to improve compliance with dietary recommendations.
+- Encourage routine physical activity and provide resources for low-impact exercises suitable for his fatigue level.
+
+**Order for Blood Work:**
+- Complete Metabolic Panel (CMP)
+- Estimated Glomerular Filtration Rate (eGFR)
+- Urine microalbumin
+#####"|"#####
+**1. Subjective:**
+
+**CC:**
+Fatigue and reduced urine output.
+
+**HPI:**
+Mr. Jose Martinez, a 68 y/o Hispanic male, presents to the nephrology clinic for chronic dz mgmt. Hx of HTN and T2DM, reports several months of moderate fatigue, ↓ urine output, and occasional LE edema. These sx occur daily and significantly impact his ADLs, particularly reducing his energy levels and limiting his ability to ambulate long distances. Admits to difficulty adhering to dietary recommendations, particularly with Na+ intake.
+
+**ROS:**
+- General: Reports fatigue and ↓ energy levels.
+- CV: Occasional LE edema, denies CP or palpitations.
+- Urinary: ↓ urine output, denies dysuria.
+- MSK: Denies myalgia or arthralgia.
+
+**2. Objective:**
+
+**VS:**
+- BP: 150/90 mmHg
+
+**PE Findings:**
+- General: Appears fatigued.
+- CV: Slight pedal edema, Grade 2/6 systolic murmur.
+- Abd: Non-tender, no masses detected.
+
+**Investigation/Test Results:**
+- Previous labs revealed elevated BUN and serum Cr levels.
+
+**3. Assessment:**
+
+CKD, unspecified (N18.9).
+
+**4. Plan:**
+
+**Meds:**
+- Continue Losartan 50 mg QD.
+- Continue Metformin 500 mg BID.
+- Add Furosemide 20 mg QD to manage edema.
+
+**Lifestyle Changes:**
+- Implement a low Na+ diet to help manage sx and dz progression.
+- Encourage moderate exercise as tolerated to improve overall health and energy levels.
+
+**F/U Recommendations:**
+- F/U in 3 mos with repeat labs, including BMP, eGFR, and urine microalbumin.
+
+**Instructions:**
+- Educate pt on the importance of adhering to a low Na+ diet and the potential impact on his CKD.
+- Discuss strategies to improve compliance with dietary recommendations.
+- Encourage routine physical activity and provide resources for low-impact exercises suitable for his fatigue level.
+
+**Order for Labs:**
+- CMP
+- eGFR
+- Urine microalbumin
+#####"|Nephrologist|"[doctor] Hi Mr. Martinez, how are you doing today?
+
+[patient] I'm feeling quite tired, doctor. Also, I've noticed I'm not urinating as much lately.
+
+[doctor] I see. How long have you been experiencing this fatigue and reduced urine output?
+
+[patient] It's been several months now. I feel moderate fatigue most days, and my urine output has definitely decreased. It’s really affecting my daily activities.
+
+[doctor] I understand. Have you noticed any swelling in your legs or feet?
+
+[patient] Yes, sometimes my lower legs and feet swell up, but it's only occasional.
+
+[doctor] Alright. Do you experience any chest pain or heart palpitations?
+
+[patient] No, I haven't had any chest pain or palpitations.
+
+[doctor] And how about any pain or burning when you urinate?
+
+[patient] No, no pain or burning.
+
+[doctor] Okay, that's good to know. Have you had any muscle pain or joint swelling?
+
+[patient] No, nothing like that.
+
+[doctor] Alright, thanks for that information. Now, I see from your history that you have hypertension and Type 2 Diabetes Mellitus. How well do you think you’re managing your diet, particularly your salt intake?
+
+[patient] To be honest, I’ve had difficulty sticking to the dietary recommendations, especially with reducing salt.
+
+[doctor] I understand it can be challenging. We'll work on that. Let's move on to some vital signs and a physical exam. Your blood pressure today is 150/90 mmHg.
+
+[patient] Is that high?
+
+[doctor] It's higher than we'd like it to be. Also, during the physical exam, I noticed you appear fatigued and you have slight pedal edema, which means there’s some swelling in your feet. I also detected a Grade 2/6 systolic murmur in your heart. Your abdomen is non-tender, and I didn't find any masses.
+
+[patient] Okay.
+
+[doctor] We're waiting on the results of your Complete Metabolic Panel (CMP) and Serum Creatinine. Your previous blood work showed elevated Blood Urea Nitrogen (BUN) and serum creatinine levels. This indicates your kidneys might not be functioning as well as they should.
+
+[patient] What does that mean for me?
+
+[doctor] Based on your symptoms and the initial blood work, it looks like you may have Chronic Kidney Disease, but we need the new test results to confirm the extent. 
+
+[patient] What should I do in the meantime?
+
+[doctor] For now, we’ll continue your current medications: Losartan 50 mg once daily and Metformin 500 mg twice daily. I'm also going to add Furosemide 20 mg once daily to help manage the swelling in your legs.
+
+[patient] Alright, I can do that.
+
+[doctor] It’s very important that you start following a low sodium diet to help manage your symptoms and slow the progression of your kidney disease. We’ll also encourage moderate exercise as tolerated to improve your overall health and energy levels.
+
+[patient] I’ll try my best. Can you provide some guidance on the diet?
+
+[doctor] Absolutely. We’ll educate you on the importance of adhering to a low sodium diet and discuss strategies to improve your compliance. It will make a significant difference.
+
+[patient] That sounds helpful. 
+
+[doctor] Great. I also want you to follow up with me in 3 months. We’ll repeat the blood work, including the Basic Metabolic Panel (BMP), estimated Glomerular Filtration Rate (eGFR), and urine microalbumin.
+
+[patient] Okay, I’ll make sure to do that.
+
+[doctor] In the meantime, we’ll provide you with resources for low-impact exercises suitable for your fatigue level. Routine physical activity is beneficial, even if it’s just light walking.
+
+[patient] I’ll give it a try.
+
+[doctor] Excellent. Do you have any other questions for me?
+
+[patient] No, I think that covers everything.
+
+[doctor] Alright, Mr. Martinez. I’ll have my assistant come in to help you with the discharge instructions and the blood work order. Remember, following the diet and taking your medications as prescribed are crucial. We’ll see you in three months for a follow-up.
+
+[patient] Thank you, doctor. I appreciate your help.
+
+[doctor] You’re welcome, take care, and see you soon."|"[doctor] Hi Mr. Martinez, how are you doing today?
+
+[patient] I'm feeling quite tired, doctor. Also, I've noticed I'm not urinating as much lately.
+
+[doctor] Hmm, I see. How long have you been experiencing this fatigue and reduced urine output?
+
+[patient] It's been several months now. I feel moderate fatigue most days, and my urine output has definitely decreased. It’s really affecting my daily activities.
+
+[doctor] I understand. Have you noticed any swelling in your legs or feet?
+
+[patient] Yes, sometimes my lower legs and feet swell up, but it's only occasional.
+
+[doctor] Alright. Do you experience any chest pain or heart palpitations?
+
+[patient] No, I haven't had any chest pain or palpitations.
+
+[doctor] And how about any pain or burning when you urinate?
+
+[patient] No, no pain or burning.
+
+[doctor] Okay, that's good to know. Have you had any muscle pain or joint swelling?
+
+[patient] No, nothing like that.
+
+[doctor] Alright, thanks for that information. Now, I see from your history that you have hypertension and Type 2 Diabetes Mellitus. How well do you think you’re managing your diet, particularly your salt intake?
+
+[patient] To be honest, I’ve had difficulty sticking to the dietary recommendations, especially with reducing salt.
+
+[doctor] I understand it can be challenging. We'll work on that. Let's move on to some vital signs and a physical exam. Your blood pressure today is 150/90 mmHg.
+
+[patient] Is that high?
+
+[doctor] It's higher than we'd like it to be. Also, during the physical exam, I noticed you appear fatigued and you have slight pedal edema, which means there’s some swelling in your feet. I also detected a Grade 2/6 systolic murmur in your heart. Your abdomen is non-tender, and I didn't find any masses.
+
+[patient] Okay.
+
+[doctor] We're waiting on the results of your Complete Metabolic Panel (CMP) and Serum Creatinine. Your previous blood work showed elevated Blood Urea Nitrogen (BUN) and serum creatinine levels. This indicates your kidneys might not be functioning as well as they should.
+
+[patient] What does that mean for me?
+
+[doctor] Based on your symptoms and the initial blood work, it looks like you may have Chronic Kidney Disease, but we need the new test results to confirm the extent.
+
+[patient] What should I do in the meantime?
+
+[doctor] For now, we’ll continue your current medications: Losartan 50 mg once daily and Metformin 500 mg twice daily. I'm also going to add Furosemide 20 mg once daily to help manage the swelling in your legs.
+
+[patient] Alright, I can do that.
+
+[doctor] It’s very important that you start following a low sodium diet to help manage your symptoms and slow the progression of your kidney disease. We’ll also encourage moderate exercise as tolerated to improve your overall health and energy levels.
+
+[patient] I’ll try my best. Can you provide some guidance on the diet?
+
+[doctor] Absolutely. We’ll educate you on the importance of adhering to a low sodium diet and discuss strategies to improve your compliance. It will make a significant difference.
+
+[patient] That sounds helpful.
+
+[doctor] Great. I also want you to follow up with me in 3 months. We’ll repeat the blood work, including the Basic Metabolic Panel (BMP), estimated Glomerular Filtration Rate (eGFR), and urine microalbumin.
+
+[patient] Okay, I’ll make sure to do that.
+
+[doctor] In the meantime, we’ll provide you with resources for low-impact exercises suitable for your fatigue level. Routine physical activity is beneficial, even if it’s just light walking.
+
+[patient] I’ll give it a try.
+
+[doctor] Excellent. Do you have any other questions for me?
+
+[patient] No, I think that covers everything.
+
+[doctor] Alright, Mr. Martinez. I’ll have my assistant come in to help you with the discharge instructions and the blood work order. Remember, following the diet and taking your medications as prescribed are crucial. We’ll see you in three months for a follow-up.
+
+[patient] Thank you, doctor. I appreciate your help.
+
+[doctor] You’re welcome, take care, and see you soon."
+CHRONIC KIDNEY DISEASE, UNSPECIFIED|"ROLE: Nephrologist
+
+DEMOGRAPHIC INFORMATION:
+
+** Age:** 65
+** Gender:** Male
+** Ethnicity:** African American
+** Socio-economic Status:** Middle-Class
+** Education Level:** High School Graduate
+** Health Literacy:** Moderate
+** Job Status:** Retired
+
+PATIENT'S BEHAVIOR:
+
+** Level of Cooperation:** Very Cooperative
+
+GEOGRAPHICAL LOCATION:
+
+** City Type:** Big City
+** Area Type:** Urban
+** Neighborhood Type:** Well-served by Transit, Affluent
+
+CLINICAL SETTING:
+
+** Type of Facility:** Private Practice
+
+TYPE OF ENCOUNTER:
+
+** Initial Consultation
+
+MEDICAL HISTORY:
+
+** Previous Diagnoses:** Hypertension, Type 2 Diabetes, Hyperlipidemia
+** Family Medical History:** Father had Hypertension and died of a stroke, Mother had Type 2 Diabetes.
+** Medication History:** Takes Lisinopril for blood pressure, Metformin for diabetes, Atorvastatin for cholesterol.
+** Allergies:** NKDA (No Known Drug Allergies)
+** Chronic Conditions:** Hypertension, Type 2 Diabetes
+
+SYMPTOM DESCRIPTION:
+
+** Severity:** Mild to Moderate
+** Duration:** Several Months
+** Associated Symptoms:** Fatigue, Swelling in legs, Decreased appetite
+** Frequency:** Daily
+** Impact on Daily Activities:** Moderate difficulty in performing daily activities due to fatigue
+
+PATIENT’S SELF-REPORTED HABITS AND LIFESTYLE:
+
+** Sleep:** Poor, averages about 5-6 hours a night
+** Diet:** Low-sodium diet, avoiding red meat
+** Exercise:** Walks 30 minutes daily, light aerobic exercises
+** Tobacco Use:** None
+** Alcohol Consumption:** Occasional, 1-2 drinks per week
+** Drug Use:** None
+** Recreational Activities:** Enjoys gardening and reading
+
+PHYSICAL EXAMS:
+
+** Blood Pressure:** 145/90 mmHg
+** Heart Rate:** 80 bpm
+** Swelling:** Mild swelling in both legs
+** Abdominal Exam:** No tenderness, slight ascites
+
+INVESTIGATION/TEST RESULTS:
+
+** Blood Tests:**
+   - Complete Blood Count (CBC): Awaiting
+   - Blood Urea Nitrogen (BUN): Elevated at 30 mg/dL
+   - Creatinine: Elevated at 2.1 mg/dL
+   - Estimated Glomerular Filtration Rate (eGFR): 35 mL/min/1.73m²
+   
+** Urine Tests:**
+   - Urinalysis: Awaiting
+   - Urine Albumin-to-Creatinine Ratio: 450 mg/g (elevated)
+
+MEDICAL OUTCOME:
+
+** Diagnosis:** Chronic Kidney Disease, Unspecified (ICD-10: N18.9)
+** Prescribed Treatment:**
+   - Continue Lisinopril 20 mg orally once daily
+   - Continue Metformin 500 mg orally twice daily
+   - Continue Atorvastatin 40 mg orally once daily
+   - Prescribe Furosemide 40 mg orally once daily for swelling
+** Follow-up Recommendations:**
+   - Follow-up with Nephrologist in 1 month
+   - Referral to Dietitian for renal diet education
+** Referral to Specialists:**
+   - Dietitian for renal diet education: Dr. Sarah Johnson
+** Referral to Further Tests or Imaging:**
+   - Renal Ultrasound for kidney size and morphology evaluation
+** Lifestyle Change:**
+   - Increase water intake to 1.5-2 liters/day
+   - Avoid NSAIDs
+** Medication Adjustment:**
+   - Add Furosemide 40 mg orally once daily
+
+### Not using all of the variables as not all were suitable for this scenario.
+"|"**1. Subjective:**
+   
+   **Chief Complaint (CC):**
+   
+   Fatigue, leg swelling, and decreased appetite.
+
+   **History of Present Illness (HPI):**
+   
+   The patient is a 65-year-old African American male who presents with complaints of fatigue, swelling in his legs, and decreased appetite for the past several months. He notes that the fatigue has been progressively worsening and is now impacting his ability to perform daily activities. The swelling in his legs is noticeable mostly at the end of the day and subsides to some degree overnight. He follows a low-sodium diet and walks 30 minutes daily but feels that his symptoms persist despite these measures.
+
+   **Review of Systems (ROS):**
+   
+   - **Constitutional:** Reports fatigue; denies fever or chills.
+   - **Cardiovascular:** Reports swelling in legs; denies chest pain or palpitations.
+   - **Gastrointestinal:** Reports decreased appetite; denies nausea or vomiting.
+   - **Genitourinary:** No reported changes in urinary habits.
+   - **Musculoskeletal:** No joint pain or stiffness reported.
+   - **Neurological:** No dizziness or headaches reported.
+
+**2. Objective:**
+
+   **Vital Signs:**
+   
+   - Blood Pressure: 145/90 mmHg
+   - Heart Rate: 80 bpm
+
+   **Physical Examination:**
+   
+   - **Cardiovascular:** Mild swelling in both legs.
+   - **Abdominal Exam:** No tenderness, slight ascites.
+   - **General:** Appears well-nourished and in no acute distress.
+
+   **Results:**
+   
+   - **Blood Urea Nitrogen (BUN):** Elevated at 30 mg/dL
+   - **Creatinine:** Elevated at 2.1 mg/dL
+   - **Estimated Glomerular Filtration Rate (eGFR):** 35 mL/min/1.73m²
+   - **Urine Albumin-to-Creatinine Ratio:** Elevated at 450 mg/g
+   - Awaiting results for Complete Blood Count (CBC) and Urinalysis.
+
+**3. Assessment:**
+
+   - **Chronic Kidney Disease (CKD), Stage 3 (ICD-10: N18.9):** Likely secondary to long-standing hypertension and type 2 diabetes.
+
+**4. Plan:**
+
+   **Medications:**
+   
+   - Continue Lisinopril 20 mg orally once daily.
+   - Continue Metformin 500 mg orally twice daily.
+   - Continue Atorvastatin 40 mg orally once daily.
+   - Prescribe Furosemide 40 mg orally once daily for swelling.
+
+   **Lifestyle Modifications:**
+   
+   - Increase water intake to 1.5-2 liters per day.
+   - Avoid nonsteroidal anti-inflammatory drugs (NSAIDs).
+
+   **Follow-Up:**
+   
+   - Schedule a follow-up appointment with the nephrologist in 1 month.
+   - Referral to Dietitian Dr. Sarah Johnson for renal diet education.
+
+   **Further Investigations:**
+   
+   - Renal Ultrasound to evaluate kidney size and morphology."|"**1. Subjective:**
+
+   **Chief Complaint (CC):**
+   
+   Fatigue, leg swelling, and decreased appetite.
+
+   **History of Present Illness (HPI):**
+   
+   The patient is a 65-year-old African American male who presents with complaints of fatigue, swelling in his legs, and decreased appetite for the past several months. He notes that the fatigue has been progressively worsening and is now impacting his ability to perform daily activities. The swelling in his legs is noticeable mostly at the end of the day and subsides to some degree overnight. He follows a low-sodium diet and walks 30 minutes daily but feels that his symptoms persist despite these measures.
+
+   **Review of Systems (ROS):**
+   
+   - **Constitutional:** Reports fatigue; denies fever or chills.
+   - **Cardiovascular:** Reports swelling in legs; denies chest pain or palpitations.
+   - **Gastrointestinal:** Reports decreased appetite; denies nausea or vomiting.
+   - **Genitourinary:** No reported changes in urinary habits.
+   - **Musculoskeletal:** No joint pain or stiffness reported.
+   - **Neurological:** No dizziness or headaches reported.
+
+**2. Objective:**
+
+   **Vital Signs:**
+   
+   - Blood Pressure: 145/90 mmHg
+   - Heart Rate: 80 bpm
+
+   **Physical Examination:**
+   
+   - **Cardiovascular:** Mild swelling in both legs.
+   - **Abdominal Exam:** No tenderness, slight ascites.
+   - **General:** Appears well-nourished and in no acute distress.
+
+   **Results:**
+   
+   - **Blood Urea Nitrogen (BUN):** Elevated at 30 mg/dL
+   - **Creatinine:** Elevated at 2.1 mg/dL
+   - **Estimated Glomerular Filtration Rate (eGFR):** 35 mL/min/1.73m²
+   - **Urine Albumin-to-Creatinine Ratio:** Elevated at 450 mg/g
+   - Awaiting results for Complete Blood Count (CBC) and Urinalysis.
+
+**3. Assessment:**
+
+   - **Chronic Kidney Disease (CKD), Stage 3 (ICD-10: N18.9):** Likely secondary to long-standing hypertension and type 2 diabetes.
+
+**4. Plan:**
+
+   **Medications:**
+   
+   - Continue Lisinopril 20 mg orally once daily.
+   - Continue Metformin 500 mg orally twice daily.
+   - Continue Atorvastatin 40 mg orally once daily.
+   - Prescribe Furosemide 40 mg orally once daily for swelling.
+
+   **Lifestyle Modifications:**
+   
+   - Increase water intake to 1.5-2 liters per day.
+   - Avoid nonsteroidal anti-inflammatory drugs (NSAIDs).
+
+   **Follow-Up:**
+   
+   - Schedule a follow-up appointment with the nephrologist in 1 month.
+   - Referral to Dietitian Dr. Sarah Johnson for renal diet education.
+
+   **Further Investigations:**
+   
+   - Renal Ultrasound to evaluate kidney size and morphology."|"**1. Subjective:**
+
+   **CC:**
+   
+   Fatigue, leg swelling, and decreased appetite.
+
+   **HPI:**
+   
+   The pt is a 65 y/o African American male who presents with c/o fatigue, swelling in his legs, and decreased appetite for the past several months. He notes that the fatigue has been progressively worsening and is now impacting his ability to perform ADLs. The swelling in his legs is noticeable mostly at the end of the day and subsides to some degree overnight. He follows a low-Na diet and walks 30 mins daily but feels that his sx persist despite these measures.
+
+   **ROS:**
+   
+   - **Constitutional:** Reports fatigue; denies fever or chills.
+   - **CV:** Reports swelling in legs; denies CP or palpitations.
+   - **GI:** Reports decreased appetite; denies N/V.
+   - **GU:** No reported changes in urinary habits.
+   - **MSK:** No joint pain or stiffness reported.
+   - **Neuro:** No dizziness or HA reported.
+
+**2. Objective:**
+
+   **VS:**
+   
+   - BP: 145/90 mmHg
+   - HR: 80 bpm
+
+   **PE:**
+   
+   - **CV:** Mild swelling in BLE.
+   - **Abd:** No tenderness, slight ascites.
+   - **Gen:** Appears well-nourished and in no acute distress.
+
+   **Results:**
+   
+   - **BUN:** Elevated at 30 mg/dL
+   - **Cr:** Elevated at 2.1 mg/dL
+   - **eGFR:** 35 mL/min/1.73m²
+   - **UACR:** Elevated at 450 mg/g
+   - Awaiting results for CBC and UA.
+
+**3. Assessment:**
+
+   - **CKD, Stage 3 (ICD-10: N18.9):** Likely 2° to long-standing HTN and T2DM.
+
+**4. Plan:**
+
+   **Meds:**
+   
+   - Continue Lisinopril 20 mg PO QD.
+   - Continue Metformin 500 mg PO BID.
+   - Continue Atorvastatin 40 mg PO QD.
+   - Rx Furosemide 40 mg PO QD for swelling.
+
+   **Lifestyle Mods:**
+   
+   - Increase water intake to 1.5-2 L/day.
+   - Avoid NSAIDs.
+
+   **F/U:**
+   
+   - Schedule a f/u appt with nephro in 1 month.
+   - Referral to RD Dr. Sarah Johnson for renal diet education.
+
+   **Further Investigations:**
+   
+   - Renal US to eval kidney size and morphology."|Nephrologist|"**Doctor:** Good morning, how are you today?
+
+**Patient:** Good morning, Doctor. I'm okay, just tired and a bit worried about my symptoms.
+
+**Doctor:** I understand you’re here because of fatigue, leg swelling, and decreased appetite. Can you tell me more about these symptoms?
+
+**Patient:** Yes, I've been feeling really tired for several months now. I get exhausted easily, and it's affecting my daily activities. My legs swell up mostly by the end of the day, but it gets a bit better overnight. Also, I haven't been feeling like eating much lately.
+
+**Doctor:** I see. When you say the fatigue has been worsening, can you describe how it’s impacting your daily activities?
+
+**Patient:** Well, I used to be able to do my daily walk for 30 minutes without any issues, but now I get tired halfway through. Even doing simple chores around the house feels like a big task.
+
+**Doctor:** And how about the swelling in your legs? Is it in both legs or just one?
+
+**Patient:** It's in both legs, mostly noticeable at the end of the day. They feel heavy and swollen, but the swelling goes down a bit overnight.
+
+**Doctor:** You mentioned following a low-sodium diet. How long have you been doing that?
+
+**Patient:** I've been on a low-sodium diet for about a year now, and I also try to walk every day for about 30 minutes.
+
+**Doctor:** That’s good to hear that you’re watching your diet and staying active. Have you experienced any chest pain or palpitations?
+
+**Patient:** No, I haven’t had any chest pain or palpitations.
+
+**Doctor:** How about your appetite? You mentioned it has decreased. Can you tell me more about that?
+
+**Patient:** Yes, I just don't feel like eating as much as I used to. I haven't felt nauseous or anything, just not hungry.
+
+**Doctor:** Any issues with nausea or vomiting?
+
+**Patient:** No, no nausea or vomiting.
+
+**Doctor:** How about your urinary habits? Have you noticed any changes there?
+
+**Patient:** No changes in my urinary habits.
+
+**Doctor:** What about joint pain or stiffness?
+
+**Patient:** No, I haven’t had any joint pain or stiffness.
+
+**Doctor:** Any dizziness or headaches?
+
+**Patient:** No dizziness or headaches either.
+
+**Doctor:** Thank you for providing all that information. Let's go over your vital signs and some test results. Your blood pressure today is 145/90 mmHg and your heart rate is 80 beats per minute.
+
+**Patient:** That seems a bit high, doesn’t it?
+
+**Doctor:** Yes, it is slightly elevated. We’ll need to keep an eye on it. During your physical examination, I noticed mild swelling in both legs and slight ascites in your abdomen. Have you noticed any tenderness or pain in your abdomen?
+
+**Patient:** No, I haven't felt any tenderness or pain in my abdomen.
+
+**Doctor:** Based on your blood test results, your Blood Urea Nitrogen (BUN) is elevated at 30 mg/dL, and your Creatinine is also elevated at 2.1 mg/dL. Your estimated Glomerular Filtration Rate (eGFR) is 35 mL/min/1.73m², indicating reduced kidney function.
+
+**Patient:** That doesn't sound good. What does it mean?
+
+**Doctor:** These results suggest that you have Stage 3 Chronic Kidney Disease (CKD), likely due to long-standing hypertension and type 2 diabetes. Your urine albumin-to-creatinine ratio is also elevated at 450 mg/g, indicating significant protein in your urine.
+
+**Patient:** Oh, I see. What does this mean for me?
+
+**Doctor:** It means that we need to manage your condition carefully to prevent further progression. We will continue your current medications: Lisinopril 20 mg once daily, Metformin 500 mg twice daily, and Atorvastatin 40 mg once daily. I will also prescribe Furosemide 40 mg once daily to help with the swelling in your legs.
+
+**Patient:** Okay, I understand. What else should I do?
+
+**Doctor:** I recommend increasing your water intake to 1.5-2 liters per day and avoiding nonsteroidal anti-inflammatory drugs (NSAIDs) as they can affect kidney function. Additionally, I’ll schedule a follow-up appointment with a nephrologist in one month and refer you to a dietitian, Dr. Sarah Johnson, for renal diet education.
+
+**Patient:** Alright, I’ll do that. Is there any other test I need to do?
+
+**Doctor:** Yes, we will also arrange for a renal ultrasound to evaluate the size and morphology of your kidneys. This will give us more information about your kidney health.
+
+**Patient:** Okay, I’ll make sure to get that done. 
+
+**Doctor:** Great. We are also awaiting results for your Complete Blood Count (CBC) and Urinalysis. We will review these results once they are available and adjust your treatment plan if necessary.
+
+**Patient:** Thank you, Doctor. This is a lot to take in, but I appreciate your help.
+
+**Doctor:** I understand it can be overwhelming, but we are here to help you manage your condition. Do you have any other questions or concerns?
+
+**Patient:** No, I think we’ve covered everything. 
+
+**Doctor:** Alright then. Please follow up with the nephrologist and dietitian as scheduled, and remember to keep track of your symptoms and medication intake. We’ll see you in one month for the follow-up. Take care.
+
+**Patient:** Thank you, Doctor. I’ll do that.
+
+**Doctor:** You’re welcome. Have a good day."|"[doctor]: Good morning, how are you today?
+
+[patient]: Good morning, Doctor. I'm okay, just tired and a bit worried about my symptoms.
+
+[doctor]: I understand you’re here because of fatigue, leg swelling, and decreased appetite. Can you tell me more about these symptoms?
+
+[patient]: Yes, I've been feeling really tired for several months now. I get exhausted easily, and it's affecting my daily activities. My legs swell up mostly by the end of the day, but it gets a bit better overnight. Also, I haven't been feeling like eating much lately.
+
+[doctor]: Hmm, I see. When you say the fatigue has been worsening, can you describe how it’s impacting your daily activities?
+
+[patient]: Well, I used to be able to do my daily walk for 30 minutes without any issues, but now I get tired halfway through. Even doing simple chores around the house feels like a big task.
+
+[doctor]: And how about the swelling in your legs? Is it in both legs or just one?
+
+[patient]: It's in both legs, mostly noticeable at the end of the day. They feel heavy and swollen, but the swelling goes down a bit overnight.
+
+[doctor]: You mentioned following a low-sodium diet. How long have you been doing that?
+
+[patient]: I've been on a low-sodium diet for about a year now, and I also try to walk every day for about 30 minutes.
+
+[doctor]: That’s good to hear that you’re watching your diet and staying active. Have you experienced any chest pain or palpitations?
+
+[patient]: No, I haven’t had any chest pain or palpitations.
+
+[doctor]: How about your appetite? You mentioned it has decreased. Can you tell me more about that?
+
+[patient]: Yes, I just don't feel like eating as much as I used to. I haven't felt nauseous or anything, just not hungry.
+
+[doctor]: Any issues with nausea or vomiting?
+
+[patient]: No, no nausea or vomiting.
+
+[doctor]: How about your urinary habits? Have you noticed any changes there?
+
+[patient]: No changes in my urinary habits.
+
+[doctor]: What about joint pain or stiffness?
+
+[patient]: No, I haven’t had any joint pain or stiffness.
+
+[doctor]: Any dizziness or headaches?
+
+[patient]: No dizziness or headaches either.
+
+[doctor]: Thank you for providing all that information. Let's go over your vital signs and some test results. Your blood pressure today is 145/90 mmHg, and your heart rate is 80 beats per minute.
+
+[patient]: That seems a bit high, doesn’t it?
+
+[doctor]: Yes, it is slightly elevated. We’ll need to keep an eye on it. During your physical examination, I noticed mild swelling in both legs and slight ascites in your abdomen. Have you noticed any tenderness or pain in your abdomen?
+
+[patient]: No, I haven't felt any tenderness or pain in my abdomen.
+
+[doctor]: Based on your blood test results, your Blood Urea Nitrogen (BUN) is elevated at 30 mg/dL, and your Creatinine is also elevated at 2.1 mg/dL. Your estimated Glomerular Filtration Rate (eGFR) is 35 mL/min/1.73m², indicating reduced kidney function.
+
+[patient]: That doesn't sound good. What does it mean?
+
+[doctor]: These results suggest that you have Stage 3 Chronic Kidney Disease (CKD), likely due to long-standing hypertension and type 2 diabetes. Your urine albumin-to-creatinine ratio is also elevated at 450 mg/g, indicating significant protein in your urine.
+
+[patient]: Oh, I see. What does this mean for me?
+
+[doctor]: It means that we need to manage your condition carefully to prevent further progression. We will continue your current medications: Lisinopril 20 mg once daily, Metformin 500 mg twice daily, and Atorvastatin 40 mg once daily. I will also prescribe Furosemide 40 mg once daily to help with the swelling in your legs.
+
+[patient]: Okay, I understand. What else should I do?
+
+[doctor]: I recommend increasing your water intake to 1.5-2 liters per day and avoiding nonsteroidal anti-inflammatory drugs (NSAIDs) as they can affect kidney function. Additionally, I’ll schedule a follow-up appointment with a nephrologist in one month and refer you to a dietitian, Dr. Sarah Johnson, for renal diet education.
+
+[patient]: Alright, I’ll do that. Is there any other test I need to do?
+
+[doctor]: Yes, we will also arrange for a renal ultrasound to evaluate the size and morphology of your kidneys. This will give us more information about your kidney health.
+
+[patient]: Okay, I’ll make sure to get that done.
+
+[doctor]: Great. We are also awaiting results for your Complete Blood Count (CBC) and Urinalysis. We will review these results once they are available and adjust your treatment plan if necessary.
+
+[patient]: Thank you, Doctor. This is a lot to take in, but I appreciate your help.
+
+[doctor]: I understand it can be overwhelming, but we are here to help you manage your condition. Do you have any other questions or concerns?
+
+[patient]: No, I think we’ve covered everything.
+
+[doctor]: Alright then. Please follow up with the nephrologist and dietitian as scheduled, and remember to keep track of your symptoms and medication intake. We’ll see you in one month for the follow-up. Take care.
+
+[patient]: Thank you, Doctor. I’ll do that.
+
+[doctor]: You’re welcome. Have a good day."
+CHRONIC KIDNEY DISEASE, UNSPECIFIED|"ROLE: Nephrologist
+
+**Medical Outcome:**
+- Diagnosis: Chronic Kidney Disease, unspecified
+- Prescribed Treatment: 
+  - Medication: Losartan 50 mg, oral, once daily, 30 tablets
+  - Adjustments: Reduce dietary sodium intake to <2g/day
+  - Lifestyle Change: Increase physical activity to at least 30 minutes of moderate exercise daily
+  - Referral to Dietitian for renal diet education: Dr. Susan White, specializing in nephrology nutrition
+- Blood work: 
+  - Biochemistry: Serum Creatinine, Blood Urea Nitrogen (BUN), Electrolytes
+  - Hematology: Complete Blood Count (CBC)
+  - Viral Hepatitis Panel
+- Imaging: Ultrasound of kidneys and bladder
+
+**Medical History:**
+- Previous Diagnoses: Hypertension, Type 2 Diabetes Mellitus
+- Family Medical History: Mother had hypertension and diabetes
+- Medication History: 
+  - Metformin 500mg, oral, twice daily
+  - Lisinopril 10mg, oral, once daily
+- Allergies: Penicillin (causes rash)
+
+**Symptom Description:**
+- Severity: Moderate
+- Duration: Symptoms started a few months ago but recently worsening
+- Associated Symptoms: Fatigue, swelling in lower extremities
+- Frequency: Daily
+- Impact on Daily Activities: Difficulty in performing daily tasks due to fatigue
+
+**Patient’s self-reported habits and lifestyle:**
+- Sleep: Reports difficulty sleeping, around 5-6 hours per night
+- Diet: High intake of processed and salty foods
+- Exercise: Rarely exercises, mostly sedentary lifestyle
+- Tobacco Use: 10 pack-year history, quit 5 years ago
+- Alcohol Consumption: Moderate, occasional social drinking
+- Drug Use: Denies any recreational drug use
+- Recreational Activities: Enjoys gardening, but limited due to fatigue
+
+**Demographic Information:**
+- Age: 62
+- Gender: Male
+- Ethnicity: African American
+- Socio-economic Status: Lower-middle class
+- Education Level: High school diploma
+- Health Literacy: Moderate
+- Job Status: Retired, previously worked in construction
+
+**Patient's Behavior:**
+- Cooperates well with medical advice, willing to follow prescribed treatment and lifestyle changes
+
+**Geographical Location:**
+- Big City, Urban Area
+- Neighborhood Type: Impoverished, limited access to healthy food options, well-served by public transit
+
+**Clinical Setting:**
+- Initial Consultation
+
+**Type of Encounter:**
+- Chronic Disease Management
+
+**Treatment Disparities:**
+- Patient had previously received less aggressive management due to presumed non-compliance and socio-economic barriers
+
+**Native or Non-Native English Speaking Patient:**
+- Native English speaker
+
+**Physical exams:**
+- Blood Pressure: 150/90 mmHg
+- Edema in lower extremities: 2+ bilateral pitting edema
+
+**Investigation/Test results:**
+- Awaiting: Serum Creatinine, Blood Urea Nitrogen (BUN), Electrolytes, Complete Blood Count (CBC), Viral Hepatitis Panel
+- Ultrasound of the kidneys and bladder ordered to assess structural abnormalities"|Rejected|Rejected|Rejected|Rejected||
+CHRONIC KIDNEY DISEASE, UNSPECIFIED|"ROLE: Nephrologist
+
+**Medical Outcome:**
+- Diagnosis: Chronic Kidney Disease, unspecified
+- Prescribed Treatment:
+  - Medication: Amlodipine 5 mg, oral, once daily, 30 tablets
+  - Lifestyle Change: Implement a low-protein diet
+  - Follow-up Recommendations: Monthly renal function monitoring
+  - Referral to Cardiology: Dr. Mark Evans, for hypertension management
+- Blood work:
+  - Biochemistry: Serum Creatinine, Blood Urea Nitrogen (BUN), Electrolytes, Glomerular Filtration Rate (GFR)
+  - Hematology: Hemoglobin A1c
+- Imaging: MRI of the abdomen to assess kidney structure and potential cysts
+
+**Medical History:**
+- Previous Diagnoses: Chronic Kidney Disease Stage 3, Hyperlipidemia
+- Family Medical History: Father diagnosed with CKD and heart disease
+- Medication History:
+  - Atorvastatin 20 mg, oral, once daily
+- Allergies: Sulfa drugs (causes hives)
+
+**Symptom Description:**
+- Severity: Mild to Moderate
+- Duration: Symptoms began 6 months ago, progressively worsening
+- Associated Symptoms: Occasional fatigue, nocturia
+- Frequency: Intermittent
+- Impact on Daily Activities: Limited ability to engage in physical exertion
+
+**Patient’s self-reported habits and lifestyle:**
+- Sleep: Reports restlessness, usually 7 hours per night
+- Diet: Consumes high amounts of red meat, low intake of fruits and vegetables
+- Exercise: Occasionally walks for 30 minutes, 2-3 times per week
+- Tobacco Use: Never smoked
+- Alcohol Consumption: Rarely drinks, socially once a month
+- Drug Use: Denies any drug use
+- Recreational Activities: Enjoys reading and watching movies, sedentary hobbies
+
+**Demographic Information:**
+- Age: 54
+- Gender: Female
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle class
+- Education Level: Bachelor's degree
+- Health Literacy: High
+- Job Status: Office worker, sedentary job
+
+**Patient's Behavior:**
+- Moderately cooperative with medical advice, requires frequent reinforcement
+
+**Geographical Location:**
+- Small City, Suburban Area
+- Neighborhood Type: Affluent, good access to healthcare facilities, well-served by public transit
+
+**Clinical Setting:**
+- Community Health Services
+
+**Type of Encounter:**
+- Follow-up visit
+
+**Treatment Disparities:**
+- No significant treatment disparities; patient has good access to healthcare and medication
+
+**Native or Non-Native English Speaking Patient:**
+- Native English speaker
+
+**Physical exams:**
+- Blood Pressure: 140/85 mmHg
+- General Appearance: Mild pallor, no edema in extremities
+
+**Investigation/Test results:**
+- Awaiting: Serum Creatinine, Blood Urea Nitrogen (BUN), Electrolytes, Glomerular Filtration Rate (GFR), Hemoglobin A1c
+- MRI of the abdomen ordered to assess kidney structure and potential cysts"|Rejected|Rejected|Rejected|Rejected||
+CHRONIC KIDNEY DISEASE, UNSPECIFIED|"ROLE: Nephrologist
+
+**Medical Outcome:**
+- Diagnosis: Chronic Kidney Disease, unspecified
+- Prescribed Treatment: 
+  - Medication: Hydrochlorothiazide 25 mg, oral, once daily, 30 tablets
+  - Adjustments: Limit dietary potassium intake
+  - Lifestyle Change: Advised to increase fluid intake to 2 liters per day
+  - Referral to Endocrinologist for diabetes management: Dr. Lisa Rodriguez, specializing in diabetes care
+- Imaging:
+  - Ultrasound of kidneys to assess size, structure, and presence of cysts
+
+**Medical History:**
+- Previous Diagnoses: Chronic Kidney Disease Stage 2, Hyperparathyroidism
+- Family Medical History: Sister diagnosed with Polycystic Kidney Disease (PKD)
+- Medication History:
+  - Metformin 500 mg, oral, twice daily
+- Allergies: Peanuts (causes anaphylaxis)
+
+**Symptom Description:**
+- Severity: Moderate
+- Duration: Symptoms present for 1 year, with gradual worsening
+- Associated Symptoms: Persistent itching, muscle cramps
+- Frequency: Frequent
+- Impact on Daily Activities: Difficulty sleeping due to itching, reduced energy levels affecting work
+
+**Patient’s self-reported habits and lifestyle:**
+- Sleep: Poor, wakes up frequently due to itching
+- Diet: High intake of fast food, low intake of vegetables
+- Exercise: No regular exercise routine
+- Tobacco Use: Smokes 5 cigarettes daily
+- Alcohol Consumption: Drinks beer occasionally, 2-3 times a week
+- Drug Use: Denies any use
+- Recreational Activities: Enjoys fishing, but reduced due to energy levels
+
+**Demographic Information:**
+- Age: 45
+- Gender: Female
+- Ethnicity: Hispanic
+- Socio-economic Status: Low-income
+- Education Level: Some college education
+- Health Literacy: Low
+- Job Status: Part-time retail worker
+
+**Patient's Behavior:**
+- Poor compliance with dietary recommendations, somewhat adherent to medication
+
+**Geographical Location:**
+- Rural Area
+- Neighborhood Type: Impoverished, limited access to healthcare, food desert
+
+**Clinical Setting:**
+- Hospital Outpatient Clinic
+
+**Type of Encounter:**
+- Routine Check-up
+
+**Treatment Disparities:**
+- Less aggressive follow-up due to assumptions about compliance and financial constraints
+
+**Native or Non-Native English Speaking Patient:**
+- Non-Native English speaker, primarily Spanish-speaking
+
+**Physical exams:**
+- Blood Pressure: 145/95 mmHg
+- General Appearance: Dry skin, excoriations from scratching
+
+**Investigation/Test results:**
+- Awaiting: Ultrasound of kidneys, Serum Creatinine, Blood Urea Nitrogen (BUN), Parathyroid Hormone (PTH) levels"|Rejected|Rejected|Rejected|Rejected||
+CHRONIC KIDNEY DISEASE, UNSPECIFIED|"ROLE: Nephrologist
+
+1) Medical Outcome: 
+   - Diagnosis: Chronic Kidney Disease, unspecified (ICD-10 N18.9)
+   - Prescribed Treatment: Start patient on Atorvastatin 20 mg, oral, once daily.
+   - Follow-up recommendations: Schedule follow-up appointment in 1 month.
+   - Referral to specialists: Referral to a dietitian for dietary management; Referral to vascular surgeon Dr. Nicole Brown for potential AV fistula creation.
+   - Further tests: Order renal ultrasound for a detailed evaluation of kidney structure; Blood work including complete metabolic panel (CMP), hemoglobin A1c, lipid profile, and renal function panel.
+
+2) Medical History:
+   - Previous Diagnoses: Hypertension (HTN), Type 2 Diabetes Mellitus (T2DM)
+   - Family Medical History: Father had coronary artery disease (CAD), mother had type 2 diabetes.
+   - Medication History: Metformin 1000 mg twice daily, Lisinopril 10 mg once daily.
+   - Allergies: NA
+   - Chronic Conditions: Hypertension, Type 2 Diabetes Mellitus
+
+3) Symptom Description: 
+   - Severity: Moderate fatigue, occasional leg swelling 
+   - Duration: Symptoms present for the past 6 months
+   - Associated Symptoms: Proteinuria, hypertension
+   - Frequency: Daily
+   - Impact on Daily Activities: Difficulty in performing strenuous activities, sometimes experiences shortness of breath on exertion
+
+4) Patient’s Self-Reported Habits and Lifestyle: 
+   - Sleep: Reports adequate sleep, about 7 hours per night
+   - Diet: High intake of processed foods, low intake of fresh fruits and vegetables
+   - Exercise: Limited physical activity, mostly sedentary due to job
+   - Tobacco Use: 1 pack per day smoker for 20 years
+   - Alcohol Consumption: Drinks alcohol occasionally, about 1-2 times a week
+   - Drug Use: Denies recreational drug use
+   - Recreational Activities: Enjoys watching TV and reading
+   
+5) Demographic Information:
+   - Age: 62 years
+   - Gender: Male
+   - Ethnicity: African-American
+   - Socio-economic Status: Lower-middle class
+   - Education Level: High school graduate
+   - Health Literacy: Basic understanding of health conditions
+   - Job Status: Retired factory worker
+
+6) Patient's Behavior: 
+   - The patient has been somewhat non-compliant with dietary recommendations and medications in the past but is willing to improve.
+
+7) Geographical Location:
+   - Big City vs Small City: Urban
+   - Pollution and Environmental Health Risks: Moderate air pollution
+   - Neighborhood Type: Impoverished
+   - Well-served by Transit: Yes
+   - Food Desert: Yes
+
+8) Clinical Setting: Private Practice
+
+9) Type of Encounter: Initial Consultation
+
+10) Treatment Disparities: Patient has no private insurance, making more aggressive treatments potentially cost-prohibitive.
+
+11) Native or Non-Native English-Speaking Patient: Native English Speaking
+
+12) Physical Exams: Blood pressure 150/90 mmHg, pitting edema present in both lower extremities, BMI 32. 
+
+13) Investigation/Test Results:
+   - Awaiting renal ultrasound results for detailed kidney evaluation.
+   - Blood work ordered: complete metabolic panel (CMP), hemoglobin A1c, lipid profile, renal function panel."|Rejected|Rejected|Rejected|Rejected||
+CHRONIC KIDNEY DISEASE, UNSPECIFIED|"ROLE: Nephrologist
+
+1) Medical Outcome:
+   - Diagnosis: Chronic Kidney Disease, unspecified (ICD-10 N18.9)
+   - Prescribed Treatment: Start patient on Losartan 50 mg, oral, once daily.
+   - Follow-up recommendations: Schedule follow-up appointment in 3 months.
+   - Referral to specialists: Referral to endocrinologist Dr. James Carter for diabetes management.
+   - Further tests: Order renal Doppler ultrasound; Blood work including complete metabolic panel (CMP), hemoglobin A1c, lipid profile, and renal function panel.
+
+2) Medical History:
+   - Previous Diagnoses: Hypertension (HTN)
+   - Family Medical History: Father had hypertension, no known renal conditions.
+   - Medication History: Hydrochlorothiazide 25 mg once daily for hypertension.
+   - Allergies: Penicillin (rash)
+   - Chronic Conditions: Hypertension
+
+3) Symptom Description:
+   - Severity: Mild to moderate fatigue
+   - Duration: Symptoms present for the past 3 months
+   - Associated Symptoms: Frequent urination, mild anemia
+   - Frequency: Intermittent
+   - Impact on Daily Activities: Occasional difficulty concentrating at work
+
+4) Patient’s Self-Reported Habits and Lifestyle:
+   - Sleep: Reports inadequate sleep, about 5-6 hours per night
+   - Diet: Balanced diet, but tends to consume high sodium foods 
+   - Exercise: Regular, moderate exercise, such as walking for 30 minutes daily
+   - Tobacco Use: Never smoked
+   - Alcohol Consumption: Rare, socially about once a month
+   - Drug Use: No drug use
+   - Recreational Activities: Enjoys gardening and playing with grandchildren
+
+5) Demographic Information:
+   - Age: 70 years
+   - Gender: Female
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: High understanding of health conditions
+   - Job Status: Retired teacher
+
+6) Patient's Behavior:
+   - The patient is highly compliant with medical advice and medications.
+
+7) Geographical Location:
+   - Big City vs Small City: Small City
+   - Pollution and Environmental Health Risks: Low pollution
+   - Neighborhood Type: Suburban, safe and well-served by amenities
+
+8) Clinical Setting: Hospital Outpatient Clinic
+
+9) Type of Encounter: Routine Check-up
+
+10) Treatment Disparities: None evident due to financial constraints, patient has Medicare.
+
+11) Native or Non-Native English-Speaking Patient: Non-Native English Speaking
+
+12) Physical Exams: 
+   - Blood pressure 145/85 mmHg
+   - Mild pallor noted under eyelids
+   - BMI 29
+
+13) Investigation/Test Results:
+   - Awaiting renal Doppler ultrasound results for detailed kidney assessment.
+   - Blood work ordered: complete metabolic panel (CMP), hemoglobin A1c, lipid profile, renal function panel."|Rejected|Rejected|Rejected|Rejected||
+CHRONIC KIDNEY DISEASE, UNSPECIFIED|"ROLE: Nephrologist
+
+1) Medical Outcome:
+   - Diagnosis: Chronic Kidney Disease, unspecified (ICD-10 N18.9)
+   - Prescribed Treatment: Start patient on Erythropoietin 4000 units, subcutaneous, three times weekly for anemia. 
+   - Follow-up recommendations: Schedule follow-up appointment in 6 weeks.
+   - Referral to specialists: Referral to a cardiologist Dr. Emily Harris for heart murmur evaluation.
+   - Further tests: Order echocardiogram; Blood work including complete blood count (CBC), serum ferritin, transferrin saturation, and parathyroid hormone (PTH) level.
+
+2) Medical History:
+   - Previous Diagnoses: Anemia, Chronic Obstructive Pulmonary Disease (COPD)
+   - Family Medical History: Mother had rheumatoid arthritis, no history of renal disease.
+   - Medication History: Inhaler for COPD, Iron supplements as needed.
+   - Allergies: Latex (causes rash)
+   - Chronic Conditions: COPD
+
+3) Symptom Description:
+   - Severity: Severe fatigue, shortness of breath
+   - Duration: Symptoms present for the past 8 months
+   - Associated Symptoms: Palpitations, dizziness
+   - Frequency: Daily
+   - Impact on Daily Activities: Difficulty in doing household chores and walking more than a block
+
+4) Patient’s Self-Reported Habits and Lifestyle:
+   - Sleep: Reports insomnia, about 4 hours per night
+   - Diet: Balanced diet, but low in iron
+   - Exercise: Minimal physical activity due to shortness of breath
+   - Tobacco Use: Former smoker, quit 5 years ago (40 pack-year history)
+   - Alcohol Consumption: One glass of wine on weekends
+   - Drug Use: No drug use
+   - Recreational Activities: Plays bingo with friends weekly
+
+5) Demographic Information:
+   - Age: 75 years
+   - Gender: Female
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Upper-middle class
+   - Education Level: High school graduate
+   - Health Literacy: Moderate understanding of health conditions
+   - Job Status: Retired
+
+6) Patient's Behavior:
+   - The patient is highly compliant with medical advice and medications but expresses concern about needle injections.
+
+7) Geographical Location:
+   - Big City vs Small City: Rural
+   - Pollution and Environmental Health Risks: Low pollution
+   - Neighborhood Type: Affluent, close-knit community
+
+8) Clinical Setting: Community Health Services
+
+9) Type of Encounter: Chronic Disease Management
+
+10) Treatment Disparities: None evidenced; patient has private insurance and can afford treatment.
+
+11) Native or Non-Native English-Speaking Patient: Native English Speaking
+
+12) Physical Exams:
+   - Blood pressure 135/80 mmHg
+   - Mild pallor noted, grade 2/6 systolic murmur present
+   - BMI 28
+
+13) Investigation/Test Results:
+   - Awaiting echocardiogram results for heart murmur evaluation.
+   - Blood work ordered: complete blood count (CBC), serum ferritin, transferrin saturation, parathyroid hormone (PTH) level."|Rejected|Rejected|Rejected|Rejected||

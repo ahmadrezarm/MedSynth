@@ -1,0 +1,1697 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role
+ENCOUNTER FOR OTHER SPECIFIED SPECIAL EXAMINATIONS|"ROLE: General Physician
+
+Patient Encounter Scenario:
+
+- **Medical Outcome**:
+    - Follow-up recommendations: Follow up in 3 months to reassess.
+    - Referral for further tests: Comprehensive metabolic panel (CMP) and urinalysis to evaluate overall health and kidney function.
+    - Lifestyle change: Recommended improvements in diet and exercise routine.
+    - Medication adjustment: Currently none, will consider after test results.
+    - Imaging: Ordered Abdominal Ultrasound to rule out any organ abnormalities.
+    
+- **Medical History**:
+    - Previous Diagnoses: History of hypertension, managed with lifestyle changes.
+    - Family Medical History: Father has a history of type 2 diabetes and mother has hypertension.
+    - Medication History: No long-term medications currently.
+    - Allergies: No known drug allergies.
+    - Chronic Conditions: Hypertension.
+    
+- **Symptom Description**:
+    - Severity: Generally asymptomatic but has occasional fatigue and mild abdominal discomfort.
+    - Duration: Symptoms have appeared sporadically over the past 2 months.
+    - Associated Symptoms: Rare episodes of mild nausea.
+    - Frequency: Occurs a few times a month.
+    - Impact on Daily Activities: Mild impact on daily activities, primarily when feeling fatigued.
+
+- **Patient’s self-reported habits and lifestyle**:
+    - Sleep: Reports 7-8 hours per night, but subjective sleep quality is poor.
+    - Diet: Typical American diet with moderate intake of fruits and vegetables. Tends to eat out frequently.
+    - Exercise: Irregular, exercises once a week.
+    - Tobacco Use: Non-smoker.
+    - Alcohol Consumption: Occasional social drinking, about 1-2 drinks per week.
+    - Drug Use: Denies any recreational drug use.
+    - Recreational Activities: Enjoys reading and gardening.
+
+- **Demographic Information**:
+    - Age: 45 years.
+    - Gender: Female.
+    - Ethnicity: Hispanic.
+    - Socio-economic Status: Middle class.
+    - Education Level: College graduate.
+    - Health Literacy: Adequate understanding of basic health concepts.
+    - Job Status: Marketing manager.
+
+- **Patient's Behavior**:
+    - Level of cooperation: Highly cooperative and willing to follow medical advice.
+
+- **Geographical Location**:
+    - Big City vs Small City: Lives in a suburban area of a large city.
+    - Rural vs Urban: Urban.
+    - Pollution and Environmental Health Risks: Moderate city pollution.
+    - Neighborhood Type: Affluent, well-served by public transit, and good access to healthy food options.
+
+- **Clinical Setting**:
+    - Setting: Private Practice.
+
+- **Type of Encounter**:
+    - Initial Consultation for a comprehensive health examination.
+
+- **Treatment Disparities**:
+    - None noted, patient has adequate access to healthcare and no financial issues affecting treatment options.
+
+- **Native or Non-Native English Speaking Patient**:
+    - Native English speaker.
+
+- **Physical exams**:
+    - General Examination: Unremarkable, except for mild abdominal tenderness.
+
+- **Investigation/Test results**:
+    - Tests ordered: Comprehensive metabolic panel (CMP), urinalysis, and Abdominal Ultrasound.
+    - Awaiting results: Abdominal Ultrasound (exact modality details required: Standard Abdominal Ultrasound to look for any structural abnormalities or organ enlargement)."|"#####
+**1. Subjective:**
+
+*Chief Complaint (CC):*
+Fatigue and mild abdominal discomfort.
+
+*History of Present Illness (HPI):*
+The patient is a 45-year-old Hispanic female who presents for an initial consultation for a comprehensive health examination. She reports experiencing occasional fatigue and mild abdominal discomfort over the past 2 months. These symptoms appear sporadically a few times a month. She also reports rare episodes of mild nausea but denies any significant impact on her daily activities.
+
+*Review of Systems (ROS):*
+- **General:** Occasional fatigue.
+- **Gastrointestinal:** Mild abdominal discomfort, rare mild nausea.
+- **Sleep:** Reports getting 7-8 hours per night but describes sleep quality as poor.
+- **Diet:** Consumes a typical American diet with a moderate intake of fruits and vegetables; frequently eats out.
+- **Exercise:** Exercises irregularly, about once a week.
+- **Other Habits:** Non-smoker, occasional social drinking (1-2 drinks per week), denies recreational drug use.
+- **Recreational Activities:** Enjoys reading and gardening.
+
+**2. Objective:**
+
+*Vital Signs:*
+- Blood Pressure: 128/82 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.6°F
+
+*Physical Examination Findings:*
+- **General:** Appears well-nourished and in no acute distress.
+- **Abdomen:** Mild tenderness in the lower quadrants, no masses or organomegaly detected.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, rubs, or gallops.
+- **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Extremities:** No edema or cyanosis.
+- **Neurological:** Alert and oriented, no focal deficits.
+
+*Tests Ordered:*
+- Comprehensive metabolic panel (CMP)
+- Urinalysis
+- Abdominal Ultrasound
+
+**3. Assessment:**
+
+The patient presents with occasional fatigue and mild abdominal discomfort over the past 2 months. Her hypertension is currently managed with lifestyle changes. Considering her family history of type 2 diabetes (father) and hypertension (mother), further evaluation is warranted to rule out any underlying conditions contributing to her symptoms.
+
+Differential diagnoses include:
+- Gastrointestinal issues (e.g., gastritis, peptic ulcer disease)
+- Metabolic disorders
+- Renal concerns
+
+**4. Plan:**
+
+- **Follow-up:** Schedule a follow-up visit in 3 months to reassess symptoms and review test results.
+- **Tests:** Perform a Comprehensive Metabolic Panel (CMP) and urinalysis to evaluate overall health and kidney function. Await results from the ordered Abdominal Ultrasound to rule out any structural abnormalities.
+- **Lifestyle Changes:** Recommend improvements in diet and regular exercise. Encourage the patient to consume a balanced diet rich in fruits and vegetables and to aim for regular physical activity at least 3 times a week.
+- **Medication Adjustment:** Currently, no medication adjustments are necessary. This will be reassessed after review of test results.
+- **Education:** Discuss the importance of maintaining a healthy lifestyle, including proper nutrition and regular exercise, to manage her hypertension and overall health.
+  
+The patient is highly cooperative and has a good understanding of basic health concepts. She resides in an urban area with good access to healthcare and healthy food options, which should facilitate adherence to lifestyle recommendations.
+
+#####"|"**1. Subjective:**
+
+*Chief Complaint (CC):*
+Fatigue and mild abdominal discomfort.
+
+*History of Present Illness (HPI):*
+The patient, Maria Gonzalez, is a 45-year-old Hispanic female who presents for an initial consultation for a comprehensive health examination. She reports experiencing occasional fatigue and mild abdominal discomfort over the past 2 months. These symptoms appear sporadically a few times a month. She also reports rare episodes of mild nausea but denies any significant impact on her daily activities.
+
+*Review of Systems (ROS):*
+- **General:** Occasional fatigue.
+- **Gastrointestinal:** Mild abdominal discomfort, rare mild nausea.
+- **Sleep:** Reports getting 7-8 hours per night but describes sleep quality as poor.
+- **Diet:** Consumes a typical American diet with a moderate intake of fruits and vegetables; frequently eats out.
+- **Exercise:** Exercises irregularly, about once a week.
+- **Other Habits:** Non-smoker, occasional social drinking (1-2 drinks per week), denies recreational drug use.
+- **Recreational Activities:** Enjoys reading and gardening.
+
+**2. Objective:**
+
+*Vital Signs:*
+- Blood Pressure: 128/82 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.6°F
+
+*Physical Examination Findings:*
+- **General:** Appears well-nourished and in no acute distress.
+- **Abdomen:** Mild tenderness in the lower quadrants, no masses or organomegaly detected.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, rubs, or gallops.
+- **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Extremities:** No edema or cyanosis.
+- **Neurological:** Alert and oriented, no focal deficits.
+
+**3. Assessment:**
+
+The patient presents with occasional fatigue and mild abdominal discomfort over the past 2 months. Her hypertension is currently managed with lifestyle changes. Considering her family history of type 2 diabetes (father) and hypertension (mother), further evaluation is warranted to rule out any underlying conditions contributing to her symptoms.
+
+Differential diagnoses include:
+- Gastrointestinal issues (e.g., gastritis, peptic ulcer disease)
+- Metabolic disorders
+- Renal concerns
+
+**4. Plan:**
+
+- **Follow-up:** Schedule a follow-up visit in 3 months to reassess symptoms and review test results.
+- **Tests:** Perform a Comprehensive Metabolic Panel (CMP) and urinalysis to evaluate overall health and kidney function. Await results from the ordered Abdominal Ultrasound to rule out any structural abnormalities.
+- **Lifestyle Changes:** Recommend improvements in diet and regular exercise. Encourage the patient to consume a balanced diet rich in fruits and vegetables and to aim for regular physical activity at least 3 times a week.
+- **Medication Adjustment:** Currently, no medication adjustments are necessary. This will be reassessed after review of test results.
+- **Education:** Discuss the importance of maintaining a healthy lifestyle, including proper nutrition and regular exercise, to manage her hypertension and overall health.
+
+The patient is highly cooperative and has a good understanding of basic health concepts. She resides in an urban area with good access to healthcare and healthy food options, which should facilitate adherence to lifestyle recommendations."|"**1. Subjective:**
+
+*CC:*
+Fatigue and mild abdominal discomfort.
+
+*HPI:*
+The pt, Maria Gonzalez, is a 45 y/o Hispanic F who presents for an initial consult for a comprehensive health exam. She reports experiencing occasional fatigue and mild abdominal discomfort over the past 2 mos. These sx appear sporadically a few times a month. She also reports rare episodes of mild nausea but denies any significant impact on her ADLs.
+
+*ROS:*
+- **General:** Occasional fatigue.
+- **GI:** Mild abdominal discomfort, rare mild nausea.
+- **Sleep:** Reports getting 7-8 hrs per night but describes sleep quality as poor.
+- **Diet:** Consumes a typical American diet with a moderate intake of fruits and vegetables; frequently eats out.
+- **Exercise:** Exercises irregularly, about once a week.
+- **Other Habits:** Non-smoker, occasional social drinking (1-2 drinks/wk), denies recreational drug use.
+- **Recreational Activities:** Enjoys reading and gardening.
+
+**2. Objective:**
+
+*VS:*
+- BP: 128/82 mmHg
+- HR: 72 bpm
+- RR: 16 breaths/min
+- Temp: 98.6°F
+
+*PE Findings:*
+- **General:** Appears well-nourished and in no acute distress.
+- **Abd:** Mild tenderness in the lower quadrants, no masses or organomegaly detected.
+- **CV:** Regular rate and rhythm, no murmurs, rubs, or gallops.
+- **Resp:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Ext:** No edema or cyanosis.
+- **Neuro:** Alert and oriented, no focal deficits.
+
+**3. Assessment:**
+
+The pt presents with occasional fatigue and mild abdominal discomfort over the past 2 mos. Her HTN is currently managed with lifestyle changes. Considering her FHx of T2DM (father) and HTN (mother), further eval is warranted to r/o any underlying conditions contributing to her sx.
+
+Differential dx includes:
+- GI issues (e.g., gastritis, PUD)
+- Metabolic disorders
+- Renal concerns
+
+**4. Plan:**
+
+- **F/U:** Schedule a F/U visit in 3 mos to reassess sx and review test results.
+- **Tests:** Perform a CMP and UA to evaluate overall health and kidney function. Await results from the ordered Abd US to r/o any structural abnormalities.
+- **Lifestyle Changes:** Recommend improvements in diet and regular exercise. Encourage the pt to consume a balanced diet rich in fruits and vegetables and to aim for regular physical activity at least 3x/wk.
+- **Med Adjustment:** Currently, no med adjustments are necessary. This will be reassessed after review of test results.
+- **Education:** Discuss the importance of maintaining a healthy lifestyle, including proper nutrition and regular exercise, to manage her HTN and overall health.
+
+The pt is highly cooperative and has a good understanding of basic health concepts. She resides in an urban area with good access to healthcare and healthy food options, which should facilitate adherence to lifestyle recommendations."|General Physician
+ENCOUNTER FOR OTHER SPECIFIED SPECIAL EXAMINATIONS|"ROLE: General Physician
+
+1) Medical Outcome:
+   - Diagnosis: Encounter for other specified special examinations (ICD-10 Z01.89)
+   - Order for blood work including liver function tests (biochemistry) and hepatitis panel (viral hepatitis).
+   - Referral to gastroenterologist: Dr. Maria Lopez for further evaluation of suspected liver abnormalities.
+   - Lifestyle change recommendations: Emphasizing reduction of alcohol consumption and dietary modifications.
+   - Follow-up appointment in 2 weeks to review blood test results and assess referral progress.
+
+2) Medical History:
+   - Previous Diagnoses: Mild Liver Steatosis.
+   - Family Medical History: Mother with cirrhosis of the liver, Father with hypertension.
+   - Medication History: Over-the-counter painkillers for occasional headaches.
+   - Allergies: Penicillin.
+   - Chronic Conditions: None.
+
+3) Symptom Description:
+   - Severity: Moderate to severe.
+   - Duration: 1 month.
+   - Associated Symptoms: Jaundice, abdominal pain, and fatigue.
+   - Frequency: Daily.
+   - Impact on Daily Activities: Moderate, causing difficulty in maintaining work schedule.
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Sleeps irregularly, around 4-5 hours per night.
+   - Diet: High in fats and processed foods.
+   - Exercise: Minimal physical activity.
+   - Tobacco Use: Smokes 10 cigarettes a day.
+   - Alcohol Consumption: Drinks heavily, 3-4 times a week.
+   - Drug Use: None.
+   - Recreational Activities: Frequent bar outings, minimal engagement in physical activities like sports.
+
+5) Demographic Information:
+   - Age: 42
+   - Gender: Male
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Lower middle class
+   - Education Level: High school diploma
+   - Health Literacy: Low, limited understanding of health conditions and treatments.
+   - Job Status: Works as a factory worker
+
+6) Patient's Behavior:
+   - Partially compliant with medical advice, especially overlooks lifestyle change recommendations.
+
+7) Geographical Location:
+   - Small City, Urban.
+   - Neighborhood Type: Working-class area, moderate pollution, limited access to recreational facilities.
+
+8) Clinical Setting:
+   - Community Health Services
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - Concerns about ability to pay for specialist consult.
+
+11) Native or Non-Native English Speaking Patient:
+   - Native Spanish Speaking, limited English proficiency.
+
+12) Physical exams:
+   - Full physical examination including abdominal palpation (noted tenderness), skin examination (jaundice observed), and cardiovascular assessment.
+
+13) Investigation/Test results:
+   - Blood work: Liver function tests and hepatitis panel (awaiting results)."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Moderate to severe jaundice, abdominal pain, and fatigue.
+
+**History of Present Illness (HPI):**
+The patient is a 42-year-old Hispanic male, presenting with significant jaundice, abdominal pain, and fatigue for the past month. These symptoms have been progressively worsening and occur daily. The patient reports difficulty maintaining his work schedule due to these symptoms.
+
+**Review of Systems (ROS):**
+- **General:** Fatigue and occasional headaches.
+- **Gastrointestinal:** Abdominal pain, jaundice.
+- **Musculoskeletal:** No recent joint pain.
+- **Respiratory:** No cough or shortness of breath.
+- **Cardiovascular:** No chest pain or palpitations.
+
+**2. Objective:**
+
+**Vitals:**
+- Blood pressure: 130/85 mmHg
+- Heart rate: 78 bpm
+- Respirations: 16 breaths per minute
+- Temperature: 98.6°F
+- BMI: 29.5 kg/m²
+
+**Physical Examination:**
+
+**General Appearance:**
+- Patient appears fatigued with visible jaundice.
+
+**Abdominal Examination:**
+- Tenderness noted in the right upper quadrant.
+- No hepatomegaly or splenomegaly on palpation.
+- No ascites.
+
+**Skin Examination:**
+- Jaundice observed, no rashes or lesions noted.
+
+**Cardiovascular:**
+- Heart sounds normal, no murmurs, rubs, or gallops detected.
+- Peripheral pulses normal and symmetrical.
+
+**Respiratory:**
+- Lungs clear to auscultation bilaterally, no wheezes or crackles.
+
+**Neurological:**
+- Alert and oriented to person, place, and time.
+- No focal neurological deficits.
+
+**3. Assessment:**
+
+- Encounter for other specified special examinations (ICD-10 Z01.89).
+- Suspected liver abnormalities, likely related to lifestyle factors and family history.
+- Differential diagnoses include alcoholic liver disease, viral hepatitis, or progression of mild liver steatosis.
+
+**4. Plan:**
+
+1. **Order Tests:**
+   - Blood work including liver function tests (biochemistry) and hepatitis panel (viral hepatitis) to assess liver function and determine any underlying viral infection.
+  
+2. **Referrals:**
+   - Referral to gastroenterologist, Dr. Maria Lopez, for further evaluation of suspected liver abnormalities.
+
+3. **Lifestyle Modifications:**
+   - Strongly recommend reducing alcohol consumption.
+   - Dietary modifications advised to lower fats and processed foods.
+   - Encourage increased physical activity, considering patient’s current sedentary lifestyle.
+   - Smoking cessation support and counseling.
+
+4. **Follow-Up:**
+   - Schedule a follow-up appointment in 2 weeks to review blood test results and assess progress with the gastroenterologist referral.
+
+5. **Patient Education and Counseling:**
+   - Discuss the potential seriousness of liver disease and the importance of lifestyle changes.
+   - Provide educational materials in Spanish to cater to the patient’s limited English proficiency.
+
+6. **Address Treatment Disparities:**
+   - Discuss options for financial assistance or sliding scale fees for specialist consults to alleviate concerns about the ability to pay for the consultation.
+
+**Patient Agreement:**
+The patient understands the plan and agrees to the outlined steps. He expresses concern about financial aspects but acknowledges the importance of follow-up and lifestyle changes.
+
+#####"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Moderate to severe jaundice, abdominal pain, and fatigue.
+
+**History of Present Illness (HPI):**
+The patient is a 42-year-old Hispanic male, presenting with significant jaundice, abdominal pain, and fatigue for the past month. These symptoms have been progressively worsening and occur daily. The patient reports difficulty maintaining his work schedule due to these symptoms.
+
+**Review of Systems (ROS):**
+- **General:** Fatigue and occasional headaches.
+- **Gastrointestinal:** Abdominal pain, jaundice.
+- **Musculoskeletal:** No recent joint pain.
+- **Respiratory:** No cough or shortness of breath.
+- **Cardiovascular:** No chest pain or palpitations.
+
+**2. Objective:**
+
+**Vitals:**
+- Blood pressure: 130/85 mmHg
+- Heart rate: 78 bpm
+- Respirations: 16 breaths per minute
+- Temperature: 98.6°F
+- BMI: 29.5 kg/m²
+
+**Physical Examination:**
+
+**General Appearance:**
+- Patient appears fatigued with visible jaundice.
+
+**Abdominal Examination:**
+- Tenderness noted in the right upper quadrant.
+- No hepatomegaly or splenomegaly on palpation.
+- No ascites.
+
+**Skin Examination:**
+- Jaundice observed, no rashes or lesions noted.
+
+**Cardiovascular:**
+- Heart sounds normal, no murmurs, rubs, or gallops detected.
+- Peripheral pulses normal and symmetrical.
+
+**Respiratory:**
+- Lungs clear to auscultation bilaterally, no wheezes or crackles.
+
+**Neurological:**
+- Alert and oriented to person, place, and time.
+- No focal neurological deficits.
+
+**3. Assessment:**
+
+- Encounter for other specified special examinations (ICD-10 Z01.89).
+- Suspected liver abnormalities, likely related to lifestyle factors and family history.
+- Differential diagnoses include alcoholic liver disease, viral hepatitis, or progression of mild liver steatosis.
+
+**4. Plan:**
+
+1. **Order Tests:**
+   - Blood work including liver function tests (biochemistry) and hepatitis panel (viral hepatitis) to assess liver function and determine any underlying viral infection.
+  
+2. **Referrals:**
+   - Referral to gastroenterologist, Dr. Maria Lopez, for further evaluation of suspected liver abnormalities.
+
+3. **Lifestyle Modifications:**
+   - Strongly recommend reducing alcohol consumption.
+   - Dietary modifications advised to lower fats and processed foods.
+   - Encourage increased physical activity, considering patient’s current sedentary lifestyle.
+   - Smoking cessation support and counseling.
+
+4. **Follow-Up:**
+   - Schedule a follow-up appointment in 2 weeks to review blood test results and assess progress with the gastroenterologist referral.
+
+5. **Patient Education and Counseling:**
+   - Discuss the potential seriousness of liver disease and the importance of lifestyle changes.
+   - Provide educational materials in Spanish to cater to the patient’s limited English proficiency.
+
+6. **Address Treatment Disparities:**
+   - Discuss options for financial assistance or sliding scale fees for specialist consults to alleviate concerns about the ability to pay for the consultation.
+
+**Patient Agreement:**
+The patient understands the plan and agrees to the outlined steps. He expresses concern about financial aspects but acknowledges the importance of follow-up and lifestyle changes."|"**1. Subjective:**
+
+**CC:**
+Mod-severe jaundice, abd pain, and fatigue.
+
+**HPI:**
+42 y/o Hispanic M presents with significant jaundice, abd pain, and fatigue x1 month. Symptoms progressively worsening, occurring daily. Reports difficulty maintaining work schedule due to symptoms.
+
+**ROS:**
+- **General:** Fatigue, occasional HA.
+- **GI:** Abd pain, jaundice.
+- **MSK:** No recent joint pain.
+- **Resp:** No cough or SOB.
+- **CV:** No CP or palpitations.
+
+**2. Objective:**
+
+**Vitals:**
+- BP: 130/85 mmHg
+- HR: 78 bpm
+- RR: 16
+- Temp: 98.6°F
+- BMI: 29.5 kg/m²
+
+**PE:**
+
+**General Appearance:**
+- Appears fatigued with visible jaundice.
+
+**Abd Exam:**
+- Tenderness in RUQ.
+- No HSM on palpation.
+- No ascites.
+
+**Skin Exam:**
+- Jaundice observed, no rashes or lesions.
+
+**CV:**
+- Heart sounds normal, no murmurs, rubs, or gallops.
+- Peripheral pulses normal and symmetrical.
+
+**Resp:**
+- Lungs clear to auscultation bilaterally, no wheezes or crackles.
+
+**Neuro:**
+- A&O x3.
+- No focal neuro deficits.
+
+**3. Assessment:**
+
+- Encounter for other specified special exams (ICD-10 Z01.89).
+- Suspected liver abnormalities, likely related to lifestyle factors and FHx.
+- DDx includes alcoholic liver disease, viral hepatitis, or progression of mild liver steatosis.
+
+**4. Plan:**
+
+1. **Order Tests:**
+   - Blood work including LFTs and hepatitis panel to assess liver function and determine any underlying viral infection.
+  
+2. **Referrals:**
+   - Referral to GI, Dr. Maria Lopez, for further eval of suspected liver abnormalities.
+
+3. **Lifestyle Modifications:**
+   - Strongly recommend reducing EtOH consumption.
+   - Dietary modifications advised to lower fats and processed foods.
+   - Encourage increased physical activity, considering pt’s current sedentary lifestyle.
+   - Smoking cessation support and counseling.
+
+4. **Follow-Up:**
+   - Schedule f/u in 2 weeks to review blood test results and assess progress with GI referral.
+
+5. **Patient Education and Counseling:**
+   - Discuss potential seriousness of liver disease and importance of lifestyle changes.
+   - Provide educational materials in Spanish to cater to pt’s limited English proficiency.
+
+6. **Address Treatment Disparities:**
+   - Discuss options for financial assistance or sliding scale fees for specialist consults to alleviate concerns about ability to pay for the consultation.
+
+**Patient Agreement:**
+Pt understands the plan and agrees to the outlined steps. Expresses concern about financial aspects but acknowledges importance of f/u and lifestyle changes."|General Physician
+ENCOUNTER FOR OTHER SPECIFIED SPECIAL EXAMINATIONS|"**ROLE: Family Medicine Physician**
+
+**Scenario:**
+
+- **Medical Outcome:**
+  - Prescribed medication: Fluoxetine 20 mg, oral, once daily, quantity: 30 tablets
+  - Follow-up recommendation: Schedule follow-up appointment in 2 weeks
+  - Referral for imaging: Order for MRI Brain to rule out any structural abnormalities 
+
+- **Medical History:**
+  - Previous Diagnoses: Depression, Asthma
+  - Family Medical History: Aunt had breast cancer, Father has COPD
+  - Medication History: Albuterol inhaler (use as needed), Sertraline (discontinued due to side effects)
+  - Allergies: Shellfish
+  - Chronic Conditions: Depression, Asthma
+
+- **Symptom Description:**
+  - Severity: Severe emotional distress
+  - Duration: Past 8 weeks
+  - Associated Symptoms: Insomnia, loss of appetite, fatigue
+  - Frequency: Daily
+  - Impact on Daily Activities: Unable to perform daily tasks and work duties effectively
+
+- **Patient’s Self-reported Habits and Lifestyle:**
+  - Sleep: 3-4 hours per night, difficulty staying asleep
+  - Diet: Skipping meals, mostly eating snacks
+  - Exercise: No regular exercise
+  - Tobacco Use: None
+  - Alcohol Consumption: 1-2 glasses of wine over weekends
+  - Drug Use: None
+  - Recreational Activities: Used to enjoy painting, has stopped recently
+
+- **Demographic Information:**
+  - Age: 34
+  - Gender: Female
+  - Ethnicity: Hispanic
+  - Socio-economic Status: Lower middle class
+  - Education Level: Some college education
+  - Health Literacy: Limited
+  - Job Status: Unemployed due to current emotional state
+
+- **Patient's Behavior:**
+  - Reluctant to open up initially but cooperative after trust is established
+
+- **Geographical Location:**
+  - Rural
+  - Neighborhood Type: Impoverished, limited access to public transportation, food desert
+
+- **Clinical Setting:**
+  - Mental Health Clinic within a community health center
+
+- **Type of Encounter:**
+  - Initial Consultation for acute emotional distress
+
+- **Treatment Disparities:**
+  - Barrier to accessing frequent mental health follow-ups due to low income and transportation issues
+
+- **Native or Non-Native English Speaking Patient:**
+  - Non-Native English Speaking Patient, primary language: Spanish
+
+- **Physical Exams:**
+  - General: Appears tired and distressed, poor eye contact
+  - Vitals: BP 116/72, HR 88 bpm, Weight 140 lbs, Height 5'4""
+  - Neurological: Alert and oriented, no focal deficits
+  - Respiratory: Breath sounds clear, no wheezing noted
+
+- **Investigation/Test Results:**
+  - Blood work ordered: Comprehensive Metabolic Panel (CMP), Thyroid Panel (T3, T4, TSH)
+
+This scenario involves an initial consultation for a Hispanic female presenting with severe emotional distress, combining various elements to make it distinct from previously approved scenarios."|"#### MEDICAL NOTE
+
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe emotional distress.
+
+**History of Present Illness (HPI):**
+Ms. Maria Lopez is a 34-year-old Hispanic female who presents to the clinic with complaints of severe emotional distress for the past 8 weeks. She reports experiencing insomnia, loss of appetite, and fatigue, which occur daily and have significantly impacted her ability to perform daily tasks and work duties effectively. The patient describes her sleep as fragmented, getting only 3-4 hours per night with difficulty staying asleep. She mentions skipping meals and primarily consuming snacks. She has also ceased engaging in her hobby of painting, which she used to enjoy. She denies tobacco and drug use and reports light alcohol consumption (1-2 glasses of wine over weekends). 
+
+**Review of Systems (ROS):**
+- **General:** Endorses severe fatigue, insomnia, and loss of appetite.
+- **Psychiatric:** Endorses severe emotional distress, difficulty performing daily activities, and recent cessation of recreational activities.
+- **Respiratory:** No complaints of wheezing or shortness of breath.
+- **Neurological:** No headaches, dizziness, or focal deficits.
+- **Gastrointestinal:** No nausea, vomiting, or abdominal pain.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 116/72 mmHg
+- Heart Rate: 88 bpm
+- Weight: 140 lbs
+- Height: 5'4""
+
+**Physical Examination:**
+- **General:** Patient appears tired and distressed with poor eye contact.
+- **Neurological:** Alert and oriented, no focal deficits.
+- **Respiratory:** Breath sounds clear bilaterally, no wheezing noted.
+
+**3. Assessment:**
+Ms. Maria Lopez is a 34-year-old Hispanic female with a past medical history significant for depression and asthma, presenting with severe emotional distress, insomnia, loss of appetite, and fatigue for the past 8 weeks.
+
+- **Major Depressive Disorder:**
+  - **Medical Reasoning:** Patient exhibits classic symptoms of depression, including severe emotional distress, insomnia, fatigue, and loss of interest in formerly enjoyable activities.
+  - **Supporting Data:** History of depression, severity and impact on daily activities, family history of mental health issues.
+
+**4. Plan:**
+
+- **Medication:**
+  - Prescribed Fluoxetine 20 mg, oral, once daily, quantity: 30 tablets.
+  
+- **Referral:**
+  - Order an MRI of the brain to rule out any structural abnormalities.
+  
+- **Follow-Up:**
+  - Schedule a follow-up appointment in 2 weeks to review progress and make any necessary adjustments to treatment.
+  
+- **Counseling and Patient Education:**
+  - Discussed the importance of medication adherence and potential side effects of Fluoxetine.
+  - Encouraged patient to establish a regular sleep routine and small, frequent, nutritious meals.
+  - Recommended resuming light physical activity as tolerated.
+  - Provided information on local support groups and mental health resources.
+  
+- **Additional Testing:**
+  - Blood work ordered: Comprehensive Metabolic Panel (CMP), Thyroid Panel (T3, T4, TSH) to rule out any underlying metabolic or thyroid issues contributing to her symptoms.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan. Discussed the potential barriers to accessing frequent follow-ups due to her socioeconomic status and transportation issues, and the clinic will assist in coordinating care, possibly utilizing telehealth options where feasible.
+
+**Interpreter Services:**
+Interpreter services were utilized throughout the consultation to ensure clear communication due to the patient's primary language being Spanish.
+
+---
+
+This detailed note provides a comprehensive view of Ms. Lopez's current health status, her symptoms, and the planned approach to her treatment, all documented in a manner that adheres to clinical documentation standards."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe emotional distress.
+
+**History of Present Illness (HPI):**
+Ms. Maria Lopez is a 34-year-old Hispanic female who presents to the clinic with complaints of severe emotional distress for the past 8 weeks. She reports experiencing insomnia, loss of appetite, and fatigue, which occur daily and have significantly impacted her ability to perform daily tasks and work duties effectively. The patient describes her sleep as fragmented, getting only 3-4 hours per night with difficulty staying asleep. She mentions skipping meals and primarily consuming snacks. She has also ceased engaging in her hobby of painting, which she used to enjoy. She denies tobacco and drug use and reports light alcohol consumption (1-2 glasses of wine over weekends). 
+
+**Review of Systems (ROS):**
+- **General:** Endorses severe fatigue, insomnia, and loss of appetite.
+- **Psychiatric:** Endorses severe emotional distress, difficulty performing daily activities, and recent cessation of recreational activities.
+- **Respiratory:** No complaints of wheezing or shortness of breath.
+- **Neurological:** No headaches, dizziness, or focal deficits.
+- **Gastrointestinal:** No nausea, vomiting, or abdominal pain.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 116/72 mmHg
+- Heart Rate: 88 bpm
+- Weight: 140 lbs
+- Height: 5'4""
+
+**Physical Examination:**
+- **General:** Patient appears tired and distressed with poor eye contact.
+- **Neurological:** Alert and oriented, no focal deficits.
+- **Respiratory:** Breath sounds clear bilaterally, no wheezing noted.
+
+**3. Assessment:**
+Ms. Maria Lopez is a 34-year-old Hispanic female with a past medical history significant for depression and asthma, presenting with severe emotional distress, insomnia, loss of appetite, and fatigue for the past 8 weeks.
+
+- **Major Depressive Disorder:**
+  - **Medical Reasoning:** Patient exhibits classic symptoms of depression, including severe emotional distress, insomnia, fatigue, and loss of interest in formerly enjoyable activities.
+  - **Supporting Data:** History of depression, severity and impact on daily activities, family history of mental health issues.
+
+**4. Plan:**
+
+- **Medication:**
+  - Prescribed Fluoxetine 20 mg, oral, once daily, quantity: 30 tablets.
+  
+- **Referral:**
+  - Referral to Dr. John Smith, Psychiatry, for further evaluation and management of Major Depressive Disorder.
+  
+- **Follow-Up:**
+  - Schedule a follow-up appointment in 2 weeks to review progress and make any necessary adjustments to treatment.
+  
+- **Counseling and Patient Education:**
+  - Discussed the importance of medication adherence and potential side effects of Fluoxetine.
+  - Encouraged patient to establish a regular sleep routine and small, frequent, nutritious meals.
+  - Recommended resuming light physical activity as tolerated.
+  - Provided information on local support groups and mental health resources.
+  
+- **Additional Testing:**
+  - Blood work ordered: Comprehensive Metabolic Panel (CMP), Thyroid Panel (T3, T4, TSH) to rule out any underlying metabolic or thyroid issues contributing to her symptoms.
+  - Order an MRI of the brain to rule out any structural abnormalities.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan. Discussed the potential barriers to accessing frequent follow-ups due to her socioeconomic status and transportation issues, and the clinic will assist in coordinating care, possibly utilizing telehealth options where feasible.
+
+**Interpreter Services:**
+Interpreter services were utilized throughout the consultation to ensure clear communication due to the patient's primary language being Spanish."|"**1. Subjective:**
+
+**CC:**
+Severe emotional distress.
+
+**HPI:**
+Ms. Maria Lopez is a 34 y/o Hispanic F who presents to the clinic with c/o severe emotional distress x8 weeks. She reports experiencing insomnia, loss of appetite, and fatigue, which occur daily and have significantly impacted her ability to perform ADLs and work duties effectively. The pt describes her sleep as fragmented, getting only 3-4 hrs/night with difficulty staying asleep. She mentions skipping meals and primarily consuming snacks. She has also ceased engaging in her hobby of painting, which she used to enjoy. She denies tobacco and drug use and reports light ETOH consumption (1-2 glasses of wine over weekends).
+
+**ROS:**
+- **General:** Endorses severe fatigue, insomnia, and loss of appetite.
+- **Psych:** Endorses severe emotional distress, difficulty performing ADLs, and recent cessation of recreational activities.
+- **Resp:** No c/o wheezing or SOB.
+- **Neuro:** No HA, dizziness, or focal deficits.
+- **GI:** No N/V or abdominal pain.
+
+**2. Objective:**
+
+**VS:**
+- BP: 116/72 mmHg
+- HR: 88 bpm
+- Wt: 140 lbs
+- Ht: 5'4""
+
+**PE:**
+- **General:** Pt appears tired and distressed with poor eye contact.
+- **Neuro:** A&O x3, no focal deficits.
+- **Resp:** Breath sounds clear bilaterally, no wheezing noted.
+
+**3. Assessment:**
+Ms. Maria Lopez is a 34 y/o Hispanic F with PMH significant for depression and asthma, presenting with severe emotional distress, insomnia, loss of appetite, and fatigue x8 weeks.
+
+- **MDD:**
+  - **Medical Reasoning:** Pt exhibits classic sx of depression, including severe emotional distress, insomnia, fatigue, and loss of interest in formerly enjoyable activities.
+  - **Supporting Data:** Hx of depression, severity and impact on ADLs, FHx of mental health issues.
+
+**4. Plan:**
+
+- **Rx:**
+  - Prescribed Fluoxetine 20 mg PO QD, qty: 30 tabs.
+  
+- **Referral:**
+  - Referral to Dr. John Smith, Psych, for further eval and mgmt of MDD.
+  
+- **F/U:**
+  - Schedule a F/U appt in 2 weeks to review progress and make any necessary adjustments to tx.
+  
+- **Counseling and Pt Ed:**
+  - Discussed the importance of med adherence and potential SE of Fluoxetine.
+  - Encouraged pt to establish a regular sleep routine and small, frequent, nutritious meals.
+  - Recommended resuming light physical activity as tolerated.
+  - Provided info on local support groups and mental health resources.
+  
+- **Additional Testing:**
+  - Blood work ordered: CMP, Thyroid Panel (T3, T4, TSH) to r/o any underlying metabolic or thyroid issues contributing to her sx.
+  - Order an MRI of the brain to r/o any structural abnormalities.
+
+**Pt Agreements:**
+The pt understands and agrees with the recommended medical tx plan. Discussed the potential barriers to accessing frequent F/U due to her socioeconomic status and transportation issues, and the clinic will assist in coordinating care, possibly utilizing telehealth options where feasible.
+
+**Interpreter Services:**
+Interpreter services were utilized throughout the consultation to ensure clear communication due to the pt's primary language being Spanish."|Family Medicine Physician**
+ENCOUNTER FOR OTHER SPECIFIED SPECIAL EXAMINATIONS|"ROLE: Family Medicine Physician
+
+1) Medical Outcome:
+   - Prescribed Medication: Metformin 500 mg twice daily, 60 tablets, oral
+   - Follow-up recommendations: Return in 3 months for HbA1c evaluation
+   - Referral: Dietitian for dietary counseling to manage diabetes
+
+2) Medical History:
+   - Previous Diagnoses: Polycystic Ovary Syndrome (PCOS), Obesity
+   - Medication History: Previously on contraceptive pills for PCOS
+   - Allergies: No known drug allergies
+   - Chronic Conditions: Newly diagnosed Type 2 Diabetes Mellitus
+
+3) Symptom Description:
+   - Severity: Moderate fatigue, frequent urination, excessive thirst
+   - Duration: 3 months
+   - Associated Symptoms: Unintentional weight loss, blurred vision
+   - Frequency: Daily
+   - Impact on Daily Activities: Difficulty in maintaining energy levels at work
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: 7-8 hours per night, generally good quality
+   - Diet: High carbohydrate intake, frequent consumption of sugary beverages
+   - Exercise: Sedentary lifestyle, minimal physical activity
+   - Tobacco Use: Occasional smoker, 1-2 cigarettes per week
+   - Alcohol Consumption: Social drinker, 2-3 drinks on weekends
+   - Drug Use: None
+   - Recreational Activities: Enjoys knitting and watching TV
+
+5) Demographic Information:
+   - Age: 45
+   - Gender: Female
+   - Ethnicity: Asian
+   - Socio-economic Status: Middle class
+   - Education Level: High School Diploma
+   - Health Literacy: Moderate
+   - Job Status: Administrative Assistant
+
+6) Patient's Behavior:
+   - Motivated to make lifestyle changes but finds it challenging
+
+7) Geographical Location:
+   - Small City
+   - Urban
+   - Pollution and Environmental Health Risks: Moderate
+   - Neighborhood Type: Well-served by transit, access to local markets and healthcare
+
+8) Clinical Setting:
+   - Community Health Services
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - NA
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English Speaking Patient
+
+12) Physical exams:
+   - General physical examination: Normal
+   - Blood pressure: 140/90 mmHg
+   - BMI: 32 kg/m²
+
+13) Investigation/Test results:
+   - Recent lab results: HbA1c 8.2%, Fasting Blood Glucose 160 mg/dL"|"**1. Subjective:**
+
+    **Chief Complaint (CC):**
+    - Moderate fatigue, frequent urination, and excessive thirst for the past three months.
+
+    **History of Present Illness (HPI):**
+    - The patient, a 45-year-old Asian female, reports experiencing moderate fatigue, frequent urination, and excessive thirst for the past three months. She also notes unintentional weight loss and occasional blurred vision. These symptoms occur daily and significantly impact her energy levels at work.
+
+    **Review of Systems (ROS):**
+    - Constitutional: Reports moderate fatigue and unintentional weight loss.
+    - Eyes: Reports occasional blurred vision.
+    - Genitourinary: Reports frequent urination.
+    - Endocrine: Reports excessive thirst.
+    - Musculoskeletal: Denies any joint pain or muscle weakness.
+    - Neurological: Denies headaches or dizziness.
+
+**2. Objective:**
+
+    **Vitals:**
+    - BP: 140/90 mmHg.
+    - BMI: 32 kg/m².
+
+    **Physical Exam:**
+    - General: Well-nourished, moderately obese female in no acute distress.
+    - HEENT: Normocephalic, atraumatic; no thyroid enlargement.
+    - Cardiovascular: Regular rate and rhythm, no murmurs.
+    - Respiratory: Clear to auscultation bilaterally.
+    - Abdomen: Soft, non-tender, no hepatosplenomegaly.
+    - Extremities: No edema, pulses 2+ bilaterally.
+    - Neurological: Alert and oriented, no focal deficits.
+
+    **Laboratory Results:**
+    - HbA1c: 8.2%.
+    - Fasting Blood Glucose: 160 mg/dL.
+
+**3. Assessment:**
+
+    **1. Type 2 Diabetes Mellitus:**
+    - Medical Reasoning: Elevated HbA1c (8.2%) and fasting blood glucose (160 mg/dL) confirm the diagnosis of Type 2 Diabetes Mellitus.
+    - Differential Diagnosis: Given the patient's symptoms and diagnostic results, Type 2 Diabetes Mellitus is the primary diagnosis.
+
+    **2. Obesity:**
+    - Medical Reasoning: BMI of 32 kg/m² indicates obesity, which is a risk factor for Type 2 Diabetes Mellitus.
+
+    **3. Polycystic Ovary Syndrome (PCOS):**
+    - Medical Reasoning: Known history of PCOS, which is associated with insulin resistance and increased risk of Type 2 Diabetes Mellitus.
+  
+**4. Plan:**
+
+    **Medical Treatment:**
+    - Prescribe Metformin 500 mg twice daily, 60 tablets, oral.
+
+    **Patient Education and Counseling:**
+    - Discuss the importance of blood glucose control and lifestyle changes including diet and exercise.
+    - Referral to a dietitian for dietary counseling to manage diabetes.
+    - Educate the patient on the potential side effects of Metformin and the importance of adherence to prescribed medication.
+
+    **Lifestyle Modification Recommendations:**
+    - Encourage the patient to reduce high carbohydrate intake and sugary beverages.
+    - Recommend starting a light exercise regimen, such as daily walking.
+    - Advise on smoking cessation and reducing alcohol consumption.
+
+    **Follow-Up:**
+    - Schedule a follow-up appointment in 3 months for HbA1c evaluation.
+
+    **Patient Agreements:**
+    - The patient understands and agrees with the recommended medical treatment plan and lifestyle modifications.
+
+**INSTRUCTIONS:**
+- The patient will follow-up in 3 months or sooner if symptoms worsen or new symptoms develop."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+- Moderate fatigue, frequent urination, and excessive thirst for the past three months.
+
+**History of Present Illness (HPI):**
+- The patient, a 45-year-old Asian female, reports experiencing moderate fatigue, frequent urination, and excessive thirst for the past three months. She also notes unintentional weight loss and occasional blurred vision. These symptoms occur daily and significantly impact her energy levels at work.
+
+**Review of Systems (ROS):**
+- Constitutional: Reports moderate fatigue and unintentional weight loss.
+- Eyes: Reports occasional blurred vision.
+- Genitourinary: Reports frequent urination.
+- Endocrine: Reports excessive thirst.
+- Musculoskeletal: Denies any joint pain or muscle weakness.
+- Neurological: Denies headaches or dizziness.
+
+**2. Objective:**
+
+**Vitals:**
+- BP: 140/90 mmHg.
+- BMI: 32 kg/m².
+
+**Physical Exam:**
+- General: Well-nourished, moderately obese female in no acute distress.
+- HEENT: Normocephalic, atraumatic; no thyroid enlargement.
+- Cardiovascular: Regular rate and rhythm, no murmurs.
+- Respiratory: Clear to auscultation bilaterally.
+- Abdomen: Soft, non-tender, no hepatosplenomegaly.
+- Extremities: No edema, pulses 2+ bilaterally.
+- Neurological: Alert and oriented, no focal deficits.
+
+**Laboratory Results:**
+- HbA1c: 8.2%.
+- Fasting Blood Glucose: 160 mg/dL.
+
+**3. Assessment:**
+
+**1. Type 2 Diabetes Mellitus:**
+- Medical Reasoning: Elevated HbA1c (8.2%) and fasting blood glucose (160 mg/dL) confirm the diagnosis of Type 2 Diabetes Mellitus.
+- Differential Diagnosis: Given the patient's symptoms and diagnostic results, Type 2 Diabetes Mellitus is the primary diagnosis.
+
+**2. Obesity:**
+- Medical Reasoning: BMI of 32 kg/m² indicates obesity, which is a risk factor for Type 2 Diabetes Mellitus.
+
+**3. Polycystic Ovary Syndrome (PCOS):**
+- Medical Reasoning: Known history of PCOS, which is associated with insulin resistance and increased risk of Type 2 Diabetes Mellitus.
+
+**4. Plan:**
+
+**Medical Treatment:**
+- Prescribe Metformin 500 mg twice daily, 60 tablets, oral.
+
+**Patient Education and Counseling:**
+- Discuss the importance of blood glucose control and lifestyle changes including diet and exercise.
+- Referral to a dietitian for dietary counseling to manage diabetes.
+- Educate the patient on the potential side effects of Metformin and the importance of adherence to prescribed medication.
+
+**Lifestyle Modification Recommendations:**
+- Encourage the patient to reduce high carbohydrate intake and sugary beverages.
+- Recommend starting a light exercise regimen, such as daily walking.
+- Advise on smoking cessation and reducing alcohol consumption.
+
+**Follow-Up:**
+- Schedule a follow-up appointment in 3 months for HbA1c evaluation.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended medical treatment plan and lifestyle modifications.
+
+**INSTRUCTIONS:**
+- The patient will follow-up in 3 months or sooner if symptoms worsen or new symptoms develop."|"**1. Subjective:**
+
+**CC:**
+- Moderate fatigue, polyuria, and polydipsia for the past three months.
+
+**HPI:**
+- The pt, a 45 y/o Asian F, reports experiencing moderate fatigue, polyuria, and polydipsia for the past three months. She also notes unintentional wt loss and occasional blurred vision. These sx occur daily and significantly impact her energy levels at work.
+
+**ROS:**
+- Constitutional: Reports moderate fatigue and unintentional wt loss.
+- Eyes: Reports occasional blurred vision.
+- GU: Reports polyuria.
+- Endo: Reports polydipsia.
+- MSK: Denies any joint pain or muscle weakness.
+- Neuro: Denies HA or dizziness.
+
+**2. Objective:**
+
+**Vitals:**
+- BP: 140/90 mmHg.
+- BMI: 32 kg/m².
+
+**PE:**
+- General: Well-nourished, moderately obese F in NAD.
+- HEENT: NC/AT; no thyroid enlargement.
+- CV: RRR, no murmurs.
+- Resp: CTA bilaterally.
+- Abd: Soft, non-tender, no HSM.
+- Ext: No edema, pulses 2+ bilaterally.
+- Neuro: A&O, no focal deficits.
+
+**Labs:**
+- HbA1c: 8.2%.
+- FBG: 160 mg/dL.
+
+**3. Assessment:**
+
+**1. T2DM:**
+- Medical Reasoning: Elevated HbA1c (8.2%) and FBG (160 mg/dL) confirm the dx of T2DM.
+- Differential Dx: Given the pt's sx and diagnostic results, T2DM is the primary dx.
+
+**2. Obesity:**
+- Medical Reasoning: BMI of 32 kg/m² indicates obesity, which is a risk factor for T2DM.
+
+**3. PCOS:**
+- Medical Reasoning: Known hx of PCOS, which is associated with insulin resistance and increased risk of T2DM.
+
+**4. Plan:**
+
+**Rx:**
+- Metformin 500 mg BID, 60 tabs, PO.
+
+**Pt Education and Counseling:**
+- Discuss the importance of BG control and lifestyle changes including diet and exercise.
+- Referral to RD for dietary counseling to manage DM.
+- Educate the pt on the potential SE of Metformin and the importance of adherence to prescribed med.
+
+**Lifestyle Modifications:**
+- Encourage the pt to reduce high carb intake and sugary beverages.
+- Recommend starting a light exercise regimen, such as daily walking.
+- Advise on smoking cessation and reducing EtOH consumption.
+
+**F/U:**
+- Schedule a F/U appt in 3 months for HbA1c evaluation.
+
+**Pt Agreements:**
+- The pt understands and agrees with the recommended medical tx plan and lifestyle modifications.
+
+**INSTRUCTIONS:**
+- The pt will F/U in 3 months or sooner if sx worsen or new sx develop."|Family Medicine Physician
+ENCOUNTER FOR OTHER SPECIFIED SPECIAL EXAMINATIONS|"ROLE: Family Medicine Physician
+
+Demographic Information:
+- Age: 45
+- Gender: Female
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle-class
+- Education Level: College Graduate
+- Health Literacy: High
+- Job Status: Employed (Office Worker)
+
+Clinical Setting: Routine Check-up at a Private Practice
+
+Type of Encounter: Initial Consultation
+
+Geographical Location: Urban, Affluent Neighborhood
+
+Medical History:
+- Previous Diagnoses: Hypertension for 10 years
+- Family Medical History: Father had coronary artery disease, Mother has osteoporosis
+- Medication History: Takes lisinopril 10 mg once daily
+- Allergies: Penicillin (causes rash)
+- Chronic Conditions: Hypertension
+
+Symptom Description: 
+- N/A (As it is an encounter for a specified special examination)
+
+Patient’s self-reported habits and lifestyle:
+- Sleep: Reports 7-8 hours of sleep daily, feels rested
+- Diet: Balanced diet, includes fruits, vegetables, lean proteins, and whole grains
+- Exercise: Exercises 3 times weekly (yoga and jogging)
+- Tobacco Use: None
+- Alcohol Consumption: Occasional (1-2 glasses of wine per week)
+- Drug Use: None
+- Recreational Activities: Enjoys gardening and reading
+
+Patient's Behavior:
+- Highly cooperative, eager to follow medical advice
+
+Physical Exam:
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 75 bpm
+- Respiratory Rate: 16 breaths per minute
+- BMI: 24.5 (Normal weight)
+- General Appearance: Well-nourished and well-developed, no acute distress
+
+Investigation/Test results:
+- Awaiting results for routine blood work including Complete Blood Count (CBC), Comprehensive Metabolic Panel (CMP), Lipid Panel, Thyroid Function Tests (TFTs), Hemoglobin A1c
+
+Medical Outcome:
+- Diagnosis: Encounter for other specified special examinations (ICD-10 code Z01.89)
+- Prescribed Treatment: Continue lisinopril 10 mg once daily
+- Follow-up Recommendations: Return in 6 months for a follow-up appointment
+- Referral to Specialists: None at this time
+- Referral to Further Tests/Imaging: None at this time
+- Medication Adjustment: Not needed at this time
+- Lifestyle Change: Continue current lifestyle habits (exercise, diet)
+- Patient Education and Counseling: Discussed the importance of regular check-ups and monitoring blood pressure tightly due to hypertension and family history of coronary artery disease. Reinforced adherence to antihypertensive medication.
+- Additional Orders: N/A"|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Routine check-up.
+
+**History of Present Illness (HPI):**  
+The patient is a 45-year-old Caucasian female presenting for a routine check-up. She has a history of hypertension for 10 years, well-managed on lisinopril 10 mg once daily. She reports good adherence to medication with no side effects. She has no current complaints of symptoms or urgent health issues. 
+
+**Review of Systems (ROS):**  
+- **Constitutional:** Negative for fever, chills, weight loss, or night sweats.
+- **Cardiovascular:** No chest pain, palpitations, or dyspnea.
+- **Respiratory:** No cough, wheezing, or shortness of breath.
+- **Gastrointestinal:** No nausea, vomiting, diarrhea, or constipation.
+- **Genitourinary:** No dysuria, frequency, or hematuria.
+- **Musculoskeletal:** No joint pain, swelling, or muscle weakness.
+- **Neurological:** No headaches, dizziness, or tingling.
+- **Psychological:** No anxiety or depression.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 75 bpm
+- Respiratory Rate: 16 breaths per minute
+- BMI: 24.5 (Normal weight)
+
+**General Appearance:**  
+Well-nourished and well-developed, no acute distress.
+
+**Physical Exam:**
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, gallops, or rubs.
+- **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Abdominal:** Soft, non-tender, no hepatosplenomegaly.
+- **Extremities:** No edema, pulses 2+ and equal bilaterally.
+- **Skin:** No rashes or lesions.
+- **Neurological:** Alert and oriented, cranial nerves II-XII intact.
+
+**3. Assessment:**
+
+Encounter for other specified special examinations (ICD-10 code Z01.89).
+
+**4. Plan:**
+
+**Recommendations:**
+- Continue current medication: lisinopril 10 mg once daily.
+- Maintain current lifestyle habits, including a balanced diet and regular physical activity.
+- Return for routine follow-up in 6 months.
+- Regular monitoring of blood pressure at home.
+
+**Patient Education and Counseling:**
+- Discussed the importance of regular check-ups and tightly monitoring blood pressure due to hypertension and family history of coronary artery disease. 
+- Reinforced the necessity of adherence to antihypertensive medication.
+- Advised the patient to report any new symptoms or side effects from medication.
+
+**Additional Orders:**
+- Await results for routine blood work: CBC, CMP, Lipid Panel, TFTs, Hemoglobin A1c.
+- No referrals or further tests/imaging required at this time.
+
+**Follow-up:**
+- Schedule a follow-up appointment in 6 months for ongoing management and monitoring."|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Routine check-up.
+
+**History of Present Illness (HPI):**  
+The patient, named Emily Johnson, is a 45-year-old Caucasian female presenting for a routine check-up. She has a history of hypertension for 10 years, well-managed on lisinopril 10 mg once daily. She reports good adherence to medication with no side effects. She has no current complaints of symptoms or urgent health issues. 
+
+**Review of Systems (ROS):**  
+- **Constitutional:** Negative for fever, chills, weight loss, or night sweats.
+- **Cardiovascular:** No chest pain, palpitations, or dyspnea.
+- **Respiratory:** No cough, wheezing, or shortness of breath.
+- **Gastrointestinal:** No nausea, vomiting, diarrhea, or constipation.
+- **Genitourinary:** No dysuria, frequency, or hematuria.
+- **Musculoskeletal:** No joint pain, swelling, or muscle weakness.
+- **Neurological:** No headaches, dizziness, or tingling.
+- **Psychological:** No anxiety or depression.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 75 bpm
+- Respiratory Rate: 16 breaths per minute
+- BMI: 24.5 (Normal weight)
+
+**General Appearance:**  
+Well-nourished and well-developed, no acute distress.
+
+**Physical Exam:**
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, gallops, or rubs.
+- **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Abdominal:** Soft, non-tender, no hepatosplenomegaly.
+- **Extremities:** No edema, pulses 2+ and equal bilaterally.
+- **Skin:** No rashes or lesions.
+- **Neurological:** Alert and oriented, cranial nerves II-XII intact.
+
+**3. Assessment:**
+
+Encounter for other specified special examinations (ICD-10 code Z01.89).
+
+**4. Plan:**
+
+**Recommendations:**
+- Continue current medication: lisinopril 10 mg once daily.
+- Maintain current lifestyle habits, including a balanced diet and regular physical activity.
+- Return for routine follow-up in 6 months.
+- Regular monitoring of blood pressure at home.
+
+**Patient Education and Counseling:**
+- Discussed the importance of regular check-ups and tightly monitoring blood pressure due to hypertension and family history of coronary artery disease. 
+- Reinforced the necessity of adherence to antihypertensive medication.
+- Advised the patient to report any new symptoms or side effects from medication.
+
+**Additional Orders:**
+- Await results for routine blood work: CBC, CMP, Lipid Panel, TFTs, Hemoglobin A1c.
+
+**Follow-up:**
+- Schedule a follow-up appointment in 6 months for ongoing management and monitoring."|"**1. Subjective:**
+
+**CC:**  
+Routine check-up.
+
+**HPI:**  
+The pt, named Emily Johnson, is a 45 y/o Caucasian F presenting for a routine check-up. She has a hx of HTN for 10 yrs, well-managed on lisinopril 10 mg QD. She reports good adherence to med with no SEs. She has no current c/o sx or urgent health issues.
+
+**ROS:**  
+- **Constitutional:** Negative for fever, chills, wt loss, or night sweats.
+- **CV:** No CP, palpitations, or dyspnea.
+- **Resp:** No cough, wheezing, or SOB.
+- **GI:** No N/V/D or constipation.
+- **GU:** No dysuria, frequency, or hematuria.
+- **MSK:** No joint pain, swelling, or muscle weakness.
+- **Neuro:** No HA, dizziness, or tingling.
+- **Psych:** No anxiety or depression.
+
+**2. Objective:**
+
+**VS:**
+- BP: 130/85 mmHg
+- HR: 75 bpm
+- RR: 16 bpm
+- BMI: 24.5 (Normal wt)
+
+**General Appearance:**  
+Well-nourished and well-developed, no acute distress.
+
+**PE:**
+- **CV:** RRR, no murmurs, gallops, or rubs.
+- **Resp:** CTA bilaterally, no wheezes, rales, or rhonchi.
+- **Abd:** Soft, non-tender, no HSM.
+- **Ext:** No edema, pulses 2+ and equal bilaterally.
+- **Skin:** No rashes or lesions.
+- **Neuro:** A&O, CN II-XII intact.
+
+**3. Assessment:**
+
+Encounter for other specified special examinations (ICD-10 code Z01.89).
+
+**4. Plan:**
+
+**Recommendations:**
+- Continue current med: lisinopril 10 mg QD.
+- Maintain current lifestyle habits, including a balanced diet and regular physical activity.
+- Return for routine F/U in 6 mos.
+- Regular monitoring of BP at home.
+
+**Pt Education and Counseling:**
+- Discussed the importance of regular check-ups and tightly monitoring BP due to HTN and FHx of CAD. 
+- Reinforced the necessity of adherence to antihypertensive med.
+- Advised the pt to report any new sx or SEs from med.
+
+**Additional Orders:**
+- Await results for routine blood work: CBC, CMP, Lipid Panel, TFTs, HbA1c.
+
+**F/U:**
+- Schedule a F/U appt in 6 mos for ongoing mgmt and monitoring."|Family Medicine Physician
+ENCOUNTER FOR OTHER SPECIFIED SPECIAL EXAMINATIONS|"ROLE: Family Medicine Physician
+
+1) Medical Outcome:
+   - Full physical examination, including blood pressure, heart rate, respiratory rate, weight, and BMI.
+   - Order for blood work including a comprehensive metabolic panel (biochemistry), complete blood count (hematology), lipid panel, and thyroid function tests.
+   - Order for imaging: Chest X-ray to assess lung health.
+   - Lifestyle change recommendations: Emphasizing on diet and exercise.
+   - Follow-up appointment in 4 weeks to review results and overall health assessment.
+
+2) Medical History:
+   - Previous Diagnoses: Hypertension, High Cholesterol.
+   - Family Medical History: Father with type 2 diabetes and coronary artery disease, Mother with hypothyroidism.
+   - Medication History: Amlodipine 5 mg once daily, Atorvastatin 20 mg once daily.
+   - Allergies: None.
+   - Chronic Conditions: Hypertension.
+
+3) Symptom Description:
+   - Duration: N/A (visit for routine examination).
+   - Frequency: N/A.
+   - Severity: N/A.
+   - Associated Symptoms: Occasional headaches, mild fatigue.
+   - Impact on Daily Activities: Minimal.
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Sleeps 6-7 hours per night, occasionally disrupted.
+   - Diet: Moderate diet, tends to eat out several times a week.
+   - Exercise: Sedentary lifestyle, minimal physical activity.
+   - Tobacco Use: None.
+   - Alcohol Consumption: Drinks socially, 1-2 times per week.
+   - Drug Use: None.
+   - Recreational Activities: Enjoys watching television, minimal outdoor activities.
+
+5) Demographic Information:
+   - Age: 58
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: Bachelor's degree
+   - Health Literacy: Moderate understanding of health conditions and treatments.
+   - Job Status: Retired
+
+6) Patient's Behavior:
+   - Generally compliant with medical advice but tends to overlook dietary and exercise recommendations.
+
+7) Geographical Location:
+   - Big City, Urban.
+   - Neighborhood Type: Suburban, well-served by transit, access to multiple healthcare facilities.
+
+8) Clinical Setting:
+   - Private Practice
+
+9) Type of Encounter:
+   - Routine Check-up
+
+10) Treatment Disparities:
+   - None noted.
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English Speaking
+
+12) Physical exams:
+   - Full physical examination, including cardiovascular and respiratory system assessment, abdominal palpation, and musculoskeletal evaluation.
+
+13) Investigation/Test results:
+   - Blood work: Comprehensive metabolic panel, complete blood count, lipid panel, thyroid function tests.
+   - Imaging: Chest X-ray (awaiting results)."|Rejected|Rejected|Rejected|Rejected
+ENCOUNTER FOR OTHER SPECIFIED SPECIAL EXAMINATIONS|"**ROLE: Family Medicine Physician**
+
+**Scenario:**
+
+- **Medical Outcome:**
+  - Follow-up recommendations: Schedule follow-up appointment in 6 months
+  - Referral for imaging: Order for Abdominal Ultrasound
+
+- **Medical History:**
+  - Previous Diagnoses: Hypertension, Type 2 Diabetes Mellitus
+  - Family Medical History: Father had a stroke at age 67, Mother has rheumatoid arthritis
+  - Medication History: Metformin 500mg BID, Lisinopril 10mg daily
+  - Allergies: Penicillin
+  - Chronic Conditions: Hypertension, Type 2 Diabetes Mellitus
+
+- **Symptom Description:**
+  - N/A (routine check-up without specific complaints)
+
+- **Patient’s Self-reported Habits and Lifestyle:**
+  - Sleep: 6-7 hours per night
+  - Diet: High in processed foods, low in vegetables
+  - Exercise: Rarely exercises
+  - Tobacco Use: Smoker, 1 pack/day for 20 years
+  - Alcohol Consumption: Social drinker, 2-3 drinks/week
+  - Drug Use: Denies use of recreational drugs
+  - Recreational Activities: Enjoys watching TV and reading books
+
+- **Demographic Information:**
+  - Age: 55
+  - Gender: Male
+  - Ethnicity: African American
+  - Socio-economic Status: Middle class
+  - Education Level: High school graduate
+  - Health Literacy: Average
+  - Job Status: Works as a warehouse manager
+
+- **Patient's Behavior:**
+  - Often cooperative with medical advice but struggles with lifestyle changes
+
+- **Geographical Location:**
+  - Urban
+  - Neighborhood Type: Well-served by transit but with some environmental health risks due to industrial pollution
+
+- **Clinical Setting:**
+  - Private Practice
+
+- **Type of Encounter:**
+  - Routine Check-up
+
+- **Treatment Disparities:**
+  - Minor tendency to offer less aggressive lifestyle modification counseling due to assumptions about patient's compliance
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English Speaking Patient
+
+- **Physical Exams:**
+  - General: Well-nourished, well-developed, in no acute distress
+  - Vitals: BP 140/90, HR 78 bpm, Weight 180 lbs, Height 5'10""
+  - Cardiovascular: Regular rate and rhythm, no murmurs or gallops
+  - Respiratory: Lungs clear to auscultation bilaterally
+  - Abdominal: Non-tender, non-distended, no hepatosplenomegaly
+
+- **Investigation/Test Results:**
+  - N/A (no tests reviewed in this encounter)
+
+This scenario allows you to simulate an encounter for a routine check-up with a focus on comprehensive health maintenance for a patient with chronic conditions."|Rejected|Rejected|Rejected|Rejected
+ENCOUNTER FOR OTHER SPECIFIED SPECIAL EXAMINATIONS|"**ROLE: General Physician**
+
+**Scenario:**
+
+- **Medical Outcome:**
+  - Follow-up recommendations: Schedule follow-up appointment in 1 month
+  - Referral for specialist: Referral to Endocrinologist, Dr. Smith, for further evaluation of thyroid function abnormalities
+  - Medication adjustment: Adjust Levothyroxine dose to 75 mcg daily for hypothyroidism 
+
+- **Medical History:**
+  - Previous Diagnoses: Hypothyroidism, Hyperlipidemia
+  - Family Medical History: Sister has hypothyroidism, Mother has hypertension
+  - Medication History: Levothyroxine 50 mcg daily, Atorvastatin 20 mg daily
+  - Allergies: No known drug allergies
+  - Chronic Conditions: Hypothyroidism, Hyperlipidemia
+
+- **Symptom Description:**
+  - Severity: Moderate fatigue
+  - Duration: Last 3 months
+  - Associated Symptoms: Weight gain, hair thinning
+  - Frequency: Daily
+  - Impact on Daily Activities: Difficulty concentrating and feeling sluggish
+
+- **Patient’s Self-reported Habits and Lifestyle:**
+  - Sleep: Disturbed, sleeps 5-6 hours per night
+  - Diet: Balanced diet but high in carbs, dislikes vegetables
+  - Exercise: Walks for 30 minutes twice a week
+  - Tobacco Use: Non-smoker
+  - Alcohol Consumption: Rarely drinks, maybe one drink per month
+  - Drug Use: No recreational drug use
+  - Recreational Activities: Enjoys gardening and light cycling
+
+- **Demographic Information:**
+  - Age: 45
+  - Gender: Female
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Lower middle class
+  - Education Level: College graduate
+  - Health Literacy: High
+  - Job Status: School teacher
+
+- **Patient's Behavior:**
+  - Highly cooperative with medical advice and very engaged in health discussions
+
+- **Geographical Location:**
+  - Small City
+  - Neighborhood Type: Suburban, well-served by transit, no significant environmental health risks
+
+- **Clinical Setting:**
+  - Community Health Clinic
+
+- **Type of Encounter:**
+  - Follow-up for chronic disease management (hypothyroidism)
+
+- **Treatment Disparities:**
+  - No significant disparities noted, comprehensive treatment being provided 
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English Speaking Patient
+
+- **Physical Exams:**
+  - General: Mildly overweight, fatigued appearance
+  - Vitals: BP 120/80, HR 70 bpm, Weight 160 lbs, Height 5'5""
+  - Skin: Dry skin noted
+  - Neck: Mild enlargement of thyroid gland without tenderness
+  - Cardiovascular: Regular rate and rhythm, no murmurs or gallops
+  - Musculoskeletal: No joint swelling or tenderness
+
+- **Investigation/Test Results:**
+  - Awaiting lab results: TSH, Free T4, Total Cholesterol, LDL, HDL, Triglycerides
+
+This scenario provides a follow-up encounter focused on the management of hypothyroidism and referral to an endocrinologist for further evaluation. The patient's lifestyle and geographical setting are varied to meet the feedback requirements."|Rejected|Rejected|Rejected|Rejected
+ENCOUNTER FOR OTHER SPECIFIED SPECIAL EXAMINATIONS|"ROLE: General Physician
+
+1) Medical Outcome:
+   - Prescribed blood work: Vitamin D and Biochemistry panel
+   - Follow-up recommendations: Return in 1 month for routine check-up
+   - Referral: Endocrinologist for further evaluation of abnormal thyroid function
+
+2) Medical History:
+   - Previous Diagnoses: Hyperlipidemia, Hypertension, Hyperthyroidism
+   - Medication History: Atorvastatin 20 mg daily, Lisinopril 10 mg daily, Methimazole 5 mg daily
+   - Allergies: Penicillin
+   - Chronic Conditions: Hypertension, Hyperthyroidism
+
+3) Symptom Description:
+   - Severity: Mild fatigue, manageable with rest
+   - Duration: 2 months
+   - Associated Symptoms: Mild hair loss, unintentional weight loss
+   - Frequency: Daily
+   - Impact on Daily Activities: Difficulties with sustained concentration
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: 6 hours per night, interrupted sleep
+   - Diet: Generally balanced but low in dairy due to lactose intolerance
+   - Exercise: Light exercise 2-3 times per week
+   - Tobacco Use: None
+   - Alcohol Consumption: Occasional, 1-2 drinks per week
+   - Drug Use: None
+   - Recreational Activities: Reading, gardening
+
+5) Demographic Information:
+   - Age: 55
+   - Gender: Female
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: High
+   - Job Status: School teacher
+
+6) Patient's Behavior:
+   - Highly cooperative with medical advice and treatment plans
+
+7) Geographical Location:
+   - Small City
+   - Urban
+   - Pollution and Environmental Health Risks: Moderate
+   - Neighborhood Type: Well-served by transit, grocery stores, and healthcare facilities
+
+8) Clinical Setting:
+   - Clinics
+
+9) Type of Encounter:
+   - Preventive Health Screening
+
+10) Treatment Disparities:
+   - NA
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English Speaking Patient
+
+12) Physical exams:
+   - General physical examination: Normal
+   - Thyroid palpation: Mild enlargement noted
+
+13) Investigation/Test results:
+   - Recent lab results pending: Thyroid function tests (TSH, Free T4, Free T3)
+
+"|Rejected|Rejected|Rejected|Rejected
+ENCOUNTER FOR OTHER SPECIFIED SPECIAL EXAMINATIONS|"ROLE: Family Medicine Physician
+
+1) Medical Outcome:
+   - Prescribed Imaging: Chest X-ray
+     - Modality: X-ray
+     - Area: Chest
+   - Follow-up recommendations: Return in 2 weeks to review X-ray results and assess symptom progression
+   - Referral: Pulmonologist for evaluation of chronic cough and suspected COPD
+
+2) Medical History:
+   - Previous Diagnoses: Chronic Obstructive Pulmonary Disease (COPD)
+   - Medication History: Albuterol inhaler as needed, Tiotropium 18 mcg daily
+   - Allergies: No known drug allergies
+   - Chronic Conditions: COPD, Hypertension
+
+3) Symptom Description:
+   - Severity: Moderate
+   - Duration: 6 months
+   - Associated Symptoms: Shortness of breath, wheezing, occasional chest tightness
+   - Frequency: Daily
+   - Impact on Daily Activities: Limited ability to perform strenuous activities, such as climbing stairs
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: 5-6 hours per night, worsened by breathing difficulties
+   - Diet: High in processed foods, low in fruits and vegetables
+   - Exercise: Minimal due to breathing limitations
+   - Tobacco Use: History of smoking for 30 years, quit 5 years ago
+   - Alcohol Consumption: Occasional, 1-2 drinks per month
+   - Drug Use: None
+   - Recreational Activities: Watching TV, occasional short walks
+
+5) Demographic Information:
+   - Age: 65
+   - Gender: Male
+   - Ethnicity: African American
+   - Socio-economic Status: Low income
+   - Education Level: High School Diploma
+   - Health Literacy: Moderate
+   - Job Status: Retired factory worker
+
+6) Patient's Behavior:
+   - Moderately cooperative with medical advice, occasionally forgets to take medication
+
+7) Geographical Location:
+   - Rural
+   - Pollution and Environmental Health Risks: High due to nearby industrial activities
+   - Neighborhood Type: Impoverished, limited access to healthcare facilities and healthy food options
+
+8) Clinical Setting:
+   - Community Health Services
+
+9) Type of Encounter:
+   - Chronic Disease Management
+
+10) Treatment Disparities:
+   - Limited access to advanced medical facilities due to geographical location
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English Speaking Patient
+
+12) Physical exams:
+   - Lung auscultation: Diminished breath sounds bilaterally, scattered wheezes
+
+13) Investigation/Test results:
+   - Previous spirometry: FEV1/FVC ratio < 70%, consistent with COPD
+   - Awaiting Chest X-ray results"|Rejected|Rejected|Rejected|Rejected
+ENCOUNTER FOR OTHER SPECIFIED SPECIAL EXAMINATIONS|"ROLE: General Physician
+
+1) Medical Outcome:
+   - Prescribed Medication: Sertraline 50 mg once daily, 30 tablets, oral
+   - Follow-up recommendations: Return in 4 weeks for evaluation of medication effectiveness
+   - Referral: Psychotherapist for Cognitive Behavioral Therapy (CBT) sessions
+
+2) Medical History:
+   - Previous Diagnoses: Generalized Anxiety Disorder (GAD), Migraine
+   - Medication History: Sumatriptan 100 mg as needed for migraines
+   - Allergies: Seasonal allergies (pollen, dust)
+   - Chronic Conditions: Generalized Anxiety Disorder
+
+3) Symptom Description:
+   - Severity: Severe anxiety, interfering with daily activities
+   - Duration: 6 months
+   - Associated Symptoms: Insomnia, palpitations, excessive worry, muscle tension
+   - Frequency: Daily
+   - Impact on Daily Activities: Significant, affecting productivity and social interactions
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: 4-5 hours per night, difficulty initiating and maintaining sleep
+   - Diet: High intake of caffeine, irregular meals
+   - Exercise: None
+   - Tobacco Use: None
+   - Alcohol Consumption: None
+   - Drug Use: None
+   - Recreational Activities: Minimal, prefers staying indoors
+
+5) Demographic Information:
+   - Age: 30
+   - Gender: Female
+   - Ethnicity: Hispanic
+   - Socio-economic Status: High income
+   - Education Level: Master’s degree
+   - Health Literacy: High
+   - Job Status: Software Engineer
+
+6) Patient's Behavior:
+   - Actively seeks medical advice and adheres to treatment plans
+
+7) Geographical Location:
+   - Big City
+   - Pollution and Environmental Health Risks: Low
+   - Neighborhood Type: Affluent, well-served by transit and healthcare facilities
+
+8) Clinical Setting:
+   - Private Practice
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - NA
+
+11) Native or Non-Native English Speaking Patient:
+   - Non-Native English Speaking Patient (Fluent in English)
+
+12) Physical exams:
+   - General physical examination: Normal
+   - Neurological: Cranial nerves intact, normal reflexes
+
+13) Investigation/Test results:
+   - NA"|Rejected|Rejected|Rejected|Rejected

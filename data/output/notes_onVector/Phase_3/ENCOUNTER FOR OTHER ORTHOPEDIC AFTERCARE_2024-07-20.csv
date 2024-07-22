@@ -1,0 +1,1321 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role
+ENCOUNTER FOR OTHER ORTHOPEDIC AFTERCARE|"ROLE: Orthopedic Specialist
+
+**Values**:
+1) Medical Outcome:
+   - Continue Physiotherapy sessions (3 times a week for 4 weeks)
+   - Recommend follow-up with orthopedic specialist in 6 weeks
+   - Prescribed pain management with acetaminophen 500 mg, oral, every 6 hours as needed for pain, 100 tablets
+   - Referral to Orthopedic Surgeon Dr. Jessica Lee for possible surgical evaluation if symptoms persist
+
+2) Medical History:
+   - Previous Diagnosis: Right knee meniscus tear (repaired surgically 3 months ago)
+   - Family Medical History: No significant history of orthopedic issues
+   - Medication History: Previously took ibuprofen for pain, now switched to acetaminophen due to stomach upset
+   - Allergies: None
+
+3) Symptom Description:
+   - Severity: Moderate pain, 5 out of 10 on pain scale
+   - Duration: Persistent pain since the surgery 3 months ago
+   - Associated Symptoms: Intermittent swelling, stiffness, limited range of motion
+   - Frequency: Pain has been constant, worsens with activity
+   - Impact on Daily Activities: Difficulty in walking, climbing stairs, and performing daily chores
+   
+4) Patient's self-reported habits and lifestyle:
+   - Sleep: Reports poor sleep quality, wakes up due to knee pain
+   - Diet: Balanced diet, no specific restrictions
+   - Exercise: Limited due to pain, unable to perform high impact activities
+   - Tobacco Use: None
+   - Alcohol Consumption: Occasional, 1-2 drinks per month
+   - Drug Use: None
+   - Recreational Activities: Used to enjoy hiking and running, now significantly restricted
+
+5) Demographic Information:
+   - Age: 45
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle-class
+   - Education Level: Bachelor’s Degree
+   - Health Literacy: High, patient is well-informed about his condition
+   - Job Status: Office worker, sedentary job
+
+6) Patient's Behavior:
+   - Highly cooperative with medical advice and treatment plans
+
+7) Geographical Location:
+   - Urban
+   - Moderate pollution levels, no significant environmental health risks
+   - Affluent neighborhood, well-served by public transit, no food deserts
+
+8) Clinical Setting:
+   - Orthopedic Specialist Clinic
+
+9) Type of Encounter:
+   - Follow-up
+
+10) Treatment Disparities:
+   - NA, patient has comprehensive health insurance and is receiving optimal care
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English-speaking
+
+12) Physical exams:
+   - Right knee exam reveals moderate tenderness along the joint line, mild effusion, decreased range of motion (flexion limited to 90 degrees), and positive McMurray’s test
+
+13) Investigation/Test results:
+   - Awaiting MRI of the right knee to assess for any residual or new damage, ordered last visit
+
+"|"**1. Subjective:**
+   - **Chief Complaint (CC):** Persistent right knee pain post-meniscus repair surgery.
+   - **History of Present Illness (HPI):**
+     - The patient is a 45-year-old male who presents for follow-up after right knee meniscus repair surgery conducted 3 months ago.
+     - He reports moderate pain, rated as 5 out of 10 on the pain scale, persistent since the surgery.
+     - The pain worsens with activity and is associated with intermittent swelling, stiffness, and limited range of motion.
+     - These symptoms have caused difficulty in walking, climbing stairs, and performing daily chores.
+     - He experiences poor sleep quality, waking up due to knee pain.
+   - **Review of Systems (ROS):**
+     - **Musculoskeletal:** Reports right knee pain, swelling, stiffness, and limited range of motion.
+     - **General:** Denies fever, weight loss, or other symptoms.
+     - **Neurological:** No numbness or tingling in the lower extremities.
+     - **Cardiovascular & Respiratory:** Denies any chest pain or shortness of breath.
+
+**2. Objective:**
+   - **Vital Signs:**
+     - BP: 128/78 mmHg
+     - HR: 72 bpm
+     - SpO2: 99%
+   - **Physical Examination:**
+     - **Right Knee:**
+       - Moderate tenderness along the joint line.
+       - Mild effusion noted.
+       - Decreased range of motion; flexion limited to 90 degrees.
+       - Positive McMurray’s test indicating possible meniscal pathology.
+   - **Investigations:**
+     - MRI of the right knee ordered during the last visit; results pending.
+
+**3. Assessment:**
+   - **Primary Diagnosis:** Persistent postoperative right knee pain following meniscus repair.
+   - **Differential Diagnosis:**
+     - Residual or recurrent meniscus tear.
+     - Postoperative fibrosis or scar tissue formation.
+     - Early osteoarthritis.
+     - Patellofemoral pain syndrome.
+
+**4. Plan:**
+   - **Medical Treatment:**
+     - Prescribed acetaminophen 500 mg, oral, every 6 hours as needed for pain, 100 tablets.
+   - **Therapy:**
+     - Continue physiotherapy sessions 3 times a week for the next 4 weeks to improve strength and range of motion.
+   - **Follow-up:**
+     - Recommend a follow-up with an orthopedic specialist in 6 weeks to reassess pain and functionality.
+   - **Referral:**
+     - Referral to Orthopedic Surgeon Dr. Jessica Lee for a possible surgical evaluation if symptoms persist.
+   - **Patient Education and Counseling:**
+     - Discussed the importance of adherence to the physiotherapy regimen and pain management plan.
+     - Advised to monitor for any new or worsening symptoms and seek immediate medical attention if necessary.
+     - Encouraged maintaining a balanced diet, avoiding high-impact activities, and practicing joint-friendly exercises as tolerated.
+   - **Investigation:**
+     - Await results of the MRI to guide further management. 
+
+**Patient Agreements:** The patient understands and agrees with the recommended medical treatment plan.
+
+**Instructions:** The patient will follow up in 6 weeks or sooner if symptoms worsen. He is to attend all physiotherapy sessions and take the prescribed medication as directed."|"**1. Subjective:**
+   - **Chief Complaint (CC):** Persistent right knee pain post-meniscus repair surgery.
+   - **History of Present Illness (HPI):**
+     - The patient, Mr. John Smith, is a 45-year-old male who presents for follow-up after right knee meniscus repair surgery conducted 3 months ago.
+     - He reports moderate pain, rated as 5 out of 10 on the pain scale, persistent since the surgery.
+     - The pain worsens with activity and is associated with intermittent swelling, stiffness, and limited range of motion.
+     - These symptoms have caused difficulty in walking, climbing stairs, and performing daily chores.
+     - He experiences poor sleep quality, waking up due to knee pain.
+   - **Review of Systems (ROS):**
+     - **Musculoskeletal:** Reports right knee pain, swelling, stiffness, and limited range of motion.
+     - **General:** Denies fever, weight loss, or other symptoms.
+     - **Neurological:** No numbness or tingling in the lower extremities.
+     - **Cardiovascular & Respiratory:** Denies any chest pain or shortness of breath.
+
+**2. Objective:**
+   - **Vital Signs:**
+     - BP: 128/78 mmHg
+     - HR: 72 bpm
+     - SpO2: 99%
+   - **Physical Examination:**
+     - **Right Knee:**
+       - Moderate tenderness along the joint line.
+       - Mild effusion noted.
+       - Decreased range of motion; flexion limited to 90 degrees.
+       - Positive McMurray’s test indicating possible meniscal pathology.
+
+**3. Assessment:**
+   - **Primary Diagnosis:** Persistent postoperative right knee pain following meniscus repair.
+   - **Differential Diagnosis:**
+     - Residual or recurrent meniscus tear.
+     - Postoperative fibrosis or scar tissue formation.
+     - Early osteoarthritis.
+     - Patellofemoral pain syndrome.
+
+**4. Plan:**
+   - **Medical Treatment:**
+     - Prescribed acetaminophen 500 mg, oral, every 6 hours as needed for pain, 100 tablets.
+   - **Therapy:**
+     - Continue physiotherapy sessions 3 times a week for the next 4 weeks to improve strength and range of motion.
+   - **Follow-up:**
+     - Recommend a follow-up with an orthopedic specialist in 6 weeks to reassess pain and functionality.
+   - **Referral:**
+     - Referral to Orthopedic Surgeon Dr. Jessica Lee for a possible surgical evaluation if symptoms persist.
+   - **Patient Education and Counseling:**
+     - Discussed the importance of adherence to the physiotherapy regimen and pain management plan.
+     - Advised to monitor for any new or worsening symptoms and seek immediate medical attention if necessary.
+     - Encouraged maintaining a balanced diet, avoiding high-impact activities, and practicing joint-friendly exercises as tolerated.
+   - **Investigation:**
+     - Await results of the MRI to guide further management. 
+
+**Patient Agreements:** The patient understands and agrees with the recommended medical treatment plan.
+
+**Instructions:** The patient will follow up in 6 weeks or sooner if symptoms worsen. He is to attend all physiotherapy sessions and take the prescribed medication as directed."|"**1. Subjective:**
+   - **CC:** Persistent R knee pain post-meniscus repair sx.
+   - **HPI:**
+     - Mr. John Smith, 45 y/o M, presents for f/u after R knee meniscus repair sx 3 mos ago.
+     - Reports moderate pain, 5/10 on pain scale, persistent since sx.
+     - Pain worsens with activity, assoc. with intermittent swelling, stiffness, and limited ROM.
+     - Symptoms cause difficulty in ambulation, climbing stairs, and ADLs.
+     - Experiences poor sleep quality, waking due to knee pain.
+   - **ROS:**
+     - **MSK:** Reports R knee pain, swelling, stiffness, and limited ROM.
+     - **Gen:** Denies fever, weight loss, or other sx.
+     - **Neuro:** No numbness or tingling in LE.
+     - **CV & Resp:** Denies CP or SOB.
+
+**2. Objective:**
+   - **VS:**
+     - BP: 128/78 mmHg
+     - HR: 72 bpm
+     - SpO2: 99%
+   - **PE:**
+     - **R Knee:**
+       - Moderate tenderness along joint line.
+       - Mild effusion noted.
+       - Decreased ROM; flexion limited to 90 degrees.
+       - Positive McMurray’s test indicating possible meniscal pathology.
+
+**3. Assessment:**
+   - **Primary Dx:** Persistent postop R knee pain following meniscus repair.
+   - **DDx:**
+     - Residual or recurrent meniscus tear.
+     - Postop fibrosis or scar tissue formation.
+     - Early OA.
+     - PFPS.
+
+**4. Plan:**
+   - **Rx:**
+     - Acetaminophen 500 mg PO Q6H PRN pain, 100 tabs.
+   - **Therapy:**
+     - Continue PT sessions TID for next 4 wks to improve strength and ROM.
+   - **F/U:**
+     - Recommend f/u with ortho specialist in 6 wks to reassess pain and functionality.
+   - **Referral:**
+     - Referral to Ortho Surgeon Dr. Jessica Lee for possible sx eval if sx persist.
+   - **Pt Ed & Counseling:**
+     - Discussed importance of adherence to PT regimen and pain mgmt plan.
+     - Advised to monitor for any new or worsening sx and seek immediate medical attention if necessary.
+     - Encouraged maintaining balanced diet, avoiding high-impact activities, and practicing joint-friendly exercises as tolerated.
+   - **Investigation:**
+     - Await results of MRI to guide further mgmt.
+
+**Pt Agreements:** Pt understands and agrees with the recommended medical tx plan.
+
+**Instructions:** Pt to f/u in 6 wks or sooner if sx worsen. He is to attend all PT sessions and take prescribed meds as directed."|Orthopedic Specialist
+ENCOUNTER FOR OTHER ORTHOPEDIC AFTERCARE|"ROLE: Orthopedic Surgeon
+
+Demographic Information 
+- Age: 45
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle Class
+- Education Level: College Degree
+- Health Literacy: High
+- Job Status: Office worker
+
+Clinical Setting
+- Private Practice
+
+Type of Encounter
+- Follow-up
+
+Medical History
+- Previous Diagnoses: Comminuted right distal radius fracture (sustained in a fall 3 months ago), Hypertension
+- Family Medical History: Father with osteoarthritis, Mother with hypertension and diabetes
+- Medication History: Antihypertensive medication (Amlodipine 5 mg once daily)
+- Allergies: No known drug allergies
+- Chronic Conditions: Hypertension
+
+Symptom Description
+- Severity: Mild pain and stiffness in the right wrist
+- Duration: Ongoing since cast removal, approximately 2 weeks ago
+- Associated Symptoms: Occasional tingling in fingers, mild swelling
+- Frequency: Pain worsens with activity, stiffness more prominent in the morning
+- Impact on Daily Activities: Difficulties with tasks requiring fine motor skills, affecting his ability to type and write effectively
+
+Patient’s Self-reported Habits and Lifestyle
+- Sleep: 7-8 hours per night, generally restful
+- Diet: Balanced, includes vegetables, fruits, lean proteins, and whole grains
+- Exercise: Limited since the fracture, prior to injury regularly exercised 3 times a week
+- Tobacco Use: Non-smoker
+- Alcohol Consumption: Occasional, 1-2 drinks per week
+- Drug Use: Denies any drug use
+- Recreational Activities: Enjoys gardening and playing tennis, currently unable to play tennis due to wrist discomfort
+
+Patient's Behavior
+- Patient's Cooperation: Highly cooperative and adheres to medical advice
+
+Geographical Location
+- Urban area in a big city, well-served by transit
+- Affluent neighborhood
+
+Medical Outcome
+- Diagnosis: Encounter for other orthopedic aftercare (ICD-10 code Z47.89)
+- Prescribed Treatment: Physical therapy for wrist rehabilitation, referral to Jane Henderson, PT, twice a week for 6 weeks
+- Follow-up Recommendations: Follow-up in 6 weeks to evaluate progress and adjust rehabilitation plan if necessary
+- Referral: Not indicated at this time
+- Referral for further tests or imaging: X-ray of the right wrist to assess bone healing
+- Medication Adjustment: Ibuprofen 400 mg orally, as needed every 6 hours for pain, maximum 3 doses per day
+- Lifestyle Change: Recommend gradual reintroduction of light exercises like walking and stretching, avoidance of heavy lifting or strenuous activities until cleared
+- Blood Work: NA
+- Imaging: Ordered X-ray of the right wrist
+
+Physical Exams
+- Inspection: Mild swelling, slight deformity of the right wrist
+- Palpation: Tenderness over the distal radius, no obvious instability
+- Range of Motion: Limited, particularly in extension and flexion
+- Neurological: Sensation intact, slight decrease in grip strength
+
+Investigation/Test results
+- Awaiting: X-ray of the right wrist to assess bone healing"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Mild pain and stiffness in the right wrist.
+
+**History of Present Illness (HPI):**
+The patient is a 45-year-old Caucasian male with a history of a comminuted right distal radius fracture sustained in a fall 3 months ago. Since the removal of the cast approximately 2 weeks ago, he reports ongoing mild pain and stiffness in the right wrist. The pain worsens with activity, and stiffness is more prominent in the morning. He experiences occasional tingling in the fingers and mild swelling. These symptoms are impacting his ability to perform tasks that require fine motor skills, such as typing and writing effectively.
+
+**Review of Systems (ROS):**
+- **Musculoskeletal:** Mild pain and stiffness in the right wrist, occasional tingling in fingers, mild swelling, difficulty with tasks requiring fine motor skills.
+- **General:** Denies weight loss, fatigue, fever.
+- **Cardiovascular:** No chest pain or palpitations.
+- **Neurological:** Occasional tingling in fingers but no significant numbness or weakness.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 128/76 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air
+
+**Physical Exam:**
+
+**Inspection:**
+- Mild swelling observed in the right wrist.
+- Slight deformity of the right wrist noted.
+
+**Palpation:**
+- Tenderness over the distal radius.
+- No obvious instability noted.
+
+**Range of Motion:**
+- Limited range of motion, particularly in extension and flexion.
+
+**Neurological:**
+- Sensation intact to light touch and pinprick.
+- Slight decrease in grip strength compared to the left hand.
+
+**3. Assessment:**
+
+- Encounter for other orthopedic aftercare (ICD-10 code Z47.89).
+- Ongoing symptoms of mild pain, stiffness, occasional tingling, and mild swelling post-cast removal for a comminuted right distal radius fracture.
+- No evidence of significant neurological deficit.
+
+**4. Plan:**
+
+- **Physical Therapy:** Referral to Jane Henderson, PT, for wrist rehabilitation twice a week for 6 weeks.
+- **Medication:** Prescribed Ibuprofen 400 mg orally, as needed every 6 hours for pain, maximum 3 doses per day.
+- **X-ray:** Ordered X-ray of the right wrist to assess bone healing.
+- **Lifestyle Modifications:** 
+  - Gradual reintroduction of light exercises such as walking and stretching.
+  - Avoidance of heavy lifting or strenuous activities until cleared.
+- **Follow-Up:** Scheduled follow-up in 6 weeks to evaluate progress and adjust the rehabilitation plan if necessary.
+- **Patient Education:** Advised to monitor for any increase in pain, swelling, or loss of function and to contact the clinic if these occur.
+
+**Instructions:**
+
+- Begin physical therapy as scheduled.
+- Take Ibuprofen as prescribed for pain management.
+- Gradually increase light physical activities, avoiding any activities that exacerbate symptoms.
+- Attend the follow-up appointment in 6 weeks with an X-ray of the right wrist."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Mild pain and stiffness in the right wrist.
+
+**History of Present Illness (HPI):**
+The patient, John Smith, is a 45-year-old Caucasian male with a history of a comminuted right distal radius fracture sustained in a fall 3 months ago. Since the removal of the cast approximately 2 weeks ago, he reports ongoing mild pain and stiffness in the right wrist. The pain worsens with activity, and stiffness is more prominent in the morning. He experiences occasional tingling in the fingers and mild swelling. These symptoms are impacting his ability to perform tasks that require fine motor skills, such as typing and writing effectively.
+
+**Review of Systems (ROS):**
+- **Musculoskeletal:** Mild pain and stiffness in the right wrist, occasional tingling in fingers, mild swelling, difficulty with tasks requiring fine motor skills.
+- **General:** Denies weight loss, fatigue, fever.
+- **Cardiovascular:** No chest pain or palpitations.
+- **Neurological:** Occasional tingling in fingers but no significant numbness or weakness.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 128/76 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air
+
+**Physical Exam:**
+
+**Inspection:**
+- Mild swelling observed in the right wrist.
+- Slight deformity of the right wrist noted.
+
+**Palpation:**
+- Tenderness over the distal radius.
+- No obvious instability noted.
+
+**Range of Motion:**
+- Limited range of motion, particularly in extension and flexion.
+
+**Neurological:**
+- Sensation intact to light touch and pinprick.
+- Slight decrease in grip strength compared to the left hand.
+
+**3. Assessment:**
+
+- Encounter for other orthopedic aftercare (ICD-10 code Z47.89).
+- Ongoing symptoms of mild pain, stiffness, occasional tingling, and mild swelling post-cast removal for a comminuted right distal radius fracture.
+- No evidence of significant neurological deficit.
+
+**4. Plan:**
+
+- **Physical Therapy:** Referral to Jane Henderson, PT, for wrist rehabilitation twice a week for 6 weeks.
+- **Medication:** Prescribed Ibuprofen 400 mg orally, as needed every 6 hours for pain, maximum 3 doses per day.
+- **X-ray:** Ordered X-ray of the right wrist to assess bone healing.
+- **Lifestyle Modifications:** 
+  - Gradual reintroduction of light exercises such as walking and stretching.
+  - Avoidance of heavy lifting or strenuous activities until cleared.
+- **Follow-Up:** Scheduled follow-up in 6 weeks to evaluate progress and adjust the rehabilitation plan if necessary.
+- **Patient Education:** Advised to monitor for any increase in pain, swelling, or loss of function and to contact the clinic if these occur."|"**1. Subjective:**
+
+**CC:**
+Mild pain and stiffness in the right wrist.
+
+**HPI:**
+The pt, John Smith, is a 45 y/o Caucasian male with a hx of a comminuted right distal radius fx sustained in a fall 3 mos ago. Since the removal of the cast approx 2 wks ago, he reports ongoing mild pain and stiffness in the right wrist. The pain worsens with activity, and stiffness is more prominent in the AM. He experiences occasional tingling in the fingers and mild swelling. These sx are impacting his ability to perform tasks that require fine motor skills, such as typing and writing effectively.
+
+**ROS:**
+- **MSK:** Mild pain and stiffness in the right wrist, occasional tingling in fingers, mild swelling, difficulty with tasks requiring fine motor skills.
+- **Gen:** Denies weight loss, fatigue, fever.
+- **CV:** No CP or palpitations.
+- **Neuro:** Occasional tingling in fingers but no significant numbness or weakness.
+
+**2. Objective:**
+
+**VS:**
+- BP: 128/76 mmHg
+- HR: 72 bpm
+- RR: 16 breaths/min
+- Temp: 98.6°F
+- O2 Sat: 98% on RA
+
+**PE:**
+
+**Inspection:**
+- Mild swelling observed in the right wrist.
+- Slight deformity of the right wrist noted.
+
+**Palpation:**
+- Tenderness over the distal radius.
+- No obvious instability noted.
+
+**ROM:**
+- Limited ROM, particularly in extension and flexion.
+
+**Neuro:**
+- Sensation intact to light touch and pinprick.
+- Slight decrease in grip strength compared to the left hand.
+
+**3. Assessment:**
+
+- Encounter for other ortho aftercare (ICD-10 code Z47.89).
+- Ongoing sx of mild pain, stiffness, occasional tingling, and mild swelling post-cast removal for a comminuted right distal radius fx.
+- No evidence of significant neuro deficit.
+
+**4. Plan:**
+
+- **PT:** Referral to Jane Henderson, PT, for wrist rehab BID for 6 wks.
+- **Rx:** Ibuprofen 400 mg PO PRN q6h for pain, max 3 doses/day.
+- **X-ray:** Ordered X-ray of the right wrist to assess bone healing.
+- **Lifestyle Mods:** 
+  - Gradual reintroduction of light exercises such as walking and stretching.
+  - Avoidance of heavy lifting or strenuous activities until cleared.
+- **F/U:** Scheduled F/U in 6 wks to eval progress and adjust the rehab plan if necessary.
+- **Pt Ed:** Advised to monitor for any increase in pain, swelling, or loss of function and to contact the clinic if these occur."|Orthopedic Surgeon
+ENCOUNTER FOR OTHER ORTHOPEDIC AFTERCARE|"ROLE: Orthopedic Surgeon
+
+SCENARIO:
+
+**1) Medical Outcome:**
+   - Follow-up recommendations: Continue with prescribed physical therapy.
+   - Referral to further tests or imaging: MRI of the cervical spine to evaluate potential nerve impingement.
+   - Medication prescribing details:
+      - Gabapentin 300 mg capsules
+      - Dose: Take 1 capsule
+      - Frequency: Twice daily
+      - Duration: 30 days
+      - Quantity: 60
+      - Route: Oral
+
+**2) Medical History:**
+   - Previous Diagnoses: Cervical disc herniation
+   - Family Medical History: Brother with osteoarthritis
+   - Medication History: Previously on NSAIDs for pain management
+   - Allergies: Ibuprofen
+   - Chronic Conditions: Hypertension
+
+**3) Symptom Description:**
+   - Severity: Severe neck pain radiating to the left arm
+   - Duration: Persistent for 4 months post-injury
+   - Associated Symptoms: Tingling and numbness in the left hand
+   - Frequency: Pain is constant, exacerbates with neck movement
+   - Impact on Daily Activities: Difficulty in performing daily tasks, unable to drive
+
+**4) Patient's self-reported habits and lifestyle:**
+   - Sleep: 3-4 hours per night, disrupted due to pain
+   - Diet: Generally healthy, but high in salt
+   - Exercise: Limited due to pain, occasionally walks
+   - Tobacco Use: None
+   - Alcohol Consumption: None
+   - Drug Use: None
+   - Recreational Activities: Enjoyed knitting, now unable due to hand numbness
+
+**5) Demographic Information:**
+   - Age: 55
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Upper middle class
+   - Education Level: Bachelor's degree
+   - Health Literacy: High
+   - Job Status: Senior manager in a tech company
+
+**6) Patient's Behavior:**
+   - Cooperation: Highly cooperative with medical advice and treatment plan
+
+**7) Geographical Location:**
+   - Urban
+   - Pollution and Environmental Health Risks: Moderate due to traffic congestion
+   - Neighborhood Type: Affluent, well-served by transit
+
+**8) Clinical Setting:**
+   - Private Practice
+
+**9) Type of Encounter:**
+   - Emergency Visit
+
+**10) Treatment Disparities:**
+   - No apparent treatment disparities; patient has access to high-quality healthcare options
+
+**11) Native or Non-Native English Speaking Patient:**
+   - Native English Speaking
+
+**12) Physical Exams:**
+   - Cervical Spine Exam: Tenderness on palpation at C5-C6, positive Spurling's test
+   - Neurological Exam: Decreased sensation in the left hand, normal reflexes
+
+**13) Investigation/Test results:**
+   - Awaiting MRI results of the cervical spine"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe neck pain radiating to the left arm.
+
+**History of Present Illness (HPI):**
+The patient, a 55-year-old Caucasian male, presents with persistent severe neck pain radiating to the left arm for the past 4 months following an injury. He reports associated symptoms of tingling and numbness in the left hand. The pain is constant and exacerbates with neck movement, significantly impacting his daily activities and rendering him unable to drive.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports severe and persistent pain; sleep disrupted, getting only 3-4 hours per night.
+- **Musculoskeletal:** Severe neck pain radiating to the left arm; tingling and numbness in the left hand.
+- **Neurological:** Tingling, numbness in the left hand.
+
+**2. Objective:**
+
+**Physical Exam:**
+- **Cervical Spine Exam:** Tenderness on palpation at C5-C6, positive Spurling's test.
+- **Neurological Exam:** Decreased sensation in the left hand, normal reflexes.
+
+**3. Assessment:**
+
+- **Cervical Disc Herniation:**
+  - **Medical Reasoning:** The patient's symptoms of severe neck pain, radiating to the left arm with associated tingling and numbness in the left hand, are consistent with cervical disc herniation. Positive Spurling's test and tenderness at C5-C6 further support this assessment.
+  - **Differential Diagnosis:** Radiculopathy, cervical spondylosis, brachial plexus injury.
+
+**4. Plan:**
+
+- **Medication:**
+  - Gabapentin 300 mg capsules
+  - Dose: Take 1 capsule
+  - Frequency: Twice daily
+  - Duration: 30 days
+  - Quantity: 60
+  - Route: Oral
+
+- **Further Tests/Imaging:**
+  - MRI of the cervical spine to evaluate potential nerve impingement.
+
+- **Physical Therapy:**
+  - Continue with prescribed physical therapy sessions.
+
+- **Patient Education and Counseling:**
+  - Discussed the nature of the diagnosis and the importance of continuing physical therapy to manage symptoms and improve function.
+  - Advised on pain management strategies and the expected benefits and potential side effects of Gabapentin.
+  - Provided education on ergonomic modifications at work to reduce strain on the cervical spine.
+  - Encouraged maintaining a healthy diet with reduced salt intake and trying gentle exercises like walking, as tolerated.
+
+The patient has been cooperative and understands the treatment plan. He will follow up in 4 weeks or sooner if symptoms worsen. Immediate attention will be given once the MRI results are available."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe neck pain radiating to the left arm.
+
+**History of Present Illness (HPI):**
+The patient, a 55-year-old Caucasian male, presents with persistent severe neck pain radiating to the left arm for the past 4 months following an injury. He reports associated symptoms of tingling and numbness in the left hand. The pain is constant and exacerbates with neck movement, significantly impacting his daily activities and rendering him unable to drive.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports severe and persistent pain; sleep disrupted, getting only 3-4 hours per night.
+- **Musculoskeletal:** Severe neck pain radiating to the left arm; tingling and numbness in the left hand.
+- **Neurological:** Tingling, numbness in the left hand.
+
+**2. Objective:**
+
+**Physical Exam:**
+- **Cervical Spine Exam:** Tenderness on palpation at C5-C6, positive Spurling's test.
+- **Neurological Exam:** Decreased sensation in the left hand, normal reflexes.
+
+**3. Assessment:**
+
+- **Cervical Disc Herniation:**
+  - **Medical Reasoning:** The patient's symptoms of severe neck pain, radiating to the left arm with associated tingling and numbness in the left hand, are consistent with cervical disc herniation. Positive Spurling's test and tenderness at C5-C6 further support this assessment.
+  - **Differential Diagnosis:** Radiculopathy, cervical spondylosis, brachial plexus injury.
+
+**4. Plan:**
+
+- **Medication:**
+  - Gabapentin 300 mg capsules
+  - Dose: Take 1 capsule
+  - Frequency: Twice daily
+  - Duration: 30 days
+  - Quantity: 60
+  - Route: Oral
+
+- **Further Tests/Imaging:**
+  - MRI of the cervical spine to evaluate potential nerve impingement.
+
+- **Physical Therapy:**
+  - Continue with prescribed physical therapy sessions.
+
+- **Patient Education and Counseling:**
+  - Discussed the nature of the diagnosis and the importance of continuing physical therapy to manage symptoms and improve function.
+  - Advised on pain management strategies and the expected benefits and potential side effects of Gabapentin.
+  - Provided education on ergonomic modifications at work to reduce strain on the cervical spine.
+  - Encouraged maintaining a healthy diet with reduced salt intake and trying gentle exercises like walking, as tolerated.
+
+The patient has been cooperative and understands the treatment plan. He will follow up in 4 weeks or sooner if symptoms worsen. Immediate attention will be given once the MRI results are available."|"**1. Subjective:**
+
+**CC:**
+Severe neck pain radiating to the L arm.
+
+**HPI:**
+The pt, a 55 y/o Caucasian M, presents with persistent severe neck pain radiating to the L arm for the past 4 mos following an injury. He reports assoc. sx of tingling and numbness in the L hand. The pain is constant and exacerbates with neck movement, significantly impacting his ADLs and rendering him unable to drive.
+
+**ROS:**
+- **Constitutional:** Reports severe and persistent pain; sleep disrupted, getting only 3-4 hrs per night.
+- **MSK:** Severe neck pain radiating to the L arm; tingling and numbness in the L hand.
+- **Neuro:** Tingling, numbness in the L hand.
+
+**2. Objective:**
+
+**PE:**
+- **C-spine Exam:** TTP at C5-C6, +Spurling's test.
+- **Neuro Exam:** Decreased sensation in the L hand, normal reflexes.
+
+**3. Assessment:**
+
+- **Cervical Disc Herniation:**
+  - **Med Reasoning:** The pt's sx of severe neck pain, radiating to the L arm with assoc. tingling and numbness in the L hand, are consistent with cervical disc herniation. +Spurling's test and TTP at C5-C6 further support this assessment.
+  - **DDx:** Radiculopathy, cervical spondylosis, brachial plexus injury.
+
+**4. Plan:**
+
+- **Rx:**
+  - Gabapentin 300 mg caps
+  - Dose: Take 1 cap
+  - Freq: BID
+  - Duration: 30 days
+  - Qty: 60
+  - Route: PO
+
+- **Further Tests/Imaging:**
+  - MRI of the C-spine to eval potential nerve impingement.
+
+- **PT:**
+  - Continue with prescribed PT sessions.
+
+- **Pt Ed and Counseling:**
+  - Discussed the nature of the dx and the importance of continuing PT to manage sx and improve function.
+  - Advised on pain mgmt strategies and the expected benefits and potential SEs of Gabapentin.
+  - Provided ed on ergonomic modifications at work to reduce strain on the C-spine.
+  - Encouraged maintaining a healthy diet with reduced Na intake and trying gentle exercises like walking, as tolerated.
+
+The pt has been cooperative and understands the tx plan. He will f/u in 4 wks or sooner if sx worsen. Immediate attention will be given once the MRI results are available."|Orthopedic Surgeon
+ENCOUNTER FOR OTHER ORTHOPEDIC AFTERCARE|"ROLE: Orthopedic Specialist
+
+1) Medical Outcome:
+   - Follow-up recommendations: Patient to return for follow-up in 4 weeks.
+   - Referral to further tests: X-ray of the right tibia/fibula to assess healing.
+   - Medication adjustment: Continue current pain management regimen with Ibuprofen 400 mg, oral, every 6 hours as needed for pain.
+   - Lifestyle change: Advise on weight-bearing restrictions and physical therapy exercises.
+2) Medical History:
+   - Previous Diagnoses: Right tibial fracture post motorcycle accident.
+   - Family Medical History: No significant orthopedic conditions.
+   - Medication History: Previously prescribed hydrocodone 5 mg/acetaminophen 325 mg for fracture pain.
+   - Allergies: No known drug allergies.
+   - Chronic Conditions: None.
+3) Symptom Description:
+   - Severity: Mild to moderate pain with occasional sharp pain.
+   - Duration: 6 weeks post-surgery.
+   - Associated Symptoms: Swelling around the fracture site, but reducing.
+   - Frequency: Daily pain, especially after physical activity.
+   - Impact on Daily Activities: Able to bear some weight with crutches, difficulty with prolonged standing or walking.
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Generally adequate but sometimes interrupted by pain.
+   - Diet: Balanced diet with recommended calcium intake.
+   - Exercise: Limited due to fracture, engaging in light physical therapy.
+   - Tobacco Use: Non-smoker.
+   - Alcohol Consumption: Occasional social drinker, 1-2 times per month.
+   - Drug Use: Denies illicit drug use.
+   - Recreational Activities: Limited, focused on rehabilitation exercises.
+5) Demographic Information:
+   - Age: 29
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle-class
+   - Education Level: Bachelor's degree
+   - Health Literacy: High
+   - Job Status: Software engineer, working from home currently.
+6) Patient's Behavior:
+   - The level of patient's cooperation with medical advice: Highly cooperative and adherent.
+7) Geographical Location:
+   - Big City vs Small City: Urban
+   - Pollution and Environmental Health Risks: Low pollution area.
+   - Neighborhood Type: Affluent, well-served by transit.
+8) Clinical Setting:
+   - Specialty Clinics
+9) Type of Encounter:
+   - Follow-up
+10) Treatment Disparities:
+   - None noted; patient has adequate insurance and access to care.
+11) Native or Non-Native English Speaking Patient:
+   - Native English-speaking patient.
+12) Physical exams:
+   - Inspection of the right tibia: Mild swelling, healing surgical scar, no signs of infection.
+   - Palpation: Tenderness over the fracture site, no significant deformity.
+   - Range of motion: Limited due to pain and stiffness, improving with therapy.
+13) Investigation/Test results:
+   - X-ray of the right tibia/fibula: Pending to assess bone healing and alignment."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up for right tibial fracture post motorcycle accident.
+
+**History of Present Illness (HPI):**
+The patient is a 29-year-old male who presents for a follow-up appointment 6 weeks post-surgery for a right tibial fracture. The patient reports mild to moderate pain, occasionally sharp, primarily after physical activities. Pain is manageable with the current regimen of Ibuprofen 400 mg taken orally every 6 hours as needed. The patient notices swelling around the fracture site, although it is reducing. He can bear some weight with crutches but experiences difficulty with prolonged standing or walking.
+
+**Review of Systems (ROS):**
+- **Musculoskeletal:** Swelling, mild to moderate pain, occasional sharp pain, and stiffness in the right tibia.
+- **General:** Adequate sleep, sometimes interrupted by pain.
+- **Cardiovascular:** No issues reported.
+- **Respiratory:** No issues reported.
+- **Gastrointestinal:** Balanced diet with adequate calcium intake.
+- **Neurological:** No numbness or tingling reported.
+- **Psychological:** No reported anxiety or depression.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 120/78 mmHg 
+- Heart Rate: 72 bpm
+- Respiratory Rate: 14 breaths/min
+- Temperature: 98.6°F
+
+**Physical Exam:**
+- **General:** Well-nourished, in no apparent distress.
+- **Musculoskeletal:** Mild swelling around the right tibia, healing surgical scar with no signs of infection.
+- **Palpation:** Tenderness over the fracture site, no significant deformity.
+- **Range of Motion (ROM):** Limited in the right leg due to pain and stiffness, but showing improvement with physical therapy.
+
+**Results:**
+- X-ray of the right tibia/fibula: Pending to assess bone healing and alignment.
+
+**3. Assessment:**
+Right tibial fracture, post motorcycle accident, 6 weeks post-surgery. The patient is showing signs of healing with reducing swelling and manageable pain. The healing surgical scar appears normal with no signs of infection. Range of motion is limited but improving with continued physical therapy.
+
+**4. Plan:**
+1. **Follow-up:** Schedule follow-up visit in 4 weeks to assess progress and healing.
+2. **Referral:** Obtain an X-ray of the right tibia/fibula to evaluate bone healing and alignment.
+3. **Medication:** Continue current pain management regimen with Ibuprofen 400 mg, orally, every 6 hours as needed for pain.
+4. **Lifestyle Changes:**
+   - Maintain weight-bearing restrictions.
+   - Continue with prescribed physical therapy exercises to improve range of motion and strength.
+   - Monitor and manage pain levels to avoid interference with sleep and daily activities.
+   
+**Instructions:**
+- Patient advised to avoid high-impact activities.
+- Maintain a balanced diet with adequate calcium intake.
+- Contact the clinic if there is an increase in pain, swelling, or signs of infection.
+
+The patient is cooperative and adherent to medical advice and rehabilitation routines. He understands the importance of follow-up and is committed to the treatment plan."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up for right tibial fracture post motorcycle accident.
+
+**History of Present Illness (HPI):**
+The patient, John Smith, is a 29-year-old male who presents for a follow-up appointment 6 weeks post-surgery for a right tibial fracture. The patient reports mild to moderate pain, occasionally sharp, primarily after physical activities. Pain is manageable with the current regimen of Ibuprofen 400 mg taken orally every 6 hours as needed. The patient notices swelling around the fracture site, although it is reducing. He can bear some weight with crutches but experiences difficulty with prolonged standing or walking.
+
+**Review of Systems (ROS):**
+- **Musculoskeletal:** Swelling, mild to moderate pain, occasional sharp pain, and stiffness in the right tibia.
+- **General:** Adequate sleep, sometimes interrupted by pain.
+- **Cardiovascular:** No issues reported.
+- **Respiratory:** No issues reported.
+- **Gastrointestinal:** Balanced diet with adequate calcium intake.
+- **Neurological:** No numbness or tingling reported.
+- **Psychological:** No reported anxiety or depression.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 120/78 mmHg 
+- Heart Rate: 72 bpm
+- Respiratory Rate: 14 breaths/min
+- Temperature: 98.6°F
+
+**Physical Exam:**
+- **General:** Well-nourished, in no apparent distress.
+- **Musculoskeletal:** Mild swelling around the right tibia, healing surgical scar with no signs of infection.
+- **Palpation:** Tenderness over the fracture site, no significant deformity.
+- **Range of Motion (ROM):** Limited in the right leg due to pain and stiffness, but showing improvement with physical therapy.
+
+**3. Assessment:**
+Right tibial fracture, post motorcycle accident, 6 weeks post-surgery. The patient is showing signs of healing with reducing swelling and manageable pain. The healing surgical scar appears normal with no signs of infection. Range of motion is limited but improving with continued physical therapy.
+
+**4. Plan:**
+1. **Follow-up:** Schedule follow-up visit in 4 weeks to assess progress and healing.
+2. **Imaging:** Obtain an X-ray of the right tibia/fibula to evaluate bone healing and alignment.
+3. **Medication:** Continue current pain management regimen with Ibuprofen 400 mg, orally, every 6 hours as needed for pain.
+4. **Lifestyle Changes:**
+   - Maintain weight-bearing restrictions.
+   - Continue with prescribed physical therapy exercises to improve range of motion and strength.
+   - Monitor and manage pain levels to avoid interference with sleep and daily activities.
+   
+**Instructions:**
+- Patient advised to avoid high-impact activities.
+- Maintain a balanced diet with adequate calcium intake.
+- Contact the clinic if there is an increase in pain, swelling, or signs of infection.
+
+The patient is cooperative and adherent to medical advice and rehabilitation routines. He understands the importance of follow-up and is committed to the treatment plan."|"**1. Subjective:**
+
+**CC:**
+F/U for R tibial fx post MVA.
+
+**HPI:**
+The pt, John Smith, is a 29 y/o M who presents for a F/U appt 6 wks post-op for a R tibial fx. The pt reports mild to moderate pain, occasionally sharp, primarily after physical activities. Pain is manageable with the current regimen of Ibuprofen 400 mg PO q6h PRN. The pt notices swelling around the fx site, although it is reducing. He can bear some weight with crutches but experiences difficulty with prolonged standing or walking.
+
+**ROS:**
+- **MSK:** Swelling, mild to moderate pain, occasional sharp pain, and stiffness in the R tibia.
+- **Gen:** Adequate sleep, sometimes interrupted by pain.
+- **CV:** No issues reported.
+- **Resp:** No issues reported.
+- **GI:** Balanced diet with adequate Ca intake.
+- **Neuro:** No numbness or tingling reported.
+- **Psych:** No reported anxiety or depression.
+
+**2. Objective:**
+
+**VS:**
+- BP: 120/78 mmHg 
+- HR: 72 bpm
+- RR: 14 breaths/min
+- Temp: 98.6°F
+
+**PE:**
+- **Gen:** Well-nourished, in no apparent distress.
+- **MSK:** Mild swelling around the R tibia, healing surgical scar with no signs of infection.
+- **Palp:** Tenderness over the fx site, no significant deformity.
+- **ROM:** Limited in the R leg due to pain and stiffness, but showing improvement with PT.
+
+**3. Assessment:**
+R tibial fx, post MVA, 6 wks post-op. The pt is showing signs of healing with reducing swelling and manageable pain. The healing surgical scar appears normal with no signs of infection. ROM is limited but improving with continued PT.
+
+**4. Plan:**
+1. **F/U:** Schedule F/U visit in 4 wks to assess progress and healing.
+2. **Imaging:** Obtain an X-ray of the R tib/fib to eval bone healing and alignment.
+3. **Meds:** Continue current pain mgmt regimen with Ibuprofen 400 mg PO q6h PRN.
+4. **Lifestyle Changes:**
+   - Maintain WB restrictions.
+   - Continue with prescribed PT exercises to improve ROM and strength.
+   - Monitor and manage pain levels to avoid interference with sleep and daily activities.
+   
+**Instructions:**
+- Pt advised to avoid high-impact activities.
+- Maintain a balanced diet with adequate Ca intake.
+- Contact the clinic if there is an increase in pain, swelling, or signs of infection.
+
+The pt is cooperative and adherent to medical advice and rehab routines. He understands the importance of F/U and is committed to the tx plan."|Orthopedic Specialist
+ENCOUNTER FOR OTHER ORTHOPEDIC AFTERCARE|"ROLE: Orthopedic Surgeon
+
+**Demographic Information:** 
+- Age: 55 
+- Gender: Male 
+- Ethnicity: Caucasian 
+- Socio-economic Status: Middle-class 
+- Education Level: High school 
+- Health Literacy: Moderate 
+- Job Status: Retired
+
+**Clinical Setting:** 
+- Specialty Clinics
+
+**Geographical Location:** 
+- Urban 
+- Neighborhood Type: Affluent 
+- Well-served by Transit 
+
+**Previous Diagnoses:** 
+- Osteoarthritis of the right knee 
+- Hypertension 
+
+**Medication History:**
+- Losartan 50 mg daily for hypertension 
+- Glucosamine supplements 
+
+**Chronic Conditions:** 
+- Hypertension 
+- Osteoarthritis 
+
+**Patient’s self-reported habits and lifestyle:** 
+- Sleep: 7-8 hours per night 
+- Diet: Balanced 
+- Exercise: Limited due to knee pain, mostly walking 
+- Tobacco Use: None 
+- Alcohol Consumption: Moderate, social drinking 
+- Recreational Activities: Gardening, reading
+
+**Symptom Description:**
+- Severity: Mild to moderate pain 
+- Duration: Ongoing for three months post-knee replacement surgery 
+- Associated Symptoms: Occasional swelling and stiffness 
+- Frequency: Daily, worse in the morning 
+- Impact on Daily Activities: Difficulty performing heavy household chores and long walks 
+
+**Patient's Behavior:** 
+- Highly cooperative with medical advice 
+
+**Type of Encounter:** 
+- Follow-up 
+
+**Physical exams:** 
+- Examination shows mild swelling and tenderness around the knee joint. Range of motion is within functional limits but slightly restricted.
+
+**Investigation/Test results:** 
+- Blood work: Awaiting CMP and CBC results to rule out any underlying infection or inflammation.
+- Imaging: X-ray of the right knee, reviewed, showing proper alignment of the prosthesis with no signs of loosening or infection.
+
+**Medical Outcome:**
+- Diagnosis: Encounter for Other Orthopedic Aftercare (post-knee replacement)
+- Prescribed Treatment: 
+    - Physical therapy continuation focusing on strength and range of motion.
+    - Topical NSAID (Diclofenac gel), apply to affected area 4 times a day.
+- Follow-up Recommendations: Return in 6 weeks for another follow-up
+- Referral to Specialists: N/A
+- Lifestyle Change: Encouraged low-impact exercises such as swimming or cycling to maintain overall fitness."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):** 
+Post-knee replacement pain and stiffness.
+
+**History of Present Illness (HPI):** 
+John Smith is a 55-year-old Caucasian male who presents for a follow-up visit regarding his ongoing right knee pain following knee replacement surgery three months ago. He reports that the pain is mild to moderate and has been present daily, with a noticeable increase in stiffness and swelling, particularly in the mornings. The patient mentions that the pain impacts his ability to perform heavy household chores and take long walks, although he can manage lighter activities. He has been compliant with his medications, including Losartan 50 mg daily for hypertension and glucosamine supplements for joint health. He denies any tobacco use and states he drinks alcohol moderately in social settings.
+
+**Review of Systems (ROS):**
+- **Musculoskeletal:** Positive for right knee pain, occasional swelling, and stiffness.
+- **General:** No fever or chills.
+- **Cardiovascular:** Stable hypertension, well-controlled with Losartan.
+- **Neurological:** No numbness or tingling.
+
+**2. Objective:**
+
+**Vital Signs:**
+- BP: 135/85 mmHg
+- HR: 72 bpm
+- Temp: 98.6°F (37°C)
+- RR: 16 breaths/min
+
+**Physical Exam:**
+- **General:** Appears well-nourished and in no acute distress.
+- **Musculoskeletal:** Mild swelling and tenderness noted around the right knee joint. Range of motion is within functional limits but slightly restricted. No erythema or increased warmth over the knee.
+- **Skin:** No rashes or lesions.
+- **Neurological:** Motor and sensory functions are intact. Reflexes are normal.
+  
+**Investigation Results:**
+- **Imaging:** X-ray of the right knee reviewed, showing proper alignment of the prosthesis; no signs of loosening or infection.
+- **Blood Work:** Awaiting CMP and CBC results to rule out underlying infection or inflammation.
+
+**3. Assessment:**
+
+**Diagnosis:** Encounter for Other Orthopedic Aftercare following knee replacement surgery.
+
+**4. Plan:**
+1. **Prescribed Treatment:**
+   - Continue physical therapy with a focus on improving strength and range of motion of the right knee.
+   - Apply topical NSAID (Diclofenac gel) to the affected knee area 4 times a day.
+2. **Follow-up Recommendations:**
+   - Return in 6 weeks for another follow-up.
+3. **Lifestyle Change:**
+   - Encourage low-impact exercises such as swimming or cycling to maintain overall fitness.
+4. **Instructions:**
+   - Continue using supportive measures such as ice packs and elevation to manage swelling.
+   - Maintain adherence to hypertension medication and glucosamine supplements.
+   - Monitor for any signs of increased pain, redness, or other symptoms indicative of infection, and report these immediately.
+
+#####
+
+This comprehensive medical note effectively outlines the patient's current condition and management plan, ensuring continuity of care and clear communication between healthcare providers."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):** 
+Post-knee replacement pain and stiffness.
+
+**History of Present Illness (HPI):** 
+John Smith is a 55-year-old Caucasian male who presents for a follow-up visit regarding his ongoing right knee pain following knee replacement surgery three months ago. He reports that the pain is mild to moderate and has been present daily, with a noticeable increase in stiffness and swelling, particularly in the mornings. The patient mentions that the pain impacts his ability to perform heavy household chores and take long walks, although he can manage lighter activities. He has been compliant with his medications, including Losartan 50 mg daily for hypertension and glucosamine supplements for joint health. He denies any tobacco use and states he drinks alcohol moderately in social settings.
+
+**Review of Systems (ROS):**
+- **Musculoskeletal:** Positive for right knee pain, occasional swelling, and stiffness.
+- **General:** No fever or chills.
+- **Cardiovascular:** Stable hypertension, well-controlled with Losartan.
+- **Neurological:** No numbness or tingling.
+
+**2. Objective:**
+
+**Vital Signs:**
+- BP: 135/85 mmHg
+- HR: 72 bpm
+- Temp: 98.6°F (37°C)
+- RR: 16 breaths/min
+
+**Physical Exam:**
+- **General:** Appears well-nourished and in no acute distress.
+- **Musculoskeletal:** Mild swelling and tenderness noted around the right knee joint. Range of motion is within functional limits but slightly restricted. No erythema or increased warmth over the knee.
+- **Skin:** No rashes or lesions.
+- **Neurological:** Motor and sensory functions are intact. Reflexes are normal.
+  
+**Investigation Results:**
+- **Imaging:** X-ray of the right knee reviewed, showing proper alignment of the prosthesis; no signs of loosening or infection.
+
+**3. Assessment:**
+
+**Diagnosis:** Encounter for Other Orthopedic Aftercare following knee replacement surgery.
+
+**4. Plan:**
+1. **Prescribed Treatment:**
+   - Continue physical therapy with a focus on improving strength and range of motion of the right knee.
+   - Apply topical NSAID (Diclofenac gel) to the affected knee area 4 times a day.
+2. **Follow-up Recommendations:**
+   - Return in 6 weeks for another follow-up.
+3. **Lifestyle Change:**
+   - Encourage low-impact exercises such as swimming or cycling to maintain overall fitness.
+4. **Instructions:**
+   - Continue using supportive measures such as ice packs and elevation to manage swelling.
+   - Maintain adherence to hypertension medication and glucosamine supplements.
+   - Monitor for any signs of increased pain, redness, or other symptoms indicative of infection, and report these immediately.
+5. **Pending Investigations:**
+   - Awaiting CMP and CBC results to rule out underlying infection or inflammation.
+
+#####"|"#####
+**1. Subjective:**
+
+**CC:** 
+Post-TKA pain and stiffness.
+
+**HPI:** 
+John Smith is a 55-year-old Caucasian male here for f/u of ongoing R knee pain s/p TKA 3 months ago. Reports mild to moderate pain daily, with increased AM stiffness and swelling. Pain impacts heavy household chores and long walks, but lighter activities are manageable. Pt compliant with meds, including Losartan 50 mg QD for HTN and glucosamine for joint health. Denies tobacco use; drinks alcohol moderately in social settings.
+
+**ROS:**
+- **MSK:** Positive for R knee pain, occasional swelling, and stiffness.
+- **General:** No fever or chills.
+- **CV:** Stable HTN, well-controlled with Losartan.
+- **Neuro:** No numbness or tingling.
+
+**2. Objective:**
+
+**VS:**
+- BP: 135/85 mmHg
+- HR: 72 bpm
+- Temp: 98.6°F (37°C)
+- RR: 16 breaths/min
+
+**PE:**
+- **General:** Appears well-nourished and in NAD.
+- **MSK:** Mild swelling and tenderness around R knee joint. ROM within functional limits but slightly restricted. No erythema or increased warmth.
+- **Skin:** No rashes or lesions.
+- **Neuro:** Motor and sensory functions intact. Reflexes normal.
+  
+**Investigation Results:**
+- **Imaging:** X-ray of R knee reviewed, showing proper alignment of prosthesis; no signs of loosening or infection.
+
+**3. Assessment:**
+
+**Dx:** Encounter for Other Ortho Aftercare s/p TKA.
+
+**4. Plan:**
+1. **Rx:**
+   - Continue PT focusing on strength and ROM of R knee.
+   - Apply topical NSAID (Diclofenac gel) to affected area QID.
+2. **F/U:**
+   - Return in 6 weeks for f/u.
+3. **Lifestyle:**
+   - Encourage low-impact exercises like swimming or cycling to maintain overall fitness.
+4. **Instructions:**
+   - Continue supportive measures like ice packs and elevation for swelling.
+   - Maintain adherence to HTN meds and glucosamine supplements.
+   - Monitor for increased pain, redness, or other signs of infection, and report immediately.
+5. **Pending Investigations:**
+   - Awaiting CMP and CBC results to r/o underlying infection or inflammation.
+
+#####"|Orthopedic Surgeon
+ENCOUNTER FOR OTHER ORTHOPEDIC AFTERCARE|"ROLE: Orthopedic Surgeon
+
+SCENARIO:
+
+**1) Medical Outcome:**
+   - Follow-up recommendations: Continue with physical therapy.
+   - Referral to further tests or imaging: MRI of the lumbar spine to assess for any soft tissue damage.
+   - Medication prescribing details:
+      - Ibuprofen 400 mg tablets
+      - Dose: Take 1 tablet
+      - Frequency: Every 6 hours as needed for pain
+      - Duration: 10 days
+      - Quantity: 40
+      - Route: Oral
+      
+**2) Medical History:**
+   - Previous Diagnoses: Lumbar disc herniation
+   - Family Medical History: Mother with osteoporosis
+   - Medication History: Previously on Hydrocodone for acute pain post-surgery
+   - Allergies: None
+   - Chronic Conditions: Type 2 Diabetes
+
+**3) Symptom Description:**
+   - Severity: Mild to moderate back pain
+   - Duration: Ongoing for 3 months post-surgery
+   - Associated Symptoms: Occasional numbness in the right leg
+   - Frequency: Pain occurs daily, especially after prolonged sitting or standing
+   - Impact on Daily Activities: Difficulty in performing household chores and office work
+
+**4) Patient's self-reported habits and lifestyle:**
+   - Sleep: 6-7 hours per night, wakes up due to back pain
+   - Diet: Balanced diet with a focus on reducing sugar intake
+   - Exercise: Light walking, avoiding heavy lifting as per previous advice
+   - Tobacco Use: None
+   - Alcohol Consumption: Occasionally, 1-2 glasses of wine per week
+   - Drug Use: None
+   - Recreational Activities: Likes to read books and watch TV
+
+**5) Demographic Information:**
+   - Age: 45
+   - Gender: Female
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: Good
+   - Job Status: Working as an accountant
+
+**6) Patient's Behavior:**
+   - Cooperation: Very cooperative with medical advice and follows recommendations diligently
+
+**7) Geographical Location:**
+   - Urban
+   - Pollution and Environmental Health Risks: Minimal exposure to pollution
+   - Neighborhood Type: Affluent, well-served by transit
+
+**8) Clinical Setting:**
+   - Specialty Clinic: Orthopedic clinic
+
+**9) Type of Encounter:**
+   - Follow-up
+
+**10) Treatment Disparities:**
+   - No apparent disparities; patient has access to comprehensive care options
+
+**11) Native or Non-Native English Speaking Patient:**
+   - Native English Speaking
+
+**12) Physical Exams:**
+   - Lumbar Spine Exam: Tenderness on palpation over L4-L5
+   - Neurological Exam: Slight weakness in the right foot dorsiflexion, otherwise normal
+
+**13) Investigation/Test results:**
+   - Awaiting MRI results of the lumbar spine"|Rejected|Rejected|Rejected|Rejected
+ENCOUNTER FOR OTHER ORTHOPEDIC AFTERCARE|"ROLE: Orthopedic Surgeon
+
+SCENARIO:
+
+**1) Medical Outcome:**
+   - Follow-up recommendations: Recommend continuing physical therapy.
+   - Referral to further tests or imaging: X-ray of the right hip to evaluate for potential fractures or other anomalies.
+   - Medication prescribing details:
+      - Naproxen 500 mg tablets
+      - Dose: Take 1 tablet
+      - Frequency: Twice daily with food
+      - Duration: 14 days
+      - Quantity: 28
+      - Route: Oral
+
+**2) Medical History:**
+   - Previous Diagnoses: Right hip arthroplasty
+   - Family Medical History: Father with chronic arthritis
+   - Medication History: Previously on Acetaminophen for pain management
+   - Allergies: Penicillin
+   - Chronic Conditions: Hypertension
+
+**3) Symptom Description:**
+   - Severity: Moderate right hip pain
+   - Duration: Ongoing for 6 weeks post-surgery
+   - Associated Symptoms: Swelling and stiffness in the right hip
+   - Frequency: Pain occurs mostly after walking or standing for long periods
+   - Impact on Daily Activities: Difficulty in performing daily tasks and limited mobility
+
+**4) Patient's self-reported habits and lifestyle:**
+   - Sleep: 5-6 hours per night, disrupted due to hip pain
+   - Diet: High in protein and low in carbohydrates
+   - Exercise: Gentle stretching exercises but avoiding high-impact activities
+   - Tobacco Use: 1 pack of cigarettes a day for 15 years
+   - Alcohol Consumption: Heavy (4-5 drinks per day)
+   - Drug Use: None
+   - Recreational Activities: Enjoys gardening, but has had to limit activities recently
+
+**5) Demographic Information:**
+   - Age: 60
+   - Gender: Male
+   - Ethnicity: African American
+   - Socio-economic Status: Lower middle class
+   - Education Level: High school diploma
+   - Health Literacy: Moderate
+   - Job Status: Retired factory worker
+
+**6) Patient's Behavior:**
+   - Cooperation: Generally cooperative but occasionally forgets to take medication and follow exercise recommendations
+
+**7) Geographical Location:**
+   - Small City
+   - Pollution and Environmental Health Risks: Higher exposure due to nearby industrial area
+   - Neighborhood Type: Working-class area with some health service limitations
+
+**8) Clinical Setting:**
+   - Hospital
+
+**9) Type of Encounter:**
+   - Follow-up
+
+**10) Treatment Disparities:**
+   - Mild disparities due to limited access to specialized healthcare facilities in the area
+
+**11) Native or Non-Native English Speaking Patient:**
+   - Native English Speaking
+
+**12) Physical Exams:**
+   - Right Hip Exam: Tenderness on palpation over the hip joint, decreased range of motion
+   - Neurological Exam: Normal reflexes and muscle strength
+
+**13) Investigation/Test results:**
+   - Awaiting X-ray results of the right hip"|Rejected|Rejected|Rejected|Rejected
+ENCOUNTER FOR OTHER ORTHOPEDIC AFTERCARE|"ROLE: Orthopedic Surgeon
+
+SCENARIO:
+
+**1) Medical Outcome:**
+   - Follow-up recommendations: Recommend aquatic therapy.
+   - Referral to further tests or imaging: Ultrasound of the left shoulder to assess for soft tissue injury.
+   - Medication prescribing details:
+      - Meloxicam 15 mg tablets
+      - Dose: Take 1 tablet
+      - Frequency: Once daily
+      - Duration: 30 days
+      - Quantity: 30
+      - Route: Oral
+
+**2) Medical History:**
+   - Previous Diagnoses: Left shoulder rotator cuff repair
+   - Family Medical History: Mother with rheumatoid arthritis, father with chronic bronchitis
+   - Medication History: Previously on Prednisone for inflammation management post-surgery
+   - Allergies: Sulfa drugs
+   - Chronic Conditions: Asthma
+
+**3) Symptom Description:**
+   - Severity: Severe left shoulder pain
+   - Duration: Persistent for 7 months post-surgery
+   - Associated Symptoms: Limited range of motion and weakness in the left arm
+   - Frequency: Constant pain, worsens with shoulder movement
+   - Impact on Daily Activities: Inability to lift objects over 5 pounds, difficulty dressing and grooming
+
+**4) Patient's self-reported habits and lifestyle:**
+   - Sleep: 4-5 hours per night, wakes up due to shoulder pain
+   - Diet: High in red meat and processed foods
+   - Exercise: Limited to light stretching due to pain
+   - Tobacco Use: None
+   - Alcohol Consumption: Drinks socially, 1-2 drinks per week
+   - Drug Use: None
+   - Recreational Activities: Previously enjoyed kayaking but has stopped due to shoulder pain
+
+**5) Demographic Information:**
+   - Age: 28
+   - Gender: Female
+   - Ethnicity: Asian
+   - Socio-economic Status: Low-income
+   - Education Level: Some college education
+   - Health Literacy: Low
+   - Job Status: Part-time barista
+
+**6) Patient's Behavior**
+   - Cooperation: Struggles with following physical therapy regimen due to financial constraints and busy work schedule
+
+**7) Geographical Location:**
+   - Rural
+   - Pollution and Environmental Health Risks: Minimal
+   - Neighborhood Type: Impoverished, limited access to public transit and healthcare facilities
+
+**8) Clinical Setting:**
+   - Community Health Center
+
+**9) Type of Encounter:**
+   - Initial Consultation
+
+**10) Treatment Disparities:**
+   - Significant disparities due to the patient's low-income status and limited access to health services and specialized care
+
+**11) Native or Non-Native English Speaking Patient:**
+   - Non-Native English Speaking
+
+**12) Physical Exams:**
+   - Left Shoulder Exam: Marked tenderness on palpation, decreased range of motion, positive impingement sign
+   - Respiratory Exam: Wheezing noted on auscultation, consistent with asthma
+
+**13) Investigation/Test results:**
+   - Awaiting Ultrasound results of the left shoulder"|Rejected|Rejected|Rejected|Rejected

@@ -22,14 +22,15 @@ def main():
 def main():
     openai_client= note_generation_functions.initialize_openai_client()
     df = pd.read_csv("/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/input/IQVIA/IQVIA_cleaned.csv",  sep="|")
-    top_100_icd10_desc = df['ICD10_desc'].head(100).tolist()
+    #top_100_icd10_desc = df['ICD10_desc'].head(100).tolist()
+    next_200_icd10_desc = df['ICD10_desc'].iloc[100:300].tolist()
 
-    for disease in top_100_icd10_desc:
+    for disease in next_200_icd10_desc:
             print(disease)
             note_generation_functions.generate_and_save_medical_notes(disease_description= disease, 
                                                               notes_count= 5, 
                                                               openai_client= openai_client,
-                                                              path_to_save_notes= "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/Phase_2/500_sample") #gen_constants.PATH_TO_SAVE_NOTES
+                                                              path_to_save_notes= "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/Phase_3") #gen_constants.PATH_TO_SAVE_NOTES
 
 if __name__ == '__main__':
     main()

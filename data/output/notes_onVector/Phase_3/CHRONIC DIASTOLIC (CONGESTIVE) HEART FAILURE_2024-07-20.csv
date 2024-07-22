@@ -1,0 +1,1260 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role
+CHRONIC DIASTOLIC (CONGESTIVE) HEART FAILURE|"ROLE: Cardiologist
+
+**Scenario Variables:**
+
+1) Medical Outcome:
+    - Diagnosis: Chronic Diastolic (Congestive) Heart Failure
+    - Prescribed Medication: Metoprolol 50 mg, oral, once daily, for 3 months, 90 tablets.
+    - Follow-up Recommendations: Follow-up in 1 month to assess response to medication.
+    - Referral: Cardiology referral to Dr. James Smith for further evaluation and management.
+    - Lifestyle Change: Sodium-restricted diet, daily weight monitoring, and regular moderate exercise.
+    - Blood work: Order for biochemistry including electrolytes, renal function, and BNP (B-type natriuretic peptide).
+    - Imaging: Echocardiogram to assess heart function.
+
+2) Medical History:
+    - Previous Diagnoses: Hypertension, Type 2 Diabetes Mellitus
+    - Family Medical History: Father had coronary artery disease
+
+3) Symptom Description:
+    - Severity: Moderate
+    - Duration: Symptoms have progressively worsened over the past 6 months
+    - Associated Symptoms: Shortness of breath on exertion, swelling of legs, fatigue
+    - Frequency: Daily
+    - Impact on Daily Activities: Difficulty in performing daily tasks and walking short distances
+
+4) Patient’s self-reported habits and lifestyle:
+    - Sleep: Poor, frequently wakes up at night due to breathlessness
+    - Diet: High in sodium
+    - Exercise: Sedentary lifestyle
+    - Tobacco Use: None
+    - Alcohol Consumption: Occasional, 1-2 times per month
+    - Drug Use: None
+    - Recreational Activities: Enjoys watching TV and reading
+
+5) Demographic Information:
+    - Age: 65
+    - Gender: Male
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: High school graduate
+    - Health Literacy: Moderate
+    - Job Status: Retired
+
+6) Patient's Behavior:
+    - Generally cooperative with medical advice but struggles with dietary changes
+
+7) Geographical Location:
+    - Big City
+    - Urban
+    - Neighborhood Type: Well-served by Transit, Accessible Healthcare Facilities
+
+8) Clinical Setting:
+    - Clinic
+
+9) Type of Encounter:
+    - Initial Consultation
+
+10) Treatment Disparities:
+    - NA
+
+11) Native or Non-Native English Speaking Patient:
+    - Native English Speaking Patient
+
+12) Physical exams:
+    - Cardiovascular Exam: S4 heart sound, peripheral edema, jugular venous distension
+    - Respiratory Exam: Basal crackles on lung auscultation
+    - Abdominal Exam: Mild hepatomegaly
+   
+13) Investigation/Test results:
+    - Blood pressure: 140/85 mmHg
+    - Heart rate: 75 bpm
+    - Pending Blood work: Biochemistry including electrolytes, renal function, and BNP
+    - Pending Imaging: Echocardiogram for heart function assessment"|"**1. Subjective:**
+
+   **Chief Complaint (CC):**
+   - Shortness of breath, leg swelling, and fatigue.
+
+   **History of Present Illness (HPI):**
+   - The patient is a 65-year-old male who presents with symptoms of progressively worsening shortness of breath on exertion, swelling of the legs, and fatigue over the past 6 months. These symptoms occur daily and significantly impact his ability to perform daily tasks and walk short distances. He also reports poor sleep, frequently waking up at night due to breathlessness.
+
+   **Review of Systems (ROS):**
+   - **Constitutional:** Reports fatigue.
+   - **Cardiovascular:** Reports leg swelling and shortness of breath on exertion.
+   - **Respiratory:** Reports shortness of breath, particularly at night.
+   - **Gastrointestinal:** Denies nausea, vomiting, or abdominal pain.
+   - **Endocrine:** Reports history of diabetes mellitus type 2.
+   - **Neurological:** Denies dizziness or syncope.
+   
+**2. Objective:**
+
+   **Vital Signs:**
+   - Blood pressure: 140/85 mmHg
+   - Heart rate: 75 bpm
+
+   **Physical Exam:**
+   - **Cardiovascular:** S4 heart sound, peripheral edema, jugular venous distension.
+   - **Respiratory:** Basal crackles on lung auscultation.
+   - **Abdomen:** Mild hepatomegaly.
+
+   **Pending Investigations:**
+   - Blood work: Biochemistry including electrolytes, renal function, and BNP.
+   - Imaging: Echocardiogram to assess heart function.
+   
+**3. Assessment:**
+
+   - **Chronic Diastolic (Congestive) Heart Failure:**
+     - **Medical Reasoning:** The patient's symptoms of progressive shortness of breath, leg swelling, and fatigue, along with physical findings of S4 heart sound, peripheral edema, jugular venous distension, and basal crackles, are consistent with chronic diastolic heart failure. The patient's history of hypertension and type 2 diabetes mellitus further supports this diagnosis.
+     - **Differential Diagnosis:** CHF (congestive heart failure), COPD (chronic obstructive pulmonary disease), chronic kidney disease, anemia.
+   
+**4. Plan:**
+
+   **Medications:**
+   - Prescribe Metoprolol 50 mg, oral, once daily for 3 months, 90 tablets.
+
+   **Lifestyle Modifications:**
+   - Implement a sodium-restricted diet.
+   - Encourage daily weight monitoring.
+   - Recommend regular moderate exercise.
+
+   **Follow-Up:**
+   - Schedule follow-up in 1 month to assess the patient's response to the medication.
+
+   **Referrals:**
+   - Cardiology referral to Dr. James Smith for further evaluation and management.
+
+   **Investigations:**
+   - Order blood work to include biochemistry with electrolytes, renal function, and BNP.
+   - Schedule an echocardiogram to assess heart function.
+
+   **Patient Education and Counseling:**
+   - Educated the patient on the importance of adhering to a low-sodium diet and discussed strategies to help with dietary changes.
+   - Explained the importance of regular physical activity and daily weight monitoring.
+   - Reviewed the significance of taking prescribed medications as directed and attending follow-up appointments.
+   - Discussed the symptoms of worsening heart failure and advised the patient to seek immediate medical attention if symptoms like severe shortness of breath, rapid weight gain, or chest pain occur.
+
+   **Patient Agreement:**
+   - The patient understands and agrees with the recommended medical treatment plan and lifestyle changes.
+
+**Instructions:**
+   - The patient will follow up in 1 month. He should call or return to the clinic if he experiences any worsening of symptoms or new concerning symptoms."|"**1. Subjective:**
+
+   **Chief Complaint (CC):**
+   - Shortness of breath, leg swelling, and fatigue.
+
+   **History of Present Illness (HPI):**
+   - The patient, Mr. John Doe, is a 65-year-old male who presents with symptoms of progressively worsening shortness of breath on exertion, swelling of the legs, and fatigue over the past 6 months. These symptoms occur daily and significantly impact his ability to perform daily tasks and walk short distances. He also reports poor sleep, frequently waking up at night due to breathlessness.
+
+   **Review of Systems (ROS):**
+   - **Constitutional:** Reports fatigue.
+   - **Cardiovascular:** Reports leg swelling and shortness of breath on exertion.
+   - **Respiratory:** Reports shortness of breath, particularly at night.
+   - **Gastrointestinal:** Denies nausea, vomiting, or abdominal pain.
+   - **Endocrine:** Reports history of diabetes mellitus type 2.
+   - **Neurological:** Denies dizziness or syncope.
+   
+**2. Objective:**
+
+   **Vital Signs:**
+   - Blood pressure: 140/85 mmHg
+   - Heart rate: 75 bpm
+
+   **Physical Exam:**
+   - **Cardiovascular:** S4 heart sound, peripheral edema, jugular venous distension.
+   - **Respiratory:** Basal crackles on lung auscultation.
+   - **Abdomen:** Mild hepatomegaly.
+   
+**3. Assessment:**
+
+   - **Chronic Diastolic (Congestive) Heart Failure:**
+     - **Medical Reasoning:** The patient's symptoms of progressive shortness of breath, leg swelling, and fatigue, along with physical findings of S4 heart sound, peripheral edema, jugular venous distension, and basal crackles, are consistent with chronic diastolic heart failure. The patient's history of hypertension and type 2 diabetes mellitus further supports this diagnosis.
+     - **Differential Diagnosis:** CHF (congestive heart failure), COPD (chronic obstructive pulmonary disease), chronic kidney disease, anemia.
+   
+**4. Plan:**
+
+   **Medications:**
+   - Prescribe Metoprolol 50 mg, oral, once daily for 3 months, 90 tablets.
+
+   **Lifestyle Modifications:**
+   - Implement a sodium-restricted diet.
+   - Encourage daily weight monitoring.
+   - Recommend regular moderate exercise.
+
+   **Follow-Up:**
+   - Schedule follow-up in 1 month to assess the patient's response to the medication.
+
+   **Referrals:**
+   - Cardiology referral to Dr. James Smith for further evaluation and management of chronic diastolic heart failure.
+
+   **Investigations:**
+   - Order blood work to include biochemistry with electrolytes, renal function, and BNP.
+   - Schedule an echocardiogram to assess heart function.
+
+   **Patient Education and Counseling:**
+   - Educated the patient on the importance of adhering to a low-sodium diet and discussed strategies to help with dietary changes.
+   - Explained the importance of regular physical activity and daily weight monitoring.
+   - Reviewed the significance of taking prescribed medications as directed and attending follow-up appointments.
+   - Discussed the symptoms of worsening heart failure and advised the patient to seek immediate medical attention if symptoms like severe shortness of breath, rapid weight gain, or chest pain occur.
+
+   **Patient Agreement:**
+   - The patient understands and agrees with the recommended medical treatment plan and lifestyle changes.
+
+**Instructions:**
+   - The patient will follow up in 1 month. He should call or return to the clinic if he experiences any worsening of symptoms or new concerning symptoms."|"**1. Subjective:**
+
+   **CC:**
+   - SOB, leg swelling, and fatigue.
+
+   **HPI:**
+   - The pt, Mr. John Doe, is a 65 y/o M who presents with sx of progressively worsening SOB on exertion, leg edema, and fatigue over the past 6 mos. These sx occur daily and significantly impact his ADLs and ability to ambulate short distances. He also reports poor sleep, frequently waking up at night due to breathlessness.
+
+   **ROS:**
+   - **Constitutional:** Reports fatigue.
+   - **CV:** Reports leg edema and SOB on exertion.
+   - **Resp:** Reports SOB, particularly at night.
+   - **GI:** Denies N/V or abd pain.
+   - **Endo:** Reports hx of DM2.
+   - **Neuro:** Denies dizziness or syncope.
+   
+**2. Objective:**
+
+   **VS:**
+   - BP: 140/85 mmHg
+   - HR: 75 bpm
+
+   **PE:**
+   - **CV:** S4 heart sound, peripheral edema, JVD.
+   - **Resp:** Basal crackles on lung auscultation.
+   - **Abd:** Mild hepatomegaly.
+   
+**3. Assessment:**
+
+   - **Chronic Diastolic (Congestive) HF:**
+     - **Medical Reasoning:** The pt's sx of progressive SOB, leg edema, and fatigue, along with PE findings of S4 heart sound, peripheral edema, JVD, and basal crackles, are consistent with chronic diastolic HF. The pt's hx of HTN and DM2 further supports this dx.
+     - **DDx:** CHF, COPD, CKD, anemia.
+   
+**4. Plan:**
+
+   **Meds:**
+   - Rx Metoprolol 50 mg PO QD for 3 mos, 90 tabs.
+
+   **Lifestyle Mods:**
+   - Implement a Na-restricted diet.
+   - Encourage daily wt monitoring.
+   - Recommend regular moderate exercise.
+
+   **F/U:**
+   - Schedule f/u in 1 mo to assess the pt's response to the med.
+
+   **Referrals:**
+   - Cardiology referral to Dr. James Smith for further eval and mgmt of chronic diastolic HF.
+
+   **Investigations:**
+   - Order blood work to include biochem with lytes, renal function, and BNP.
+   - Schedule an echo to assess heart function.
+
+   **Pt Ed and Counseling:**
+   - Educated the pt on the importance of adhering to a low-Na diet and discussed strategies to help with dietary changes.
+   - Explained the importance of regular physical activity and daily wt monitoring.
+   - Reviewed the significance of taking Rx meds as directed and attending f/u appts.
+   - Discussed the sx of worsening HF and advised the pt to seek immediate medical attention if sx like severe SOB, rapid wt gain, or CP occur.
+
+   **Pt Agreement:**
+   - The pt understands and agrees with the recommended medical tx plan and lifestyle changes.
+
+**Instructions:**
+   - The pt will f/u in 1 mo. He should call or return to the clinic if he experiences any worsening of sx or new concerning sx."|Cardiologist
+CHRONIC DIASTOLIC (CONGESTIVE) HEART FAILURE|"ROLE: Cardiologist
+
+**Scenario:**
+
+1) Medical Outcome:
+    - Diagnosis: Chronic diastolic (congestive) heart failure
+    - Prescribed Treatment: Increase current dose of metoprolol succinate to 100 mg daily
+    - Follow-up Recommendations: Return in 3 months for follow-up echocardiogram
+    - Referral: Referral to a dietitian to manage sodium intake - Dr. Jane Smith
+    - Blood Work: Order for biochemistry panel including BNP and kidney function tests
+    - Lifestyle Change: Advise reducing sodium intake and engaging in moderate exercise (e.g., walking for 30 minutes daily)
+
+2) Medical History:
+    - Previous Diagnoses: Hypertension, Type 2 Diabetes Mellitus
+    - Family Medical History: Mother had coronary artery disease; father had hypertension
+    - Medication History: Metoprolol succinate 50 mg daily, Lisinopril 20 mg daily, Metformin 1000 mg twice daily
+    - Allergies: None
+    - Chronic Conditions: Hypertension, Type 2 Diabetes Mellitus
+
+3) Symptom Description:
+    - Severity: Moderate shortness of breath
+    - Duration: Last 6 months, worsening over the last 2 weeks
+    - Associated Symptoms: Fatigue, mild ankle swelling
+    - Frequency: Daily
+    - Impact on Daily Activities: Difficulty performing household chores, requires frequent rest intervals
+
+4) Patient’s self-reported habits and lifestyle:
+    - Sleep: Reports difficulty sleeping due to nocturnal dyspnea
+    - Diet: High in sodium, frequent consumption of fast food
+    - Exercise: Sedentary lifestyle, occasionally walks dog
+    - Tobacco Use: Former smoker, quit 5 years ago
+    - Alcohol Consumption: Drinks socially, approximately 1-2 drinks per week
+    - Drug Use: Denies
+    - Recreational Activities: Enjoys watching TV and reading
+
+5) Demographic Information:
+    - Age: 65 years
+    - Gender: Male
+    - Ethnicity: Hispanic
+    - Socio-economic Status: Middle class
+    - Education Level: High school graduate
+    - Health Literacy: Moderate
+    - Job Status: Retired
+
+6) Patient's Behavior:
+    - Generally cooperative with medical advice but has difficulty adhering to dietary recommendations
+
+7) Geographical Location:
+    - Big City: Urban
+    - Pollution and Environmental Health Risks: Moderate air pollution
+    - Neighborhood Type: Suburban, well-served by transit, access to fresh foods is moderate
+
+8) Clinical Setting:
+    - Specialty Clinic: Cardiovascular Clinic
+
+9) Type of Encounter:
+    - Follow-up
+
+10) Treatment Disparities:
+    - N/A
+
+11) Native or Non-Native English Speaking Patient:
+    - Native English-speaking patient
+
+12) Physical exams:
+    - Cardiovascular: Auscultation reveals S4 heart sound, mild peripheral edema noted
+    - Respiratory: Bibasilar crackles on lung auscultation
+
+13) Investigation/Test results:
+    - Awaiting results: Echocardiogram ordered to assess left ventricular diastolic function
+    - Lab results to be reviewed: Biochemistry panel including BNP and kidney function tests pending"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Moderate shortness of breath.
+
+**History of Present Illness (HPI):**
+The patient is a 65-year-old Hispanic male, presenting for a follow-up visit at the cardiovascular clinic. He has been experiencing moderate shortness of breath for the past 6 months, which has worsened over the last 2 weeks. The patient reports associated symptoms of fatigue and mild ankle swelling, occurring daily and significantly impacting his ability to perform household chores, requiring frequent rest intervals.
+
+**Review of Systems (ROS):**
+- **Cardiovascular:** Reports moderate shortness of breath, fatigue, and mild ankle swelling.
+- **Respiratory:** Reports nocturnal dyspnea and requires frequent rest due to shortness of breath.
+- **Musculoskeletal:** No complaints
+- **Neurological:** No neurological deficits reported
+- **Gastrointestinal:** No gastrointestinal issues reported
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 145/90 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 18 breaths/min
+- Temperature: 98.6°F
+- SpO2: 94% on room air
+
+**Physical Examination:**
+- **Cardiovascular:** Auscultation reveals an S4 heart sound, with mild peripheral edema noted.
+- **Respiratory:** Bibasilar crackles on lung auscultation.
+- **Other Systems:** No abnormalities noted.
+
+**Investigation/Test Results:**
+- Echocardiogram ordered to assess left ventricular diastolic function.
+- Biochemistry panel including BNP and kidney function tests pending.
+
+**3. Assessment:**
+The patient is diagnosed with chronic diastolic (congestive) heart failure. Differential diagnoses include exacerbation of hypertension and complications from Type 2 Diabetes Mellitus.
+
+**4. Plan:**
+1. **Medications:**
+   - Increase the current dose of metoprolol succinate to 100 mg daily.
+
+2. **Follow-up Recommendations:**
+   - Return in 3 months for a follow-up echocardiogram.
+
+3. **Referral:**
+   - Refer to a dietitian to manage sodium intake - Dr. Jane Smith.
+
+4. **Blood Work:**
+   - Order for biochemistry panel including BNP and kidney function tests.
+
+5. **Lifestyle Changes:**
+   - Advise reducing sodium intake and engaging in moderate exercise, such as walking for 30 minutes daily.
+
+6. **Patient Education:**
+   - Discussed the importance of adhering to dietary recommendations, particularly reducing sodium intake.
+   - Emphasized the need for moderate exercise and provided suggestions for incorporating physical activity into daily routines.
+
+The patient appeared cooperative and understanding of the instructions provided. A follow-up visit was scheduled, and he was advised to contact the clinic if any new symptoms develop or existing symptoms worsen."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Moderate shortness of breath.
+
+**History of Present Illness (HPI):**
+The patient is a 65-year-old Hispanic male, presenting for a follow-up visit at the cardiovascular clinic. He has been experiencing moderate shortness of breath for the past 6 months, which has worsened over the last 2 weeks. The patient reports associated symptoms of fatigue and mild ankle swelling, occurring daily and significantly impacting his ability to perform household chores, requiring frequent rest intervals.
+
+**Review of Systems (ROS):**
+- **Cardiovascular:** Reports moderate shortness of breath, fatigue, and mild ankle swelling.
+- **Respiratory:** Reports nocturnal dyspnea and requires frequent rest due to shortness of breath.
+- **Musculoskeletal:** No complaints
+- **Neurological:** No neurological deficits reported
+- **Gastrointestinal:** No gastrointestinal issues reported
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 145/90 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 18 breaths/min
+- Temperature: 98.6°F
+- SpO2: 94% on room air
+
+**Physical Examination:**
+- **Cardiovascular:** Auscultation reveals an S4 heart sound, with mild peripheral edema noted.
+- **Respiratory:** Bibasilar crackles on lung auscultation.
+- **Other Systems:** No abnormalities noted.
+
+**3. Assessment:**
+The patient is diagnosed with chronic diastolic (congestive) heart failure. Differential diagnoses include exacerbation of hypertension and complications from Type 2 Diabetes Mellitus.
+
+**4. Plan:**
+1. **Medications:**
+   - Increase the current dose of metoprolol succinate to 100 mg daily.
+
+2. **Follow-up Recommendations:**
+   - Return in 3 months for a follow-up echocardiogram.
+
+3. **Referral:**
+   - Refer to a dietitian to manage sodium intake - Dr. Jane Smith.
+
+4. **Blood Work:**
+   - Order for biochemistry panel including BNP and kidney function tests.
+
+5. **Lifestyle Changes:**
+   - Advise reducing sodium intake and engaging in moderate exercise, such as walking for 30 minutes daily.
+
+6. **Patient Education:**
+   - Discussed the importance of adhering to dietary recommendations, particularly reducing sodium intake.
+   - Emphasized the need for moderate exercise and provided suggestions for incorporating physical activity into daily routines.
+
+The patient appeared cooperative and understanding of the instructions provided. A follow-up visit was scheduled, and he was advised to contact the clinic if any new symptoms develop or existing symptoms worsen."|"**1. Subjective:**
+
+**CC:**
+Moderate SOB.
+
+**HPI:**
+The pt is a 65 y/o Hispanic male, presenting for a f/u visit at the CV clinic. He has been experiencing moderate SOB for the past 6 mos, which has worsened over the last 2 wks. The pt reports associated sx of fatigue and mild ankle edema, occurring daily and significantly impacting his ability to perform household chores, requiring frequent rest intervals.
+
+**ROS:**
+- **CV:** Reports moderate SOB, fatigue, and mild ankle edema.
+- **Resp:** Reports nocturnal dyspnea and requires frequent rest due to SOB.
+- **MSK:** No complaints
+- **Neuro:** No neuro deficits reported
+- **GI:** No GI issues reported
+
+**2. Objective:**
+
+**VS:**
+- BP: 145/90 mmHg
+- HR: 72 bpm
+- RR: 18 breaths/min
+- Temp: 98.6°F
+- SpO2: 94% on RA
+
+**PE:**
+- **CV:** Auscultation reveals an S4 heart sound, with mild peripheral edema noted.
+- **Resp:** Bibasilar crackles on lung auscultation.
+- **Other Systems:** No abnormalities noted.
+
+**3. Assessment:**
+The pt is dx'ed with chronic diastolic (congestive) HF. Differential dx includes exacerbation of HTN and complications from T2DM.
+
+**4. Plan:**
+1. **Meds:**
+   - Increase the current dose of metoprolol succinate to 100 mg daily.
+
+2. **F/U Recommendations:**
+   - Return in 3 mos for a f/u echo.
+
+3. **Referral:**
+   - Refer to a dietitian to manage Na intake - Dr. Jane Smith.
+
+4. **Labs:**
+   - Order for biochem panel including BNP and kidney function tests.
+
+5. **Lifestyle Changes:**
+   - Advise reducing Na intake and engaging in moderate exercise, such as walking for 30 mins daily.
+
+6. **Pt Education:**
+   - Discussed the importance of adhering to dietary recommendations, particularly reducing Na intake.
+   - Emphasized the need for moderate exercise and provided suggestions for incorporating physical activity into daily routines.
+
+The pt appeared cooperative and understanding of the instructions provided. A f/u visit was scheduled, and he was advised to contact the clinic if any new sx develop or existing sx worsen."|Cardiologist
+CHRONIC DIASTOLIC (CONGESTIVE) HEART FAILURE|"ROLE: Cardiologist
+
+**1) Medical Outcome:**
+   - Diagnosis: Chronic Diastolic (Congestive) Heart Failure
+   - Prescribed Treatment: Increase metoprolol to 50 mg oral tablet, twice daily.
+   - Follow-up Recommendations: Return visit in 2 months for follow-up and additional management.
+   - Medication Adjustment: Start spironolactone 25 mg oral tablet, once daily.
+   - Lifestyle Change: Low-sodium diet, daily walking exercise (30 minutes), limit fluid intake to 1.5 liters per day.
+   - Referral: Cardiac rehabilitation for monitored exercise and lifestyle education, Dr. John Smith, Cardiac Rehabilitation Specialist.
+   - Investigation/Test results: Ordered echocardiogram to assess left ventricular function, and BNP blood test to monitor heart failure severity.
+
+**2) Medical History:**
+   - Previous Diagnoses: Hypertension, Type 2 Diabetes, Mild Chronic Kidney Disease.
+   - Family Medical History: Father had heart disease, mother had hypertension.
+   - Medication History: Currently on lisinopril 20 mg once daily and metformin 500 mg twice daily.
+   - Allergies: No known drug allergies.
+   - Chronic Conditions: Hypertension, Type 2 Diabetes, Chronic Kidney Disease (mild).
+
+**3) Symptom Description:**
+   - Severity: Moderate.
+   - Duration: 6 months, worsening over the past 2 weeks.
+   - Associated Symptoms: Shortness of breath on exertion, swelling in lower extremities, nocturia (3-4 times per night).
+   - Frequency: Daily.
+   - Impact on Daily Activities: Difficulty performing daily tasks, such as walking up stairs and carrying groceries.
+
+**4) Patient’s Self-Reported Habits and Lifestyle:**
+   - Sleep: Frequently interrupted by nocturia.
+   - Diet: High in sodium and carbohydrates.
+   - Exercise: Minimal due to fatigue and shortness of breath.
+   - Tobacco Use: Smoked for 20 years, quit 10 years ago.
+   - Alcohol Consumption: Drinks 1-2 beers per night.
+   - Drug Use: Denies any recreational drug use.
+   - Recreational Activities: None reported.
+
+**5) Demographic Information:**
+   - Age: 68
+   - Gender: Male
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Retired, reliant on Social Security.
+   - Education Level: High school diploma.
+   - Health Literacy: Moderate understanding of medical terms.
+   - Job Status: Retired construction worker.
+
+**6) Patient's Behavior:**
+   - Level of Patient's Cooperation: Generally cooperative but has difficulties adhering to dietary recommendations.
+
+**7) Geographical Location:**
+   - Big City vs Small City: Resides in a small city.
+   - Rural vs Urban: Urban.
+   - Pollution and Environmental Health Risks: Moderate pollution.
+   - Neighborhood Type: Modest neighborhood, well-served by transit, easy access to healthcare facilities.
+
+**8) Clinical Setting:**
+   - Clinical Setting: Private Cardiology Practice.
+  
+**9) Type of Encounter:**
+   - Type of Encounter: Follow-up (Chronic Disease Management).
+
+**10) Treatment Disparities:**
+   - Notes: None observed, but patient expresses concern about medication costs.
+
+**11) Native or Non-Native English Speaking Patient:**
+   - Native English Speaking Patient.
+
+**12) Physical Exams:**
+   - General appearance: Alert, overweight.
+   - Cardiovascular: S4 heart sound, jugular venous distension, bilateral lower extremity pitting edema (2+).
+   - Respiratory: Bibasilar crackles.
+   - Abdominal: Mild hepatomegaly.
+
+**13) Investigation/Test Results:**
+   - Ordered echocardiogram to assess left ventricular function.
+   - Ordered BNP blood test to monitor heart failure severity. Results pending."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up for management of congestive heart failure.
+
+**History of Present Illness (HPI):**
+Mr. Alejandro Martinez is a 68-year-old Hispanic male presenting for a follow-up visit regarding his chronic diastolic (congestive) heart failure. He reports a worsening of symptoms over the past 6 months, with a noticeable increase in shortness of breath on exertion and swelling in his lower extremities over the past 2 weeks. He also experiences nocturia, needing to urinate 3-4 times per night. These symptoms are impacting his daily activities, making it difficult for him to walk up stairs or carry groceries.
+
+**Review of Systems (ROS):**
+
+- **Constitutional:** Reports moderate fatigue, denies fever or weight loss.
+- **Cardiovascular:** Shortness of breath on exertion, bilateral lower extremity swelling.
+- **Respiratory:** No cough, but reports shortness of breath on exertion.
+- **Gastrointestinal:** No recent changes in appetite or bowel habits.
+- **Genitourinary:** Frequent nocturia.
+- **Neurological:** No dizziness or syncope.
+- **Musculoskeletal:** No muscle pain or joint stiffness.
+- **General:** Reports general malaise and decreased exercise tolerance.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 145/85 mmHg
+- Heart Rate: 88 bpm
+- Respiratory Rate: 20 breaths/min
+- Temperature: 98.6°F
+- Oxygen Saturation: 94% on room air
+
+**Physical Examination:**
+- **General Appearance:** Alert, overweight.
+- **Cardiovascular:** S4 heart sound noted, jugular venous distension present, bilateral lower extremity pitting edema (2+).
+- **Respiratory:** Bibasilar crackles.
+- **Abdominal:** Mild hepatomegaly.
+- **Extremities:** Pitting edema in lower extremities.
+
+**Results:**
+- Echocardiogram ordered to assess left ventricular function.
+- BNP blood test ordered to monitor heart failure severity. Results pending.
+
+**3. Assessment:**
+
+Mr. Alejandro Martinez is a 68-year-old male with a history of hypertension, type 2 diabetes, and mild chronic kidney disease, who presents with worsening symptoms of chronic diastolic (congestive) heart failure. His symptoms, physical examination findings, and history are consistent with worsening heart failure.
+
+**4. Plan:**
+
+**Medical Treatment:**
+- Increase metoprolol to 50 mg oral tablet, twice daily.
+- Start spironolactone 25 mg oral tablet, once daily.
+
+**Lifestyle Changes and Patient Education:**
+- Low-sodium diet.
+- Daily walking exercise for 30 minutes, as tolerated.
+- Limit fluid intake to 1.5 liters per day.
+- Educate on the importance of medication adherence and dietary modifications.
+
+**Additional Testing:**
+- Echocardiogram to assess left ventricular function.
+- BNP blood test to monitor heart failure severity. Results pending.
+
+**Referrals:**
+- Referral to Dr. John Smith, Cardiac Rehabilitation Specialist, for monitored exercise and lifestyle education.
+
+**Follow-up Recommendations:**
+- Return visit in 2 months for follow-up and additional management.
+
+**Patient Agreements:**
+Mr. Martinez understands and agrees with the recommended medical treatment plan, including medication adjustments, lifestyle changes, and follow-up recommendations. He has expressed concern about medication costs, which will be addressed with a social worker for possible assistance programs.
+
+#####"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up for management of congestive heart failure.
+
+**History of Present Illness (HPI):**
+Mr. Alejandro Martinez is a 68-year-old Hispanic male presenting for a follow-up visit regarding his chronic diastolic (congestive) heart failure. He reports a worsening of symptoms over the past 6 months, with a noticeable increase in shortness of breath on exertion and swelling in his lower extremities over the past 2 weeks. He also experiences nocturia, needing to urinate 3-4 times per night. These symptoms are impacting his daily activities, making it difficult for him to walk up stairs or carry groceries.
+
+**Review of Systems (ROS):**
+
+- **Constitutional:** Reports moderate fatigue, denies fever or weight loss.
+- **Cardiovascular:** Shortness of breath on exertion, bilateral lower extremity swelling.
+- **Respiratory:** No cough, but reports shortness of breath on exertion.
+- **Gastrointestinal:** No recent changes in appetite or bowel habits.
+- **Genitourinary:** Frequent nocturia.
+- **Neurological:** No dizziness or syncope.
+- **Musculoskeletal:** No muscle pain or joint stiffness.
+- **General:** Reports general malaise and decreased exercise tolerance.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 145/85 mmHg
+- Heart Rate: 88 bpm
+- Respiratory Rate: 20 breaths/min
+- Temperature: 98.6°F
+- Oxygen Saturation: 94% on room air
+
+**Physical Examination:**
+- **General Appearance:** Alert, overweight.
+- **Cardiovascular:** S4 heart sound noted, jugular venous distension present, bilateral lower extremity pitting edema (2+).
+- **Respiratory:** Bibasilar crackles.
+- **Abdominal:** Mild hepatomegaly.
+- **Extremities:** Pitting edema in lower extremities.
+
+**3. Assessment:**
+
+Mr. Alejandro Martinez is a 68-year-old male with a history of hypertension, type 2 diabetes, and mild chronic kidney disease, who presents with worsening symptoms of chronic diastolic (congestive) heart failure. His symptoms, physical examination findings, and history are consistent with worsening heart failure.
+
+**4. Plan:**
+
+**Medical Treatment:**
+- Increase metoprolol to 50 mg oral tablet, twice daily.
+- Start spironolactone 25 mg oral tablet, once daily.
+
+**Lifestyle Changes and Patient Education:**
+- Low-sodium diet.
+- Daily walking exercise for 30 minutes, as tolerated.
+- Limit fluid intake to 1.5 liters per day.
+- Educate on the importance of medication adherence and dietary modifications.
+
+**Additional Testing:**
+- Echocardiogram to assess left ventricular function.
+- BNP blood test to monitor heart failure severity.
+
+**Referrals:**
+- Referral to Dr. John Smith, Cardiac Rehabilitation Specialist, for monitored exercise and lifestyle education.
+
+**Follow-up Recommendations:**
+- Return visit in 2 months for follow-up and additional management.
+
+**Patient Agreements:**
+Mr. Martinez understands and agrees with the recommended medical treatment plan, including medication adjustments, lifestyle changes, and follow-up recommendations. He has expressed concern about medication costs, which will be addressed with a social worker for possible assistance programs."|"**1. Subjective:**
+
+**CC:**
+F/U for mgmt of CHF.
+
+**HPI:**
+Mr. Alejandro Martinez is a 68 y/o Hispanic M presenting for a F/U visit regarding his chronic diastolic (congestive) HF. He reports worsening sx over the past 6 mos, with a noticeable increase in SOB on exertion and LE swelling over the past 2 wks. He also experiences nocturia, needing to urinate 3-4x/night. These sx are impacting his ADLs, making it difficult for him to walk up stairs or carry groceries.
+
+**ROS:**
+
+- **Constitutional:** Reports moderate fatigue, denies fever or wt loss.
+- **CV:** SOB on exertion, bilateral LE swelling.
+- **Resp:** No cough, but reports SOB on exertion.
+- **GI:** No recent changes in appetite or bowel habits.
+- **GU:** Frequent nocturia.
+- **Neuro:** No dizziness or syncope.
+- **MSK:** No muscle pain or joint stiffness.
+- **General:** Reports general malaise and decreased exercise tolerance.
+
+**2. Objective:**
+
+**VS:**
+- BP: 145/85 mmHg
+- HR: 88 bpm
+- RR: 20 breaths/min
+- Temp: 98.6°F
+- O2 Sat: 94% on RA
+
+**PE:**
+- **General Appearance:** Alert, overweight.
+- **CV:** S4 heart sound noted, JVD present, bilateral LE pitting edema (2+).
+- **Resp:** Bibasilar crackles.
+- **Abd:** Mild hepatomegaly.
+- **Ext:** Pitting edema in LE.
+
+**3. Assessment:**
+
+Mr. Alejandro Martinez is a 68 y/o M with a hx of HTN, T2DM, and mild CKD, who presents with worsening sx of chronic diastolic (congestive) HF. His sx, PE findings, and hx are consistent with worsening HF.
+
+**4. Plan:**
+
+**Medical Tx:**
+- Increase metoprolol to 50 mg PO BID.
+- Start spironolactone 25 mg PO QD.
+
+**Lifestyle Changes and Pt Education:**
+- Low-Na diet.
+- Daily walking exercise for 30 mins, as tolerated.
+- Limit fluid intake to 1.5 L/day.
+- Educate on the importance of med adherence and dietary modifications.
+
+**Additional Testing:**
+- Echo to assess LV function.
+- BNP blood test to monitor HF severity.
+
+**Referrals:**
+- Referral to Dr. John Smith, Cardiac Rehab Specialist, for monitored exercise and lifestyle education.
+
+**F/U Recommendations:**
+- Return visit in 2 mos for F/U and additional mgmt.
+
+**Pt Agreements:**
+Mr. Martinez understands and agrees with the recommended medical tx plan, including med adjustments, lifestyle changes, and F/U recommendations. He has expressed concern about med costs, which will be addressed with a SW for possible assistance programs."|Cardiologist
+CHRONIC DIASTOLIC (CONGESTIVE) HEART FAILURE|"**ROLE:** Cardiologist
+
+- **Medical Outcome:**
+  - Diagnosis: Chronic Diastolic (Congestive) Heart Failure
+  - Prescribed Treatment: Enalapril 5 mg, oral, twice daily, reassess in 6 weeks; Furosemide 40 mg, oral, once daily
+  - Follow-up Recommendations: Follow-up appointment in 2 weeks to reassess symptoms and efficacy of treatment
+  - Referral: Referral to a nutritionist for dietary management, Dr. Sarah Thompson
+  - Blood Work: Ordered for biochemistry and hematology, including BNP, CBC, and metabolic panel
+  - Imaging: Echocardiogram to assess heart function and structure
+
+- **Medical History:**
+  - Previous Diagnoses: Hypertension, Type 2 Diabetes Mellitus
+  - Family Medical History: Father had coronary artery disease, mother had type 2 diabetes
+  - Medication History: Currently taking Metformin 500 mg twice daily for diabetes and Lisinopril 10 mg once daily for hypertension
+  - Allergies: No known allergies
+  - Chronic Conditions: Hypertension, Type 2 Diabetes
+
+- **Symptom Description:**
+  - Severity: Severe fatigue, dyspnea on exertion (DOE)
+  - Duration: Symptoms have been progressively worsening over the past 3 months
+  - Associated Symptoms: Occasional palpitations, nocturnal dyspnea, leg swelling
+  - Frequency: Daily
+  - Impact on Daily Activities: Difficulty performing routine tasks and climbing stairs
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: Reports frequent awakenings due to nocturnal dyspnea
+  - Diet: High in processed foods, moderate salt intake
+  - Exercise: Minimal physical activity due to dyspnea
+  - Tobacco Use: Smoked for 20 years, quit 5 years ago
+  - Alcohol Consumption: Drinks socially, approximately 2-3 drinks per week
+  - Drug Use: Denies recreational drug use
+  - Recreational Activities: Enjoys gardening but has limited participation due to symptoms
+
+- **Demographic Information:**
+  - Age: 67
+  - Gender: Male
+  - Ethnicity: African American
+  - Socio-economic Status: Middle class
+  - Education Level: High school diploma
+  - Health Literacy: Moderate understanding of health conditions
+  - Job Status: Retired
+
+- **Patient's Behavior:**
+  - Level of Cooperation: Generally compliant with medical advice but needs more guidance on lifestyle changes
+
+- **Geographical Location:**
+  - Big City vs Small City: Lives in a suburban area
+  - Rural vs Urban: Urban
+  - Pollution and Environmental Health Risks: Moderate pollution, well-served by healthcare facilities
+  - Neighborhood Type: Middle-class neighborhood, good access to public transportation, variety of grocery stores
+
+- **Clinical Setting:**
+  - Clinical Setting: Private Practice
+  - Type of Encounter: Follow-up for chronic disease management
+
+- **Treatment Disparities:**
+  - No noted disparities; receiving standard care for condition
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English Speaking Patient
+
+- **Physical exams:**
+  - Cardiovascular: Jugular venous distension noted, audible S4 heart sound, bilateral lower extremity edema, diminished peripheral pulses.
+
+- **Investigation/Test results:**
+  - Blood Work: Awaiting results for BNP, CBC, and metabolic panel
+  - Imaging: Echocardiogram scheduled, awaits results
+
+"|"#####
+1. **Subjective:**
+
+**Chief Complaint (CC):**
+Severe fatigue and dyspnea on exertion (DOE).
+
+**History of Present Illness (HPI):**
+Mr. Johnson is a 67-year-old African American male who presents today for follow-up management of his chronic conditions. He reports severe fatigue and dyspnea on exertion that have been progressively worsening over the past 3 months. He also mentions experiencing occasional palpitations, nocturnal dyspnea, and leg swelling. These symptoms occur daily and significantly impact his ability to perform routine tasks and climb stairs. Mr. Johnson has a history of hypertension and type 2 diabetes mellitus. 
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports severe fatigue.
+- **Cardiovascular:** Reports dyspnea on exertion, palpitations, nocturnal dyspnea, leg swelling.
+- **Respiratory:** Denies cough or wheezing.
+- **Gastrointestinal:** Denies nausea, vomiting, or abdominal pain.
+- **Musculoskeletal:** Reports leg swelling.
+- **Neurological:** Denies dizziness or syncope.
+
+2. **Objective:**
+
+**VITALS:**
+- BP: 145/85 mmHg.
+- Heart Rate: 98 bpm.
+- Respiratory Rate: 22 breaths/min.
+- Temperature: 98.2°F.
+- SpO2: 94% on room air.
+
+**PHYSICAL EXAM:**
+- **General:** Alert, oriented, in mild distress due to dyspnea.
+- **Cardiovascular:** Jugular venous distension noted, audible S4 heart sound, bilateral lower extremity edema, diminished peripheral pulses.
+- **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Extremities:** Bilateral pitting edema present.
+
+**RESULTS:**
+- Blood Work: BNP, CBC, and metabolic panel ordered, results pending.
+- Imaging: Echocardiogram scheduled to assess heart function and structure, results pending.
+
+3. **Assessment:**
+Chronic Diastolic (Congestive) Heart Failure.
+
+4. **Plan:**
+- **Medications:**
+  - Enalapril 5 mg, oral, twice daily.
+  - Furosemide 40 mg, oral, once daily.
+
+- **Follow-up:**
+  - Schedule a follow-up appointment in 2 weeks to reassess symptoms and efficacy of treatment.
+  - Referral to a nutritionist, Dr. Sarah Thompson, for dietary management.
+
+- **Investigations:**
+  - Blood work including BNP, CBC, and metabolic panel.
+  - Echocardiogram to be completed and reviewed at the next visit.
+
+- **Lifestyle Modifications:**
+  - Advise on a low-sodium diet and regular physical activity within tolerance levels.
+  - Educate about the importance of adherence to medication and dietary recommendations to manage heart failure symptoms.
+
+**INSTRUCTIONS:**
+Mr. Johnson will return in 2 weeks for reassessment of symptoms and review of results from blood work and echocardiogram. Further management will be adjusted based on the outcomes of these evaluations. Educate Mr. Johnson on recognizing signs of worsening heart failure, such as increased shortness of breath, swelling, or weight gain, and to seek medical attention if these occur. All questions were answered, and the patient showed understanding and willingness to comply with the proposed plan.
+
+#####
+"|"1. **Subjective:**
+
+**Chief Complaint (CC):**
+Severe fatigue and dyspnea on exertion (DOE).
+
+**History of Present Illness (HPI):**
+Mr. Johnson is a 67-year-old African American male who presents today for follow-up management of his chronic conditions. He reports severe fatigue and dyspnea on exertion that have been progressively worsening over the past 3 months. He also mentions experiencing occasional palpitations, nocturnal dyspnea, and leg swelling. These symptoms occur daily and significantly impact his ability to perform routine tasks and climb stairs. Mr. Johnson has a history of hypertension and type 2 diabetes mellitus. 
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports severe fatigue.
+- **Cardiovascular:** Reports dyspnea on exertion, palpitations, nocturnal dyspnea, leg swelling.
+- **Respiratory:** Denies cough or wheezing.
+- **Gastrointestinal:** Denies nausea, vomiting, or abdominal pain.
+- **Musculoskeletal:** Reports leg swelling.
+- **Neurological:** Denies dizziness or syncope.
+
+2. **Objective:**
+
+**VITALS:**
+- BP: 145/85 mmHg.
+- Heart Rate: 98 bpm.
+- Respiratory Rate: 22 breaths/min.
+- Temperature: 98.2°F.
+- SpO2: 94% on room air.
+
+**PHYSICAL EXAM:**
+- **General:** Alert, oriented, in mild distress due to dyspnea.
+- **Cardiovascular:** Jugular venous distension noted, audible S4 heart sound, bilateral lower extremity edema, diminished peripheral pulses.
+- **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Extremities:** Bilateral pitting edema present.
+
+3. **Assessment:**
+Chronic Diastolic (Congestive) Heart Failure.
+
+4. **Plan:**
+- **Medications:**
+  - Enalapril 5 mg, oral, twice daily.
+  - Furosemide 40 mg, oral, once daily.
+
+- **Follow-up:**
+  - Schedule a follow-up appointment in 2 weeks to reassess symptoms and efficacy of treatment.
+  - Referral to a nutritionist, Dr. Sarah Thompson, for dietary management.
+
+- **Investigations:**
+  - Blood work including BNP, CBC, and metabolic panel.
+  - Echocardiogram to be completed and reviewed at the next visit.
+
+- **Lifestyle Modifications:**
+  - Advise on a low-sodium diet and regular physical activity within tolerance levels.
+  - Educate about the importance of adherence to medication and dietary recommendations to manage heart failure symptoms.
+
+**INSTRUCTIONS:**
+Mr. Johnson will return in 2 weeks for reassessment of symptoms and review of results from blood work and echocardiogram. Further management will be adjusted based on the outcomes of these evaluations. Educate Mr. Johnson on recognizing signs of worsening heart failure, such as increased shortness of breath, swelling, or weight gain, and to seek medical attention if these occur. All questions were answered, and the patient showed understanding and willingness to comply with the proposed plan."|"1. **Subjective:**
+
+**CC:**
+Severe fatigue and DOE.
+
+**HPI:**
+Mr. Johnson is a 67 y/o African American male here for f/u mgmt of his chronic conditions. He reports severe fatigue and DOE that have been progressively worsening over the past 3 months. He also mentions experiencing occasional palpitations, nocturnal dyspnea, and leg swelling. These symptoms occur daily and significantly impact his ability to perform routine tasks and climb stairs. Mr. Johnson has a hx of HTN and T2DM.
+
+**ROS:**
+- **Constitutional:** Reports severe fatigue.
+- **Cardiovascular:** Reports DOE, palpitations, nocturnal dyspnea, leg swelling.
+- **Respiratory:** Denies cough or wheezing.
+- **Gastrointestinal:** Denies nausea, vomiting, or abdominal pain.
+- **Musculoskeletal:** Reports leg swelling.
+- **Neurological:** Denies dizziness or syncope.
+
+2. **Objective:**
+
+**VITALS:**
+- BP: 145/85 mmHg.
+- HR: 98 bpm.
+- RR: 22 breaths/min.
+- Temp: 98.2°F.
+- SpO2: 94% on RA.
+
+**PHYSICAL EXAM:**
+- **General:** Alert, oriented, in mild distress due to dyspnea.
+- **Cardiovascular:** JVD noted, audible S4 heart sound, BLE edema, diminished peripheral pulses.
+- **Respiratory:** CTA bilaterally, no wheezes, rales, or rhonchi.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Extremities:** Bilateral pitting edema present.
+
+3. **Assessment:**
+Chronic Diastolic (Congestive) HF.
+
+4. **Plan:**
+- **Medications:**
+  - Enalapril 5 mg PO BID.
+  - Furosemide 40 mg PO QD.
+
+- **Follow-up:**
+  - Schedule f/u in 2 weeks to reassess symptoms and efficacy of tx.
+  - Referral to nutritionist, Dr. Sarah Thompson, for dietary mgmt.
+
+- **Investigations:**
+  - Blood work including BNP, CBC, and metabolic panel.
+  - Echo to be completed and reviewed at the next visit.
+
+- **Lifestyle Modifications:**
+  - Advise on a low-Na diet and regular physical activity within tolerance levels.
+  - Educate about the importance of adherence to med and dietary recommendations to manage HF symptoms.
+
+**INSTRUCTIONS:**
+Mr. Johnson will return in 2 weeks for reassessment of symptoms and review of results from blood work and echo. Further mgmt will be adjusted based on the outcomes of these evaluations. Educate Mr. Johnson on recognizing signs of worsening HF, such as increased SOB, swelling, or weight gain, and to seek medical attention if these occur. All questions were answered, and the patient showed understanding and willingness to comply with the proposed plan."|Role not found in the first 5 lines.
+CHRONIC DIASTOLIC (CONGESTIVE) HEART FAILURE|"ROLE: Cardiologist
+
+**Scenario:**
+1. **Medical Outcome:**
+   - Diagnosis: Chronic Diastolic (Congestive) Heart Failure
+   - Prescribed Treatment: Start on Losartan 50 mg, oral, once daily; Furosemide 40 mg, oral, once daily; and Carvedilol 6.25 mg, oral, twice daily.
+   - Follow-up Recommendations: Follow-up in 1 month to assess treatment efficacy and adjust medications if needed.
+   - Referral to Specialists: Referral to a dietitian for nutritional counseling. Dr. Sarah Thompson (Dietitian).
+   - Imaging: Order an echocardiogram to assess ejection fraction and diastolic function.
+   - Blood Work: Order CBC, Basic Metabolic Panel (BMP), and NT-proBNP levels to monitor cardiac function and kidney health.
+
+2. **Medical History:**
+   - Previous Diagnoses: Hypertension, Type 2 Diabetes Mellitus.
+   - Family Medical History: Father had myocardial infarction at age 65, mother had hypertension.
+   - Medication History: Metformin 500 mg, oral, twice daily for diabetes.
+   - Allergies: Penicillin (Rash).
+   - Chronic Conditions: Hypertension, Type 2 Diabetes Mellitus.
+
+3. **Symptom Description:**
+   - Severity: Moderate
+   - Duration: 6 months
+   - Associated Symptoms: Shortness of breath, especially on exertion; fatigue; mild peripheral edema.
+   - Frequency: Daily
+   - Impact on Daily Activities: Difficulty performing activities of daily living such as walking up stairs and carrying groceries.
+
+4. **Patient’s self-reported habits and lifestyle:**
+   - Sleep: Sleeps 5-6 hours per night, frequent awakenings due to shortness of breath.
+   - Diet: High in sodium, low in fruits and vegetables.
+   - Exercise: Sedentary lifestyle with minimal physical activity.
+   - Tobacco Use: Smoked half a pack of cigarettes daily for 20 years, quit 2 years ago.
+   - Alcohol Consumption: Drinks socially, about 1-2 times a month.
+   - Drug Use: None.
+   - Recreational Activities: Enjoys watching television and reading books.
+
+5. **Demographic Information:**
+   - Age: 62
+   - Gender: Male
+   - Ethnicity: African American
+   - Socio-economic Status: Middle-income
+   - Education Level: High school diploma
+   - Health Literacy: Moderate understanding of health conditions and treatments.
+   - Job Status: Retired factory worker
+
+6. **Patient's Behavior:**
+   - Generally cooperative with medical advice but has difficulty adhering to dietary recommendations.
+
+7. **Geographical Location:**
+   - Big City vs Small City: Lives in a small city
+   - Rural vs Urban: Urban
+   - Pollution and Environmental Health Risks: Moderate air pollution
+   - Neighborhood Type: Middle-class neighborhood, well-served by transit, access to fresh food
+
+8. **Clinical Setting:**
+   - Clinic: Private cardiology clinic
+
+9. **Type of Encounter:**
+   - Initial Consultation
+
+10. **Treatment Disparities:**
+    - N/A
+
+11. **Native or Non-Native English Speaking Patient:**
+    - Native English Speaking Patient
+
+12. **Physical exams:**
+    - Cardiovascular: Jugular venous distension present, pitting edema in lower extremities, diminished heart sounds.
+    - Respiratory: Crackles in bilateral lung bases.
+    - Gastrointestinal: Mild hepatomegaly.
+    - Neurological: NA
+
+13. **Investigation/Test results:**
+    - Awaiting results from ordered echocardiogram, CBC, Basic Metabolic Panel (BMP), and NT-proBNP levels."|"### Medical Note
+
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up consultation for chronic shortness of breath and fatigue.
+
+**History of Present Illness (HPI):**
+John Smith is a 62-year-old African American male presenting for an initial cardiology consultation. The patient reports experiencing moderate shortness of breath for the past 6 months, particularly on exertion, along with chronic fatigue and mild peripheral edema. These symptoms occur daily and significantly impact his ability to perform activities of daily living, such as walking up stairs and carrying groceries. He often wakes up at night due to shortness of breath, typically only getting 5-6 hours of sleep per night.
+
+Mr. Smith has a known history of hypertension and Type 2 Diabetes Mellitus, both of which are managed with Metformin 500 mg twice daily. He also has a family history of cardiovascular disease, with his father experiencing a myocardial infarction at age 65 and his mother having hypertension. He is allergic to penicillin, which causes a rash.
+
+In terms of lifestyle, Mr. Smith has a diet high in sodium and low in fruits and vegetables. He leads a sedentary lifestyle but quit smoking two years ago after smoking half a pack of cigarettes daily for 20 years. He drinks alcohol socially, about 1-2 times a month, and does not use illicit drugs. He enjoys watching television and reading books. Mr. Smith is a retired factory worker with a high school diploma living in a middle-class, urban neighborhood with moderate air pollution.
+
+**Review of Systems (ROS):**
+- **Cardiovascular:** Endorses shortness of breath on exertion and mild peripheral edema.
+- **Respiratory:** Endorses difficulty breathing, particularly at night.
+- **Gastrointestinal:** Denies abdominal pain or changes in bowel habits.
+- **Neurological:** Denies headaches or dizziness.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 155/90 mmHg
+- Heart Rate: 86 beats per minute
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 93% on room air
+
+**Physical Examination:**
+- **Cardiovascular:** Jugular venous distension present, pitting edema in lower extremities, diminished heart sounds.
+- **Respiratory:** Crackles heard in bilateral lung bases.
+- **Gastrointestinal:** Mild hepatomegaly.
+- **Neurological:** Not assessed during this visit.
+
+**Results:**
+- Awaiting echocardiogram, CBC, Basic Metabolic Panel (BMP), and NT-proBNP levels.
+
+**3. Assessment:**
+
+The patient is a 62-year-old male presenting with symptoms consistent with Chronic Diastolic (Congestive) Heart Failure, likely multifactorial in etiology given his history of hypertension and Type 2 Diabetes Mellitus. The physical exam findings of jugular venous distension, pitting edema, and crackles in the lungs support this diagnosis.
+
+**4. Plan:**
+- **Medical Treatment:**
+  - Start Losartan 50 mg, oral, once daily.
+  - Start Furosemide 40 mg, oral, once daily.
+  - Start Carvedilol 6.25 mg, oral, twice daily.
+- **Diagnostic Testing:** 
+  - Order an echocardiogram to assess ejection fraction and diastolic function.
+  - Order CBC, Basic Metabolic Panel (BMP), and NT-proBNP levels to monitor cardiac function and kidney health.
+- **Referral:**
+  - Refer to Dr. Sarah Thompson, Dietitian, for nutritional counseling to address high sodium intake and poor dietary habits.
+- **Follow-Up:**
+  - Schedule a follow-up appointment in 1 month to assess treatment efficacy and adjust medications if needed.
+- **Lifestyle Recommendations:**
+  - Encourage a low-sodium diet, increased intake of fruits and vegetables, and regular physical activity.
+  - Educate the patient on the importance of adhering to prescribed medications and dietary recommendations to manage heart failure and other chronic conditions effectively.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment and follow-up plan. 
+
+---
+
+Dr. [Your Name]
+Cardiologist
+[Date]"|"### Medical Note
+
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up consultation for chronic shortness of breath and fatigue.
+
+**History of Present Illness (HPI):**
+John Smith is a 62-year-old African American male presenting for an initial cardiology consultation. The patient reports experiencing moderate shortness of breath for the past 6 months, particularly on exertion, along with chronic fatigue and mild peripheral edema. These symptoms occur daily and significantly impact his ability to perform activities of daily living, such as walking up stairs and carrying groceries. He often wakes up at night due to shortness of breath, typically only getting 5-6 hours of sleep per night.
+
+Mr. Smith has a known history of hypertension and Type 2 Diabetes Mellitus, both of which are managed with Metformin 500 mg twice daily. He also has a family history of cardiovascular disease, with his father experiencing a myocardial infarction at age 65 and his mother having hypertension. He is allergic to penicillin, which causes a rash.
+
+In terms of lifestyle, Mr. Smith has a diet high in sodium and low in fruits and vegetables. He leads a sedentary lifestyle but quit smoking two years ago after smoking half a pack of cigarettes daily for 20 years. He drinks alcohol socially, about 1-2 times a month, and does not use illicit drugs. He enjoys watching television and reading books. Mr. Smith is a retired factory worker with a high school diploma living in a middle-class, urban neighborhood with moderate air pollution.
+
+**Review of Systems (ROS):**
+- **Cardiovascular:** Endorses shortness of breath on exertion and mild peripheral edema.
+- **Respiratory:** Endorses difficulty breathing, particularly at night.
+- **Gastrointestinal:** Denies abdominal pain or changes in bowel habits.
+- **Neurological:** Denies headaches or dizziness.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 155/90 mmHg
+- Heart Rate: 86 beats per minute
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 93% on room air
+
+**Physical Examination:**
+- **Cardiovascular:** Jugular venous distension present, pitting edema in lower extremities, diminished heart sounds.
+- **Respiratory:** Crackles heard in bilateral lung bases.
+- **Gastrointestinal:** Mild hepatomegaly.
+- **Neurological:** Not assessed during this visit.
+
+**3. Assessment:**
+
+The patient is a 62-year-old male presenting with symptoms consistent with Chronic Diastolic (Congestive) Heart Failure, likely multifactorial in etiology given his history of hypertension and Type 2 Diabetes Mellitus. The physical exam findings of jugular venous distension, pitting edema, and crackles in the lungs support this diagnosis.
+
+**4. Plan:**
+- **Medical Treatment:**
+  - Start Losartan 50 mg, oral, once daily.
+  - Start Furosemide 40 mg, oral, once daily.
+  - Start Carvedilol 6.25 mg, oral, twice daily.
+- **Diagnostic Testing:** 
+  - Order an echocardiogram to assess ejection fraction and diastolic function.
+  - Order CBC, Basic Metabolic Panel (BMP), and NT-proBNP levels to monitor cardiac function and kidney health.
+- **Referral:**
+  - Refer to Dr. Sarah Thompson, Dietitian, for nutritional counseling to address high sodium intake and poor dietary habits.
+- **Follow-Up:**
+  - Schedule a follow-up appointment in 1 month to assess treatment efficacy and adjust medications if needed.
+- **Lifestyle Recommendations:**
+  - Encourage a low-sodium diet, increased intake of fruits and vegetables, and regular physical activity.
+  - Educate the patient on the importance of adhering to prescribed medications and dietary recommendations to manage heart failure and other chronic conditions effectively.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment and follow-up plan. 
+
+---
+
+Dr. [Your Name]
+Cardiologist
+[Date]"|"### Medical Note
+
+**1. Subjective:**
+
+**CC:**
+F/U for chronic SOB and fatigue.
+
+**HPI:**
+John Smith is a 62 y/o AAM presenting for an initial cardiology consult. Pt reports experiencing moderate SOB for the past 6 mos, particularly on exertion, along with chronic fatigue and mild peripheral edema. These sx occur daily and significantly impact his ADLs, such as walking up stairs and carrying groceries. He often wakes up at night due to SOB, typically only getting 5-6 hrs of sleep per night.
+
+Mr. Smith has a known hx of HTN and T2DM, both managed with Metformin 500 mg BID. He also has a FHx of CVD, with his father experiencing an MI at age 65 and his mother having HTN. He is allergic to PCN, which causes a rash.
+
+In terms of lifestyle, Mr. Smith has a diet high in Na and low in fruits and vegetables. He leads a sedentary lifestyle but quit smoking 2 yrs ago after smoking 1/2 PPD for 20 yrs. He drinks ETOH socially, about 1-2 times a month, and does not use illicit drugs. He enjoys watching TV and reading books. Mr. Smith is a retired factory worker with a HS diploma living in a middle-class, urban neighborhood with moderate air pollution.
+
+**ROS:**
+- **CV:** Endorses SOB on exertion and mild peripheral edema.
+- **Resp:** Endorses difficulty breathing, particularly at night.
+- **GI:** Denies abdominal pain or changes in bowel habits.
+- **Neuro:** Denies headaches or dizziness.
+
+**2. Objective:**
+
+**VS:**
+- BP: 155/90 mmHg
+- HR: 86 bpm
+- RR: 18 bpm
+- Temp: 98.6°F
+- O2 Sat: 93% on RA
+
+**PE:**
+- **CV:** JVD present, pitting edema in lower extremities, diminished heart sounds.
+- **Resp:** Crackles heard in bilateral lung bases.
+- **GI:** Mild hepatomegaly.
+- **Neuro:** Not assessed during this visit.
+
+**3. Assessment:**
+
+The pt is a 62 y/o male presenting with sx consistent with CHF (diastolic), likely multifactorial in etiology given his hx of HTN and T2DM. The PE findings of JVD, pitting edema, and crackles in the lungs support this dx.
+
+**4. Plan:**
+- **Medical Tx:**
+  - Start Losartan 50 mg PO QD.
+  - Start Furosemide 40 mg PO QD.
+  - Start Carvedilol 6.25 mg PO BID.
+- **Dx Testing:** 
+  - Order echo to assess EF and diastolic function.
+  - Order CBC, BMP, and NT-proBNP levels to monitor cardiac function and kidney health.
+- **Referral:**
+  - Refer to Dr. Sarah Thompson, RD, for nutritional counseling to address high Na intake and poor dietary habits.
+- **F/U:**
+  - Schedule a F/U appt in 1 mo to assess tx efficacy and adjust meds if needed.
+- **Lifestyle Recs:**
+  - Encourage a low-Na diet, increased intake of fruits and vegetables, and regular physical activity.
+  - Educate the pt on the importance of adhering to prescribed meds and dietary recs to manage HF and other chronic conditions effectively.
+
+**Pt Agreements:**
+The pt understands and agrees with the recommended medical tx and F/U plan. 
+
+---
+
+Dr. [Your Name]
+Cardiologist
+[Date]"|Cardiologist

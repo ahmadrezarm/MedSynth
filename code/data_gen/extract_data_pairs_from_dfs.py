@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-directory = "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/Phase_2/500_sample/"
+directory = "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/Phase_3/"
 
 all_files = os.listdir(directory)
 
