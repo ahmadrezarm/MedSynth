@@ -26,7 +26,8 @@ class InstructDataset(ABC):
         """
         if dataset_path == "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/Phase_2/500_sample/_combined_with_dial.csv":
                 self.dataset = pd.read_csv(dataset_path, sep= "|")
-        
+        elif dataset_path == "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/Phase_3/with_dial/_combined_with_dial.csv":
+                self.dataset = pd.read_csv(dataset_path, sep= "|")
         else:
             self.dataset = pd.read_csv(dataset_path)
 
