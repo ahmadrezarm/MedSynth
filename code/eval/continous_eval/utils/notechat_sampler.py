@@ -9,8 +9,8 @@ HfFolder.save_token(constants.HF_WRITE_TOKEN)
 
 
 
-def get_sample_note_chat(dataset_path_hf= constants.NOTE_CHAT_HF_PATH, 
-                         num_samples= constants.NUM_NOTE_CHAT_SAMPLES):
+def get_sample_note_chat(num_samples, 
+                         dataset_path_hf= constants.NOTE_CHAT_HF_PATH):
     
     dataset = load_dataset(dataset_path_hf, split='train')
 

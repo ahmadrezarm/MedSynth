@@ -1,0 +1,26 @@
+/var/spool/slurmd/job12962952/slurm_script: line 14: /h/ahmad/miniconda3/etc/profile.d/conda.sh: No such file or directory
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+Traceback (most recent call last):
+  File "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/run_tuning.py", line 1, in <module>
+    from utils import model_tuner
+  File "/fs01/home/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/utils/model_tuner.py", line 6, in <module>
+    from trl import SFTTrainer
+ImportError: cannot import name 'SFTTrainer'

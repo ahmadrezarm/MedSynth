@@ -1,0 +1,23 @@
+#!/bin/bash
+#SBATCH --job-name=SynthDataGen_llama-3-8b-Instruct_NoteChat_1500_samples_and_Aci
+#SBATCH --gres=gpu:a40:1
+#SBATCH --mail-user=ahmad.rm0067@gmail.com  # Email address for notifications
+#SBATCH --mail-type=ALL
+#SBATCH --qos=m3
+#SBATCH --time=4:00:00
+#SBATCH -c 30
+#SBATCH --mem=80G
+#SBATCH --output=slurm-%j.out
+#SBATCH --error=slurm-%j.err
+
+echo "$(date): Job $SLURM_JOB_ID is allocated resource"
+
+# Activate the conda environment
+
+source /pkgs/anaconda3/bin/activate /h/ahmad/.conda/envs/SynthDataGenEnv || conda activate /h/ahmad/.conda/envs/SynthDataGenEnv
+
+
+# put your command here
+python /h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/run_tuning.py
+
+echo `date`: "Job $SLURM_JOB_ID finished running, exit code: $?"

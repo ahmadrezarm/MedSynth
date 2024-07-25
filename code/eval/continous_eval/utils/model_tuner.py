@@ -19,7 +19,6 @@ class ModelTuner:
     def __init__(self, TRAINING_DATA_PATH_HF, FINE_TUNED_MODEL_NAME, tuning_config, base_model):
 
         self.tuning_config = tuning_config
-
         # Update the tuning configuration with actual values provided
         self.tuning_config['model_config']['base_model'] = base_model
         self.tuning_config['model_config']['finetuned_model'] = FINE_TUNED_MODEL_NAME
@@ -32,7 +31,6 @@ class ModelTuner:
 
 
     def _load_model_and_tokenizer(self):
-
         self.model, self.tokenizer = FastLanguageModel.from_pretrained(
             model_name = self.tuning_config.get("model_config").get("base_model"),
             max_seq_length = self.tuning_config.get("model_config").get("max_seq_length"),
@@ -66,7 +64,6 @@ class ModelTuner:
     
 
     def _prepare_trainer(self):
-
         self.trainer = SFTTrainer(
             model = self.model,
             tokenizer = self.tokenizer,
@@ -90,21 +87,34 @@ class ModelTuner:
                 lr_scheduler_type = self.tuning_config.get("training_config").get("lr_scheduler_type"),
                 seed = 42,
                 output_dir = self.tuning_config.get("training_config").get("output_dir"),
-            ),
+                ),
+                #save_steps=200,  # Save checkpoint every 200 steps
+                #save_total_limit=4,  # Only keep the last 3 checkpoints
+                #load_best_model_at_end=True,
+                #resume_from_checkpoint=True,  # Automatically resume from the last checkpoint
+                
         )
 
     
 
     def model_train_and_save(self):
-        
         self._login_to_huggingface()
         self._load_model_and_tokenizer()
         self._prepare_model_for_peft()
         self._load_training_data()
         self._prepare_trainer()
 
-        self.trainer.train()
+        # Check if there is a checkpoint to resume from
+        # last_checkpoint = None
+        # if torch.cuda.is_available() and torch.cuda.device_count() > 1:
+        #     last_checkpoint = TrainingArguments.get_last_checkpoint(self.tuning_config.get("training_config").get("output_dir"))
+        # if last_checkpoint is not None:
+        #     print(f"Resuming from checkpoint {last_checkpoint}")
+        #     self.trainer.train(resume_from_checkpoint=last_checkpoint)
+        # else:
+        #     self.trainer.train()
 
+        self.trainer.train()
         # saving the model to the hub:
         self.model.push_to_hub(self.tuning_config.get("model_config").get("finetuned_model"), tokenizer= self.tokenizer, private= True)
 
