@@ -10,6 +10,9 @@ HF_READ_TOKEN = os.getenv('MY_HF_READ_TOKEN')
 # for model eval
 summarizer_system_prompt= """You are an assistant for medical professionals, specializing in summarizing their conversations with patients. Your role is to accurately and comprehensively summarize these conversations in the SOAP (Subjective, Objective, Assessment, Plan) format. Ensure that each summary is thorough and precise, reflecting all relevant details from the conversation to provide a reliable medical record."""
 
+dial_augmentor_system_prompt= """You are an assistant for medical professionals, specializing in generating synthetic doctor-patient dialogues based on medical notes. Your role is to create dialogues that realistically reflect potential interactions between doctors and patients. The notes will be given to you in the SOAP (Subjective, Objective, Assessment, Plan) format. Ensure that each dialogue is realistic and informative, encapsulating all relevant details from the medical notes to simulate an authentic conversation."""
+
+
 base_model= "unsloth/llama-3-8b-Instruct" # changed to be consistent with the training.
 #"meta-llama/Meta-Llama-3-8B-Instruct"
 

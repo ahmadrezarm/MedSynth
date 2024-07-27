@@ -8,7 +8,7 @@ from datetime import datetime
 
 import pandas as pd
 from datasets import Dataset, DatasetDict
-from utils.instruct_datasets import (
+from code.eval.continous_eval.utils.dial2note_instruct_datasets import (
     GemmaInstructDataset,
     MistralInstructDataset,
     LlamaInstructDataset,

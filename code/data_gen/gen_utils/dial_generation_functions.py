@@ -18,7 +18,7 @@ def initialize_openai_client():
     openai.Client: An instance of the OpenAI client.
     """
     try:
-        client = openai.Client(api_key= "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") #gen_constants.TCAIREM_OPENAI_API_KEY
+        client = openai.Client(api_key= "sk-proj-6jNq4RERBKwdpFStA2mFT3BlbkFJdCWfVwfvNqkiwaR48VAm") #gen_constants.TCAIREM_OPENAI_API_KEY
         print("OpenAI client initialized successfully!")
         return client
     except Exception as e:
