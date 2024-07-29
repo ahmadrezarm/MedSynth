@@ -1,0 +1,2791 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+TOXIC ENCEPHALOPATHY|"**ROLE:** Neurologist
+
+**Scenario Values:**
+
+1. Medical Outcome:
+    - Diagnosis: Toxic Encephalopathy
+    - Prescribed Treatment: 
+        - Medication: Thiamine 100 mg, oral, three times daily for 7 days
+        - Referral for further tests: MRI brain to assess extent of brain damage and EEG to evaluate brain electrical activity
+        - Lifestyle Change: Alcohol cessation, improved diet with adequate vitamin intake
+        - Follow-up Recommendations: Neurology follow-up in 2 weeks
+2. Medical History:
+    - Previous Diagnoses: Alcohol Use Disorder, Hypertension, Chronic Liver Disease
+    - Medication History: Lisinopril 10 mg once daily, No history of thiamine supplementation
+    - Allergies: NKDA
+    - Chronic Conditions: Hypertension
+3. Symptom Description:
+    - Severity: Severe
+    - Duration: 1 week
+    - Associated Symptoms: Confusion, disorientation, headaches, and difficulty walking
+    - Frequency: Constant
+    - Impact on Daily Activities: Unable to perform daily self-care, significant impairment in daily functioning
+4. Patient’s self-reported habits and lifestyle:
+    - Sleep: Poor, restless
+    - Diet: Mostly fast food, low in vitamins, irregular meals
+    - Exercise: None
+    - Tobacco Use: Smokes 10 cigarettes/day
+    - Alcohol Consumption: Heavy daily alcohol consumption (8-10 drinks/day)
+    - Drug Use: Denies
+    - Recreational Activities: None due to health
+5. Demographic Information:
+    - Age: 52
+    - Gender: Male
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Low income
+    - Education Level: High school graduate
+    - Health Literacy: Limited understanding of medical terms and conditions
+    - Job Status: Unemployed
+6. Patient's Behavior:
+    - The patient was cooperative but had difficulty understanding due to cognitive impairment.
+7. Geographical Location:
+    - Urban, moderate pollution
+    - Impoverished neighborhood, limited access to healthy food options
+8. Clinical Setting:
+    - Encounter in a community health clinic
+9. Type of Encounter:
+    - Initial Consultation
+11. Native or Non-Native English Speaking Patient:
+    - Native English speaking patient
+12. Physical exams:
+    - Mental Status Exam: Disoriented to time and place, difficulty focusing and following commands
+    - Neurological Exam: Slow gait, decreased coordination, mild tremor in hands
+13. Investigation/Test results:
+    - MRI: Awaiting results, ordered for brain imaging
+    - EEG: Awaiting results, ordered to evaluate brain electrical activity"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Confusion, disorientation, headaches, and difficulty walking.
+
+**History of Present Illness (HPI):**
+John Doe, a 52-year-old Caucasian male, presents to the community health clinic with severe confusion, disorientation, headaches, and difficulty walking, ongoing for the past week. He reports that the symptoms have been constant and have significantly impaired his ability to perform daily self-care and other activities. The patient has a history of heavy daily alcohol consumption (8-10 drinks/day), poor diet mostly consisting of fast food, and an absence of regular exercise. He is currently unemployed and lives in an impoverished neighborhood with limited access to healthy food options. His sleep is poor and restless. 
+
+**Review of Systems (ROS):**
+- Neurological: Reports confusion, disorientation, headaches, and difficulty walking. No history of seizures. 
+- Cardiovascular: No chest pain, palpitations, or shortness of breath. 
+- Gastrointestinal: No nausea, vomiting, or abdominal pain. 
+- Musculoskeletal: Reports difficulty walking, no joint pain or swelling. 
+- Psychological: No reports of anxiety or depression, though the patient has noticeable cognitive impairment.
+
+**2. Objective:**
+
+**VITAL SIGNS:**
+- BP: 140/90 mmHg
+- HR: 82 bpm
+- RR: 18 breaths/min
+- Temp: 98.6°F
+- O2 Sat: 97% on room air
+
+**PHYSICAL EXAM:**
+- **Mental Status Exam:** Disoriented to time and place, difficulty focusing and following commands.
+- **Neurological Exam:** Slow gait, decreased coordination, mild tremor in hands.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, gallops, or rubs.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-tender, no hepatosplenomegaly.
+- **Extremities:** No edema, peripheral pulses intact.
+
+**RESULTS:**
+- MRI brain: Awaiting results.
+- EEG: Awaiting results.
+
+**3. Assessment:**
+Toxic Encephalopathy, likely secondary to Alcohol Use Disorder with severe vitamin deficiency. Contributing factors include chronic alcohol consumption, poor diet, and inadequate nutrition.
+
+**4. Plan:**
+- **Medications:**
+  - Thiamine 100 mg, oral, three times daily for 7 days.
+- **Referrals for Further Tests:**
+  - MRI brain to assess the extent of brain damage.
+  - EEG to evaluate brain electrical activity.
+- **Lifestyle Changes:**
+  - Alcohol cessation.
+  - Improved diet with adequate vitamin intake; patient advised to incorporate more fruits, vegetables, and balanced meals.
+- **Follow-up Recommendations:**
+  - Neurology follow-up in 2 weeks to re-evaluate symptoms and adjust treatment as necessary.
+- **Patient Education and Support:**
+  - Providing resources for alcohol cessation programs.
+  - Referral to a dietitian for nutritional counseling.
+  - Social services referral for support in accessing healthier food options and potential employment assistance.
+
+The patient was advised regarding the importance of these lifestyle changes and the prescribed medications to improve his condition. We will continue monitoring his progress and make necessary adjustments based on upcoming test results and clinical evaluations."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Confusion, disorientation, headaches, and difficulty walking.
+
+**History of Present Illness (HPI):**
+John Doe, a 52-year-old Caucasian male, presents to the community health clinic with severe confusion, disorientation, headaches, and difficulty walking, ongoing for the past week. He reports that the symptoms have been constant and have significantly impaired his ability to perform daily self-care and other activities. The patient has a history of heavy daily alcohol consumption (8-10 drinks/day), poor diet mostly consisting of fast food, and an absence of regular exercise. He is currently unemployed and lives in an impoverished neighborhood with limited access to healthy food options. His sleep is poor and restless. 
+
+**Review of Systems (ROS):**
+- Neurological: Reports confusion, disorientation, headaches, and difficulty walking. No history of seizures. 
+- Cardiovascular: No chest pain, palpitations, or shortness of breath. 
+- Gastrointestinal: No nausea, vomiting, or abdominal pain. 
+- Musculoskeletal: Reports difficulty walking, no joint pain or swelling. 
+- Psychological: No reports of anxiety or depression, though the patient has noticeable cognitive impairment.
+
+**2. Objective:**
+
+**VITAL SIGNS:**
+- BP: 140/90 mmHg
+- HR: 82 bpm
+- RR: 18 breaths/min
+- Temp: 98.6°F
+- O2 Sat: 97% on room air
+
+**PHYSICAL EXAM:**
+- **Mental Status Exam:** Disoriented to time and place, difficulty focusing and following commands.
+- **Neurological Exam:** Slow gait, decreased coordination, mild tremor in hands.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, gallops, or rubs.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-tender, no hepatosplenomegaly.
+- **Extremities:** No edema, peripheral pulses intact.
+
+**3. Assessment:**
+Toxic Encephalopathy, likely secondary to Alcohol Use Disorder with severe vitamin deficiency. Contributing factors include chronic alcohol consumption, poor diet, and inadequate nutrition.
+
+**4. Plan:**
+- **Medications:**
+  - Thiamine 100 mg, oral, three times daily for 7 days.
+- **Referrals for Further Tests:**
+  - MRI brain to assess the extent of brain damage.
+  - EEG to evaluate brain electrical activity.
+- **Lifestyle Changes:**
+  - Alcohol cessation.
+  - Improved diet with adequate vitamin intake; patient advised to incorporate more fruits, vegetables, and balanced meals.
+- **Follow-up Recommendations:**
+  - Neurology follow-up in 2 weeks to re-evaluate symptoms and adjust treatment as necessary.
+- **Patient Education and Support:**
+  - Providing resources for alcohol cessation programs.
+  - Referral to a dietitian for nutritional counseling.
+  - Social services referral for support in accessing healthier food options and potential employment assistance.
+
+The patient was advised regarding the importance of these lifestyle changes and the prescribed medications to improve his condition. We will continue monitoring his progress and make necessary adjustments based on upcoming test results and clinical evaluations."|"**1. Subjective:**
+
+**CC:**
+Confusion, disorientation, headaches, and difficulty walking.
+
+**HPI:**
+John Doe, a 52-year-old Caucasian male, presents to the community health clinic with severe confusion, disorientation, headaches, and difficulty walking, ongoing for the past week. He reports that the symptoms have been constant and have significantly impaired his ability to perform ADLs. The patient has a hx of heavy daily EtOH consumption (8-10 drinks/day), poor diet mostly consisting of fast food, and an absence of regular exercise. He is currently unemployed and lives in an impoverished neighborhood with limited access to healthy food options. His sleep is poor and restless. 
+
+**ROS:**
+- Neuro: Reports confusion, disorientation, headaches, and difficulty walking. No hx of seizures. 
+- CV: No CP, palpitations, or SOB. 
+- GI: No N/V or abdominal pain. 
+- MSK: Reports difficulty walking, no joint pain or swelling. 
+- Psych: No reports of anxiety or depression, though the patient has noticeable cognitive impairment.
+
+**2. Objective:**
+
+**VITALS:**
+- BP: 140/90 mmHg
+- HR: 82 bpm
+- RR: 18
+- Temp: 98.6°F
+- O2 Sat: 97% RA
+
+**PE:**
+- **MSE:** Disoriented to time and place, difficulty focusing and following commands.
+- **Neuro:** Slow gait, decreased coordination, mild tremor in hands.
+- **CV:** RRR, no murmurs, gallops, or rubs.
+- **Resp:** CTA bilaterally.
+- **Abd:** Soft, non-tender, no HSM.
+- **Ext:** No edema, peripheral pulses intact.
+
+**3. Assessment:**
+Toxic Encephalopathy, likely 2° to Alcohol Use Disorder with severe vitamin deficiency. Contributing factors include chronic EtOH consumption, poor diet, and inadequate nutrition.
+
+**4. Plan:**
+- **Meds:**
+  - Thiamine 100 mg PO TID x7 days.
+- **Referrals for Further Tests:**
+  - MRI brain to assess extent of brain damage.
+  - EEG to eval brain electrical activity.
+- **Lifestyle Changes:**
+  - EtOH cessation.
+  - Improved diet with adequate vitamin intake; pt advised to incorporate more fruits, vegetables, and balanced meals.
+- **F/U Recommendations:**
+  - Neuro f/u in 2 weeks to re-eval symptoms and adjust tx as necessary.
+- **Pt Education and Support:**
+  - Providing resources for EtOH cessation programs.
+  - Referral to dietitian for nutritional counseling.
+  - Social services referral for support in accessing healthier food options and potential employment assistance.
+
+The pt was advised regarding the importance of these lifestyle changes and the prescribed meds to improve his condition. We will continue monitoring his progress and make necessary adjustments based on upcoming test results and clinical evaluations."|Role not found in the first 5 lines.|"```markdown
+[doctor] Hi John, how are you feeling today?
+
+[patient] Not so great, Doc. I've been really confused and disoriented. I’ve had headaches and trouble walking for about a week now.
+
+[doctor] I'm sorry to hear that. Can you tell me more about your symptoms? When did they start?
+
+[patient] It all started about a week ago. The confusion and headaches came on suddenly, and it’s been hard to walk since then.
+
+[doctor] Have these symptoms been constant, or do they come and go?
+
+[patient] They’ve been constant. It’s really affecting my ability to take care of myself and do daily activities.
+
+[doctor] That sounds challenging. Do you have a history of any medical conditions?
+
+[patient] Well, I do drink a lot. I have about 8-10 drinks a day. I also eat mostly fast food and don’t exercise much.
+
+[doctor] Hmm, I see. Have you had any other symptoms like chest pain, palpitations, or shortness of breath?
+
+[patient] No, none of that.
+
+[doctor] What about nausea, vomiting, or abdominal pain?
+
+[patient] No, my stomach’s been fine.
+
+[doctor] And any joint pain or swelling?
+
+[patient] No, just the difficulty walking.
+
+[doctor] Do you feel anxious or depressed at all?
+
+[patient] Not really, but I have noticed that my thinking has been off. It’s hard to concentrate or follow commands.
+
+[doctor] Understood. Let's go over your vital signs. Your blood pressure is 140/90 mmHg, heart rate is 82 bpm, respiratory rate is 18 breaths/min, temperature is 98.6°F, and oxygen saturation is 97% on room air. 
+
+[patient] Okay.
+
+[doctor] On your physical exam, you appear disoriented to time and place, and you have difficulty focusing and following commands. Your gait is slow, your coordination is decreased, and there’s a mild tremor in your hands. 
+
+[patient] Yeah, that sounds right.
+
+[doctor] Your cardiovascular exam shows a regular rate and rhythm, no murmurs, gallops, or rubs. Your respiratory exam is clear to auscultation bilaterally. Your abdomen is soft, non-tender, no hepatosplenomegaly. And your extremities show no edema, with peripheral pulses intact.
+
+[patient] Okay.
+
+[doctor] We’re waiting on the results for your MRI brain and EEG to get a clearer picture of what’s going on. 
+
+[patient] Alright.
+
+[doctor] Based on what you’ve told me and the exam findings, it seems like you might have toxic encephalopathy, likely due to Alcohol Use Disorder with severe vitamin deficiency.
+
+[patient] Toxic what?
+
+[doctor] Toxic encephalopathy. It means your brain is being affected by toxins, likely from your heavy alcohol use and poor diet. 
+
+[patient] Oh, that sounds serious.
+
+[doctor] It can be, but we can treat it. I’m going to start you on Thiamine 100 mg, oral, three times daily for 7 days. This will help replenish some of the vitamins you’re deficient in.
+
+[patient] Okay, what else do I need to do?
+
+[doctor] You’ll need to make some lifestyle changes. It’s crucial that you stop drinking alcohol. You should also improve your diet to include more fruits, vegetables, and balanced meals.
+
+[patient] That’s going to be tough, but I’ll try.
+
+[doctor] We’ll provide you with resources for alcohol cessation programs and refer you to a dietitian for nutritional counseling. We’ll also refer you to social services for support in accessing healthier food options and potential employment assistance. 
+
+[patient] Thank you.
+
+[doctor] I’m also referring you to a neurologist for a follow-up in 2 weeks. We need to re-evaluate your symptoms and adjust treatment as necessary based on the test results and clinical evaluations.
+
+[patient] Okay, I’ll do that.
+
+[doctor] Do you have any questions about the plan?
+
+[patient] No, I think I understand what I need to do.
+
+[doctor] Great. It’s important to stick to these recommendations and take your medications as prescribed. We’ll continue to monitor your progress and make necessary adjustments.
+
+[patient] I will, Doc. Thanks for your help.
+
+[doctor] You’re welcome, John. We’re here to support you through this. Take care.
+
+[patient] Thanks, you too.
+```"|"[doctor]: Hi John, how are you feeling today?
+
+[patient]: Not so great, Doc. I've been really confused and disoriented. I’ve had headaches and trouble walking for about a week now.
+
+[doctor]: I'm sorry to hear that. Can you tell me more about your symptoms? When did they start?
+
+[patient]: It all started about a week ago. The confusion and headaches came on suddenly, and it’s been hard to walk since then.
+
+[doctor]: Hmm, I see. Have these symptoms been constant, or do they come and go?
+
+[patient]: They’ve been constant. It’s really affecting my ability to take care of myself and do daily activities.
+
+[doctor]: That sounds challenging. Do you have a history of any medical conditions?
+
+[patient]: Well, I do drink a lot. I have about 8-10 drinks a day. I also eat mostly fast food and don’t exercise much.
+
+[doctor]: Hmm, I see. Have you had any other symptoms like chest pain, palpitations, or shortness of breath?
+
+[patient]: No, none of that.
+
+[doctor]: What about nausea, vomiting, or abdominal pain?
+
+[patient]: No, my stomach’s been fine.
+
+[doctor]: And any joint pain or swelling?
+
+[patient]: No, just the difficulty walking.
+
+[doctor]: Do you feel anxious or depressed at all?
+
+[patient]: Not really, but I have noticed that my thinking has been off. It’s hard to concentrate or follow commands.
+
+[doctor]: Understood. Let's go over your vital signs. Your blood pressure is 140/90 mmHg, heart rate is 82 bpm, respiratory rate is 18 breaths/min, temperature is 98.6°F, and oxygen saturation is 97% on room air. 
+
+[patient]: Okay.
+
+[doctor]: On your physical exam, you appear disoriented to time and place, and you have difficulty focusing and following commands. Your gait is slow, your coordination is decreased, and there’s a mild tremor in your hands. 
+
+[patient]: Yeah, that sounds right.
+
+[doctor]: Your cardiovascular exam shows a regular rate and rhythm, no murmurs, gallops, or rubs. Your respiratory exam is clear to auscultation bilaterally. Your abdomen is soft, non-tender, no hepatosplenomegaly. And your extremities show no edema, with peripheral pulses intact.
+
+[patient]: Okay.
+
+[doctor]: We’re waiting on the results for your MRI brain and EEG to get a clearer picture of what’s going on. 
+
+[patient]: Alright.
+
+[doctor]: Based on what you’ve told me and the exam findings, it seems like you might have toxic encephalopathy, likely due to Alcohol Use Disorder with severe vitamin deficiency.
+
+[patient]: Toxic what?
+
+[doctor]: Toxic encephalopathy. It means your brain is being affected by toxins, likely from your heavy alcohol use and poor diet. 
+
+[patient]: Oh, that sounds serious.
+
+[doctor]: It can be, but we can treat it. I’m going to start you on Thiamine 100 mg, oral, three times daily for 7 days. This will help replenish some of the vitamins you’re deficient in.
+
+[patient]: Okay, what else do I need to do?
+
+[doctor]: You’ll need to make some lifestyle changes. It’s crucial that you stop drinking alcohol. You should also improve your diet to include more fruits, vegetables, and balanced meals.
+
+[patient]: That’s going to be tough, but I’ll try.
+
+[doctor]: We’ll provide you with resources for alcohol cessation programs and refer you to a dietitian for nutritional counseling. We’ll also refer you to social services for support in accessing healthier food options and potential employment assistance. 
+
+[patient]: Thank you.
+
+[doctor]: I’m also referring you to a neurologist for a follow-up in 2 weeks. We need to re-evaluate your symptoms and adjust treatment as necessary based on the test results and clinical evaluations.
+
+[patient]: Okay, I’ll do that.
+
+[doctor]: Do you have any questions about the plan?
+
+[patient]: No, I think I understand what I need to do.
+
+[doctor]: Great. It’s important to stick to these recommendations and take your medications as prescribed. We’ll continue to monitor your progress and make necessary adjustments.
+
+[patient]: I will, Doc. Thanks for your help.
+
+[doctor]: You’re welcome, John. We’re here to support you through this. Take care.
+
+[patient]: Thanks, you too."
+TOXIC ENCEPHALOPATHY|"ROLE: Neurologist
+
+1) Medical Outcome:
+   - Diagnosis: Toxic Encephalopathy
+   - Prescribed Treatment:
+     - Medication: Thiamine 100 mg orally once daily
+     - Referral: Psychiatry for mental health assessment, Dr. Linda Morrison
+     - Blood Work: Complete blood count (CBC), metabolic panel, ammonia levels 
+     - Imaging: PET scan of the brain to assess metabolic activity
+   - Follow-up recommendations: Monthly follow-up to monitor cognitive function and response to treatment
+
+2) Medical History:
+   - Previous Diagnoses: Alcoholic cirrhosis, Type 2 Diabetes Mellitus
+   - Family Medical History: Brother had Alzheimer's disease
+   - Medication History: Takes insulin for diabetes, previously on antidepressants
+   - Allergies: No known drug allergies
+   - Chronic Conditions: Hypertension, Hyperlipidemia
+
+3) Symptom Description:
+   - Severity: Mild to moderate confusion, occasional hallucinations
+   - Duration: Symptoms have been intermittent over the past 3 weeks
+   - Associated Symptoms: Behavioral changes, irritability
+   - Frequency: Symptoms occur several times a day, particularly in the evenings
+   - Impact on Daily Activities: Able to perform basic tasks but needs supervision for complex activities
+   
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Regular sleep disturbances, insomnia
+   - Diet: High in carbohydrates, frequent fast-food consumption
+   - Exercise: No regular physical activity
+   - Tobacco Use: Former smoker, quit 5 years ago
+   - Alcohol Consumption: Heavy alcohol use up to 30 units per week
+   - Drug Use: No use of recreational drugs
+   - Recreational Activities: Used to enjoy fishing, now ceased
+
+5) Demographic Information:
+   - Age: 60
+   - Gender: Male
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Lower middle class, dependent on disability benefits
+   - Education Level: Completed some college
+   - Health Literacy: Limited understanding of complex health information
+   - Job Status: Retired due to disability
+
+6) Patient's Behavior:
+   - The patient is periodically non-cooperative, showing signs of frustration and anger due to cognitive decline
+
+7) Geographical Location:
+   - Big City vs Small City: Lives in a big city
+   - Rural vs Urban: Urban area
+   - Pollution and Environmental Health Risks: High pollution area, situated near heavy traffic
+   - Neighborhood Type: Working-class neighborhood, moderate access to healthcare facilities
+   
+8) Clinical Setting:
+   - Hospital setting, inpatient consultation
+
+9) Type of Encounter:
+   - Emergency Visit
+
+10) Treatment Disparities:
+   - Patient has experienced some disparities in care due to insurance limitations and previous non-compliance issues
+
+11) Native or Non-Native English Speaking Patient:
+   - Non-Native English Speaking, Spanish as the first language
+
+12) Physical exams:
+   - GENERAL: Appears anxious and disoriented
+   - NEURO: Mild cognitive impairment, positive asterixis, slight tremors noted
+   - GASTROINTESTINAL: Palpable hepatic tenderness, borderline ascites
+   
+13) Investigation/Test results:
+   - PET scan of the brain ordered, results pending
+   - Blood work (CBC, metabolic panel, ammonia levels) ordered, results pending"|"#####
+CHIEF COMPLAINT
+
+Mild to moderate confusion, occasional hallucinations.
+
+HISTORY OF PRESENT ILLNESS
+
+Juan Martinez is a 60-year-old Hispanic male with a past medical history significant for alcoholic cirrhosis, Type 2 Diabetes Mellitus, hypertension, and hyperlipidemia, who presents with complaints of mild to moderate confusion and occasional hallucinations that have been intermittent over the past 3 weeks.
+
+The patient reports experiencing behavioral changes and irritability, especially in the evenings. He states that symptoms occur several times a day and are impacting his daily activities. He can perform basic tasks but requires supervision for complex activities. He has a history of heavy alcohol use, consuming up to 30 units per week, and insomnia with regular sleep disturbances. His diet is high in carbohydrates and he frequently consumes fast food. He has no regular physical activity and reports being a former smoker who quit 5 years ago. 
+
+The patient has a limited understanding of complex health information and has experienced disparities in care due to insurance limitations and previous non-compliance issues. 
+
+REVIEW OF SYSTEMS
+
+- Cardiovascular: Denies chest pain or palpitations.
+- Respiratory: Denies shortness of breath or cough.
+- Gastrointestinal: Reports palpable hepatic tenderness, denies nausea or vomiting.
+- Genitourinary: Denies urinary urgency or incontinence.
+- Neurological: Endorses mild confusion, occasional hallucinations, irritability, and behavioral changes.
+- Musculoskeletal: Denies muscle pain or weakness.
+
+PHYSICAL EXAMINATION
+
+- GENERAL: Appears anxious and disoriented.
+- VITAL SIGNS: BP: 140/90 mmHg, HR: 88 bpm, RR: 18 breaths per minute, Temp: 98.6°F.
+- NEURO: Mild cognitive impairment, positive asterixis, slight tremors noted.
+- GASTROINTESTINAL: Palpable hepatic tenderness, borderline ascites present.
+
+RESULTS
+
+- PET scan of the brain: Ordered, results pending.
+- Blood Work: Complete blood count (CBC), metabolic panel, ammonia levels: Ordered, results pending.
+
+ASSESSMENT
+
+Juan Martinez is a 60-year-old male with a history of alcoholic cirrhosis, Type 2 Diabetes Mellitus, hypertension, and hyperlipidemia, who presents with symptoms consistent with toxic encephalopathy, likely related to his chronic alcohol use and liver disease.
+
+PLAN
+
+1. Medication: Thiamine 100 mg orally once daily.
+2. Referral: Psychiatry for mental health assessment, Dr. Linda Morrison.
+3. Additional Testing: Complete blood count (CBC), metabolic panel, ammonia levels.
+4. Imaging: PET scan of the brain to assess metabolic activity.
+5. Patient Education: Discussed the importance of abstaining from alcohol, improving diet, and regular physical activity. Provided educational material in Spanish.
+6. Follow-Up: Monthly follow-up to monitor cognitive function and response to treatment. 
+
+The patient understands the treatment plan and agrees to follow the recommendations.
+#####"|"**1. Subjective:**
+Juan Martinez is a 60-year-old Hispanic male with a past medical history significant for alcoholic cirrhosis, Type 2 Diabetes Mellitus, hypertension, and hyperlipidemia, who presents with complaints of mild to moderate confusion and occasional hallucinations that have been intermittent over the past 3 weeks.
+
+The patient reports experiencing behavioral changes and irritability, especially in the evenings. He states that symptoms occur several times a day and are impacting his daily activities. He can perform basic tasks but requires supervision for complex activities. He has a history of heavy alcohol use, consuming up to 30 units per week, and insomnia with regular sleep disturbances. His diet is high in carbohydrates and he frequently consumes fast food. He has no regular physical activity and reports being a former smoker who quit 5 years ago.
+
+The patient has a limited understanding of complex health information and has experienced disparities in care due to insurance limitations and previous non-compliance issues.
+
+**2. Objective:**
+- **REVIEW OF SYSTEMS:**
+  - Cardiovascular: Denies chest pain or palpitations.
+  - Respiratory: Denies shortness of breath or cough.
+  - Gastrointestinal: Reports palpable hepatic tenderness, denies nausea or vomiting.
+  - Genitourinary: Denies urinary urgency or incontinence.
+  - Neurological: Endorses mild confusion, occasional hallucinations, irritability, and behavioral changes.
+  - Musculoskeletal: Denies muscle pain or weakness.
+
+- **PHYSICAL EXAMINATION:**
+  - GENERAL: Appears anxious and disoriented.
+  - VITAL SIGNS: BP: 140/90 mmHg, HR: 88 bpm, RR: 18 breaths per minute, Temp: 98.6°F.
+  - NEURO: Mild cognitive impairment, positive asterixis, slight tremors noted.
+  - GASTROINTESTINAL: Palpable hepatic tenderness, borderline ascites present.
+
+**3. Assessment:**
+Juan Martinez is a 60-year-old male with a history of alcoholic cirrhosis, Type 2 Diabetes Mellitus, hypertension, and hyperlipidemia, who presents with symptoms consistent with toxic encephalopathy, likely related to his chronic alcohol use and liver disease.
+
+**4. Plan:**
+1. Medication: Thiamine 100 mg orally once daily.
+2. Referral: Psychiatry for mental health assessment, Dr. Linda Morrison.
+3. Additional Testing: Complete blood count (CBC), metabolic panel, ammonia levels.
+4. Imaging: PET scan of the brain to assess metabolic activity.
+5. Patient Education: Discussed the importance of abstaining from alcohol, improving diet, and regular physical activity. Provided educational material in Spanish.
+6. Follow-Up: Monthly follow-up to monitor cognitive function and response to treatment.
+
+The patient understands the treatment plan and agrees to follow the recommendations."|"**1. Subjective:**
+Juan Martinez is a 60-year-old Hispanic male with a PMH significant for alcoholic cirrhosis, T2DM, HTN, and HLD, who presents with c/o mild to moderate confusion and occasional hallucinations that have been intermittent over the past 3 weeks.
+
+The patient reports experiencing behavioral changes and irritability, especially in the evenings. He states that symptoms occur several times a day and are impacting his ADLs. He can perform basic tasks but requires supervision for complex activities. He has a hx of heavy EtOH use, consuming up to 30 units per week, and insomnia with regular sleep disturbances. His diet is high in carbs and he frequently consumes fast food. He has no regular physical activity and reports being a former smoker who quit 5 years ago.
+
+The patient has a limited understanding of complex health information and has experienced disparities in care due to insurance limitations and previous non-compliance issues.
+
+**2. Objective:**
+- **ROS:**
+  - CV: Denies CP or palpitations.
+  - RESP: Denies SOB or cough.
+  - GI: Reports palpable hepatic tenderness, denies N/V.
+  - GU: Denies urinary urgency or incontinence.
+  - NEURO: Endorses mild confusion, occasional hallucinations, irritability, and behavioral changes.
+  - MSK: Denies muscle pain or weakness.
+
+- **PE:**
+  - GENERAL: Appears anxious and disoriented.
+  - VITALS: BP: 140/90 mmHg, HR: 88 bpm, RR: 18, Temp: 98.6°F.
+  - NEURO: Mild cognitive impairment, positive asterixis, slight tremors noted.
+  - GI: Palpable hepatic tenderness, borderline ascites present.
+
+**3. Assessment:**
+Juan Martinez is a 60-year-old male with a hx of alcoholic cirrhosis, T2DM, HTN, and HLD, who presents with sxs consistent with toxic encephalopathy, likely related to his chronic EtOH use and liver disease.
+
+**4. Plan:**
+1. Rx: Thiamine 100 mg PO QD.
+2. Referral: Psych for mental health assessment, Dr. Linda Morrison.
+3. Additional Testing: CBC, metabolic panel, ammonia levels.
+4. Imaging: PET scan of the brain to assess metabolic activity.
+5. Pt Education: Discussed the importance of abstaining from EtOH, improving diet, and regular physical activity. Provided educational material in Spanish.
+6. F/U: Monthly follow-up to monitor cognitive function and response to treatment.
+
+The patient understands the treatment plan and agrees to follow the recommendations."|Neurologist|"[doctor] Hello Juan, how are you doing today?
+
+[patient] Hello doctor, I'm not feeling too well. I've been feeling confused lately.
+
+[doctor] I see. Can you tell me more about your confusion? When did it start?
+
+[patient] It started about three weeks ago. Sometimes I get really confused and see things that aren't there.
+
+[doctor] Hmm, that sounds concerning. How often does this happen?
+
+[patient] It happens several times a day, especially in the evenings. It's making it hard for me to do things.
+
+[doctor] I understand. Are you able to perform basic tasks, or do you need help with those too?
+
+[patient] I can do basic things, but I need someone to help me with more complicated tasks.
+
+[doctor] Got it. Have you noticed any changes in your behavior or mood?
+
+[patient] Yes, I've been more irritable than usual, especially in the evenings.
+
+[doctor] Okay. Do you have any trouble sleeping or any sleep disturbances?
+
+[patient] Yes, I have trouble sleeping. I wake up a lot during the night.
+
+[doctor] That's important to know. Do you have any chest pain, palpitations, shortness of breath, or cough?
+
+[patient] No, I don't have any of those.
+
+[doctor] How about any nausea, vomiting, or urinary issues?
+
+[patient] No nausea or vomiting, and no urinary problems either.
+
+[doctor] Any muscle pain or weakness?
+
+[patient] No, I don’t have any muscle pain or weakness.
+
+[doctor] Alright. Let's talk about your medical history. I see you have alcoholic cirrhosis, Type 2 Diabetes Mellitus, hypertension, and hyperlipidemia. Is that correct?
+
+[patient] Yes, that's right.
+
+[doctor] And you have a history of heavy alcohol use, consuming up to 30 units per week?
+
+[patient] Yes, I used to drink a lot, but I've been trying to cut down.
+
+[doctor] That's good to hear. Have you been experiencing any hepatic tenderness or other liver issues?
+
+[patient] Yes, my liver area feels tender when I press on it.
+
+[doctor] Okay. We'll need to keep an eye on that. You mentioned your diet is high in carbohydrates and you frequently consume fast food. Is that still the case?
+
+[patient] Yes, I eat a lot of fast food. It's just easier for me.
+
+[doctor] Understood. Do you engage in any regular physical activity?
+
+[patient] No, I don't exercise at all.
+
+[doctor] Got it. And you quit smoking about 5 years ago, correct?
+
+[patient] Yes, I haven't smoked in 5 years.
+
+[doctor] That's great. Do you have any trouble understanding complex health information?
+
+[patient] Yes, it's hard for me to understand everything.
+
+[doctor] Okay, we'll make sure to explain things clearly. Have you had any issues with your insurance or complying with previous medical advice?
+
+[patient] Yes, I've had some problems with my insurance and sometimes I don't follow the advice.
+
+[doctor] Alright, we'll try to address that too. Let’s do a quick physical exam. Your vital signs are: BP 140/90 mmHg, HR 88 bpm, RR 18 breaths per minute, and Temp 98.6°F.
+
+[patient] Okay.
+
+[doctor] On your neurological exam, I noticed mild cognitive impairment, asterixis, and slight tremors. Have you noticed any trembling yourself?
+
+[patient] Yes, I've noticed some trembling in my hands.
+
+[doctor] Alright. On your gastrointestinal exam, there is palpable hepatic tenderness and borderline ascites. Have you felt any bloating or swelling in your abdomen?
+
+[patient] Yes, my abdomen feels bloated sometimes.
+
+[doctor] We'll need to monitor that. We’ve ordered a PET scan of your brain, and we’re waiting for the results. We’ve also done blood work including a complete blood count, metabolic panel, and ammonia levels.
+
+[patient] Okay.
+
+[doctor] Based on your symptoms and history, it seems like you might be experiencing toxic encephalopathy, likely related to your chronic alcohol use and liver disease.
+
+[patient] What does that mean?
+
+[doctor] It means that your confusion and hallucinations could be due to the toxins building up in your body because of your liver disease. We’ll need to address this with treatment.
+
+[patient] I see.
+
+[doctor] First, I’m going to prescribe you Thiamine 100 mg once daily. This vitamin can help with brain function.
+
+[patient] Alright.
+
+[doctor] Next, I’m referring you to a psychiatrist for a mental health assessment. Dr. Linda Morrison will help with this.
+
+[patient] Okay.
+
+[doctor] We’ll also do additional testing with a complete blood count, metabolic panel, and check your ammonia levels.
+
+[patient] Got it.
+
+[doctor] The PET scan of your brain will help us assess its metabolic activity and give us more information.
+
+[patient] Okay.
+
+[doctor] It’s very important that you abstain from alcohol completely. We’ll discuss ways to help you with this.
+
+[patient] I understand.
+
+[doctor] We also need to improve your diet and encourage regular physical activity. I’ll provide you with educational material in Spanish.
+
+[patient] That would be helpful.
+
+[doctor] We’ll follow up monthly to monitor your cognitive function and response to treatment. How does that sound?
+
+[patient] That sounds good.
+
+[doctor] Do you have any questions or concerns right now?
+
+[patient] No, I think I understand everything.
+
+[doctor] Great. Remember, it’s crucial to follow the treatment plan and make the necessary lifestyle changes. We’re here to support you through this.
+
+[patient] Thank you, doctor.
+
+[doctor] You’re welcome, Juan. We’ll see you again soon for a follow-up. Take care.
+
+[patient] Okay, see you soon."|"[doctor]: Hello Juan, how are you doing today?
+
+[patient]: Hello doctor, I'm not feeling too well. I've been feeling confused lately.
+
+[doctor]: Hmm, I see. Can you tell me more about your confusion? When did it start?
+
+[patient]: It started about three weeks ago. Sometimes I get really confused and see things that aren't there.
+
+[doctor]: Hmm, that sounds concerning. How often does this happen?
+
+[patient]: It happens several times a day, especially in the evenings. It's making it hard for me to do things.
+
+[doctor]: I understand. Are you able to perform basic tasks, or do you need help with those too?
+
+[patient]: I can do basic things, but I need someone to help me with more complicated tasks.
+
+[doctor]: Got it. Have you noticed any changes in your behavior or mood?
+
+[patient]: Yes, I've been more irritable than usual, especially in the evenings.
+
+[doctor]: Okay. Do you have any trouble sleeping or any sleep disturbances?
+
+[patient]: Yes, I have trouble sleeping. I wake up a lot during the night.
+
+[doctor]: That's important to know. Do you have any chest pain, palpitations, shortness of breath, or cough?
+
+[patient]: No, I don't have any of those.
+
+[doctor]: How about any nausea, vomiting, or urinary issues?
+
+[patient]: No nausea or vomiting, and no urinary problems either.
+
+[doctor]: Any muscle pain or weakness?
+
+[patient]: No, I don’t have any muscle pain or weakness.
+
+[doctor]: Alright. Let's talk about your medical history. I see you have alcoholic cirrhosis, Type 2 Diabetes Mellitus, hypertension, and hyperlipidemia. Is that correct?
+
+[patient]: Yes, that's right.
+
+[doctor]: And you have a history of heavy alcohol use, consuming up to 30 units per week?
+
+[patient]: Yes, I used to drink a lot, but I've been trying to cut down.
+
+[doctor]: That's good to hear. Have you been experiencing any hepatic tenderness or other liver issues?
+
+[patient]: Yes, my liver area feels tender when I press on it.
+
+[doctor]: Okay. We'll need to keep an eye on that. You mentioned your diet is high in carbohydrates and you frequently consume fast food. Is that still the case?
+
+[patient]: Yes, I eat a lot of fast food. It's just easier for me.
+
+[doctor]: Understood. Do you engage in any regular physical activity?
+
+[patient]: No, I don't exercise at all.
+
+[doctor]: Got it. And you quit smoking about 5 years ago, correct?
+
+[patient]: Yes, I haven't smoked in 5 years.
+
+[doctor]: That's great. Do you have any trouble understanding complex health information?
+
+[patient]: Yes, it's hard for me to understand everything.
+
+[doctor]: Okay, we'll make sure to explain things clearly. Have you had any issues with your insurance or complying with previous medical advice?
+
+[patient]: Yes, I've had some problems with my insurance and sometimes I don't follow the advice.
+
+[doctor]: Alright, we'll try to address that too. Let’s do a quick physical exam. Your vital signs are: BP 140/90 mmHg, HR 88 bpm, RR 18 breaths per minute, and Temp 98.6°F.
+
+[patient]: Okay.
+
+[doctor]: On your neurological exam, I noticed mild cognitive impairment, asterixis, and slight tremors. Have you noticed any trembling yourself?
+
+[patient]: Yes, I've noticed some trembling in my hands.
+
+[doctor]: Alright. On your gastrointestinal exam, there is palpable hepatic tenderness and borderline ascites. Have you felt any bloating or swelling in your abdomen?
+
+[patient]: Yes, my abdomen feels bloated sometimes.
+
+[doctor]: We'll need to monitor that. We’ve ordered a PET scan of your brain, and we’re waiting for the results. We’ve also done blood work including a complete blood count, metabolic panel, and ammonia levels.
+
+[patient]: Okay.
+
+[doctor]: Based on your symptoms and history, it seems like you might be experiencing toxic encephalopathy, likely related to your chronic alcohol use and liver disease.
+
+[patient]: What does that mean?
+
+[doctor]: It means that your confusion and hallucinations could be due to the toxins building up in your body because of your liver disease. We’ll need to address this with treatment.
+
+[patient]: I see.
+
+[doctor]: First, I’m going to prescribe you Thiamine 100 mg once daily. This vitamin can help with brain function.
+
+[patient]: Alright.
+
+[doctor]: Next, I’m referring you to a psychiatrist for a mental health assessment. Dr. Linda Morrison will help with this.
+
+[patient]: Okay.
+
+[doctor]: We’ll also do additional testing with a complete blood count, metabolic panel, and check your ammonia levels.
+
+[patient]: Got it.
+
+[doctor]: The PET scan of your brain will help us assess its metabolic activity and give us more information.
+
+[patient]: Okay.
+
+[doctor]: It’s very important that you abstain from alcohol completely. We’ll discuss ways to help you with this.
+
+[patient]: I understand.
+
+[doctor]: We also need to improve your diet and encourage regular physical activity. I’ll provide you with educational material in Spanish.
+
+[patient]: That would be helpful.
+
+[doctor]: We’ll follow up monthly to monitor your cognitive function and response to treatment. How does that sound?
+
+[patient]: That sounds good.
+
+[doctor]: Do you have any questions or concerns right now?
+
+[patient]: No, I think I understand everything.
+
+[doctor]: Great. Remember, it’s crucial to follow the treatment plan and make the necessary lifestyle changes. We’re here to support you through this.
+
+[patient]: Thank you, doctor.
+
+[doctor]: You’re welcome, Juan. We’ll see you again soon for a follow-up. Take care.
+
+[patient]: Okay, see you soon."
+TOXIC ENCEPHALOPATHY|"ROLE:
+Neurologist
+
+** 1) Medical Outcome: **
+- Diagnosis: Toxic Encephalopathy
+- Prescribed Treatment: Admit for observation, initiate high-dose corticosteroids (Methylprednisolone 1 g IV daily for 3 days), discontinue potential offending agents
+- Follow-up recommendations: Follow-up in 5 days post-discharge
+- Referral to specialists: Infectious Disease Specialist, Dr. Mark Johnson
+- Referral to further tests: Blood culture, lumbar puncture for CSF analysis, EEG, Brain CT scan without contrast
+
+** 2) Medical History: **
+- Previous Diagnoses: Chronic Liver Disease, Hypertension
+- Family Medical History: Mother with Chronic Kidney Disease, Father with Hypertension
+- Medication History: Enalapril 10 mg daily, Lactulose
+- Allergies: None known
+- Chronic Conditions: Chronic Liver Disease, Hypertension
+
+** 3) Symptom Description: **
+- Severity: Severe
+- Duration: 1 month
+- Associated Symptoms: Jaundice, ascites, altered mental status
+- Frequency: Continuous
+- Impact on Daily Activities: Bedridden, cannot perform any daily activities
+
+** 4) Patient’s self-reported habits and lifestyle: **
+- Sleep: Restless, frequent night awakenings
+- Diet: High in fast food, low in fruits and vegetables
+- Exercise: Very limited
+- Tobacco Use: Non-smoker
+- Alcohol Consumption: Heavy drinker, 5-6 drinks daily
+- Drug Use: None
+- Recreational Activities: Limited due to illness
+
+** 5) Demographic Information: **
+- Age: 52
+- Gender: Female
+- Ethnicity: Caucasian
+- Socio-economic Status: Lower-middle class
+- Education Level: College graduate
+- Health Literacy: Moderate
+- Job Status: Unemployed due to illness
+
+** 6) Patient's Behavior: **
+- Cooperation: Confused, intermittently cooperative
+
+** 7) Geographical Location: **
+- Big City vs Small City: Small City
+- Rural vs Urban: Suburban
+- Pollution and Environmental Health Risks: Low pollution
+- Neighborhood Type: Middle-class, good access to healthcare facilities
+
+** 8) Clinical Setting: **
+- Hospital
+
+** 9) Type of Encounter: **
+- Initial Consultation
+
+** 10) Treatment Disparities: **
+- None noted
+
+** 11) Native or Non-Native English Speaking Patient: **
+- Native English Speaking Patient
+
+** 12) Physical exams: **
+- General: Fatigued, appears jaundiced, disoriented to time and place
+- Neurological: Glasgow Coma Scale of 12, right-sided weakness, positive asterixis
+- Abdominal: Distended with fluid wave, mild tenderness on palpation
+
+** 13) Investigation/Test results: **
+- Awaiting results for: Blood culture, lumbar puncture for CSF analysis
+- EEG: Awaiting, looking for signs of hepatic encephalopathy
+- Brain CT: Awaiting, rule out structural lesions or hemorrhage"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Initial consultation for altered mental status and severe jaundice.
+
+**History of Present Illness (HPI):**
+Donna Smith is a 52-year-old Caucasian female presenting for initial consultation due to severe altered mental status over the past month. Her symptoms include continuous jaundice and abdominal distension. The patient has become bedridden and is unable to perform daily activities. She reports restless sleep with frequent night awakenings. She has a high intake of fast food and lacks fruits and vegetables in her diet. She is a heavy drinker, consuming 5-6 drinks daily, which has likely exacerbated her symptoms. Donna denies smoking or illicit drug use. 
+
+**Review of Systems (ROS):**
+- General: Fatigue, jaundice, altered mental status.
+- Neurological: Confusion, right-sided weakness, intermittently cooperative behavior.
+- Gastrointestinal: Ascites, abdominal distension.
+- Sleep: Restless, with frequent awakenings.
+
+**2. Objective:**
+- **General:** Patient appears jaundiced, fatigued, and disoriented to time and place.
+- **Vital Signs:** BP: 150/90 mmHg, HR: 88 bpm, Temp: 98.6°F, RR: 18 breaths/min.
+- **Neurological:** Glasgow Coma Scale score of 12, positive asterixis, right-sided weakness.
+- **Abdominal Exam:** Distended abdomen with a fluid wave, mild tenderness on palpation.
+- **Awaiting results:** Blood culture, lumbar puncture for CSF analysis, EEG, brain CT scan without contrast.
+
+**3. Assessment:**
+- Primary diagnosis: Toxic Encephalopathy likely secondary to chronic liver disease and heavy alcohol consumption.
+- Differential diagnosis includes hepatic encephalopathy and potential infectious etiology given the altered mental status and chronic liver disease.
+
+**4. Plan:**
+- **Admit for observation** with frequent monitoring of vital signs and mental status.
+- **Medications:** Initiate high-dose corticosteroids (Methylprednisolone 1 g IV daily for 3 days).
+- **Discontinue potential offending agents** including any hepatotoxic medications and recommend alcohol cessation.
+- **Consultations:** Referral to Infectious Disease Specialist, Dr. Mark Johnson.
+- **Further Tests:**
+  - Blood culture to rule out sepsis.
+  - Lumbar puncture for CSF analysis to rule out central nervous system infections or other etiologies.
+  - EEG to look for signs of hepatic encephalopathy or other neurophysiological abnormalities.
+  - Brain CT scan without contrast to rule out structural lesions or hemorrhage.
+- **Follow-up:** Schedule a follow-up appointment 5 days post-discharge to evaluate treatment efficacy and patient status. 
+
+The patient and her family understand and agree with the recommended medical treatment plan.
+
+#####
+"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Initial consultation for altered mental status and severe jaundice.
+
+**History of Present Illness (HPI):**
+Donna Smith is a 52-year-old Caucasian female presenting for initial consultation due to severe altered mental status over the past month. Her symptoms include continuous jaundice and abdominal distension. The patient has become bedridden and is unable to perform daily activities. She reports restless sleep with frequent night awakenings. She has a high intake of fast food and lacks fruits and vegetables in her diet. She is a heavy drinker, consuming 5-6 drinks daily, which has likely exacerbated her symptoms. Donna denies smoking or illicit drug use. 
+
+**Review of Systems (ROS):**
+- General: Fatigue, jaundice, altered mental status.
+- Neurological: Confusion, right-sided weakness, intermittently cooperative behavior.
+- Gastrointestinal: Ascites, abdominal distension.
+- Sleep: Restless, with frequent awakenings.
+
+**2. Objective:**
+- **General:** Patient appears jaundiced, fatigued, and disoriented to time and place.
+- **Vital Signs:** BP: 150/90 mmHg, HR: 88 bpm, Temp: 98.6°F, RR: 18 breaths/min.
+- **Neurological:** Glasgow Coma Scale score of 12, positive asterixis, right-sided weakness.
+- **Abdominal Exam:** Distended abdomen with a fluid wave, mild tenderness on palpation.
+
+**3. Assessment:**
+- Primary diagnosis: Toxic Encephalopathy likely secondary to chronic liver disease and heavy alcohol consumption.
+- Differential diagnosis includes hepatic encephalopathy and potential infectious etiology given the altered mental status and chronic liver disease.
+
+**4. Plan:**
+- **Admit for observation** with frequent monitoring of vital signs and mental status.
+- **Medications:** Initiate high-dose corticosteroids (Methylprednisolone 1 g IV daily for 3 days).
+- **Discontinue potential offending agents** including any hepatotoxic medications and recommend alcohol cessation.
+- **Consultations:** Referral to Infectious Disease Specialist, Dr. Mark Johnson, to evaluate for potential infectious etiology.
+- **Further Tests:**
+  - Blood culture to rule out sepsis.
+  - Lumbar puncture for CSF analysis to rule out central nervous system infections or other etiologies.
+  - EEG to look for signs of hepatic encephalopathy or other neurophysiological abnormalities.
+  - Brain CT scan without contrast to rule out structural lesions or hemorrhage.
+- **Follow-up:** Schedule a follow-up appointment 5 days post-discharge to evaluate treatment efficacy and patient status. 
+
+The patient and her family understand and agree with the recommended medical treatment plan.
+
+#####"|"#####
+**1. Subjective:**
+
+**CC:**
+Initial consult for AMS and severe jaundice.
+
+**HPI:**
+Donna Smith is a 52 y/o Caucasian F presenting for initial consult due to severe AMS over the past month. Sx include continuous jaundice and abd distension. Pt has become bedridden and is unable to perform ADLs. She reports restless sleep with frequent night awakenings. She has a high intake of fast food and lacks fruits and vegetables in her diet. She is a heavy drinker, consuming 5-6 drinks daily, which has likely exacerbated her Sx. Donna denies smoking or illicit drug use.
+
+**ROS:**
+- General: Fatigue, jaundice, AMS.
+- Neuro: Confusion, R-sided weakness, intermittently cooperative behavior.
+- GI: Ascites, abd distension.
+- Sleep: Restless, with frequent awakenings.
+
+**2. Objective:**
+- **General:** Pt appears jaundiced, fatigued, and disoriented to time and place.
+- **VS:** BP: 150/90 mmHg, HR: 88 bpm, Temp: 98.6°F, RR: 18 breaths/min.
+- **Neuro:** GCS score of 12, positive asterixis, R-sided weakness.
+- **Abd Exam:** Distended abd with a fluid wave, mild tenderness on palpation.
+
+**3. Assessment:**
+- Primary Dx: Toxic Encephalopathy likely 2° to chronic liver disease and heavy EtOH consumption.
+- DDx includes hepatic encephalopathy and potential infectious etiology given the AMS and chronic liver disease.
+
+**4. Plan:**
+- **Admit for obs** with frequent monitoring of VS and mental status.
+- **Meds:** Initiate high-dose corticosteroids (Methylprednisolone 1 g IV daily for 3 days).
+- **D/C potential offending agents** including any hepatotoxic meds and recommend EtOH cessation.
+- **Consults:** Referral to ID Specialist, Dr. Mark Johnson, to evaluate for potential infectious etiology.
+- **Further Tests:**
+  - Blood Cx to r/o sepsis.
+  - LP for CSF analysis to r/o CNS infections or other etiologies.
+  - EEG to look for signs of hepatic encephalopathy or other neurophysiological abnormalities.
+  - Brain CT w/o contrast to r/o structural lesions or hemorrhage.
+- **F/U:** Schedule a F/U appointment 5 days post-discharge to evaluate Tx efficacy and pt status.
+
+The pt and her family understand and agree with the recommended medical Tx plan.
+
+#####"|Role not found in the first 5 lines.|"[doctor] Hi Donna, how are you feeling today?
+
+[patient] Not great, Doctor. I’ve been really confused and just not myself.
+
+[doctor] I’m sorry to hear that. Can you tell me more about what’s been going on?
+
+[patient] Sure, over the past month, I’ve been feeling really out of it. I also have this really bad jaundice. My whole body feels weak, and my belly is so bloated.
+
+[doctor] Okay, that sounds serious. Have you noticed any other symptoms?
+
+[patient] Yes, I've been really tired all the time and can't seem to sleep well at night. I wake up frequently and just feel restless.
+
+[doctor] Alright. Have you had any changes in your diet or lifestyle recently?
+
+[patient] Well, I eat a lot of fast food and don’t really eat fruits or vegetables. And I do drink a lot, like 5-6 drinks every day. 
+
+[doctor] I see. Do you smoke or use any illicit drugs?
+
+[patient] No, I don’t smoke or use any drugs.
+
+[doctor] Okay, thanks for sharing that. Let’s go through a quick review of your symptoms. You mentioned fatigue, jaundice, and confusion. Is that correct?
+
+[patient] Yes, that's right.
+
+[doctor] And you’ve noticed some right-sided weakness and abdominal distension, correct?
+
+[patient] Yes, my right side feels weaker, and my abdomen is really distended.
+
+[doctor] Okay. Let’s check your vital signs. Your blood pressure is 150/90 mmHg, heart rate is 88 beats per minute, temperature is 98.6°F, and your respiratory rate is 18 breaths per minute. 
+
+[patient] Okay.
+
+[doctor] Your neurological exam shows a Glasgow Coma Scale score of 12, which indicates some level of confusion. You also have positive asterixis, which is a sign of liver dysfunction, and right-sided weakness.
+
+[patient] That doesn’t sound good.
+
+[doctor] It’s definitely something we need to address. Your abdominal exam shows a distended abdomen with a fluid wave, which suggests ascites, and there’s mild tenderness on palpation.
+
+[patient] What does that mean?
+
+[doctor] It means there’s a buildup of fluid in your abdomen, which is common in liver disease. We’re awaiting results from a blood culture, lumbar puncture for cerebrospinal fluid analysis, EEG, and a brain CT scan without contrast.
+
+[patient] What are you looking for with those tests?
+
+[doctor] We want to rule out any infections, check for signs of hepatic encephalopathy, and ensure there are no structural lesions or hemorrhages in your brain.
+
+[patient] Okay, I understand.
+
+[doctor] Based on your symptoms and our initial findings, we’re diagnosing you with Toxic Encephalopathy, likely secondary to chronic liver disease and heavy alcohol consumption. We also need to consider hepatic encephalopathy and potential infectious causes.
+
+[patient] What’s the plan for treatment?
+
+[doctor] We’re going to admit you for observation and monitor your vital signs and mental status closely. We’ll start you on high-dose corticosteroids, specifically Methylprednisolone 1 g IV daily for 3 days.
+
+[patient] What about my drinking?
+
+[doctor] It’s very important that you stop drinking alcohol immediately. It’s likely exacerbating your symptoms and liver disease. We’ll also discontinue any medications that could be harmful to your liver.
+
+[patient] Okay, I’ll try to stop.
+
+[doctor] We’ll arrange for you to see an Infectious Disease Specialist, Dr. Mark Johnson, to rule out any infections. We’ll also complete the tests we discussed: blood culture, lumbar puncture for CSF analysis, EEG, and a brain CT scan without contrast.
+
+[patient] What about after I leave the hospital?
+
+[doctor] We’ll schedule a follow-up appointment 5 days after your discharge to check on your progress and treatment efficacy. It’s important that you keep this appointment.
+
+[patient] Okay, I’ll make sure to be there.
+
+[doctor] Do you have any questions about the plan?
+
+[patient] No, it all makes sense. Thank you.
+
+[doctor] Great. We’ll get you admitted and start treatment right away. The team will take good care of you.
+
+[patient] Thank you, Doctor.
+
+[doctor] You’re welcome. We’ll see you soon for the follow-up. Take care.
+
+[patient] Thanks."|"[doctor] Hi Donna, how are you feeling today?
+
+[patient] Not great, Doctor. I’ve been really confused and just not myself.
+
+[doctor] I’m sorry to hear that. Can you tell me more about what’s been going on?
+
+[patient] Sure, over the past month, I’ve been feeling really out of it. I also have this really bad jaundice. My whole body feels weak, and my belly is so bloated.
+
+[doctor] Okay, that sounds serious. Have you noticed any other symptoms?
+
+[patient] Yes, I've been really tired all the time and can't seem to sleep well at night. I wake up frequently and just feel restless.
+
+[doctor] Alright. Have you had any changes in your diet or lifestyle recently?
+
+[patient] Well, I eat a lot of fast food and don’t really eat fruits or vegetables. And I do drink a lot, like 5-6 drinks every day. 
+
+[doctor] I see. Do you smoke or use any illicit drugs?
+
+[patient] No, I don’t smoke or use any drugs.
+
+[doctor] Okay, thanks for sharing that. Let’s go through a quick review of your symptoms. You mentioned fatigue, jaundice, and confusion. Is that correct?
+
+[patient] Yes, that's right.
+
+[doctor] And you’ve noticed some right-sided weakness and abdominal distension, correct?
+
+[patient] Yes, my right side feels weaker, and my abdomen is really distended.
+
+[doctor] Okay. Let’s check your vital signs. Your blood pressure is 150/90 mmHg, heart rate is 88 beats per minute, temperature is 98.6°F, and your respiratory rate is 18 breaths per minute. 
+
+[patient] Okay.
+
+[doctor] Your neurological exam shows a Glasgow Coma Scale score of 12, which indicates some level of confusion. You also have positive asterixis, which is a sign of liver dysfunction, and right-sided weakness.
+
+[patient] That doesn’t sound good.
+
+[doctor] It’s definitely something we need to address. Your abdominal exam shows a distended abdomen with a fluid wave, which suggests ascites, and there’s mild tenderness on palpation.
+
+[patient] What does that mean?
+
+[doctor] It means there’s a buildup of fluid in your abdomen, which is common in liver disease. We’re awaiting results from a blood culture, lumbar puncture for cerebrospinal fluid analysis, EEG, and a brain CT scan without contrast.
+
+[patient] What are you looking for with those tests?
+
+[doctor] We want to rule out any infections, check for signs of hepatic encephalopathy, and ensure there are no structural lesions or hemorrhages in your brain.
+
+[patient] Okay, I understand.
+
+[doctor] Based on your symptoms and our initial findings, we’re diagnosing you with Toxic Encephalopathy, likely secondary to chronic liver disease and heavy alcohol consumption. We also need to consider hepatic encephalopathy and potential infectious causes.
+
+[patient] What’s the plan for treatment?
+
+[doctor] We’re going to admit you for observation and monitor your vital signs and mental status closely. We’ll start you on high-dose corticosteroids, specifically Methylprednisolone 1 g IV daily for 3 days.
+
+[patient] What about my drinking?
+
+[doctor] It’s very important that you stop drinking alcohol immediately. It’s likely exacerbating your symptoms and liver disease. We’ll also discontinue any medications that could be harmful to your liver.
+
+[patient] Okay, I’ll try to stop.
+
+[doctor] We’ll arrange for you to see an Infectious Disease Specialist, Dr. Mark Johnson, to rule out any infections. We’ll also complete the tests we discussed: blood culture, lumbar puncture for CSF analysis, EEG, and a brain CT scan without contrast.
+
+[patient] What about after I leave the hospital?
+
+[doctor] We’ll schedule a follow-up appointment 5 days after your discharge to check on your progress and treatment efficacy. It’s important that you keep this appointment.
+
+[patient] Okay, I’ll make sure to be there.
+
+[doctor] Do you have any questions about the plan?
+
+[patient] No, it all makes sense. Thank you.
+
+[doctor] Great. We’ll get you admitted and start treatment right away. The team will take good care of you.
+
+[patient] Thank you, Doctor.
+
+[doctor] You’re welcome. We’ll see you soon for the follow-up. Take care.
+
+[patient] Thanks."
+TOXIC ENCEPHALOPATHY|"ROLE: Neurologist
+
+1) Medical Outcome: 
+   - Diagnosis: Toxic Encephalopathy
+   - Prescribed Treatment: Lactulose 30 mL orally every 8 hours, Rifaximin 550 mg orally twice daily
+   - Medication Adjustment: Discontinue all sedatives and painkillers
+   - Follow-up recommendations: Follow-up visit in 4 weeks
+   - Referral: Referral to a dietitian for nutritional counseling with focus on liver-friendly diet 
+     - Specialty: Dietetics
+     - Doctor's Name: Sarah Johnson
+   - Imaging: Immediate CT scan of the brain to rule out any acute structural abnormalities
+   - Blood Work: Liver function tests (biochemistry), serum ammonia (biochemistry), complete blood count (hematology), and thyroid function tests (biochemistry)
+
+2) Medical History:
+   - Previous Diagnoses: Chronic liver disease, hypothyroidism
+   - Family Medical History: Mother had hypothyroidism, father had alcoholic liver disease
+   - Medication History: Levothyroxine 75 mcg daily
+   - Allergies: No known drug allergies
+   - Chronic Conditions: Chronic liver disease, hypothyroidism
+
+3) Symptom Description:
+   - Severity: Severe confusion and agitation
+   - Duration: Symptoms started 5 days ago
+   - Associated Symptoms: Agitation, restlessness, hand tremors, jaundice, and fatigue
+   - Frequency: Continuous since onset
+   - Impact on Daily Activities: Inability to perform daily activities and requires supervision
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Insomnia, frequent night awakenings
+   - Diet: High in processed foods and low in protein
+   - Exercise: Very limited physical activity, mostly sedentary
+   - Tobacco Use: Smokes 1 pack per day
+   - Alcohol Consumption: Significant alcohol consumption, up to 5 beers daily
+   - Drug Use: Occasional recreational marijuana use
+   - Recreational Activities: Watches TV, does not engage in physical hobbies
+
+5) Demographic Information:
+   - Age: 63 years old
+   - Gender: Female
+   - Ethnicity: African American
+   - Socio-economic Status: Lower-middle class
+   - Education Level: Some college education
+   - Health Literacy: Basic understanding of health conditions
+   - Job Status: Unemployed, former accountant
+
+6) Patient's Behavior:
+   - Cooperation: Limited, somewhat resistant to lifestyle changes and medications
+
+7) Geographical Location:
+   - Big City vs Small City: Big city
+   - Rural vs Urban: Urban
+   - Pollution and Environmental Health Risks: High levels of pollution
+   - Neighborhood Type: Low-income community with limited access to healthcare facilities
+   - Well-served by Transit: Well-served by public transit
+
+8) Clinical Setting:
+   - Clinical Setting: Telemedicine consultation
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - Potential for financial limitations impacting access to ongoing care and specialized treatments
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English Speaking Patient
+
+12) Physical exams:
+   - Neurological Exam: Severe cognitive impairment, marked agitation, noticeable hand tremors
+
+13) Investigation/Test results:
+   - Awaiting CT scan results of the brain
+   - Awaiting Blood Work: Liver function tests, serum ammonia, complete blood count, thyroid function tests"|"#####
+1. Subjective:
+   **Chief Complaint (CC):**
+   Severe confusion and agitation.
+
+   **History of Present Illness (HPI):**
+   The patient is a 63-year-old African American female with a past medical history significant for chronic liver disease and hypothyroidism, presenting with severe confusion and agitation that began 5 days ago. She reports continuous symptoms of agitation, restlessness, hand tremors, jaundice, and fatigue, significantly impacting her ability to perform daily activities, necessitating supervision.
+
+   **Review of Systems (ROS):**
+   - **Constitutional:** Fatigue, insomnia with frequent night awakenings.
+   - **Neurological:** Severe confusion, agitation, hand tremors.
+   - **Gastrointestinal:** Jaundice.
+   - **Psychiatric:** Agitation, restlessness.
+   - **Lifestyle:** High in processed foods and low in protein diet, very limited physical activity, smokes 1 pack per day, significant alcohol consumption (up to 5 beers daily), occasional recreational marijuana use.
+
+2. Objective:
+   **Physical Examination:**
+   - **Neurological Exam:** Severe cognitive impairment, marked agitation, noticeable hand tremors.
+   - **General Appearance:** Jaundice noted.
+
+   **Vitals:**
+   - Blood Pressure: [To be filled]
+   - Heart Rate: [To be filled]
+   - Respiratory Rate: [To be filled]
+   - Temperature: [To be filled]
+
+   **Pending Investigations:**
+   - CT scan of the brain.
+   - Blood Work: Liver function tests, serum ammonia, complete blood count, thyroid function tests.
+
+3. Assessment:
+   The patient presents with severe cognitive impairment, marked agitation, hand tremors, and jaundice. Given her symptoms, history of chronic liver disease, and hypothyroidism, the most likely diagnosis is Toxic Encephalopathy, possibly secondary to liver dysfunction and elevated serum ammonia levels.
+
+4. Plan:
+   **Medical Treatment:**
+   - **Prescribed Treatment:** Lactulose 30 mL orally every 8 hours, Rifaximin 550 mg orally twice daily.
+   - **Medication Adjustment:** Discontinue all sedatives and painkillers.
+   
+   **Follow-Up Recommendations:**
+   - Follow-up visit in 4 weeks for reassessment.
+   
+   **Referrals:**
+   - Referral to dietitian Sarah Johnson for nutritional counseling with a focus on a liver-friendly diet.
+   
+   **Imaging and Tests:**
+   - Immediate CT scan of the brain to rule out any acute structural abnormalities.
+   - Blood Work: Liver function tests (biochemistry), serum ammonia (biochemistry), complete blood count (hematology), and thyroid function tests (biochemistry).
+   
+   **Lifestyle Recommendations:**
+   - Strongly advise cessation of alcohol and smoking.
+   - Encourage increased physical activity, potentially under supervision.
+   - Diet modification to reduce processed foods and increase protein intake.
+     
+   **Patient Understanding and Agreement:**
+   The patient was provided with detailed explanations of the condition and the proposed treatment plan. Given the patient's limited cooperation and resistance, additional support and counseling may be needed to ensure adherence.
+
+#####
+"|"#####
+1. Subjective:
+   **Chief Complaint (CC):**
+   Severe confusion and agitation.
+
+   **History of Present Illness (HPI):**
+   The patient, Ms. Angela Thompson, is a 63-year-old African American female with a past medical history significant for chronic liver disease and hypothyroidism, presenting with severe confusion and agitation that began 5 days ago. She reports continuous symptoms of agitation, restlessness, hand tremors, jaundice, and fatigue, significantly impacting her ability to perform daily activities, necessitating supervision.
+
+   **Review of Systems (ROS):**
+   - **Constitutional:** Fatigue, insomnia with frequent night awakenings.
+   - **Neurological:** Severe confusion, agitation, hand tremors.
+   - **Gastrointestinal:** Jaundice.
+   - **Psychiatric:** Agitation, restlessness.
+   - **Lifestyle:** High in processed foods and low in protein diet, very limited physical activity, smokes 1 pack per day, significant alcohol consumption (up to 5 beers daily), occasional recreational marijuana use.
+
+2. Objective:
+   **Physical Examination:**
+   - **Neurological Exam:** Severe cognitive impairment, marked agitation, noticeable hand tremors.
+   - **General Appearance:** Jaundice noted.
+
+   **Vitals:**
+   - Blood Pressure: [To be filled]
+   - Heart Rate: [To be filled]
+   - Respiratory Rate: [To be filled]
+   - Temperature: [To be filled]
+
+3. Assessment:
+   The patient presents with severe cognitive impairment, marked agitation, hand tremors, and jaundice. Given her symptoms, history of chronic liver disease, and hypothyroidism, the most likely diagnosis is Toxic Encephalopathy, possibly secondary to liver dysfunction and elevated serum ammonia levels.
+
+4. Plan:
+   **Medical Treatment:**
+   - **Prescribed Treatment:** Lactulose 30 mL orally every 8 hours, Rifaximin 550 mg orally twice daily.
+   - **Medication Adjustment:** Discontinue all sedatives and painkillers.
+   
+   **Follow-Up Recommendations:**
+   - Follow-up visit in 4 weeks for reassessment.
+   
+   **Referrals:**
+   - Referral to dietitian Sarah Johnson for nutritional counseling with a focus on a liver-friendly diet.
+   
+   **Imaging and Tests:**
+   - Immediate CT scan of the brain to rule out any acute structural abnormalities.
+   - Blood Work: Liver function tests (biochemistry), serum ammonia (biochemistry), complete blood count (hematology), and thyroid function tests (biochemistry).
+   
+   **Lifestyle Recommendations:**
+   - Strongly advise cessation of alcohol and smoking.
+   - Encourage increased physical activity, potentially under supervision.
+   - Diet modification to reduce processed foods and increase protein intake.
+     
+   **Patient Understanding and Agreement:**
+   The patient was provided with detailed explanations of the condition and the proposed treatment plan. Given the patient's limited cooperation and resistance, additional support and counseling may be needed to ensure adherence.
+
+#####
+"|"#####
+1. Subjective:
+   **CC:**
+   Severe confusion and agitation.
+
+   **HPI:**
+   The pt, Ms. Angela Thompson, is a 63 y/o African American F with PMH significant for chronic liver dz and hypothyroidism, presenting with severe confusion and agitation that began 5 days ago. She reports continuous sx of agitation, restlessness, hand tremors, jaundice, and fatigue, significantly impacting her ability to perform ADLs, necessitating supervision.
+
+   **ROS:**
+   - **Constitutional:** Fatigue, insomnia with frequent night awakenings.
+   - **Neuro:** Severe confusion, agitation, hand tremors.
+   - **GI:** Jaundice.
+   - **Psych:** Agitation, restlessness.
+   - **Lifestyle:** High in processed foods and low in protein diet, very limited physical activity, smokes 1 PPD, significant EtOH consumption (up to 5 beers daily), occasional recreational marijuana use.
+
+2. Objective:
+   **PE:**
+   - **Neuro Exam:** Severe cognitive impairment, marked agitation, noticeable hand tremors.
+   - **Gen Appearance:** Jaundice noted.
+
+   **Vitals:**
+   - BP: [To be filled]
+   - HR: [To be filled]
+   - RR: [To be filled]
+   - Temp: [To be filled]
+
+3. Assessment:
+   The pt presents with severe cognitive impairment, marked agitation, hand tremors, and jaundice. Given her sx, hx of chronic liver dz, and hypothyroidism, the most likely dx is Toxic Encephalopathy, possibly 2° to liver dysfunction and elevated serum ammonia levels.
+
+4. Plan:
+   **Medical Tx:**
+   - **Rx:** Lactulose 30 mL PO q8h, Rifaximin 550 mg PO BID.
+   - **Med Adjustment:** D/C all sedatives and painkillers.
+   
+   **F/U Recommendations:**
+   - F/U visit in 4 weeks for reassessment.
+   
+   **Referrals:**
+   - Referral to dietitian Sarah Johnson for nutritional counseling with a focus on a liver-friendly diet.
+   
+   **Imaging and Tests:**
+   - Immediate CT brain to r/o any acute structural abnormalities.
+   - Blood Work: LFTs, serum ammonia, CBC, and TFTs.
+   
+   **Lifestyle Recommendations:**
+   - Strongly advise cessation of EtOH and smoking.
+   - Encourage increased physical activity, potentially under supervision.
+   - Diet modification to reduce processed foods and increase protein intake.
+     
+   **Pt Understanding and Agreement:**
+   The pt was provided with detailed explanations of the condition and the proposed tx plan. Given the pt's limited cooperation and resistance, additional support and counseling may be needed to ensure adherence.
+
+#####
+"|Neurologist|"[doctor] Hello, it's nice to see you today. I understand you're experiencing some severe confusion and agitation. When did these symptoms first start?
+
+[patient] Hi, Doctor. Yes, it's been really difficult. I think it started about 5 days ago.
+
+[doctor] I see. Can you describe the symptoms you've been experiencing since then?
+
+[patient] Sure. I’ve been feeling really agitated and restless. My hands are shaking a lot, and I feel very tired all the time. I also noticed my skin looks yellow.
+
+[doctor] Hmm, alright. Have you had any trouble sleeping?
+
+[patient] Yes, I’ve been having a hard time sleeping. I wake up frequently at night.
+
+[doctor] Okay, and how about confusion? Have you been feeling more confused than usual?
+
+[patient] Yes, very much. I feel like I can’t think straight at all.
+
+[doctor] I see. I notice you mentioned hand tremors. Have they been constant or do they come and go?
+
+[patient] They’re pretty constant. They don't seem to go away.
+
+[doctor] Alright. Have you noticed any changes in your appetite or digestion?
+
+[patient] Not really. But I do feel very tired and my skin is yellow.
+
+[doctor] Okay, thank you for sharing that. Now, let’s talk a bit about your lifestyle. How would you describe your diet?
+
+[patient] Well, I eat a lot of processed foods and not much protein. I don’t really exercise much either.
+
+[doctor] Hmm, okay. How about smoking and alcohol consumption?
+
+[patient] I smoke about a pack a day and I drink up to 5 beers daily.
+
+[doctor] Alright. Do you use any recreational drugs?
+
+[patient] Occasionally, I use marijuana.
+
+[doctor] Thank you for that information. Now, let's look at your medical history. You have chronic liver disease and hypothyroidism, correct?
+
+[patient] Yes, that’s right.
+
+[doctor] Are you currently taking any medications for these conditions?
+
+[patient] Yes, I take medication for my thyroid, but I can’t remember the name.
+
+[doctor] Okay, no problem. We’ll check your records for that. Now, let me perform a quick physical examination.
+
+[patient] Okay.
+
+[doctor] On your neurological exam, I see you have severe cognitive impairment and marked agitation. Your hands are noticeably trembling. Let me also check your general appearance... I see that you have jaundice.
+
+[patient] Yes, my skin looks yellow.
+
+[doctor] Alright. I need to take your vital signs now. Your blood pressure is [to be filled], heart rate is [to be filled], respiratory rate is [to be filled], and temperature is [to be filled].
+
+[patient] Okay.
+
+[doctor] Based on your symptoms and medical history, I suspect you might have Toxic Encephalopathy, possibly due to liver dysfunction and elevated serum ammonia levels.
+
+[patient] What does that mean?
+
+[doctor] It means that your liver may not be working properly, which can affect your brain function. We need to do some tests to confirm this.
+
+[patient] What kind of tests?
+
+[doctor] We will perform a CT scan of your brain to check for any acute structural abnormalities. We’ll also do blood work, including liver function tests, serum ammonia, complete blood count, and thyroid function tests.
+
+[patient] Okay, I understand.
+
+[doctor] For your treatment, I am prescribing Lactulose 30 mL orally every 8 hours and Rifaximin 550 mg orally twice daily. We’ll also discontinue any sedatives and painkillers you might be taking.
+
+[patient] Alright, I’ll do that.
+
+[doctor] I’m also referring you to a dietitian named Sarah Johnson for nutritional counseling. She will help you with a liver-friendly diet.
+
+[patient] Okay, that sounds good.
+
+[doctor] You should follow up with me in 4 weeks for reassessment. We need to monitor your progress closely.
+
+[patient] Alright, I’ll come back in 4 weeks.
+
+[doctor] In the meantime, I strongly advise you to stop drinking alcohol and smoking. These can worsen your condition.
+
+[patient] I’ll try my best.
+
+[doctor] Also, try to increase your physical activity, even if it's just light exercise. And please modify your diet to reduce processed foods and increase protein intake.
+
+[patient] I’ll work on that.
+
+[doctor] Great. We’ll provide detailed explanations and support to help you adhere to the treatment plan. Do you have any other questions or concerns?
+
+[patient] No, that’s all for now. Thank you.
+
+[doctor] You're welcome. Take care and we’ll see you in four weeks. Don’t hesitate to call if you have any questions or if your symptoms worsen.
+
+[patient] Thank you, Doctor.
+
+[doctor] You're welcome. Take care."|"[doctor]: Hello, it's nice to see you today. I understand you're experiencing some severe confusion and agitation. When did these symptoms first start?
+
+[patient]: Hi, Doctor. Yes, it's been really difficult. I think it started about 5 days ago.
+
+[doctor]: I see. Can you describe the symptoms you've been experiencing since then?
+
+[patient]: Sure. I’ve been feeling really agitated and restless. My hands are shaking a lot, and I feel very tired all the time. I also noticed my skin looks yellow.
+
+[doctor]: Hmm, alright. Have you had any trouble sleeping?
+
+[patient]: Yes, I’ve been having a hard time sleeping. I wake up frequently at night.
+
+[doctor]: Okay, and how about confusion? Have you been feeling more confused than usual?
+
+[patient]: Yes, very much. I feel like I can’t think straight at all.
+
+[doctor]: I see. I notice you mentioned hand tremors. Have they been constant or do they come and go?
+
+[patient]: They’re pretty constant. They don't seem to go away.
+
+[doctor]: Alright. Have you noticed any changes in your appetite or digestion?
+
+[patient]: Not really. But I do feel very tired and my skin is yellow.
+
+[doctor]: Okay, thank you for sharing that. Now, let’s talk a bit about your lifestyle. How would you describe your diet?
+
+[patient]: Well, I eat a lot of processed foods and not much protein. I don’t really exercise much either.
+
+[doctor]: Hmm, okay. How about smoking and alcohol consumption?
+
+[patient]: I smoke about a pack a day and I drink up to 5 beers daily.
+
+[doctor]: Alright. Do you use any recreational drugs?
+
+[patient]: Occasionally, I use marijuana.
+
+[doctor]: Thank you for that information. Now, let's look at your medical history. You have chronic liver disease and hypothyroidism, correct?
+
+[patient]: Yes, that’s right.
+
+[doctor]: Are you currently taking any medications for these conditions?
+
+[patient]: Yes, I take medication for my thyroid, but I can’t remember the name.
+
+[doctor]: Okay, no problem. We’ll check your records for that. Now, let me perform a quick physical examination.
+
+[patient]: Okay.
+
+[doctor]: On your neurological exam, I see you have severe cognitive impairment and marked agitation. Your hands are noticeably trembling. Let me also check your general appearance... I see that you have jaundice.
+
+[patient]: Yes, my skin looks yellow.
+
+[doctor]: Alright. I need to take your vital signs now. Your blood pressure is [to be filled], heart rate is [to be filled], respiratory rate is [to be filled], and temperature is [to be filled].
+
+[patient]: Okay.
+
+[doctor]: Based on your symptoms and medical history, I suspect you might have Toxic Encephalopathy, possibly due to liver dysfunction and elevated serum ammonia levels.
+
+[patient]: What does that mean?
+
+[doctor]: It means that your liver may not be working properly, which can affect your brain function. We need to do some tests to confirm this.
+
+[patient]: What kind of tests?
+
+[doctor]: We will perform a CT scan of your brain to check for any acute structural abnormalities. We’ll also do blood work, including liver function tests, serum ammonia, complete blood count, and thyroid function tests.
+
+[patient]: Okay, I understand.
+
+[doctor]: For your treatment, I am prescribing Lactulose 30 mL orally every 8 hours and Rifaximin 550 mg orally twice daily. We’ll also discontinue any sedatives and painkillers you might be taking.
+
+[patient]: Alright, I’ll do that.
+
+[doctor]: I’m also referring you to a dietitian named Sarah Johnson for nutritional counseling. She will help you with a liver-friendly diet.
+
+[patient]: Okay, that sounds good.
+
+[doctor]: You should follow up with me in 4 weeks for reassessment. We need to monitor your progress closely.
+
+[patient]: Alright, I’ll come back in 4 weeks.
+
+[doctor]: In the meantime, I strongly advise you to stop drinking alcohol and smoking. These can worsen your condition.
+
+[patient]: I’ll try my best.
+
+[doctor]: Also, try to increase your physical activity, even if it's just light exercise. And please modify your diet to reduce processed foods and increase protein intake.
+
+[patient]: I’ll work on that.
+
+[doctor]: Great. We’ll provide detailed explanations and support to help you adhere to the treatment plan. Do you have any other questions or concerns?
+
+[patient]: No, that’s all for now. Thank you.
+
+[doctor]: You're welcome. Take care and we’ll see you in four weeks. Don’t hesitate to call if you have any questions or if your symptoms worsen.
+
+[patient]: Thank you, Doctor.
+
+[doctor]: You're welcome. Take care."
+TOXIC ENCEPHALOPATHY|"ROLE: Neurologist
+
+- Medical Outcome: Diagnosis: Toxic Encephalopathy; Prescribed Treatment: Immediate cessation of exposure to offending toxin (identified as heavy metal), Medication: Chelation therapy with Dimercaprol, 300 mg IM every 4 hours for 48 hours, then every 6 hours for the next 5 days; Referral: Referral to Hematologist (Dr. Jane Brown) for blood work monitoring and further management of toxin levels; Follow-up Recommendations: Weekly follow-up for cognitive and neurological assessment; Lifestyle Change: Avoidance of identified toxins.
+
+- Medical History: 
+  - Previous Diagnoses: Hypertension, Type 2 Diabetes
+  - Family Medical History: Father with Parkinson’s disease, Mother with hypothyroidism
+  - Medication History: Metformin 500 mg twice daily, Lisinopril 10 mg daily
+  - Allergies: Penicillin
+  - Chronic Conditions: Hypertension, Type 2 Diabetes
+
+- Symptom Description: 
+  - Severity: Moderately severe
+  - Duration: 3 weeks
+  - Associated Symptoms: Memory loss, confusion, headaches, lethargy, difficulty concentrating
+  - Frequency: Daily
+  - Impact on Daily Activities: Significant impairment in work and daily living, difficulty performing job-related tasks, and managing household activities.
+
+- Patient’s self-reported habits and lifestyle: 
+  - Sleep: Poor quality, 4-5 hours per night
+  - Diet: Predominantly unhealthy, frequent fast food consumption
+  - Exercise: Infrequent, once a week
+  - Tobacco Use: Smokes 1 pack per day
+  - Alcohol Consumption: Social drinking, 1-2 times a week
+  - Drug Use: Denies any illegal drug use
+  - Recreational Activities: None reported
+
+- Demographic Information: 
+  - Age: 58
+  - Gender: Male
+  - Ethnicity: Hispanic
+  - Socio-economic Status: Low income
+  - Education Level: High school graduate
+  - Health Literacy: Basic understanding of health conditions and treatment
+  - Job Status: Works as a construction worker
+
+- Patient's Behavior: Cooperative, but has challenges in adhering to lifestyle changes due to work and socio-economic factors.
+
+- Geographical Location: Urban setting in a large city, with moderate pollution levels and environmental health risks; Neighborhood is a mixed area with both residential and industrial zones.
+
+- Clinical Setting: Neurology Clinic in a large hospital
+
+- Type of Encounter: Initial Consultation
+
+- Treatment Disparities: Potential difficulty maintaining aggressive treatment due to low income and job constraints.
+
+- Native or Non-Native English Speaking Patient: Non-Native English Speaking (Spanish speaking)
+
+- Physical exams: 
+  - Neurological Exam: Shows signs of cognitive impairment, diminished reflexes, slight tremor.
+  - General Physical Exam: Elevated blood pressure (150/95 mmHg), overweight BMI of 30.
+
+- Investigation/Test results: 
+  - Blood Work: Elevated lead levels, Awaiting full heavy metal panel results (Biochemistry, Hematology)
+  - Imaging: MRI Brain shows mild diffuse cerebral atrophy indicative of toxin exposure.
+
+"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):** 
+Memory loss, confusion, and headaches persisting for 3 weeks.
+
+**History of Present Illness (HPI):** 
+A 58-year-old Hispanic male presents with moderately severe symptoms of memory loss, confusion, daily headaches, lethargy, and difficulty concentrating, significantly impairing his ability to perform work-related and household tasks. Symptoms have been ongoing for the past 3 weeks.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports significant fatigue and poor sleep quality (4-5 hours/night).
+- **Eyes:** Denies vision changes.
+- **ENT:** Reports no hearing loss or throat pain.
+- **Neurological:** Reports memory loss, confusion, headaches, lethargy, and decreased concentration.
+- **Cardiovascular:** No chest pain or palpitations.
+- **Gastrointestinal:** No nausea or vomiting.
+- **Musculoskeletal:** No joint pain reported.
+- **Psychiatric:** No history of anxiety or depression but reports frustration due to cognitive decline.
+- **Endocrine:** No changes in appetite or thirst.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 150/95 mmHg
+- Body Mass Index (BMI): 30 (Overweight)
+
+**Neurological Exam:**
+- Cognitive impairment evident on mini-mental status exam.
+- Diminished deep tendon reflexes.
+- Slight tremor observed in both hands.
+
+**General Physical Exam:**
+- Normal heart sounds, clear lung fields.
+- No hepatosplenomegaly or masses palpated.
+- Skin examination unremarkable.
+
+**Investigation/Test Results:**
+- Blood Work: Elevated lead levels, awaiting further heavy metal panel results.
+- Imaging: MRI brain reveals mild diffuse cerebral atrophy indicative of toxin exposure.
+
+**3. Assessment:**
+
+**Diagnosis:** Toxic Encephalopathy
+
+**Differential Diagnosis:**
+- Neurodegenerative disorders
+- Cerebrovascular disease
+
+**4. Plan:**
+
+**Medical Treatment:**
+1. **Immediate cessation of exposure** to the identified toxin (heavy metal).
+2. **Chelation therapy** with Dimercaprol, 300 mg intramuscularly every 4 hours for 48 hours, then every 6 hours for the next 5 days.
+3. **Referral to Hematologist** (Dr. Jane Brown) for blood work monitoring and further management of toxin levels.
+
+**Lifestyle Changes:**
+- **Avoidance of identified toxins:** Employ protective measures at work, ensure proper ventilation and use of personal protective equipment.
+- **Smoking cessation support:** Referral to smoking cessation program.
+- **Dietary improvements:** Referral to a dietitian for guidance on a balanced diet.
+- **Exercise:** Encouragement to increase physical activity, aiming for at least 30 minutes of moderate exercise 3 times a week.
+
+**Follow-up Recommendations:**
+- Weekly follow-up for cognitive and neurological assessment.
+- Regular monitoring of blood pressure and blood sugar levels given underlying hypertension and diabetes.
+
+**Patient Education and Counseling:**
+- Discussed the nature of toxic encephalopathy and the importance of avoiding further exposure to heavy metals.
+- Explained the need for adherence to chelation therapy and follow-up appointments for monitoring his neurological status and treatment efficacy.
+- Addressed the impact of lifestyle factors on overall health and well-being, emphasizing small, manageable changes.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended treatment plan and lifestyle changes.
+- Acknowledged the potential challenges due to socio-economic factors and work constraints, and discussed available support services.
+
+**Instructions:**
+- Follow up in 1 week for neurological reassessment.
+- Call or visit the clinic sooner if symptoms worsen or new symptoms develop.
+- Coordination with a medical interpreter service for future visits to ensure effective communication and understanding.
+
+**Interpreter Services:**
+- Arranged for a Spanish-speaking medical interpreter for the patient's follow-up visits to facilitate better communication and comprehension of the treatment plan.
+#####"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):** 
+Memory loss, confusion, and headaches persisting for 3 weeks.
+
+**History of Present Illness (HPI):** 
+A 58-year-old Hispanic male presents with moderately severe symptoms of memory loss, confusion, daily headaches, lethargy, and difficulty concentrating, significantly impairing his ability to perform work-related and household tasks. Symptoms have been ongoing for the past 3 weeks.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports significant fatigue and poor sleep quality (4-5 hours/night).
+- **Eyes:** Denies vision changes.
+- **ENT:** Reports no hearing loss or throat pain.
+- **Neurological:** Reports memory loss, confusion, headaches, lethargy, and decreased concentration.
+- **Cardiovascular:** No chest pain or palpitations.
+- **Gastrointestinal:** No nausea or vomiting.
+- **Musculoskeletal:** No joint pain reported.
+- **Psychiatric:** No history of anxiety or depression but reports frustration due to cognitive decline.
+- **Endocrine:** No changes in appetite or thirst.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 150/95 mmHg
+- Body Mass Index (BMI): 30 (Overweight)
+
+**Neurological Exam:**
+- Cognitive impairment evident on mini-mental status exam.
+- Diminished deep tendon reflexes.
+- Slight tremor observed in both hands.
+
+**General Physical Exam:**
+- Normal heart sounds, clear lung fields.
+- No hepatosplenomegaly or masses palpated.
+- Skin examination unremarkable.
+
+**Investigation/Test Results:**
+- Blood Work: Elevated lead levels, awaiting further heavy metal panel results.
+- Imaging: MRI brain reveals mild diffuse cerebral atrophy indicative of toxin exposure.
+
+**3. Assessment:**
+
+**Diagnosis:** Toxic Encephalopathy
+
+**Differential Diagnosis:**
+- Neurodegenerative disorders
+- Cerebrovascular disease
+
+**4. Plan:**
+
+**Medical Treatment:**
+1. **Immediate cessation of exposure** to the identified toxin (heavy metal).
+2. **Chelation therapy** with Dimercaprol, 300 mg intramuscularly every 4 hours for 48 hours, then every 6 hours for the next 5 days.
+3. **Referral to Hematologist** (Dr. Jane Brown) for blood work monitoring and further management of toxin levels.
+
+**Lifestyle Changes:**
+- **Avoidance of identified toxins:** Employ protective measures at work, ensure proper ventilation and use of personal protective equipment.
+- **Smoking cessation support:** Referral to smoking cessation program.
+- **Dietary improvements:** Referral to a dietitian for guidance on a balanced diet.
+- **Exercise:** Encouragement to increase physical activity, aiming for at least 30 minutes of moderate exercise 3 times a week.
+
+**Follow-up Recommendations:**
+- Weekly follow-up for cognitive and neurological assessment.
+- Regular monitoring of blood pressure and blood sugar levels given underlying hypertension and diabetes.
+
+**Patient Education and Counseling:**
+- Discussed the nature of toxic encephalopathy and the importance of avoiding further exposure to heavy metals.
+- Explained the need for adherence to chelation therapy and follow-up appointments for monitoring his neurological status and treatment efficacy.
+- Addressed the impact of lifestyle factors on overall health and well-being, emphasizing small, manageable changes.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended treatment plan and lifestyle changes.
+- Acknowledged the potential challenges due to socio-economic factors and work constraints, and discussed available support services.
+
+**Instructions:**
+- Follow up in 1 week for neurological reassessment.
+- Call or visit the clinic sooner if symptoms worsen or new symptoms develop.
+- Coordination with a medical interpreter service for future visits to ensure effective communication and understanding.
+
+**Interpreter Services:**
+- Arranged for a Spanish-speaking medical interpreter for the patient's follow-up visits to facilitate better communication and comprehension of the treatment plan.
+#####"|"#####
+**1. Subjective:**
+
+**CC:** 
+Memory loss, confusion, and HA persisting for 3 weeks.
+
+**HPI:** 
+A 58-year-old Hispanic male presents with moderately severe sx of memory loss, confusion, daily HA, lethargy, and difficulty concentrating, significantly impairing his ability to perform work-related and household tasks. Sx have been ongoing for the past 3 weeks.
+
+**ROS:**
+- **Constitutional:** Reports significant fatigue and poor sleep quality (4-5 hrs/night).
+- **Eyes:** Denies vision changes.
+- **ENT:** Reports no hearing loss or throat pain.
+- **Neuro:** Reports memory loss, confusion, HA, lethargy, and decreased concentration.
+- **CV:** No CP or palpitations.
+- **GI:** No N/V.
+- **MSK:** No joint pain reported.
+- **Psych:** No hx of anxiety or depression but reports frustration due to cognitive decline.
+- **Endo:** No changes in appetite or thirst.
+
+**2. Objective:**
+
+**VS:**
+- BP: 150/95 mmHg
+- BMI: 30 (Overweight)
+
+**Neuro Exam:**
+- Cognitive impairment evident on MMSE.
+- Diminished DTRs.
+- Slight tremor observed in both hands.
+
+**Gen Phys Exam:**
+- Normal heart sounds, clear lung fields.
+- No hepatosplenomegaly or masses palpated.
+- Skin exam unremarkable.
+
+**Investigation/Test Results:**
+- Blood Work: Elevated lead levels, awaiting further heavy metal panel results.
+- Imaging: MRI brain reveals mild diffuse cerebral atrophy indicative of toxin exposure.
+
+**3. Assessment:**
+
+**Dx:** Toxic Encephalopathy
+
+**DDx:**
+- Neurodegenerative disorders
+- Cerebrovascular disease
+
+**4. Plan:**
+
+**Medical Tx:**
+1. **Immediate cessation of exposure** to the identified toxin (heavy metal).
+2. **Chelation therapy** with Dimercaprol, 300 mg IM q4h for 48 hrs, then q6h for the next 5 days.
+3. **Referral to Hematologist** (Dr. Jane Brown) for blood work monitoring and further mgmt of toxin levels.
+
+**Lifestyle Changes:**
+- **Avoidance of identified toxins:** Employ protective measures at work, ensure proper ventilation and use of PPE.
+- **Smoking cessation support:** Referral to smoking cessation program.
+- **Dietary improvements:** Referral to a dietitian for guidance on a balanced diet.
+- **Exercise:** Encouragement to increase physical activity, aiming for at least 30 mins of moderate exercise 3x/week.
+
+**Follow-up Recommendations:**
+- Weekly follow-up for cognitive and neuro assessment.
+- Regular monitoring of BP and blood sugar levels given underlying HTN and DM.
+
+**Patient Education and Counseling:**
+- Discussed the nature of toxic encephalopathy and the importance of avoiding further exposure to heavy metals.
+- Explained the need for adherence to chelation therapy and follow-up appointments for monitoring his neuro status and tx efficacy.
+- Addressed the impact of lifestyle factors on overall health and well-being, emphasizing small, manageable changes.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended tx plan and lifestyle changes.
+- Acknowledged the potential challenges due to socio-economic factors and work constraints, and discussed available support services.
+
+**Instructions:**
+- Follow up in 1 week for neuro reassessment.
+- Call or visit the clinic sooner if sx worsen or new sx develop.
+- Coordination with a medical interpreter service for future visits to ensure effective communication and understanding.
+
+**Interpreter Services:**
+- Arranged for a Spanish-speaking medical interpreter for the patient's follow-up visits to facilitate better communication and comprehension of the tx plan.
+#####"|Neurologist|"**Doctor:** Hi there, I see you're experiencing some memory loss and confusion. Can you tell me more about what's been going on?
+
+**Patient:** Yes, for the past three weeks I've been having trouble remembering things, and I feel confused a lot. I also get headaches every day and feel really tired.
+
+**Doctor:** Hmm, that sounds quite concerning. When did these symptoms start exactly?
+
+**Patient:** It started about three weeks ago. At first, it was just some memory issues, but then the headaches and confusion came on, and now it's hard to concentrate on anything.
+
+**Doctor:** I see. And how would you describe your headaches? Are they constant, or do they come and go?
+
+**Patient:** They are pretty much there all the time, but sometimes they get worse.
+
+**Doctor:** And on a scale of 1 to 10, how severe would you say your headaches are?
+
+**Patient:** I’d say around a 6 or 7 most of the time.
+
+**Doctor:** Alright. Have you noticed if anything makes your headaches worse or better?
+
+**Patient:** No, nothing really seems to change them. They just come and stay.
+
+**Doctor:** Okay. Let's talk about your memory issues. What sort of things are you having trouble remembering?
+
+**Patient:** Just everyday things. I forget where I put things, and sometimes I can’t remember what I was supposed to be doing.
+
+**Doctor:** That must be really frustrating. Have you noticed any changes in your vision or hearing?
+
+**Patient:** No, my vision and hearing are fine.
+
+**Doctor:** Alright. How about your sleep? How well are you sleeping at night?
+
+**Patient:** Not very well. I only get about 4 to 5 hours of sleep each night.
+
+**Doctor:** That’s not much sleep. Do you feel rested when you wake up?
+
+**Patient:** No, I still feel really tired when I wake up.
+
+**Doctor:** I understand. Have you had any chest pain or palpitations?
+
+**Patient:** No, nothing like that.
+
+**Doctor:** And how about your appetite or thirst? Have you noticed any changes there?
+
+**Patient:** No, I haven’t noticed any changes in my appetite or thirst.
+
+**Doctor:** Alright. Have you been feeling any nausea or vomiting?
+
+**Patient:** No, none of that.
+
+**Doctor:** Any joint pain or muscle aches?
+
+**Patient:** No, my joints and muscles feel okay.
+
+**Doctor:** I see. And how about your mood? Have you been feeling anxious or depressed?
+
+**Patient:** No, not really. Just frustrated because I can’t seem to think clearly.
+
+**Doctor:** That’s understandable. Have you had any previous issues with anxiety or depression?
+
+**Patient:** No, I’ve never had problems with that before.
+
+**Doctor:** Okay. Let’s move on to your physical health. Do you smoke or drink?
+
+**Patient:** I smoke about a pack a day, but I don’t drink much.
+
+**Doctor:** Smoking can certainly impact your health. Have you noticed any changes in your weight recently?
+
+**Patient:** No, my weight has stayed the same.
+
+**Doctor:** Alright. I’m going to take a look at your vital signs now. Your blood pressure is 150/95, which is a bit high. Your Body Mass Index is 30, which falls into the overweight category.
+
+**Patient:** Okay.
+
+**Doctor:** I'm going to perform a neurological exam now. I’ll start with a mini-mental status exam. Can you tell me what day it is today?
+
+**Patient:** Um, I think it's Thursday? Or maybe Wednesday.
+
+**Doctor:** It's actually Tuesday. That's alright. I'll continue with the exam. I noticed some cognitive impairment and your deep tendon reflexes are diminished. There seems to be a slight tremor in both of your hands as well.
+
+**Patient:** I hadn’t noticed the tremor.
+
+**Doctor:** It’s quite subtle. Let’s check your heart and lungs. Your heart sounds are normal, and your lung fields are clear. I'll also examine your abdomen; there are no masses or signs of enlargement. Your skin looks normal as well.
+
+**Patient:** Okay, that’s good to know.
+
+**Doctor:** We did some blood work, and your lead levels are elevated. We’re still waiting on more results from the heavy metal panel. Your MRI shows mild diffuse cerebral atrophy, which can be indicative of toxin exposure.
+
+**Patient:** Toxin exposure? What does that mean?
+
+**Doctor:** It means that some kind of toxic substance, likely a heavy metal, is affecting your brain. Given your symptoms and the test results, I believe you have toxic encephalopathy.
+
+**Patient:** Toxic encephalopathy? What should I do?
+
+**Doctor:** First, we need to stop any further exposure to the toxin. Do you work with any heavy metals or chemicals?
+
+**Patient:** Yes, I work in construction and sometimes deal with lead-based materials.
+
+**Doctor:** That could be the source. We’ll need to take immediate steps to reduce your exposure. You should use protective equipment and ensure proper ventilation at work.
+
+**Patient:** Okay, I can do that.
+
+**Doctor:** We'll also start chelation therapy to help remove the heavy metal from your body. You’ll receive Dimercaprol, 300 mg intramuscularly every 4 hours for 48 hours, then every 6 hours for the next 5 days.
+
+**Patient:** That sounds serious. Will it help?
+
+**Doctor:** Yes, it should help reduce the levels of the toxin in your body. I’ll refer you to a hematologist, Dr. Jane Brown, who will monitor your blood work and manage your toxin levels.
+
+**Patient:** Alright, I’ll do whatever it takes.
+
+**Doctor:** In addition to the medical treatment, we'll need to make some lifestyle changes. I recommend avoiding any known toxins, quitting smoking, improving your diet, and increasing physical activity. I’ll refer you to a smoking cessation program and a dietitian.
+
+**Patient:** I’ll try my best.
+
+**Doctor:** Great. I also want you to follow up with me weekly for cognitive and neurological assessments. We’ll keep an eye on your blood pressure and blood sugar levels as well.
+
+**Patient:** Okay, I’ll make sure to come in.
+
+**Doctor:** I’ll arrange for a Spanish-speaking medical interpreter for your future visits to ensure we communicate effectively.
+
+**Patient:** Thank you, that will help a lot.
+
+**Doctor:** Of course. Do you have any questions or concerns right now?
+
+**Patient:** No, I think you covered everything.
+
+**Doctor:** Excellent. Remember to call or visit the clinic if your symptoms worsen or if you develop any new symptoms. We’ll see you back in one week for a follow-up.
+
+**Patient:** Okay, I’ll be here.
+
+**Doctor:** Take care, and we’ll get through this together.
+
+**Patient:** Thanks, Doctor."|"[doctor]: Hi there, I see you're experiencing some memory loss and confusion. Can you tell me more about what's been going on?
+
+[patient]: Yes, for the past three weeks I've been having trouble remembering things, and I feel confused a lot. I also get headaches every day and feel really tired.
+
+[doctor]: Hmm, that sounds quite concerning. When did these symptoms start exactly?
+
+[patient]: It started about three weeks ago. At first, it was just some memory issues, but then the headaches and confusion came on, and now it's hard to concentrate on anything.
+
+[doctor]: I see. And how would you describe your headaches? Are they constant, or do they come and go?
+
+[patient]: They are pretty much there all the time, but sometimes they get worse.
+
+[doctor]: And on a scale of 1 to 10, how severe would you say your headaches are?
+
+[patient]: I’d say around a 6 or 7 most of the time.
+
+[doctor]: Alright. Have you noticed if anything makes your headaches worse or better?
+
+[patient]: No, nothing really seems to change them. They just come and stay.
+
+[doctor]: Okay. Let's talk about your memory issues. What sort of things are you having trouble remembering?
+
+[patient]: Just everyday things. I forget where I put things, and sometimes I can’t remember what I was supposed to be doing.
+
+[doctor]: That must be really frustrating. Have you noticed any changes in your vision or hearing?
+
+[patient]: No, my vision and hearing are fine.
+
+[doctor]: Alright. How about your sleep? How well are you sleeping at night?
+
+[patient]: Not very well. I only get about 4 to 5 hours of sleep each night.
+
+[doctor]: That’s not much sleep. Do you feel rested when you wake up?
+
+[patient]: No, I still feel really tired when I wake up.
+
+[doctor]: I understand. Have you had any chest pain or palpitations?
+
+[patient]: No, nothing like that.
+
+[doctor]: And how about your appetite or thirst? Have you noticed any changes there?
+
+[patient]: No, I haven’t noticed any changes in my appetite or thirst.
+
+[doctor]: Alright. Have you been feeling any nausea or vomiting?
+
+[patient]: No, none of that.
+
+[doctor]: Any joint pain or muscle aches?
+
+[patient]: No, my joints and muscles feel okay.
+
+[doctor]: I see. And how about your mood? Have you been feeling anxious or depressed?
+
+[patient]: No, not really. Just frustrated because I can’t seem to think clearly.
+
+[doctor]: That’s understandable. Have you had any previous issues with anxiety or depression?
+
+[patient]: No, I’ve never had problems with that before.
+
+[doctor]: Okay. Let’s move on to your physical health. Do you smoke or drink?
+
+[patient]: I smoke about a pack a day, but I don’t drink much.
+
+[doctor]: Smoking can certainly impact your health. Have you noticed any changes in your weight recently?
+
+[patient]: No, my weight has stayed the same.
+
+[doctor]: Alright. I’m going to take a look at your vital signs now. Your blood pressure is 150/95, which is a bit high. Your Body Mass Index is 30, which falls into the overweight category.
+
+[patient]: Okay.
+
+[doctor]: I'm going to perform a neurological exam now. I’ll start with a mini-mental status exam. Can you tell me what day it is today?
+
+[patient]: Um, I think it's Thursday? Or maybe Wednesday.
+
+[doctor]: It's actually Tuesday. That's alright. I'll continue with the exam. I noticed some cognitive impairment and your deep tendon reflexes are diminished. There seems to be a slight tremor in both of your hands as well.
+
+[patient]: I hadn’t noticed the tremor.
+
+[doctor]: It’s quite subtle. Let’s check your heart and lungs. Your heart sounds are normal, and your lung fields are clear. I'll also examine your abdomen; there are no masses or signs of enlargement. Your skin looks normal as well.
+
+[patient]: Okay, that’s good to know.
+
+[doctor]: We did some blood work, and your lead levels are elevated. We’re still waiting on more results from the heavy metal panel. Your MRI shows mild diffuse cerebral atrophy, which can be indicative of toxin exposure.
+
+[patient]: Toxin exposure? What does that mean?
+
+[doctor]: It means that some kind of toxic substance, likely a heavy metal, is affecting your brain. Given your symptoms and the test results, I believe you have toxic encephalopathy.
+
+[patient]: Toxic encephalopathy? What should I do?
+
+[doctor]: First, we need to stop any further exposure to the toxin. Do you work with any heavy metals or chemicals?
+
+[patient]: Yes, I work in construction and sometimes deal with lead-based materials.
+
+[doctor]: That could be the source. We’ll need to take immediate steps to reduce your exposure. You should use protective equipment and ensure proper ventilation at work.
+
+[patient]: Okay, I can do that.
+
+[doctor]: We'll also start chelation therapy to help remove the heavy metal from your body. You’ll receive Dimercaprol, 300 mg intramuscularly every 4 hours for 48 hours, then every 6 hours for the next 5 days.
+
+[patient]: That sounds serious. Will it help?
+
+[doctor]: Yes, it should help reduce the levels of the toxin in your body. I’ll refer you to a hematologist, Dr. Jane Brown, who will monitor your blood work and manage your toxin levels.
+
+[patient]: Alright, I’ll do whatever it takes.
+
+[doctor]: In addition to the medical treatment, we'll need to make some lifestyle changes. I recommend avoiding any known toxins, quitting smoking, improving your diet, and increasing physical activity. I’ll refer you to a smoking cessation program and a dietitian.
+
+[patient]: I’ll try my best.
+
+[doctor]: Great. I also want you to follow up with me weekly for cognitive and neurological assessments. We’ll keep an eye on your blood pressure and blood sugar levels as well.
+
+[patient]: Okay, I’ll make sure to come in.
+
+[doctor]: I’ll arrange for a Spanish-speaking medical interpreter for your future visits to ensure we communicate effectively.
+
+[patient]: Thank you, that will help a lot.
+
+[doctor]: Of course. Do you have any questions or concerns right now?
+
+[patient]: No, I think you covered everything.
+
+[doctor]: Excellent. Remember to call or visit the clinic if your symptoms worsen or if you develop any new symptoms. We’ll see you back in one week for a follow-up.
+
+[patient]: Okay, I’ll be here.
+
+[doctor]: Take care, and we’ll get through this together.
+
+[patient]: Thanks, Doctor."
+TOXIC ENCEPHALOPATHY|"ROLE: Neurologist
+
+1) Medical Outcome:
+   - Diagnosis: Toxic Encephalopathy
+   - Prescribed Treatment: 
+     - Medication: Lactulose 30 mL orally every 8 hours
+     - Referral: Neurology for cognitive assessment and management, Dr. Julia Spencer
+     - Blood Work: Liver function tests (biochemistry), ammonia levels
+     - Imaging: MRI brain with and without contrast to assess for structural abnormalities
+   - Follow-up recommendations: Weekly follow-up for the initial month to monitor cognitive status and response to treatment
+   
+2) Medical History:
+   - Previous Diagnoses: Chronic liver disease, Hepatitis C infection
+   - Family Medical History: Father with history of alcoholism
+   - Medication History: Currently on antiretroviral therapy for Hepatitis C, recently discontinued benzodiazepines due to worsening cognitive function
+   - Allergies: No known drug allergies
+   - Chronic Conditions: Type 2 Diabetes Mellitus
+   
+3) Symptom Description:
+   - Severity: Severe cognitive impairment, confusion, and disorientation
+   - Duration: Symptoms have been present for the past 2 weeks
+   - Associated Symptoms: Slurred speech, tremor in hands, lack of coordination
+   - Frequency: Persistent, exacerbations in the evening
+   - Impact on Daily Activities: Unable to perform daily tasks independently, requires constant supervision
+   
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Irregular sleep patterns, frequent nighttime awakenings
+   - Diet: High in processed foods and low in fresh fruits and vegetables
+   - Exercise: Sedentary lifestyle
+   - Tobacco Use: Smokes 10 cigarettes per day
+   - Alcohol Consumption: Heavy alcohol use, approximately 20 units per week
+   - Drug Use: No recreational drug use
+   - Recreational Activities: Occasionally watches television but unable to concentrate on programs
+   
+5) Demographic Information:
+   - Age: 55
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Low income, unemployed, relies on social assistance
+   - Education Level: High school diploma
+   - Health Literacy: Limited understanding of medical conditions and treatments
+   - Job Status: Unemployed, previously worked as a construction worker
+   
+6) Patient's Behavior:
+   - The patient has been non-cooperative with previous medical advice regarding alcohol cessation and lifestyle modifications.
+   
+7) Geographical Location:
+   - Big City vs Small City: Resides in a small city
+   - Rural vs Urban: Urban area
+   - Pollution and Environmental Health Risks: Lives near an industrial zone with moderate pollution
+   - Neighborhood Type: Impoverished, limited access to healthy food options, relies on public transit
+   
+8) Clinical Setting:
+   - Community Health Services
+   
+9) Type of Encounter:
+   - Initial Consultation
+   
+10) Treatment Disparities:
+   - May have received less aggressive treatment options in the past due to assumptions about compliance and socio-economic status.
+   
+11) Native or Non-Native English Speaking Patient:
+   - Native English Speaking
+    
+12) Physical exams:
+   - GENERAL: Appears disoriented, poorly groomed
+   - NEURO: Cognitive assessment shows decreased short-term memory and attention span, poor coordination, positive tremors, slurred speech
+   - GASTROINTESTINAL: Palpable liver edge, but no ascites or jaundice
+
+13) Investigation/Test results:
+   - Awaiting MRI brain with and without contrast
+   - Awaiting liver function tests and ammonia levels results"|Rejected|Rejected|Rejected|Rejected||
+TOXIC ENCEPHALOPATHY|"ROLE: Neurologist
+
+1) Medical Outcome:
+   - Diagnosis: Toxic Encephalopathy
+   - Prescribed Treatment: 
+     - Medication: Rifaximin 550 mg orally twice daily
+     - Referral: Gastroenterology for liver disease management, Dr. Thomas Blackwell
+     - Blood Work: Comprehensive metabolic panel (CMP), ammonia levels
+     - Imaging: CT scan of the abdomen and pelvis to assess liver disease progression
+   - Follow-up recommendations: Bi-weekly follow-up for the initial 2 months to monitor the response to the treatment and adjust medication as necessary
+
+2) Medical History:
+   - Previous Diagnoses: Cirrhosis, Hyperlipidemia
+   - Family Medical History: Mother had Parkinson's disease
+   - Medication History: Currently on statins for hyperlipidemia
+   - Allergies: Penicillin allergy
+   - Chronic Conditions: Hypertension
+
+3) Symptom Description:
+   - Severity: Moderate to severe memory loss, confusion, and personality changes
+   - Duration: Symptoms have been escalating over the past month
+   - Associated Symptoms: Asterixis (flapping tremor)
+   - Frequency: Daily, with fluctuations in severity
+   - Impact on Daily Activities: Requires assistance for daily tasks, high fall risk
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Sleeplessness and daytime drowsiness
+   - Diet: Balanced diet with occasional overindulgence in fatty foods 
+   - Exercise: Light walking, 2 times per week
+   - Tobacco Use: Non-smoker
+   - Alcohol Consumption: Occasionally drinks, about 2 units per week
+   - Drug Use: Does not use recreational drugs
+   - Recreational Activities: Enjoys reading and gardening, but now unable to concentrate for long periods
+
+5) Demographic Information:
+   - Age: 67
+   - Gender: Female
+   - Ethnicity: African American 
+   - Socio-economic Status: Middle income, retired
+   - Education Level: Bachelor's degree
+   - Health Literacy: Moderate understanding of health conditions and treatments
+   - Job Status: Retired teacher
+
+6) Patient's Behavior:
+   - The patient is generally cooperative but shows frustration with memory lapses and confusion
+
+7) Geographical Location:
+   - Big City vs Small City: Lives in a suburban area
+   - Rural vs Urban: Suburban
+   - Pollution and Environmental Health Risks: Low pollution, safe environment
+   - Neighborhood Type: Affluent, well-served by public transport, good access to fresh food
+
+8) Clinical Setting:
+   - Private Practice
+
+9) Type of Encounter:
+   - Follow-up visit
+
+10) Treatment Disparities:
+   - No evidence of treatment disparities; patient has good insurance coverage and access to healthcare
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English Speaking
+
+12) Physical exams:
+   - GENERAL: Alert but somewhat disoriented 
+   - NEURO: Cognitive assessment shows decreased executive function, asterixis
+   - CARDIO: Blood pressure within normal range
+
+13) Investigation/Test results:
+   - Awaiting CT scan of the abdomen and pelvis results
+   - Awaiting comprehensive metabolic panel (CMP) and ammonia levels results"|Rejected|Rejected|Rejected|Rejected||
+TOXIC ENCEPHALOPATHY|"ROLE: Neurologist
+
+1) Medical Outcome:
+   - Diagnosis: Toxic Encephalopathy
+   - Prescribed Treatment:
+     - Medication: Metronidazole 500 mg orally three times a day for 10 days
+     - Referral: Psychiatry for mental health assessment, Dr. Linda Morrison
+     - Blood Work: Complete blood count (CBC), metabolic panel, ammonia levels
+     - Imaging: PET scan of the brain to assess metabolic activity
+   - Follow-up recommendations: Monthly follow-up to monitor cognitive function and treatment efficacy
+
+2) Medical History:
+   - Previous Diagnoses: Alcoholic cirrhosis, Type 2 Diabetes Mellitus
+   - Family Medical History: Brother had Alzheimer's disease
+   - Medication History: Takes insulin for diabetes, previously on antidepressants
+   - Allergies: No known drug allergies
+   - Chronic Conditions: Hypertension, Hyperlipidemia
+
+3) Symptom Description:
+   - Severity: Mild to moderate confusion, occasional hallucinations
+   - Duration: Symptoms have been intermittent over the past 3 weeks
+   - Associated Symptoms: Behavioral changes, irritability
+   - Frequency: Symptoms occur several times a day, particularly in the evenings
+   - Impact on Daily Activities: Able to perform basic tasks but needs supervision for complex activities
+   
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Regular sleep disturbances, insomnia
+   - Diet: High in carbohydrates, frequent fast-food consumption
+   - Exercise: No regular physical activity
+   - Tobacco Use: Former smoker, quit 5 years ago
+   - Alcohol Consumption: Heavy alcohol use up to 30 units per week
+   - Drug Use: No use of recreational drugs
+   - Recreational Activities: Used to enjoy fishing, now ceased
+   
+5) Demographic Information:
+   - Age: 60
+   - Gender: Male
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Lower middle class, dependent on disability benefits
+   - Education Level: Completed some college
+   - Health Literacy: Limited understanding of complex health information
+   - Job Status: Retired due to disability
+
+6) Patient's Behavior:
+   - The patient is periodically non-cooperative, showing signs of frustration and anger due to cognitive decline
+
+7) Geographical Location:
+   - Big City vs Small City: Lives in a big city
+   - Rural vs Urban: Urban area
+   - Pollution and Environmental Health Risks: High pollution area, situated near heavy traffic
+   - Neighborhood Type: Working-class neighborhood, moderate access to healthcare facilities
+   
+8) Clinical Setting:
+   - Hospital setting, inpatient consultation
+
+9) Type of Encounter:
+   - Emergency Visit
+
+10) Treatment Disparities:
+   - Patient has experienced some disparities in care due to insurance limitations and previous non-compliance issues
+
+11) Native or Non-Native English Speaking Patient:
+   - Non-Native English Speaking, Spanish as the first language
+
+12) Physical exams:
+   - GENERAL: Appears anxious and disoriented
+   - NEURO: Mild cognitive impairment, positive asterixis, slight tremors noted
+   - GASTROINTESTINAL: Palpable hepatic tenderness, borderline ascites
+   
+13) Investigation/Test results:
+   - PET scan of the brain ordered, results pending
+   - Blood work (CBC, metabolic panel, ammonia levels) ordered, results pending"|Rejected|Rejected|Rejected|Rejected||
+TOXIC ENCEPHALOPATHY|"ROLE:
+Neurologist
+
+** 1) Medical Outcome: **
+- Diagnosis: Toxic Encephalopathy
+- Prescribed Treatment: Discontinue exposure to toxic substance, initiate supportive care, and start on thiamine 100 mg IV daily for 5 days.
+- Follow-up recommendations: Schedule in two weeks to evaluate neurological status
+- Referral to specialists: Toxicologist for further evaluation of toxin exposure, Dr. Elizabeth Green
+- Referral to further tests: Comprehensive metabolic panel, liver function test, complete blood count, MRI of the brain, and heavy metal screening (lead, mercury)
+
+** 2) Medical History: **
+- Previous Diagnoses: Hypertension, Type 2 Diabetes
+- Family Medical History: Father with Alzheimer's disease, Mother with stroke
+- Medication History: Metformin 500 mg BID, Lisinopril 10 mg daily
+- Allergies: Penicillin
+- Chronic Conditions: Hypertension, Type 2 Diabetes
+
+** 3) Symptom Description: **
+- Severity: Moderate to severe
+- Duration: 3 weeks
+- Associated Symptoms: Confusion, memory loss, headache, dizziness
+- Frequency: Daily
+- Impact on Daily Activities: Unable to perform routine tasks independently, difficulty with concentration and memory
+
+** 4) Patient’s self-reported habits and lifestyle: **
+- Sleep: Poor, 4-5 hours per night
+- Diet: Unbalanced, high in processed foods
+- Exercise: Sedentary lifestyle
+- Tobacco Use: None
+- Alcohol Consumption: Moderate, 3-4 drinks per week
+- Drug Use: None
+- Recreational Activities: None reported
+
+** 5) Demographic Information: **
+- Age: 62
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle class
+- Education Level: High school diploma
+- Health Literacy: Moderate
+- Job Status: Retired factory worker
+
+** 6) Patient's Behavior: **
+- Cooperation: Cooperative but occasionally confused, follows medical advice with family support
+
+** 7) Geographical Location: **
+- Big City vs Small City: Small city
+- Rural vs Urban: Rural
+- Pollution and Environmental Health Risks: Previous exposure to industrial chemicals
+- Neighborhood Type: Well-served by transit, adequate food availability
+
+** 8) Clinical Setting: **
+- Hospitals
+
+** 9) Type of Encounter: **
+- Initial Consultation
+
+** 10) Treatment Disparities: **
+- None noted 
+
+** 11) Native or Non-Native English Speaking Patient: **
+- Native English Speaking Patient
+
+** 12) Physical exams: **
+- General: Alert but confused, oriented to person but not time and place
+- Neurological: Impaired short-term memory, mild ataxia, absent tremors, sluggish pupillary light reflex
+- NA for other systems
+
+** 13) Investigation/Test results: **
+- Awaiting results for: Comprehensive metabolic panel, liver function test, complete blood count
+- MRI Brain: Awaiting, suspected white matter changes, possibly diffuse axonal injury
+- Heavy Metal Screening: Awaiting results for lead and mercury levels"|Rejected|Rejected|Rejected|Rejected||
+TOXIC ENCEPHALOPATHY|"ROLE:
+Neurologist
+
+** 1) Medical Outcome: ** 
+- Diagnosis: Toxic Encephalopathy 
+- Prescribed Treatment: Discontinue exposure to the suspected toxin, Magnesium sulfate 2 g IV once, supportive care 
+- Follow-up recommendations: Follow-up in 1 week 
+- Referral to specialists: Occupational Medicine specialist, Dr. James Peterson 
+- Referral to further tests: Serum ammonia, EEG, MRI with contrast of the brain and spine
+
+** 2) Medical History: **
+- Previous Diagnoses: Chronic Kidney Disease Stage 3, Peripheral Neuropathy
+- Family Medical History: Sister with Multiple Sclerosis, Mother with Hypertension
+- Medication History: Gabapentin 300 mg TID, Amlodipine 5 mg daily
+- Allergies: None
+- Chronic Conditions: Chronic Kidney Disease, Peripheral Neuropathy
+
+** 3) Symptom Description: **
+- Severity: Severe
+- Duration: 2 weeks 
+- Associated Symptoms: Lethargy, irritability, visual hallucinations
+- Frequency: Continuous
+- Impact on Daily Activities: Completely disabled, requiring 24-hour care
+
+** 4) Patient’s self-reported habits and lifestyle: **
+- Sleep: Fragmented, frequent awakenings
+- Diet: Vegetarian, high in fresh produce, low in processed foods
+- Exercise: Limited due to peripheral neuropathy
+- Tobacco Use: Former smoker, quit 10 years ago
+- Alcohol Consumption: Social drinking, 1-2 drinks per month
+- Drug Use: None
+- Recreational Activities: Enjoys reading and gardening, but currently unable due to symptoms 
+
+** 5) Demographic Information: **
+- Age: 70
+- Gender: Female
+- Ethnicity: African American
+- Socio-economic Status: Lower middle class 
+- Education Level: Some college 
+- Health Literacy: High 
+- Job Status: Retired school teacher
+
+** 6) Patient's Behavior: **
+- Cooperation: Cooperative but easily agitated due to confusion
+
+** 7) Geographical Location: **
+- Big City vs Small City: Big City
+- Rural vs Urban: Urban
+- Pollution and Environmental Health Risks: No significant industrial pollution, moderate air pollution, urban green spaces
+- Neighborhood Type: Affluent, well-served by transit
+
+** 8) Clinical Setting: **
+- Private Practice
+
+** 9) Type of Encounter: **
+- Emergency Visit
+
+** 10) Treatment Disparities: **
+- None noted
+
+** 11) Native or Non-Native English Speaking Patient: **
+- Native English Speaking Patient
+
+** 12) Physical exams: **
+- General: Alert but distressed, disoriented to time and place
+- Neurological: Dysmetria on finger-nose test, hyperreflexia, delayed verbal responses
+- NA for other systems
+
+** 13) Investigation/Test results: **
+- Awaiting results for: Serum ammonia, MRI with contrast of the brain and spine 
+- EEG: Awaiting, suspected generalized slowing and periodic sharp waves"|Rejected|Rejected|Rejected|Rejected||
+TOXIC ENCEPHALOPATHY|"ROLE:
+Neurologist
+
+** 1) Medical Outcome: ** 
+- Diagnosis: Toxic Encephalopathy 
+- Prescribed Treatment: Discontinue suspected toxin, initiate intravenous NAC (N-acetylcysteine) 150 mg/kg over 1 hour followed by 50 mg/kg over 4 hours, supportive care 
+- Follow-up recommendations: Follow-up in 3 days for reassessment 
+- Referral to specialists: Hepatologist, Dr. Sarah Collins 
+- Referral to further tests: Serum ammonia, EEG, MRI brain and spinal cord without contrast
+
+** 2) Medical History: **
+- Previous Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), Hypothyroidism
+- Family Medical History: Father with Parkinson's Disease, Mother with Hypertension
+- Medication History: Levothyroxine 50 mcg daily, Albuterol inhaler PRN
+- Allergies: Sulfa drugs
+- Chronic Conditions: COPD, Hypothyroidism
+
+** 3) Symptom Description: **
+- Severity: Severe
+- Duration: 1 week 
+- Associated Symptoms: Seizures, severe headache, visual disturbances
+- Frequency: Intermittent 
+- Impact on Daily Activities: Bedridden, unable to communicate effectively
+
+** 4) Patient’s self-reported habits and lifestyle: **
+- Sleep: Poor, frequent awakenings due to breathing difficulty
+- Diet: High in fat and sugar, low in vegetables 
+- Exercise: Minimal due to COPD
+- Tobacco Use: Active smoker, 10 cigarettes/day
+- Alcohol Consumption: None
+- Drug Use: Occasional marijuana use
+- Recreational Activities: Enjoys watching television and limited outdoor activities 
+
+** 5) Demographic Information: **
+- Age: 65
+- Gender: Male
+- Ethnicity: Hispanic
+- Socio-economic Status: Lower class 
+- Education Level: Primary school 
+- Health Literacy: Low 
+- Job Status: Unemployed
+
+** 6) Patient's Behavior: **
+- Cooperation: Non-cooperative, agitated and disoriented 
+
+** 7) Geographical Location: **
+- Big City vs Small City: Big city 
+- Rural vs Urban: Urban 
+- Pollution and Environmental Health Risks: High air pollution, industrial area 
+- Neighborhood Type: Impoverished, limited access to healthcare
+
+** 8) Clinical Setting: **
+- Community Health Services 
+
+** 9) Type of Encounter: **
+- Follow-up after hospital discharge 
+
+** 10) Treatment Disparities: **
+- Limited access to specialized care due to socio-economic status
+
+** 11) Native or Non-Native English Speaking Patient: **
+- Non-Native English Speaking Patient (Primarily Spanish-speaking)
+
+** 12) Physical exams: *
+- General: Distressed, not oriented to time, place, or person
+- Neurological: Positive for clonus, bilateral Babinski sign, difficulty following commands
+- NA for other systems
+
+** 13) Investigation/Test results: **
+- Awaiting results for: Serum ammonia, MRI brain and spinal cord without contrast
+- EEG: Awaiting, suspected subclinical seizures, encephalopathic changes"|Rejected|Rejected|Rejected|Rejected||
+TOXIC ENCEPHALOPATHY|"ROLE: Neurologist
+
+1) Medical Outcome: 
+   - Diagnosis: Toxic Encephalopathy
+   - Prescribed Treatment: Lactulose 30 mL orally every 8 hours, Rifaximin 550 mg orally twice daily
+   - Follow-up recommendations: Follow-up visit in 2 weeks
+   - Referral: No referral at this stage
+   - Imaging: MRI of the brain to assess for any structural abnormalities
+   - Blood Work: Liver function tests (biochemistry), serum ammonia (biochemistry)
+
+2) Medical History:
+   - Previous Diagnoses: Chronic liver disease, type 2 diabetes
+   - Family Medical History: Father had liver cirrhosis, mother has hypertension
+   - Medication History: Metformin 500 mg twice daily, Lisinopril 20 mg daily
+   - Allergies: No known drug allergies
+   - Chronic Conditions: Chronic liver disease, type 2 diabetes
+
+3) Symptom Description:
+   - Severity: Moderate to severe confusion
+   - Duration: Symptoms started 3 days ago
+   - Associated Symptoms: Sleep disturbances, slight tremors, forgetfulness 
+   - Frequency: Continuous since onset
+   - Impact on Daily Activities: Difficulty in performing basic daily activities
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Poor sleep quality, frequent awakenings
+   - Diet: High in fats and sugars, minimal vegetables and fruits
+   - Exercise: Sedentary lifestyle, minimal physical activity
+   - Tobacco Use: 10 cigarettes per day for 20 years
+   - Alcohol Consumption: Drinks 3-4 beers daily
+   - Drug Use: Denies recreational drug use
+   - Recreational Activities: Limited due to health conditions
+
+5) Demographic Information:
+   - Age: 58 years old
+   - Gender: Male
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Middle-class
+   - Education Level: High school graduate
+   - Health Literacy: Limited understanding of medical conditions and treatments
+   - Job Status: Retired mechanic
+
+6) Patient's Behavior:
+   - Cooperation: Moderate, follows some medical advice but struggles with adherence to lifestyle changes
+
+7) Geographical Location:
+   - Big City vs Small City: Small City
+   - Rural vs Urban: Small urban area
+   - Pollution and Environmental Health Risks: Moderate pollution
+   - Neighborhood Type: Impoverished, limited access to fresh foods (food desert)
+   - Well-served by Transit: Poorly served by public transit
+
+8) Clinical Setting:
+   - Clinical Setting: Community Health Services
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - Potential limitation in access to specialized care due to socio-economic status
+
+11) Native or Non-Native English Speaking Patient:
+   - Non-Native English Speaking Patient, primary language is Spanish
+
+12) Physical exams:
+   - Neurological Exam: Impaired cognitive function, slight tremor, disorientation
+
+13) Investigation/Test results:
+   - Awaiting MRI of the brain
+   - Awaiting Blood Work: Liver function tests, serum ammonia"|Rejected|Rejected|Rejected|Rejected||
+TOXIC ENCEPHALOPATHY|"ROLE: Neurologist
+
+1) Medical Outcome: 
+   - Diagnosis: Toxic Encephalopathy
+   - Prescribed Treatment: Lactulose 30 mL orally every 8 hours, Rifaximin 550 mg orally twice daily
+   - Follow-up recommendations: Follow-up visit in 2 weeks
+   - Referral: No referral at this stage
+   - Imaging: MRI of the brain to assess for any structural abnormalities
+   - Blood Work: Liver function tests (biochemistry), serum ammonia (biochemistry)
+
+2) Medical History:
+   - Previous Diagnoses: Chronic liver disease, type 2 diabetes
+   - Family Medical History: Father had liver cirrhosis, mother has hypertension
+   - Medication History: Metformin 500 mg twice daily, Lisinopril 20 mg daily
+   - Allergies: No known drug allergies
+   - Chronic Conditions: Chronic liver disease, type 2 diabetes
+
+3) Symptom Description:
+   - Severity: Moderate to severe confusion
+   - Duration: Symptoms started 3 days ago
+   - Associated Symptoms: Sleep disturbances, slight tremors, forgetfulness 
+   - Frequency: Continuous since onset
+   - Impact on Daily Activities: Difficulty in performing basic daily activities
+
+4) Demographic Information:
+   - Age: 58 years old
+   - Gender: Male
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Middle-class
+   - Education Level: High school graduate
+   - Health Literacy: Limited understanding of medical conditions and treatments
+   - Job Status: Retired mechanic
+
+5) Geographical Location:
+   - Big City vs Small City: Small City
+   - Rural vs Urban: Small urban area
+   - Pollution and Environmental Health Risks: Moderate pollution
+   - Neighborhood Type: Impoverished, limited access to fresh foods (food desert)
+   - Well-served by Transit: Poorly served by public transit
+
+6) Clinical Setting:
+   - Clinical Setting: Community Health Services
+
+7) Type of Encounter:
+   - Initial Consultation
+
+8) Treatment Disparities:
+   - Potential limitation in access to specialized care due to socio-economic status
+
+9) Native or Non-Native English Speaking Patient:
+   - Non-Native English Speaking Patient, primary language is Spanish
+
+10) Physical exams:
+   - Neurological Exam: Impaired cognitive function, slight tremor, disorientation
+
+11) Investigation/Test results:
+   - Awaiting MRI of the brain
+   - Awaiting Blood Work: Liver function tests, serum ammonia"|Rejected|Rejected|Rejected|Rejected||
+TOXIC ENCEPHALOPATHY|"ROLE: Neurologist
+
+1) Medical Outcome: 
+   - Diagnosis: Toxic Encephalopathy
+   - Prescribed Treatment: Lactulose 30 mL orally every 8 hours, Rifaximin 550 mg orally twice daily
+   - Medication Adjustment: Discontinue over-the-counter NSAID use due to risk of liver toxicity
+   - Follow-up recommendations: Follow-up visit in 2 weeks
+   - Referral: Referral to a hepatologist for advanced liver disease management 
+             - Specialty: Hepatology
+             - Doctor's Name: Dr. James Evans
+   - Imaging: MRI of the brain to assess for any structural abnormalities
+   - Blood Work: Comprehensive metabolic panel (biochemistry), serum ammonia (biochemistry), complete blood count (hematology)
+
+2) Medical History:
+   - Previous Diagnoses: Chronic liver disease, type 2 diabetes
+   - Family Medical History: Father had liver cirrhosis, mother has hypertension
+   - Medication History: Metformin 500 mg twice daily, Lisinopril 20 mg daily
+   - Allergies: No known drug allergies
+   - Chronic Conditions: Chronic liver disease, type 2 diabetes
+
+3) Symptom Description:
+   - Severity: Moderate to severe confusion
+   - Duration: Symptoms started 3 days ago
+   - Associated Symptoms: Sleep disturbances, slight tremors, forgetfulness, jaundice 
+   - Frequency: Continuous since onset
+   - Impact on Daily Activities: Difficulty in performing basic daily activities
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Poor sleep quality, frequent awakenings
+   - Diet: High in fats and sugars, minimal vegetables and fruits
+   - Exercise: Sedentary lifestyle, minimal physical activity
+   - Tobacco Use: 10 cigarettes per day for 20 years
+   - Alcohol Consumption: Drinks 3-4 beers daily
+   - Drug Use: Denies recreational drug use
+   - Recreational Activities: Limited due to health conditions
+
+5) Demographic Information:
+   - Age: 58 years old
+   - Gender: Male
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Middle-class
+   - Education Level: High school graduate
+   - Health Literacy: Limited understanding of medical conditions and treatments
+   - Job Status: Retired mechanic
+
+6) Patient's Behavior:
+   - Cooperation: Moderate, follows some medical advice but struggles with adherence to lifestyle changes
+
+7) Geographical Location:
+   - Big City vs Small City: Small City
+   - Rural vs Urban: Small urban area
+   - Pollution and Environmental Health Risks: Moderate pollution
+   - Neighborhood Type: Impoverished, limited access to fresh foods (food desert)
+   - Well-served by Transit: Poorly served by public transit
+
+8) Clinical Setting:
+   - Clinical Setting: Community Health Services
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - Potential limitation in access to specialized care due to socio-economic status
+
+11) Native or Non-Native English Speaking Patient:
+   - Non-Native English Speaking Patient, primary language is Spanish
+
+12) Physical exams:
+   - Neurological Exam: Impaired cognitive function, slight tremor, disorientation
+
+13) Investigation/Test results:
+   - Awaiting MRI of the brain
+   - Awaiting Blood Work: Comprehensive metabolic panel, serum ammonia, complete blood count"|Rejected|Rejected|Rejected|Rejected||
