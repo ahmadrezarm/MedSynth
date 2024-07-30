@@ -183,6 +183,10 @@ def _extract_role(text):
     
 
 
+def sanitize_filename(filename):
+    """Remove or replace characters that are not allowed in filenames."""
+    return re.sub(r'[<>:"\\|?*/]', '-', filename)
+
 
 # given a disease_description and number of required notes, generates notes.
 def generate_and_save_medical_notes(disease_description, notes_count, openai_client,
@@ -234,8 +238,9 @@ def generate_and_save_medical_notes(disease_description, notes_count, openai_cli
         # Combine the results
         results = approved_notes + rejected_scenarios
         current_date = datetime.now().strftime("%Y-%m-%d")
+        sanitized_description = sanitize_filename(disease_description)
         results_df= pd.DataFrame(results)
-        full_path= f"{path_to_save_notes}/{disease_description}_{current_date}.csv"
+        full_path= f"{path_to_save_notes}/{sanitized_description}_{current_date}.csv"
         results_df.to_csv(full_path, index=False, sep="|")
 
 
