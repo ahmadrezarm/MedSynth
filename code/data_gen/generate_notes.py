@@ -28,7 +28,8 @@ def main():
     #next_50_icd10_desc = df['ICD10_desc'].iloc[300:350].tolist()
     #next_50_icd10_desc = df['ICD10_desc'].iloc[350:400].tolist()
     #next_100_icd10_desc = df['ICD10_desc'].iloc[400:500].tolist()
-    next_300_icd10_desc = df['ICD10_desc'].iloc[500:800].tolist()
+    #next_300_icd10_desc = df['ICD10_desc'].iloc[500:800].tolist()
+    next_300_icd10_desc = df['ICD10_desc'].iloc[800:1100].tolist()  ##### HAS NOT BEEN GENERATED YET######
 
     for disease in next_300_icd10_desc:
             print(f"counter is: {counter}")
@@ -36,7 +37,7 @@ def main():
             note_generation_functions.generate_and_save_medical_notes(disease_description= disease, 
                                                               notes_count= 5, 
                                                               openai_client= openai_client,
-                                                              path_to_save_notes= "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/phase_7_1.5k") #gen_constants.PATH_TO_SAVE_NOTES
+                                                              path_to_save_notes= "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/phase_8_1.5k") #gen_constants.PATH_TO_SAVE_NOTES
             counter += 1
 if __name__ == '__main__':
     main()

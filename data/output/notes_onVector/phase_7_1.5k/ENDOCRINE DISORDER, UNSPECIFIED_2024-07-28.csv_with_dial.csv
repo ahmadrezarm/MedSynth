@@ -1,0 +1,2677 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+ENDOCRINE DISORDER, UNSPECIFIED|"ROLE: Endocrinologist
+
+### Scenario
+
+- **Medical Outcome**: 
+  - Referral to further tests: Comprehensive metabolic panel (CMP), Thyroid function panel.
+  - Prescribed treatment: Levothyroxine 50 mcg, oral, once daily, 90 tablets.
+  - Follow-up recommendations: Recheck thyroid function in 6 weeks.
+  - Lifestyle change: Advised the patient to maintain a balanced diet, and regular exercise, and refrain from using tobacco and alcohol.
+
+- **Medical History**:
+  - Previous diagnoses: Hypothyroidism (diagnosed 3 years ago), Type 2 Diabetes.
+  - Family medical history: Mother with hypothyroidism, father with Type 2 Diabetes.
+  - Medication history: Metformin 500 mg, oral, twice daily.
+  - Allergies: None reported.
+  - Chronic conditions: Hypothyroidism, Type 2 Diabetes.
+
+- **Symptom Description**:
+  - Severity: Moderate fatigue and weight gain.
+  - Duration: Symptoms have been worsening over the past 3 months.
+  - Associated symptoms: Dry skin, hair loss, and constipation.
+  - Frequency: Symptoms are persistent and daily.
+  - Impact on daily activities: Struggling with daily tasks and work responsibilities due to fatigue.
+
+- **Patient’s self-reported habits and lifestyle**:
+  - Sleep: Reports sleeping 8 hours nightly but still feeling fatigued.
+  - Diet: Admits to a diet high in processed foods.
+  - Exercise: Sedentary lifestyle with occasional walking.
+  - Tobacco use: Smokes 5 cigarettes a day.
+  - Alcohol consumption: Drinks alcohol socially, about 2-3 times a week.
+  - Drug use: Denies any drug use.
+  - Recreational activities: Limited due to fatigue.
+
+- **Demographic Information**:
+  - Age: 45 
+  - Gender: Female
+  - Ethnicity: Caucasian
+  - Socio-economic status: Middle-class
+  - Education level: College graduate
+  - Health literacy: Moderate, understands basic medical terms and instructions.
+  - Job status: Full-time office worker
+
+- **Patient's Behavior**:
+  - Cooperation level: Generally cooperative but struggles with adhering to dietary recommendations.
+
+- **Geographical Location**:
+  - Urban 
+  - Neighborhood type: Mixed-income area, moderately polluted, well-served by public transit.
+
+- **Clinical Setting**:
+  - Private practice
+
+- **Type of Encounter**:
+  - Chronic disease management
+
+- **Treatment Disparities**:
+  - None encountered
+
+- **Native or Non-Native English Speaking Patient**:
+  - Native English-speaking
+
+- **Physical exams**:
+  - Neck palpation: Slight enlargement of the thyroid gland
+  - General observation: Dry skin, thinning hair
+
+- **Investigation/Test results**:
+  - Awaiting: Comprehensive metabolic panel (CMP), Thyroid function panel (TSH, Free T4, Free T3)
+
+"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+The patient is a 45-year-old Caucasian female presenting with moderate fatigue and weight gain.
+
+**History of Present Illness (HPI):**
+The patient describes her symptoms as moderate fatigue and weight gain, which have worsened over the past 3 months. She also reports associated symptoms including dry skin, hair loss, and constipation, which occur daily and affect her ability to perform daily tasks and work responsibilities. Despite sleeping 8 hours nightly, she continues to feel fatigued.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Positive for fatigue, weight gain.
+- **Skin:** Positive for dry skin.
+- **Endocrine:** Positive for hair loss.
+- **Gastrointestinal:** Positive for constipation.
+- **Psychological:** Denies anxiety and depression.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 130/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.4°F
+
+**Physical Examination:**
+- **General:** The patient appears tired but is in no apparent distress.
+- **Neck:** Slight enlargement of the thyroid gland upon palpation.
+- **Skin:** Observed to be dry.
+- **Hair:** Thinning noticed.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Respiratory:** Clear to auscultation bilaterally.
+
+**Investigation/Test results:**
+- Awaiting Comprehensive Metabolic Panel (CMP)
+- Awaiting Thyroid Function Panel (TSH, Free T4, Free T3)
+
+**3. Assessment:**
+
+- **Hypothyroidism:** Likely exacerbated due to suboptimal thyroid hormone replacement. Symptoms of fatigue, weight gain, dry skin, and hair loss are consistent with poorly controlled hypothyroidism.
+- **Type 2 Diabetes:** Currently managed with Metformin but requires ongoing monitoring due to the potential impact of thyroid dysfunction on glycemic control.
+
+**4. Plan:**
+
+- **Medical Treatment:**
+  - Initiate Levothyroxine 50 mcg, oral, once daily. Dispense 90 tablets.
+  
+- **Referral to further tests:**
+  - Comprehensive Metabolic Panel (CMP)
+  - Thyroid Function Panel (TSH, Free T4, Free T3)
+  
+- **Follow-up recommendations:**
+  - Recheck thyroid function in 6 weeks to adjust the dosage of Levothyroxine if necessary.
+  
+- **Lifestyle Change:**
+  - Advised to maintain a balanced diet rich in whole foods and low in processed foods.
+  - Encouraged to engage in regular exercise, starting with low-impact activities like walking.
+  - Strongly advised to refrain from using tobacco.
+  - Advised to limit alcohol consumption to occasional use.
+  
+- **Patient Education:**
+  - Explained the importance of adhering to medication and lifestyle changes to manage symptoms and improve quality of life.
+  - Discussed potential side effects of Levothyroxine and the importance of regular follow-ups.
+  
+- **Patient Agreements:**
+  - The patient understands and agrees with the recommended medical treatment plan and lifestyle modifications."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+The patient, named Emily Johnson, is a 45-year-old Caucasian female presenting with moderate fatigue and weight gain.
+
+**History of Present Illness (HPI):**
+Emily describes her symptoms as moderate fatigue and weight gain, which have worsened over the past 3 months. She also reports associated symptoms including dry skin, hair loss, and constipation, which occur daily and affect her ability to perform daily tasks and work responsibilities. Despite sleeping 8 hours nightly, she continues to feel fatigued.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Positive for fatigue, weight gain.
+- **Skin:** Positive for dry skin.
+- **Endocrine:** Positive for hair loss.
+- **Gastrointestinal:** Positive for constipation.
+- **Psychological:** Denies anxiety and depression.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 130/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.4°F
+
+**Physical Examination:**
+- **General:** The patient appears tired but is in no apparent distress.
+- **Neck:** Slight enlargement of the thyroid gland upon palpation.
+- **Skin:** Observed to be dry.
+- **Hair:** Thinning noticed.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Respiratory:** Clear to auscultation bilaterally.
+
+**3. Assessment:**
+
+- **Hypothyroidism:** Likely exacerbated due to suboptimal thyroid hormone replacement. Symptoms of fatigue, weight gain, dry skin, and hair loss are consistent with poorly controlled hypothyroidism.
+- **Type 2 Diabetes:** Currently managed with Metformin but requires ongoing monitoring due to the potential impact of thyroid dysfunction on glycemic control.
+
+**4. Plan:**
+
+- **Medical Treatment:**
+  - Initiate Levothyroxine 50 mcg, oral, once daily. Dispense 90 tablets.
+  
+- **Referral to further tests:**
+  - Order Comprehensive Metabolic Panel (CMP)
+  - Order Thyroid Function Panel (TSH, Free T4, Free T3)
+  
+- **Follow-up recommendations:**
+  - Recheck thyroid function in 6 weeks to adjust the dosage of Levothyroxine if necessary.
+  
+- **Lifestyle Change:**
+  - Advised to maintain a balanced diet rich in whole foods and low in processed foods.
+  - Encouraged to engage in regular exercise, starting with low-impact activities like walking.
+  - Strongly advised to refrain from using tobacco.
+  - Advised to limit alcohol consumption to occasional use.
+  
+- **Patient Education:**
+  - Explained the importance of adhering to medication and lifestyle changes to manage symptoms and improve quality of life.
+  - Discussed potential side effects of Levothyroxine and the importance of regular follow-ups.
+  
+- **Patient Agreements:**
+  - The patient understands and agrees with the recommended medical treatment plan and lifestyle modifications."|"**1. Subjective:**
+
+**CC:**
+The pt, Emily Johnson, a 45 y/o Caucasian F, presents with mod fatigue and wt gain.
+
+**HPI:**
+Emily describes her sx as mod fatigue and wt gain, worsening over the past 3 mos. She also reports assoc sx including dry skin, hair loss, and constipation, occurring daily and affecting her ADLs and work responsibilities. Despite sleeping 8 hrs nightly, she continues to feel fatigued.
+
+**ROS:**
+- **Constitutional:** +fatigue, +wt gain.
+- **Skin:** +dry skin.
+- **Endocrine:** +hair loss.
+- **GI:** +constipation.
+- **Psych:** Denies anxiety and depression.
+
+**2. Objective:**
+
+**VS:**
+- BP: 130/80 mmHg
+- HR: 72 bpm
+- RR: 16 breaths/min
+- Temp: 98.4°F
+
+**PE:**
+- **General:** Pt appears tired but in NAD.
+- **Neck:** Slight enlargement of the thyroid gland on palpation.
+- **Skin:** Dry.
+- **Hair:** Thinning noted.
+- **Abd:** Soft, non-tender, no organomegaly.
+- **CV:** RRR, no murmurs.
+- **Resp:** CTA bilaterally.
+
+**3. Assessment:**
+
+- **Hypothyroidism:** Likely exacerbated due to suboptimal thyroid hormone replacement. Sx of fatigue, wt gain, dry skin, and hair loss are consistent with poorly controlled hypothyroidism.
+- **T2DM:** Currently managed with Metformin but requires ongoing monitoring due to the potential impact of thyroid dysfunction on glycemic control.
+
+**4. Plan:**
+
+- **Medical Tx:**
+  - Initiate Levothyroxine 50 mcg PO QD. Dispense 90 tabs.
+  
+- **Referral to further tests:**
+  - Order CMP
+  - Order Thyroid Function Panel (TSH, Free T4, Free T3)
+  
+- **F/U recommendations:**
+  - Recheck thyroid function in 6 wks to adjust the dosage of Levothyroxine if necessary.
+  
+- **Lifestyle Change:**
+  - Advised to maintain a balanced diet rich in whole foods and low in processed foods.
+  - Encouraged to engage in regular exercise, starting with low-impact activities like walking.
+  - Strongly advised to refrain from using tobacco.
+  - Advised to limit EtOH consumption to occasional use.
+  
+- **Pt Education:**
+  - Explained the importance of adhering to medication and lifestyle changes to manage sx and improve QOL.
+  - Discussed potential SEs of Levothyroxine and the importance of regular F/U.
+  
+- **Pt Agreements:**
+  - Pt understands and agrees with the recommended medical tx plan and lifestyle modifications."|Endocrinologist|"**Doctor:** Alright, thank you for coming in today. I see from my notes that you're experiencing some moderate fatigue and weight gain. Can you tell me more about what's been going on?
+
+**Patient:** Yes, I've been feeling really tired all the time, and I've gained quite a bit of weight over the past three months. It's been really frustrating.
+
+**Doctor:** I understand that must be challenging. When did you first start noticing these symptoms?
+
+**Patient:** It started about three months ago. At first, I thought it was just because of my busy schedule, but it just kept getting worse.
+
+**Doctor:** Alright. Besides the fatigue and weight gain, are you experiencing any other symptoms?
+
+**Patient:** Yes, my skin has been very dry, and I've noticed that my hair is falling out more than usual. I also have been dealing with constipation almost every day.
+
+**Doctor:** I see. And how have these symptoms affected your daily life and work?
+
+**Patient:** They make it really hard to get through the day. Even though I sleep about 8 hours every night, I still feel exhausted when I wake up. It's affecting my performance at work because I just don't have the energy.
+
+**Doctor:** That sounds very tough. Have you been feeling anxious or depressed at all?
+
+**Patient:** No, I haven't felt anxious or depressed, just really tired and frustrated with these symptoms.
+
+**Doctor:** Okay, thanks for sharing that with me. Now, can you tell me a little about your medical history? Any existing conditions or medications you're currently on?
+
+**Patient:** Sure, I have Type 2 Diabetes, and I'm taking Metformin for that. Other than that, nothing significant.
+
+**Doctor:** Alright, thank you. Let me review your vital signs with you. Your blood pressure is 130/80 mmHg, heart rate is 72 beats per minute, respiratory rate is 16 breaths per minute, and your temperature is 98.4°F. Everything seems within normal ranges there.
+
+**Patient:** Okay, that's good to know.
+
+**Doctor:** During the physical examination, I noticed a slight enlargement of your thyroid gland. Your skin appears dry, and I observed some thinning of your hair. Your abdomen is soft and non-tender, with no signs of organ enlargement. Your heart has a regular rate and rhythm without any murmurs, and your lungs are clear to auscultation. 
+
+**Patient:** Hmm, what does the enlargement of the thyroid gland mean?
+
+**Doctor:** It can sometimes indicate an issue with thyroid function. Given your symptoms and the slight thyroid enlargement, I suspect you might have hypothyroidism, which means your thyroid may not be producing enough hormones.
+
+**Patient:** Oh, I see. What does that mean for me?
+
+**Doctor:** Hypothyroidism can cause symptoms like fatigue, weight gain, dry skin, hair loss, and constipation, which align with what you're experiencing. It often requires medication to manage.
+
+**Patient:** That makes sense. What do we do next?
+
+**Doctor:** We'll start by confirming the diagnosis with some tests. I have ordered a Comprehensive Metabolic Panel (CMP) and a Thyroid Function Panel, which includes TSH, Free T4, and Free T3 levels. These tests will help us understand how well your thyroid is functioning.
+
+**Patient:** Okay, and if it is hypothyroidism, what's the treatment?
+
+**Doctor:** If the tests confirm hypothyroidism, we'll start you on Levothyroxine, which is a thyroid hormone replacement. I'll prescribe Levothyroxine 50 mcg, to be taken orally once daily. 
+
+**Patient:** Will this medication help me feel better?
+
+**Doctor:** Yes, it should help alleviate your symptoms. However, it may take some time to find the correct dosage, so we'll recheck your thyroid function in about six weeks to adjust the dosage if necessary.
+
+**Patient:** Got it. Are there any side effects I should be aware of?
+
+**Doctor:** Some people experience side effects like increased heart rate, anxiety, or difficulty sleeping. It's important to take the medication as prescribed and let us know if you experience any adverse effects.
+
+**Patient:** Okay, I will.
+
+**Doctor:** Along with medication, lifestyle changes can also help manage your symptoms. I recommend maintaining a balanced diet rich in whole foods and low in processed foods, engaging in regular exercise, starting with low-impact activities like walking, refraining from using tobacco, and limiting alcohol consumption to occasional use.
+
+**Patient:** That sounds manageable. I can do that.
+
+**Doctor:** Great. It's important to adhere to both the medication and lifestyle changes to manage your symptoms and improve your quality of life. 
+
+**Patient:** I understand. I'll do my best.
+
+**Doctor:** Excellent. Do you have any questions or concerns about the treatment plan?
+
+**Patient:** No, I think you've covered everything.
+
+**Doctor:** Alright, we'll proceed with the tests and start you on the medication. We'll see you back in six weeks to reassess. If your symptoms worsen or you have any concerns before then, please don't hesitate to contact us.
+
+**Patient:** Thank you, Doctor. I appreciate your help.
+
+**Doctor:** You're welcome. Take care, and we'll see you soon.
+
+**Patient:** Thanks, you too."|"[doctor]: Alright, thank you for coming in today. I see from my notes that you're experiencing some moderate fatigue and weight gain. Can you tell me more about what's been going on?
+
+[patient]: Yes, I've been feeling really tired all the time, and I've gained quite a bit of weight over the past three months. It's been really frustrating.
+
+[doctor]: Hmm, I understand that must be challenging. When did you first start noticing these symptoms?
+
+[patient]: It started about three months ago. At first, I thought it was just because of my busy schedule, but it just kept getting worse.
+
+[doctor]: Alright. Besides the fatigue and weight gain, are you experiencing any other symptoms?
+
+[patient]: Yes, my skin has been very dry, and I've noticed that my hair is falling out more than usual. I also have been dealing with constipation almost every day.
+
+[doctor]: I see. And how have these symptoms affected your daily life and work?
+
+[patient]: They make it really hard to get through the day. Even though I sleep about 8 hours every night, I still feel exhausted when I wake up. It's affecting my performance at work because I just don't have the energy.
+
+[doctor]: That sounds very tough. Have you been feeling anxious or depressed at all?
+
+[patient]: No, I haven't felt anxious or depressed, just really tired and frustrated with these symptoms.
+
+[doctor]: Okay, thanks for sharing that with me. Now, can you tell me a little about your medical history? Any existing conditions or medications you're currently on?
+
+[patient]: Sure, I have Type 2 Diabetes, and I'm taking Metformin for that. Other than that, nothing significant.
+
+[doctor]: Alright, thank you. Let me review your vital signs with you. Your blood pressure is 130/80 mmHg, heart rate is 72 beats per minute, respiratory rate is 16 breaths per minute, and your temperature is 98.4°F. Everything seems within normal ranges there.
+
+[patient]: Okay, that's good to know.
+
+[doctor]: During the physical examination, I noticed a slight enlargement of your thyroid gland. Your skin appears dry, and I observed some thinning of your hair. Your abdomen is soft and non-tender, with no signs of organ enlargement. Your heart has a regular rate and rhythm without any murmurs, and your lungs are clear to auscultation.
+
+[patient]: Hmm, what does the enlargement of the thyroid gland mean?
+
+[doctor]: It can sometimes indicate an issue with thyroid function. Given your symptoms and the slight thyroid enlargement, I suspect you might have hypothyroidism, which means your thyroid may not be producing enough hormones.
+
+[patient]: Oh, I see. What does that mean for me?
+
+[doctor]: Hypothyroidism can cause symptoms like fatigue, weight gain, dry skin, hair loss, and constipation, which align with what you're experiencing. It often requires medication to manage.
+
+[patient]: That makes sense. What do we do next?
+
+[doctor]: We'll start by confirming the diagnosis with some tests. I have ordered a Comprehensive Metabolic Panel (CMP) and a Thyroid Function Panel, which includes TSH, Free T4, and Free T3 levels. These tests will help us understand how well your thyroid is functioning.
+
+[patient]: Okay, and if it is hypothyroidism, what's the treatment?
+
+[doctor]: If the tests confirm hypothyroidism, we'll start you on Levothyroxine, which is a thyroid hormone replacement. I'll prescribe Levothyroxine 50 mcg, to be taken orally once daily.
+
+[patient]: Will this medication help me feel better?
+
+[doctor]: Yes, it should help alleviate your symptoms. However, it may take some time to find the correct dosage, so we'll recheck your thyroid function in about six weeks to adjust the dosage if necessary.
+
+[patient]: Got it. Are there any side effects I should be aware of?
+
+[doctor]: Some people experience side effects like increased heart rate, anxiety, or difficulty sleeping. It's important to take the medication as prescribed and let us know if you experience any adverse effects.
+
+[patient]: Okay, I will.
+
+[doctor]: Along with medication, lifestyle changes can also help manage your symptoms. I recommend maintaining a balanced diet rich in whole foods and low in processed foods, engaging in regular exercise, starting with low-impact activities like walking, refraining from using tobacco, and limiting alcohol consumption to occasional use.
+
+[patient]: That sounds manageable. I can do that.
+
+[doctor]: Great. It's important to adhere to both the medication and lifestyle changes to manage your symptoms and improve your quality of life.
+
+[patient]: I understand. I'll do my best.
+
+[doctor]: Excellent. Do you have any questions or concerns about the treatment plan?
+
+[patient]: No, I think you've covered everything.
+
+[doctor]: Alright, we'll proceed with the tests and start you on the medication. We'll see you back in six weeks to reassess. If your symptoms worsen or you have any concerns before then, please don't hesitate to contact us.
+
+[patient]: Thank you, Doctor. I appreciate your help.
+
+[doctor]: You're welcome. Take care, and we'll see you soon.
+
+[patient]: Thanks, you too."
+ENDOCRINE DISORDER, UNSPECIFIED|"ROLE: Endocrinologist
+
+- **Medical Outcome**: 
+  - Diagnosis: Endocrine Disorder, Unspecified (ICD-10: E34.9)
+  - Prescribed Treatment: Metformin, 500 mg, oral, twice daily, 3 months supply
+  - Follow-up Recommendations: Revisit in 3 months for medication adjustment and blood test review
+  - Referral to Specialists: Endocrine surgeon for evaluation of potential adrenal adenoma, Dr. Michael Thompson
+  - Referral to Further Tests: 24-hour urine cortisol test for adrenal function
+
+- **Medical History**: 
+  - Previous Diagnoses: Polycystic Ovary Syndrome (PCOS)
+  - Family Medical History: Sister with Hyperlipidemia, Uncle with Cushing's Syndrome
+  - Medication History: Currently on OCPs for PCOS management
+  - Allergies: Sulfa drugs (hives)
+  - Chronic Conditions: None reported
+
+- **Symptom Description**: 
+  - Severity: Severe
+  - Duration: 5 months
+  - Associated Symptoms: Abdominal striae, facial rounding, muscle weakness
+  - Frequency: Daily
+  - Impact on Daily Activities: Unable to perform routine tasks without assistance, significant fatigue
+
+- **Patient’s Self-Reported Habits and Lifestyle**: 
+  - Sleep: 4 hours per night, often wakes up multiple times
+  - Diet: High in sugars and fast food, rarely cooks at home
+  - Exercise: No regular physical activity, spends most of the day seated
+  - Tobacco Use: Yes, 10 cigarettes per day
+  - Alcohol Consumption: 3-4 beers per week
+  - Drug Use: None
+  - Recreational Activities: None, mostly watches TV during free time
+
+- **Demographic Information**: 
+  - Age: 30
+  - Gender: Female
+  - Ethnicity: Hispanic
+  - Socio-economic Status: Low-income
+  - Education Level: High school diploma
+  - Health Literacy: Low
+  - Job Status: Unemployed, previously worked as a cashier
+
+- **Patient's Behavior**: 
+  - Level of Cooperation: Initially resistant to medical advice, concerned about medication side effects
+
+- **Geographical Location**: 
+  - Rural setting in a small community
+  - Neighborhood Type: Impoverished area with limited healthcare access
+  - Well-served by Transit: No
+
+- **Clinical Setting**: 
+  - Community Health Services
+
+- **Type of Encounter**: 
+  - Initial Consultation
+
+- **Treatment Disparities**: 
+  - Financial constraints affecting treatment options
+
+- **Native or Non-Native English Speaking Patient**: 
+  - Non-native English-speaking (Spanish interpreter required)
+
+- **Physical Exams**: 
+  - General Physical Exam: Noted central obesity, abdominal striae
+  - Dermatological Exam: Facial rounding, thinning of the skin, easy bruising
+
+- **Investigation/Test results**: 
+  - Awaiting 24-hour urine cortisol test results for adrenal function"|"#####
+**1. Subjective:**
+   - **Chief Complaint (CC):** 
+     Follow-up for endocrine disorder and evaluation of potential adrenal adenoma.
+   - **History of Present Illness (HPI):**
+     Maria Rodriguez is a 30-year-old Hispanic female presenting for an initial consultation regarding severe symptoms persisting for 5 months. She reports significant fatigue, abdominal striae, facial rounding, and muscle weakness. These symptoms are impacting her daily activities severely; she is unable to perform routine tasks without assistance. Her sleep is disrupted, averaging 4 hours per night with multiple awakenings. Her diet consists predominantly of fast food high in sugars, and she exercises infrequently. Maria smokes 10 cigarettes a day and drinks 3-4 beers per week. She is unemployed and has financial constraints affecting her treatment options. She is concerned about the side effects of medications.
+   - **Review of Systems (ROS):**
+     - **Constitutional:** Fatigue, weakness.
+     - **Dermatological:** Abdominal striae, facial rounding, thinning of the skin, easy bruising.
+     - **Endocrine:** No noted heat or cold intolerance.
+     - **Cardiovascular:** No chest pain or palpitations.
+     - **Gastrointestinal:** No nausea, vomiting, or changes in bowel habits.
+     - **Musculoskeletal:** Muscle weakness.
+   
+**2. Objective:**
+   - **Vital Signs:**
+     - Blood Pressure: 140/90 mmHg
+     - Heart Rate: 85 beats per minute
+     - Respiratory Rate: 18 breaths per minute
+     - Temperature: 98.6°F
+     - Weight: 85 kg
+     - Height: 160 cm
+     - BMI: 33.2 kg/m² (indicating obesity)
+   
+   - **Physical Examination:**
+     - **General:** Central obesity noted, appears fatigued.
+     - **Skin:** Abdominal striae, facial rounding, thinning of the skin, and signs of easy bruising.
+     - **HEENT:** No abnormalities detected.
+     - **Cardiovascular:** Normal S1, S2; no murmurs.
+     - **Respiratory:** Clear breath sounds bilaterally.
+     - **Abdominal:** Soft, non-tender, no organomegaly.
+     - **Musculoskeletal:** Decreased muscle strength in proximal muscles.
+
+**3. Assessment:**
+   - **Primary Diagnosis:** Endocrine Disorder, Unspecified (ICD-10: E34.9)
+   - **Differential Diagnoses:**
+     - Cushing’s Syndrome
+     - Adrenal adenoma
+     - Polycystic Ovary Syndrome (PCOS)
+     - Metabolic Syndrome
+   
+**4. Plan:**
+   - **Medications:**
+     - Initiate Metformin, 500 mg, oral, twice daily, 3 months supply to address insulin resistance potentially associated with PCOS and metabolic syndrome.
+   - **Referrals:**
+     - Endocrine surgeon, Dr. Michael Thompson, for evaluation of potential adrenal adenoma.
+   - **Further Tests:**
+     - 24-hour urine cortisol test for assessing adrenal function; results pending.
+   - **Lifestyle Modifications:**
+     - Counsel to reduce sugar intake and increase balanced, home-cooked meals.
+     - Emphasize the importance of smoking cessation; referral to smoking cessation programs.
+     - Encourage gradual increase in physical activity; start with light exercises such as walking.
+   - **Follow-up:**
+     - Revisit in 3 months for medication adjustment and review of blood test results.
+   - **Interpreter Services:**
+     - Arrange Spanish interpreter for all follow-up visits to ensure comprehension and adherence to treatment plan.
+   - **Financial Assistance:**
+     - Explore community resources and financial aid for medications and specialist consultations.
+
+#####
+The patient understands and agrees with the recommended medical treatment plan."|"**1. Subjective:**
+   - **Chief Complaint (CC):** 
+     Follow-up for endocrine disorder and evaluation of potential adrenal adenoma.
+   - **History of Present Illness (HPI):**
+     Maria Rodriguez is a 30-year-old Hispanic female presenting for an initial consultation regarding severe symptoms persisting for 5 months. She reports significant fatigue, abdominal striae, facial rounding, and muscle weakness. These symptoms are impacting her daily activities severely; she is unable to perform routine tasks without assistance. Her sleep is disrupted, averaging 4 hours per night with multiple awakenings. Her diet consists predominantly of fast food high in sugars, and she exercises infrequently. Maria smokes 10 cigarettes a day and drinks 3-4 beers per week. She is unemployed and has financial constraints affecting her treatment options. She is concerned about the side effects of medications.
+   - **Review of Systems (ROS):**
+     - **Constitutional:** Fatigue, weakness.
+     - **Dermatological:** Abdominal striae, facial rounding, thinning of the skin, easy bruising.
+     - **Endocrine:** No noted heat or cold intolerance.
+     - **Cardiovascular:** No chest pain or palpitations.
+     - **Gastrointestinal:** No nausea, vomiting, or changes in bowel habits.
+     - **Musculoskeletal:** Muscle weakness.
+   
+**2. Objective:**
+   - **Vital Signs:**
+     - Blood Pressure: 140/90 mmHg
+     - Heart Rate: 85 beats per minute
+     - Respiratory Rate: 18 breaths per minute
+     - Temperature: 98.6°F
+     - Weight: 85 kg
+     - Height: 160 cm
+     - BMI: 33.2 kg/m² (indicating obesity)
+   
+   - **Physical Examination:**
+     - **General:** Central obesity noted, appears fatigued.
+     - **Skin:** Abdominal striae, facial rounding, thinning of the skin, and signs of easy bruising.
+     - **HEENT:** No abnormalities detected.
+     - **Cardiovascular:** Normal S1, S2; no murmurs.
+     - **Respiratory:** Clear breath sounds bilaterally.
+     - **Abdominal:** Soft, non-tender, no organomegaly.
+     - **Musculoskeletal:** Decreased muscle strength in proximal muscles.
+
+**3. Assessment:**
+   - **Primary Diagnosis:** Endocrine Disorder, Unspecified (ICD-10: E34.9)
+   - **Differential Diagnoses:**
+     - Cushing’s Syndrome
+     - Adrenal adenoma
+     - Polycystic Ovary Syndrome (PCOS)
+     - Metabolic Syndrome
+   
+**4. Plan:**
+   - **Medications:**
+     - Initiate Metformin, 500 mg, oral, twice daily, 3 months supply to address insulin resistance potentially associated with PCOS and metabolic syndrome.
+   - **Referrals:**
+     - Endocrine surgeon, Dr. Michael Thompson, for evaluation of potential adrenal adenoma.
+   - **Further Tests:**
+     - 24-hour urine cortisol test for assessing adrenal function; results pending.
+   - **Lifestyle Modifications:**
+     - Counsel to reduce sugar intake and increase balanced, home-cooked meals.
+     - Emphasize the importance of smoking cessation; referral to smoking cessation programs.
+     - Encourage gradual increase in physical activity; start with light exercises such as walking.
+   - **Follow-up:**
+     - Revisit in 3 months for medication adjustment and review of blood test results.
+   - **Interpreter Services:**
+     - Arrange Spanish interpreter for all follow-up visits to ensure comprehension and adherence to treatment plan.
+   - **Financial Assistance:**
+     - Explore community resources and financial aid for medications and specialist consultations."|"**1. Subjective:**
+   - **CC:** 
+     F/U for endocrine disorder and eval of potential adrenal adenoma.
+   - **HPI:**
+     Maria Rodriguez is a 30 y/o Hispanic F presenting for initial consult regarding severe sx persisting for 5 months. She reports significant fatigue, abd striae, facial rounding, and muscle weakness. These sx are impacting her ADLs severely; she is unable to perform routine tasks without assistance. Her sleep is disrupted, averaging 4 hrs/night with multiple awakenings. Her diet consists predominantly of fast food high in sugars, and she exercises infrequently. Maria smokes 10 cigs/day and drinks 3-4 beers/week. She is unemployed and has financial constraints affecting her tx options. She is concerned about the SEs of meds.
+   - **ROS:**
+     - **Constitutional:** Fatigue, weakness.
+     - **Derm:** Abd striae, facial rounding, thinning of the skin, easy bruising.
+     - **Endo:** No noted heat or cold intolerance.
+     - **CV:** No CP or palpitations.
+     - **GI:** No N/V or changes in bowel habits.
+     - **MSK:** Muscle weakness.
+   
+**2. Objective:**
+   - **VS:**
+     - BP: 140/90 mmHg
+     - HR: 85 bpm
+     - RR: 18 bpm
+     - Temp: 98.6°F
+     - Wt: 85 kg
+     - Ht: 160 cm
+     - BMI: 33.2 kg/m² (indicating obesity)
+   
+   - **PE:**
+     - **General:** Central obesity noted, appears fatigued.
+     - **Skin:** Abd striae, facial rounding, thinning of the skin, and signs of easy bruising.
+     - **HEENT:** No abnormalities detected.
+     - **CV:** Normal S1, S2; no murmurs.
+     - **Resp:** Clear breath sounds bilaterally.
+     - **Abd:** Soft, non-tender, no organomegaly.
+     - **MSK:** Decreased muscle strength in proximal muscles.
+
+**3. Assessment:**
+   - **Primary Dx:** Endocrine Disorder, Unspecified (ICD-10: E34.9)
+   - **DDx:**
+     - Cushing’s Syndrome
+     - Adrenal adenoma
+     - PCOS
+     - Metabolic Syndrome
+   
+**4. Plan:**
+   - **Meds:**
+     - Initiate Metformin, 500 mg, PO, BID, 3 months supply to address insulin resistance potentially associated with PCOS and metabolic syndrome.
+   - **Referrals:**
+     - Endocrine surgeon, Dr. Michael Thompson, for eval of potential adrenal adenoma.
+   - **Further Tests:**
+     - 24-hr urine cortisol test for assessing adrenal function; results pending.
+   - **Lifestyle Mods:**
+     - Counsel to reduce sugar intake and increase balanced, home-cooked meals.
+     - Emphasize the importance of smoking cessation; referral to smoking cessation programs.
+     - Encourage gradual increase in physical activity; start with light exercises such as walking.
+   - **F/U:**
+     - Revisit in 3 months for med adjustment and review of blood test results.
+   - **Interpreter Services:**
+     - Arrange Spanish interpreter for all F/U visits to ensure comprehension and adherence to tx plan.
+   - **Financial Assistance:**
+     - Explore community resources and financial aid for meds and specialist consults."|Endocrinologist|"[Doctor] Good morning, Maria. How are you today?
+
+[Patient] Good morning, Doctor. I'm okay, thank you.
+
+[Doctor] I see you're here for a follow-up on your endocrine disorder and to evaluate a potential adrenal adenoma. Can you tell me a bit more about what's been going on?
+
+[Patient] Yes, I've been having these severe symptoms for about five months now. I'm constantly tired, I have these red stretch marks on my abdomen, my face looks rounder, and my muscles feel really weak.
+
+[Doctor] I see. And how are these symptoms affecting your daily activities?
+
+[Patient] They're really impacting my life. I can't do simple tasks without help. It's very frustrating.
+
+[Doctor] That sounds tough. How's your sleep been?
+
+[Patient] Terrible. I get about four hours a night and I wake up multiple times.
+
+[Doctor] I see. And what about your diet and exercise routine?
+
+[Patient] I mostly eat fast food, a lot of sugary stuff. I hardly exercise.
+
+[Doctor] Okay. Do you smoke or drink?
+
+[Patient] Yes, I smoke about 10 cigarettes a day and drink 3 to 4 beers a week.
+
+[Doctor] Alright. Are you currently employed?
+
+[Patient] No, I'm not working right now.
+
+[Doctor] Understood. Are financial constraints affecting your treatment options?
+
+[Patient] Yes, definitely. I'm worried about the cost of medications and treatments.
+
+[Doctor] I understand. We'll look into some options for you. Do you have any concerns about the side effects of medications?
+
+[Patient] Yes, I'm really worried about that.
+
+[Doctor] We'll take that into consideration. Let's go over your symptoms. You're experiencing fatigue, weakness, abdominal striae, facial rounding, and muscle weakness, correct?
+
+[Patient] Yes, that's right.
+
+[Doctor] Any issues with heat or cold intolerance?
+
+[Patient] No, not really.
+
+[Doctor] How about chest pain or palpitations?
+
+[Patient] No, none of that.
+
+[Doctor] Any nausea, vomiting, or changes in your bowel habits?
+
+[Patient] No, my stomach's been fine.
+
+[Doctor] Got it. Let's take a look at your vital signs. Your blood pressure is 140/90 mmHg, your heart rate is 85 beats per minute, respiratory rate is 18 breaths per minute, and your temperature is 98.6°F. Your weight is 85 kg and height is 160 cm, which gives you a BMI of 33.2, indicating obesity.
+
+[Patient] Okay.
+
+[Doctor] During your physical examination, I noted central obesity, you appear fatigued, and you have abdominal striae, facial rounding, thinning of the skin, and signs of easy bruising. Your HEENT exam showed no abnormalities, cardiovascular exam was normal with no murmurs, and your respiratory exam revealed clear breath sounds bilaterally. Your abdomen is soft, non-tender, with no organomegaly, and you have decreased muscle strength in your proximal muscles.
+
+[Patient] Wow, that's a lot.
+
+[Doctor] Yes, it is. Based on all this, our primary diagnosis is an unspecified endocrine disorder. We have a few differential diagnoses to consider, including Cushing’s Syndrome, adrenal adenoma, Polycystic Ovary Syndrome (PCOS), and Metabolic Syndrome.
+
+[Patient] What does that mean?
+
+[Doctor] It means we need to do a bit more testing to pinpoint the exact cause. I'm going to initiate Metformin, 500 mg, taken orally twice daily for three months. This will help address insulin resistance, which can be associated with PCOS and metabolic syndrome.
+
+[Patient] Okay.
+
+[Doctor] I’m also referring you to an endocrine surgeon, Dr. Michael Thompson, for further evaluation of the potential adrenal adenoma.
+
+[Patient] Alright.
+
+[Doctor] Additionally, we need to do a 24-hour urine cortisol test to assess your adrenal function. The results are pending.
+
+[Patient] Got it.
+
+[Doctor] On lifestyle modifications, I recommend reducing your sugar intake and increasing balanced, home-cooked meals. Also, it's important to quit smoking; I'll refer you to some smoking cessation programs. Gradually increase your physical activity, starting with light exercises like walking.
+
+[Patient] I’ll try my best.
+
+[Doctor] We’ll follow up in three months for medication adjustments and to review the blood test results. I’ll also arrange for a Spanish interpreter for all follow-up visits to ensure you fully understand the treatment plan.
+
+[Patient] Thank you, that would be helpful.
+
+[Doctor] Lastly, we’ll explore community resources and financial aid for medications and specialist consultations to help with your financial constraints.
+
+[Patient] That sounds good.
+
+[Doctor] Do you understand and agree with the recommended medical treatment plan?
+
+[Patient] Yes, I do. Thank you, Doctor.
+
+[Doctor] You're welcome, Maria. We'll work together to get you feeling better. Take care, and see you in three months.
+
+[Patient] Thank you, Doctor. See you then."|"[Doctor] Good morning, Maria. How are you today?
+
+[Patient] Good morning, Doctor. I'm okay, thank you.
+
+[Doctor] I see you're here for a follow-up on your endocrine disorder and to evaluate a potential adrenal adenoma. Can you tell me a bit more about what's been going on?
+
+[Patient] Yes, I've been having these severe symptoms for about five months now. I'm constantly tired, I have these red stretch marks on my abdomen, my face looks rounder, and my muscles feel really weak.
+
+[Doctor] I see. And how are these symptoms affecting your daily activities?
+
+[Patient] They're really impacting my life. I can't do simple tasks without help. It's very frustrating.
+
+[Doctor] That sounds tough. How's your sleep been?
+
+[Patient] Terrible. I get about four hours a night and I wake up multiple times.
+
+[Doctor] I see. And what about your diet and exercise routine?
+
+[Patient] I mostly eat fast food, a lot of sugary stuff. I hardly exercise.
+
+[Doctor] Okay. Do you smoke or drink?
+
+[Patient] Yes, I smoke about 10 cigarettes a day and drink 3 to 4 beers a week.
+
+[Doctor] Alright. Are you currently employed?
+
+[Patient] No, I'm not working right now.
+
+[Doctor] Understood. Are financial constraints affecting your treatment options?
+
+[Patient] Yes, definitely. I'm worried about the cost of medications and treatments.
+
+[Doctor] I understand. We'll look into some options for you. Do you have any concerns about the side effects of medications?
+
+[Patient] Yes, I'm really worried about that.
+
+[Doctor] We'll take that into consideration. Let's go over your symptoms. You're experiencing fatigue, weakness, abdominal striae, facial rounding, and muscle weakness, correct?
+
+[Patient] Yes, that's right.
+
+[Doctor] Any issues with heat or cold intolerance?
+
+[Patient] No, not really.
+
+[Doctor] How about chest pain or palpitations?
+
+[Patient] No, none of that.
+
+[Doctor] Any nausea, vomiting, or changes in your bowel habits?
+
+[Patient] No, my stomach's been fine.
+
+[Doctor] Got it. Let's take a look at your vital signs. Your blood pressure is 140/90 mmHg, your heart rate is 85 beats per minute, respiratory rate is 18 breaths per minute, and your temperature is 98.6°F. Your weight is 85 kg and height is 160 cm, which gives you a BMI of 33.2, indicating obesity.
+
+[Patient] Okay.
+
+[Doctor] During your physical examination, I noted central obesity, you appear fatigued, and you have abdominal striae, facial rounding, thinning of the skin, and signs of easy bruising. Your HEENT exam showed no abnormalities, cardiovascular exam was normal with no murmurs, and your respiratory exam revealed clear breath sounds bilaterally. Your abdomen is soft, non-tender, with no organomegaly, and you have decreased muscle strength in your proximal muscles.
+
+[Patient] Wow, that's a lot.
+
+[Doctor] Yes, it is. Based on all this, our primary diagnosis is an unspecified endocrine disorder. We have a few differential diagnoses to consider, including Cushing’s Syndrome, adrenal adenoma, Polycystic Ovary Syndrome (PCOS), and Metabolic Syndrome.
+
+[Patient] What does that mean?
+
+[Doctor] It means we need to do a bit more testing to pinpoint the exact cause. I'm going to initiate Metformin, 500 mg, taken orally twice daily for three months. This will help address insulin resistance, which can be associated with PCOS and metabolic syndrome.
+
+[Patient] Okay.
+
+[Doctor] I’m also referring you to an endocrine surgeon, Dr. Michael Thompson, for further evaluation of the potential adrenal adenoma.
+
+[Patient] Alright.
+
+[Doctor] Additionally, we need to do a 24-hour urine cortisol test to assess your adrenal function. The results are pending.
+
+[Patient] Got it.
+
+[Doctor] On lifestyle modifications, I recommend reducing your sugar intake and increasing balanced, home-cooked meals. Also, it's important to quit smoking; I'll refer you to some smoking cessation programs. Gradually increase your physical activity, starting with light exercises like walking.
+
+[Patient] I’ll try my best.
+
+[Doctor] We’ll follow up in three months for medication adjustments and to review the blood test results. I’ll also arrange for a Spanish interpreter for all follow-up visits to ensure you fully understand the treatment plan.
+
+[Patient] Thank you, that would be helpful.
+
+[Doctor] Lastly, we’ll explore community resources and financial aid for medications and specialist consultations to help with your financial constraints.
+
+[Patient] That sounds good.
+
+[Doctor] Do you understand and agree with the recommended medical treatment plan?
+
+[Patient] Yes, I do. Thank you, Doctor.
+
+[Doctor] You're welcome, Maria. We'll work together to get you feeling better. Take care, and see you in three months.
+
+[Patient] Thank you, Doctor. See you then."
+ENDOCRINE DISORDER, UNSPECIFIED|"ROLE: Endocrinologist
+
+1) Medical Outcome:
+   - Diagnosis: Endocrine disorder, unspecified
+   - Prescribed Treatment: Hydrocortisone, 20 mg, oral, once daily in the morning and 10 mg in the afternoon, for 3 months
+   - Follow-up recommendations: Follow-up visit in 2 months
+   - Referral to specialists:
+     - Reason: Suspected adrenal insufficiency
+     - Specialty: Endocrinology Specialist
+     - Doctor's Name: Dr. Michael Thompson
+   - Order for blood work:
+     - Biochemistry: Serum cortisol, ACTH, electrolytes, fasting glucose
+   - Order for Imaging:
+     - MRI: MRI of the abdomen to evaluate adrenal glands
+
+2) Medical History:
+   - Previous Diagnoses: Chronic fatigue syndrome (4 years ago), Hypertension (managed with lifestyle changes)
+   - Family Medical History: Mother had rheumatoid arthritis, Sister has Type 1 diabetes
+   - Medication History: Previously on amlodipine for hypertension (discontinued)
+   - Allergies: None
+   - Chronic Conditions: None currently active
+
+3) Symptom Description:
+   - Severity: Severe
+   - Duration: 3 months
+   - Associated Symptoms: Persistent dizziness, muscle weakness, low blood pressure, hyperpigmentation of skin
+   - Frequency: Constant
+   - Impact on Daily Activities: Significant, unable to perform regular activities or work
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Sleeps 8-9 hours per night but still feels fatigued
+   - Diet: Balanced diet, avoids processed foods
+   - Exercise: Unable to exercise due to weakness and dizziness
+   - Tobacco Use: None
+   - Alcohol Consumption: None
+   - Drug Use: None
+   - Recreational Activities: Used to enjoy gardening and yoga, currently unable due to symptoms
+
+5) Demographic Information:
+   - Age: 58
+   - Gender: Female
+   - Ethnicity: African American
+   - Socio-economic Status: Retired, moderate income from pension
+   - Education Level: High school diploma
+   - Health Literacy: Moderate
+   - Job Status: Retired teacher
+
+6) Patient's Behavior:
+   - Patient cooperation with medical advice: Very cooperative, proactive in seeking medical help
+
+7) Geographical Location:
+   - Big City vs. Small City: Small City
+   - Rural vs. Urban: Suburban
+   - Pollution and Environmental Health Risks: Low pollution, clean environment
+   - Neighborhood Type: Middle-class suburb, has access to local grocery stores and a community clinic
+
+8) Clinical Setting:
+   - Specialty Clinic: Endocrinology Clinic
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - None noted
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English Speaking Patient
+
+12) Physical exams:
+   - General Appearance: Appears fatigued, with noticeable skin hyperpigmentation
+   - Skin: Hyperpigmentation noted, especially on elbows, knees, and knuckles
+
+13) Investigation/Test results:
+   - Awaiting blood work results: Serum cortisol, ACTH, electrolytes, fasting glucose
+   - MRI of the abdomen: Awaiting imaging results"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC)**:  
+Persistent fatigue and dizziness.
+
+**History of Present Illness (HPI):**  
+The patient, a 58-year-old African American female, presents to the endocrinology clinic for an initial consultation regarding severe fatigue, persistent dizziness, muscle weakness, and low blood pressure over the last three months. She reports hyperpigmentation of the skin, especially on her elbows, knees, and knuckles. The symptoms have significantly impacted her ability to perform daily activities or work, including hobbies like gardening and yoga.
+
+**Review of Systems (ROS):**  
+- **General:** Severe fatigue, unintentional weight loss.
+- **Cardiovascular:** Reports of low blood pressure.
+- **Musculoskeletal:** Muscle weakness.
+- **Integumentary:** Hyperpigmentation of skin.
+- **Neurological:** Persistent dizziness.
+
+**2. Objective:**
+
+**Vitals:**  
+- Blood Pressure: 90/60 mmHg (noted hypotension)
+- Heart Rate: 76 bpm  
+- Respiratory Rate: 16 breaths per minute  
+- Temperature: 98.6°F
+
+**Physical Exam:**
+- **General:** Appears fatigued.
+- **Skin:** Noticeable hyperpigmentation on elbows, knees, and knuckles.
+- **Cardiovascular:** No murmurs, regular rate, and rhythm.
+- **Musculoskeletal:** Muscle strength 4/5 in all extremities.
+- **Neurological:** No focal deficits, but complains of dizziness.
+
+**3. Assessment:**
+
+Endocrine disorder, unspecified, with a high suspicion of adrenal insufficiency.
+
+**4. Plan:**
+
+1. **Medications:**
+   - Prescribed Hydrocortisone 20 mg oral once daily in the morning and 10 mg in the afternoon for 3 months.
+
+2. **Referrals:**
+   - Referred to Dr. Michael Thompson, an Endocrinology Specialist, for further evaluation of suspected adrenal insufficiency.
+
+3. **Orders:**
+   - **Blood Work:**
+     - Serum cortisol
+     - ACTH
+     - Electrolytes
+     - Fasting glucose
+   - **Imaging:**
+     - MRI of the abdomen to evaluate adrenal glands
+
+4. **Follow-up:**
+   - Scheduled a follow-up visit in 2 months to review test results and assess treatment response.
+  
+5. **Patient Education:**
+   - Discussed the importance of adherence to medication regimen.
+   - Provided information on signs of adrenal crisis and when to seek immediate medical help.
+   - Advised to avoid extreme physical stress until further evaluation and stabilization of condition.
+
+**Instructions:**
+- The patient is advised to promptly schedule the blood tests and MRI. Further management will be based on test results.
+- Return for follow-up in 2 months or sooner if symptoms worsen."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Persistent fatigue and dizziness.
+
+**History of Present Illness (HPI):**  
+The patient, a 58-year-old African American female, presents to the endocrinology clinic for an initial consultation regarding severe fatigue, persistent dizziness, muscle weakness, and low blood pressure over the last three months. She reports hyperpigmentation of the skin, especially on her elbows, knees, and knuckles. The symptoms have significantly impacted her ability to perform daily activities or work, including hobbies like gardening and yoga.
+
+**Review of Systems (ROS):**  
+- **General:** Severe fatigue, unintentional weight loss.
+- **Cardiovascular:** Reports of low blood pressure.
+- **Musculoskeletal:** Muscle weakness.
+- **Integumentary:** Hyperpigmentation of skin.
+- **Neurological:** Persistent dizziness.
+
+**2. Objective:**
+
+**Vitals:**  
+- Blood Pressure: 90/60 mmHg (noted hypotension)
+- Heart Rate: 76 bpm  
+- Respiratory Rate: 16 breaths per minute  
+- Temperature: 98.6°F
+
+**Physical Exam:**
+- **General:** Appears fatigued.
+- **Skin:** Noticeable hyperpigmentation on elbows, knees, and knuckles.
+- **Cardiovascular:** No murmurs, regular rate, and rhythm.
+- **Musculoskeletal:** Muscle strength 4/5 in all extremities.
+- **Neurological:** No focal deficits, but complains of dizziness.
+
+**3. Assessment:**
+
+Endocrine disorder, unspecified, with a high suspicion of adrenal insufficiency.
+
+**4. Plan:**
+
+1. **Medications:**
+   - Prescribed Hydrocortisone 20 mg oral once daily in the morning and 10 mg in the afternoon for 3 months.
+
+2. **Referrals:**
+   - Referred to Dr. Michael Thompson, an Endocrinology Specialist, for further evaluation of suspected adrenal insufficiency.
+
+3. **Orders:**
+   - **Blood Work:**
+     - Serum cortisol
+     - ACTH
+     - Electrolytes
+     - Fasting glucose
+   - **Imaging:**
+     - MRI of the abdomen to evaluate adrenal glands
+
+4. **Follow-up:**
+   - Scheduled a follow-up visit in 2 months to review test results and assess treatment response.
+  
+5. **Patient Education:**
+   - Discussed the importance of adherence to medication regimen.
+   - Provided information on signs of adrenal crisis and when to seek immediate medical help.
+   - Advised to avoid extreme physical stress until further evaluation and stabilization of condition.
+
+**Instructions:**
+- The patient is advised to promptly schedule the blood tests and MRI. Further management will be based on test results.
+- Return for follow-up in 2 months or sooner if symptoms worsen."|"#####
+**1. Subjective:**
+
+**CC:**  
+Persistent fatigue and dizziness.
+
+**HPI:**  
+The pt, a 58 y/o African American F, presents to the endo clinic for an initial consult regarding severe fatigue, persistent dizziness, muscle weakness, and low BP over the last 3 mos. She reports hyperpigmentation of the skin, especially on her elbows, knees, and knuckles. The sx have significantly impacted her ability to perform ADLs or work, including hobbies like gardening and yoga.
+
+**ROS:**  
+- **General:** Severe fatigue, unintentional wt loss.
+- **CV:** Reports of low BP.
+- **MSK:** Muscle weakness.
+- **Integ:** Hyperpigmentation of skin.
+- **Neuro:** Persistent dizziness.
+
+**2. Objective:**
+
+**Vitals:**  
+- BP: 90/60 mmHg (noted hypotension)
+- HR: 76 bpm  
+- RR: 16 bpm  
+- Temp: 98.6°F
+
+**Physical Exam:**
+- **General:** Appears fatigued.
+- **Skin:** Noticeable hyperpigmentation on elbows, knees, and knuckles.
+- **CV:** No murmurs, RRR.
+- **MSK:** Muscle strength 4/5 in all extremities.
+- **Neuro:** No focal deficits, but c/o dizziness.
+
+**3. Assessment:**
+
+Endocrine disorder, unspecified, with a high suspicion of adrenal insufficiency.
+
+**4. Plan:**
+
+1. **Meds:**
+   - Rx Hydrocortisone 20 mg PO QAM and 10 mg QPM for 3 mos.
+
+2. **Referrals:**
+   - Referred to Dr. Michael Thompson, an Endo Specialist, for further eval of suspected adrenal insufficiency.
+
+3. **Orders:**
+   - **Labs:**
+     - Serum cortisol
+     - ACTH
+     - Electrolytes
+     - Fasting glucose
+   - **Imaging:**
+     - MRI abd to eval adrenal glands
+
+4. **F/U:**
+   - Scheduled a F/U visit in 2 mos to review test results and assess tx response.
+  
+5. **Pt Education:**
+   - Discussed the importance of adherence to med regimen.
+   - Provided info on signs of adrenal crisis and when to seek immediate medical help.
+   - Advised to avoid extreme physical stress until further eval and stabilization of condition.
+
+**Instructions:**
+- The pt is advised to promptly schedule the labs and MRI. Further mgmt will be based on test results.
+- Return for F/U in 2 mos or sooner if sx worsen."|Endocrinologist|"[doctor] Good afternoon, how are you feeling today?
+
+[patient] Hi, Doctor. Not great, to be honest. I've been feeling extremely tired and dizzy for a while now.
+
+[doctor] I'm sorry to hear that. Can you tell me more about these symptoms? How long have you been experiencing them?
+
+[patient] It's been about three months now. The dizziness and fatigue are constant, and it's really affecting my daily life.
+
+[doctor] That sounds quite challenging. Have you noticed any other symptoms along with the fatigue and dizziness?
+
+[patient] Yes, I've also been feeling very weak in my muscles. It's hard to do much of anything, even simple activities like gardening or yoga, which I used to enjoy.
+
+[doctor] I understand. Have you experienced any changes in your skin, such as darkening or hyperpigmentation?
+
+[patient] Yes, actually. My skin has gotten darker, especially around my elbows, knees, and knuckles.
+
+[doctor] Hmm, that's important to note. Have you had any issues with your blood pressure?
+
+[patient] Yes, my blood pressure has been quite low. I checked it at home a few times, and it's always around 90/60.
+
+[doctor] Alright. Have you unintentionally lost any weight recently?
+
+[patient] Yes, I've lost some weight, but I wasn't trying to.
+
+[doctor] Okay. Let's go through some of the systems to get a better understanding. How about your heart? Any chest pain or irregular heartbeats?
+
+[patient] No chest pain or anything like that.
+
+[doctor] And any issues with breathing? Shortness of breath or anything similar?
+
+[patient] No, my breathing seems fine.
+
+[doctor] Alright. Let’s move on to some details about your medical history. Do you have any existing health conditions or are you taking any medications currently?
+
+[patient] I have high blood pressure and take medication for that. Otherwise, nothing major.
+
+[doctor] Got it. And any family history of similar symptoms or endocrine disorders?
+
+[patient] Not that I know of.
+
+[doctor] Okay. Let me take a look at your vitals and do a physical examination. Your blood pressure is 90/60 mmHg, which is low. Your heart rate is 76 bpm, respiratory rate is 16 breaths per minute, and temperature is 98.6°F. How are you feeling right now?
+
+[patient] Just very tired and a bit dizzy.
+
+[doctor] Alright. During the physical exam, I do notice that you appear fatigued, and I can see the hyperpigmentation on your elbows, knees, and knuckles. Your muscle strength seems to be a bit reduced, and you're reporting dizziness. However, your cardiovascular and neurological exams seem normal otherwise.
+
+[patient] What do you think could be causing all these symptoms?
+
+[doctor] Based on your symptoms and the physical examination, I have a high suspicion that you might have an endocrine disorder, possibly adrenal insufficiency. This can cause fatigue, muscle weakness, low blood pressure, and hyperpigmentation.
+
+[patient] Adrenal insufficiency? What does that mean?
+
+[doctor] It means that your adrenal glands might not be producing enough of certain essential hormones. We need to confirm this with some tests and imaging.
+
+[patient] What tests do I need to take?
+
+[doctor] We'll need to do some blood work, including serum cortisol, ACTH, electrolytes, and fasting glucose. Additionally, I will order an MRI of your abdomen to evaluate your adrenal glands.
+
+[patient] Okay, I understand.
+
+[doctor] I'll also be prescribing Hydrocortisone for you. You'll need to take 20 mg orally once daily in the morning and 10 mg in the afternoon for the next three months.
+
+[patient] Got it. What else do I need to do?
+
+[doctor] I'm referring you to Dr. Michael Thompson, an Endocrinology Specialist, for further evaluation. It's important to follow up with him for a more detailed assessment.
+
+[patient] When should I schedule an appointment with him?
+
+[doctor] As soon as possible. Also, you should schedule the blood tests and MRI promptly. We'll need those results to guide your treatment further.
+
+[patient] Okay, I'll make sure to do that.
+
+[doctor] Great. In the meantime, avoid extreme physical stress and adhere strictly to the medication regimen. Watch out for signs of adrenal crisis, such as severe pain, vomiting, or fainting, and seek immediate medical help if those occur.
+
+[patient] Will do. When should I come back for a follow-up?
+
+[doctor] I’d like to see you back in two months to review your test results and assess how you're responding to the treatment. If your symptoms worsen before then, don't hesitate to come in sooner.
+
+[patient] Okay, thank you, Doctor. I appreciate your help.
+
+[doctor] You're welcome. Take care, and we'll see you soon."|"[doctor] Good afternoon, how are you feeling today?
+
+[patient] Hi, Doctor. Not great, to be honest. I've been feeling extremely tired and dizzy for a while now.
+
+[doctor] I'm sorry to hear that. Can you tell me more about these symptoms? How long have you been experiencing them?
+
+[patient] It's been about three months now. The dizziness and fatigue are constant, and it's really affecting my daily life.
+
+[doctor] That sounds quite challenging. Have you noticed any other symptoms along with the fatigue and dizziness?
+
+[patient] Yes, I've also been feeling very weak in my muscles. It's hard to do much of anything, even simple activities like gardening or yoga, which I used to enjoy.
+
+[doctor] I understand. Have you experienced any changes in your skin, such as darkening or hyperpigmentation?
+
+[patient] Yes, actually. My skin has gotten darker, especially around my elbows, knees, and knuckles.
+
+[doctor] Hmm, that's important to note. Have you had any issues with your blood pressure?
+
+[patient] Yes, my blood pressure has been quite low. I checked it at home a few times, and it's always around 90/60.
+
+[doctor] Alright. Have you unintentionally lost any weight recently?
+
+[patient] Yes, I've lost some weight, but I wasn't trying to.
+
+[doctor] Okay. Let's go through some of the systems to get a better understanding. How about your heart? Any chest pain or irregular heartbeats?
+
+[patient] No chest pain or anything like that.
+
+[doctor] And any issues with breathing? Shortness of breath or anything similar?
+
+[patient] No, my breathing seems fine.
+
+[doctor] Alright. Let’s move on to some details about your medical history. Do you have any existing health conditions or are you taking any medications currently?
+
+[patient] I have high blood pressure and take medication for that. Otherwise, nothing major.
+
+[doctor] Got it. And any family history of similar symptoms or endocrine disorders?
+
+[patient] Not that I know of.
+
+[doctor] Okay. Let me take a look at your vitals and do a physical examination. Your blood pressure is 90/60 mmHg, which is low. Your heart rate is 76 bpm, respiratory rate is 16 breaths per minute, and temperature is 98.6°F. How are you feeling right now?
+
+[patient] Just very tired and a bit dizzy.
+
+[doctor] Alright. During the physical exam, I do notice that you appear fatigued, and I can see the hyperpigmentation on your elbows, knees, and knuckles. Your muscle strength seems to be a bit reduced, and you're reporting dizziness. However, your cardiovascular and neurological exams seem normal otherwise.
+
+[patient] What do you think could be causing all these symptoms?
+
+[doctor] Based on your symptoms and the physical examination, I have a high suspicion that you might have an endocrine disorder, possibly adrenal insufficiency. This can cause fatigue, muscle weakness, low blood pressure, and hyperpigmentation.
+
+[patient] Adrenal insufficiency? What does that mean?
+
+[doctor] It means that your adrenal glands might not be producing enough of certain essential hormones. We need to confirm this with some tests and imaging.
+
+[patient] What tests do I need to take?
+
+[doctor] We'll need to do some blood work, including serum cortisol, ACTH, electrolytes, and fasting glucose. Additionally, I will order an MRI of your abdomen to evaluate your adrenal glands.
+
+[patient] Okay, I understand.
+
+[doctor] I'll also be prescribing Hydrocortisone for you. You'll need to take 20 mg orally once daily in the morning and 10 mg in the afternoon for the next three months.
+
+[patient] Got it. What else do I need to do?
+
+[doctor] I'm referring you to Dr. Michael Thompson, an Endocrinology Specialist, for further evaluation. It's important to follow up with him for a more detailed assessment.
+
+[patient] When should I schedule an appointment with him?
+
+[doctor] As soon as possible. Also, you should schedule the blood tests and MRI promptly. We'll need those results to guide your treatment further.
+
+[patient] Okay, I'll make sure to do that.
+
+[doctor] Great. In the meantime, avoid extreme physical stress and adhere strictly to the medication regimen. Watch out for signs of adrenal crisis, such as severe pain, vomiting, or fainting, and seek immediate medical help if those occur.
+
+[patient] Will do. When should I come back for a follow-up?
+
+[doctor] I’d like to see you back in two months to review your test results and assess how you're responding to the treatment. If your symptoms worsen before then, don't hesitate to come in sooner.
+
+[patient] Okay, thank you, Doctor. I appreciate your help.
+
+[doctor] You're welcome. Take care, and we'll see you soon."
+ENDOCRINE DISORDER, UNSPECIFIED|"ROLE: Endocrinologist
+
+---
+
+1) Medical Outcome:
+   - Diagnosis: Endocrine disorder, unspecified
+   - Prescribed Treatment: Initiate Methimazole 10 mg, oral, once daily for hyperthyroid-like symptoms; follow-up in 1 month to reassess.
+   - Follow-up Recommendations: Re-evaluate thyroid function tests (TSH, Free T4, Free T3) in 1 month.
+   - Referral to Further Tests: Blood work for thyroid function tests (TSH, Free T4, Free T3), anti-thyroid antibodies, and biochemistry panel.
+   - Lifestyle Change: Increase dietary intake of whole grains, lean proteins, and reduce caffeine intake.
+
+2) Medical History:
+   - Previous Diagnoses: Polycystic Ovary Syndrome (PCOS)
+   - Family Medical History: Family history of thyroid disorders and heart disease.
+   - Medication History: Oral contraceptives for PCOS, currently not on any medication.
+   - Allergies: Shellfish.
+   - Chronic Conditions: None.
+
+3) Symptom Description:
+   - Severity: Severe episodes of palpitations and anxiety.
+   - Duration: Approximately 1.5 months.
+   - Associated Symptoms: Weight loss, heat intolerance, excessive sweating.
+   - Frequency: Intermittent through the day.
+   - Impact on Daily Activities: Difficulty concentrating at work and frequent breaks needed.
+
+4) Patient's self-reported habits and lifestyle:
+   - Sleep: Reports good sleep quality, averaging 7-8 hours per night.
+   - Diet: Predominantly vegetarian with occasional fish; high caffeine intake.
+   - Exercise: Regular runner, participates in local 5k races.
+   - Tobacco Use: None.
+   - Alcohol Consumption: Social drinker, 1-2 drinks per week.
+   - Drug Use: None.
+   - Recreational Activities: Active in community theater and yoga.
+
+5) Demographic Information:
+   - Age: 28
+   - Gender: Female
+   - Ethnicity: Asian-American
+   - Socio-economic Status: Upper middle class
+   - Education Level: Master's degree
+   - Health Literacy: High
+   - Job Status: Software Engineer
+
+6) Patient's Behavior:
+   - Cooperation: Highly cooperative and eager to understand treatment options.
+
+7) Geographical Location:
+   - Big City vs Small City: Urban area of a large city.
+   - Pollution and Environmental Health Risks: Moderate pollution.
+   - Neighborhood Type: Affluent
+   - Well-served by Transit: Excellent public transportation.
+   - Food Desert: No
+
+8) Clinical Setting:
+   - Specialty Clinic
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - NA
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English-speaking patient.
+
+12) Physical exams:
+   - General Physical Exam: Thin build, mild tremor in outstretched hands, slight goiter palpable, heart rate of 110 bpm.
+
+13) Investigation/Test results:
+   - Awaiting: Blood work for thyroid function tests (TSH, Free T4, Free T3), anti-thyroid antibodies, and biochemistry panel."|"#####
+**Subjective:**
+
+**Chief Complaint (CC):**
+Severe episodes of palpitations and anxiety.
+
+**History of Present Illness (HPI):**
+A 28-year-old Asian-American female presents to the endocrinology clinic for an initial consultation concerning severe episodes of palpitations and anxiety. She reports these symptoms have been occurring intermittently throughout the day for approximately 1.5 months. Associated symptoms include weight loss, heat intolerance, and excessive sweating. The severity of these symptoms has impacted her ability to concentrate at work, necessitating frequent breaks.
+
+**Review of Systems (ROS):**
+- **General:** Reports significant weight loss.
+- **Cardiovascular:** Reports palpitations.
+- **Endocrine:** Reports heat intolerance and excessive sweating.
+- **Neurological:** Reports anxiety; no history of seizures or syncopal episodes.
+
+**Medical History:**
+- **Past Medical History:** Diagnosed with Polycystic Ovary Syndrome (PCOS).
+- **Family Medical History:** Family history of thyroid disorders and heart disease.
+- **Medication History:** Previously on oral contraceptives for PCOS, currently not on any medication.
+- **Allergies:** Shellfish.
+- **Chronic Conditions:** None.
+
+**Social History:**
+- **Diet:** Predominantly vegetarian with occasional fish; high caffeine intake.
+- **Exercise:** Regular runner, participates in local 5k races.
+- **Tobacco Use:** None.
+- **Alcohol Consumption:** Social drinker, 1-2 drinks per week.
+- **Drug Use:** None.
+- **Recreational Activities:** Active in community theater and yoga.
+
+**Objective:**
+
+**Vital Signs:**
+- Heart Rate: 110 bpm
+- Blood Pressure: 120/80 mmHg
+- Respiratory Rate: 16 breaths per minute
+- Temperature: Afebrile
+
+**Physical Exam:**
+- **General:** Thin build, appears anxious.
+- **Head and Neck:** Slight goiter palpable.
+- **Cardiovascular:** Heart rate of 110 bpm, regular rhythm.
+- **Neurological:** Mild tremor in outstretched hands.
+
+**Assessment:**
+- Endocrine disorder, unspecified, with symptoms suggestive of hyperthyroidism.
+
+**Plan:**
+1. **Medication:**
+   - Initiate Methimazole 10 mg, oral, once daily to manage hyperthyroid-like symptoms.
+2. **Investigations:**
+   - Order blood work for thyroid function tests (TSH, Free T4, Free T3), anti-thyroid antibodies, and biochemistry panel.
+3. **Lifestyle Recommendations:**
+   - Increase dietary intake of whole grains and lean proteins, and reduce caffeine intake.
+4. **Follow-Up:**
+   - Re-evaluate thyroid function tests (TSH, Free T4, Free T3) in 1 month.
+   - Schedule a follow-up appointment in 1 month to reassess the patient's condition and treatment efficacy.
+5. **Patient Education:**
+   - Discussed the possible diagnosis and treatment plan in detail. The patient is highly cooperative and eager to understand her treatment options. Provided educational material about hyperthyroidism and lifestyle modifications.
+
+**Instructions:**
+- The patient is advised to schedule blood tests within the next week and to follow up in the clinic in 1 month for reassessment. She is also instructed to monitor her symptoms and reach out to the clinic if there are any significant changes or concerns.
+
+#####
+"|"**Subjective:**
+
+**Chief Complaint (CC):**
+Severe episodes of palpitations and anxiety.
+
+**History of Present Illness (HPI):**
+A 28-year-old Asian-American female, named Emily Chen, presents to the endocrinology clinic for an initial consultation concerning severe episodes of palpitations and anxiety. She reports these symptoms have been occurring intermittently throughout the day for approximately 1.5 months. Associated symptoms include weight loss, heat intolerance, and excessive sweating. The severity of these symptoms has impacted her ability to concentrate at work, necessitating frequent breaks.
+
+**Review of Systems (ROS):**
+- **General:** Reports significant weight loss.
+- **Cardiovascular:** Reports palpitations.
+- **Endocrine:** Reports heat intolerance and excessive sweating.
+- **Neurological:** Reports anxiety; no history of seizures or syncopal episodes.
+
+**Medical History:**
+- **Past Medical History:** Diagnosed with Polycystic Ovary Syndrome (PCOS).
+- **Family Medical History:** Family history of thyroid disorders and heart disease.
+- **Medication History:** Previously on oral contraceptives for PCOS, currently not on any medication.
+- **Allergies:** Shellfish.
+- **Chronic Conditions:** None.
+
+**Social History:**
+- **Diet:** Predominantly vegetarian with occasional fish; high caffeine intake.
+- **Exercise:** Regular runner, participates in local 5k races.
+- **Tobacco Use:** None.
+- **Alcohol Consumption:** Social drinker, 1-2 drinks per week.
+- **Drug Use:** None.
+- **Recreational Activities:** Active in community theater and yoga.
+
+**Objective:**
+
+**Vital Signs:**
+- Heart Rate: 110 bpm
+- Blood Pressure: 120/80 mmHg
+- Respiratory Rate: 16 breaths per minute
+- Temperature: Afebrile
+
+**Physical Exam:**
+- **General:** Thin build, appears anxious.
+- **Head and Neck:** Slight goiter palpable.
+- **Cardiovascular:** Heart rate of 110 bpm, regular rhythm.
+- **Neurological:** Mild tremor in outstretched hands.
+
+**Assessment:**
+- Endocrine disorder, unspecified, with symptoms suggestive of hyperthyroidism.
+
+**Plan:**
+1. **Medication:**
+   - Initiate Methimazole 10 mg, oral, once daily to manage hyperthyroid-like symptoms.
+2. **Investigations:**
+   - Order blood work for thyroid function tests (TSH, Free T4, Free T3), anti-thyroid antibodies, and biochemistry panel.
+3. **Lifestyle Recommendations:**
+   - Increase dietary intake of whole grains and lean proteins, and reduce caffeine intake.
+4. **Follow-Up:**
+   - Re-evaluate thyroid function tests (TSH, Free T4, Free T3) in 1 month.
+   - Schedule a follow-up appointment in 1 month to reassess the patient's condition and treatment efficacy.
+5. **Patient Education:**
+   - Discussed the possible diagnosis and treatment plan in detail. The patient is highly cooperative and eager to understand her treatment options. Provided educational material about hyperthyroidism and lifestyle modifications.
+
+**Instructions:**
+- The patient is advised to schedule blood tests within the next week and to follow up in the clinic in 1 month for reassessment. She is also instructed to monitor her symptoms and reach out to the clinic if there are any significant changes or concerns."|"**Subjective:**
+
+**CC:**
+Severe episodes of palpitations and anxiety.
+
+**HPI:**
+A 28-year-old Asian-American female, named Emily Chen, presents to the endo clinic for an initial consult concerning severe episodes of palpitations and anxiety. She reports these sx have been occurring intermittently throughout the day for ~1.5 months. Associated sx include wt loss, heat intolerance, and excessive sweating. The severity of these sx has impacted her ability to concentrate at work, necessitating frequent breaks.
+
+**ROS:**
+- **General:** Reports significant wt loss.
+- **CV:** Reports palpitations.
+- **Endo:** Reports heat intolerance and excessive sweating.
+- **Neuro:** Reports anxiety; no hx of seizures or syncopal episodes.
+
+**Medical History:**
+- **PMH:** Dx with PCOS.
+- **FMH:** Family hx of thyroid disorders and heart disease.
+- **Med Hx:** Previously on OCPs for PCOS, currently not on any meds.
+- **Allergies:** Shellfish.
+- **Chronic Conditions:** None.
+
+**Social History:**
+- **Diet:** Predominantly vegetarian with occasional fish; high caffeine intake.
+- **Exercise:** Regular runner, participates in local 5k races.
+- **Tobacco Use:** None.
+- **Alcohol Consumption:** Social drinker, 1-2 drinks per week.
+- **Drug Use:** None.
+- **Recreational Activities:** Active in community theater and yoga.
+
+**Objective:**
+
+**VS:**
+- HR: 110 bpm
+- BP: 120/80 mmHg
+- RR: 16 bpm
+- Temp: Afebrile
+
+**Physical Exam:**
+- **General:** Thin build, appears anxious.
+- **H&N:** Slight goiter palpable.
+- **CV:** HR of 110 bpm, regular rhythm.
+- **Neuro:** Mild tremor in outstretched hands.
+
+**Assessment:**
+- Endo disorder, unspecified, with sx suggestive of hyperthyroidism.
+
+**Plan:**
+1. **Rx:**
+   - Initiate Methimazole 10 mg PO QD to manage hyperthyroid-like sx.
+2. **Investigations:**
+   - Order blood work for TFTs (TSH, Free T4, Free T3), anti-thyroid antibodies, and biochem panel.
+3. **Lifestyle Recommendations:**
+   - Increase dietary intake of whole grains and lean proteins, and reduce caffeine intake.
+4. **Follow-Up:**
+   - Re-evaluate TFTs (TSH, Free T4, Free T3) in 1 month.
+   - Schedule a follow-up appt in 1 month to reassess the pt's condition and tx efficacy.
+5. **Pt Education:**
+   - Discussed the possible dx and tx plan in detail. The pt is highly cooperative and eager to understand her tx options. Provided educational material about hyperthyroidism and lifestyle modifications.
+
+**Instructions:**
+- The pt is advised to schedule blood tests within the next week and to follow up in the clinic in 1 month for reassessment. She is also instructed to monitor her sx and reach out to the clinic if there are any significant changes or concerns."|Endocrinologist|"[doctor] Good morning, how are you today?
+
+[patient] Good morning, Doctor. I’m feeling pretty anxious, to be honest.
+
+[doctor] I understand. What brings you in today?
+
+[patient] I’ve been having severe episodes of palpitations and anxiety for about a month and a half now.
+
+[doctor] Can you describe these episodes a bit more?
+
+[patient] Sure. They come on suddenly, and my heart starts racing. I get really anxious, and sometimes I feel like I’m sweating a lot.
+
+[doctor] Hmm, how often do these episodes occur?
+
+[patient] They happen intermittently throughout the day.
+
+[doctor] I see. Have you noticed any other symptoms?
+
+[patient] Yes, I’ve been losing weight without trying, and I can’t stand the heat anymore. I also sweat excessively.
+
+[doctor] That sounds quite uncomfortable. How has this been affecting your daily life?
+
+[patient] It’s really hard to concentrate at work. I have to take frequent breaks because I get so anxious and jittery.
+
+[doctor] I’m sorry to hear that. Let’s go through a detailed review of your systems. Have you experienced significant weight loss recently?
+
+[patient] Yes, I have.
+
+[doctor] And aside from palpitations, any other cardiovascular symptoms?
+
+[patient] No, just the palpitations.
+
+[doctor] How about any issues related to your endocrine system, like heat intolerance or sweating?
+
+[patient] Yes, both. I can’t tolerate the heat and I sweat a lot.
+
+[doctor] Alright. Any neurological symptoms like anxiety, seizures, or fainting episodes?
+
+[patient] Just the anxiety. No seizures or fainting.
+
+[doctor] Thank you for sharing that. Can you tell me about your past medical history?
+
+[patient] I was diagnosed with Polycystic Ovary Syndrome, or PCOS.
+
+[doctor] Okay. Is there any family history of medical conditions?
+
+[patient] Yes, there’s a history of thyroid disorders and heart disease in my family.
+
+[doctor] I see. Are you currently taking any medications?
+
+[patient] I was on oral contraceptives for PCOS, but I’m not taking any medication right now.
+
+[doctor] Any allergies?
+
+[patient] Yes, I’m allergic to shellfish.
+
+[doctor] Got it. Do you have any chronic conditions apart from PCOS?
+
+[patient] No, none.
+
+[doctor] Let's talk about your social history. What’s your diet like?
+
+[patient] I’m predominantly vegetarian but I do eat fish occasionally. I also consume a lot of caffeine.
+
+[doctor] How about exercise? Do you have a regular routine?
+
+[patient] Yes, I run regularly and participate in local 5k races.
+
+[doctor] That’s good. Do you use tobacco?
+
+[patient] No, I don’t.
+
+[doctor] And how about alcohol?
+
+[patient] I drink socially, about 1-2 drinks per week.
+
+[doctor] Do you use any drugs?
+
+[patient] No, I don’t.
+
+[doctor] Any recreational activities you enjoy?
+
+[patient] Yes, I’m active in community theater and I practice yoga.
+
+[doctor] Thank you for that information. Now, I will need to take some vital signs and conduct a physical exam. 
+
+[patient] Okay.
+
+[doctor] Your heart rate is 110 beats per minute and your blood pressure is 120 over 80 mmHg. Your respiratory rate is 16 breaths per minute, and you’re afebrile. 
+
+[patient] Alright.
+
+[doctor] From the physical exam, I can see you have a thin build and you appear quite anxious. There is a slight goiter palpable in your neck and your heart rate is indeed 110 bpm with a regular rhythm. I also noticed a mild tremor in your outstretched hands.
+
+[patient] What does that mean, Doctor?
+
+[doctor] Based on your symptoms and physical exam, it suggests you might have an endocrine disorder, possibly hyperthyroidism.
+
+[patient] Hyperthyroidism? Can you explain that?
+
+[doctor] Hyperthyroidism is when your thyroid gland produces too much thyroid hormone. It can cause symptoms like palpitations, anxiety, weight loss, heat intolerance, and excessive sweating.
+
+[patient] That sounds like what I’ve been experiencing.
+
+[doctor] Yes, it does. To confirm this, I’d like to order some blood tests to check your thyroid function.
+
+[patient] What kind of tests?
+
+[doctor] We’ll test for TSH, Free T4, Free T3, and anti-thyroid antibodies. We’ll also do a general biochemistry panel.
+
+[patient] Okay, I can do that.
+
+[doctor] In the meantime, I’m going to start you on a medication called Methimazole. You’ll take 10 mg orally once a day. It helps manage hyperthyroid-like symptoms.
+
+[patient] Alright. What about my diet and lifestyle?
+
+[doctor] I recommend increasing your intake of whole grains and lean proteins and reducing your caffeine intake. This might help alleviate some of your symptoms.
+
+[patient] I can do that. When should I follow up?
+
+[doctor] We’ll re-evaluate your thyroid function tests in 1 month. I’d like you to schedule another appointment in 1 month so we can reassess your condition and see how the treatment is working.
+
+[patient] Sounds good. What should I do if my symptoms change?
+
+[doctor] If you notice any significant changes or have concerns, please reach out to the clinic immediately.
+
+[patient] Thank you, Doctor.
+
+[doctor] You’re welcome. I’ll also provide you with educational material on hyperthyroidism and lifestyle modifications. It’s important to understand your condition and treatment options.
+
+[patient] Thanks, I appreciate that.
+
+[doctor] Make sure to schedule your blood tests within the next week, and remember to monitor your symptoms. We’ll see you back here in a month for a follow-up.
+
+[patient] Will do. Thank you so much.
+
+[doctor] Take care. See you in a month.
+
+[patient] Bye, Doctor."|"[doctor] Good morning, how are you today?
+
+[patient] Good morning, Doctor. I’m feeling pretty anxious, to be honest.
+
+[doctor] I understand. What brings you in today?
+
+[patient] I’ve been having severe episodes of palpitations and anxiety for about a month and a half now.
+
+[doctor] Hmm, I see. Can you describe these episodes a bit more?
+
+[patient] Sure. They come on suddenly, and my heart starts racing. I get really anxious, and sometimes I feel like I’m sweating a lot.
+
+[doctor] Hmm, how often do these episodes occur?
+
+[patient] They happen intermittently throughout the day.
+
+[doctor] I see. Have you noticed any other symptoms?
+
+[patient] Yes, I’ve been losing weight without trying, and I can’t stand the heat anymore. I also sweat excessively.
+
+[doctor] That sounds quite uncomfortable. How has this been affecting your daily life?
+
+[patient] It’s really hard to concentrate at work. I have to take frequent breaks because I get so anxious and jittery.
+
+[doctor] I’m sorry to hear that. Let’s go through a detailed review of your systems. Have you experienced significant weight loss recently?
+
+[patient] Yes, I have.
+
+[doctor] And aside from palpitations, any other cardiovascular symptoms?
+
+[patient] No, just the palpitations.
+
+[doctor] How about any issues related to your endocrine system, like heat intolerance or sweating?
+
+[patient] Yes, both. I can’t tolerate the heat and I sweat a lot.
+
+[doctor] Alright. Any neurological symptoms like anxiety, seizures, or fainting episodes?
+
+[patient] Just the anxiety. No seizures or fainting.
+
+[doctor] Thank you for sharing that. Can you tell me about your past medical history?
+
+[patient] I was diagnosed with Polycystic Ovary Syndrome, or PCOS.
+
+[doctor] Okay. Is there any family history of medical conditions?
+
+[patient] Yes, there’s a history of thyroid disorders and heart disease in my family.
+
+[doctor] I see. Are you currently taking any medications?
+
+[patient] I was on oral contraceptives for PCOS, but I’m not taking any medication right now.
+
+[doctor] Any allergies?
+
+[patient] Yes, I’m allergic to shellfish.
+
+[doctor] Got it. Do you have any chronic conditions apart from PCOS?
+
+[patient] No, none.
+
+[doctor] Let's talk about your social history. What’s your diet like?
+
+[patient] I’m predominantly vegetarian but I do eat fish occasionally. I also consume a lot of caffeine.
+
+[doctor] How about exercise? Do you have a regular routine?
+
+[patient] Yes, I run regularly and participate in local 5k races.
+
+[doctor] That’s good. Do you use tobacco?
+
+[patient] No, I don’t.
+
+[doctor] And how about alcohol?
+
+[patient] I drink socially, about 1-2 drinks per week.
+
+[doctor] Do you use any drugs?
+
+[patient] No, I don’t.
+
+[doctor] Any recreational activities you enjoy?
+
+[patient] Yes, I’m active in community theater and I practice yoga.
+
+[doctor] Thank you for that information. Now, I will need to take some vital signs and conduct a physical exam. 
+
+[patient] Okay.
+
+[doctor] Your heart rate is 110 beats per minute and your blood pressure is 120 over 80 mmHg. Your respiratory rate is 16 breaths per minute, and you’re afebrile. 
+
+[patient] Alright.
+
+[doctor] From the physical exam, I can see you have a thin build and you appear quite anxious. There is a slight goiter palpable in your neck and your heart rate is indeed 110 bpm with a regular rhythm. I also noticed a mild tremor in your outstretched hands.
+
+[patient] What does that mean, Doctor?
+
+[doctor] Based on your symptoms and physical exam, it suggests you might have an endocrine disorder, possibly hyperthyroidism.
+
+[patient] Hyperthyroidism? Can you explain that?
+
+[doctor] Hyperthyroidism is when your thyroid gland produces too much thyroid hormone. It can cause symptoms like palpitations, anxiety, weight loss, heat intolerance, and excessive sweating.
+
+[patient] That sounds like what I’ve been experiencing.
+
+[doctor] Yes, it does. To confirm this, I’d like to order some blood tests to check your thyroid function.
+
+[patient] What kind of tests?
+
+[doctor] We’ll test for TSH, Free T4, Free T3, and anti-thyroid antibodies. We’ll also do a general biochemistry panel.
+
+[patient] Okay, I can do that.
+
+[doctor] In the meantime, I’m going to start you on a medication called Methimazole. You’ll take 10 mg orally once a day. It helps manage hyperthyroid-like symptoms.
+
+[patient] Alright. What about my diet and lifestyle?
+
+[doctor] I recommend increasing your intake of whole grains and lean proteins and reducing your caffeine intake. This might help alleviate some of your symptoms.
+
+[patient] I can do that. When should I follow up?
+
+[doctor] We’ll re-evaluate your thyroid function tests in 1 month. I’d like you to schedule another appointment in 1 month so we can reassess your condition and see how the treatment is working.
+
+[patient] Sounds good. What should I do if my symptoms change?
+
+[doctor] If you notice any significant changes or have concerns, please reach out to the clinic immediately.
+
+[patient] Thank you, Doctor.
+
+[doctor] You’re welcome. I’ll also provide you with educational material on hyperthyroidism and lifestyle modifications. It’s important to understand your condition and treatment options.
+
+[patient] Thanks, I appreciate that.
+
+[doctor] Make sure to schedule your blood tests within the next week, and remember to monitor your symptoms. We’ll see you back here in a month for a follow-up.
+
+[patient] Will do. Thank you so much.
+
+[doctor] Take care. See you in a month.
+
+[patient] Bye, Doctor."
+ENDOCRINE DISORDER, UNSPECIFIED|"**ROLE:** Endocrinologist
+
+**Scenario:**
+
+- **Medical Outcome:**
+  - **Diagnosis:** Endocrine Disorder, Unspecified (ICD-10: E34.9)
+  - **Prescribed Treatment:** 
+    - Metformin 500 mg, Oral, twice daily, 60 tablets, 30 days
+  - **Follow-up Recommendations:** Return for a follow-up visit in 6 weeks.
+  - **Referral:** Referral to a dietitian for nutritional counseling, Dr. Susan Lee.
+  - **Blood Work:** 
+    - Biochemistry: Complete Metabolic Panel
+    - Hematology: CBC with Differential
+    - Thyroid Panel: TSH, Free T3, Free T4
+    - Hormone Panel: Cortisol, ACTH, LH, FSH
+  - **Imaging:** MRI of the Pituitary Gland
+
+- **Medical History:**
+  - **Previous Diagnoses:** Type 2 Diabetes Mellitus, Hypertension
+  - **Family Medical History:** Mother with Hypothyroidism; Father with Type 2 Diabetes and Coronary Artery Disease 
+  - **Medication History:** Currently on Lisinopril 20 mg daily, Metformin 500 mg twice daily
+  - **Allergies:** No known drug allergies
+  - **Chronic Conditions:** Type 2 Diabetes Mellitus, Hypertension
+
+- **Symptom Description:**
+  - **Severity:** Moderate
+  - **Duration:** 3 months
+  - **Associated Symptoms:** Fatigue, unexplained weight gain, frequent headaches, irregular menstrual cycles
+  - **Frequency:** Symptoms occur daily
+  - **Impact on Daily Activities:** Difficulty concentrating at work, increased absenteeism
+
+- **Patient’s self-reported habits and lifestyle:**
+  - **Sleep:** Reports poor sleep, averaging 4-5 hours per night
+  - **Diet:** High in processed foods, low in fruits and vegetables
+  - **Exercise:** Sedentary lifestyle
+  - **Tobacco Use:** Non-smoker
+  - **Alcohol Consumption:** Drinks wine occasionally, about 1 glass per week
+  - **Drug Use:** Denies any recreational drug use
+  - **Recreational Activities:** Limited to watching TV and reading
+
+- **Demographic Information:**
+  - **Age:** 38
+  - **Gender:** Female
+  - **Ethnicity:** Hispanic
+  - **Socio-economic Status:** Middle class
+  - **Education Level:** Bachelor's degree
+  - **Health Literacy:** Moderate understanding of health issues
+  - **Job Status:** Office worker, full-time
+
+- **Patient's Behavior:** Generally cooperative but expresses difficulty in adhering to complex treatment plans.
+
+- **Geographical Location:**
+  - **Big City vs Small City:** Urban
+  - **Pollution and Environmental Health Risks:** Moderate pollution levels
+  - **Neighborhood Type:** Middle-class neighborhood, well-served by public transit
+
+- **Clinical Setting:** Specialty Clinic, Endocrinology Department
+
+- **Type of Encounter:** Initial Consultation
+
+- **Treatment Disparities:** No significant disparities noted; patient indicates good insurance coverage.
+
+- **Native or Non-Native English Speaking Patient:** Native English Speaker
+
+- **Physical exams:** 
+  - **General**: BMI of 28, mildly elevated blood pressure 145/90 mmHg
+  - **Thyroid**: Palpable thyroid nodules, mild enlargement
+  - **Skin**: Dry skin, slightly tanned complexion
+  - **Neurological**: Mild tremor in hands
+
+- **Investigation/Test results:** Awaiting results for blood work and imaging as described above (MRI of the Pituitary Gland)."|"#####
+
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Fatigue, unexplained weight gain, frequent headaches, and irregular menstrual cycles for the past 3 months.
+
+**History of Present Illness (HPI):**
+The patient, a 38-year-old Hispanic female, presents with a 3-month history of daily fatigue, unexplained weight gain, frequent headaches, and irregular menstrual cycles. These symptoms have significantly impacted her daily life, causing difficulty concentrating at work and increased absenteeism. She reports a moderate severity of symptoms. 
+
+**Medical History:**
+- **Previous Diagnoses:** Type 2 Diabetes Mellitus, Hypertension
+- **Family Medical History:** Mother has hypothyroidism; father has type 2 diabetes and coronary artery disease.
+- **Medication History:** Currently on Lisinopril 20 mg daily, Metformin 500 mg twice daily.
+- **Allergies:** No known drug allergies.
+- **Chronic Conditions:** Type 2 Diabetes Mellitus, Hypertension.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports fatigue.
+- **HENT:** Reports frequent headaches.
+- **Endocrine:** Reports weight gain, irregular menstrual cycles.
+- **Neurological:** Denies dizziness or focal neurological deficits.
+- **Psychiatric:** Denies anxiety or depression.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 145/90 mmHg
+- Weight: 176 lbs (80 kg)
+- Height: 5'5"" (165 cm)
+- BMI: 28 
+
+**Physical Examination:**
+- **General:** Well-nourished, mildly overweight female in no acute distress.
+- **Thyroid:** Palpable thyroid nodules, mild enlargement.
+- **Skin:** Dry skin, slightly tanned complexion.
+- **Neurological:** Mild tremor in both hands, no focal neurological deficits.
+
+**Investigation/Test Results:**
+Awaiting results for blood work (Complete Metabolic Panel, CBC with Differential, TSH, Free T3, Free T4, Cortisol, ACTH, LH, FSH) and MRI of the Pituitary Gland.
+
+**3. Assessment:**
+- **Endocrine Disorder, Unspecified (ICD-10: E34.9)**
+  - The patient's symptoms of fatigue, weight gain, headaches, and irregular menstrual cycles, along with the presence of thyroid nodules, suggest an underlying endocrine disorder. Further evaluation through blood work and imaging is needed for a definitive diagnosis.
+
+**4. Plan:**
+- **Medical Treatment:**
+  - Continue Metformin 500 mg, Oral, twice daily, 60 tablets, 30 days.
+  
+- **Follow-Up:**
+  - Return for a follow-up visit in 6 weeks.
+  
+- **Referral:**
+  - Referral to a dietitian for nutritional counseling, Dr. Susan Lee.
+  
+- **Investigations:**
+  - Complete Metabolic Panel.
+  - CBC with Differential.
+  - Thyroid Panel: TSH, Free T3, Free T4.
+  - Hormone Panel: Cortisol, ACTH, LH, FSH.
+  - MRI of the Pituitary Gland.
+  
+- **Patient Education and Counseling:**
+  - Discussed the importance of a balanced diet and regular exercise. 
+  - Emphasized adherence to prescribed medications and follow-up appointments.
+  - Provided information on how to reach Dr. Susan Lee for nutritional counseling.
+  
+- **Lifestyle Modifications:**
+  - Encourage the patient to improve sleep hygiene to aim for 7-8 hours of sleep per night.
+  - Recommend gradual introduction of more fruits and vegetables into her diet and reduction of processed foods.
+  - Advise starting a light exercise routine, such as walking for 30 minutes daily.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan. She expressed concerns about adhering to lifestyle changes but is willing to work with a dietitian to improve her nutrition and overall health."|"#####
+
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Fatigue, unexplained weight gain, frequent headaches, and irregular menstrual cycles for the past 3 months.
+
+**History of Present Illness (HPI):**
+The patient, a 38-year-old Hispanic female, presents with a 3-month history of daily fatigue, unexplained weight gain, frequent headaches, and irregular menstrual cycles. These symptoms have significantly impacted her daily life, causing difficulty concentrating at work and increased absenteeism. She reports a moderate severity of symptoms. 
+
+**Medical History:**
+- **Previous Diagnoses:** Type 2 Diabetes Mellitus, Hypertension
+- **Family Medical History:** Mother has hypothyroidism; father has type 2 diabetes and coronary artery disease.
+- **Medication History:** Currently on Lisinopril 20 mg daily, Metformin 500 mg twice daily.
+- **Allergies:** No known drug allergies.
+- **Chronic Conditions:** Type 2 Diabetes Mellitus, Hypertension.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports fatigue.
+- **HENT:** Reports frequent headaches.
+- **Endocrine:** Reports weight gain, irregular menstrual cycles.
+- **Neurological:** Denies dizziness or focal neurological deficits.
+- **Psychiatric:** Denies anxiety or depression.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 145/90 mmHg
+- Weight: 176 lbs (80 kg)
+- Height: 5'5"" (165 cm)
+- BMI: 28 
+
+**Physical Examination:**
+- **General:** Well-nourished, mildly overweight female in no acute distress.
+- **Thyroid:** Palpable thyroid nodules, mild enlargement.
+- **Skin:** Dry skin, slightly tanned complexion.
+- **Neurological:** Mild tremor in both hands, no focal neurological deficits.
+
+**3. Assessment:**
+- **Endocrine Disorder, Unspecified (ICD-10: E34.9)**
+  - The patient's symptoms of fatigue, weight gain, headaches, and irregular menstrual cycles, along with the presence of thyroid nodules, suggest an underlying endocrine disorder. Further evaluation through blood work and imaging is needed for a definitive diagnosis.
+
+**4. Plan:**
+- **Medical Treatment:**
+  - Continue Metformin 500 mg, Oral, twice daily, 60 tablets, 30 days.
+  
+- **Follow-Up:**
+  - Return for a follow-up visit in 6 weeks.
+  
+- **Referral:**
+  - Referral to a dietitian for nutritional counseling, Dr. Susan Lee.
+  
+- **Investigations:**
+  - Complete Metabolic Panel.
+  - CBC with Differential.
+  - Thyroid Panel: TSH, Free T3, Free T4.
+  - Hormone Panel: Cortisol, ACTH, LH, FSH.
+  - MRI of the Pituitary Gland.
+  
+- **Patient Education and Counseling:**
+  - Discussed the importance of a balanced diet and regular exercise. 
+  - Emphasized adherence to prescribed medications and follow-up appointments.
+  - Provided information on how to reach Dr. Susan Lee for nutritional counseling.
+  
+- **Lifestyle Modifications:**
+  - Encourage the patient to improve sleep hygiene to aim for 7-8 hours of sleep per night.
+  - Recommend gradual introduction of more fruits and vegetables into her diet and reduction of processed foods.
+  - Advise starting a light exercise routine, such as walking for 30 minutes daily.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan. She expressed concerns about adhering to lifestyle changes but is willing to work with a dietitian to improve her nutrition and overall health."|"#####
+
+**1. Subjective:**
+
+**CC:**
+Fatigue, unexplained wt gain, frequent HA, and irregular menses for the past 3 mos.
+
+**HPI:**
+The pt, a 38 y/o Hispanic F, presents with a 3-mo hx of daily fatigue, unexplained wt gain, frequent HA, and irregular menses. These sx have significantly impacted her daily life, causing difficulty concentrating at work and increased absenteeism. She reports a moderate severity of sx.
+
+**Medical Hx:**
+- **Previous Dx:** T2DM, HTN
+- **Family Hx:** Mother has hypothyroidism; father has T2DM and CAD.
+- **Meds:** Currently on Lisinopril 20 mg daily, Metformin 500 mg BID.
+- **Allergies:** NKDA.
+- **Chronic Conditions:** T2DM, HTN.
+
+**ROS:**
+- **Constitutional:** Reports fatigue.
+- **HENT:** Reports frequent HA.
+- **Endocrine:** Reports wt gain, irregular menses.
+- **Neuro:** Denies dizziness or focal neuro deficits.
+- **Psych:** Denies anxiety or depression.
+
+**2. Objective:**
+
+**VS:**
+- BP: 145/90 mmHg
+- Wt: 176 lbs (80 kg)
+- Ht: 5'5"" (165 cm)
+- BMI: 28 
+
+**PE:**
+- **General:** Well-nourished, mildly overweight F in NAD.
+- **Thyroid:** Palpable thyroid nodules, mild enlargement.
+- **Skin:** Dry skin, slightly tanned complexion.
+- **Neuro:** Mild tremor in both hands, no focal neuro deficits.
+
+**3. Assessment:**
+- **Endocrine Disorder, Unspecified (ICD-10: E34.9)**
+  - The pt's sx of fatigue, wt gain, HA, and irregular menses, along with the presence of thyroid nodules, suggest an underlying endocrine disorder. Further eval through blood work and imaging is needed for a definitive dx.
+
+**4. Plan:**
+- **Medical Tx:**
+  - Continue Metformin 500 mg PO BID, 60 tabs, 30 days.
+  
+- **F/U:**
+  - Return for a F/U visit in 6 wks.
+  
+- **Referral:**
+  - Referral to a dietitian for nutritional counseling, Dr. Susan Lee.
+  
+- **Investigations:**
+  - CMP.
+  - CBC w/ Diff.
+  - Thyroid Panel: TSH, Free T3, Free T4.
+  - Hormone Panel: Cortisol, ACTH, LH, FSH.
+  - MRI of the Pituitary Gland.
+  
+- **Pt Education and Counseling:**
+  - Discussed the importance of a balanced diet and regular exercise. 
+  - Emphasized adherence to prescribed meds and F/U appts.
+  - Provided info on how to reach Dr. Susan Lee for nutritional counseling.
+  
+- **Lifestyle Modifications:**
+  - Encourage the pt to improve sleep hygiene to aim for 7-8 hrs of sleep per night.
+  - Recommend gradual introduction of more fruits and vegetables into her diet and reduction of processed foods.
+  - Advise starting a light exercise routine, such as walking for 30 mins daily.
+
+Pt Agreements: The pt understands and agrees with the recommended medical tx plan. She expressed concerns about adhering to lifestyle changes but is willing to work with a dietitian to improve her nutrition and overall health."|Role not found in the first 5 lines.|"**Doctor:** Hi, how are you doing today?
+
+**Patient:** Hi, I'm okay, but I've been feeling really tired lately.
+
+**Doctor:** I see. The medical assistant mentioned you’ve been experiencing fatigue, unexplained weight gain, frequent headaches, and irregular menstrual cycles for the past 3 months. Is that correct?
+
+**Patient:** Yes, that's right. It's been really tough.
+
+**Doctor:** Can you tell me more about the fatigue? How long has it been going on, and how severe is it?
+
+**Patient:** It's been happening every day for the last three months. I feel exhausted all the time, even after a full night’s sleep.
+
+**Doctor:** I understand. Has this fatigue affected your daily activities?
+
+**Patient:** Yes, it definitely has. I'm having trouble concentrating at work and have had to take more days off because I just can't keep up.
+
+**Doctor:** That must be very frustrating. Let's talk about your weight gain. How much weight have you gained?
+
+**Patient:** I've gained about 10 pounds, and I haven't changed my diet or exercise routine.
+
+**Doctor:** I see. And what about the headaches? How often are you getting them and how severe are they?
+
+**Patient:** I get headaches almost every day. They’re pretty moderate, but they make it hard to focus.
+
+**Doctor:** Okay. What about your menstrual cycles? How have they been irregular?
+
+**Patient:** They’ve become very unpredictable. Sometimes I skip a month, and then other times they’re very heavy and painful.
+
+**Doctor:** Alright. It sounds like these symptoms are significantly impacting your life. Let’s go over your medical history. You have Type 2 Diabetes Mellitus and Hypertension, correct?
+
+**Patient:** Yes, that’s right. 
+
+**Doctor:** Are you currently taking any medications for these conditions?
+
+**Patient:** Yes, I take Lisinopril 20 mg daily for my blood pressure and Metformin 500 mg twice daily for my diabetes.
+
+**Doctor:** Good to know. Do you have any drug allergies?
+
+**Patient:** No, I don’t have any known drug allergies.
+
+**Doctor:** And your family medical history? Any conditions that run in the family?
+
+**Patient:** My mother has hypothyroidism and my father has type 2 diabetes and coronary artery disease.
+
+**Doctor:** Thank you for sharing that. Let’s review your symptoms more systematically. Besides the fatigue and headaches, have you noticed any dizziness or focal neurological deficits?
+
+**Patient:** No, I haven’t had any dizziness or anything like that.
+
+**Doctor:** How about anxiety or depression?
+
+**Patient:** No, I don’t think so.
+
+**Doctor:** Alright. I’m going to take a look at your vital signs and perform a physical examination now. Your blood pressure is at 145/90 mmHg. You weigh 176 pounds and your height is 5'5"", which gives you a BMI of 28. 
+
+**Doctor:** Let’s start with a general exam. You look well-nourished and mildly overweight, but you’re not in any acute distress. Now, let me check your thyroid. 
+
+**Doctor:** I can feel some thyroid nodules and there’s mild enlargement. Your skin seems dry, but there's no significant discoloration. 
+
+**Doctor:** I’m also noticing a mild tremor in both of your hands, but there are no other focal neurological deficits.
+
+**Patient:** Okay.
+
+**Doctor:** I’m going to order some blood tests including a Complete Metabolic Panel, CBC with Differential, TSH, Free T3, Free T4, Cortisol, ACTH, LH, and FSH. We will also need an MRI of your Pituitary Gland to get a clearer picture of what might be going on.
+
+**Patient:** That sounds like a lot of tests.
+
+**Doctor:** I understand it can be overwhelming, but these tests are necessary to pinpoint the cause of your symptoms. Your symptoms suggest an underlying endocrine disorder, and we need these tests to make a definitive diagnosis.
+
+**Patient:** Alright, I trust you.
+
+**Doctor:** In the meantime, continue taking your Metformin 500 mg twice daily as prescribed. We’ll also refer you to a dietitian, Dr. Susan Lee, for nutritional counseling.
+
+**Patient:** That sounds good.
+
+**Doctor:** We’ll schedule a follow-up visit in 6 weeks to review your test results and discuss your progress. It’s important to stick to your medication and follow-up appointments.
+
+**Patient:** I will.
+
+**Doctor:** Let’s also discuss some lifestyle modifications. A balanced diet and regular exercise can make a big difference. Improving your sleep hygiene to aim for 7-8 hours of sleep per night is crucial.
+
+**Patient:** I’ve been struggling with sleep too. I’ll try to get better at it.
+
+**Doctor:** Gradually introduce more fruits and vegetables into your diet, and reduce processed foods. Start a light exercise routine, like walking for 30 minutes daily.
+
+**Patient:** I’ll do my best.
+
+**Doctor:** Great. Do you have any questions or concerns?
+
+**Patient:** I’m a bit worried about sticking to these lifestyle changes, but I’m willing to work with the dietitian.
+
+**Doctor:** That’s a good plan. Dr. Susan Lee will help you create a sustainable diet plan. If you have any issues or questions, don’t hesitate to reach out.
+
+**Patient:** Alright, thank you.
+
+**Doctor:** You're welcome. Take care, and we’ll see you in 6 weeks for your follow-up.
+
+**Patient:** Thank you, Doctor. Bye.
+
+**Doctor:** Goodbye."|"[doctor]: Hi, how are you doing today?
+
+[patient]: Hi, I'm okay, but I've been feeling really tired lately.
+
+[doctor]: Hmm, I see. The medical assistant mentioned you’ve been experiencing fatigue, unexplained weight gain, frequent headaches, and irregular menstrual cycles for the past 3 months. Is that correct?
+
+[patient]: Yes, that's right. It's been really tough.
+
+[doctor]: Can you tell me more about the fatigue? How long has it been going on, and how severe is it?
+
+[patient]: It's been happening every day for the last three months. I feel exhausted all the time, even after a full night’s sleep.
+
+[doctor]: I understand. Has this fatigue affected your daily activities?
+
+[patient]: Yes, it definitely has. I'm having trouble concentrating at work and have had to take more days off because I just can't keep up.
+
+[doctor]: That must be very frustrating. Let's talk about your weight gain. How much weight have you gained?
+
+[patient]: I've gained about 10 pounds, and I haven't changed my diet or exercise routine.
+
+[doctor]: I see. And what about the headaches? How often are you getting them and how severe are they?
+
+[patient]: I get headaches almost every day. They’re pretty moderate, but they make it hard to focus.
+
+[doctor]: Okay. What about your menstrual cycles? How have they been irregular?
+
+[patient]: They’ve become very unpredictable. Sometimes I skip a month, and then other times they’re very heavy and painful.
+
+[doctor]: Alright. It sounds like these symptoms are significantly impacting your life. Let’s go over your medical history. You have Type 2 Diabetes Mellitus and Hypertension, correct?
+
+[patient]: Yes, that’s right. 
+
+[doctor]: Are you currently taking any medications for these conditions?
+
+[patient]: Yes, I take Lisinopril 20 mg daily for my blood pressure and Metformin 500 mg twice daily for my diabetes.
+
+[doctor]: Good to know. Do you have any drug allergies?
+
+[patient]: No, I don’t have any known drug allergies.
+
+[doctor]: And your family medical history? Any conditions that run in the family?
+
+[patient]: My mother has hypothyroidism and my father has type 2 diabetes and coronary artery disease.
+
+[doctor]: Thank you for sharing that. Let’s review your symptoms more systematically. Besides the fatigue and headaches, have you noticed any dizziness or focal neurological deficits?
+
+[patient]: No, I haven’t had any dizziness or anything like that.
+
+[doctor]: How about anxiety or depression?
+
+[patient]: No, I don’t think so.
+
+[doctor]: Alright. I’m going to take a look at your vital signs and perform a physical examination now. Your blood pressure is at 145/90 mmHg. You weigh 176 pounds and your height is 5'5"", which gives you a BMI of 28. 
+
+[doctor]: Let’s start with a general exam. You look well-nourished and mildly overweight, but you’re not in any acute distress. Now, let me check your thyroid. 
+
+[doctor]: I can feel some thyroid nodules and there’s mild enlargement. Your skin seems dry, but there's no significant discoloration. 
+
+[doctor]: I’m also noticing a mild tremor in both of your hands, but there are no other focal neurological deficits.
+
+[patient]: Okay.
+
+[doctor]: I’m going to order some blood tests including a Complete Metabolic Panel, CBC with Differential, TSH, Free T3, Free T4, Cortisol, ACTH, LH, and FSH. We will also need an MRI of your Pituitary Gland to get a clearer picture of what might be going on.
+
+[patient]: That sounds like a lot of tests.
+
+[doctor]: I understand it can be overwhelming, but these tests are necessary to pinpoint the cause of your symptoms. Your symptoms suggest an underlying endocrine disorder, and we need these tests to make a definitive diagnosis.
+
+[patient]: Alright, I trust you.
+
+[doctor]: In the meantime, continue taking your Metformin 500 mg twice daily as prescribed. We’ll also refer you to a dietitian, Dr. Susan Lee, for nutritional counseling.
+
+[patient]: That sounds good.
+
+[doctor]: We’ll schedule a follow-up visit in 6 weeks to review your test results and discuss your progress. It’s important to stick to your medication and follow-up appointments.
+
+[patient]: I will.
+
+[doctor]: Let’s also discuss some lifestyle modifications. A balanced diet and regular exercise can make a big difference. Improving your sleep hygiene to aim for 7-8 hours of sleep per night is crucial.
+
+[patient]: I’ve been struggling with sleep too. I’ll try to get better at it.
+
+[doctor]: Gradually introduce more fruits and vegetables into your diet, and reduce processed foods. Start a light exercise routine, like walking for 30 minutes daily.
+
+[patient]: I’ll do my best.
+
+[doctor]: Great. Do you have any questions or concerns?
+
+[patient]: I’m a bit worried about sticking to these lifestyle changes, but I’m willing to work with the dietitian.
+
+[doctor]: That’s a good plan. Dr. Susan Lee will help you create a sustainable diet plan. If you have any issues or questions, don’t hesitate to reach out.
+
+[patient]: Alright, thank you.
+
+[doctor]: You're welcome. Take care, and we’ll see you in 6 weeks for your follow-up.
+
+[patient]: Thank you, Doctor. Bye.
+
+[doctor]: Goodbye."
+ENDOCRINE DISORDER, UNSPECIFIED|"ROLE: Endocrinologist
+
+- **Medical Outcome**: 
+  - Diagnosis: Endocrine Disorder, Unspecified (ICD-10: E34.9)
+  - Prescribed Treatment: Levothyroxine, 50 mcg, oral, daily, 3 months supply
+  - Follow-up Recommendations: Revisit in 3 months for medication adjustment if needed
+  - Referral to Specialists: Nutritionist for dietary management, Dr. Susan Lee
+  - Referral to Further Tests: Blood work for thyroid function tests (TFT), including TSH, Free T4, and Free T3 levels
+  - Lifestyle Change: Emphasis on regular exercise, balanced diet, and adequate sleep
+
+- **Medical History**: 
+  - Previous Diagnoses: Hypertension
+  - Family Medical History: Mother with Type 2 Diabetes, Father had Hyperthyroidism
+  - Medication History: Recently stopped taking Metformin due to GI upset
+  - Allergies: Penicillin (rash)
+  - Chronic Conditions: Hypertension
+
+- **Symptom Description**: 
+  - Severity: Moderate
+  - Duration: 6 months
+  - Associated Symptoms: Fatigue, weight gain, cold intolerance, dry skin
+  - Frequency: Daily
+  - Impact on Daily Activities: Difficulty in concentrating at work, feels exhausted by mid-afternoon
+
+- **Patient’s Self-Reported Habits and Lifestyle**: 
+  - Sleep: 6 hours per night, often interrupted
+  - Diet: High in refined carbs and processed foods, low in fruits and vegetables
+  - Exercise: Sedentary, minimal physical activity
+  - Tobacco Use: None
+  - Alcohol Consumption: Occasional, 1-2 glasses of wine per week
+  - Drug Use: None
+  - Recreational Activities: Enjoys watching TV, minimal outdoor activities
+
+- **Demographic Information**: 
+  - Age: 45
+  - Gender: Female
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Middle class
+  - Education Level: College graduate
+  - Health Literacy: Moderate
+  - Job Status: Full-time office administrator
+
+- **Patient's Behavior**: 
+  - Level of Cooperation: Generally compliant with medical advice but expresses frustration over lack of symptom improvement
+
+- **Geographical Location**: 
+  - Urban setting in a medium-sized city
+  - Neighborhood Type: Safe, middle-income area
+  - Well-served by Transit: Yes
+
+- **Clinical Setting**: 
+  - Private Practice
+
+- **Type of Encounter**: 
+  - Initial Consultation
+
+- **Treatment Disparities**: 
+  - None noted
+
+- **Native or Non-Native English Speaking Patient**: 
+  - Native English-speaking
+
+- **Physical exams**: 
+  - General Physical Exam: Noted dry skin, slight periorbital puffiness
+  - Cardiac Exam: Regular rate and rhythm, no murmurs
+  - Thyroid Exam: Mildly enlarged, no nodules palpated
+
+- **Investigation/Test results**: 
+  - Blood work for thyroid function tests (awaiting results)"|Rejected|Rejected|Rejected|Rejected||
+ENDOCRINE DISORDER, UNSPECIFIED|"ROLE: Endocrinologist
+
+1) Medical Outcome: 
+   - Diagnosis: Endocrine disorder, unspecified
+   - Prescribed Treatment: Levothyroxine, 50 mcg, oral, once daily, for 3 months
+   - Follow-up recommendations: Follow-up visit in 3 months
+   - Referral to specialists: 
+     - Reason: Unexplained weight gain and fatigue
+     - Specialty: Nutritionist
+     - Doctor's Name: Dr. Karen Smith
+   - Order for blood work:
+     - Biochemistry: TSH, Free T4, Free T3, CBC, metabolic panel
+
+2) Medical History:
+   - Previous Diagnoses: Hypothyroidism (5 years ago, resolved), Gestational diabetes (2 years ago)
+   - Family Medical History: Mother had Type 2 diabetes, Father had hypertension
+   - Medication History: Prenatal vitamins (2 years ago), Metformin (during pregnancy)
+   - Allergies: None
+   - Chronic Conditions: None currently active
+
+3) Symptom Description:
+   - Severity: Moderate
+   - Duration: 6 months
+   - Associated Symptoms: Fatigue, weight gain, cold intolerance, hair thinning
+   - Frequency: Daily
+   - Impact on Daily Activities: Decreased energy affecting work performance and family life
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: 6 hours per night, reports feeling unrested
+   - Diet: Moderate intake of processed foods, inconsistent meals
+   - Exercise: Rarely exercises, primarily sedentary lifestyle
+   - Tobacco Use: None
+   - Alcohol Consumption: Occasional social drinking, 1-2 times a month
+   - Drug Use: None
+   - Recreational Activities: Enjoys reading and watching television
+
+5) Demographic Information:
+   - Age: 32
+   - Gender: Female
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Middle class
+   - Education Level: Bachelor's Degree
+   - Health Literacy: Average
+   - Job Status: Full-time administrative assistant
+
+6) Patient's Behavior:
+   - Patient cooperation with medical advice: Generally cooperative, expressed willingness to adhere to recommendations
+
+7) Geographical Location:
+   - Big City vs. Small City: Big City
+   - Rural vs. Urban: Urban
+   - Pollution and Environmental Health Risks: Moderate air pollution
+   - Neighborhood Type: Middle-class residential neighborhood, well-served by public transit, not a food desert
+
+8) Clinical Setting:
+   - Specialty Clinic: Endocrinology Clinic
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities: 
+   - No notable disparities noted for this patient's demographic, economic and geographic background
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English Speaking Patient
+
+12) Physical exams:
+   - General Appearance: Slightly overweight, appearing fatigued
+   - Thyroid Palpation: Slightly enlarged, nodules not palpable
+   - Skin: Dry skin noted, particularly on elbows and knees
+
+13) Investigation/Test results:
+   - Awaiting blood work results: TSH, Free T4, Free T3, CBC, metabolic panel"|Rejected|Rejected|Rejected|Rejected||
+ENDOCRINE DISORDER, UNSPECIFIED|"ROLE: Endocrinologist
+
+1) Medical Outcome:
+   - Diagnosis: Endocrine disorder, unspecified
+   - Prescribed Treatment: Sitagliptin, 100 mg, oral, once daily, for 3 months
+   - Follow-up recommendations: Follow-up visit in 3 months
+   - Referral to specialists:
+     - Reason: Elevated blood sugar levels despite lifestyle changes
+     - Specialty: Diabetes educator
+     - Doctor's Name: Dr. Emily Johnson
+   - Order for blood work:
+     - Biochemistry: Hemoglobin A1c, blood glucose, lipid panel
+
+2) Medical History:
+   - Previous Diagnoses: Pre-diabetes (1 year ago), Polycystic Ovary Syndrome (PCOS) (3 years ago)
+   - Family Medical History: Mother had breast cancer, Father had hyperlipidemia
+   - Medication History: Birth control pills (for PCOS), Metformin (for pre-diabetes)
+   - Allergies: Penicillin
+   - Chronic Conditions: PCOS
+
+3) Symptom Description:
+   - Severity: Mild to moderate
+   - Duration: 4 months
+   - Associated Symptoms: Excessive thirst, frequent urination, mild fatigue
+   - Frequency: Daily
+   - Impact on Daily Activities: Slight difficulty with concentration at work
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: 7-8 hours per night
+   - Diet: Low-carb diet, avoids sugary foods
+   - Exercise: Jogging 3 times a week
+   - Tobacco Use: None
+   - Alcohol Consumption: None
+   - Drug Use: None
+   - Recreational Activities: Enjoys hiking and cooking
+
+5) Demographic Information:
+   - Age: 45
+   - Gender: Male
+   - Ethnicity: Asian
+   - Socio-economic Status: Upper middle class
+   - Education Level: Master's Degree
+   - Health Literacy: High
+   - Job Status: Software Engineer
+
+6) Patient's Behavior:
+   - Patient cooperation with medical advice: Very cooperative, actively engaged in managing health
+
+7) Geographical Location:
+   - Big City vs. Small City: Small City
+   - Rural vs. Urban: Rural
+   - Pollution and Environmental Health Risks: Low air pollution
+   - Neighborhood Type: Affluent, well-served by private vehicles, not a food desert
+
+8) Clinical Setting:
+   - Specialty Clinic: Endocrinology Clinic
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - No notable disparities noted for this patient's demographic, economic, and geographic background
+
+11) Native or Non-Native English Speaking Patient:
+   - Non-Native English Speaking Patient (fluent in English)
+
+12) Physical exams:
+   - General Appearance: Mildly overweight
+   - Skin: Mild acanthosis nigricans around the neck
+
+13) Investigation/Test results:
+   - Awaiting blood work results: Hemoglobin A1c, blood glucose, lipid panel"|Rejected|Rejected|Rejected|Rejected||
+ENDOCRINE DISORDER, UNSPECIFIED|"ROLE: Endocrinologist
+
+---
+1) Medical Outcome:
+   - Diagnosis: Endocrine disorder, unspecified
+   - Prescribed Treatment: Levothyroxine 50 mcg, oral, once daily, for hypothyroid symptoms, with follow-up in 6 weeks to reassess.
+   - Follow-up Recommendations: Re-evaluate thyroid function tests (TSH, Free T4) in 6 weeks.
+   - Referral to Further Tests: Blood work for thyroid function tests (TSH, Free T4, Free T3, Thyroid antibodies), HbA1c, fasting blood glucose, fasting lipid profile, and adrenal function test (ACTH, cortisol levels).
+   - Lifestyle Change: Dietary modifications to include more iodine-rich foods and reducing processed foods intake.
+
+2) Medical History:
+   - Previous Diagnoses: Borderline hypothyroidism.
+   - Family Medical History: Family history of diabetes and hypertension.
+   - Medication History: Formerly on metformin for borderline diabetes, currently not taking any medication.
+   - Allergies: Penicillin.
+   - Chronic Conditions: Mild hypertension.
+
+3) Symptom Description:
+   - Severity: Moderate fatigue and weight gain.
+   - Duration: Approximately 3 months.
+   - Associated Symptoms: Dry skin, hair thinning, cold intolerance.
+   - Frequency: Daily.
+   - Impact on Daily Activities: Reduced energy affecting work performance and routine activities.
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Reports 6-7 hours of interrupted sleep per night.
+   - Diet: High in processed foods, low in fruits and vegetables.
+   - Exercise: Sedentary lifestyle with minimal physical activity.
+   - Tobacco Use: None.
+   - Alcohol Consumption: Occasional, 1-2 glasses of wine per week.
+   - Drug Use: None.
+   - Recreational Activities: Enjoys reading and gardening.
+
+5) Demographic Information:
+   - Age: 45
+   - Gender: Female
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: Moderate
+   - Job Status: Office worker
+
+6) Patient's Behavior:
+   - Cooperation: Highly cooperative and motivated to follow medical advice.
+
+7) Geographical Location:
+   - Big City vs Small City: Urban
+   - Pollution and Environmental Health Risks: Low pollution area.
+   - Neighborhood Type: Affluent
+   - Well-served by Transit: Well-served
+   - Food Desert: No
+
+8) Clinical Setting:
+   - Specialty Clinic
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - NA
+   
+11) Native or Non-Native English Speaking Patient:
+   - Native English-speaking patient
+
+12) Physical exams:
+   - General Physical Exam: Notable for mild dry skin and thinning hair. Otherwise, physical examination unremarkable.
+
+13) Investigation/Test results:
+   - Awaiting: Blood work for thyroid function tests (TSH, Free T4, Free T3, Thyroid antibodies), HbA1c, fasting blood glucose, fasting lipid profile, and adrenal function test (ACTH, cortisol levels)."|Rejected|Rejected|Rejected|Rejected||
+ENDOCRINE DISORDER, UNSPECIFIED|"ROLE: Endocrinologist
+
+---
+1) Medical Outcome:
+   - Diagnosis: Endocrine disorder, unspecified
+   - Prescribed Treatment: Starting on Prednisone 20 mg, oral, twice daily for 5 days, then taper over the next 10 days (for adrenal insufficiency symptoms).
+   - Follow-up Recommendations: Re-evaluate adrenal function and electrolytes in 2 weeks.
+   - Referral to Further Tests: Blood work for adrenal function tests (ACTH, cortisol levels), thyroid function tests (TSH, Free T4, Free T3), and basic metabolic panel.
+   - Lifestyle Change: Stress management techniques, regular meal times, and increase salt intake.
+
+2) Medical History:
+   - Previous Diagnoses: Anemia, resolved.
+   - Family Medical History: Family history of autoimmunity (rheumatoid arthritis and Type 1 diabetes).
+   - Medication History: Iron supplements in the past for anemia, currently not on any medication.
+   - Allergies: None.
+   - Chronic Conditions: None.
+
+3) Symptom Description:
+   - Severity: Severe fatigue and muscle weakness.
+   - Duration: Approximately 1 month.
+   - Associated Symptoms: Nausea, low blood pressure, hyperpigmentation.
+   - Frequency: Daily.
+   - Impact on Daily Activities: Difficulties performing routine tasks and maintaining job performance.
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Reports difficulty falling asleep, averaging 5-6 hours of restless sleep per night.
+   - Diet: Low in sodium, vegetarian diet.
+   - Exercise: Occasional yoga, mostly sedentary.
+   - Tobacco Use: Smokes half a pack of cigarettes per day.
+   - Alcohol Consumption: None.
+   - Drug Use: None.
+   - Recreational Activities: Enjoys painting and taking care of pets.
+
+5) Demographic Information:
+   - Age: 60
+   - Gender: Male
+   - Ethnicity: African American
+   - Socio-economic Status: Lower middle class
+   - Education Level: High school graduate
+   - Health Literacy: Low
+   - Job Status: Retired factory worker
+
+6) Patient's Behavior:
+   - Cooperation: Willing to follow medical advice but concerned about medication side effects.
+
+7) Geographical Location:
+   - Big City vs Small City: Big City
+   - Pollution and Environmental Health Risks: High pollution area.
+   - Neighborhood Type: Impoverished
+   - Well-served by Transit: Poorly served
+   - Food Desert: Yes
+
+8) Clinical Setting:
+   - Community Health Services
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - Limited access to specialty care due to insurance constraints.
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English-speaking patient
+
+12) Physical exams:
+   - General Physical Exam: Noticeable hyperpigmentation especially on knuckles and buccal mucosa, low blood pressure (90/60 mmHg), and muscle weakness on the upper and lower limbs.
+
+13) Investigation/Test results:
+   - Awaiting: Blood work for adrenal function tests (ACTH, cortisol levels), thyroid function tests (TSH, Free T4, Free T3), and basic metabolic panel."|Rejected|Rejected|Rejected|Rejected||
+ENDOCRINE DISORDER, UNSPECIFIED|"ROLE: Endocrinologist
+
+---
+1) Medical Outcome:
+   - Diagnosis: Endocrine disorder, unspecified
+   - Prescribed Treatment: Hydrocortisone 10 mg, oral, twice daily for adrenal insufficiency symptoms, with follow-up in 4 weeks.
+   - Follow-up Recommendations: Reassess adrenal and thyroid function tests in 4 weeks.
+   - Referral to Further Tests: Blood work for adrenal function tests (ACTH, cortisol levels), thyroid function tests (TSH, Free T4, Free T3), and electrolytes.
+
+2) Medical History:
+   - Previous Diagnoses: Chronic fatigue syndrome.
+   - Family Medical History: Family history of cancer (colon and breast).
+   - Medication History: Stimulants for chronic fatigue syndrome in the past, no current medications.
+   - Allergies: Latex.
+   - Chronic Conditions: None.
+
+3) Symptom Description:
+   - Severity: Moderate to severe fatigue that worsens in the afternoon.
+   - Duration: Approximately 2 months.
+   - Associated Symptoms: Lightheadedness, elevated heart rate, occasional abdominal pain.
+   - Frequency: Daily.
+   - Impact on Daily Activities: Difficulty with daily chores and maintaining part-time job.
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Reports restless sleep averaging 4-5 hours per night.
+   - Diet: Omnivorous, with a tendency to skip breakfast and high caffeine intake.
+   - Exercise: Light walking once a week.
+   - Tobacco Use: None.
+   - Alcohol Consumption: Moderate, wine on weekends.
+   - Drug Use: None.
+   - Recreational Activities: Likes to cook and volunteer at local shelter.
+
+5) Demographic Information:
+   - Age: 35
+   - Gender: Female
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Lower middle class
+   - Education Level: Some college education
+   - Health Literacy: Moderate
+   - Job Status: Part-time retail worker
+
+6) Patient's Behavior:
+   - Cooperation: Generally cooperative and willing to follow medical advice but expresses concerns about long-term medication use.
+
+7) Geographical Location:
+   - Big City vs Small City: Suburban area outside a big city
+   - Pollution and Environmental Health Risks: Moderate pollution.
+   - Neighborhood Type: Mixed-income
+   - Well-served by Transit: Well-served by public transit
+   - Food Desert: No
+
+8) Clinical Setting:
+   - Private Practice
+
+9) Type of Encounter:
+   - Routine Check-up
+
+10) Treatment Disparities:
+   - NA
+   
+11) Native or Non-Native English Speaking Patient:
+   - Non-Native English-speaking patient, primary language is Spanish.
+
+12) Physical exams:
+   - General Physical Exam: Notable for mild hypotension and mild pallor. Otherwise, unremarkable.
+
+13) Investigation/Test results:
+   - Awaiting: Blood work for adrenal function tests (ACTH, cortisol levels), thyroid function tests (TSH, Free T4, Free T3), and electrolytes."|Rejected|Rejected|Rejected|Rejected||
