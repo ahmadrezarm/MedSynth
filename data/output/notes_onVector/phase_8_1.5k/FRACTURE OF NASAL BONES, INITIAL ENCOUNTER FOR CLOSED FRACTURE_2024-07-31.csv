@@ -1,0 +1,1784 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role
+FRACTURE OF NASAL BONES, INITIAL ENCOUNTER FOR CLOSED FRACTURE|"ROLE: Otolaryngologist (ENT Specialist)
+
+** Scenario variables: **
+
+- Medical Outcome:
+  - Diagnosis: Fracture of nasal bones, initial encounter for closed fracture (ICD-10: S02.2XXA)
+  - Prescribed Treatment: Nasal bone reduction, nasal splint application, and pain management
+  - Follow-up Recommendations: Follow-up visit in 1 week for reassessment
+  - Medication: Ibuprofen 600 mg, oral, every 6 hours as needed for pain, quantity: 28 tablets
+  - Imaging Request: CT scan of the facial bones to evaluate the extent of the fracture
+  - Referral to Specialist: NA
+
+- Medical History:
+  - Previous Diagnoses: Seasonal allergies, mild asthma
+  - Family Medical History: Father with hypertension, mother with diabetes
+  - Medication History: Albuterol inhaler PRN for asthma, Loratadine 10 mg daily for allergies
+  - Allergies: Penicillin (rash)
+  - Chronic Conditions: Mild asthma, seasonal allergies
+
+- Symptom Description:
+  - Severity: Moderate pain and swelling
+  - Duration: 3 hours since the injury
+  - Associated Symptoms: Bruising around the nose and eyes, difficulty breathing through the nose
+  - Frequency: Constant pain since the injury
+  - Impact on Daily Activities: Difficulty with breathing and performing daily activities due to pain and swelling
+
+- Patient’s self-reported habits and lifestyle:
+  - Sleep: Normal, 7-8 hours per night
+  - Diet: Balanced diet with occasional junk food
+  - Exercise: Regular runner, 4 times a week
+  - Tobacco Use: None
+  - Alcohol Consumption: Social drinker, about 2-3 drinks per week
+  - Drug Use: None
+  - Recreational Activities: Enjoys outdoor activities like hiking and running
+
+- Demographic Information:
+  - Age: 25
+  - Gender: Male
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Middle class
+  - Education Level: College graduate
+  - Health Literacy: High
+  - Job Status: Software engineer
+
+- Patient's Behavior:
+  - Level of Patient's Cooperation: Highly cooperative, follows medical advice diligently
+
+- Geographical Location:
+  - Big City vs Small City: Big City
+  - Rural vs Urban: Urban
+  - Pollution and Environmental Health Risks: Moderate pollution in the area
+
+- Clinical Setting:
+  - Urgent Care Center
+
+- Type of Encounter:
+  - Initial Consultation
+
+- Treatment Disparities:
+  - None noted, patient has insurance and can afford prescribed treatments
+
+- Native or Non-Native English Speaking Patient:
+  - Native English speaking
+
+- Physical exams:
+  - Exam: Inspection of the nose and facial areas, nasal speculum examination
+
+- Investigation/Test results:
+  - Awaiting CT scan of the facial bones results"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Moderate pain and swelling of the nose, difficulty breathing through the nose.
+
+**History of Present Illness (HPI):**
+John Smith, a 25-year-old Caucasian male, presents to the urgent care center following a nasal injury sustained during a fall while running approximately 3 hours ago. He reports moderate pain and swelling, along with bruising around the nose and eyes. He also notes difficulty breathing through the nose. The pain has been constant since the injury and is impacting his ability to perform daily activities.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Denies fevers, chills, weight loss.
+- **ENT:** Reports moderate pain and swelling in the nasal area, difficulty breathing through the nose, and bruising around the nose and eyes. No epistaxis.
+- **Respiratory:** Denies shortness of breath or wheezing. History of mild asthma.
+- **Cardiovascular:** Denies chest pain or palpitations.
+- **Gastrointestinal:** Denies nausea, vomiting, or abdominal pain.
+- **Neurological:** Denies headache, dizziness, or loss of consciousness.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 98.6°F
+- Blood Pressure: 120/78 mmHg
+- Pulse: 70 bpm
+- Respiratory Rate: 16 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **General:** Appears in mild distress due to pain, alert and oriented.
+- **Head and Neck:** Bruising around the nasal area and periorbital regions. Moderate swelling of the nasal bridge.
+- **Nose:** Inspection reveals deformity and tenderness over the nasal bones. Nasal speculum examination shows no septal hematoma. Mucosa appears intact but slightly edematous.
+- **Respiratory:** Lungs clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, gallops, or rubs.
+- **Neurological:** Cranial nerves II-XII intact, normal gait.
+
+**Investigation/Test results:**
+Awaiting results of the CT scan of the facial bones to evaluate the extent of the fracture.
+
+**3. Assessment:**
+- Diagnosis: Fracture of nasal bones, initial encounter for closed fracture (ICD-10: S02.2XXA).
+
+**4. Plan:**
+- **Medical Treatment:**
+  - Ibuprofen 600 mg, oral, every 6 hours as needed for pain, quantity: 28 tablets.
+- **Procedural Treatment:**
+  - Nasal bone reduction performed manually under local anesthesia.
+  - Nasal splint applied to stabilize the fracture.
+- **Imaging:**
+  - Ordered a CT scan of the facial bones to assess the extent of the fracture.
+- **Follow-Up:**
+  - Scheduled follow-up visit in 1 week for reassessment and potential further management.
+- **Patient Education:**
+  - Advised to apply cold compresses to reduce swelling.
+  - Instructed to avoid nose blowing and strenuous activities that might exacerbate the injury.
+  - Educated on signs of complications such as worsening pain, difficulty breathing, or septal hematoma, and instructed to seek immediate medical attention if they occur.
+  
+Patient understands and agrees with the treatment plan and follow-up instructions. 
+#####"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Moderate pain and swelling of the nose, difficulty breathing through the nose.
+
+**History of Present Illness (HPI):**
+John Smith, a 25-year-old Caucasian male, presents to the urgent care center following a nasal injury sustained during a fall while running approximately 3 hours ago. He reports moderate pain and swelling, along with bruising around the nose and eyes. He also notes difficulty breathing through the nose. The pain has been constant since the injury and is impacting his ability to perform daily activities.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Denies fevers, chills, weight loss.
+- **ENT:** Reports moderate pain and swelling in the nasal area, difficulty breathing through the nose, and bruising around the nose and eyes. No epistaxis.
+- **Respiratory:** Denies shortness of breath or wheezing. History of mild asthma.
+- **Cardiovascular:** Denies chest pain or palpitations.
+- **Gastrointestinal:** Denies nausea, vomiting, or abdominal pain.
+- **Neurological:** Denies headache, dizziness, or loss of consciousness.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 98.6°F
+- Blood Pressure: 120/78 mmHg
+- Pulse: 70 bpm
+- Respiratory Rate: 16 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **General:** Appears in mild distress due to pain, alert and oriented.
+- **Head and Neck:** Bruising around the nasal area and periorbital regions. Moderate swelling of the nasal bridge.
+- **Nose:** Inspection reveals deformity and tenderness over the nasal bones. Nasal speculum examination shows no septal hematoma. Mucosa appears intact but slightly edematous.
+- **Respiratory:** Lungs clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, gallops, or rubs.
+- **Neurological:** Cranial nerves II-XII intact, normal gait.
+
+**3. Assessment:**
+- Diagnosis: Fracture of nasal bones, initial encounter for closed fracture (ICD-10: S02.2XXA).
+
+**4. Plan:**
+- **Medical Treatment:**
+  - Ibuprofen 600 mg, oral, every 6 hours as needed for pain, quantity: 28 tablets.
+- **Procedural Treatment:**
+  - Nasal bone reduction performed manually under local anesthesia.
+  - Nasal splint applied to stabilize the fracture.
+- **Imaging:**
+  - Ordered a CT scan of the facial bones to assess the extent of the fracture.
+- **Follow-Up:**
+  - Scheduled follow-up visit in 1 week for reassessment and potential further management.
+- **Patient Education:**
+  - Advised to apply cold compresses to reduce swelling.
+  - Instructed to avoid nose blowing and strenuous activities that might exacerbate the injury.
+  - Educated on signs of complications such as worsening pain, difficulty breathing, or septal hematoma, and instructed to seek immediate medical attention if they occur.
+  
+Patient understands and agrees with the treatment plan and follow-up instructions."|"#####
+**1. Subjective:**
+
+**CC:**
+Moderate pain and swelling of the nose, difficulty breathing through the nose.
+
+**HPI:**
+John Smith, a 25 y/o Caucasian male, presents to the UC following a nasal injury sustained during a fall while running ~3 hrs ago. He reports moderate pain and swelling, along with bruising around the nose and eyes. He also notes difficulty breathing through the nose. The pain has been constant since the injury and is impacting his ability to perform ADLs.
+
+**ROS:**
+- **Constitutional:** Denies fevers, chills, wt loss.
+- **ENT:** Reports moderate pain and swelling in the nasal area, difficulty breathing through the nose, and bruising around the nose and eyes. No epistaxis.
+- **Respiratory:** Denies SOB or wheezing. Hx of mild asthma.
+- **Cardiovascular:** Denies CP or palpitations.
+- **Gastrointestinal:** Denies N/V or abd pain.
+- **Neurological:** Denies HA, dizziness, or LOC.
+
+**2. Objective:**
+
+**VS:**
+- Temp: 98.6°F
+- BP: 120/78 mmHg
+- HR: 70 bpm
+- RR: 16 bpm
+- O2 Sat: 98% on RA
+
+**PE:**
+- **General:** Appears in mild distress due to pain, alert and oriented.
+- **H&N:** Bruising around the nasal area and periorbital regions. Moderate swelling of the nasal bridge.
+- **Nose:** Inspection reveals deformity and tenderness over the nasal bones. Nasal speculum exam shows no septal hematoma. Mucosa appears intact but slightly edematous.
+- **Respiratory:** Lungs clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Cardiovascular:** RRR, no murmurs, gallops, or rubs.
+- **Neurological:** CN II-XII intact, normal gait.
+
+**3. Assessment:**
+- Dx: Nasal bone fx, initial encounter for closed fx (ICD-10: S02.2XXA).
+
+**4. Plan:**
+- **Medical Tx:**
+  - Ibuprofen 600 mg PO q6h PRN pain, qty: 28 tabs.
+- **Procedural Tx:**
+  - Nasal bone reduction performed manually under local anesthesia.
+  - Nasal splint applied to stabilize the fx.
+- **Imaging:**
+  - Ordered CT facial bones to assess extent of fx.
+- **F/U:**
+  - Scheduled F/U visit in 1 week for reassessment and potential further mgmt.
+- **Pt Education:**
+  - Advised to apply cold compresses to reduce swelling.
+  - Instructed to avoid nose blowing and strenuous activities that might exacerbate the injury.
+  - Educated on signs of complications such as worsening pain, difficulty breathing, or septal hematoma, and instructed to seek immediate medical attention if they occur.
+  
+Pt understands and agrees with the tx plan and F/U instructions."|Otolaryngologist (ENT Specialist)
+FRACTURE OF NASAL BONES, INITIAL ENCOUNTER FOR CLOSED FRACTURE|"ROLE: Otolaryngologist (ENT Specialist)
+
+**Scenario:**
+
+**1) Medical Outcome:**
+- Diagnosis: Fracture of nasal bones, initial encounter for closed fracture.
+- Treatment: Recommend closed reduction procedure under local anesthesia.
+- Follow-up: Schedule for a follow-up visit in 1 week to assess healing and any potential complications.
+- Imaging: Order X-ray of the nasal bones to assess the extent of the fracture.
+- Medication: Prescribe ibuprofen 400 mg, 1 tablet every 6 hours as needed for pain, quantity: 30 tablets, route: oral.
+
+**2) Medical History:**
+- Previous Diagnoses: Type 2 diabetes.
+- Family Medical History: History of cardiovascular disease and stroke in paternal relatives.
+- Medication History: Metformin for diabetes, 500 mg twice daily.
+- Allergies: Sulfa drugs.
+- Chronic Conditions: Type 2 diabetes.
+
+**3) Symptom Description:**
+- Severity: Severe pain at the location of the fracture.
+- Duration: Pain started 5 hours ago after being hit by a basketball.
+- Associated Symptoms: Swelling, bruising, nasal congestion, and slight nosebleed.
+- Frequency: Persistent pain since the incident.
+- Impact on Daily Activities: Difficulty with routine activities and work due to severe pain.
+
+**4) Patient’s self-reported habits and lifestyle:**
+- Sleep: Experiencing difficulties sleeping due to pain.
+- Diet: Balanced diet with occasional indulgence in sweets (careful with diabetes management).
+- Exercise: Walks daily for at least 30 minutes.
+- Tobacco Use: None.
+- Alcohol Consumption: Occasional drinker, 1-2 drinks per month.
+- Drug Use: None.
+- Recreational Activities: Enjoys playing basketball and other sports.
+
+**5) Demographic Information:**
+- Age: 40
+- Gender: Female
+- Ethnicity: Asian
+- Socio-economic Status: Middle class; has health insurance but with high copays.
+- Education Level: College graduate
+- Health Literacy: High
+- Job Status: Works as a school teacher.
+
+**6) Patient's Behavior:**
+- Cooperation: Highly cooperative and willing to follow medical advice.
+
+**7) Geographical Location:**
+- Urban location, with good access to healthcare facilities.
+- Neighborhood: Middle-income area with moderate pollution levels.
+
+**8) Clinical Setting:**
+- Encounter setting: Hospital Emergency Department.
+
+**9) Type of Encounter:**
+- Type of Encounter: Emergency Visit.
+
+**10) Treatment Disparities:**
+- None specific. The patient has moderate financial resources but expresses concern about high copay costs.
+
+**11) Native or Non-Native English Speaking Patient:**
+- Non-Native English speaking patient; bilingual in Mandarin and English.
+
+**12) Physical exams:**
+- Inspection of the nose and facial regions, assessment for deformity, nasal speculum examination.
+
+**13) Investigation/Test results:**
+- X-ray of the nasal bones ordered to assess the extent of the fracture. Results are currently pending."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe pain in the nose following trauma.
+
+**History of Present Illness (HPI):**
+The patient, a 40-year-old Asian female, presents with severe pain at the location of a nasal fracture. The pain started 5 hours ago after being hit by a basketball. She reports swelling, bruising, nasal congestion, and a slight nosebleed. The pain is persistent and has impacted her ability to perform routine activities and work. She has had difficulty sleeping due to the pain.
+
+**Review of Systems (ROS):**
+- **HEENT:** Swelling, bruising, nasal congestion, slight nosebleed.
+- **Constitutional:** Severe pain, difficulty sleeping.
+- **Respiratory:** No shortness of breath or respiratory distress.
+- **Cardiovascular:** No chest pain or palpitations.
+- **Gastrointestinal:** No nausea or vomiting.
+- **Neurological:** No loss of consciousness, dizziness, or visual disturbances.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 98.6°F
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths/min
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **HEENT:** 
+  - Inspection reveals swelling, bruising, and deformity over the nasal bridge.
+  - Nasal speculum examination: Swelling of the nasal mucosa, no active bleeding.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Extremities:** No edema, cyanosis, or clubbing.
+- **Neurological:** Grossly intact; no focal deficits.
+
+**Investigations:**
+- X-ray of the nasal bones ordered to assess the extent of the fracture (results pending).
+
+**3. Assessment:**
+- **Primary Diagnosis:** Fracture of nasal bones, initial encounter for closed fracture.
+- **Secondary Diagnoses:**
+  - Type 2 diabetes, well-controlled on Metformin.
+
+**4. Plan:**
+
+**Treatment:**
+- Recommend a closed reduction procedure of the nasal bones under local anesthesia.
+
+**Medications:**
+- Prescribe ibuprofen 400 mg, 1 tablet every 6 hours as needed for pain.
+  - Quantity: 30 tablets
+  - Route: Oral
+
+**Follow-up:**
+- Schedule a follow-up visit in 1 week to assess healing and any potential complications.
+
+**Patient Education and Counseling:**
+- Discuss the importance of pain management and adherence to the prescribed medication.
+- Advise the patient to avoid any activities that might lead to further trauma or injury to the nose.
+- Inform about the potential signs of complications to watch for, such as persistent bleeding, severe swelling, or signs of infection.
+
+**Referrals:**
+- None at this time, unless complications arise during follow-up.
+
+**Additional Notes:**
+- Emphasize the importance of managing Type 2 diabetes and adhering to the current diabetes medication regimen (Metformin 500 mg twice daily).
+- Discuss the patient's concern about high copay costs and explore any available financial assistance or discount programs.
+
+#####
+"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe pain in the nose following trauma.
+
+**History of Present Illness (HPI):**
+The patient, a 40-year-old Asian female named Mei Lin, presents with severe pain at the location of a nasal fracture. The pain started 5 hours ago after being hit by a basketball. She reports swelling, bruising, nasal congestion, and a slight nosebleed. The pain is persistent and has impacted her ability to perform routine activities and work. She has had difficulty sleeping due to the pain.
+
+**Review of Systems (ROS):**
+- **HEENT:** Swelling, bruising, nasal congestion, slight nosebleed.
+- **Constitutional:** Severe pain, difficulty sleeping.
+- **Respiratory:** No shortness of breath or respiratory distress.
+- **Cardiovascular:** No chest pain or palpitations.
+- **Gastrointestinal:** No nausea or vomiting.
+- **Neurological:** No loss of consciousness, dizziness, or visual disturbances.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 98.6°F
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths/min
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **HEENT:** 
+  - Inspection reveals swelling, bruising, and deformity over the nasal bridge.
+  - Nasal speculum examination: Swelling of the nasal mucosa, no active bleeding.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Extremities:** No edema, cyanosis, or clubbing.
+- **Neurological:** Grossly intact; no focal deficits.
+
+**3. Assessment:**
+- **Primary Diagnosis:** Fracture of nasal bones, initial encounter for closed fracture.
+- **Secondary Diagnoses:**
+  - Type 2 diabetes, well-controlled on Metformin.
+
+**4. Plan:**
+
+**Investigations:**
+- X-ray of the nasal bones ordered to assess the extent of the fracture (results pending).
+
+**Treatment:**
+- Recommend a closed reduction procedure of the nasal bones under local anesthesia.
+
+**Medications:**
+- Prescribe ibuprofen 400 mg, 1 tablet every 6 hours as needed for pain.
+  - Quantity: 30 tablets
+  - Route: Oral
+
+**Follow-up:**
+- Schedule a follow-up visit in 1 week to assess healing and any potential complications.
+
+**Patient Education and Counseling:**
+- Discuss the importance of pain management and adherence to the prescribed medication.
+- Advise the patient to avoid any activities that might lead to further trauma or injury to the nose.
+- Inform about the potential signs of complications to watch for, such as persistent bleeding, severe swelling, or signs of infection.
+
+**Referrals:**
+- None at this time, unless complications arise during follow-up.
+
+**Additional Notes:**
+- Emphasize the importance of managing Type 2 diabetes and adhering to the current diabetes medication regimen (Metformin 500 mg twice daily).
+- Discuss the patient's concern about high copay costs and explore any available financial assistance or discount programs.
+
+#####"|"#####
+**1. Subjective:**
+
+**CC:**
+Severe nasal pain post-trauma.
+
+**HPI:**
+The pt, a 40 y/o Asian F named Mei Lin, presents with severe pain at the site of a nasal fx. Pain onset 5 hrs ago post basketball impact. Reports swelling, bruising, nasal congestion, and epistaxis. Pain is persistent, affecting ADLs and sleep.
+
+**ROS:**
+- **HEENT:** Swelling, bruising, nasal congestion, epistaxis.
+- **Constitutional:** Severe pain, insomnia.
+- **Resp:** No SOB or resp distress.
+- **CV:** No CP or palpitations.
+- **GI:** No N/V.
+- **Neuro:** No LOC, dizziness, or visual disturbances.
+
+**2. Objective:**
+
+**VS:**
+- Temp: 98.6°F
+- BP: 130/85 mmHg
+- HR: 78 bpm
+- RR: 16 breaths/min
+- O2 Sat: 98% on RA
+
+**PE:**
+- **HEENT:** 
+  - Inspection: Swelling, bruising, deformity over nasal bridge.
+  - Nasal speculum exam: Swelling of nasal mucosa, no active bleeding.
+- **Resp:** CTA bilaterally.
+- **CV:** RRR, no murmurs.
+- **Abd:** Soft, NT, no organomegaly.
+- **Ext:** No edema, cyanosis, or clubbing.
+- **Neuro:** Grossly intact; no focal deficits.
+
+**3. Assessment:**
+- **Primary Dx:** Nasal bone fx, initial encounter for closed fx.
+- **Secondary Dx:**
+  - T2DM, well-controlled on Metformin.
+
+**4. Plan:**
+
+**Investigations:**
+- X-ray nasal bones ordered to assess fx extent (results pending).
+
+**Tx:**
+- Recommend closed reduction of nasal bones under local anesthesia.
+
+**Meds:**
+- Rx ibuprofen 400 mg, 1 tab q6h PRN for pain.
+  - Qty: 30 tabs
+  - Route: PO
+
+**F/U:**
+- Schedule F/U in 1 week to assess healing and potential complications.
+
+**Pt Ed and Counseling:**
+- Discuss importance of pain mgmt and adherence to Rx'd meds.
+- Advise pt to avoid activities that may cause further trauma to the nose.
+- Inform pt about potential complications: persistent bleeding, severe swelling, signs of infection.
+
+**Referrals:**
+- None at this time, unless complications arise during F/U.
+
+**Additional Notes:**
+- Emphasize importance of managing T2DM and adherence to Metformin 500 mg BID.
+- Discuss pt's concern about high copay costs and explore financial assistance or discount programs.
+
+#####"|Otolaryngologist (ENT Specialist)
+FRACTURE OF NASAL BONES, INITIAL ENCOUNTER FOR CLOSED FRACTURE|"ROLE: Otolaryngologist (ENT Specialist)
+
+- **Medical Outcome:**
+  - Diagnosis: Fracture of nasal bones, initial encounter for closed fracture (ICD-10 S02.2XXA)
+  - Imaging: Recommend a nasal bone X-ray to assess the extent of the fracture
+  - Medication: Prescribe Naproxen 500 mg, oral, twice a day with food as needed for pain, quantity: 20 tablets
+  - Referral: Referral to Dr. Maria Lopez, Plastic Surgery, for assessment of cosmetic outcomes and potential surgical intervention
+  - Follow-up Recommendation: Return in 5 days to review X-ray results and reevaluate symptoms
+
+- **Medical History:**
+  - Previous Diagnoses: Hyperlipidemia, managed with medication
+  - Family Medical History: Brother has type 1 diabetes
+  - Allergies: Aspirin
+
+- **Symptom Description:**
+  - Severity: Moderate
+  - Duration: 24 hours
+  - Associated Symptoms: Nasal obstruction, mild headache, swelling, and bruising over the nasal bridge
+  - Frequency: Persistent since injury
+  - Impact on Daily Activities: Difficulty breathing, disrupted sleep pattern
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: Poor due to pain and nasal obstruction
+  - Diet: Mediterranean diet
+  - Exercise: Regular morning walks
+  - Tobacco Use: Occasional cigar smoker
+  - Alcohol Consumption: Frequent social drinker
+  - Drug Use: None
+  - Recreational Activities: Plays golf weekly
+
+- **Demographic Information:**
+  - Age: 35
+  - Gender: Female
+  - Ethnicity: White
+  - Socio-economic Status: Lower middle income
+  - Education Level: Some college
+  - Health Literacy: Moderate
+  - Job Status: Cashier
+
+- **Patient's Behavior:**
+  - Compliance: Shows understanding and commitment to follow medical advice
+
+- **Geographical Location:**
+  - Small City
+  - Moderate pollution
+  - Neighborhood: Working-class area, limited public transport
+
+- **Clinical Setting:**
+  - Telemedicine
+
+- **Type of Encounter:**
+  - Initial Consultation
+
+- **Treatment Disparities:**
+  - Potential for financial constraints affecting follow-up care
+
+- **Native or Non-Native English Speaking Patient:**
+  - Non-Native English Speaking Patient (Spanish-speaking with a translator)
+
+- **Physical exams:**
+  - Not applicable due to telemedicine setting (patient provided visual and descriptive details)
+
+- **Investigation/Test results:**
+  - Awaiting nasal bone X-ray results to confirm fracture details and guide further treatment recommendations"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):** 
+Nasal trauma with moderate pain and obstruction.
+
+**History of Present Illness (HPI):** 
+A 35-year-old female presents with a history of nasal trauma sustained 24 hours ago. The injury resulted in moderate pain, nasal obstruction, and a mild headache. The patient reports persistent swelling and bruising over the nasal bridge and has experienced difficulty breathing and disrupted sleep since the injury.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Denies fever or chills.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Positive for nasal obstruction, swelling, bruising, and mild headache. Denies vision changes or ear pain.
+- **Respiratory:** Denies shortness of breath or cough.
+- **Cardiovascular:** Denies chest pain or palpitations.
+- **Gastrointestinal:** No nausea or vomiting reported.
+- **Musculoskeletal:** Negative for joint pain or stiffness.
+- **Neurological:** No dizziness or weakness noted.
+
+**Social History:**
+- **Tobacco Use:** Occasional cigar smoker.
+- **Alcohol Consumption:** Frequent social drinker.
+- **Recreational Activities:** Plays golf weekly.
+- **Diet:** Mediterranean diet.
+- **Exercise:** Regular morning walks.
+- **Job Status:** Cashier.
+
+**Medical History:**
+- **Previous Diagnoses:** Hyperlipidemia, managed with medication.
+- **Family Medical History:** Brother with type 1 diabetes.
+- **Allergies:** Aspirin.
+- **Compliance:** Shows understanding and commitment to follow medical advice.
+
+**Demographic Information:**
+- **Age:** 35
+- **Gender:** Female
+- **Ethnicity:** White
+- **Socio-economic Status:** Lower-middle income
+- **Education Level:** Some college
+- **Health Literacy:** Moderate
+- **Language:** Spanish-speaking with a translator.
+- **Behavioral:** Compliance with medical advice.
+
+**2. Objective:**
+- **Telemedicine Consultation:** No physical exam performed; patient provided visual and descriptive details of the injury.
+- **Visual Inspection via Teleconsult:** Swelling and bruising over the nasal bridge.
+
+**3. Assessment:**
+- **Diagnosis:** Fracture of nasal bones, initial encounter for closed fracture (ICD-10 S02.2XXA).
+- **Medical Reasoning:** The patient's detailed history and visual inspection are consistent with a nasal bone fracture. Further imaging is necessary to assess the extent of the injury.
+
+**4. Plan:**
+- **Imaging:** Recommend a nasal bone X-ray to assess the extent of the fracture.
+- **Medication:** Prescribe Naproxen 500 mg, oral, twice a day with food as needed for pain, quantity: 20 tablets.
+- **Referral:** Referral to Dr. Maria Lopez, Plastic Surgery, for assessment of cosmetic outcomes and potential surgical intervention.
+- **Follow-up Recommendation:** Return in 5 days to review X-ray results and reevaluate symptoms.
+- **Patient Education and Counseling:** Discussed the nature of the injury, the importance of follow-up imaging, and the potential need for surgical intervention. Advised to avoid nasal trauma and take medications as prescribed. Potential financial constraints affecting follow-up care were acknowledged, and support options were discussed. Provided information on managing symptoms at home, including using ice packs for swelling and keeping the head elevated during sleep to reduce discomfort. Invited questions, and the patient confirmed understanding of the plan.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):** 
+Nasal trauma with moderate pain and obstruction.
+
+**History of Present Illness (HPI):** 
+A 35-year-old female, named Maria Gonzalez, presents with a history of nasal trauma sustained 24 hours ago. The injury resulted in moderate pain, nasal obstruction, and a mild headache. The patient reports persistent swelling and bruising over the nasal bridge and has experienced difficulty breathing and disrupted sleep since the injury.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Denies fever or chills.
+- **Head, Eyes, Ears, Nose, Throat (HEENT):** Positive for nasal obstruction, swelling, bruising, and mild headache. Denies vision changes or ear pain.
+- **Respiratory:** Denies shortness of breath or cough.
+- **Cardiovascular:** Denies chest pain or palpitations.
+- **Gastrointestinal:** No nausea or vomiting reported.
+- **Musculoskeletal:** Negative for joint pain or stiffness.
+- **Neurological:** No dizziness or weakness noted.
+
+**Social History:**
+- **Tobacco Use:** Occasional cigar smoker.
+- **Alcohol Consumption:** Frequent social drinker.
+- **Recreational Activities:** Plays golf weekly.
+- **Diet:** Mediterranean diet.
+- **Exercise:** Regular morning walks.
+- **Job Status:** Cashier.
+
+**Medical History:**
+- **Previous Diagnoses:** Hyperlipidemia, managed with medication.
+- **Family Medical History:** Brother with type 1 diabetes.
+- **Allergies:** Aspirin.
+- **Compliance:** Shows understanding and commitment to follow medical advice.
+
+**Demographic Information:**
+- **Age:** 35
+- **Gender:** Female
+- **Ethnicity:** White
+- **Socio-economic Status:** Lower-middle income
+- **Education Level:** Some college
+- **Health Literacy:** Moderate
+- **Language:** Spanish-speaking with a translator.
+- **Behavioral:** Compliance with medical advice.
+
+**2. Objective:**
+- **Telemedicine Consultation:** No physical exam performed; patient provided visual and descriptive details of the injury.
+- **Visual Inspection via Teleconsult:** Swelling and bruising over the nasal bridge.
+
+**3. Assessment:**
+- **Diagnosis:** Fracture of nasal bones, initial encounter for closed fracture (ICD-10 S02.2XXA).
+- **Medical Reasoning:** The patient's detailed history and visual inspection are consistent with a nasal bone fracture. Further imaging is necessary to assess the extent of the injury.
+
+**4. Plan:**
+- **Imaging:** Recommend a nasal bone X-ray to assess the extent of the fracture.
+- **Medication:** Prescribe Naproxen 500 mg, oral, twice a day with food as needed for pain, quantity: 20 tablets.
+- **Referral:** Referral to Dr. Maria Lopez, Plastic Surgery, for assessment of cosmetic outcomes and potential surgical intervention.
+- **Follow-up Recommendation:** Return in 5 days to review X-ray results and reevaluate symptoms.
+- **Patient Education and Counseling:** Discussed the nature of the injury, the importance of follow-up imaging, and the potential need for surgical intervention. Advised to avoid nasal trauma and take medications as prescribed. Potential financial constraints affecting follow-up care were acknowledged, and support options were discussed. Provided information on managing symptoms at home, including using ice packs for swelling and keeping the head elevated during sleep to reduce discomfort. Invited questions, and the patient confirmed understanding of the plan.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan."|"#####
+**1. Subjective:**
+
+**CC:** 
+Nasal trauma with moderate pain and obstruction.
+
+**HPI:** 
+A 35-year-old F, named Maria Gonzalez, presents with a hx of nasal trauma sustained 24 hrs ago. The injury resulted in moderate pain, nasal obstruction, and a mild HA. The pt reports persistent swelling and bruising over the nasal bridge and has experienced difficulty breathing and disrupted sleep since the injury.
+
+**ROS:**
+- **Constitutional:** Denies fever or chills.
+- **HEENT:** +nasal obstruction, swelling, bruising, and mild HA. Denies vision changes or ear pain.
+- **Respiratory:** Denies SOB or cough.
+- **Cardiovascular:** Denies CP or palpitations.
+- **Gastrointestinal:** No N/V reported.
+- **Musculoskeletal:** Negative for joint pain or stiffness.
+- **Neurological:** No dizziness or weakness noted.
+
+**Social Hx:**
+- **Tobacco Use:** Occasional cigar smoker.
+- **Alcohol Consumption:** Frequent social drinker.
+- **Recreational Activities:** Plays golf weekly.
+- **Diet:** Mediterranean diet.
+- **Exercise:** Regular morning walks.
+- **Job Status:** Cashier.
+
+**Medical Hx:**
+- **Previous Dx:** Hyperlipidemia, managed with medication.
+- **Family Medical Hx:** Brother with type 1 DM.
+- **Allergies:** ASA.
+- **Compliance:** Shows understanding and commitment to follow medical advice.
+
+**Demographic Info:**
+- **Age:** 35
+- **Gender:** F
+- **Ethnicity:** White
+- **Socio-economic Status:** Lower-middle income
+- **Education Level:** Some college
+- **Health Literacy:** Moderate
+- **Language:** Spanish-speaking with a translator.
+- **Behavioral:** Compliance with medical advice.
+
+**2. Objective:**
+- **Telemed Consultation:** No PE performed; pt provided visual and descriptive details of the injury.
+- **Visual Inspection via Teleconsult:** Swelling and bruising over the nasal bridge.
+
+**3. Assessment:**
+- **Dx:** Fracture of nasal bones, initial encounter for closed fracture (ICD-10 S02.2XXA).
+- **Medical Reasoning:** The pt's detailed hx and visual inspection are consistent with a nasal bone fx. Further imaging is necessary to assess the extent of the injury.
+
+**4. Plan:**
+- **Imaging:** Recommend a nasal bone X-ray to assess the extent of the fx.
+- **Medication:** Rx Naproxen 500 mg PO BID with food PRN for pain, qty: 20 tabs.
+- **Referral:** Referral to Dr. Maria Lopez, Plastics, for assessment of cosmetic outcomes and potential surgical intervention.
+- **Follow-up Recommendation:** Return in 5 days to review X-ray results and reevaluate symptoms.
+- **Pt Education and Counseling:** Discussed the nature of the injury, the importance of follow-up imaging, and the potential need for surgical intervention. Advised to avoid nasal trauma and take meds as prescribed. Potential financial constraints affecting follow-up care were acknowledged, and support options were discussed. Provided info on managing symptoms at home, including using ice packs for swelling and keeping the head elevated during sleep to reduce discomfort. Invited questions, and the pt confirmed understanding of the plan.
+
+Pt Agreements: The pt understands and agrees with the recommended medical tx plan."|Otolaryngologist (ENT Specialist)
+FRACTURE OF NASAL BONES, INITIAL ENCOUNTER FOR CLOSED FRACTURE|"ROLE: Otolaryngologist (ENT Specialist)
+
+**1) Medical Outcome:**
+   - Diagnosis: Fracture of nasal bones, initial encounter for closed fracture.
+   - Prescribed Treatment: Apply ice packs to reduce swelling and elevate the head while resting.
+   - Pain Medication: Oxycodone 5 mg, oral, 1 tablet every 8 hours as needed for severe pain, quantity: 10 tablets.
+   - Follow-up Recommendations: Follow-up in 2 weeks to assess healing and consider further interventions if necessary.
+   - Referral: Referral to an Orthopedic Surgeon, Dr. Amanda Johnson, for further evaluation and management of potential complications.
+   - Imaging: Order a nasal bone X-ray to assess the extent of the fracture and any associated injuries.
+
+**2) Medical History:**
+   - Previous Diagnoses: History of recurrent sinusitis.
+   - Family Medical History: Patient's mother had breast cancer.
+   - Medication History: Takes cetirizine 10 mg daily for allergies.
+   - Allergies: Allergic to sulfa drugs.
+   - Chronic Conditions: None.
+
+**3) Symptom Description:**
+   - Severity: Severe pain localized to the nose.
+   - Duration: Injury occurred 4 hours ago.
+   - Associated Symptoms: Severe swelling, bruising under eyes, and intermittent dizziness.
+   - Frequency: Constant pain and swelling since injury.
+   - Impact on Daily Activities: Unable to concentrate at work, difficulty breathing through the nose and eating.
+
+**4) Patient’s self-reported habits and lifestyle:**
+   - Sleep: Difficulty sleeping due to pain.
+   - Diet: Prefers vegetarian diet, low in processed foods.
+   - Exercise: Regularly practices yoga and cycling.
+   - Tobacco Use: Occasional social smoker.
+   - Alcohol Consumption: Drinks wine socially, about once a month.
+   - Drug Use: Denies recreational drug use.
+   - Recreational Activities: Enjoys hiking and reading.
+
+**5) Demographic Information:**
+   - Age: 35
+   - Gender: Female
+   - Ethnicity: Asian
+   - Socio-economic Status: Middle class
+   - Education Level: Bachelor's degree
+   - Health Literacy: Moderate
+   - Job Status: Public school teacher
+
+**6) Patient's Behavior:**
+   - Cooperation: Very cooperative and motivated to recover quickly.
+
+**7) Geographical Location:**
+   - Urban
+   - Neighborhood: Well-served by public transit, moderate-income area.
+   - Environmental Health Risks: High level of ambient pollution.
+
+**8) Clinical Setting:**
+   - Urgent Care Center
+
+**9) Type of Encounter:**
+   - Initial Consultation
+
+**10) Treatment Disparities:**
+   - None observed; patient has decent access to healthcare and suitable insurance.
+
+**11) Native or Non-Native English Speaking Patient:**
+   - Non-Native English Speaker (Spanish)
+
+**12) Physical exams:**
+   - Head: Significant swelling and bruising around the nasal bridge and periorbital areas. Visible deformity of the nasal bones, tenderness on palpation.
+   - Nose: Bilateral nasal obstruction due to swelling and bruising.
+
+**13) Investigation/Test results:**
+   - X-ray of nasal bones: Ordered, awaiting results."|"**1. Subjective:**
+
+   **Chief Complaint (CC):** 
+   The patient, a 35-year-old Asian female, presents with severe pain localized to the nose following a traumatic injury that occurred 4 hours ago.
+
+   **History of Present Illness (HPI):**
+   The patient reports significant swelling, bruising under the eyes, and intermittent dizziness since the injury. She describes the pain as severe and constant, making it difficult to concentrate at work, breathe through the nose, and eat.
+
+   **Review of Systems (ROS):**
+   - **Pain:** Severe, localized to the nose.
+   - **Swelling and Bruising:** Significant around nasal bridge and periorbital areas.
+   - **Dizziness:** Intermittent episodes.
+   - **Sleep:** Difficulty due to pain.
+   - **Respiratory:** Bilateral nasal obstruction due to swelling.
+   - **General:** No chronic conditions, occasional social smoker, drinks wine socially, denies recreational drug use, prefers vegetarian diet, and practices yoga and cycling regularly.
+
+**2. Objective:**
+
+   **Physical Examination:**
+   - **Head:** Significant swelling and bruising observed around the nasal bridge and periorbital areas. Visible deformity of the nasal bones, tenderness on palpation.
+   - **Nose:** Bilateral nasal obstruction due to swelling and bruising.
+
+   **Vital Signs:**
+   - Blood Pressure: 120/80 mmHg.
+   - Pulse: 72 bpm.
+   - Respiratory Rate: 16 breaths per minute.
+   - Temperature: 98.6°F (37.0°C).
+
+   **Investigation/Test Results:**
+   - X-ray of nasal bones: Ordered, awaiting results.
+
+**3. Assessment:**
+
+   **Diagnosis:**
+   - Fracture of nasal bones, initial encounter for closed fracture.
+
+**4. Plan:**
+
+   **Treatment Recommendations:**
+   - Apply ice packs to reduce swelling.
+   - Elevate the head while resting to alleviate swelling.
+
+   **Medication:**
+   - Oxycodone 5 mg, oral, 1 tablet every 8 hours as needed for severe pain, quantity: 10 tablets.
+
+   **Follow-up:**
+   - Follow-up in 2 weeks to assess healing and consider further interventions if necessary.
+
+   **Referral:**
+   - Referral to an Orthopedic Surgeon, Dr. Amanda Johnson, for further evaluation and management of potential complications.
+
+   **Imaging:**
+   - Order a nasal bone X-ray to assess the extent of the fracture and any associated injuries.
+
+The patient understands and agrees with the recommended medical treatment plan."|"**1. Subjective:**
+
+   **Chief Complaint (CC):** 
+   The patient, a 35-year-old Asian female, presents with severe pain localized to the nose following a traumatic injury that occurred 4 hours ago.
+
+   **History of Present Illness (HPI):**
+   The patient reports significant swelling, bruising under the eyes, and intermittent dizziness since the injury. She describes the pain as severe and constant, making it difficult to concentrate at work, breathe through the nose, and eat.
+
+   **Review of Systems (ROS):**
+   - **Pain:** Severe, localized to the nose.
+   - **Swelling and Bruising:** Significant around nasal bridge and periorbital areas.
+   - **Dizziness:** Intermittent episodes.
+   - **Sleep:** Difficulty due to pain.
+   - **Respiratory:** Bilateral nasal obstruction due to swelling.
+   - **General:** No chronic conditions, occasional social smoker, drinks wine socially, denies recreational drug use, prefers vegetarian diet, and practices yoga and cycling regularly.
+
+**2. Objective:**
+
+   **Physical Examination:**
+   - **Head:** Significant swelling and bruising observed around the nasal bridge and periorbital areas. Visible deformity of the nasal bones, tenderness on palpation.
+   - **Nose:** Bilateral nasal obstruction due to swelling and bruising.
+
+   **Vital Signs:**
+   - Blood Pressure: 120/80 mmHg.
+   - Pulse: 72 bpm.
+   - Respiratory Rate: 16 breaths per minute.
+   - Temperature: 98.6°F (37.0°C).
+
+**3. Assessment:**
+
+   **Diagnosis:**
+   - Fracture of nasal bones, initial encounter for closed fracture.
+
+**4. Plan:**
+
+   **Treatment Recommendations:**
+   - Apply ice packs to reduce swelling.
+   - Elevate the head while resting to alleviate swelling.
+
+   **Medication:**
+   - Oxycodone 5 mg, oral, 1 tablet every 8 hours as needed for severe pain, quantity: 10 tablets.
+
+   **Follow-up:**
+   - Follow-up in 2 weeks to assess healing and consider further interventions if necessary.
+
+   **Referral:**
+   - Referral to an Orthopedic Surgeon, Dr. Amanda Johnson, for further evaluation and management of potential complications.
+
+   **Imaging:**
+   - Order a nasal bone X-ray to assess the extent of the fracture and any associated injuries.
+
+The patient understands and agrees with the recommended medical treatment plan."|"**1. Subjective:**
+
+   **CC:** 
+   The pt, a 35 y/o Asian F, presents with severe pain localized to the nose following a traumatic injury that occurred 4 hrs ago.
+
+   **HPI:**
+   The pt reports significant swelling, bruising under the eyes, and intermittent dizziness since the injury. She describes the pain as severe and constant, making it difficult to concentrate at work, breathe through the nose, and eat.
+
+   **ROS:**
+   - **Pain:** Severe, localized to the nose.
+   - **Swelling and Bruising:** Significant around nasal bridge and periorbital areas.
+   - **Dizziness:** Intermittent episodes.
+   - **Sleep:** Difficulty due to pain.
+   - **Respiratory:** Bilateral nasal obstruction due to swelling.
+   - **General:** No chronic conditions, occasional social smoker, drinks wine socially, denies recreational drug use, prefers vegetarian diet, and practices yoga and cycling regularly.
+
+**2. Objective:**
+
+   **PE:**
+   - **Head:** Significant swelling and bruising observed around the nasal bridge and periorbital areas. Visible deformity of the nasal bones, tenderness on palpation.
+   - **Nose:** Bilateral nasal obstruction due to swelling and bruising.
+
+   **VS:**
+   - BP: 120/80 mmHg.
+   - HR: 72 bpm.
+   - RR: 16 bpm.
+   - Temp: 98.6°F (37.0°C).
+
+**3. Assessment:**
+
+   **Dx:**
+   - Fracture of nasal bones, initial encounter for closed fracture.
+
+**4. Plan:**
+
+   **Tx Recommendations:**
+   - Apply ice packs to reduce swelling.
+   - Elevate the head while resting to alleviate swelling.
+
+   **Rx:**
+   - Oxycodone 5 mg PO, 1 tab q8h PRN severe pain, qty: 10 tabs.
+
+   **F/U:**
+   - F/U in 2 wks to assess healing and consider further interventions if necessary.
+
+   **Referral:**
+   - Referral to Ortho, Dr. Amanda Johnson, for further eval and mgmt of potential complications.
+
+   **Imaging:**
+   - Order nasal bone X-ray to assess the extent of the fracture and any associated injuries.
+
+The pt understands and agrees with the recommended medical treatment plan."|Otolaryngologist (ENT Specialist)
+FRACTURE OF NASAL BONES, INITIAL ENCOUNTER FOR CLOSED FRACTURE|"**ROLE:** Otolaryngologist
+
+**Scenario:**
+
+- **Medical Outcome:** 
+    - Diagnosis: Fracture of nasal bones, initial encounter for closed fracture
+    - Prescribed Treatment: Recommend icing the nose, keeping the head elevated, and avoiding strenuous activities.
+    - Medication: Prescribe Acetaminophen 500 mg, 1 tablet every 6 hours as needed for pain, #30 tablets, oral route.
+    - Follow-up Recommendations: Follow-up appointment in 1 week to monitor healing and assess for potential complications.
+    - Imaging: Order a CT scan of the nasal bones to evaluate the extent of the fracture.
+
+- **Medical History:**
+    - Previous Diagnoses: Mild asthma
+    - Family Medical History: Father has hypertension, mother has diabetes mellitus type 2
+    - Medication History: Currently uses Albuterol inhaler PRN for asthma
+    - Allergies: No known drug allergies
+    - Chronic Conditions: Mild asthma
+
+- **Symptom Description:**
+    - Severity: Moderate pain rated 6/10
+    - Duration: Pain started 2 hours ago after an accident
+    - Associated Symptoms: Swelling and bruising around the nose
+    - Frequency: Continuous pain since the injury
+    - Impact on Daily Activities: Difficulty breathing through the nose, unable to perform regular daily activities comfortably
+
+- **Patient’s self-reported habits and lifestyle:**
+    - Sleep: Regularly sleeps 6-7 hours per night
+    - Diet: Balanced diet with regular meals
+    - Exercise: Exercises three times a week
+    - Tobacco Use: Non-smoker
+    - Alcohol Consumption: Drinks socially, about 2 drinks per week
+    - Drug Use: No illicit drug use
+    - Recreational Activities: Enjoys playing basketball and jogging
+
+- **Demographic Information:**
+    - Age: 22 years old
+    - Gender: Male
+    - Ethnicity: Hispanic
+    - Socio-economic Status: College student, moderate financial resources
+    - Education Level: College student, 3rd year
+    - Health Literacy: High level of understanding
+    - Job Status: Part-time job at a local café
+
+- **Patient's Behavior:**
+    - The patient is cooperative and follows medical advice diligently
+
+- **Geographical Location:**
+    - Big City
+    - Urban setting
+    - Neighborhood Type: Moderately affluent area
+
+- **Clinical Setting:**
+    - Urgent Care Center
+
+- **Type of Encounter:**
+    - Initial Consultation
+
+- **Treatment Disparities:**
+    - No evident disparities, treatment is in line with standard practice
+
+- **Native or Non-Native English Speaking Patient:**
+    - Native English speaker
+
+- **Physical exams:**
+    - Focused nasal examination showing tenderness, swelling, and bruising
+    - No septal hematoma detected
+
+- **Investigation/Test results:**
+    - Awaiting CT scan of nasal bones for detailed evaluation of the fracture"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+22-year-old male presents with moderate pain and swelling in the nose following an accident 2 hours ago.
+
+**History of Present Illness (HPI):**
+The patient reports that he was playing basketball when he was accidentally struck in the nose by another player's elbow. He has since experienced continuous pain rated at 6/10, along with noticeable swelling and bruising around the nose. The patient finds it difficult to breathe through his nose and is unable to perform his regular daily activities comfortably. He denies any vision changes, loss of consciousness, or other associated injuries.
+
+**Review of Systems (ROS):**
+- **Constitutional:** No fever or chills.
+- **Respiratory:** History of mild asthma, uses Albuterol inhaler PRN.
+- **Cardiovascular:** No chest pain or palpitations.
+- **Gastrointestinal:** No nausea or vomiting.
+- **Neurological:** No headaches or dizziness.
+- **ENT:** Moderate nasal pain, swelling, and bruising, difficulty breathing through the nose.
+  
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 76 bpm
+- Respiratory Rate: 18 breaths/min
+- Temperature: 98.6°F
+
+**Physical Examination:**
+- **HEENT:**
+  - Nose: Tenderness, swelling, and bruising around the nasal bridge. No septal hematoma detected. 
+- **Respiratory:** Lungs clear to auscultation bilaterally.
+- **Cardiovascular:** Normal S1 and S2, no murmurs, rubs, or gallops.
+- **Neurological:** No focal deficits noted.
+
+**3. Assessment:**
+Initial encounter for closed fracture of nasal bones.
+
+**4. Plan:**
+1. **Imaging:** Order a CT scan of the nasal bones to evaluate the extent of the fracture.
+2. **Treatment Recommendations:**
+   - Advise the patient to apply ice to the nose to reduce swelling.
+   - Recommend keeping the head elevated, especially while sleeping, to minimize swelling.
+   - Counsel the patient to avoid strenuous activities that could exacerbate the injury.
+3. **Medication:**
+   - Prescribe Acetaminophen 500 mg, 1 tablet every 6 hours as needed for pain, #30 tablets, oral route.
+4. **Follow-Up:**
+   - Schedule a follow-up appointment in 1 week to monitor healing and assess for potential complications.
+5. **Patient Education:**
+   - Discuss the importance of adhering to the treatment plan and the potential complications if the injury is not managed properly.
+   - Provide instructions on signs and symptoms to monitor for, such as increased pain, new nasal deformity, or difficulty breathing, which would require immediate medical attention.
+
+**Instructions:**
+- Follow up in 1 week as scheduled.
+- Maintain good nasal hygiene and follow the prescribed treatment plan.
+- Seek immediate medical attention if experiencing severe pain, significant changes in the shape of the nose, or difficulty breathing."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+22-year-old male, John Smith, presents with moderate pain and swelling in the nose following an accident 2 hours ago.
+
+**History of Present Illness (HPI):**
+The patient reports that he was playing basketball when he was accidentally struck in the nose by another player's elbow. He has since experienced continuous pain rated at 6/10, along with noticeable swelling and bruising around the nose. The patient finds it difficult to breathe through his nose and is unable to perform his regular daily activities comfortably. He denies any vision changes, loss of consciousness, or other associated injuries.
+
+**Review of Systems (ROS):**
+- **Constitutional:** No fever or chills.
+- **Respiratory:** History of mild asthma, uses Albuterol inhaler PRN.
+- **Cardiovascular:** No chest pain or palpitations.
+- **Gastrointestinal:** No nausea or vomiting.
+- **Neurological:** No headaches or dizziness.
+- **ENT:** Moderate nasal pain, swelling, and bruising, difficulty breathing through the nose.
+  
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 76 bpm
+- Respiratory Rate: 18 breaths/min
+- Temperature: 98.6°F
+
+**Physical Examination:**
+- **HEENT:**
+  - Nose: Tenderness, swelling, and bruising around the nasal bridge. No septal hematoma detected. 
+- **Respiratory:** Lungs clear to auscultation bilaterally.
+- **Cardiovascular:** Normal S1 and S2, no murmurs, rubs, or gallops.
+- **Neurological:** No focal deficits noted.
+
+**3. Assessment:**
+Initial encounter for closed fracture of nasal bones.
+
+**4. Plan:**
+1. **Imaging:** Order a CT scan of the nasal bones to evaluate the extent of the fracture.
+2. **Treatment Recommendations:**
+   - Advise the patient to apply ice to the nose to reduce swelling.
+   - Recommend keeping the head elevated, especially while sleeping, to minimize swelling.
+   - Counsel the patient to avoid strenuous activities that could exacerbate the injury.
+3. **Medication:**
+   - Prescribe Acetaminophen 500 mg, 1 tablet every 6 hours as needed for pain, #30 tablets, oral route.
+4. **Follow-Up:**
+   - Schedule a follow-up appointment in 1 week to monitor healing and assess for potential complications.
+5. **Patient Education:**
+   - Discuss the importance of adhering to the treatment plan and the potential complications if the injury is not managed properly.
+   - Provide instructions on signs and symptoms to monitor for, such as increased pain, new nasal deformity, or difficulty breathing, which would require immediate medical attention."|"**1. Subjective:**
+
+**CC:**
+22 y/o M, John Smith, presents with mod pain and swelling in the nose post-accident 2 hrs ago.
+
+**HPI:**
+Pt reports playing basketball when struck in the nose by another player's elbow. Continuous pain rated 6/10, with noticeable swelling and bruising around the nose. Pt has difficulty breathing through the nose and is unable to perform ADLs comfortably. Denies vision changes, LOC, or other associated injuries.
+
+**ROS:**
+- **Constitutional:** No fever or chills.
+- **Respiratory:** Hx of mild asthma, uses Albuterol inhaler PRN.
+- **Cardiovascular:** No CP or palpitations.
+- **Gastrointestinal:** No N/V.
+- **Neurological:** No HA or dizziness.
+- **ENT:** Mod nasal pain, swelling, and bruising, difficulty breathing through the nose.
+
+**2. Objective:**
+
+**VS:**
+- BP: 120/80 mmHg
+- HR: 76 bpm
+- RR: 18 breaths/min
+- Temp: 98.6°F
+
+**PE:**
+- **HEENT:**
+  - Nose: Tenderness, swelling, and bruising around the nasal bridge. No septal hematoma detected.
+- **Respiratory:** Lungs CTA bilaterally.
+- **Cardiovascular:** Normal S1 and S2, no murmurs, rubs, or gallops.
+- **Neurological:** No focal deficits noted.
+
+**3. Assessment:**
+Initial encounter for closed fx of nasal bones.
+
+**4. Plan:**
+1. **Imaging:** Order CT nasal bones to eval extent of fx.
+2. **Tx Recommendations:**
+   - Advise pt to apply ice to the nose to reduce swelling.
+   - Recommend keeping head elevated, esp while sleeping, to minimize swelling.
+   - Counsel pt to avoid strenuous activities that could exacerbate the injury.
+3. **Meds:**
+   - Rx Acetaminophen 500 mg, 1 tab q6h PRN for pain, #30 tabs, PO.
+4. **F/U:**
+   - Schedule f/u appt in 1 week to monitor healing and assess for potential complications.
+5. **Pt Education:**
+   - Discuss importance of adhering to the tx plan and potential complications if the injury is not managed properly.
+   - Provide instructions on signs and symptoms to monitor for, such as increased pain, new nasal deformity, or difficulty breathing, which would require immediate medical attention."|Role not found in the first 5 lines.
+FRACTURE OF NASAL BONES, INITIAL ENCOUNTER FOR CLOSED FRACTURE|"ROLE: Otolaryngologist (ENT Specialist)
+
+**Scenario:**
+
+**1) Medical Outcome:**
+- Diagnosis: Fracture of nasal bones, initial encounter for closed fracture.
+- Treatment: Recommend closed reduction procedure under local anesthesia.
+- Follow-up: Schedule for a follow-up visit in 1 week to assess healing and any potential complications.
+- Imaging: Order a CT scan of the nasal bones to assess the extent of the fracture.
+- Medication: Prescribe acetaminophen 500 mg, 1 tablet every 6 hours as needed for pain, quantity: 20 tablets, route: oral.
+- Referral: Refer to a plastic surgeon, Dr. John Smith, for evaluation of potential cosmetic complications due to the fracture.
+
+**2) Medical History:** 
+- Previous Diagnoses: None reported.
+- Family Medical History: No significant family history of fractures or bone-related disorders.
+- Medication History: No current medications.
+- Allergies: No known drug allergies.
+- Chronic Conditions: None.
+
+**3) Symptom Description:**
+- Severity: Moderate to severe pain at the site of the fracture.
+- Duration: Pain started 1 hour ago following a fall.
+- Associated Symptoms: Swelling and bruising around the nasal area, difficulty breathing through the nose.
+- Frequency: Continuous pain since the injury.
+- Impact on Daily Activities: Significant discomfort and difficulty performing daily activities due to pain and swelling.
+
+**4) Patient’s self-reported habits and lifestyle:**
+- Sleep: Reports difficulty sleeping due to pain.
+- Diet: Normal diet.
+- Exercise: Regularly exercises 3 times a week; currently unable to due to pain.
+- Tobacco Use: None.
+- Alcohol Consumption: Social drinker, approximately 2 drinks per week.
+- Drug Use: None.
+- Recreational Activities: Enjoys jogging and playing tennis.
+
+**5) Demographic Information:**
+- Age: 32
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle class
+- Education Level: Bachelor's degree
+- Health Literacy: Good
+- Job Status: Software engineer
+
+**6) Patient's Behavior:**
+- Cooperation: Highly cooperative and keen to follow medical advice.
+
+**7) Geographical Location:**
+- Urban location, well-served by public transit.
+- Neighborhood: Affluent with access to multiple healthcare facilities.
+
+**8) Clinical Setting:**
+- Encounter setting: Private practice.
+
+**9) Type of Encounter:**
+- Type of Encounter: Initial Consultation, Emergency Visit.
+
+**10) Treatment Disparities:**
+- None. The patient has good insurance and can afford recommended treatments and referrals.
+
+**11) Native or Non-Native English Speaking Patient:**
+- Native English speaking patient.
+
+**12) Physical exams:**
+- NA
+
+**13) Investigation/Test results:**
+- CT scan of the nasal bones ordered to assess the extent of the fracture. Results are currently pending."|Rejected|Rejected|Rejected|Rejected
+FRACTURE OF NASAL BONES, INITIAL ENCOUNTER FOR CLOSED FRACTURE|"ROLE: Otolaryngologist (ENT Specialist)
+
+**Scenario:**
+
+**1) Medical Outcome:**
+- Diagnosis: Fracture of nasal bones, initial encounter for closed fracture.
+- Treatment: Recommend closed reduction procedure under local anesthesia.
+- Follow-up: Schedule for a follow-up visit in 1 week to assess healing and any potential complications.
+- Imaging: Order a CT scan of the nasal bones to assess the extent of the fracture.
+- Medication: Prescribe ibuprofen 400 mg, 1 tablet every 6 hours as needed for pain, quantity 20 tablets, route: oral.
+
+**2) Medical History:**
+- Previous Diagnoses: Asthma
+- Family Medical History: History of osteoporosis in maternal grandmother.
+- Medication History: Inhaler for asthma as needed.
+- Allergies: Penicillin.
+- Chronic Conditions: Asthma.
+
+**3) Symptom Description:**
+- Severity: Severe pain at the site of the fracture.
+- Duration: Pain started 2 hours ago following a sports injury.
+- Associated Symptoms: Swelling, bruising, and slight nosebleed.
+- Frequency: Persistent pain since the injury.
+- Impact on Daily Activities: Unable to participate in usual activities due to pain and swelling.
+
+**4) Patient’s self-reported habits and lifestyle:**
+- Sleep: Difficulty sleeping due to pain.
+- Diet: Balanced diet, focuses on whole foods.
+- Exercise: Regularly plays basketball and football; currently restricted due to injury.
+- Tobacco Use: None.
+- Alcohol Consumption: Rarely drinks, about 1 drink per month.
+- Drug Use: None.
+- Recreational Activities: Enjoys outdoor sports.
+
+**5) Demographic Information:**
+- Age: 22
+- Gender: Male
+- Ethnicity: African American
+- Socio-economic Status: College student with part-time job
+- Education Level: Senior year in college
+- Health Literacy: Moderate
+- Job Status: Part-time waiter
+
+**6) Patient's Behavior:**
+- Cooperation: Cooperative and attentive to medical guidance.
+
+**7) Geographical Location:**
+- Urban area with moderate pollution levels.
+- Neighborhood: Mixed-income, access to healthcare facilities is moderate.
+
+**8) Clinical Setting:**
+- Encounter setting: Urgent Care Center.
+
+**9) Type of Encounter:**
+- Type of Encounter: Emergency Visit.
+
+**10) Treatment Disparities:**
+- None. The patient has basic student health insurance and can afford recommended treatments and referrals.
+
+**11) Native or Non-Native English Speaking Patient:**
+- Native English speaking patient.
+
+**12) Physical exams:**
+- Inspection of the nose and facial areas, nasal speculum examination.
+
+**13) Investigation/Test results:**
+- CT scan of the nasal bones ordered to assess the extent of the fracture. Results currently pending."|Rejected|Rejected|Rejected|Rejected
+FRACTURE OF NASAL BONES, INITIAL ENCOUNTER FOR CLOSED FRACTURE|"ROLE: Otolaryngologist (ENT Specialist)
+
+**Scenario:**
+
+**1) Medical Outcome:**
+- Diagnosis: Fracture of nasal bones, initial encounter for closed fracture.
+- Treatment: Recommend closed reduction procedure under general anesthesia.
+- Follow-up: Schedule for a follow-up visit in 2 weeks to assess healing and potential complications.
+- Imaging: Order an X-ray of the nasal bones to assess the extent of the fracture.
+- Medication: Prescribe acetaminophen 500 mg, 1 tablet every 4 hours as needed for pain, quantity: 30 tablets, route: oral.
+
+**2) Medical History:**
+- Previous Diagnoses: Hypertension.
+- Family Medical History: History of hypertension and diabetes in parents.
+- Medication History: Amlodipine for hypertension, 5 mg once daily.
+- Allergies: No known drug allergies.
+- Chronic Conditions: Hypertension.
+
+**3) Symptom Description:**
+- Severity: Severe pain localized in the nasal region.
+- Duration: Pain lasting for 4 hours following a domestic accident.
+- Associated Symptoms: Swelling, bruising, mild breathing difficulty through the nose, and intermittent nosebleed.
+- Frequency: Constant pain since the accident.
+- Impact on Daily Activities: Unable to perform daily tasks due to significant pain and swelling.
+
+**4) Patient’s self-reported habits and lifestyle:**
+- Sleep: Reports disrupted sleep due to pain.
+- Diet: Typically consumes a high sodium diet; advised to reduce salt intake.
+- Exercise: Sedentary lifestyle with minimal physical activity.
+- Tobacco Use: Smokes half a pack of cigarettes per day.
+- Alcohol Consumption: Consumes alcohol weekly, about 5-6 drinks per week.
+- Drug Use: None.
+- Recreational Activities: Limited to occasional gardening.
+
+**5) Demographic Information:**
+- Age: 65
+- Gender: Female
+- Ethnicity: Hispanic
+- Socio-economic Status: Retired on a limited fixed income.
+- Education Level: High school diploma.
+- Health Literacy: Limited; requires detailed explanations of medical terms.
+- Job Status: Retired.
+
+**6) Patient's Behavior:**
+- Cooperation: Cooperative but anxious about medical procedures.
+
+**7) Geographical Location:**
+- Rural area with limited access to healthcare facilities.
+- Neighborhood: Low income, with moderate environmental health risks.
+
+**8) Clinical Setting:**
+- Encounter setting: Community Health Services.
+
+**9) Type of Encounter:**
+- Type of Encounter: Initial Consultation, Emergency Visit.
+
+**10) Treatment Disparities:**
+- Due to limited financial resources, the patient is concerned about the cost of follow-up visits and medications.
+
+**11) Native or Non-Native English Speaking Patient:**
+- Non-Native English speaking patient; primarily speaks Spanish.
+
+**12) Physical exams:**
+- Inspection of the nose and facial areas, palpation for tenderness and deformity, nasal speculum examination revealing septal hematoma.
+
+**13) Investigation/Test results:**
+- X-ray of the nasal bones to assess the extent of the fracture. Results are currently pending."|Rejected|Rejected|Rejected|Rejected
+FRACTURE OF NASAL BONES, INITIAL ENCOUNTER FOR CLOSED FRACTURE|"ROLE: Otolaryngologist (ENT Specialist)
+
+- **Medical Outcome:**
+  - Diagnosis: Fracture of nasal bones, initial encounter for closed fracture (ICD-10 S02.2XXA)
+  - Imaging: Order for a CT scan of the facial bones, with a focus on the nasal region
+  - Prescribed Treatment: 
+    - Advil (Ibuprofen) 200 mg, oral, every 6 hours as needed for pain, quantity: 30 tablets
+    - Ice application on the nasal area intermittently for 20 minutes every hour
+  - Follow-up Recommendation: Follow up in 1 week to assess healing progress and potential need for surgical intervention
+
+- **Medical History:**
+  - Previous Diagnoses: Seasonal allergies
+  - Chronic Conditions: Asthma
+  - Allergies: Penicillin
+
+- **Symptom Description:**
+  - Severity: Severe
+  - Duration: 1 day
+  - Associated Symptoms: Swelling, bruising, and difficulty breathing through the nose
+  - Frequency: Constant since the injury
+  - Impact on Daily Activities: Difficulty sleeping and performing daily tasks due to pain and nasal obstruction
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: Poor sleep quality due to nasal obstruction
+  - Diet: Balanced diet
+  - Exercise: Regular jogging, but unable to continue due to injury
+  - Tobacco Use: None
+  - Alcohol Consumption: Occasional
+  - Drug Use: None
+  - Recreational Activities: Enjoys hiking and outdoor activities
+
+- **Demographic Information:**
+  - Age: 45
+  - Gender: Male
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Middle income
+  - Education Level: College graduate
+  - Health Literacy: High
+  - Job Status: Software engineer
+
+- **Patient's Behavior:**
+  - Compliance: Highly cooperative with medical advice
+
+- **Geographical Location:**
+  - Urban
+  - Well-served by transit
+  - Affluent neighborhood
+
+- **Clinical Setting:**
+  - Urgent Care Center
+
+- **Type of Encounter:**
+  - Initial Consultation
+
+- **Treatment Disparities:**
+  - No treatment disparities observed; patient receiving standard care
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English Speaking Patient
+
+- **Physical exams:**
+  - Head and Neck Examination: Palpation reveals nasal deformity, tenderness, and swelling
+  - Nasal Exam: Visible deformity, significant swelling, and ecchymosis
+
+- **Investigation/Test results:**
+  - Awaiting results of the CT scan of the facial bones"|Rejected|Rejected|Rejected|Rejected
+FRACTURE OF NASAL BONES, INITIAL ENCOUNTER FOR CLOSED FRACTURE|"ROLE: Otolaryngologist (ENT Specialist)
+
+- **Medical Outcome:**
+  - Diagnosis: Fracture of nasal bones, initial encounter for closed fracture (ICD-10 S02.2XXA)
+  - Imaging: X-ray of the nasal bones to confirm the extent of the fracture
+  - Prescribed Treatment: 
+    - Acetaminophen 500 mg, oral, every 4-6 hours as needed for pain, quantity: 25 tablets
+    - Ice application on the nasal area intermittently for 20 minutes every hour
+  - Referral: Referral to Dr. Jane Smith, Plastic Surgery, for further evaluation of the possible need for surgical correction
+  - Follow-up Recommendation: Follow up in 1 week to assess the healing progress and review X-ray results
+
+- **Medical History:**
+  - Previous Diagnoses: Hypertension, managed with lifestyle changes
+  - Family Medical History: Mother has osteoporosis
+  - Allergies: None
+
+- **Symptom Description:**
+  - Severity: Moderate
+  - Duration: 2 days
+  - Associated Symptoms: Swelling, mild epistaxis (nosebleed), and congestion
+  - Frequency: Constant since the injury
+  - Impact on Daily Activities: Difficulty concentrating at work due to discomfort and congestion
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: Disturbed due to nasal congestion
+  - Diet: Vegetarian diet
+  - Exercise: Regular yoga and light weightlifting
+  - Tobacco Use: None
+  - Alcohol Consumption: Never
+  - Drug Use: None
+  - Recreational Activities: Enjoys reading and gardening
+
+- **Demographic Information:**
+  - Age: 60
+  - Gender: Female
+  - Ethnicity: African American
+  - Socio-economic Status: Lower middle income
+  - Education Level: High school diploma
+  - Health Literacy: Moderate
+  - Job Status: Retired teacher
+
+- **Patient's Behavior:**
+  - Compliance: Generally adheres to medical advice but sometimes forgets medication
+
+- **Geographical Location:**
+  - Rural
+  - Moderately polluted area
+  - Affluent neighborhood but far from major healthcare facilities
+
+- **Clinical Setting:**
+  - Community Health Services
+
+- **Type of Encounter:**
+  - Follow-up Visit
+
+- **Treatment Disparities:**
+  - Potential risk of fewer options due to the patient's lower middle-income status
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English Speaking Patient
+
+- **Physical exams:**
+  - Head and Neck Examination: Palpation reveals tenderness and bruising over the nasal bones, but no obvious deformity
+  - Nasal Exam: Mild epistaxis observed, moderate swelling, and congestion
+
+- **Investigation/Test results:**
+  - Awaiting results of the X-ray of the nasal bones"|Rejected|Rejected|Rejected|Rejected
+FRACTURE OF NASAL BONES, INITIAL ENCOUNTER FOR CLOSED FRACTURE|"ROLE: Otolaryngologist (ENT Specialist)
+
+- **Medical Outcome:**
+  - Diagnosis: Fracture of nasal bones, initial encounter for closed fracture (ICD-10 S02.2XXA)
+  - Imaging: Order for a CT scan of the nasal bones and facial structures to get a detailed view of the fracture
+  - Prescribed Treatment: 
+    - Tylenol (Acetaminophen) 500 mg, oral, every 6 hours as needed for pain, quantity: 20 tablets
+    - Advising nasal breathing strips to facilitate easier breathing at night
+  - Referral: Referral to Dr. John Adams, Maxillofacial Surgery, for further evaluation in case surgical correction is needed
+  - Follow-up Recommendation: Follow up in 3 days to review the CT scan results and evaluate the fracture's stability
+
+- **Medical History:**
+  - Previous Diagnoses: Osteoarthritis in the knees
+  - Family Medical History: Father had coronary artery disease
+  - Allergies: Sulfa drugs
+
+- **Symptom Description:**
+  - Severity: Moderate to Severe
+  - Duration: 3 days
+  - Associated Symptoms: Pain, swelling, nasal congestion
+  - Frequency: Persistent since injury
+  - Impact on Daily Activities: Difficulty with routine activities, sleep disturbance due to nasal congestion and pain
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: Disturbed due to pain and nasal congestion
+  - Diet: High-protein diet for muscle maintenance
+  - Exercise: Regular swimming, currently unable to perform due to injury
+  - Tobacco Use: History of smoking, quit 5 years ago
+  - Alcohol Consumption: Social drinker, moderate intake
+  - Drug Use: None
+  - Recreational Activities: Enjoys traveling and outdoor activities
+
+- **Demographic Information:**
+  - Age: 55
+  - Gender: Male
+  - Ethnicity: Hispanic
+  - Socio-economic Status: Upper middle income
+  - Education Level: Bachelor's degree
+  - Health Literacy: High
+  - Job Status: Business consultant
+
+- **Patient's Behavior:**
+  - Compliance: Generally compliant but expresses concern about time away from work
+
+- **Geographical Location:**
+  - Urban
+  - Low pollution area
+  - Neighborhood: Middle-class, well-served by public transport and healthcare
+
+- **Clinical Setting:**
+  - Private Practice
+
+- **Type of Encounter:**
+  - Follow-up Visit
+
+- **Treatment Disparities:**
+  - No treatment disparities observed
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English Speaking Patient
+
+- **Physical exams:**
+  - Full Head and Neck Examination: Reveals significant swelling around the nose, mild deviation on touch
+  - Nasal Exam: Observable bruising and some dried blood, but no active bleeding
+
+- **Investigation/Test results:**
+  - Awaiting results of the CT scan of the nasal bones and facial structures"|Rejected|Rejected|Rejected|Rejected
+FRACTURE OF NASAL BONES, INITIAL ENCOUNTER FOR CLOSED FRACTURE|"ROLE: Otolaryngologist (ENT Specialist)
+
+**1) Medical Outcome:**
+   - Diagnosis: Fracture of nasal bones, initial encounter for closed fracture.
+   - Prescribed Treatment: Recommend ice packs to reduce swelling and pain.
+   - Pain Medication: Acetaminophen 500 mg, oral, 1 tablet every 6 hours as needed for pain, quantity: 20 tablets.
+   - Follow-up Recommendations: Follow-up in 1 week to assess healing and determine if surgical intervention is necessary.
+   - Referral: Referral to Maxillofacial Surgeon, Dr. Susan Lee, for potential realignment if significant displacement is observed.
+   - Imaging: Order a CT scan of the facial bones to assess the extent of the fracture and any associated injuries.
+   
+**2) Medical History:**
+   - Previous Diagnoses: None.
+   - Family Medical History: Patient denies any known family history of bone disorders or nasal issues.
+   - Medication History: No current medications.
+   - Allergies: No known drug allergies.
+   - Chronic Conditions: None.
+
+**3) Symptom Description:**
+   - Severity: Severe pain in the nose.
+   - Duration: Injury occurred 1 hour ago.
+   - Associated Symptoms: Swelling and bruising around the nose and under the eyes, difficulty breathing through the nose.
+   - Frequency: Constant pain since the injury.
+   - Impact on Daily Activities: Unable to perform usual activities due to pain and nasal obstruction.
+
+**4) Patient’s self-reported habits and lifestyle:**
+   - Sleep: Reports difficulty sleeping due to pain.
+   - Diet: Regular diet, no restrictions.
+   - Exercise: Occasional exercise, not currently active due to injury.
+   - Tobacco Use: Denies smoking.
+   - Alcohol Consumption: Consumes alcohol socially, about once a week.
+   - Drug Use: Denies recreational drug use.
+   - Recreational Activities: Engages in moderate outdoor activities.
+
+**5) Demographic Information:**
+   - Age: 28
+   - Gender: Male
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: High
+   - Job Status: Software engineer
+
+**6) Patient's Behavior:**
+   - Cooperation: Highly cooperative, eager to follow medical advice.
+
+**7) Geographical Location:**
+   - Urban
+   - Neighborhood: Affluent area
+   - Environmental Health Risks: None reported
+
+**8) Clinical Setting:**
+   - Clinic
+   
+**9) Type of Encounter:**
+   - Initial Consultation
+
+**10) Treatment Disparities:**
+   - None observed; patient has good access to healthcare and is insured.
+
+**11) Native or Non-Native English Speaking Patient:**
+   - Native English Speaker
+   
+**12) Physical exams:**
+   - Head: Swelling and bruising around the nose and eyes, tenderness upon palpation of the nasal bones.
+   - Nose: Visible deformity, bilateral nasal obstruction due to swelling.
+
+**13) Investigation/Test results:**
+   - CT scan of the facial bones: Ordered, awaiting results.
+
+"|Rejected|Rejected|Rejected|Rejected
+FRACTURE OF NASAL BONES, INITIAL ENCOUNTER FOR CLOSED FRACTURE|"ROLE: Otolaryngologist (ENT Specialist)
+
+**1) Medical Outcome:**
+   - Diagnosis: Fracture of nasal bones, initial encounter for closed fracture.
+   - Prescribed Treatment: Recommend elevation of the head and ice packs to reduce swelling and pain.
+   - Pain Medication: Ibuprofen 400 mg, oral, 1 tablet every 8 hours as needed for pain, quantity: 10 tablets.
+   - Follow-up Recommendations: Follow-up in 5 days to assess healing and determine if more aggressive intervention is needed.
+   - Referral: Referral to Plastic Surgeon, Dr. Michael Brooks, for potential realignment if significant displacement is observed.
+   - Imaging: Order an MRI of the nasal bones to assess the extent of the fracture and exclude any soft tissue involvement.
+   
+**2) Medical History:**
+   - Previous Diagnoses: Asthma, managed with an albuterol inhaler.
+   - Family Medical History: Patient reports a family history of hypertension and diabetes.
+   - Medication History: Uses albuterol inhaler as needed.
+   - Allergies: Allergic to penicillin.
+   - Chronic Conditions: Asthma.
+
+**3) Symptom Description:**
+   - Severity: Moderate to severe pain localized to the nose.
+   - Duration: Injury occurred 3 hours ago.
+   - Associated Symptoms: Epistaxis (nosebleed), swelling, bruising under both eyes, and intermittent headache.
+   - Frequency: Constant pain and swelling since injury.
+   - Impact on Daily Activities: Difficulty with breathing through the nose, cannot concentrate on work tasks.
+
+**4) Patient’s self-reported habits and lifestyle:**
+   - Sleep: Reports difficulty sleeping due to pain and nasal obstruction.
+   - Diet: Balanced diet, consumes mostly home-cooked meals.
+   - Exercise: Regular runner, jogs five times a week for 30 minutes.
+   - Tobacco Use: Occasional smoker, 1-2 cigarettes per week.
+   - Alcohol Consumption: Consumes alcohol on weekends, about 2-3 drinks.
+   - Drug Use: Denies recreational drug use.
+   - Recreational Activities: Plays basketball on weekends.
+
+**5) Demographic Information:**
+   - Age: 42
+   - Gender: Female
+   - Ethnicity: African American
+   - Socio-economic Status: Upper middle class
+   - Education Level: Master’s degree
+   - Health Literacy: High
+   - Job Status: Marketing executive
+
+**6) Patient's Behavior:**
+   - Cooperation: Highly cooperative and keen on following medical advice to resume daily activities.
+
+**7) Geographical Location:**
+   - Urban
+   - Neighborhood: Well-served by transit, affluent area
+   - Environmental Health Risks: Some exposure to air pollution from nearby traffic congestion
+
+**8) Clinical Setting:**
+   - Urgent Care Center
+
+**9) Type of Encounter:**
+   - Initial Consultation
+
+**10) Treatment Disparities:**
+   - None observed; patient has excellent access to healthcare and comprehensive insurance coverage.
+
+**11) Native or Non-Native English Speaking Patient:**
+   - Native English Speaker
+   
+**12) Physical exams:**
+   - Head: Swelling and bruising around the eyes and nose, tenderness upon palpation, slight deformity of the nasal septum.
+   - Nose: Epistaxis present, nasal passages obstructed due to swelling.
+
+**13) Investigation/Test results:**
+   - MRI of the nasal bones: Ordered, awaiting results."|Rejected|Rejected|Rejected|Rejected
+FRACTURE OF NASAL BONES, INITIAL ENCOUNTER FOR CLOSED FRACTURE|"ROLE: Otolaryngologist (ENT Specialist)
+
+**1) Medical Outcome:**
+   - Diagnosis: Fracture of nasal bones, initial encounter for closed fracture.
+   - Prescribed Treatment: Recommend ice packs and elevation of the head to reduce swelling and pain.
+   - Pain Medication: Acetaminophen 500 mg, oral, 1 tablet every 6 hours as needed for pain, quantity: 20 tablets.
+   - Follow-up Recommendations: Follow-up in 1 week to assess healing and determine if surgical intervention is necessary.
+   - Referral: Referral to Plastic Surgeon, Dr. Emily Carter, for potential realignment if significant displacement is observed.
+   - Imaging: Order a nasal bone X-ray to assess the extent of the fracture and any associated injuries.
+
+**2) Medical History:**
+   - Previous Diagnoses: Hyperlipidemia, hypertension.
+   - Family Medical History: Patient reports a family history of coronary artery disease and stroke.
+   - Medication History: Currently taking atorvastatin 10 mg daily and lisinopril 5 mg daily.
+   - Allergies: No known drug allergies.
+   - Chronic Conditions: Hyperlipidemia, hypertension.
+
+**3) Symptom Description:**
+   - Severity: Severe pain in the nose and facial area.
+   - Duration: Injury occurred 2 hours ago.
+   - Associated Symptoms: Severe swelling, discoloration around the eyes, nasal obstruction, and bleeding from the nose.
+   - Frequency: Constant, unrelenting pain and swelling since the injury.
+   - Impact on Daily Activities: Significant difficulty in breathing, eating, and sleeping due to pain and swelling.
+
+**4) Patient’s self-reported habits and lifestyle:**
+   - Sleep: Reports difficulty sleeping due to pain.
+   - Diet: High-fiber diet.
+   - Exercise: Walks daily for 30 minutes.
+   - Tobacco Use: Non-smoker.
+   - Alcohol Consumption: Drinks wine occasionally, about twice a month.
+   - Drug Use: Denies recreational drug use.
+   - Recreational Activities: Enjoys reading and gardening.
+
+**5) Demographic Information:**
+   - Age: 60
+   - Gender: Male
+   - Ethnicity: White
+   - Socio-economic Status: Retired professional, upper-middle-class.
+   - Education Level: PhD in Physics
+   - Health Literacy: Very high
+   - Job Status: Retired
+
+**6) Patient's Behavior:**
+   - Cooperation: Very cooperative, interested in detailed understanding and following medical advice.
+
+**7) Geographical Location:**
+   - Rural
+   - Neighborhood: Affluent area
+   - Environmental Health Risks: None reported
+
+**8) Clinical Setting:**
+   - Emergency Department
+
+**9) Type of Encounter:**
+   - Initial Consultation
+
+**10) Treatment Disparities:**
+   - None observed; patient has excellent access to healthcare and is well-insured.
+
+**11) Native or Non-Native English Speaking Patient:**
+   - Native English Speaker
+   
+**12) Physical exams:**
+   - Head: Observe significant swelling and bruising around the nose and under the eyes, tenderness upon palpation of nasal bones.
+   - Nose: Noticeable deformity, bilateral nasal obstruction due to swelling and bruising.
+
+**13) Investigation/Test results:**
+   - X-ray of nasal bones: Ordered, awaiting results."|Rejected|Rejected|Rejected|Rejected

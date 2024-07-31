@@ -1,0 +1,1805 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role
+HYPOGLYCEMIA, UNSPECIFIED|"**ROLE:** Endocrinologist
+
+**Scenario Variables:**
+- **Medical Outcome:** Diagnosis of hypoglycemia, unspecified. Prescription of Glucagon Emergency Kit, 1 mg/dose, intramuscular, for emergency use. Recommend dietary changes and education on recognizing and treating hypoglycemia. Order for blood work, including fasting glucose, HbA1c, and a comprehensive metabolic panel.
+- **Medical History:** Previous diagnosis of Type 2 Diabetes Mellitus; history of hypertension; father with history of cardiovascular disease. Medication history includes Metformin 500 mg twice daily.
+- **Symptom Description:** Patient reports recurrent episodes of dizziness and sweating for the past two weeks, occurring mainly in the afternoon. Symptoms occur 3-4 times per week, impacting the patient's ability to perform daily activities.
+- **Patient’s self-reported habits and lifestyle:** Sleeps 6-7 hours per night, follows a low-carb diet, exercises 2-3 times per week with light jogging, non-smoker, and consumes alcohol occasionally (1-2 drinks per week).
+- **Demographic Information:** 52-year-old Caucasian male, middle-income, college-educated, health literate, employed as a software engineer.
+- **Patient's Behavior:** Generally adherent to medical advice and medications but occasionally misses meals due to work commitments.
+- **Geographical Location:** Urban area with moderate pollution, well-served by public transit, and not a food desert.
+- **Clinical Setting:** Private Practice.
+- **Type of Encounter:** Initial Consultation.
+- **Treatment Disparities:** None identified.
+- **Native or Non-Native English Speaking Patient:** Native English speaker.
+- **Physical exams:** Detailed neurological and cardiovascular examination, both normal.
+- **Investigation/Test results:** NA (tests ordered to be done).
+  
+**Complete Scenario:**
+CHIEF COMPLAINT: Hypoglycemia, unspecified
+
+HISTORY OF PRESENT ILLNESS: Mr. John Doe, a 52-year-old Caucasian male, presents to the private practice for an initial consultation reporting recurrent episodes of dizziness and sweating for the past two weeks, mainly in the afternoon. These symptoms occur 3-4 times per week and impact his ability to perform daily activities.
+
+PAST MEDICAL HISTORY: Previous diagnosis of Type 2 Diabetes Mellitus and hypertension. Father had a history of cardiovascular disease.
+
+CURRENT MEDICATIONS: Metformin 500 mg twice daily.
+
+SOCIAL HISTORY: Sleeps 6-7 hours per night, follows a low-carb diet, exercises 2-3 times per week with light jogging, non-smoker, and consumes alcohol occasionally (1-2 drinks per week).
+
+PHYSICAL EXAMS: Neurological and cardiovascular examination is normal.
+
+PLAN:
+1. Diagnosis of hypoglycemia, unspecified.
+2. Prescription of Glucagon Emergency Kit, 1 mg/dose, intramuscular, for emergency use.
+3. Dietary changes and patient education on recognizing and treating hypoglycemia.
+4. Order for blood work: fasting glucose, HbA1c, and a comprehensive metabolic panel.
+
+John Doe is generally adherent to medical advice and medications, but occasionally misses meals due to work commitments. He lives in an urban area with moderate pollution, well-served by public transit, and not a food desert. The patient is a native English speaker and is middle-income, college-educated, health literate, and employed as a software engineer. No treatment disparities were identified."|"**CHIEF COMPLAINT:**
+Hypoglycemia, unspecified
+
+**HISTORY OF PRESENT ILLNESS:**
+Mr. John Doe, a 52-year-old Caucasian male, presents to the private practice for an initial consultation reporting recurrent episodes of dizziness and sweating for the past two weeks. These symptoms occur mainly in the afternoon and happen 3-4 times per week, impacting his ability to perform daily activities. He has a background of Type 2 Diabetes Mellitus and hypertension, and his father had a history of cardiovascular disease. 
+
+Mr. Doe adheres to his medication regimen of Metformin 500 mg twice daily. His sleep pattern is typically 6-7 hours per night, and he follows a low-carb diet. He engages in light jogging 2-3 times per week, is a non-smoker, and consumes alcohol occasionally (1-2 drinks per week). He reveals that he occasionally misses meals due to work commitments, which might contribute to his symptoms.
+
+**PHYSICAL EXAMS:**
+- **Neurological:** Normal.
+- **Cardiovascular:** Normal.
+
+**ASSESSMENT:**
+Mr. John Doe is experiencing recurrent episodes of hypoglycemia, unspecified, likely related to his current diabetes management and occasionally missing meals. 
+
+Differential Diagnosis:
+1. Hypoglycemia, unspecified
+2. Glycemic variability due to missed meals
+3. Potential medication-related hypoglycemia
+
+**PLAN:**
+1. **Prescription:**
+   - Glucagon Emergency Kit, 1 mg/dose, intramuscular, for emergency use.
+
+2. **Dietary Changes and Education:**
+   - Educate the patient on recognizing early signs and symptoms of hypoglycemia.
+   - Encourage a balanced diet with regular meal patterns to avoid missed meals.
+   - Provide dietary recommendations to include mid-afternoon snacks to prevent hypoglycemia.
+
+3. **Ordering Blood Work:**
+   - Fasting glucose
+   - HbA1c
+   - Comprehensive metabolic panel
+
+4. **Follow-Up:**
+   - Schedule follow-up appointment after blood work results to reassess and adjust the treatment plan as necessary.
+
+5. **Patient Instructions:**
+   - Advise Mr. Doe to monitor his blood sugars closely, especially when he feels symptomatic.
+   - Emphasize the importance of not missing meals and consuming a balanced diet.
+   - Provide education on how and when to use the Glucagon Emergency Kit.
+
+The patient understands and agrees with the recommended medical treatment plan. He is advised to return to the clinic for a follow-up consultation in two weeks or sooner if symptoms worsen.
+
+Mr. Doe lives in an urban area with moderate pollution, is middle-income, college-educated, health literate, and a native English speaker with no identified treatment disparities."|"**1. Subjective:**
+Mr. John Doe, a 52-year-old Caucasian male, presents to the private practice for an initial consultation reporting recurrent episodes of dizziness and sweating for the past two weeks. These symptoms occur mainly in the afternoon and happen 3-4 times per week, impacting his ability to perform daily activities. He has a background of Type 2 Diabetes Mellitus and hypertension, and his father had a history of cardiovascular disease. 
+
+Mr. Doe adheres to his medication regimen of Metformin 500 mg twice daily. His sleep pattern is typically 6-7 hours per night, and he follows a low-carb diet. He engages in light jogging 2-3 times per week, is a non-smoker, and consumes alcohol occasionally (1-2 drinks per week). He reveals that he occasionally misses meals due to work commitments, which might contribute to his symptoms.
+
+**2. Objective:**
+- **Neurological:** Normal.
+- **Cardiovascular:** Normal.
+
+**3. Assessment:**
+Mr. John Doe is experiencing recurrent episodes of hypoglycemia, unspecified, likely related to his current diabetes management and occasionally missing meals. 
+
+Differential Diagnosis:
+1. Hypoglycemia, unspecified
+2. Glycemic variability due to missed meals
+3. Potential medication-related hypoglycemia
+
+**4. Plan:**
+1. **Prescription:**
+   - Glucagon Emergency Kit, 1 mg/dose, intramuscular, for emergency use.
+
+2. **Dietary Changes and Education:**
+   - Educate the patient on recognizing early signs and symptoms of hypoglycemia.
+   - Encourage a balanced diet with regular meal patterns to avoid missed meals.
+   - Provide dietary recommendations to include mid-afternoon snacks to prevent hypoglycemia.
+
+3. **Ordering Blood Work:**
+   - Fasting glucose
+   - HbA1c
+   - Comprehensive metabolic panel
+
+4. **Follow-Up:**
+   - Schedule follow-up appointment after blood work results to reassess and adjust the treatment plan as necessary.
+
+5. **Patient Instructions:**
+   - Advise Mr. Doe to monitor his blood sugars closely, especially when he feels symptomatic.
+   - Emphasize the importance of not missing meals and consuming a balanced diet.
+   - Provide education on how and when to use the Glucagon Emergency Kit.
+
+The patient understands and agrees with the recommended medical treatment plan. He is advised to return to the clinic for a follow-up consultation in two weeks or sooner if symptoms worsen."|"**1. Subjective:**
+Mr. John Doe, a 52 y/o Caucasian male, presents to the private practice for an initial consult reporting recurrent episodes of dizziness and sweating for the past 2 wks. These sx occur mainly in the afternoon and happen 3-4x/wk, impacting his ability to perform ADLs. He has a hx of T2DM and HTN, and his father had a hx of CVD.
+
+Mr. Doe adheres to his med regimen of Metformin 500 mg BID. His sleep pattern is typically 6-7 hrs/night, and he follows a low-carb diet. He engages in light jogging 2-3x/wk, is a non-smoker, and consumes ETOH occasionally (1-2 drinks/wk). He reveals that he occasionally misses meals due to work commitments, which might contribute to his sx.
+
+**2. Objective:**
+- **Neuro:** WNL.
+- **CV:** WNL.
+
+**3. Assessment:**
+Mr. John Doe is experiencing recurrent episodes of hypoglycemia, unspecified, likely related to his current DM mgmt and occasionally missing meals.
+
+Differential Dx:
+1. Hypoglycemia, unspecified
+2. Glycemic variability due to missed meals
+3. Potential med-related hypoglycemia
+
+**4. Plan:**
+1. **Rx:**
+   - Glucagon Emergency Kit, 1 mg/dose, IM, for emergency use.
+
+2. **Dietary Changes and Education:**
+   - Educate pt on recognizing early signs and sx of hypoglycemia.
+   - Encourage a balanced diet with regular meal patterns to avoid missed meals.
+   - Provide dietary recs to include mid-afternoon snacks to prevent hypoglycemia.
+
+3. **Ordering Labs:**
+   - Fasting glucose
+   - HbA1c
+   - CMP
+
+4. **F/U:**
+   - Schedule f/u appt after lab results to reassess and adjust the tx plan as necessary.
+
+5. **Pt Instructions:**
+   - Advise Mr. Doe to monitor his blood sugars closely, especially when he feels symptomatic.
+   - Emphasize the importance of not missing meals and consuming a balanced diet.
+   - Provide education on how and when to use the Glucagon Emergency Kit.
+
+The pt understands and agrees with the recommended medical tx plan. He is advised to return to the clinic for a f/u consult in 2 wks or sooner if sx worsen."|Role not found in the first 5 lines.
+HYPOGLYCEMIA, UNSPECIFIED|"ROLE: Endocrinologist
+
+**Scenario:**
+
+- **Medical Outcome:** 
+  - Diagnosis: Hypoglycemia, unspecified (ICD-10: E16.2)
+  - Prescribed Medication: Glucose gel, 15g orally as needed for hypoglycemia.
+  - Follow-up recommendations: Follow-up consultation in 2 weeks.
+  - Referral to specialists: Referral to a neurologist, Dr. John Smith, for evaluation of potential seizure activity.
+  - Blood work: Comprehensive Metabolic Panel (CMP), insulin autoantibodies, C-peptide.
+  - Lifestyle change: Introduction of frequent, balanced small meals and diary tracking of blood sugar levels.
+
+- **Medical History:** 
+  - Previous Diagnoses: Chronic Kidney Disease stage 2, Asthma.
+  - Family Medical History: Brother with Multiple Sclerosis, Father with Diabetes Mellitus Type 1.
+  - Medication History: Albuterol inhaler PRN, Losartan 50 mg daily.
+  - Allergies: Sulfa drugs.
+  - Chronic Conditions: Chronic Kidney Disease, Asthma.
+
+- **Symptom Description:** 
+  - Severity: Moderate
+  - Duration: Episodes occurring 4-5 times a week over the past 1 month.
+  - Associated Symptoms: Palpitations, sweating, transient vision changes, and occasional syncope.
+  - Frequency: 4-5 times per week.
+  - Impact on Daily Activities: Significant, leading to frequent work absences and difficulty managing daily routines.
+
+- **Patient’s self-reported habits and lifestyle:** 
+  - Sleep: Poor sleep quality due to breathing issues; averaging 5-6 hours per night.
+  - Diet: Irregular meals, high in processed foods and low in protein.
+  - Exercise: Rarely exercises due to asthma; occasional light stretching exercises.
+  - Tobacco Use: History of smoking, quit 5 years ago, 10 pack-years.
+  - Alcohol Consumption: Rarely consumes alcohol.
+  - Drug Use: Denies illicit drug use.
+  - Recreational Activities: Enjoys knitting and occasional short walks.
+
+- **Demographic Information:** 
+  - Age: 45
+  - Gender: Female
+  - Ethnicity: African-American
+  - Socio-economic Status: Low-income
+  - Education Level: High school graduate
+  - Health Literacy: Low
+  - Job Status: Unemployed due to health issues.
+
+- **Patient's Behavior:** Frequently non-compliant with dietary recommendations and medication regimen.
+
+- **Geographical Location:** 
+  - Big City vs Small City: Lives in a rural area.
+  - Pollution and Environmental Health Risks: Low pollution.
+  - Neighborhood Type: Impoverished, limited access to healthcare facilities.
+  - Well-served by Transit: Limited public transport options.
+  - Food Desert: Yes, limited access to healthy food options.
+
+- **Clinical Setting:** Community health center.
+
+- **Type of Encounter:** Follow-up consultation.
+
+- **Treatment Disparities:** Limited access to specialized care due to financial constraints and geographical location.
+
+- **Native or Non-Native English Speaking Patient:** Non-Native English speaker, fluent in Spanish.
+
+- **Physical exams:** 
+  - General: Appears anxious and pale, in no acute distress.
+  - Cardiovascular: Rapid heart rate, regular rhythm.
+  - Neurological: Alert and oriented but exhibits mild confusion; cranial nerves II-XII intact.
+  - Skin: Pale, slightly diaphoretic.
+
+- **Investigation/Test results:** 
+  - Awaiting: Comprehensive Metabolic Panel (CMP), insulin autoantibodies, C-peptide."|"#####
+**SUBJECTIVE:**
+**Chief Complaint (CC):**
+Frequent episodes of hypoglycemia.
+
+**History of Present Illness (HPI):**
+Maria Hernandez is a 45-year-old African-American female presenting for a follow-up consultation regarding episodes of hypoglycemia. She has been experiencing moderate hypoglycemic episodes 4-5 times a week over the past month. These episodes are associated with palpitations, sweating, transient vision changes, and occasional syncope. They significantly impact her daily activities, leading to frequent work absences and difficulty managing daily routines. The patient reports poor dietary habits, including irregular meals high in processed foods and low in protein. She also reports poor sleep quality, averaging 5-6 hours per night due to breathing issues related to her asthma.
+
+**Review of Systems (ROS):**
+- Constitutional: Reports poor sleep quality, averaging 5-6 hours per night.
+- Cardiovascular: Reports palpitations, no chest pain.
+- Respiratory: Asthma, uses an albuterol inhaler as needed, breathing issues at night.
+- Neurological: Transient vision changes, occasional syncope.
+- Dermatological: Pale, occasionally diaphoretic.
+
+**OBJECTIVE:**
+**Vitals:**
+- Blood pressure: 135/85 mmHg
+- Heart rate: 110 bpm
+- Respiratory rate: 18 breaths/min
+- Temperature: 36.7°C
+
+**Physical Examination:**
+- General: Patient appears anxious and pale, in no acute distress.
+- Cardiovascular: Rapid heart rate, regular rhythm.
+- Respiratory: Clear to auscultation bilaterally, slightly labored breathing noted.
+- Neurological: Alert and oriented but exhibits mild confusion; cranial nerves II-XII intact.
+- Skin: Pale, slightly diaphoretic.
+
+**ASSESSMENT:**
+1. Hypoglycemia, unspecified (ICD-10: E16.2)
+2. Chronic Kidney Disease stage 2
+3. Asthma
+
+**PLAN:**
+1. **Medication:**
+   - Prescribed Glucose gel, 15g orally as needed for hypoglycemia.
+   
+2. **Follow-up:**
+   - Scheduled follow-up consultation in 2 weeks.
+   
+3. **Referral:**
+   - Referred to a neurologist, Dr. John Smith, for evaluation of potential seizure activity.
+   
+4. **Investigations:**
+   - Ordered Comprehensive Metabolic Panel (CMP), insulin autoantibodies, and C-peptide.
+   
+5. **Lifestyle Changes:**
+   - Advised frequent, balanced small meals.
+   - Recommended keeping a diary to track blood sugar levels.
+   - Discussed dietary modifications to include more protein and minimize processed foods.
+   
+6. **Education and Counseling:**
+   - Provided written educational materials in Spanish regarding hypoglycemia management.
+   - Encouraged patient to adhere to dietary and medication recommendations.
+   - Discussed the importance of consistent meal timing and healthy food choices.
+   
+7. **Support Services:**
+   - Provided information on local food assistance programs to address limited access to healthy food options.
+   - Discussed options for transportation assistance to facilitate access to healthcare appointments.
+   
+8. **Asthma Management:**
+   - Reviewed proper use of the albuterol inhaler and advised follow-up with a primary care provider to reassess asthma control.
+
+Further actions include close monitoring of blood test results to better understand the underlying cause of hypoglycemia and collaboration with the neurologist to rule out any seizure-related complications. Recommendations were tailored considering the patient's socio-economic status and limited access to healthcare, ensuring feasible and practical solutions are offered.
+
+#####"|"**1. Subjective:**
+**Chief Complaint (CC):**
+Frequent episodes of hypoglycemia.
+
+**History of Present Illness (HPI):**
+Maria Hernandez is a 45-year-old African-American female presenting for a follow-up consultation regarding episodes of hypoglycemia. She has been experiencing moderate hypoglycemic episodes 4-5 times a week over the past month. These episodes are associated with palpitations, sweating, transient vision changes, and occasional syncope. They significantly impact her daily activities, leading to frequent work absences and difficulty managing daily routines. The patient reports poor dietary habits, including irregular meals high in processed foods and low in protein. She also reports poor sleep quality, averaging 5-6 hours per night due to breathing issues related to her asthma.
+
+**Review of Systems (ROS):**
+- Constitutional: Reports poor sleep quality, averaging 5-6 hours per night.
+- Cardiovascular: Reports palpitations, no chest pain.
+- Respiratory: Asthma, uses an albuterol inhaler as needed, breathing issues at night.
+- Neurological: Transient vision changes, occasional syncope.
+- Dermatological: Pale, occasionally diaphoretic.
+
+**2. Objective:**
+**Vitals:**
+- Blood pressure: 135/85 mmHg
+- Heart rate: 110 bpm
+- Respiratory rate: 18 breaths/min
+- Temperature: 36.7°C
+
+**Physical Examination:**
+- General: Patient appears anxious and pale, in no acute distress.
+- Cardiovascular: Rapid heart rate, regular rhythm.
+- Respiratory: Clear to auscultation bilaterally, slightly labored breathing noted.
+- Neurological: Alert and oriented but exhibits mild confusion; cranial nerves II-XII intact.
+- Skin: Pale, slightly diaphoretic.
+
+**3. Assessment:**
+1. Hypoglycemia, unspecified (ICD-10: E16.2)
+2. Chronic Kidney Disease stage 2
+3. Asthma
+
+**4. Plan:**
+1. **Medication:**
+   - Prescribed Glucose gel, 15g orally as needed for hypoglycemia.
+   
+2. **Follow-up:**
+   - Scheduled follow-up consultation in 2 weeks.
+   
+3. **Referral:**
+   - Referred to a neurologist, Dr. John Smith, for evaluation of potential seizure activity.
+   
+4. **Investigations:**
+   - Ordered Comprehensive Metabolic Panel (CMP), insulin autoantibodies, and C-peptide.
+   
+5. **Lifestyle Changes:**
+   - Advised frequent, balanced small meals.
+   - Recommended keeping a diary to track blood sugar levels.
+   - Discussed dietary modifications to include more protein and minimize processed foods.
+   
+6. **Education and Counseling:**
+   - Provided written educational materials in Spanish regarding hypoglycemia management.
+   - Encouraged patient to adhere to dietary and medication recommendations.
+   - Discussed the importance of consistent meal timing and healthy food choices.
+   
+7. **Support Services:**
+   - Provided information on local food assistance programs to address limited access to healthy food options.
+   - Discussed options for transportation assistance to facilitate access to healthcare appointments.
+   
+8. **Asthma Management:**
+   - Reviewed proper use of the albuterol inhaler and advised follow-up with a primary care provider to reassess asthma control."|"**1. Subjective:**
+**CC:**
+Frequent episodes of hypoglycemia.
+
+**HPI:**
+Maria Hernandez is a 45-year-old African-American female presenting for a f/u consultation regarding episodes of hypoglycemia. She has been experiencing moderate hypoglycemic episodes 4-5 times a week over the past month. These episodes are associated with palpitations, sweating, transient vision changes, and occasional syncope. They significantly impact her ADLs, leading to frequent work absences and difficulty managing daily routines. The patient reports poor dietary habits, including irregular meals high in processed foods and low in protein. She also reports poor sleep quality, averaging 5-6 hours per night due to breathing issues related to her asthma.
+
+**ROS:**
+- Constitutional: Reports poor sleep quality, averaging 5-6 hours per night.
+- CV: Reports palpitations, no CP.
+- Resp: Asthma, uses an albuterol inhaler PRN, breathing issues at night.
+- Neuro: Transient vision changes, occasional syncope.
+- Derm: Pale, occasionally diaphoretic.
+
+**2. Objective:**
+**Vitals:**
+- BP: 135/85 mmHg
+- HR: 110 bpm
+- RR: 18 breaths/min
+- Temp: 36.7°C
+
+**PE:**
+- General: Patient appears anxious and pale, in no acute distress.
+- CV: Rapid HR, regular rhythm.
+- Resp: Clear to auscultation bilaterally, slightly labored breathing noted.
+- Neuro: Alert and oriented but exhibits mild confusion; CN II-XII intact.
+- Skin: Pale, slightly diaphoretic.
+
+**3. Assessment:**
+1. Hypoglycemia, unspecified (ICD-10: E16.2)
+2. CKD stage 2
+3. Asthma
+
+**4. Plan:**
+1. **Rx:**
+   - Prescribed Glucose gel, 15g PO PRN for hypoglycemia.
+   
+2. **F/U:**
+   - Scheduled f/u consultation in 2 weeks.
+   
+3. **Referral:**
+   - Referred to neuro, Dr. John Smith, for eval of potential seizure activity.
+   
+4. **Investigations:**
+   - Ordered CMP, insulin autoantibodies, and C-peptide.
+   
+5. **Lifestyle Changes:**
+   - Advised frequent, balanced small meals.
+   - Recommended keeping a diary to track blood sugar levels.
+   - Discussed dietary modifications to include more protein and minimize processed foods.
+   
+6. **Education and Counseling:**
+   - Provided written educational materials in Spanish regarding hypoglycemia mgmt.
+   - Encouraged patient to adhere to dietary and medication recommendations.
+   - Discussed the importance of consistent meal timing and healthy food choices.
+   
+7. **Support Services:**
+   - Provided info on local food assistance programs to address limited access to healthy food options.
+   - Discussed options for transportation assistance to facilitate access to healthcare appointments.
+   
+8. **Asthma Mgmt:**
+   - Reviewed proper use of the albuterol inhaler and advised f/u with PCP to reassess asthma control."|Endocrinologist
+HYPOGLYCEMIA, UNSPECIFIED|"**ROLE:** Endocrinologist
+
+- **Medical Outcome:**
+  - Diagnosis: Hypoglycemia, unspecified
+  - Prescribed Treatment: Immediate administration of oral glucose solution
+  - Follow-up Recommendations: Follow-up appointment in 1 week
+  - Referral: Referral to neurologist, Dr. Anna Wong, for evaluation of possible neurological causes of hypoglycemic episodes
+  - Medication Adjustment: Discontinue current medication if related to hypoglycemic episodes, start on small frequent meals and monitor glucose levels
+  - Imaging Request: MRI of the brain to rule out potential neurological involvement 
+
+- **Medical History:**
+  - Previous Diagnoses: Anxiety, Migraine
+  - Family Medical History: Heart Disease (Mother), Cancer (Uncle)
+  - Medication History: Currently on Sertraline 50 mg once daily, Sumatriptan 50 mg as needed
+  - Allergies: Latex
+
+- **Symptom Description:**
+  - Severity: Severe
+  - Duration: 1 month
+  - Associated Symptoms: Tremors, palpitations, fainting spells, severe headaches
+  - Frequency: Almost daily
+  - Impact on Daily Activities: Frequent interruptions, inability to carry out daily tasks effectively
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: Irregular sleep patterns, approximately 5-6 hours per night
+  - Diet: Frequently skips meals, consumes a lot of fast food and caffeine
+  - Exercise: Rarely exercises
+  - Tobacco Use: Smokes half a pack per day
+  - Alcohol Consumption: Drinks socially, approximately 1-2 drinks per week
+  - Recreational Activities: Participates in social media groups, reads sporadically
+
+- **Demographic Information:**
+  - Age: 29
+  - Gender: Female
+  - Ethnicity: Asian
+  - Socio-economic Status: Middle class
+  - Education Level: College dropout
+  - Health Literacy: Moderate, relies on online sources for health information
+  - Job Status: Freelance graphic designer
+
+- **Patient's Behavior:**
+  - Level of cooperation: Variable, often procrastinates on following medical advice
+
+- **Geographical Location:**
+  - Big City vs Small City: Rural area
+  - Pollution and Environmental Health Risks: Minimal pollution, but limited access to fresh food
+  - Neighborhood Type: Impoverished, limited access to healthcare services
+
+- **Clinical Setting:**
+  - Type of Encounter: Emergency Visit
+  - Setting: Community Health Services
+
+- **Native or Non-Native English Speaking Patient:**
+  - Non-Native English Speaking (primary language is Mandarin)
+
+- **Physical exams:**
+  - Neurological: Mild hand tremors, slight disorientation
+  - Cardiovascular: Tachycardia, palpitations noted
+
+- **Investigation/Test results:**
+  - Awaiting Results: MRI of the brain"|"#####
+**1. Subjective:**
+**Chief Complaint (CC):**  
+Recurrent hypoglycemic episodes.
+
+**History of Present Illness (HPI):**  
+Ms. Li Wang, a 29-year-old female, presents to the emergency department with complaints of severe hypoglycemic episodes occurring almost daily over the past month. She describes the episodes as sudden onset with associated symptoms of tremors, palpitations, fainting spells, and severe headaches. These episodes severely impact her daily activities, causing frequent interruptions and an inability to carry out her freelance graphic design work effectively. She reports mild hand tremors and slight disorientation during these episodes.
+
+**Review of Systems (ROS):**  
+
+- **General:** Reports fatigue, generally feels unwell.
+- **Neurological:** Mild hand tremors, severe headaches.
+- **Cardiovascular:** Palpitations, tachycardia.
+- **Gastrointestinal:** Frequently skips meals, consumes fast food and caffeine.
+- **Psychiatric:** History of anxiety, currently on Sertraline. Also notes irregular sleep patterns and stress from work and lifestyle.
+
+**2. Objective:**
+- **Vital Signs:** BP 110/70 mmHg, HR 110 bpm, RR 20 breaths/min, Temp 98.6°F.
+- **Physical Examination:**
+  - Neurological: Mild hand tremors, slight disorientation.
+  - Cardiovascular: Tachycardia, palpitations noted.
+- **Laboratory Tests:** Blood glucose level: 45 mg/dL at presentation.
+- **Pending Investigations:** MRI of the brain to rule out potential neurological involvement.
+
+**3. Assessment:**
+1. Hypoglycemia, unspecified.
+2. Possible neurological causes contributing to hypoglycemic episodes.
+3. Anxiety.
+4. Migraine.
+
+**4. Plan:**
+
+1. **Immediate Treatment:**
+   - Administer oral glucose solution immediately to correct hypoglycemia.
+
+2. **Medication and Lifestyle Adjustments:**
+   - Discontinue any current medication found to be contributing to hypoglycemic episodes.
+   - Advise patient to consume small, frequent meals to maintain stable blood glucose levels.
+   - Monitor glucose levels regularly.
+
+3. **Follow-Up:**
+   - Schedule a follow-up appointment in 1 week to reassess glucose levels and overall condition.
+
+4. **Referrals:**
+   - Refer to Dr. Anna Wong, neurologist, for evaluation of possible neurological causes of hypoglycemic episodes.
+
+5. **Further Investigations:**
+   - MRI of the brain to rule out potential neurological involvement, currently awaiting results.
+
+6. **Lifestyle Modifications:**
+   - Educate on the importance of regular meals and a balanced diet.
+   - Discuss strategies to manage anxiety and stress, possibly adjusting Sertraline dosage or incorporating stress management techniques.
+   - Encourage smoking cessation and reduce caffeine intake.
+   - Advise moderate exercise once medically stable.
+
+7. **Allergy Management:**
+   - Ensure avoidance of latex in all medical interactions.
+
+The patient was advised to follow up with the clinic in one week and to contact healthcare services if symptoms worsen or new symptoms arise. All instructions were provided in both English and Mandarin to ensure comprehension.
+#####"|"#####
+**1. Subjective:**
+**Chief Complaint (CC):**  
+Recurrent hypoglycemic episodes.
+
+**History of Present Illness (HPI):**  
+Ms. Li Wang, a 29-year-old female, presents to the emergency department with complaints of severe hypoglycemic episodes occurring almost daily over the past month. She describes the episodes as sudden onset with associated symptoms of tremors, palpitations, fainting spells, and severe headaches. These episodes severely impact her daily activities, causing frequent interruptions and an inability to carry out her freelance graphic design work effectively. She reports mild hand tremors and slight disorientation during these episodes.
+
+**Review of Systems (ROS):**  
+
+- **General:** Reports fatigue, generally feels unwell.
+- **Neurological:** Mild hand tremors, severe headaches.
+- **Cardiovascular:** Palpitations, tachycardia.
+- **Gastrointestinal:** Frequently skips meals, consumes fast food and caffeine.
+- **Psychiatric:** History of anxiety, currently on Sertraline. Also notes irregular sleep patterns and stress from work and lifestyle.
+
+**2. Objective:**
+- **Vital Signs:** BP 110/70 mmHg, HR 110 bpm, RR 20 breaths/min, Temp 98.6°F.
+- **Physical Examination:**
+  - Neurological: Mild hand tremors, slight disorientation.
+  - Cardiovascular: Tachycardia, palpitations noted.
+- **Laboratory Tests:** Blood glucose level: 45 mg/dL at presentation.
+
+**3. Assessment:**
+1. Hypoglycemia, unspecified.
+2. Possible neurological causes contributing to hypoglycemic episodes.
+3. Anxiety.
+4. Migraine.
+
+**4. Plan:**
+
+1. **Immediate Treatment:**
+   - Administer oral glucose solution immediately to correct hypoglycemia.
+
+2. **Medication and Lifestyle Adjustments:**
+   - Discontinue any current medication found to be contributing to hypoglycemic episodes.
+   - Advise patient to consume small, frequent meals to maintain stable blood glucose levels.
+   - Monitor glucose levels regularly.
+
+3. **Follow-Up:**
+   - Schedule a follow-up appointment in 1 week to reassess glucose levels and overall condition.
+
+4. **Referrals:**
+   - Refer to Dr. Anna Wong, neurologist, for evaluation of possible neurological causes of hypoglycemic episodes.
+
+5. **Further Investigations:**
+   - MRI of the brain to rule out potential neurological involvement, currently awaiting results.
+
+6. **Lifestyle Modifications:**
+   - Educate on the importance of regular meals and a balanced diet.
+   - Discuss strategies to manage anxiety and stress, possibly adjusting Sertraline dosage or incorporating stress management techniques.
+   - Encourage smoking cessation and reduce caffeine intake.
+   - Advise moderate exercise once medically stable.
+
+7. **Allergy Management:**
+   - Ensure avoidance of latex in all medical interactions.
+
+The patient was advised to follow up with the clinic in one week and to contact healthcare services if symptoms worsen or new symptoms arise. All instructions were provided in both English and Mandarin to ensure comprehension.
+#####"|"#####
+**1. Subjective:**
+**CC:**  
+Recurrent hypoglycemic episodes.
+
+**HPI:**  
+Ms. Li Wang, a 29 y/o F, presents to the ED with c/o severe hypoglycemic episodes occurring almost daily over the past month. She describes the episodes as sudden onset with associated sxs of tremors, palpitations, fainting spells, and severe HAs. These episodes severely impact her ADLs, causing frequent interruptions and an inability to carry out her freelance graphic design work effectively. She reports mild hand tremors and slight disorientation during these episodes.
+
+**ROS:**  
+
+- **General:** Reports fatigue, generally feels unwell.
+- **Neuro:** Mild hand tremors, severe HAs.
+- **CV:** Palpitations, tachycardia.
+- **GI:** Frequently skips meals, consumes fast food and caffeine.
+- **Psych:** Hx of anxiety, currently on Sertraline. Also notes irregular sleep patterns and stress from work and lifestyle.
+
+**2. Objective:**
+- **VS:** BP 110/70 mmHg, HR 110 bpm, RR 20, Temp 98.6°F.
+- **PE:**
+  - Neuro: Mild hand tremors, slight disorientation.
+  - CV: Tachycardia, palpitations noted.
+- **Labs:** Blood glucose level: 45 mg/dL at presentation.
+
+**3. Assessment:**
+1. Hypoglycemia, unspecified.
+2. Possible neuro causes contributing to hypoglycemic episodes.
+3. Anxiety.
+4. Migraine.
+
+**4. Plan:**
+
+1. **Immediate Tx:**
+   - Administer PO glucose solution immediately to correct hypoglycemia.
+
+2. **Meds and Lifestyle Adjustments:**
+   - D/C any current meds found to be contributing to hypoglycemic episodes.
+   - Advise pt to consume small, frequent meals to maintain stable blood glucose levels.
+   - Monitor glucose levels regularly.
+
+3. **F/U:**
+   - Schedule a F/U appt in 1 week to reassess glucose levels and overall condition.
+
+4. **Referrals:**
+   - Refer to Dr. Anna Wong, neuro, for eval of possible neuro causes of hypoglycemic episodes.
+
+5. **Further Investigations:**
+   - MRI brain to r/o potential neuro involvement, currently awaiting results.
+
+6. **Lifestyle Modifications:**
+   - Educate on the importance of regular meals and a balanced diet.
+   - Discuss strategies to manage anxiety and stress, possibly adjusting Sertraline dosage or incorporating stress mgmt techniques.
+   - Encourage smoking cessation and reduce caffeine intake.
+   - Advise moderate exercise once medically stable.
+
+7. **Allergy Mgmt:**
+   - Ensure avoidance of latex in all medical interactions.
+
+The pt was advised to F/U with the clinic in one week and to contact healthcare services if sxs worsen or new sxs arise. All instructions were provided in both English and Mandarin to ensure comprehension.
+#####"|Role not found in the first 5 lines.
+HYPOGLYCEMIA, UNSPECIFIED|"ROLE: Endocrinologist
+
+**1) Medical Outcome:**
+- Diagnosis: Hypoglycemia, unspecified
+- Prescribed Treatment: Immediate administration of oral glucose tablets; Dietary counseling to include regular meals with complex carbohydrates and proteins; Prescribed Glucagon emergency kit.
+- Medication Adjustment: Reduce the dose of Insulin Lispro by 1 unit before each meal.
+- Follow-up Recommendations: Follow-up appointment in 1 week for blood glucose monitoring review and treatment adjustment.
+- Referral to Specialists: Referral to a behavioral therapist to discuss stress management and its impact on blood glucose levels.
+- Orders for Imaging: Abdominal ultrasound to rule out any insulinoma or pancreatic issues.
+
+**2) Medical History:**
+- Previous Diagnoses: Type 1 Diabetes Mellitus, High Blood Pressure (Hypertension)
+- Medication History: Insulin Lispro 10 units before meals, Metoprolol 50 mg twice daily
+- Allergies: Sulfa drugs
+- Chronic Conditions: Type 1 Diabetes Mellitus, Hypertension
+
+**3) Symptom Description:**
+- Severity: Moderate to severe
+- Duration: Past week
+- Associated Symptoms: Persistent hunger, palpitations, mood swings, cold sweats at night
+- Frequency: Nearly daily, especially in the afternoon
+- Impact on Daily Activities: Interfering with work concentration and sleep patterns
+
+**4) Patient’s self-reported habits and lifestyle:**
+- Sleep: Reports restless sleep, approximately 6 hours per night
+- Diet: Frequently consumes sugary snacks; inconsistent meal timings
+- Exercise: Infrequent; light walking, mainly sedentary
+- Tobacco Use: Smokes half a pack of cigarettes daily
+- Alcohol Consumption: Rare, occasional beer on social events
+- Drug Use: None reported
+- Recreational Activities: Enjoys knitting and watching television
+
+**5) Demographic Information:**
+- Age: 45
+- Gender: Female
+- Ethnicity: Asian
+- Socio-economic Status: Low-income
+- Education Level: High School graduate
+- Health Literacy: Basic understanding of diabetes and related treatments
+- Job Status: Factory Worker
+
+**6) Patient's Behavior:**
+- Level of Cooperation: Fairly cooperative, often forgets to apply lifestyle changes due to busy schedule and fatigue
+
+**7) Geographical Location:**
+- Big City vs Small City: Small City
+- Neighborhood Type: Rural, limited access to healthcare facilities; known food desert
+
+**8) Clinical Setting:**
+- Clinical Setting: Urgent Care Center
+
+**9) Type of Encounter:**
+- Type of Encounter: Initial Consultation
+
+**10) Treatment Disparities:**
+- Potential treatment disparity due to limited healthcare resources and socioeconomic status
+
+**11) Native or Non-Native English Speaking Patient:**
+- Non-Native English Speaking Patient (primary language: Mandarin)
+
+**12) Physical exams:**
+- General appearance: Appears tired, alert but anxious
+- Vitals: BP 140/90 mmHg, HR 90 bpm, RR 20/min, Temp 98.6°F
+- HEENT: No abnormalities detected
+- Cardiovascular: Regular rate and rhythm, no murmurs
+- Respiratory: Clear to auscultation bilaterally
+- Abdomen: Soft, non-tender, no organomegaly
+- Neurological: Normal reflexes, no focal deficits
+- Extremities: No edema
+
+**13) Investigation/Test results:**
+- Blood Glucose Levels: Documented hypoglycemia (55 mg/dL)
+- Awaiting: Abdominal ultrasound results to check for insulinoma or other pancreatic issues"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Persistent episodes of low blood sugar.
+
+**History of Present Illness (HPI):**
+Ms. Li Wei, a 45-year-old female with a history of Type 1 Diabetes Mellitus and Hypertension, presents with recurrent episodes of hypoglycemia. The patient reports experiencing symptoms of severe hunger, palpitations, mood swings, and cold sweats particularly at night. These symptoms have been ongoing over the past week, occurring daily, predominantly in the afternoon. She notes that these episodes are significantly interfering with her concentration at work and disrupting her sleep patterns. Ms. Wei admits to irregular eating habits, including frequent sugary snacks and inconsistent meal timings.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports feeling tired and restless.
+- **Cardiovascular:** Endorses palpitations.
+- **Endocrine:** Reports persistent hunger and mood swings.
+- **Neurological:** Denies headaches or dizziness but feels anxious.
+- **Sleep:** Restless sleep, approximately 6 hours per night.
+  
+**2. Objective:**
+
+**Physical Examination:**
+- **General Appearance:** Appears tired, alert but anxious.
+- **Vitals:** BP 140/90 mmHg, HR 90 bpm, RR 20/min, Temp 98.6°F.
+- **HEENT:** No abnormalities detected.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Neurological:** Normal reflexes, no focal deficits.
+- **Extremities:** No edema.
+
+**Investigation/Test results:**
+- **Blood Glucose Levels:** Documented hypoglycemia (55 mg/dL).
+- **Awaiting:** Abdominal ultrasound results to check for insulinoma or other pancreatic issues.
+
+**3. Assessment:**
+
+Ms. Li Wei is a 45-year-old female with a history of Type 1 Diabetes Mellitus and Hypertension who presents with hypoglycemia likely secondary to insulin over-administration amidst irregular meal schedules.
+
+- **Hypoglycemia, unspecified:**
+  - **Medical Reasoning:** Likely due to over-administration of insulin in the context of inconsistent meal intake.
+
+**4. Plan:**
+
+- **Immediate Treatment:**
+  - Administer oral glucose tablets immediately for acute hypoglycemia management.
+
+- **Medication Adjustment:**
+  - Reduce the dose of Insulin Lispro by 1 unit before each meal.
+
+- **Dietary Counseling:**
+  - Educate on the importance of regular meals consisting of complex carbohydrates and proteins.
+  - Provide dietary counseling to reduce the intake of sugary snacks.
+
+- **Prescriptions:**
+  - Prescribe a Glucagon emergency kit for use during severe hypoglycemic episodes.
+
+- **Follow-up Recommendations:**
+  - Schedule a follow-up appointment in 1 week to review blood glucose logs and adjust treatment as needed.
+
+- **Referrals:**
+  - Refer to a behavioral therapist to discuss stress management and its impact on blood glucose levels.
+
+- **Orders for Imaging:**
+  - Order an abdominal ultrasound to rule out any insulinoma or pancreatic issues.
+  
+- **Patient Education and Counseling:**
+  - Emphasize the importance of lifestyle modifications including regular meals, stress management, and consistent exercise.
+  - Discuss the potential impact of smoking on overall health and encourage cessation.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan. Follow-up care and additional counseling will be crucial in managing her condition effectively."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Persistent episodes of low blood sugar.
+
+**History of Present Illness (HPI):**
+Ms. Li Wei, a 45-year-old female with a history of Type 1 Diabetes Mellitus and Hypertension, presents with recurrent episodes of hypoglycemia. The patient reports experiencing symptoms of severe hunger, palpitations, mood swings, and cold sweats particularly at night. These symptoms have been ongoing over the past week, occurring daily, predominantly in the afternoon. She notes that these episodes are significantly interfering with her concentration at work and disrupting her sleep patterns. Ms. Wei admits to irregular eating habits, including frequent sugary snacks and inconsistent meal timings.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports feeling tired and restless.
+- **Cardiovascular:** Endorses palpitations.
+- **Endocrine:** Reports persistent hunger and mood swings.
+- **Neurological:** Denies headaches or dizziness but feels anxious.
+- **Sleep:** Restless sleep, approximately 6 hours per night.
+  
+**2. Objective:**
+
+**Physical Examination:**
+- **General Appearance:** Appears tired, alert but anxious.
+- **Vitals:** BP 140/90 mmHg, HR 90 bpm, RR 20/min, Temp 98.6°F.
+- **HEENT:** No abnormalities detected.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Neurological:** Normal reflexes, no focal deficits.
+- **Extremities:** No edema.
+
+**Investigation/Test results:**
+- **Blood Glucose Levels:** Documented hypoglycemia (55 mg/dL).
+
+**3. Assessment:**
+
+Ms. Li Wei is a 45-year-old female with a history of Type 1 Diabetes Mellitus and Hypertension who presents with hypoglycemia likely secondary to insulin over-administration amidst irregular meal schedules.
+
+- **Hypoglycemia, unspecified:**
+  - **Medical Reasoning:** Likely due to over-administration of insulin in the context of inconsistent meal intake.
+
+**4. Plan:**
+
+- **Immediate Treatment:**
+  - Administer oral glucose tablets immediately for acute hypoglycemia management.
+
+- **Medication Adjustment:**
+  - Reduce the dose of Insulin Lispro by 1 unit before each meal.
+
+- **Dietary Counseling:**
+  - Educate on the importance of regular meals consisting of complex carbohydrates and proteins.
+  - Provide dietary counseling to reduce the intake of sugary snacks.
+
+- **Prescriptions:**
+  - Prescribe a Glucagon emergency kit for use during severe hypoglycemic episodes.
+
+- **Follow-up Recommendations:**
+  - Schedule a follow-up appointment in 1 week to review blood glucose logs and adjust treatment as needed.
+
+- **Referrals:**
+  - Refer to Dr. Emily Johnson, a behavioral therapist, to discuss stress management and its impact on blood glucose levels.
+
+- **Orders for Imaging:**
+  - Order an abdominal ultrasound to rule out any insulinoma or pancreatic issues.
+  
+- **Patient Education and Counseling:**
+  - Emphasize the importance of lifestyle modifications including regular meals, stress management, and consistent exercise.
+  - Discuss the potential impact of smoking on overall health and encourage cessation.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan. Follow-up care and additional counseling will be crucial in managing her condition effectively."|"**1. Subjective:**
+
+**CC:**
+Persistent episodes of hypoglycemia.
+
+**HPI:**
+Ms. Li Wei, a 45 y/o F with a hx of T1DM and HTN, presents with recurrent episodes of hypoglycemia. Pt reports sx of severe hunger, palpitations, mood swings, and cold sweats, particularly nocturnal. Sx have been ongoing over the past week, occurring daily, predominantly in the afternoon. She notes these episodes significantly interfere with her concentration at work and disrupt her sleep patterns. Pt admits to irregular eating habits, including frequent sugary snacks and inconsistent meal timings.
+
+**ROS:**
+- **Constitutional:** Reports feeling tired and restless.
+- **CV:** Endorses palpitations.
+- **Endo:** Reports persistent hunger and mood swings.
+- **Neuro:** Denies HA or dizziness but feels anxious.
+- **Sleep:** Restless sleep, approx 6 hrs/night.
+
+**2. Objective:**
+
+**PE:**
+- **General:** Appears tired, alert but anxious.
+- **Vitals:** BP 140/90 mmHg, HR 90 bpm, RR 20/min, Temp 98.6°F.
+- **HEENT:** No abnormalities detected.
+- **CV:** RRR, no murmurs.
+- **Resp:** CTA bilaterally.
+- **Abd:** Soft, non-tender, no organomegaly.
+- **Neuro:** Normal reflexes, no focal deficits.
+- **Ext:** No edema.
+
+**Labs:**
+- **BG:** Documented hypoglycemia (55 mg/dL).
+
+**3. Assessment:**
+
+Ms. Li Wei is a 45 y/o F with a hx of T1DM and HTN who presents with hypoglycemia likely 2/2 insulin over-administration amidst irregular meal schedules.
+
+- **Hypoglycemia, unspecified:**
+  - **Medical Reasoning:** Likely due to over-administration of insulin in the context of inconsistent meal intake.
+
+**4. Plan:**
+
+- **Immediate Tx:**
+  - Administer oral glucose tabs immediately for acute hypoglycemia mgmt.
+
+- **Med Adjustment:**
+  - Reduce the dose of Insulin Lispro by 1 unit before each meal.
+
+- **Dietary Counseling:**
+  - Educate on the importance of regular meals consisting of complex carbs and proteins.
+  - Provide dietary counseling to reduce the intake of sugary snacks.
+
+- **Rx:**
+  - Prescribe a Glucagon emergency kit for use during severe hypoglycemic episodes.
+
+- **F/U Recommendations:**
+  - Schedule a F/U appt in 1 week to review BG logs and adjust tx as needed.
+
+- **Referrals:**
+  - Refer to Dr. Emily Johnson, a behavioral therapist, to discuss stress mgmt and its impact on BG levels.
+
+- **Orders for Imaging:**
+  - Order an abd US to r/o any insulinoma or pancreatic issues.
+
+- **Pt Education and Counseling:**
+  - Emphasize the importance of lifestyle modifications including regular meals, stress mgmt, and consistent exercise.
+  - Discuss the potential impact of smoking on overall health and encourage cessation.
+
+**Pt Agreements:**
+The pt understands and agrees with the recommended medical tx plan. F/U care and additional counseling will be crucial in managing her condition effectively."|Endocrinologist
+HYPOGLYCEMIA, UNSPECIFIED|"ROLE: Endocrinologist
+
+- **Medical Outcome**: 
+    - Medical Treatment: Immediate oral glucose (15 grams of fast-acting carbohydrate).
+    - Follow-up recommendations: Return visit in 1 week to monitor blood glucose levels.
+    - Referral to specialists: Appointment with a dietitian for nutritional counseling, Dr. Lisa Merritt.
+    - Medication Adjustment: Adjust insulin doses pending current blood glucose levels.
+    - Blood Work: Complete metabolic panel (biochemistry), Hemoglobin A1c, and fasting glucose levels.
+
+- **Medical History**: 
+    - Previous Diagnoses: Type 1 Diabetes Mellitus
+    - Family Medical History: Father with Type 2 Diabetes Mellitus, Mother with Hypertension.
+    - Medication History: Currently on insulin therapy (NPH and regular insulin).
+    - Allergies: None
+    - Chronic Conditions: Type 1 Diabetes Mellitus
+
+- **Symptom Description**: 
+    - Severity: Moderate
+    - Duration: Episodes occurring frequently over the past week
+    - Associated Symptoms: Shakiness, sweating, confusion, headache
+    - Frequency: 3-4 episodes per week
+    - Impact on Daily Activities: Difficulty concentrating at work, impacts on daily routines.
+
+- **Patient’s self-reported habits and lifestyle**:
+    - Sleep: Reports adequate sleep, about 7-8 hours per night.
+    - Diet: Irregular meal patterns, occasional missed meals.
+    - Exercise: Moderate exercise 2-3 times per week.
+    - Tobacco Use: Never smoker.
+    - Alcohol Consumption: Social drinker, 1-2 drinks per month.
+    - Drug Use: None
+    - Recreational Activities: Enjoys walking and reading.
+
+- **Demographic Information**:
+    - Age: 32
+    - Gender: Female
+    - Ethnicity: Hispanic
+    - Socio-economic Status: Middle class
+    - Education Level: College graduate
+    - Health Literacy: Good
+    - Job Status: Full-time accountant
+
+- **Patient's Behavior**: Generally adherent to medical advice but has lapses in diet management.
+
+- **Geographical Location**: 
+    - Urban
+    - Affluent neighborhood
+    - Well-served by public transit
+    - No significant pollution or environmental health risks
+
+- **Clinical Setting**: Private Practice
+
+- **Type of Encounter**: Emergency Visit
+
+- **Treatment Disparities**: NA
+
+- **Native or Non-Native English Speaking Patient**: Native English-speaking
+
+- **Physical exams**:
+    - Vitals: Blood Pressure: 120/80 mmHg, Pulse: 75 bpm, Respiratory Rate: 16 breaths/min, Blood Glucose: 55 mg/dL
+
+- **Investigation/Test results**:
+    - Awaiting: Complete metabolic panel, Hemoglobin A1c, and fasting glucose levels"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+32-year-old Hispanic female presents for an emergency visit due to frequent episodes of hypoglycemia.
+
+**History of Present Illness (HPI):**
+The patient, who has a history of Type 1 Diabetes Mellitus, reports frequent episodes of hypoglycemia over the past week. These episodes occur 3-4 times per week and are characterized by shakiness, sweating, confusion, and headaches. The severity of symptoms is moderate, impacting her ability to concentrate at work and disrupting her daily routine. She has been adherent to her insulin regimen but admits to irregular meal patterns and occasionally missing meals.
+
+**Review of Systems (ROS):**
+
+- **Constitutional:** No fever, chills, or weight loss.
+- **Endocrine:** Frequent hypoglycemic episodes.
+- **Neurological:** Confusion and headaches during hypoglycemic episodes.
+- **Cardiovascular:** No chest pain or palpitations.
+- **Respiratory:** No shortness of breath or cough.
+- **Gastrointestinal:** No nausea or vomiting.
+- **Musculoskeletal:** No muscle weakness or joint pain.
+
+**2. Objective:**
+
+**Vitals:**
+- Blood Pressure: 120/80 mmHg
+- Pulse: 75 bpm
+- Respiratory Rate: 16 breaths/min
+- Blood Glucose: 55 mg/dL
+
+**Physical Examination:**
+- General: Appears alert and oriented x3, no acute distress
+- Head, Eyes, Ears, Nose, Throat (HEENT): No abnormalities noted
+- Cardiovascular (CV): Regular rate and rhythm, no murmurs
+- Respiratory: Clear to auscultation bilaterally
+- Gastrointestinal (GI): Abdomen soft, non-tender, no masses
+- Neurological: Cranial nerves II-XII intact, no focal deficits
+
+**3. Assessment:**
+
+**Primary Diagnosis:**
+- Hypoglycemia in a patient with Type 1 Diabetes Mellitus
+
+**Differential Diagnosis:**
+- Inadequate caloric intake
+- Improper insulin dosing
+- Increased physical activity without corresponding carbohydrate intake
+
+**4. Plan:**
+
+**Medical Treatment:**
+- Immediate administration of 15 grams of fast-acting carbohydrates (oral glucose).
+
+**Follow-up Recommendations:**
+- Return visit in 1 week for monitoring blood glucose levels.
+
+**Referral to Specialists:**
+- Appointment with a dietitian, Dr. Lisa Merritt, for nutritional counseling.
+
+**Medication Adjustment:**
+- Adjust insulin doses pending results of current blood glucose levels.
+
+**Blood Work:**
+- Complete metabolic panel
+- Hemoglobin A1c
+- Fasting glucose levels
+
+**Patient Education:**
+- Importance of maintaining regular meal patterns and not missing meals
+- Recognition and management of hypoglycemia symptoms
+- Reinforcement of the need for frequent blood glucose monitoring
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment and follow-up plan. She is advised to maintain a log of blood glucose readings and dietary intake to discuss during the follow-up visit."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+32-year-old Hispanic female, Maria Gonzalez, presents for an emergency visit due to frequent episodes of hypoglycemia.
+
+**History of Present Illness (HPI):**
+The patient, who has a history of Type 1 Diabetes Mellitus, reports frequent episodes of hypoglycemia over the past week. These episodes occur 3-4 times per week and are characterized by shakiness, sweating, confusion, and headaches. The severity of symptoms is moderate, impacting her ability to concentrate at work and disrupting her daily routine. She has been adherent to her insulin regimen but admits to irregular meal patterns and occasionally missing meals.
+
+**Review of Systems (ROS):**
+
+- **Constitutional:** No fever, chills, or weight loss.
+- **Endocrine:** Frequent hypoglycemic episodes.
+- **Neurological:** Confusion and headaches during hypoglycemic episodes.
+- **Cardiovascular:** No chest pain or palpitations.
+- **Respiratory:** No shortness of breath or cough.
+- **Gastrointestinal:** No nausea or vomiting.
+- **Musculoskeletal:** No muscle weakness or joint pain.
+
+**2. Objective:**
+
+**Vitals:**
+- Blood Pressure: 120/80 mmHg
+- Pulse: 75 bpm
+- Respiratory Rate: 16 breaths/min
+- Blood Glucose: 55 mg/dL
+
+**Physical Examination:**
+- General: Appears alert and oriented x3, no acute distress
+- Head, Eyes, Ears, Nose, Throat (HEENT): No abnormalities noted
+- Cardiovascular (CV): Regular rate and rhythm, no murmurs
+- Respiratory: Clear to auscultation bilaterally
+- Gastrointestinal (GI): Abdomen soft, non-tender, no masses
+- Neurological: Cranial nerves II-XII intact, no focal deficits
+
+**3. Assessment:**
+
+**Primary Diagnosis:**
+- Hypoglycemia in a patient with Type 1 Diabetes Mellitus
+
+**Differential Diagnosis:**
+- Inadequate caloric intake
+- Improper insulin dosing
+- Increased physical activity without corresponding carbohydrate intake
+
+**4. Plan:**
+
+**Medical Treatment:**
+- Immediate administration of 15 grams of fast-acting carbohydrates (oral glucose).
+
+**Follow-up Recommendations:**
+- Return visit in 1 week for monitoring blood glucose levels.
+
+**Referral to Specialists:**
+- Appointment with a dietitian, Dr. Lisa Merritt, for nutritional counseling due to irregular meal patterns and frequent hypoglycemic episodes.
+
+**Medication Adjustment:**
+- Adjust insulin doses pending results of current blood glucose levels.
+
+**Blood Work:**
+- Complete metabolic panel
+- Hemoglobin A1c
+- Fasting glucose levels
+
+**Patient Education:**
+- Importance of maintaining regular meal patterns and not missing meals
+- Recognition and management of hypoglycemia symptoms
+- Reinforcement of the need for frequent blood glucose monitoring
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment and follow-up plan. She is advised to maintain a log of blood glucose readings and dietary intake to discuss during the follow-up visit."|"#####
+**1. Subjective:**
+
+**CC:**
+32 y/o Hispanic F, Maria Gonzalez, presents for an ED visit due to frequent episodes of hypoglycemia.
+
+**HPI:**
+The pt, with a hx of T1DM, reports frequent episodes of hypoglycemia over the past week. These episodes occur 3-4x/week and are characterized by shakiness, sweating, confusion, and HA. The severity of sx is moderate, impacting her ability to concentrate at work and disrupting her daily routine. She has been adherent to her insulin regimen but admits to irregular meal patterns and occasionally missing meals.
+
+**ROS:**
+
+- **Constitutional:** No fever, chills, or wt loss.
+- **Endocrine:** Frequent hypoglycemic episodes.
+- **Neuro:** Confusion and HA during hypoglycemic episodes.
+- **CV:** No CP or palpitations.
+- **Resp:** No SOB or cough.
+- **GI:** No N/V.
+- **MSK:** No muscle weakness or joint pain.
+
+**2. Objective:**
+
+**Vitals:**
+- BP: 120/80 mmHg
+- HR: 75 bpm
+- RR: 16 breaths/min
+- BG: 55 mg/dL
+
+**PE:**
+- General: Appears alert and oriented x3, no acute distress
+- HEENT: No abnormalities noted
+- CV: RRR, no murmurs
+- Resp: CTA bilaterally
+- GI: Abd soft, non-tender, no masses
+- Neuro: CN II-XII intact, no focal deficits
+
+**3. Assessment:**
+
+**Primary Dx:**
+- Hypoglycemia in a pt with T1DM
+
+**Differential Dx:**
+- Inadequate caloric intake
+- Improper insulin dosing
+- Increased physical activity without corresponding CHO intake
+
+**4. Plan:**
+
+**Medical Tx:**
+- Immediate administration of 15g of fast-acting CHO (oral glucose).
+
+**F/U Recommendations:**
+- Return visit in 1 week for monitoring BG levels.
+
+**Referral to Specialists:**
+- Appt with RD, Dr. Lisa Merritt, for nutritional counseling due to irregular meal patterns and frequent hypoglycemic episodes.
+
+**Med Adjustment:**
+- Adjust insulin doses pending results of current BG levels.
+
+**Labs:**
+- CMP
+- HbA1c
+- Fasting glucose levels
+
+**Pt Education:**
+- Importance of maintaining regular meal patterns and not missing meals
+- Recognition and mgmt of hypoglycemia sx
+- Reinforcement of the need for frequent BG monitoring
+
+**Pt Agreements:**
+The pt understands and agrees with the recommended medical tx and f/u plan. She is advised to maintain a log of BG readings and dietary intake to discuss during the f/u visit."|Endocrinologist
+HYPOGLYCEMIA, UNSPECIFIED|"ROLE: Endocrinologist
+
+**Scenario:**
+
+- **Medical Outcome:** 
+  - Diagnosis: Hypoglycemia, unspecified (ICD-10: E16.2)
+  - Prescribed Medication: Glucose tablets, 1 tablet orally as needed for low blood sugar; Glucagon injection kit for severe hypoglycemia.
+  - Follow-up recommendations: Follow-up consultation in 1 month.
+  - Referral to specialists: Referral to a dietitian, Angela Cooper, for nutritional guidance.
+  - Blood work: Comprehensive Metabolic Panel (CMP), Hemoglobin A1c, fasting blood sugar levels.
+  - Lifestyle change: Recommendations for small, frequent meals rich in complex carbohydrates.
+
+- **Medical History:** 
+  - Previous Diagnoses: Type 2 Diabetes Mellitus, Hypertension.
+  - Family Medical History: Mother with Type 2 Diabetes, Father with Coronary Artery Disease.
+  - Medication History: Metformin 500 mg twice daily, Lisinopril 10 mg daily.
+  - Allergies: None reported.
+  - Chronic Conditions: Type 2 Diabetes Mellitus, Hypertension.
+
+- **Symptom Description:** 
+  - Severity: Moderate
+  - Duration: Episodes occurring 3-4 times a week over the past month.
+  - Associated Symptoms: Dizziness, sweating, confusion, shakiness.
+  - Frequency: 3-4 times a week.
+  - Impact on Daily Activities: Difficulty concentrating and completing work tasks when episodes occur; requires immediate rest and glucose intake.
+
+- **Patient’s self-reported habits and lifestyle:** 
+  - Sleep: 6-7 hours per night.
+  - Diet: Inconsistent meal times, occasional skipped meals, high intake of processed foods.
+  - Exercise: Regular walks 3 times a week.
+  - Tobacco Use: Non-smoker.
+  - Alcohol Consumption: Occasional, about 1-2 drinks per week.
+  - Drug Use: Denies illicit drug use.
+  - Recreational Activities: Enjoys reading and gardening.
+
+- **Demographic Information:** 
+  - Age: 52
+  - Gender: Male
+  - Ethnicity: Hispanic
+  - Socio-economic Status: Middle-class
+  - Education Level: College graduate
+  - Health Literacy: Moderate
+  - Job Status: Accountant
+
+- **Patient's Behavior:** Generally cooperative with medical advice.
+
+- **Geographical Location:** 
+  - Big City vs Small City: Lives in a small city.
+  - Pollution and Environmental Health Risks: Minimal pollution.
+  - Neighborhood Type: Suburban, middle-income.
+  - Well-served by Transit: Accessible public transport.
+  - Food Desert: No, ample access to grocery stores and healthy food options.
+
+- **Clinical Setting:** Private practice.
+
+- **Type of Encounter:** Follow-up consultation.
+
+- **Treatment Disparities:** None identified.
+
+- **Native or Non-Native English Speaking Patient:** Native English speaker.
+
+- **Physical exams:**
+  - General: Alert, oriented, in no acute distress.
+  - Cardiovascular: Regular rate and rhythm; no murmurs.
+  - Neurological: Alert and oriented, cranial nerves II-XII grossly intact.
+  - Skin: No rashes, pallor, or signs of dehydration.
+
+- **Investigation/Test results:** 
+  - Awaiting: Comprehensive Metabolic Panel (CMP), Hemoglobin A1c, and fasting blood sugar levels."|Rejected|Rejected|Rejected|Rejected
+HYPOGLYCEMIA, UNSPECIFIED|"ROLE: Endocrinologist
+
+**Scenario:**
+
+- **Medical Outcome:** 
+  - Diagnosis: Hypoglycemia, unspecified (ICD-10: E16.2)
+  - Prescribed Medication: Glucose gel, 15g orally as needed for low blood sugar; Glucagon emergency kit for severe hypoglycemia.
+  - Follow-up recommendations: Follow-up consultation in 2 weeks.
+  - Referral to specialists: Referral to a dietitian, Michelle Harris, for nutritional guidance.
+  - Blood work: Comprehensive Metabolic Panel (CMP), fasting insulin levels, oral glucose tolerance test (OGTT).
+  - Lifestyle change: Recommendations for small, frequent meals rich in complex carbohydrates and high-protein snacks pre-exercise.
+
+- **Medical History:** 
+  - Previous Diagnoses: Type 1 Diabetes Mellitus, Hyperlipidemia.
+  - Family Medical History: Mother with Hypothyroidism, Father with Rheumatoid Arthritis.
+  - Medication History: Insulin glargine 20 units at bedtime, Atorvastatin 10 mg daily.
+  - Allergies: Penicillin.
+  - Chronic Conditions: Type 1 Diabetes Mellitus, Hyperlipidemia.
+
+- **Symptom Description:** 
+  - Severity: Severe
+  - Duration: Episodes occurring daily over the past two weeks.
+  - Associated Symptoms: Palpitations, anxiety, sweating, blurred vision, confusion.
+  - Frequency: Daily.
+  - Impact on Daily Activities: Severe, unable to drive safely; frequent disruptions to work.
+
+- **Patient’s self-reported habits and lifestyle:** 
+  - Sleep: Struggles with insomnia, averaging 4-5 hours per night.
+  - Diet: Regular meals but high in simple carbohydrates; frequent snacking on sugary foods.
+  - Exercise: Rarely exercises, states lack of time.
+  - Tobacco Use: Heavy smoker, 1 pack per day.
+  - Alcohol Consumption: Moderate, about 3-4 drinks per week.
+  - Drug Use: Denies illicit drug use.
+  - Recreational Activities: Enjoys watching television and playing videogames.
+
+- **Demographic Information:** 
+  - Age: 28
+  - Gender: Female
+  - Ethnicity: African American
+  - Socio-economic Status: Lower-middle class
+  - Education Level: High school diploma
+  - Health Literacy: Low
+  - Job Status: Retail worker
+
+- **Patient's Behavior:** Frequently non-compliant with dietary recommendations and insulin regimen.
+
+- **Geographical Location:** 
+  - Big City vs Small City: Lives in a big city.
+  - Pollution and Environmental Health Risks: High pollution.
+  - Neighborhood Type: Urban, economically disadvantaged.
+  - Well-served by Transit: Limited public transport.
+  - Food Desert: Yes, limited access to healthy food options.
+
+- **Clinical Setting:** Hospital outpatient clinic.
+
+- **Type of Encounter:** Initial consultation.
+
+- **Treatment Disparities:** Potential disparities due to financial constraints and health literacy challenges.
+
+- **Native or Non-Native English Speaking Patient:** Native English speaker.
+
+- **Physical exams:**
+  - General: Appears anxious and tired, no acute distress.
+  - Cardiovascular: Tachycardia, regular rhythm.
+  - Neurological: Alert but slightly confused; cranial nerves II-XII intact; slight unsteadiness on balance testing.
+  - Skin: Diaphoretic, no rashes or lesions.
+
+- **Investigation/Test results:** 
+  - Awaiting: Comprehensive Metabolic Panel (CMP), fasting insulin levels, oral glucose tolerance test (OGTT)."|Rejected|Rejected|Rejected|Rejected
+HYPOGLYCEMIA, UNSPECIFIED|"ROLE: Endocrinologist
+
+**Scenario:**
+
+- **Medical Outcome:** 
+  - Diagnosis: Hypoglycemia, unspecified (ICD-10: E16.2)
+  - Prescribed Medication: Glucose tablets, 4 grams orally as needed for hypoglycemia.
+  - Follow-up recommendations: Telemedicine follow-up in 1 month.
+  - Referral to specialists: Referral to an endocrinologist colleague, Dr. Sarah Nguyen, for continuous glucose monitoring system (CGM) evaluation.
+  - Blood work: Comprehensive Metabolic Panel (CMP), fasting blood sugar levels, thyroid function tests.
+  - Lifestyle change: Emphasis on regular meal times and carbohydrate counting.
+
+- **Medical History:** 
+  - Previous Diagnoses: Graves’ Disease, Polycystic Ovary Syndrome (PCOS).
+  - Family Medical History: Paternal history of heart disease, Maternal history of adrenal insufficiency.
+  - Medication History: Methimazole 10 mg daily, Spironolactone 25 mg daily.
+  - Allergies: None noted.
+  - Chronic Conditions: Graves’ Disease, PCOS.
+
+- **Symptom Description:** 
+  - Severity: Mild to moderate.
+  - Duration: Symptoms occurring intermittently over the past 3 weeks.
+  - Associated Symptoms: Mild tremors, dizziness, occasional headaches.
+  - Frequency: 2-3 times per week.
+  - Impact on Daily Activities: Able to manage symptoms at home but has missed a few social activities.
+
+- **Patient’s self-reported habits and lifestyle:** 
+  - Sleep: 7-8 hours per night, reports good sleep quality.
+  - Diet: Consumes 3 balanced meals per day, including lean proteins and vegetables.
+  - Exercise: Participates in yoga and Pilates classes twice a week.
+  - Tobacco Use: Never smoked.
+  - Alcohol Consumption: Rare, about once a month.
+  - Drug Use: Denies any drug use.
+  - Recreational Activities: Enjoys hiking and pottery.
+
+- **Demographic Information:** 
+  - Age: 34
+  - Gender: Female
+  - Ethnicity: Asian-American
+  - Socio-economic Status: Upper-middle class
+  - Education Level: Master's degree in Marketing
+  - Health Literacy: High
+  - Job Status: Marketing Manager
+
+- **Patient's Behavior:** Highly compliant with medical advice, actively engaged in health management.
+
+- **Geographical Location:** 
+  - Big City vs Small City: Lives in a suburban-urban intersection.
+  - Pollution and Environmental Health Risks: Moderate pollution.
+  - Neighborhood Type: Affluent, well-maintained, good access to parks.
+  - Well-served by Transit: Excellent public and private transport options.
+  - Food Desert: No, easily accessible health food stores and farmers' markets.
+
+- **Clinical Setting:** Telemedicine consultation.
+
+- **Type of Encounter:** Initial consultation.
+
+- **Treatment Disparities:** None noted as patient has good insurance coverage.
+
+- **Native or Non-Native English Speaking Patient:** Native English speaker.
+
+- **Physical exams:** 
+  - General: Bright, alert, comfortable.
+  - Cardiovascular: Regular heart rhythm, no murmurs, pulses normal.
+  - Neurological: Normal coordination and sensation.
+  - Skin: Slightly moist, no rashes or discoloration.
+
+- **Investigation/Test results:** 
+  - Awaiting: Comprehensive Metabolic Panel (CMP), fasting blood sugar levels, thyroid function tests (TSH, Free T4, Free T3)."|Rejected|Rejected|Rejected|Rejected
+HYPOGLYCEMIA, UNSPECIFIED|"**ROLE:** Endocrinologist
+
+- **Medical Outcome:**
+  - Diagnosis: Hypoglycemia, unspecified
+  - Prescribed Treatment: Dietary modifications and medication adjustment
+  - Follow-up Recommendations: Follow-up appointment in 1 month
+  - Referral: Referral to nutritionist, Dr. Susan Green, for diet plan
+  - Medication Adjustment: Adjust insulin levels as per endocrinologist recommendations
+  - Blood Work: Order biochemistry panel including fasting glucose and HbA1c
+
+- **Medical History:**
+  - Previous Diagnoses: Type 2 Diabetes Mellitus, Hypertension
+  - Family Medical History: Diabetes (Mother), Heart Disease (Father)
+  - Medication History: Current medications include Metformin 1000 mg twice daily, Insulin Glargine 20 units subcutaneously at bedtime, Lisinopril 10 mg once daily
+  - Allergies: Penicillin
+
+- **Symptom Description:**
+  - Severity: Moderate
+  - Duration: 3 weeks
+  - Associated Symptoms: Dizziness, sweating, anxiety, confusion, visual disturbances
+  - Frequency: Several episodes per week
+  - Impact on Daily Activities: Difficulty concentrating at work, frequent interruptions to eat or drink
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: Sleeps 6 hours per night, often feels tired
+  - Diet: Typically consumes 3 meals a day, frequent snacking, high carbohydrate intake
+  - Exercise: Limited physical activity, walks occasionally
+  - Tobacco Use: None
+  - Alcohol Consumption: Occasionally, 1-2 drinks per week
+  - Recreational Activities: Enjoys reading and watching TV
+
+- **Demographic Information:**
+  - Age: 52
+  - Gender: Male
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Middle class
+  - Education Level: College degree
+  - Health Literacy: Moderate, can follow complex instructions
+  - Job Status: Office worker, full-time
+
+- **Patient's Behavior:**
+  - Level of cooperation: Generally cooperative, admits occasional non-compliance with diet
+
+- **Geographical Location:**
+  - Big City vs Small City: Big City
+  - Pollution and Environmental Health Risks: Moderate pollution
+  - Neighborhood Type: Suburban, well-served by transit, access to healthy food options
+
+- **Clinical Setting:**
+  - Type of Encounter: Follow-up visit
+  - Setting: Specialty Clinic
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English Speaking
+
+- **Physical exams:**
+  - Cardiovascular: Regular heart rate and rhythm, no murmurs
+  - Neurological: Alert and oriented, normal reflexes
+
+- **Investigation/Test results:**
+  - Awaiting results: Biochemistry panel for fasting glucose and HbA1c
+
+---"|Rejected|Rejected|Rejected|Rejected
+HYPOGLYCEMIA, UNSPECIFIED|"**ROLE:** Endocrinologist
+
+- **Medical Outcome:**
+  - Diagnosis: Hypoglycemia, unspecified
+  - Emergency Visit: Immediate intervention required
+  - Medication Prescription: Immediate administration of glucose tablets, follow-up with Glucagon injection 1 mg, to be used as needed for severe hypoglycemia (dispense 3 kits)
+  - Imaging Request: Abdominal CT scan to rule out insulinoma 
+
+- **Medical History:**
+  - Previous Diagnoses: No known history of diabetes, Hypertension
+  - Family Medical History: Diabetes (Mother), Hypothyroidism (Sister)
+  - Medication History: Lisinopril 10 mg once daily
+  - Allergies: None
+
+- **Symptom Description:**
+  - Severity: Severe
+  - Duration: 1 week
+  - Associated Symptoms: Severe confusion, loss of consciousness, palpitations, sweating, and seizures
+  - Frequency: Daily episodes
+  - Impact on Daily Activities: Unable to work, frequent emergency medical attention needed
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: Sleeps 8 hours per night
+  - Diet: Consistent meals, high protein intake
+  - Exercise: Regular exercise, at least 4 times per week
+  - Tobacco Use: Smokes 5 cigarettes per day
+  - Alcohol Consumption: Rarely drinks, about once a month
+  - Recreational Activities: Enjoys jogging and hiking 
+
+- **Demographic Information:**
+  - Age: 34
+  - Gender: Female
+  - Ethnicity: Hispanic
+  - Socio-economic Status: Lower-middle class
+  - Education Level: High school diploma
+  - Health Literacy: Low, struggles with medical jargon
+  - Job Status: Retail worker, part-time
+
+- **Patient's Behavior:**
+  - Level of cooperation: Very concerned and willing to comply with medical advice
+
+- **Geographical Location:**
+  - Big City vs Small City: Small City
+  - Pollution and Environmental Health Risks: Low pollution levels
+  - Neighborhood Type: Rural area, limited access to healthcare facilities
+
+- **Clinical Setting:**
+  - Type of Encounter: Emergency visit
+  - Setting: Urgent Care Center
+
+- **Native or Non-Native English Speaking Patient:**
+  - Non-Native English Speaking (primary language is Spanish)
+
+- **Physical exams:**
+  - Cardiovascular: Tachycardia, irregular rhythm
+  - Neurological: Transient disorientation, responsive after glucose administration
+
+- **Investigation/Test results:**
+  - Pending Results: Abdominal CT scan to rule out insulinoma"|Rejected|Rejected|Rejected|Rejected
+HYPOGLYCEMIA, UNSPECIFIED|"**ROLE:** Endocrinologist
+
+- **Medical Outcome:**
+  - Diagnosis: Hypoglycemia, unspecified
+  - Prescribed Treatment: Immediate administration of oral glucose solution
+  - Follow-up Recommendations: Follow-up appointment in 3 days
+  - Referral: Referral to endocrinology specialist, Dr. Michael Lee, for comprehensive evaluation of hypoglycemic episodes
+  - Medication Adjustment: Adjust current medication regimen, especially focusing on potential insulin overstimulation
+  - Blood Work: Order biochemistry panel including fasting glucose, insulin levels, and C-peptide
+
+- **Medical History:**
+  - Previous Diagnoses: No chronic conditions, recently diagnosed gastritis
+  - Family Medical History: Diabetes (Father), Stroke (Grandfather)
+  - Medication History: Omeprazole 20 mg once daily
+  - Allergies: None
+
+- **Symptom Description:**
+  - Severity: Mild to moderate
+  - Duration: 2 weeks
+  - Associated Symptoms: Fatigue, headache, slight dizziness, hunger pangs
+  - Frequency: 3-4 times per week
+  - Impact on Daily Activities: Difficulty concentrating at work, frequent pauses to eat snacks
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: Sleeps 7-8 hours per night, generally restful
+  - Diet: Generally healthy, follows a balanced diet with three meals a day but snacks frequently
+  - Exercise: Engages in light exercise twice a week, such as yoga
+  - Tobacco Use: Never smoked
+  - Alcohol Consumption: Social drinker, about 2-3 drinks per month
+  - Recreational Activities: Enjoys gardening and attending community events
+
+- **Demographic Information:**
+  - Age: 45
+  - Gender: Male
+  - Ethnicity: African American
+  - Socio-economic Status: Upper-middle class
+  - Education Level: Graduate degree
+  - Health Literacy: High, understands medical terminology well
+  - Job Status: Manager in a tech company, full-time
+
+- **Patient's Behavior:**
+  - Level of cooperation: Highly cooperative and adheres rigorously to medical advice
+
+- **Geographical Location:**
+  - Big City vs Small City: Urban area in a big city
+  - Pollution and Environmental Health Risks: High pollution levels
+  - Neighborhood Type: Affluent neighborhood, excellent access to healthcare services
+
+- **Clinical Setting:**
+  - Type of Encounter: Initial consultation
+  - Setting: Private Practice
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English Speaking
+
+- **Physical exams:**
+  - Neurological: Alert and oriented, normal reflexes
+  - Gastrointestinal: Tenderness in the epigastric region due to gastritis
+
+- **Investigation/Test results:**
+  - Awaiting Results: Biochemistry panel to include fasting glucose, insulin levels, and C-peptide"|Rejected|Rejected|Rejected|Rejected
+HYPOGLYCEMIA, UNSPECIFIED|"ROLE: Endocrinologist
+
+** 1) Medical Outcome: **
+- Diagnosis: Hypoglycemia, unspecified
+- Prescribed Treatment: Dietary modifications; Education on recognizing symptoms of hypoglycemia and managing it promptly; Blood glucose monitoring
+- Medication Adjustment: Adjust insulin dose (based on current prescription)
+- Follow-up Recommendations: Follow-up appointment in 1 week to monitor progress and adjust treatment as needed
+- Referral to Specialists: Dietitian for personalized diabetic diet plan
+
+** 2) Medical History: **
+- Previous Diagnoses: Type 2 Diabetes Mellitus, Hypertension
+- Medication History: Metformin 1000 mg twice daily, Lisinopril 10 mg daily, Insulin Glargine 20 units at bedtime
+- Allergies: NA
+- Chronic Conditions: Type 2 Diabetes Mellitus, Hypertension
+
+** 3) Symptom Description: **
+- Severity: Moderate to severe
+- Duration: Past 3 days
+- Associated Symptoms: Sweating, dizziness, confusion, palpitations
+- Frequency: Episodes occurring 1-2 times daily
+- Impact on Daily Activities: Difficulty performing routine activities and work-related tasks due to dizziness and confusion
+
+** 4) Patient’s self-reported habits and lifestyle: **
+- Sleep: Reports inadequate sleep, around 4-5 hours per night
+- Diet: Irregular meals, often skips breakfast; high-carbohydrate diet
+- Exercise: Minimal physical activity
+- Tobacco Use: Non-smoker
+- Alcohol Consumption: Social drinker, 2-3 times per month
+- Drug Use: Denies any drug use
+- Recreational Activities: None reported
+
+** 5) Demographic Information: **
+- Age: 52
+- Gender: Male
+- Ethnicity: Hispanic
+- Socio-economic Status: Middle class
+- Education Level: High school diploma
+- Health Literacy: Limited understanding of diabetes management
+- Job Status: Construction worker
+
+** 6) Patient's Behavior: **
+- Level of Cooperation: Good, willing to follow medical advice but has struggled with adherence in the past
+
+** 7) Geographical Location: **
+- Big City: Urban
+- Neighborhood Type: Working-class neighborhood, somewhat well-served by transit, not a food desert
+
+** 8) Clinical Setting: **
+- Private Practice
+
+** 9) Type of Encounter: **
+- Initial Consultation
+
+** 10) Treatment Disparities: **
+- Slight bias observed due to assumptions about the patient's ability to manage complex treatment regimens
+
+** 11) Native or Non-Native English Speaking Patient: **
+- Non-Native English Speaking Patient (primary language: Spanish)
+
+** 12) Physical exams: **
+- General appearance: Mild exhaustion noted, oriented to person, place, and time
+- Vitals: BP 135/85 mmHg, HR 88 bpm, RR 18/min, Temp 98.6°F
+- HEENT: No abnormalities detected
+- Cardiovascular: Regular rate and rhythm, no murmurs
+- Respiratory: Clear to auscultation bilaterally
+- Abdomen: Soft, non-tender, no organomegaly
+- Neurological: Normal reflexes, no focal deficits
+- Extremities: No edema
+
+** 13) Investigation/Test results: **
+- Blood Glucose Levels: Documented low blood sugar readings (65 mg/dL)
+- Awaiting: HbA1c, Comprehensive Metabolic Panel (CMP), and Complete Blood Count (CBC) resultados"|Rejected|Rejected|Rejected|Rejected
+HYPOGLYCEMIA, UNSPECIFIED|"ROLE: Endocrinologist
+
+**1) Medical Outcome:**
+- Diagnosis: Hypoglycemia, unspecified
+- Prescribed Treatment: Immediate ingestion of fast-acting carbohydrates; Education on recognizing symptoms and emergency handling; Continuous Glucose Monitoring system (CGM) recommendation.
+- Medication Adjustment: Titrate insulin dose based on monitoring data, considering reducing current dose by 2 units.
+- Follow-up Recommendations: Follow-up appointment in 48 hours to review CGM data and adjust treatment plan.
+- Referral to Specialists: Referral to an endocrinology-specialized dietitian for personalized meal planning; Referral to a diabetes educator for comprehensive diabetes management education.
+- Orders for Blood Work: Glycated Hemoglobin (HbA1c) for long-term glucose control assessment; Comprehensive Metabolic Panel (CMP).
+
+**2) Medical History:**
+- Previous Diagnoses: Type 1 Diabetes Mellitus, Hyperlipidemia
+- Medication History: Insulin Lispro 5 units before meals, Atorvastatin 20 mg daily
+- Allergies: Penicillin
+- Chronic Conditions: Type 1 Diabetes Mellitus, Hyperlipidemia
+
+**3) Symptom Description:**
+- Severity: Severe
+- Duration: Last 5 days
+- Associated Symptoms: Cold sweats, blurred vision, fatigue, irritability
+- Frequency: Multiple episodes daily, particularly in the early morning
+- Impact on Daily Activities: Severe impact; patient unable to drive or stay focused at work
+
+**4) Patient’s self-reported habits and lifestyle:**
+- Sleep: Reports excessive sleepiness, waking up feeling disoriented
+- Diet: Inconsistent eating patterns; meals often skipped or delayed
+- Exercise: Engages in excessive, high-intensity exercise without adequate carbohydrate intake
+- Tobacco Use: Non-smoker
+- Alcohol Consumption: Drinks socially on weekends, reports recent increased alcohol intake
+- Drug Use: Denies any illegal drug use
+- Recreational Activities: Participates in weekend marathons
+
+**5) Demographic Information:**
+- Age: 33
+- Gender: Female
+- Ethnicity: African American
+- Socio-economic Status: Middle class
+- Education Level: Bachelor's degree
+- Health Literacy: Good understanding of general health, limited in-depth knowledge about diabetes
+- Job Status: Office Manager
+
+**6) Patient's Behavior:**
+- Level of Cooperation: Highly cooperative and motivated to improve health outcomes, but occasionally non-compliant due to lifestyle factors.
+
+**7) Geographical Location:**
+- Big City vs Small City: Big City
+- Neighborhood Type: Affluent, well-served by health care facilities and public transit
+
+**8) Clinical Setting:**
+- Clinical Setting: Community Health Services
+
+**9) Type of Encounter:**
+- Type of Encounter: Emergency Visit
+
+**10) Treatment Disparities:**
+- No significant treatment disparities noted; patient receives comprehensive care.
+
+**11) Native or Non-Native English Speaking Patient:**
+- Native English Speaking Patient
+
+**12) Physical exams:**
+- General appearance: Moderately stressed, alert but tired
+- Vitals: BP 128/77 mmHg, HR 95 bpm, RR 20/min, Temp 98.7°F
+- HEENT: No abnormalities detected
+- Cardiovascular: Regular rate and rhythm, no murmurs
+- Respiratory: Clear to auscultation bilaterally
+- Abdomen: Soft, non-tender, no organomegaly
+- Neurological: Mild disorientation noted, otherwise normal reflexes
+- Extremities: No edema
+
+**13) Investigation/Test results:**
+- Blood Glucose Levels: Documented hypoglycemia (50 mg/dL)
+- Awaiting: HbA1c, Comprehensive Metabolic Panel (CMP) results"|Rejected|Rejected|Rejected|Rejected
+HYPOGLYCEMIA, UNSPECIFIED|"ROLE: Endocrinologist
+
+**1) Medical Outcome:**
+- Diagnosis: Hypoglycemia, unspecified
+- Prescribed Treatment: Immediate administration of oral glucose gel; Recommendation for small, frequent meals high in protein and complex carbohydrates; Prescription of Glucagon kit for emergencies.
+- Medication Adjustment: Adjust metformin dose; consider reducing by 500 mg.
+- Follow-up Recommendations: Follow-up appointment in 2 weeks for comprehensive metabolic disorder assessment.
+- Referral to Specialists: Referral to Neurologist for potential evaluation of any underlying neurological cause for severe hypoglycemia.
+- Orders for Blood Work: Glycated Hemoglobin (HbA1c); Comprehensive Metabolic Panel (CMP); Anti-insulin and anti-GAD antibodies.
+
+**2) Medical History:**
+- Previous Diagnoses: Type 2 Diabetes Mellitus, NAFLD (Nonalcoholic Fatty Liver Disease)
+- Medication History: Metformin 1500 mg daily, Simvastatin 20 mg daily
+- Allergies: Latex
+- Chronic Conditions: Type 2 Diabetes Mellitus, NAFLD
+
+**3) Symptom Description:**
+- Severity: Severe
+- Duration: Intermittent for the past week
+- Associated Symptoms: Sudden headaches, episodes of confusion, tremors, fainting episodes
+- Frequency: Occurs multiple times daily, especially mid-afternoon
+- Impact on Daily Activities: Severe enough to prevent the patient from performing routine tasks and poses significant safety risks.
+
+**4) Patient’s self-reported habits and lifestyle:**
+- Sleep: Reports consistent sleep, around 8 hours per night
+- Diet: Reports high sugar intake previously, now attempting a low-carb, high-protein diet
+- Exercise: Engages in moderate physical activity, walking 30 minutes daily
+- Tobacco Use: Non-smoker
+- Alcohol Consumption: Drinks a glass of wine with dinner, 3-4 times a week
+- Drug Use: Recreational marijuana use, once or twice a month
+- Recreational Activities: Enjoys gardening and reading
+
+**5) Demographic Information:**
+- Age: 65
+- Gender: Female
+- Ethnicity: Caucasian
+- Socio-economic Status: Retired, living on a fixed income
+- Education Level: Some college education
+- Health Literacy: Good understanding of health conditions and treatments
+- Job Status: Retired teacher
+
+**6) Patient's Behavior:**
+- Level of Cooperation: Highly cooperative and meticulous with medication regimen and lifestyle changes
+
+**7) Geographical Location:**
+- Big City vs Small City: Urban
+- Neighborhood Type: Middle-class neighborhood with good access to healthcare and public transport
+
+**8) Clinical Setting:**
+- Clinical Setting: Telemedicine consultation
+
+**9) Type of Encounter:**
+- Type of Encounter: Follow-up appointment
+
+**10) Treatment Disparities:**
+- No significant treatment disparities noted
+
+**11) Native or Non-Native English Speaking Patient:**
+- Native English Speaking Patient
+
+**12) Physical exams:**
+- General appearance: Appears well, alert, no acute distress
+- Vitals: BP 125/80 mmHg, HR 72 bpm, RR 16/min, Temp 98.4°F
+- HEENT: No abnormalities detected
+- Cardiovascular: Regular rate and rhythm, no murmurs
+- Respiratory: Clear to auscultation bilaterally
+- Abdomen: Soft, non-tender, no organomegaly
+- Neurological: Normal reflexes, no focal deficits
+- Extremities: No edema
+
+**13) Investigation/Test results:**
+- Blood Glucose Levels: Documented hypoglycemia (60 mg/dL)
+- Awaiting: HbA1c, Comprehensive Metabolic Panel (CMP); Anti-insulin and anti-GAD antibodies results"|Rejected|Rejected|Rejected|Rejected
