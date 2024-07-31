@@ -24,9 +24,15 @@ class InstructDataset(ABC):
         :param dataset_path: The path to the dataset
         :return: None
         """
-        if dataset_path == "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/Phase_2/500_sample/_combined_with_dial.csv":
+        if dataset_path == "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/Phase_2_500/500_sample/_combined_with_dial.csv":
                 self.dataset = pd.read_csv(dataset_path, sep= "|")
-        elif dataset_path == "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/Phase_3/with_dial/_combined_with_dial.csv":
+        elif dataset_path == "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/Phase_3_1k/with_dial/_combined_with_dial.csv":
+                self.dataset = pd.read_csv(dataset_path, sep= "|")
+        elif dataset_path == "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/phase_4_250/_combined_with_dial.csv":
+                self.dataset = pd.read_csv(dataset_path, sep= "|")
+        elif dataset_path == "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/phase_5_250/_combined_with_dial.csv":
+                self.dataset = pd.read_csv(dataset_path, sep= "|")
+        elif dataset_path == "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/phase_6_500/_combined_with_dial.csv":
                 self.dataset = pd.read_csv(dataset_path, sep= "|")
         else:
             self.dataset = pd.read_csv(dataset_path)

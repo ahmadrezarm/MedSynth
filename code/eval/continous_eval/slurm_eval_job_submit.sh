@@ -1,12 +1,12 @@
 #!/bin/bash
-#SBATCH --job-name=SynthDataGen_Dial2Note_llama-3-8b-Instruct_NoteChat_2500_samples_and_Aci
+#SBATCH --job-name=SynthDataGen_Dial2Note_llama-3-8b-Instruct_NoteChat_2500_samples_and_Aci_EVAL
 #SBATCH --gres=gpu:a40:1
 #SBATCH --mail-user=ahmad.rm0067@gmail.com  # Email address for notifications
 #SBATCH --mail-type=ALL
-#SBATCH --qos=m2
-#SBATCH --time=6:00:00
+#SBATCH --qos=m3
+#SBATCH --time=4:00:00
 #SBATCH -c 30
-#SBATCH --mem=60G
+#SBATCH --mem=30G
 #SBATCH --output=slurm-%j.out
 #SBATCH --error=slurm-%j.err
 
@@ -18,6 +18,6 @@ source /pkgs/anaconda3/bin/activate /h/ahmad/.conda/envs/SynthDataGenEnv || cond
 
 
 # put your command here
-python /h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/run_tuning.py
+python /h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/run_eval.py
 
 echo `date`: "Job $SLURM_JOB_ID finished running, exit code: $?"
