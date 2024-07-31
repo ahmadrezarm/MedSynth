@@ -1,0 +1,2788 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+DISORDER OF THYROID, UNSPECIFIED|"ROLE: Endocrinologist
+
+Scenario:
+
+- Medical Outcome:
+  - Diagnosis: Disorder of thyroid, unspecified (ICD-10: E07.9)
+  - Prescribed Treatment: Levothyroxine 50 mcg once daily in the morning before breakfast
+  - Follow-up Recommendations: Re-evaluation in 6 weeks
+  - Referral: None
+  - Blood Work: TSH, Free T4
+  - Imaging: Thyroid ultrasound for structural assessment
+
+- Medical History:
+  - Previous Diagnoses: Hypertension, Hyperlipidemia
+  - Family Medical History: Father had hypothyroidism, mother had diabetes type 2
+  - Medication History: Atenolol for hypertension, Atorvastatin for hyperlipidemia
+  - Allergies: Penicillin
+  - Chronic Conditions: Hypertension, Hyperlipidemia
+
+- Symptom Description:
+  - Severity: Moderate
+  - Duration: 3 months
+  - Associated Symptoms: Fatigue, weight gain, feeling cold
+  - Frequency: Daily
+  - Impact on Daily Activities: Difficulty in maintaining daily activities due to fatigue
+
+- Patient’s Self-reported Habits and Lifestyle:
+  - Sleep: 6 hours/day, poor quality
+  - Diet: High in processed foods, low in fruits and vegetables
+  - Exercise: Sedentary lifestyle, no regular physical activity
+  - Tobacco Use: Smokes 1 pack per day
+  - Alcohol Consumption: Drinks 3-4 beers per week
+  - Drug Use: None
+  - Recreational Activities: None, prefers watching TV
+
+- Demographic Information:
+  - Age: 45
+  - Gender: Female
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Middle-class
+  - Education Level: High school diploma
+  - Health Literacy: Moderate understanding
+  - Job Status: Works as a cashier
+
+- Patient's Behavior:
+  - Cooperation with Medical Advice: Generally cooperative but has difficulty adhering to dietary and exercise recommendations
+
+- Geographical Location:
+  - Big City vs Small City: Small city
+  - Rural vs Urban: Small urban area
+  - Pollution and Environmental Health Risks: Moderate pollution
+  - Neighborhood Type: Middle-income, well-served by transit, not a food desert
+
+- Clinical Setting:
+  - Endocrinology Clinic
+
+- Type of Encounter:
+  - Initial Consultation
+
+- Treatment Disparities:
+  - None identified
+
+- Native or Non-Native English Speaking Patient:
+  - Native English-speaking patient
+
+- Physical exams:
+  - Neck: Palpable, slightly enlarged thyroid gland, no nodules detected
+  - Cardiovascular: Normal heart rate and rhythm
+  - Neurological: Normal reflexes
+
+- Investigation/Test Results:
+  - Blood Work: TSH and Free T4 pending
+  - Imaging: Thyroid ultrasound ordered, awaiting results"|"**1. Subjective:**
+
+**Chief Complaint (CC):** 
+Fatigue, weight gain, and feeling cold for the past 3 months.
+
+**History of Present Illness (HPI):**
+- **Severity:** Moderate
+- **Duration:** 3 months
+- **Associated Symptoms:** Fatigue, weight gain, feeling cold
+- **Frequency:** Daily
+- **Impact on Daily Activities:** Difficulty in maintaining daily activities due to fatigue
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports fatigue and weight gain. Denies fever or night sweats.
+- **Endocrine:** Reports feeling cold. Denies polyuria or polydipsia.
+- **Cardiovascular:** Denies chest pain or palpitations.
+- **Respiratory:** Denies shortness of breath or cough.
+- **Gastrointestinal:** Denies nausea, vomiting, or diarrhea.
+- **Neurological:** Reports no headaches, but feels generally sluggish. Denies numbness or tingling.
+- **Musculoskeletal:** Denies joint pain or muscle weakness.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 140/85 mmHg
+- Heart Rate: 72 bpm
+- Temperature: 98.2 degrees F
+- Respiratory Rate: 16 breaths/min
+- Oxygen Saturation: 98%
+
+**Physical Exam:**
+- **Neck:** Palpable, slightly enlarged thyroid gland, no nodules detected.
+- **Cardiovascular:** Normal heart rate and rhythm.
+- **Respiratory:** Lungs clear to auscultation.
+- **Neurological:** Normal reflexes, no focal deficits.
+- **General:** Obese female, appears well-nourished and in no acute distress.
+
+**3. Assessment:**
+
+- **Diagnosis:** Disorder of thyroid, unspecified (ICD-10: E07.9)
+  - **Medical Reasoning:** Symptoms of fatigue, weight gain, and feeling cold are consistent with hypothyroidism, and family history supports this. Physical examination reveals a slightly enlarged thyroid.
+
+**4. Plan:**
+
+- **Medical Treatment:**
+  - Start Levothyroxine 50 mcg once daily in the morning before breakfast.
+
+- **Investigations:**
+  - Blood work: TSH and Free T4 levels pending.
+  - Imaging: Thyroid ultrasound ordered for structural assessment.
+
+- **Lifestyle Recommendations:**
+  - Encourage dietary changes to include more fruits and vegetables, and reduce processed foods.
+  - Advise on smoking cessation and provide resources for quitting.
+  - Recommend starting a light exercise routine, such as walking for 30 minutes daily.
+
+- **Follow-up Recommendations:**
+  - Re-evaluation in 6 weeks to assess response to treatment.
+  - No referrals at this time.
+
+- **Patient Education and Counseling:**
+  - Discussed the importance of adherence to the Levothyroxine regimen and the potential side effects.
+  - Educated patient on signs of over-treatment, such as palpitations or insomnia.
+  - Advised on monitoring symptoms and seeking medical advice if symptoms worsen.
+
+- **Patient Agreements:**
+  - The patient understands and agrees with the recommended medical treatment plan.
+
+**Instructions:**
+- The patient will follow up in 6 weeks for a re-evaluation.
+
+The patient was given educational materials about hypothyroidism and advised to contact the clinic if there are any questions or concerns."|"**1. Subjective:**
+
+**Chief Complaint (CC):** 
+Fatigue, weight gain, and feeling cold for the past 3 months.
+
+**History of Present Illness (HPI):**
+- **Severity:** Moderate
+- **Duration:** 3 months
+- **Associated Symptoms:** Fatigue, weight gain, feeling cold
+- **Frequency:** Daily
+- **Impact on Daily Activities:** Difficulty in maintaining daily activities due to fatigue
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports fatigue and weight gain. Denies fever or night sweats.
+- **Endocrine:** Reports feeling cold. Denies polyuria or polydipsia.
+- **Cardiovascular:** Denies chest pain or palpitations.
+- **Respiratory:** Denies shortness of breath or cough.
+- **Gastrointestinal:** Denies nausea, vomiting, or diarrhea.
+- **Neurological:** Reports no headaches, but feels generally sluggish. Denies numbness or tingling.
+- **Musculoskeletal:** Denies joint pain or muscle weakness.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 140/85 mmHg
+- Heart Rate: 72 bpm
+- Temperature: 98.2 degrees F
+- Respiratory Rate: 16 breaths/min
+- Oxygen Saturation: 98%
+
+**Physical Exam:**
+- **Neck:** Palpable, slightly enlarged thyroid gland, no nodules detected.
+- **Cardiovascular:** Normal heart rate and rhythm.
+- **Respiratory:** Lungs clear to auscultation.
+- **Neurological:** Normal reflexes, no focal deficits.
+- **General:** Obese female, appears well-nourished and in no acute distress.
+
+**3. Assessment:**
+
+- **Diagnosis:** Disorder of thyroid, unspecified (ICD-10: E07.9)
+  - **Medical Reasoning:** Symptoms of fatigue, weight gain, and feeling cold are consistent with hypothyroidism, and family history supports this. Physical examination reveals a slightly enlarged thyroid.
+
+**4. Plan:**
+
+- **Medical Treatment:**
+  - Start Levothyroxine 50 mcg once daily in the morning before breakfast.
+
+- **Investigations:**
+  - Blood work: TSH and Free T4 levels pending.
+  - Imaging: Thyroid ultrasound ordered for structural assessment.
+
+- **Lifestyle Recommendations:**
+  - Encourage dietary changes to include more fruits and vegetables, and reduce processed foods.
+  - Advise on smoking cessation and provide resources for quitting.
+  - Recommend starting a light exercise routine, such as walking for 30 minutes daily.
+
+- **Follow-up Recommendations:**
+  - Re-evaluation in 6 weeks to assess response to treatment.
+  - No referrals at this time.
+
+- **Patient Education and Counseling:**
+  - Discussed the importance of adherence to the Levothyroxine regimen and the potential side effects.
+  - Educated patient on signs of over-treatment, such as palpitations or insomnia.
+  - Advised on monitoring symptoms and seeking medical advice if symptoms worsen.
+
+- **Patient Agreements:**
+  - The patient understands and agrees with the recommended medical treatment plan.
+
+**Instructions:**
+- The patient will follow up in 6 weeks for a re-evaluation.
+
+The patient was given educational materials about hypothyroidism and advised to contact the clinic if there are any questions or concerns."|"**1. Subjective:**
+
+**CC:** 
+Fatigue, weight gain, and feeling cold for the past 3 months.
+
+**HPI:**
+- **Severity:** Moderate
+- **Duration:** 3 months
+- **Assoc. Sx:** Fatigue, weight gain, feeling cold
+- **Freq:** Daily
+- **Impact on ADLs:** Difficulty in maintaining daily activities due to fatigue
+
+**ROS:**
+- **Constitutional:** Reports fatigue and weight gain. Denies fever or night sweats.
+- **Endocrine:** Reports feeling cold. Denies polyuria or polydipsia.
+- **CV:** Denies CP or palpitations.
+- **Resp:** Denies SOB or cough.
+- **GI:** Denies N/V/D.
+- **Neuro:** Reports no HA, but feels generally sluggish. Denies numbness or tingling.
+- **MSK:** Denies joint pain or muscle weakness.
+
+**2. Objective:**
+
+**VS:**
+- BP: 140/85 mmHg
+- HR: 72 bpm
+- Temp: 98.2°F
+- RR: 16 breaths/min
+- O2 Sat: 98%
+
+**PE:**
+- **Neck:** Palpable, slightly enlarged thyroid gland, no nodules detected.
+- **CV:** Normal HR and rhythm.
+- **Resp:** Lungs clear to auscultation.
+- **Neuro:** Normal reflexes, no focal deficits.
+- **Gen:** Obese female, appears well-nourished and in no acute distress.
+
+**3. Assessment:**
+
+- **Dx:** Disorder of thyroid, unspecified (ICD-10: E07.9)
+  - **Medical Reasoning:** Sx of fatigue, weight gain, and feeling cold are consistent with hypothyroidism, and FH supports this. PE reveals a slightly enlarged thyroid.
+
+**4. Plan:**
+
+- **Medical Tx:**
+  - Start Levothyroxine 50 mcg QD in the morning before breakfast.
+
+- **Investigations:**
+  - Blood work: TSH and Free T4 levels pending.
+  - Imaging: Thyroid US ordered for structural assessment.
+
+- **Lifestyle Recs:**
+  - Encourage dietary changes to include more fruits and vegetables, and reduce processed foods.
+  - Advise on smoking cessation and provide resources for quitting.
+  - Recommend starting a light exercise routine, such as walking for 30 minutes daily.
+
+- **F/U Recs:**
+  - Re-evaluation in 6 weeks to assess response to Tx.
+  - No referrals at this time.
+
+- **Pt Ed and Counseling:**
+  - Discussed the importance of adherence to the Levothyroxine regimen and the potential side effects.
+  - Educated pt on signs of over-treatment, such as palpitations or insomnia.
+  - Advised on monitoring Sx and seeking medical advice if Sx worsen.
+
+- **Pt Agreements:**
+  - The pt understands and agrees with the recommended medical Tx plan.
+
+**Instructions:**
+- The pt will F/U in 6 weeks for a re-evaluation.
+
+The pt was given educational materials about hypothyroidism and advised to contact the clinic if there are any questions or concerns."|Endocrinologist|"**Doctor:** Hi there, I'm Dr. Smith. How can I help you today?
+
+**Patient:** Hi, doctor. I've been feeling really tired, gaining weight, and feeling cold all the time for the past few months.
+
+**Doctor:** Hmm, I see. Can you tell me more about these symptoms? How severe are they, and how long have you been experiencing them?
+
+**Patient:** Well, the fatigue is moderate, and it's been going on for about 3 months now. It's really affecting my daily activities. I feel tired every day.
+
+**Doctor:** I understand. And you mentioned weight gain as well. How much weight have you gained in this period?
+
+**Patient:** I've gained about 15 pounds in the past three months.
+
+**Doctor:** Alright. And you also said you're feeling cold. Is this feeling constant or does it come and go?
+
+**Patient:** It's pretty much constant. I'm always cold, even when it's warm outside.
+
+**Doctor:** Okay, let's go through a few more questions to get a complete picture. Have you had any fever or night sweats?
+
+**Patient:** No, I haven't had any fever or night sweats.
+
+**Doctor:** Any issues with increased urination or excessive thirst?
+
+**Patient:** No, I haven't noticed anything like that.
+
+**Doctor:** How about your heart? Any chest pain or palpitations?
+
+**Patient:** No chest pain or palpitations.
+
+**Doctor:** And your breathing? Any shortness of breath or coughing?
+
+**Patient:** No, my breathing has been normal.
+
+**Doctor:** Have you had any nausea, vomiting, or diarrhea?
+
+**Patient:** No, none of those either.
+
+**Doctor:** How about headaches or any numbness or tingling in your body?
+
+**Patient:** I don't have headaches, but I do feel generally sluggish. No numbness or tingling, though.
+
+**Doctor:** Okay, and any joint pain or muscle weakness?
+
+**Patient:** No joint pain or muscle weakness.
+
+**Doctor:** Alright, thank you for sharing that. I'm going to perform a physical exam now. Let's start with your vital signs. Your blood pressure is 140/85 mmHg, heart rate is 72 beats per minute, temperature is 98.2 degrees Fahrenheit, respiratory rate is 16 breaths per minute, and oxygen saturation is 98%. 
+
+**Patient:** Okay.
+
+**Doctor:** Now, I'll check your neck. I can feel that your thyroid gland is slightly enlarged, but there are no nodules. 
+
+**Patient:** What does that mean, doctor?
+
+**Doctor:** It could be related to your symptoms. Let's move on to your cardiovascular and respiratory exams. Your heart rate and rhythm are normal, and your lungs are clear to auscultation.
+
+**Patient:** That's good to hear.
+
+**Doctor:** I'll also check your neurological functions. Your reflexes are normal, and I don't see any focal deficits. Overall, you appear well-nourished and in no acute distress. 
+
+**Patient:** Okay, what could be causing all these symptoms?
+
+**Doctor:** Based on your symptoms and the physical exam, it seems like you might have a thyroid disorder, possibly hypothyroidism. This condition can cause fatigue, weight gain, and feeling cold, among other symptoms.
+
+**Patient:** Oh, I see. What should we do next?
+
+**Doctor:** I'll start by prescribing Levothyroxine 50 micrograms once daily in the morning before breakfast. This medication will help manage your thyroid levels.
+
+**Patient:** Alright, and what about tests or further checks?
+
+**Doctor:** We'll need to do some blood work to check your Thyroid Stimulating Hormone (TSH) and Free T4 levels. I'll also order a thyroid ultrasound to get a better look at the structure of your thyroid gland.
+
+**Patient:** Okay, that sounds good. 
+
+**Doctor:** Along with the medication, I recommend some lifestyle changes. Try to include more fruits and vegetables in your diet and reduce processed foods. If you smoke, I strongly advise you to quit, and I can provide resources to help with that. Also, start a light exercise routine, such as walking for 30 minutes daily.
+
+**Patient:** I can do that. 
+
+**Doctor:** Great. We'll schedule a follow-up appointment in 6 weeks to assess how you're responding to the treatment. 
+
+**Patient:** Thanks, doctor. Is there anything else I need to know?
+
+**Doctor:** Yes, it's important to stick to the Levothyroxine regimen and be aware of potential side effects like palpitations or insomnia. Monitor your symptoms and contact the clinic if they worsen. Here's some educational material about hypothyroidism for you to read.
+
+**Patient:** Thank you, doctor. I'll make sure to follow your instructions.
+
+**Doctor:** You're welcome. If you have any questions or concerns, don't hesitate to contact the clinic. See you in 6 weeks.
+
+**Patient:** Will do. Thanks again, doctor!"|"[doctor]: Hi there, I'm Dr. Smith. How can I help you today?
+
+[patient]: Hi, doctor. I've been feeling really tired, gaining weight, and feeling cold all the time for the past few months.
+
+[doctor]: Hmm, I see. Can you tell me more about these symptoms? How severe are they, and how long have you been experiencing them?
+
+[patient]: Well, the fatigue is moderate, and it's been going on for about 3 months now. It's really affecting my daily activities. I feel tired every day.
+
+[doctor]: I understand. And you mentioned weight gain as well. How much weight have you gained in this period?
+
+[patient]: I've gained about 15 pounds in the past three months.
+
+[doctor]: Alright. And you also said you're feeling cold. Is this feeling constant or does it come and go?
+
+[patient]: It's pretty much constant. I'm always cold, even when it's warm outside.
+
+[doctor]: Okay, let's go through a few more questions to get a complete picture. Have you had any fever or night sweats?
+
+[patient]: No, I haven't had any fever or night sweats.
+
+[doctor]: Any issues with increased urination or excessive thirst?
+
+[patient]: No, I haven't noticed anything like that.
+
+[doctor]: How about your heart? Any chest pain or palpitations?
+
+[patient]: No chest pain or palpitations.
+
+[doctor]: And your breathing? Any shortness of breath or coughing?
+
+[patient]: No, my breathing has been normal.
+
+[doctor]: Have you had any nausea, vomiting, or diarrhea?
+
+[patient]: No, none of those either.
+
+[doctor]: How about headaches or any numbness or tingling in your body?
+
+[patient]: I don't have headaches, but I do feel generally sluggish. No numbness or tingling, though.
+
+[doctor]: Okay, and any joint pain or muscle weakness?
+
+[patient]: No joint pain or muscle weakness.
+
+[doctor]: Alright, thank you for sharing that. I'm going to perform a physical exam now. Let's start with your vital signs. Your blood pressure is 140/85 mmHg, heart rate is 72 beats per minute, temperature is 98.2 degrees Fahrenheit, respiratory rate is 16 breaths per minute, and oxygen saturation is 98%.
+
+[patient]: Okay.
+
+[doctor]: Now, I'll check your neck. I can feel that your thyroid gland is slightly enlarged, but there are no nodules.
+
+[patient]: What does that mean, doctor?
+
+[doctor]: It could be related to your symptoms. Let's move on to your cardiovascular and respiratory exams. Your heart rate and rhythm are normal, and your lungs are clear to auscultation.
+
+[patient]: That's good to hear.
+
+[doctor]: I'll also check your neurological functions. Your reflexes are normal, and I don't see any focal deficits. Overall, you appear well-nourished and in no acute distress.
+
+[patient]: Okay, what could be causing all these symptoms?
+
+[doctor]: Based on your symptoms and the physical exam, it seems like you might have a thyroid disorder, possibly hypothyroidism. This condition can cause fatigue, weight gain, and feeling cold, among other symptoms.
+
+[patient]: Oh, I see. What should we do next?
+
+[doctor]: I'll start by prescribing Levothyroxine 50 micrograms once daily in the morning before breakfast. This medication will help manage your thyroid levels.
+
+[patient]: Alright, and what about tests or further checks?
+
+[doctor]: We'll need to do some blood work to check your Thyroid Stimulating Hormone (TSH) and Free T4 levels. I'll also order a thyroid ultrasound to get a better look at the structure of your thyroid gland.
+
+[patient]: Okay, that sounds good.
+
+[doctor]: Along with the medication, I recommend some lifestyle changes. Try to include more fruits and vegetables in your diet and reduce processed foods. If you smoke, I strongly advise you to quit, and I can provide resources to help with that. Also, start a light exercise routine, such as walking for 30 minutes daily.
+
+[patient]: I can do that.
+
+[doctor]: Great. We'll schedule a follow-up appointment in 6 weeks to assess how you're responding to the treatment.
+
+[patient]: Thanks, doctor. Is there anything else I need to know?
+
+[doctor]: Yes, it's important to stick to the Levothyroxine regimen and be aware of potential side effects like palpitations or insomnia. Monitor your symptoms and contact the clinic if they worsen. Here's some educational material about hypothyroidism for you to read.
+
+[patient]: Thank you, doctor. I'll make sure to follow your instructions.
+
+[doctor]: You're welcome. If you have any questions or concerns, don't hesitate to contact the clinic. See you in 6 weeks.
+
+[patient]: Will do. Thanks again, doctor!"
+DISORDER OF THYROID, UNSPECIFIED|"ROLE: Endocrinologist
+
+1) Medical Outcome:
+   - Diagnosis: Disorder of Thyroid, Unspecified
+   - Prescribed Treatment: Levothyroxine 25 mcg, orally, once daily in the morning, quantity: 30 tablets, duration: 1 month.
+   - Follow-up recommendations: Follow-up in 12 weeks to reassess symptoms and thyroid function tests.
+   - Blood Work: Thyroid function tests (TSH, Free T4), Vitamin D levels
+   - Referral: Refer to a mental health counselor for support with depression and anxiety
+
+2) Medical History:
+   - Previous Diagnoses: Anxiety disorder, Vitamin D deficiency
+   - Family Medical History: Aunt had hypothyroidism; father had coronary artery disease.
+   - Medication History: Takes Sertraline 50 mg daily for anxiety
+   - Allergies: None
+   - Chronic Conditions: Chronic migraines
+
+3) Symptom Description:
+   - Severity: Moderate
+   - Duration: 5 months
+   - Associated Symptoms: Fatigue, difficulty concentrating, unexplained weight gain, hair thinning, feeling cold, occasional heart palpitations
+   - Frequency: Daily
+   - Impact on Daily Activities: Impacts ability to perform at work and take care of family
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Irregular sleep patterns, around 5-6 hours per night
+   - Diet: Balanced diet, includes fruits and vegetables but consumes a lot of caffeine
+   - Exercise: Exercises 3 times a week, mostly cardio
+   - Tobacco Use: None
+   - Alcohol Consumption: Drinks occasionally, mostly on weekends
+   - Drug Use: None
+   - Recreational Activities: Likes cycling and yoga, but has reduced frequency due to fatigue
+
+5) Demographic Information:
+   - Age: 28
+   - Gender: Female
+   - Ethnicity: Asian American
+   - Socio-economic Status: Lower middle class
+   - Education Level: Bachelor's degree
+   - Health Literacy: Moderate; understands basic health information but has difficulty with complex medical terms
+   - Job Status: Works full-time as a software developer
+
+6) Patient's Behavior:
+   - Level of cooperation with medical advice: Very cooperative and proactive
+
+7) Geographical Location:
+   - Big City vs Small City: Small City
+   - Environmental Health Risks: Minimal pollution, moderate stress environment
+   - Neighborhood Type: Mixed-income, accessible healthcare, good public transportation but limited recreational spaces
+
+8) Clinical Setting:
+   - Telemedicine
+
+9) Type of Encounter:
+   - Follow-up
+
+10) Treatment Disparities:
+   - None noted
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English Speaker
+
+12) Physical exams:
+   - NA (Telemedicine setting)
+
+13) Investigation/Test results:
+   - Awaiting: Thyroid function tests (TSH, Free T4), Vitamin D levels"|"#####
+**SUBJECTIVE**
+
+**CHIEF COMPLAINT**
+
+Fatigue, difficulty concentrating, unexplained weight gain, hair thinning, feeling cold, occasional heart palpitations.
+
+**HISTORY OF PRESENT ILLNESS**
+
+The patient is a 28-year-old Asian American female presenting for a follow-up regarding her ongoing symptoms suggestive of a thyroid disorder. She has a 5-month history of moderate symptoms, including persistent fatigue, difficulty concentrating, unexplained weight gain, hair thinning, and feeling consistently cold. She also reports occasional heart palpitations. These symptoms have significantly impacted her daily activities, including her work as a software developer and her ability to care for her family.
+
+**REVIEW OF SYSTEMS**
+
+- Constitutional: Reports fatigue and feeling cold; no fever or night sweats.
+- Cardiovascular: Occasional palpitations.
+- Respiratory: No shortness of breath or cough.
+- Gastrointestinal: No nausea or constipation.
+- Neurological: Chronic migraines; no new neurological symptoms.
+- Psychiatric: History of anxiety, currently managed on Sertraline. Reports increased anxiety and occasional depressive episodes.
+
+**SOCIAL HISTORY**
+
+The patient follows a balanced diet rich in fruits and vegetables but consumes high amounts of caffeine. She exercises three times a week, mostly cardio, but recent fatigue has reduced the frequency of recreational activities like cycling and yoga. She has no history of tobacco or drug use and drinks alcohol occasionally, mainly on weekends. Sleep patterns are irregular, averaging 5-6 hours per night. She is employed full-time as a software developer and has a moderate understanding of health information.
+
+**FAMILY HISTORY**
+
+- Aunt: Hypothyroidism
+- Father: Coronary artery disease
+
+**CURRENT MEDICATIONS**
+
+- Sertraline 50 mg daily for anxiety
+
+**ALLERGIES**
+
+- None
+
+**OBJECTIVE**
+
+Due to the telemedicine setting, no physical examination was conducted. Awaiting the results of recent blood work, including thyroid function tests (TSH, Free T4) and Vitamin D levels.
+
+**ASSESSMENT**
+
+- Disorder of Thyroid, Unspecified
+- Anxiety disorder
+- Vitamin D deficiency
+- Chronic migraines
+
+**PLAN**
+
+1. **Medication**
+   - Prescribed Levothyroxine 25 mcg, orally, once daily in the morning, quantity: 30 tablets for 1 month.
+
+2. **Follow-up**
+   - Recommend follow-up appointment in 12 weeks to reassess symptoms and review thyroid function tests (TSH, Free T4) results.
+
+3. **Referral**
+   - Referral to a mental health counselor for support with depression and anxiety.
+
+4. **Blood Work**
+   - Ordered thyroid function tests (TSH, Free T4) and Vitamin D levels to be conducted soon.
+
+5. **Lifestyle Modifications**
+   - Advise regular sleep hygiene practices to achieve more consistent sleep patterns.
+   - Recommend continued balanced diet with reduced caffeine intake.
+   - Encourage maintaining regular exercise routine, focusing on low-impact activities if fatigue persists.
+
+**INSTRUCTIONS**
+
+- Schedule a follow-up appointment in 12 weeks to reassess symptoms and thyroid function tests.
+- Contact the clinic if symptoms worsen or new symptoms develop.
+- Follow up with prescribed laboratory tests promptly.
+
+#####
+"|"**1. Subjective:**
+
+**CHIEF COMPLAINT**
+
+Fatigue, difficulty concentrating, unexplained weight gain, hair thinning, feeling cold, occasional heart palpitations.
+
+**HISTORY OF PRESENT ILLNESS**
+
+The patient, named Emily Chen, is a 28-year-old Asian American female presenting for a follow-up regarding her ongoing symptoms suggestive of a thyroid disorder. She has a 5-month history of moderate symptoms, including persistent fatigue, difficulty concentrating, unexplained weight gain, hair thinning, and feeling consistently cold. She also reports occasional heart palpitations. These symptoms have significantly impacted her daily activities, including her work as a software developer and her ability to care for her family.
+
+**REVIEW OF SYSTEMS**
+
+- Constitutional: Reports fatigue and feeling cold; no fever or night sweats.
+- Cardiovascular: Occasional palpitations.
+- Respiratory: No shortness of breath or cough.
+- Gastrointestinal: No nausea or constipation.
+- Neurological: Chronic migraines; no new neurological symptoms.
+- Psychiatric: History of anxiety, currently managed on Sertraline. Reports increased anxiety and occasional depressive episodes.
+
+**SOCIAL HISTORY**
+
+The patient follows a balanced diet rich in fruits and vegetables but consumes high amounts of caffeine. She exercises three times a week, mostly cardio, but recent fatigue has reduced the frequency of recreational activities like cycling and yoga. She has no history of tobacco or drug use and drinks alcohol occasionally, mainly on weekends. Sleep patterns are irregular, averaging 5-6 hours per night. She is employed full-time as a software developer and has a moderate understanding of health information.
+
+**FAMILY HISTORY**
+
+- Aunt: Hypothyroidism
+- Father: Coronary artery disease
+
+**CURRENT MEDICATIONS**
+
+- Sertraline 50 mg daily for anxiety
+
+**ALLERGIES**
+
+- None
+
+**2. Objective:**
+
+Due to the telemedicine setting, no physical examination was conducted. Awaiting the results of recent blood work, including thyroid function tests (TSH, Free T4) and Vitamin D levels.
+
+**3. Assessment:**
+
+- Disorder of Thyroid, Unspecified
+- Anxiety disorder
+- Vitamin D deficiency
+- Chronic migraines
+
+**4. Plan:**
+
+1. **Medication**
+   - Prescribed Levothyroxine 25 mcg, orally, once daily in the morning, quantity: 30 tablets for 1 month.
+
+2. **Follow-up**
+   - Recommend follow-up appointment in 12 weeks to reassess symptoms and review thyroid function tests (TSH, Free T4) results.
+
+3. **Referral**
+   - Referral to a mental health counselor, Dr. Sarah Johnson, for support with depression and anxiety.
+
+4. **Blood Work**
+   - Ordered thyroid function tests (TSH, Free T4) and Vitamin D levels to be conducted soon.
+
+5. **Lifestyle Modifications**
+   - Advise regular sleep hygiene practices to achieve more consistent sleep patterns.
+   - Recommend continued balanced diet with reduced caffeine intake.
+   - Encourage maintaining regular exercise routine, focusing on low-impact activities if fatigue persists.
+
+**INSTRUCTIONS**
+
+- Schedule a follow-up appointment in 12 weeks to reassess symptoms and thyroid function tests.
+- Contact the clinic if symptoms worsen or new symptoms develop.
+- Follow up with prescribed laboratory tests promptly."|"**1. Subjective:**
+
+**CC**
+
+Fatigue, difficulty concentrating, unexplained weight gain, hair thinning, feeling cold, occasional heart palpitations.
+
+**HPI**
+
+Pt, Emily Chen, 28 y/o Asian American F, presents for f/u regarding ongoing sx suggestive of thyroid disorder. 5-month hx of moderate sx including persistent fatigue, difficulty concentrating, unexplained weight gain, hair thinning, and feeling consistently cold. Reports occasional heart palpitations. Sx significantly impact daily activities, including work as a software developer and ability to care for family.
+
+**ROS**
+
+- Constitutional: Reports fatigue and feeling cold; no fever or night sweats.
+- CV: Occasional palpitations.
+- Resp: No SOB or cough.
+- GI: No N/V or constipation.
+- Neuro: Chronic migraines; no new neuro sx.
+- Psych: Hx of anxiety, currently managed on Sertraline. Reports increased anxiety and occasional depressive episodes.
+
+**SHx**
+
+Pt follows a balanced diet rich in fruits and vegetables but consumes high amounts of caffeine. Exercises 3x/week, mostly cardio, but recent fatigue has reduced frequency of recreational activities like cycling and yoga. No hx of tobacco or drug use, drinks alcohol occasionally, mainly on weekends. Sleep patterns irregular, averaging 5-6 hrs/night. Employed full-time as a software developer, moderate understanding of health info.
+
+**FHx**
+
+- Aunt: Hypothyroidism
+- Father: CAD
+
+**Meds**
+
+- Sertraline 50 mg daily for anxiety
+
+**Allergies**
+
+- NKDA
+
+**2. Objective:**
+
+Due to telemedicine setting, no PE conducted. Awaiting results of recent blood work, including TFTs (TSH, Free T4) and Vit D levels.
+
+**3. Assessment:**
+
+- Thyroid disorder, unspecified
+- Anxiety disorder
+- Vit D deficiency
+- Chronic migraines
+
+**4. Plan:**
+
+1. **Rx**
+   - Levothyroxine 25 mcg PO QD AM, qty: 30 tabs for 1 month.
+
+2. **F/U**
+   - Recommend f/u in 12 weeks to reassess sx and review TFTs (TSH, Free T4) results.
+
+3. **Referral**
+   - Referral to MH counselor, Dr. Sarah Johnson, for support with depression and anxiety.
+
+4. **Labs**
+   - Ordered TFTs (TSH, Free T4) and Vit D levels to be conducted soon.
+
+5. **Lifestyle Mods**
+   - Advise regular sleep hygiene practices to achieve more consistent sleep patterns.
+   - Recommend continued balanced diet with reduced caffeine intake.
+   - Encourage maintaining regular exercise routine, focusing on low-impact activities if fatigue persists.
+
+**Instructions**
+
+- Schedule f/u in 12 weeks to reassess sx and TFTs.
+- Contact clinic if sx worsen or new sx develop.
+- Follow up with prescribed lab tests promptly."|Endocrinologist|"**Doctor:** Hi there, how are you doing today?
+
+**Patient:** Hi, Doctor. I've been feeling really tired and just not myself lately.
+
+**Doctor:** I'm sorry to hear that. Can you tell me a bit more about what's been going on?
+
+**Patient:** Sure. For the past five months, I’ve had this persistent fatigue, difficulty concentrating, and some unexplained weight gain. My hair is thinning, I constantly feel cold, and I occasionally have heart palpitations. It's really affecting my daily life, especially my work as a software developer and taking care of my family.
+
+**Doctor:** That sounds really tough. Have you noticed any other symptoms?
+
+**Patient:** No, I think that’s about it. But it's been enough to make my days really challenging.
+
+**Doctor:** I see. Based on what you're telling me, it sounds like these symptoms have been impacting your life significantly. Have you had any fevers or night sweats?
+
+**Patient:** No, I haven’t had any fevers or night sweats.
+
+**Doctor:** How about shortness of breath or a cough?
+
+**Patient:** No, I haven't experienced any of those.
+
+**Doctor:** Any issues with nausea or constipation?
+
+**Patient:** No, my digestion seems fine.
+
+**Doctor:** That's good to hear. What about migraines? I know you've had them chronically in the past.
+
+**Patient:** Yes, I still get migraines, but there haven't been any new neurological symptoms.
+
+**Doctor:** And how is your anxiety? Are you still managing it with Sertraline?
+
+**Patient:** Yes, I’m on Sertraline 50 mg daily. My anxiety has been a bit worse lately, and I've had some occasional depressive episodes.
+
+**Doctor:** I'm sorry to hear that. Let’s talk a bit about your lifestyle. How's your diet?
+
+**Patient:** I follow a balanced diet with lots of fruits and vegetables, but I do consume a lot of caffeine.
+
+**Doctor:** How often do you exercise?
+
+**Patient:** I usually exercise three times a week, mostly cardio. But because of the fatigue, I’ve had to cut back on activities like cycling and yoga.
+
+**Doctor:** Got it. Do you smoke or use any drugs?
+
+**Patient:** No, I've never smoked or used drugs.
+
+**Doctor:** How about alcohol?
+
+**Patient:** I drink occasionally, mostly on weekends.
+
+**Doctor:** And how's your sleep?
+
+**Patient:** My sleep patterns are pretty irregular. I average about 5-6 hours a night.
+
+**Doctor:** That’s not a lot of sleep. What do you do for work?
+
+**Patient:** I’m a software developer, so I spend a lot of time in front of a computer.
+
+**Doctor:** And how would you rate your understanding of health information?
+
+**Patient:** I’d say I have a moderate understanding.
+
+**Doctor:** Thanks for sharing all that. Now, do you have any family history of medical conditions?
+
+**Patient:** Yes, my aunt has hypothyroidism, and my father has coronary artery disease.
+
+**Doctor:** I see. Are you currently taking any medications besides Sertraline?
+
+**Patient:** No, just the Sertraline.
+
+**Doctor:** Any allergies?
+
+**Patient:** No, I don't have any allergies.
+
+**Doctor:** Great. So, we’re awaiting the results of your recent blood work, including thyroid function tests and Vitamin D levels. Have you had those done yet?
+
+**Patient:** Not yet, but I plan to get them done soon.
+
+**Doctor:** Perfect. Based on your symptoms, it seems like a thyroid disorder could be a possibility. We’ll know more once we have your test results. For now, we’re going to start you on Levothyroxine 25 mcg, to be taken once daily in the morning.
+
+**Patient:** Okay, that sounds good.
+
+**Doctor:** I’d like to schedule a follow-up appointment in 12 weeks to reassess your symptoms and review your thyroid function test results.
+
+**Patient:** Alright, I can do that.
+
+**Doctor:** I’m also going to refer you to a mental health counselor to support you with your depression and anxiety. It’s important to have that support, especially with the increased anxiety you’ve been experiencing.
+
+**Patient:** Thank you, I think that will help.
+
+**Doctor:** We’ll also get those thyroid function tests and Vitamin D levels done soon. Make sure to follow up with the laboratory tests promptly.
+
+**Patient:** I will.
+
+**Doctor:** In the meantime, I have a few lifestyle recommendations for you. Try to establish regular sleep hygiene practices to achieve more consistent sleep patterns. Reducing your caffeine intake can also help with your sleep and anxiety.
+
+**Patient:** I’ll try to cut back on caffeine.
+
+**Doctor:** Continue with your balanced diet, and try to maintain your regular exercise routine. Focus on low-impact activities if the fatigue persists.
+
+**Patient:** I’ll do my best.
+
+**Doctor:** If your symptoms worsen or if you develop any new symptoms, please contact the clinic right away.
+
+**Patient:** I will, thank you.
+
+**Doctor:** Remember to schedule that follow-up appointment in 12 weeks. We’ll reassess your symptoms and review your thyroid function test results then.
+
+**Patient:** Okay, I’ll make sure to do that.
+
+**Doctor:** Great. Do you have any other questions or concerns right now?
+
+**Patient:** No, I think that covers everything. Thank you for your help.
+
+**Doctor:** You’re welcome. Take care, and I’ll see you in 12 weeks.
+
+**Patient:** Thanks, Doctor. Bye.
+
+**Doctor:** Bye."|"[doctor]: Hi there, how are you doing today?
+
+[patient]: Hi, Doctor. I've been feeling really tired and just not myself lately.
+
+[doctor]: Hmm, I'm sorry to hear that. Can you tell me a bit more about what's been going on?
+
+[patient]: Sure. For the past five months, I’ve had this persistent fatigue, difficulty concentrating, and some unexplained weight gain. My hair is thinning, I constantly feel cold, and I occasionally have heart palpitations. It's really affecting my daily life, especially my work as a software developer and taking care of my family.
+
+[doctor]: That sounds really tough. Have you noticed any other symptoms?
+
+[patient]: No, I think that’s about it. But it's been enough to make my days really challenging.
+
+[doctor]: I see. Based on what you're telling me, it sounds like these symptoms have been impacting your life significantly. Have you had any fevers or night sweats?
+
+[patient]: No, I haven’t had any fevers or night sweats.
+
+[doctor]: How about shortness of breath or a cough?
+
+[patient]: No, I haven't experienced any of those.
+
+[doctor]: Any issues with nausea or constipation?
+
+[patient]: No, my digestion seems fine.
+
+[doctor]: That's good to hear. What about migraines? I know you've had them chronically in the past.
+
+[patient]: Yes, I still get migraines, but there haven't been any new neurological symptoms.
+
+[doctor]: And how is your anxiety? Are you still managing it with Sertraline?
+
+[patient]: Yes, I’m on Sertraline 50 mg daily. My anxiety has been a bit worse lately, and I've had some occasional depressive episodes.
+
+[doctor]: I'm sorry to hear that. Let’s talk a bit about your lifestyle. How's your diet?
+
+[patient]: I follow a balanced diet with lots of fruits and vegetables, but I do consume a lot of caffeine.
+
+[doctor]: How often do you exercise?
+
+[patient]: I usually exercise three times a week, mostly cardio. But because of the fatigue, I’ve had to cut back on activities like cycling and yoga.
+
+[doctor]: Got it. Do you smoke or use any drugs?
+
+[patient]: No, I've never smoked or used drugs.
+
+[doctor]: How about alcohol?
+
+[patient]: I drink occasionally, mostly on weekends.
+
+[doctor]: And how's your sleep?
+
+[patient]: My sleep patterns are pretty irregular. I average about 5-6 hours a night.
+
+[doctor]: That’s not a lot of sleep. What do you do for work?
+
+[patient]: I’m a software developer, so I spend a lot of time in front of a computer.
+
+[doctor]: And how would you rate your understanding of health information?
+
+[patient]: I’d say I have a moderate understanding.
+
+[doctor]: Thanks for sharing all that. Now, do you have any family history of medical conditions?
+
+[patient]: Yes, my aunt has hypothyroidism, and my father has coronary artery disease.
+
+[doctor]: I see. Are you currently taking any medications besides Sertraline?
+
+[patient]: No, just the Sertraline.
+
+[doctor]: Any allergies?
+
+[patient]: No, I don't have any allergies.
+
+[doctor]: Great. So, we’re awaiting the results of your recent blood work, including thyroid function tests and Vitamin D levels. Have you had those done yet?
+
+[patient]: Not yet, but I plan to get them done soon.
+
+[doctor]: Perfect. Based on your symptoms, it seems like a thyroid disorder could be a possibility. We’ll know more once we have your test results. For now, we’re going to start you on Levothyroxine 25 mcg, to be taken once daily in the morning.
+
+[patient]: Okay, that sounds good.
+
+[doctor]: I’d like to schedule a follow-up appointment in 12 weeks to reassess your symptoms and review your thyroid function test results.
+
+[patient]: Alright, I can do that.
+
+[doctor]: I’m also going to refer you to a mental health counselor to support you with your depression and anxiety. It’s important to have that support, especially with the increased anxiety you’ve been experiencing.
+
+[patient]: Thank you, I think that will help.
+
+[doctor]: We’ll also get those thyroid function tests and Vitamin D levels done soon. Make sure to follow up with the laboratory tests promptly.
+
+[patient]: I will.
+
+[doctor]: In the meantime, I have a few lifestyle recommendations for you. Try to establish regular sleep hygiene practices to achieve more consistent sleep patterns. Reducing your caffeine intake can also help with your sleep and anxiety.
+
+[patient]: I’ll try to cut back on caffeine.
+
+[doctor]: Continue with your balanced diet, and try to maintain your regular exercise routine. Focus on low-impact activities if the fatigue persists.
+
+[patient]: I’ll do my best.
+
+[doctor]: If your symptoms worsen or if you develop any new symptoms, please contact the clinic right away.
+
+[patient]: I will, thank you.
+
+[doctor]: Remember to schedule that follow-up appointment in 12 weeks. We’ll reassess your symptoms and review your thyroid function test results then.
+
+[patient]: Okay, I’ll make sure to do that.
+
+[doctor]: Great. Do you have any other questions or concerns right now?
+
+[patient]: No, I think that covers everything. Thank you for your help.
+
+[doctor]: You’re welcome. Take care, and I’ll see you in 12 weeks.
+
+[patient]: Thanks, Doctor. Bye.
+
+[doctor]: Bye."
+DISORDER OF THYROID, UNSPECIFIED|"ROLE: Endocrinologist
+
+- Medical Outcome:
+  - Diagnosis: E04.9 - Disorder of thyroid, unspecified
+  - Prescribed Treatment: Levothyroxine 25 mcg, oral, daily, indefinitely
+  - Follow-up Recommendations: Re-evaluate thyroid function tests (T3, T4, TSH) in 6 weeks
+  - Referral to Specialists: N/A
+  - Blood Work: Biochemistry panel including Thyroid Function Tests (T3, T4, TSH), Vitamin D levels
+  - Imaging: Thyroid ultrasound to evaluate gland morphology
+
+- Medical History:
+  - Previous Diagnoses: Iron deficiency anemia
+  - Family Medical History: Sister with autoimmune thyroiditis
+  - Medication History: Iron supplements
+  - Allergies: NSAIDs
+  - Chronic Conditions: Anemia
+
+- Symptom Description:
+  - Severity: Mild to moderate
+  - Duration: 1 year
+  - Associated Symptoms: Lethargy, difficulty losing weight, mood swings
+  - Frequency: Intermittent
+  - Impact on Daily Activities: Reduced motivation affecting daily activities
+
+- Patient’s Self-Reported Habits and Lifestyle:
+  - Sleep: Sleeps 9 hours but feels unrefreshed
+  - Diet: Vegan, avoids processed foods
+  - Exercise: Yoga twice a week
+  - Tobacco Use: None
+  - Alcohol Consumption: None
+  - Recreational Activities: Hiking, yoga
+
+- Demographic Information:
+  - Age: 30
+  - Gender: Female
+  - Ethnicity: Hispanic
+  - Socio-economic Status: Low income
+  - Education Level: High school graduate
+  - Health Literacy: Low
+  - Job Status: Unemployed
+
+- Patient's Behavior: Occasionally non-compliant with strict dietary restrictions
+
+- Geographical Location:
+  - Big City vs Small City: Big City
+  - Rural vs Urban: Urban 
+  - Pollution and Environmental Health Risks: High pollution
+  - Neighborhood Type: Impoverished, limited access to healthcare facilities, food desert
+
+- Clinical Setting:
+  - Type: Telemedicine
+
+- Type of Encounter:
+  - Initial Consultation
+
+- Treatment Disparities: Patient may receive less aggressive treatment due to low socio-economic status
+
+- Native or Non-Native English Speaking Patient: Non-native (occasionally struggles with complex medical terms)
+
+- Physical Exams: N/A
+
+- Investigation/Test Results:
+  - Awaiting results for: Biochemistry panel including Thyroid Function Tests (T3, T4, TSH), Vitamin D levels
+  - Thyroid ultrasound pending for gland morphology assessment"|"#####
+**SUBJECTIVE:**
+**Chief Complaint (CC):** Lethargy and difficulty losing weight.
+
+**History of Present Illness (HPI):**
+Maria Rodriguez, a 30-year-old Hispanic female, presents via telemedicine for initial consultation regarding ongoing symptoms of lethargy, difficulty losing weight, and mood swings. These symptoms have been intermittent but persistent over the past year, impacting her motivation and daily activities. She reports sleeping for 9 hours each night but still feeling unrefreshed upon waking.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports mild to moderate lethargy, difficulty losing weight, and mood swings. No fever or chills.
+- **Endocrine:** Presents with symptoms suggesting thyroid dysfunction.
+- **Gastrointestinal:** No nausea, vomiting, or changes in bowel habits.
+- **Hematological:** Maintains a diagnosis of iron deficiency anemia.
+- **Neurological:** No headaches or dizziness.
+- **Psychiatric:** Reports mood swings.
+
+**OBJECTIVE:**
+- **Clinical Setting:** Telemedicine
+- **No physical examination performed due to telemedicine setting.**
+- **Pending Test Results:** Biochemistry panel including Thyroid Function Tests (T3, T4, TSH) and Vitamin D levels.
+
+**ASSESSMENT:**
+1. **E04.9 - Disorder of thyroid, unspecified:** Given the patient's symptoms of lethargy, difficulty losing weight, and a family history of autoimmune thyroiditis, there is a high index of suspicion for hypothyroidism or another thyroid disorder.
+2. **Iron deficiency anemia:** The patient has a known history of this condition and is currently on iron supplements.
+
+**PLAN:**
+- **Medications:** Start Levothyroxine 25 mcg, oral, daily, indefinitely to address potential thyroid dysfunction.
+- **Lab Work:** Re-evaluate thyroid function tests (T3, T4, TSH) in 6 weeks to monitor efficacy of treatment.
+- **Imaging:** Order a thyroid ultrasound to evaluate gland morphology.
+- **Follow-up:** Schedule follow-up appointment in 6 weeks to review thyroid function tests and adjust treatment as necessary.
+- **Lifestyle Recommendations:** Encourage the patient to maintain her vegan diet while ensuring adequate intake of essential nutrients, potentially with the guidance of a dietitian.
+- **Education:** Provide patient with educational material on hypothyroidism in simple language to ensure understanding, considering her low health literacy.
+- **Referral:** No referrals to other specialists at this time.
+- **Addressing Social Determinants of Health:** Discuss potential barriers to obtaining medication and follow-up care given the patient's socio-economic status and living in a high-pollution, food desert neighborhood.
+
+**Patient Education and Empowerment:** 
+- Explain the importance of medication adherence and regular follow-up for managing thyroid conditions.
+- Offer resources for local community support and healthcare facilities that may provide additional assistance.
+
+**Note:** The patient is non-native English speaking and shows occasional difficulty with complex medical terms, so ensure all instructions and explanations are clear and simple.
+#####
+"|"#####
+**1. Subjective:**
+**Chief Complaint (CC):** Lethargy and difficulty losing weight.
+
+**History of Present Illness (HPI):**
+Maria Rodriguez, a 30-year-old Hispanic female, presents via telemedicine for initial consultation regarding ongoing symptoms of lethargy, difficulty losing weight, and mood swings. These symptoms have been intermittent but persistent over the past year, impacting her motivation and daily activities. She reports sleeping for 9 hours each night but still feeling unrefreshed upon waking.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports mild to moderate lethargy, difficulty losing weight, and mood swings. No fever or chills.
+- **Endocrine:** Presents with symptoms suggesting thyroid dysfunction.
+- **Gastrointestinal:** No nausea, vomiting, or changes in bowel habits.
+- **Hematological:** Maintains a diagnosis of iron deficiency anemia.
+- **Neurological:** No headaches or dizziness.
+- **Psychiatric:** Reports mood swings.
+
+**2. Objective:**
+- **Clinical Setting:** Telemedicine
+- **No physical examination performed due to telemedicine setting.**
+- **Pending Test Results:** Biochemistry panel including Thyroid Function Tests (T3, T4, TSH) and Vitamin D levels.
+
+**3. Assessment:**
+1. **E04.9 - Disorder of thyroid, unspecified:** Given the patient's symptoms of lethargy, difficulty losing weight, and a family history of autoimmune thyroiditis, there is a high index of suspicion for hypothyroidism or another thyroid disorder.
+2. **Iron deficiency anemia:** The patient has a known history of this condition and is currently on iron supplements.
+
+**4. Plan:**
+- **Medications:** Start Levothyroxine 25 mcg, oral, daily, indefinitely to address potential thyroid dysfunction.
+- **Lab Work:** Re-evaluate thyroid function tests (T3, T4, TSH) in 6 weeks to monitor efficacy of treatment.
+- **Imaging:** Order a thyroid ultrasound to evaluate gland morphology.
+- **Follow-up:** Schedule follow-up appointment in 6 weeks to review thyroid function tests and adjust treatment as necessary.
+- **Lifestyle Recommendations:** Encourage the patient to maintain her vegan diet while ensuring adequate intake of essential nutrients, potentially with the guidance of a dietitian.
+- **Education:** Provide patient with educational material on hypothyroidism in simple language to ensure understanding, considering her low health literacy.
+- **Referral:** No referrals to other specialists at this time.
+- **Addressing Social Determinants of Health:** Discuss potential barriers to obtaining medication and follow-up care given the patient's socio-economic status and living in a high-pollution, food desert neighborhood.
+
+**Patient Education and Empowerment:** 
+- Explain the importance of medication adherence and regular follow-up for managing thyroid conditions.
+- Offer resources for local community support and healthcare facilities that may provide additional assistance.
+
+**Note:** The patient is non-native English speaking and shows occasional difficulty with complex medical terms, so ensure all instructions and explanations are clear and simple.
+#####"|"#####
+**1. Subjective:**
+**CC:** Lethargy and difficulty losing weight.
+
+**HPI:**
+Maria Rodriguez, a 30 y/o Hispanic F, presents via telemed for initial consult regarding ongoing sx of lethargy, difficulty losing weight, and mood swings. These sx have been intermittent but persistent over the past year, impacting her motivation and ADLs. She reports sleeping for 9 hrs each night but still feeling unrefreshed upon waking.
+
+**ROS:**
+- **Constitutional:** Reports mild to moderate lethargy, difficulty losing weight, and mood swings. No fever or chills.
+- **Endocrine:** Presents with sx suggesting thyroid dysfunction.
+- **GI:** No N/V or changes in bowel habits.
+- **Heme:** Maintains a dx of iron deficiency anemia.
+- **Neuro:** No HA or dizziness.
+- **Psych:** Reports mood swings.
+
+**2. Objective:**
+- **Clinical Setting:** Telemed
+- **No PE performed due to telemed setting.**
+- **Pending Test Results:** Biochem panel including TFTs (T3, T4, TSH) and Vit D levels.
+
+**3. Assessment:**
+1. **E04.9 - Disorder of thyroid, unspecified:** Given the pt's sx of lethargy, difficulty losing weight, and a FHx of autoimmune thyroiditis, there is a high index of suspicion for hypothyroidism or another thyroid disorder.
+2. **Iron deficiency anemia:** The pt has a known hx of this condition and is currently on iron supplements.
+
+**4. Plan:**
+- **Rx:** Start Levothyroxine 25 mcg PO QD indefinitely to address potential thyroid dysfunction.
+- **Lab Work:** Re-evaluate TFTs (T3, T4, TSH) in 6 wks to monitor efficacy of tx.
+- **Imaging:** Order a thyroid US to evaluate gland morphology.
+- **Follow-up:** Schedule F/U appt in 6 wks to review TFTs and adjust tx as necessary.
+- **Lifestyle Recommendations:** Encourage the pt to maintain her vegan diet while ensuring adequate intake of essential nutrients, potentially with the guidance of a dietitian.
+- **Education:** Provide pt with educational material on hypothyroidism in simple language to ensure understanding, considering her low health literacy.
+- **Referral:** No referrals to other specialists at this time.
+- **Addressing SDOH:** Discuss potential barriers to obtaining meds and F/U care given the pt's SES and living in a high-pollution, food desert neighborhood.
+
+**Pt Education and Empowerment:** 
+- Explain the importance of med adherence and regular F/U for managing thyroid conditions.
+- Offer resources for local community support and healthcare facilities that may provide additional assistance.
+
+**Note:** The pt is non-native English speaking and shows occasional difficulty with complex medical terms, so ensure all instructions and explanations are clear and simple.
+#####"|Endocrinologist|"[doctor] Hi Maria, good to see you today. How are you doing?
+
+[patient] Hi, Doctor. I'm alright, I guess. Just tired and can't seem to lose weight.
+
+[doctor] I see. So, you're experiencing some lethargy and difficulty losing weight. Can you tell me a bit more about that?
+
+[patient] Sure, I've been feeling really tired and sluggish for about a year now. No matter how much I sleep, I wake up feeling exhausted. And despite my best efforts, I just can't seem to lose any weight.
+
+[doctor] Hmm, that sounds quite frustrating. How many hours of sleep do you usually get at night?
+
+[patient] I sleep about 9 hours every night, but I still feel unrefreshed when I wake up.
+
+[doctor] I understand. Have you noticed any other symptoms such as mood swings or changes in your daily activities?
+
+[patient] Yes, my mood has been all over the place. Sometimes I'm okay, but other times I just feel really down and unmotivated.
+
+[doctor] Alright. Have you experienced any fever or chills recently?
+
+[patient] No, none of that.
+
+[doctor] And how about nausea, vomiting, or any changes in your bowel habits?
+
+[patient] No, my stomach has been fine. No nausea or vomiting either.
+
+[doctor] Okay, that's good to know. Any headaches or dizziness?
+
+[patient] No, I haven't had any headaches or dizziness.
+
+[doctor] Have you been diagnosed with any other conditions? Perhaps something like anemia?
+
+[patient] Yes, I have iron deficiency anemia and I'm currently taking iron supplements for that.
+
+[doctor] Okay, great. You're taking your iron supplements regularly, correct?
+
+[patient] Yes, I am.
+
+[doctor] Good. Have you noticed any changes in your symptoms since starting the iron supplements?
+
+[patient] Not really. I still feel tired and have trouble losing weight.
+
+[doctor] Alright. Based on what you've told me, it sounds like you might be experiencing some thyroid dysfunction. Have you had any family members with thyroid issues?
+
+[patient] Yes, my mom has autoimmune thyroiditis.
+
+[doctor] Okay, that’s important information. Given your symptoms and family history, I would like to investigate your thyroid function further. 
+
+[patient] What does that mean?
+
+[doctor] It means we will need to run some tests to see how well your thyroid is working. Specifically, we will check your thyroid function tests, including T3, T4, and TSH levels.
+
+[patient] Alright, that sounds good.
+
+[doctor] We will also order a thyroid ultrasound to look at the structure of your thyroid gland. This will help us understand if there are any abnormalities.
+
+[patient] Okay, I can do that.
+
+[doctor] For now, I am going to start you on a medication called Levothyroxine. It's a thyroid hormone replacement to help manage your symptoms.
+
+[patient] How do I take it?
+
+[doctor] You will take 25 micrograms of Levothyroxine once daily, preferably in the morning on an empty stomach.
+
+[patient] Alright, I can do that.
+
+[doctor] We'll need to re-evaluate your thyroid function tests in 6 weeks to see how well the medication is working. We will adjust the dosage if necessary.
+
+[patient] Okay, sounds good.
+
+[doctor] Also, I noticed you follow a vegan diet. It’s important to ensure you’re getting all the essential nutrients. Would you like to speak with a dietitian for guidance?
+
+[patient] Yes, that would be helpful.
+
+[doctor] Great, I’ll make sure to set that up for you. We also need to be mindful of any barriers you might face in obtaining medication and follow-up care. Do you foresee any issues with this?
+
+[patient] Well, I live in a high-pollution area and it's a food desert, so it's hard to find fresh produce sometimes.
+
+[doctor] I understand. We’ll discuss some resources that might be available to you in your community to help with these challenges.
+
+[patient] Thank you, that would be helpful.
+
+[doctor] You're welcome. I will also provide you with some educational material on hypothyroidism in simple language to help you understand your condition better.
+
+[patient] I appreciate that, thank you.
+
+[doctor] No problem. It's important to take your medication regularly and follow up as planned. This will help manage your symptoms effectively.
+
+[patient] Alright, I will do that.
+
+[doctor] Do you have any other questions or concerns at this time?
+
+[patient] No, I think that's it for now.
+
+[doctor] Okay, Maria. We will schedule a follow-up appointment in 6 weeks to review your results and adjust your treatment if needed. 
+
+[patient] Thank you, Doctor.
+
+[doctor] You’re welcome. Take care and I'll see you in six weeks.
+
+[patient] Alright, bye.
+
+[doctor] Goodbye."|"[doctor] Hi Maria, good to see you today. How are you doing?
+
+[patient] Hi, Doctor. I'm alright, I guess. Just tired and can't seem to lose weight.
+
+[doctor] I see. So, you're experiencing some lethargy and difficulty losing weight. Can you tell me a bit more about that?
+
+[patient] Sure, I've been feeling really tired and sluggish for about a year now. No matter how much I sleep, I wake up feeling exhausted. And despite my best efforts, I just can't seem to lose any weight.
+
+[doctor] Hmm, that sounds quite frustrating. How many hours of sleep do you usually get at night?
+
+[patient] I sleep about 9 hours every night, but I still feel unrefreshed when I wake up.
+
+[doctor] I understand. Have you noticed any other symptoms such as mood swings or changes in your daily activities?
+
+[patient] Yes, my mood has been all over the place. Sometimes I'm okay, but other times I just feel really down and unmotivated.
+
+[doctor] Alright. Have you experienced any fever or chills recently?
+
+[patient] No, none of that.
+
+[doctor] And how about nausea, vomiting, or any changes in your bowel habits?
+
+[patient] No, my stomach has been fine. No nausea or vomiting either.
+
+[doctor] Okay, that's good to know. Any headaches or dizziness?
+
+[patient] No, I haven't had any headaches or dizziness.
+
+[doctor] Have you been diagnosed with any other conditions? Perhaps something like anemia?
+
+[patient] Yes, I have iron deficiency anemia and I'm currently taking iron supplements for that.
+
+[doctor] Okay, great. You're taking your iron supplements regularly, correct?
+
+[patient] Yes, I am.
+
+[doctor] Good. Have you noticed any changes in your symptoms since starting the iron supplements?
+
+[patient] Not really. I still feel tired and have trouble losing weight.
+
+[doctor] Alright. Based on what you've told me, it sounds like you might be experiencing some thyroid dysfunction. Have you had any family members with thyroid issues?
+
+[patient] Yes, my mom has autoimmune thyroiditis.
+
+[doctor] Okay, that’s important information. Given your symptoms and family history, I would like to investigate your thyroid function further. 
+
+[patient] What does that mean?
+
+[doctor] It means we will need to run some tests to see how well your thyroid is working. Specifically, we will check your thyroid function tests, including T3, T4, and TSH levels.
+
+[patient] Alright, that sounds good.
+
+[doctor] We will also order a thyroid ultrasound to look at the structure of your thyroid gland. This will help us understand if there are any abnormalities.
+
+[patient] Okay, I can do that.
+
+[doctor] For now, I am going to start you on a medication called Levothyroxine. It's a thyroid hormone replacement to help manage your symptoms.
+
+[patient] How do I take it?
+
+[doctor] You will take 25 micrograms of Levothyroxine once daily, preferably in the morning on an empty stomach.
+
+[patient] Alright, I can do that.
+
+[doctor] We'll need to re-evaluate your thyroid function tests in 6 weeks to see how well the medication is working. We will adjust the dosage if necessary.
+
+[patient] Okay, sounds good.
+
+[doctor] Also, I noticed you follow a vegan diet. It’s important to ensure you’re getting all the essential nutrients. Would you like to speak with a dietitian for guidance?
+
+[patient] Yes, that would be helpful.
+
+[doctor] Great, I’ll make sure to set that up for you. We also need to be mindful of any barriers you might face in obtaining medication and follow-up care. Do you foresee any issues with this?
+
+[patient] Well, I live in a high-pollution area and it's a food desert, so it's hard to find fresh produce sometimes.
+
+[doctor] I understand. We’ll discuss some resources that might be available to you in your community to help with these challenges.
+
+[patient] Thank you, that would be helpful.
+
+[doctor] You're welcome. I will also provide you with some educational material on hypothyroidism in simple language to help you understand your condition better.
+
+[patient] I appreciate that, thank you.
+
+[doctor] No problem. It's important to take your medication regularly and follow up as planned. This will help manage your symptoms effectively.
+
+[patient] Alright, I will do that.
+
+[doctor] Do you have any other questions or concerns at this time?
+
+[patient] No, I think that's it for now.
+
+[doctor] Okay, Maria. We will schedule a follow-up appointment in 6 weeks to review your results and adjust your treatment if needed. 
+
+[patient] Thank you, Doctor.
+
+[doctor] You’re welcome. Take care and I'll see you in six weeks.
+
+[patient] Alright, bye.
+
+[doctor] Goodbye."
+DISORDER OF THYROID, UNSPECIFIED|"**ROLE:** Endocrinologist
+
+**Scenario:**
+1. **Medical Outcome:**
+   - Diagnosis: Disorder of Thyroid, unspecified (ICD-10 E07.9)
+   - Prescribed Treatment:
+     - Levothyroxine 75 mcg, oral, once daily, quantity: 30 tablets, with a review for dose adjustment in 4 weeks
+   - Follow-up recommendations: Return in 4 weeks for re-evaluation and repeat thyroid function tests
+   - Referral to specialists: NA
+   - Referral to further tests or imaging: Thyroid Ultrasound ordered to assess thyroid gland structure and identify any nodules
+   - Medication adjustment: Possible based on follow-up test outcomes
+   - Lifestyle Change: Emphasis on maintaining an iodine-sufficient diet, regular physical activity, avoidance of caffeine
+   - Additional Testing: Blood tests - Comprehensive Thyroid Panel (TSH, Free T4, Free T3, Anti-thyroid antibodies)
+
+2. **Medical History:**
+   - Previous Diagnoses: Asthma diagnosed 6 years ago
+   - Family Medical History: Mother had hypothyroidism; Grandfather had coronary artery disease
+   - Medication History: On Albuterol inhaler as needed for asthma
+   - Allergies: Allergy to dust mites
+   - Chronic Conditions: Asthma
+
+3. **Symptom Description:**
+   - Severity: Moderate fatigue and muscle weakness
+   - Duration: Symptoms present for the past 5 months
+   - Associated Symptoms: Weight gain of 12 pounds, dry and coarse skin
+   - Frequency: Symptoms occur daily
+   - Impact on Daily Activities: Fatigue affecting ability to complete household chores and social activities
+
+4. **Patient’s self-reported habits and lifestyle:**
+   - Sleep: 4-5 hours per night, often interrupted due to stress
+   - Diet: Low iodine intake, frequently skips meals
+   - Exercise: Infrequent, occasionally takes short walks
+   - Tobacco Use: Never smoked
+   - Alcohol Consumption: Drinks a glass of wine once or twice a month
+   - Drug Use: Denies any illicit drug use
+   - Recreational Activities: Enjoys knitting and puzzles, limited outdoor activities
+
+5. **Demographic Information:**
+   - Age: 62
+   - Gender: Female
+   - Ethnicity: Asian
+   - Socio-economic Status: Retired, low-income
+   - Education Level: Some college education
+   - Health Literacy: Moderate, understands basic medical terms
+   - Job Status: Retired
+
+6. **Patient's Behavior:**
+   - Cooperation Level: Generally follows medical advice, forgets to take medication occasionally
+
+7. **Geographical Location:**
+   - Big City vs Small City: Resides in a big city
+   - Rural vs Urban: Urban
+   - Pollution and Environmental Health Risks: High pollution levels, allergen exposure
+   - Neighborhood Type: Low-income neighborhood, poor access to fresh produce
+
+8. **Clinical Setting:**
+   - Type of Clinical Setting: Hospital outpatient clinic 
+
+9. **Type of Encounter:**
+   - Routine Check-up
+
+10. **Treatment Disparities:**
+    - Limited access to healthcare services and specialty care due to low-income status
+
+11. **Native or Non-Native English Speaking Patient:**
+    - Non-Native English speaker 
+
+12. **Physical exams:**
+    - General: Slightly overweight, BMI 28
+    - Neck: No palpable thyroid enlargement, no nodules detected
+    - Cardiovascular: BP 130/85, regular heart rate
+    - Skin: Dry and coarse skin, some hair thinning 
+
+13. **Investigation/Test results:**
+    - Awaiting results from ordered Comprehensive Thyroid Panel (TSH, Free T4, Free T3, Anti-thyroid antibodies)
+    - Thyroid Ultrasound ordered for further assessment of thyroid gland"|"#####
+
+**1. Subjective:**
+
+**Chief Complaint:**
+Fatigue and muscle weakness. 
+
+**History of Present Illness:**
+The patient is a 62-year-old Asian female with a past medical history significant for asthma. She presents with complaints of moderate fatigue and muscle weakness that have been persisting for the past 5 months. The patient reports a weight gain of 12 pounds during this period, and she has also noticed her skin becoming dry and coarse. The symptoms occur daily and are significantly affecting her ability to complete household chores and engage in social activities. The patient denies any illicit drug use, and she consumes a glass of wine once or twice a month. She sleeps for 4-5 hours per night, her sleep is often interrupted due to stress. Her diet is low in iodine, and she frequently skips meals. She exercises infrequently, occasionally taking short walks.
+
+**Review of Systems:**
+- **General:** Fatigue, weight gain.
+- **Skin:** Dry, coarse, hair thinning.
+- **Respiratory:** History of asthma, uses Albuterol inhaler as needed.
+- **Endocrine:** Symptoms suggestive of thyroid dysfunction.
+- **Psychiatric:** Stress affecting sleep patterns.
+
+**2. Objective:**
+
+**Physical Examination:**
+- **General:** Slightly overweight, BMI 28.
+- **Neck:** No palpable thyroid enlargement, no nodules detected.
+- **Cardiovascular:** BP 130/85 mmHg, regular heart rate.
+- **Skin:** Dry, coarse, some hair thinning.
+- **Respiratory:** Lungs clear to auscultation.
+
+**Vitals:**
+- **Blood Pressure:** 130/85 mmHg.
+
+**3. Assessment:**
+
+The patient's clinical presentation and family history are suggestive of a thyroid disorder. Given her symptoms of fatigue, muscle weakness, weight gain, and dry skin, there is a high suspicion of hypothyroidism. Additionally, the family history of hypothyroidism in her mother increases her risk. 
+
+**Diagnosis: Disorder of Thyroid, unspecified (ICD-10 E07.9).**
+
+**4. Plan:**
+
+**Medical Treatment:**
+- **Levothyroxine:** 75 mcg, oral, once daily, quantity: 30 tablets. Review for dose adjustment in 4 weeks based on follow-up test outcomes.
+
+**Additional Testing:**
+- **Comprehensive Thyroid Panel:** TSH, Free T4, Free T3, Anti-thyroid antibodies.
+- **Thyroid Ultrasound:** To assess thyroid gland structure and identify any nodules.
+
+**Lifestyle Recommendations:**
+- **Diet:** Emphasize maintaining an iodine-sufficient diet.
+- **Physical Activity:** Regular physical activity, such as daily walks.
+- **Avoidance of Caffeine:** To help manage stress and improve sleep quality.
+
+**Follow-up:**
+- Return in 4 weeks for re-evaluation and repeat thyroid function tests.
+- Monitor symptoms and adherence to medication and lifestyle changes.
+
+**Patient Education:**
+- Educated on the importance of medication adherence and lifestyle modifications.
+- Informed about potential symptoms of hypothyroidism and when to seek medical advice.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan. She has been advised on the importance of follow-up and adherence to prescribed treatments and lifestyle changes."|"**1. Subjective:**
+
+**Chief Complaint:**
+Fatigue and muscle weakness. 
+
+**History of Present Illness:**
+The patient, named Mei Lin, is a 62-year-old Asian female with a past medical history significant for asthma. She presents with complaints of moderate fatigue and muscle weakness that have been persisting for the past 5 months. The patient reports a weight gain of 12 pounds during this period, and she has also noticed her skin becoming dry and coarse. The symptoms occur daily and are significantly affecting her ability to complete household chores and engage in social activities. The patient denies any illicit drug use, and she consumes a glass of wine once or twice a month. She sleeps for 4-5 hours per night, her sleep is often interrupted due to stress. Her diet is low in iodine, and she frequently skips meals. She exercises infrequently, occasionally taking short walks.
+
+**Review of Systems:**
+- **General:** Fatigue, weight gain.
+- **Skin:** Dry, coarse, hair thinning.
+- **Respiratory:** History of asthma, uses Albuterol inhaler as needed.
+- **Endocrine:** Symptoms suggestive of thyroid dysfunction.
+- **Psychiatric:** Stress affecting sleep patterns.
+
+**2. Objective:**
+
+**Physical Examination:**
+- **General:** Slightly overweight, BMI 28.
+- **Neck:** No palpable thyroid enlargement, no nodules detected.
+- **Cardiovascular:** BP 130/85 mmHg, regular heart rate.
+- **Skin:** Dry, coarse, some hair thinning.
+- **Respiratory:** Lungs clear to auscultation.
+
+**Vitals:**
+- **Blood Pressure:** 130/85 mmHg.
+
+**3. Assessment:**
+
+The patient's clinical presentation and family history are suggestive of a thyroid disorder. Given her symptoms of fatigue, muscle weakness, weight gain, and dry skin, there is a high suspicion of hypothyroidism. Additionally, the family history of hypothyroidism in her mother increases her risk. 
+
+**Diagnosis: Disorder of Thyroid, unspecified (ICD-10 E07.9).**
+
+**4. Plan:**
+
+**Medical Treatment:**
+- **Levothyroxine:** 75 mcg, oral, once daily, quantity: 30 tablets. Review for dose adjustment in 4 weeks based on follow-up test outcomes.
+
+**Additional Testing:**
+- **Comprehensive Thyroid Panel:** TSH, Free T4, Free T3, Anti-thyroid antibodies.
+- **Thyroid Ultrasound:** To assess thyroid gland structure and identify any nodules.
+
+**Lifestyle Recommendations:**
+- **Diet:** Emphasize maintaining an iodine-sufficient diet.
+- **Physical Activity:** Regular physical activity, such as daily walks.
+- **Avoidance of Caffeine:** To help manage stress and improve sleep quality.
+
+**Follow-up:**
+- Return in 4 weeks for re-evaluation and repeat thyroid function tests.
+- Monitor symptoms and adherence to medication and lifestyle changes.
+
+**Patient Education:**
+- Educated on the importance of medication adherence and lifestyle modifications.
+- Informed about potential symptoms of hypothyroidism and when to seek medical advice.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan. She has been advised on the importance of follow-up and adherence to prescribed treatments and lifestyle changes."|"**1. Subjective:**
+
+**CC:**
+Fatigue and muscle weakness.
+
+**HPI:**
+The pt, Mei Lin, is a 62 y/o Asian F with PMH significant for asthma. She presents with c/o moderate fatigue and muscle weakness persisting for the past 5 mos. Pt reports a weight gain of 12 lbs during this period and has also noticed her skin becoming dry and coarse. Symptoms occur daily and significantly affect her ability to complete household chores and engage in social activities. Pt denies any illicit drug use and consumes a glass of wine once or twice a month. She sleeps for 4-5 hrs per night, often interrupted due to stress. Her diet is low in iodine, and she frequently skips meals. She exercises infrequently, occasionally taking short walks.
+
+**ROS:**
+- **General:** Fatigue, weight gain.
+- **Skin:** Dry, coarse, hair thinning.
+- **Resp:** Hx of asthma, uses Albuterol inhaler PRN.
+- **Endo:** Symptoms suggestive of thyroid dysfunction.
+- **Psych:** Stress affecting sleep patterns.
+
+**2. Objective:**
+
+**PE:**
+- **General:** Slightly overweight, BMI 28.
+- **Neck:** No palpable thyroid enlargement, no nodules detected.
+- **CV:** BP 130/85 mmHg, regular HR.
+- **Skin:** Dry, coarse, some hair thinning.
+- **Resp:** Lungs clear to auscultation.
+
+**Vitals:**
+- **BP:** 130/85 mmHg.
+
+**3. Assessment:**
+
+The pt's clinical presentation and FHx are suggestive of a thyroid disorder. Given her symptoms of fatigue, muscle weakness, weight gain, and dry skin, there is a high suspicion of hypothyroidism. Additionally, the FHx of hypothyroidism in her mother increases her risk.
+
+**Dx: Disorder of Thyroid, unspecified (ICD-10 E07.9).**
+
+**4. Plan:**
+
+**Rx:**
+- **Levothyroxine:** 75 mcg PO QD, qty: 30 tabs. Review for dose adjustment in 4 wks based on follow-up test outcomes.
+
+**Additional Testing:**
+- **Comprehensive Thyroid Panel:** TSH, Free T4, Free T3, Anti-thyroid antibodies.
+- **Thyroid US:** To assess thyroid gland structure and identify any nodules.
+
+**Lifestyle Recommendations:**
+- **Diet:** Emphasize maintaining an iodine-sufficient diet.
+- **Physical Activity:** Regular physical activity, such as daily walks.
+- **Avoidance of Caffeine:** To help manage stress and improve sleep quality.
+
+**Follow-up:**
+- Return in 4 wks for re-evaluation and repeat thyroid function tests.
+- Monitor symptoms and adherence to medication and lifestyle changes.
+
+**Pt Education:**
+- Educated on the importance of medication adherence and lifestyle modifications.
+- Informed about potential symptoms of hypothyroidism and when to seek medical advice.
+
+**Pt Agreements:**
+The pt understands and agrees with the recommended medical treatment plan. She has been advised on the importance of follow-up and adherence to prescribed treatments and lifestyle changes."|Role not found in the first 5 lines.|"[doctor] Hi, how are you today?
+
+[patient] Hi, doctor. I've been better. I'm feeling really tired and weak lately.
+
+[doctor] I'm sorry to hear that. Can you tell me more about what's been going on?
+
+[patient] Sure. For the past five months, I’ve been feeling moderate fatigue and muscle weakness every day. It's really affecting my ability to do household chores and even engage in social activities.
+
+[doctor] I see. Have you noticed any other changes in your health during this time?
+
+[patient] Yes, I’ve gained about 12 pounds, and my skin has become very dry and coarse.
+
+[doctor] Hmm, that sounds quite concerning. Have you experienced any changes in your hair?
+
+[patient] Yes, my hair has also been thinning.
+
+[doctor] Okay, and how about your sleep? Are you getting enough rest?
+
+[patient] Not really. I sleep for about 4-5 hours a night, but my sleep is often interrupted because of stress.
+
+[doctor] I understand. Do you use any substances that might affect your sleep, like caffeine or alcohol?
+
+[patient] I don’t use any illicit drugs, and I only drink a glass of wine once or twice a month.
+
+[doctor] Alright. How about your diet? Are you eating regularly and getting enough nutrients?
+
+[patient] My diet is low in iodine, and I often skip meals.
+
+[doctor] That could be contributing to your symptoms. Do you exercise regularly?
+
+[patient] No, I only take short walks occasionally.
+
+[doctor] Okay. Given your symptoms and your history, it sounds like we need to look into your thyroid function. Before we proceed, do you have a family history of thyroid disorders?
+
+[patient] Yes, my mother had hypothyroidism.
+
+[doctor] That’s important information. Thank you for sharing. Let’s do a quick physical exam now. 
+
+[patient] Okay.
+
+[doctor] (performing exam) Your blood pressure is 130/85 mmHg, and your heart rate is regular. I’m also noting that your skin is dry and coarse, and there’s some hair thinning. Your lungs are clear to auscultation. 
+
+[patient] Is everything alright?
+
+[doctor] You do seem slightly overweight with a BMI of 28, but there’s no palpable thyroid enlargement or nodules detected in your neck. 
+
+[patient] What does that mean?
+
+[doctor] Based on your symptoms and family history, I suspect you might have a thyroid disorder, possibly hypothyroidism. 
+
+[patient] What should we do next?
+
+[doctor] I want to start by ordering a comprehensive thyroid panel, which includes TSH, Free T4, Free T3, and anti-thyroid antibodies. Additionally, we should do a thyroid ultrasound to assess the structure of your thyroid gland and check for any nodules.
+
+[patient] Okay.
+
+[doctor] For now, I’ll prescribe Levothyroxine 75 mcg, which you’ll take once daily. We'll review the dose in 4 weeks based on your follow-up test results.
+
+[patient] Alright, I can do that.
+
+[doctor] Additionally, I recommend making some lifestyle changes. Try to maintain an iodine-sufficient diet, engage in regular physical activity like daily walks, and avoid caffeine to help manage stress and improve sleep quality.
+
+[patient] That sounds doable.
+
+[doctor] Great. Let’s schedule a follow-up appointment in 4 weeks to re-evaluate your symptoms and repeat the thyroid function tests. 
+
+[patient] Will do.
+
+[doctor] Please make sure to monitor your symptoms and adhere to the medication and lifestyle changes. It’s crucial for managing hypothyroidism.
+
+[patient] I understand.
+
+[doctor] If you experience any unusual symptoms or have any concerns, don't hesitate to call or message me through the patient portal.
+
+[patient] I will. Thank you, doctor.
+
+[doctor] You're welcome. Take care, and I'll see you in 4 weeks.
+
+[patient] See you then. Bye."|"[doctor] Hi, how are you today?
+
+[patient] Hi, doctor. I've been better. I'm feeling really tired and weak lately.
+
+[doctor] I'm sorry to hear that. Can you tell me more about what's been going on?
+
+[patient] Sure. For the past five months, I’ve been feeling moderate fatigue and muscle weakness every day. It's really affecting my ability to do household chores and even engage in social activities.
+
+[doctor] I see. Have you noticed any other changes in your health during this time?
+
+[patient] Yes, I’ve gained about 12 pounds, and my skin has become very dry and coarse.
+
+[doctor] Hmm, that sounds quite concerning. Have you experienced any changes in your hair?
+
+[patient] Yes, my hair has also been thinning.
+
+[doctor] Okay, and how about your sleep? Are you getting enough rest?
+
+[patient] Not really. I sleep for about 4-5 hours a night, but my sleep is often interrupted because of stress.
+
+[doctor] I understand. Do you use any substances that might affect your sleep, like caffeine or alcohol?
+
+[patient] I don’t use any illicit drugs, and I only drink a glass of wine once or twice a month.
+
+[doctor] Alright. How about your diet? Are you eating regularly and getting enough nutrients?
+
+[patient] My diet is low in iodine, and I often skip meals.
+
+[doctor] That could be contributing to your symptoms. Do you exercise regularly?
+
+[patient] No, I only take short walks occasionally.
+
+[doctor] Okay. Given your symptoms and your history, it sounds like we need to look into your thyroid function. Before we proceed, do you have a family history of thyroid disorders?
+
+[patient] Yes, my mother had hypothyroidism.
+
+[doctor] That’s important information. Thank you for sharing. Let’s do a quick physical exam now. 
+
+[patient] Okay.
+
+[doctor] (performing exam) Your blood pressure is 130/85 mmHg, and your heart rate is regular. I’m also noting that your skin is dry and coarse, and there’s some hair thinning. Your lungs are clear to auscultation. 
+
+[patient] Is everything alright?
+
+[doctor] You do seem slightly overweight with a BMI of 28, but there’s no palpable thyroid enlargement or nodules detected in your neck. 
+
+[patient] What does that mean?
+
+[doctor] Based on your symptoms and family history, I suspect you might have a thyroid disorder, possibly hypothyroidism. 
+
+[patient] What should we do next?
+
+[doctor] I want to start by ordering a comprehensive thyroid panel, which includes TSH, Free T4, Free T3, and anti-thyroid antibodies. Additionally, we should do a thyroid ultrasound to assess the structure of your thyroid gland and check for any nodules.
+
+[patient] Okay.
+
+[doctor] For now, I’ll prescribe Levothyroxine 75 mcg, which you’ll take once daily. We'll review the dose in 4 weeks based on your follow-up test results.
+
+[patient] Alright, I can do that.
+
+[doctor] Additionally, I recommend making some lifestyle changes. Try to maintain an iodine-sufficient diet, engage in regular physical activity like daily walks, and avoid caffeine to help manage stress and improve sleep quality.
+
+[patient] That sounds doable.
+
+[doctor] Great. Let’s schedule a follow-up appointment in 4 weeks to re-evaluate your symptoms and repeat the thyroid function tests. 
+
+[patient] Will do.
+
+[doctor] Please make sure to monitor your symptoms and adhere to the medication and lifestyle changes. It’s crucial for managing hypothyroidism.
+
+[patient] I understand.
+
+[doctor] If you experience any unusual symptoms or have any concerns, don't hesitate to call or message me through the patient portal.
+
+[patient] I will. Thank you, doctor.
+
+[doctor] You're welcome. Take care, and I'll see you in 4 weeks.
+
+[patient] See you then. Bye."
+DISORDER OF THYROID, UNSPECIFIED|"ROLE: Endocrinologist
+
+**Scenario Variables**
+
+1) **Medical Outcome:**
+   - Diagnosis: Disorder of Thyroid, Unspecified
+   - Prescribed Treatment: Levothyroxine 50 mcg, oral, once daily in the morning, 30 tablets, with one refill
+   - Follow-up Recommendations: Follow-up visit in 6 weeks
+   - Referral: Referral to the radiology department for thyroid ultrasound to assess thyroid structure and vascularity
+   - Blood Work: Order for TSH, Free T4, and Thyroid antibodies levels
+
+2) **Medical History:**
+   - Previous Diagnoses: History of hypothyroidism, hypertension
+   - Family Medical History: Mother had hypothyroidism and type 2 diabetes
+   - Medication History: Currently on hydrochlorothiazide 25 mg daily for hypertension
+   - Allergies: No known drug allergies
+   - Chronic Conditions: Hypothyroidism, hypertension
+
+3) **Symptom Description:**
+   - Severity: Moderate
+   - Duration: 3 months
+   - Associated Symptoms: Fatigue, weight gain, dry skin, and hair loss
+   - Frequency: Daily
+   - Impact on Daily Activities: Difficulty maintaining regular work schedule due to fatigue
+
+4) **Patient’s self-reported habits and lifestyle:**
+   - Sleep: Reports sleeping 7-8 hours per night, but still feels tired
+   - Diet: Balanced diet, but reports occasional junk food consumption
+   - Exercise: Exercises 2-3 times per week, mainly walking
+   - Tobacco Use: None
+   - Alcohol Consumption: Socially, about 1-2 drinks per week
+   - Drug Use: None
+   - Recreational Activities: Enjoys reading and gardening
+
+5) **Demographic Information:**
+   - Age: 45
+   - Gender: Female
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: High
+   - Job Status: Full-time office job
+
+6) **Patient's Behavior:**
+   - Highly cooperative with medical advice and follows through with prescribed treatments
+
+7) **Geographical Location:**
+   - Urban area in a big city
+   - Affluent neighborhood with good access to healthcare services
+
+8) **Clinical Setting:**
+   - Endocrinology clinic in a major hospital
+
+9) **Type of Encounter:**
+   - Initial Consultation for thyroid concerns
+
+10) **Treatment Disparities:**
+   - NA
+
+11) **Native or Non-Native English Speaking Patient:**
+   - Native English speaker
+
+12) **Physical exams:**
+   - General inspection of thyroid region: Slight enlargement and tenderness noted 
+
+13) **Investigation/Test results:**
+   - Awaiting results for TSH, Free T4, and Thyroid antibodies
+   - Referral for thyroid ultrasound to be scheduled"|"**1. Subjective:**
+   **Chief Complaint (CC):**
+   - Fatigue, weight gain, dry skin, and hair loss over the past 3 months.
+
+   **History of Present Illness (HPI):**
+   - The patient is a 45-year-old Caucasian female presenting with symptoms of fatigue, weight gain, dry skin, and hair loss that have persisted for approximately 3 months. She reports that these symptoms are present daily and have significantly impacted her ability to maintain her regular work schedule. She has a history of hypothyroidism and is currently on hydrochlorothiazide 25 mg for hypertension. Her mother had hypothyroidism and type 2 diabetes. The patient is highly cooperative with medical advice.
+
+   **Review of Systems (ROS):**
+   - General: Reports fatigue and weight gain.
+   - Skin: Reports dry skin and hair loss.
+   - Endocrine: No recent changes in thirst or urination.
+   - Cardiovascular: No chest pain or palpitations.
+   - Respiratory: No shortness of breath or cough.
+   - Gastrointestinal: No abdominal pain or changes in bowel habits.
+   - Musculoskeletal: No joint pain or swelling.
+   - Neurological: No headaches or dizziness.
+   - Psychiatric: No depression or anxiety.
+
+**2. Objective:**
+   **Vital Signs:**
+   - Blood pressure: 125/80 mmHg
+   - Heart rate: 72 bpm
+   - Respiratory rate: 16 breaths/min
+   - Temperature: 98.6°F
+   - Weight: 175 lbs
+   - Height: 5'5""
+
+   **Physical Examination:**
+   - General: Alert and cooperative, in no acute distress.
+   - HEENT: No goiter; slight enlargement and tenderness noted in the thyroid region.
+   - Skin: Dry, with some areas of scaling.
+   - Cardiovascular: Heart sounds normal, no murmurs.
+   - Respiratory: Breath sounds clear to auscultation bilaterally.
+   - Abdominal: Soft, non-tender, no organomegaly.
+   - Musculoskeletal: Normal range of motion, no joint swelling or tenderness.
+   - Neurological: Alert and oriented, normal reflexes.
+
+**3. Assessment:**
+   - Disorder of Thyroid, Unspecified
+   - History of hypothyroidism, currently uncontrolled.
+   - Hypertension, well-managed with hydrochlorothiazide.
+
+**4. Plan:**
+   **Medications:**
+   - Prescribe Levothyroxine 50 mcg, oral, once daily in the morning, 30 tablets, with one refill.
+
+   **Follow-up Recommendations:**
+   - Schedule a follow-up visit in 6 weeks to reassess symptoms and review lab results.
+
+   **Referrals:**
+   - Referral to the radiology department for a thyroid ultrasound to assess thyroid structure and vascularity.
+
+   **Investigations:**
+   - Order blood work for TSH, Free T4, and Thyroid antibodies levels.
+
+   **Lifestyle Recommendations:**
+   - Encourage the continuation of a balanced diet and regular exercise.
+   - Discuss symptoms of hypothyroidism and the importance of medication adherence.
+
+   **Patient Education:**
+   - Explain the importance of taking Levothyroxine on an empty stomach and avoiding calcium and iron supplements close to the medication time to enhance absorption.
+   - Inform the patient about potential side effects of Levothyroxine and the symptoms of over-treatment and under-treatment to watch for.
+
+   **Notes:**
+   - The patient is advised to contact the clinic if symptoms worsen or new symptoms develop before the follow-up appointment."|"**1. Subjective:**
+   **Chief Complaint (CC):**
+   - Fatigue, weight gain, dry skin, and hair loss over the past 3 months.
+
+   **History of Present Illness (HPI):**
+   - The patient, Ms. Emily Johnson, is a 45-year-old Caucasian female presenting with symptoms of fatigue, weight gain, dry skin, and hair loss that have persisted for approximately 3 months. She reports that these symptoms are present daily and have significantly impacted her ability to maintain her regular work schedule. She has a history of hypothyroidism and is currently on hydrochlorothiazide 25 mg for hypertension. Her mother had hypothyroidism and type 2 diabetes. The patient is highly cooperative with medical advice.
+
+   **Review of Systems (ROS):**
+   - General: Reports fatigue and weight gain.
+   - Skin: Reports dry skin and hair loss.
+   - Endocrine: No recent changes in thirst or urination.
+   - Cardiovascular: No chest pain or palpitations.
+   - Respiratory: No shortness of breath or cough.
+   - Gastrointestinal: No abdominal pain or changes in bowel habits.
+   - Musculoskeletal: No joint pain or swelling.
+   - Neurological: No headaches or dizziness.
+   - Psychiatric: No depression or anxiety.
+
+**2. Objective:**
+   **Vital Signs:**
+   - Blood pressure: 125/80 mmHg
+   - Heart rate: 72 bpm
+   - Respiratory rate: 16 breaths/min
+   - Temperature: 98.6°F
+   - Weight: 175 lbs
+   - Height: 5'5""
+
+   **Physical Examination:**
+   - General: Alert and cooperative, in no acute distress.
+   - HEENT: No goiter; slight enlargement and tenderness noted in the thyroid region.
+   - Skin: Dry, with some areas of scaling.
+   - Cardiovascular: Heart sounds normal, no murmurs.
+   - Respiratory: Breath sounds clear to auscultation bilaterally.
+   - Abdominal: Soft, non-tender, no organomegaly.
+   - Musculoskeletal: Normal range of motion, no joint swelling or tenderness.
+   - Neurological: Alert and oriented, normal reflexes.
+
+**3. Assessment:**
+   - Disorder of Thyroid, Unspecified
+   - History of hypothyroidism, currently uncontrolled.
+   - Hypertension, well-managed with hydrochlorothiazide.
+
+**4. Plan:**
+   **Medications:**
+   - Prescribe Levothyroxine 50 mcg, oral, once daily in the morning, 30 tablets, with one refill.
+
+   **Follow-up Recommendations:**
+   - Schedule a follow-up visit in 6 weeks to reassess symptoms and review lab results.
+
+   **Referrals:**
+   - Referral to the radiology department for a thyroid ultrasound to assess thyroid structure and vascularity. 
+   - Referral to Dr. Sarah Thompson, Endocrinologist, for further evaluation and management of hypothyroidism.
+
+   **Investigations:**
+   - Order blood work for TSH, Free T4, and Thyroid antibodies levels.
+
+   **Lifestyle Recommendations:**
+   - Encourage the continuation of a balanced diet and regular exercise.
+   - Discuss symptoms of hypothyroidism and the importance of medication adherence.
+
+   **Patient Education:**
+   - Explain the importance of taking Levothyroxine on an empty stomach and avoiding calcium and iron supplements close to the medication time to enhance absorption.
+   - Inform the patient about potential side effects of Levothyroxine and the symptoms of over-treatment and under-treatment to watch for.
+
+   **Notes:**
+   - The patient is advised to contact the clinic if symptoms worsen or new symptoms develop before the follow-up appointment."|"**1. Subjective:**
+   **CC:**
+   - Fatigue, weight gain, dry skin, and hair loss over the past 3 months.
+
+   **HPI:**
+   - The pt, Ms. Emily Johnson, is a 45 y/o Caucasian F presenting with sx of fatigue, weight gain, dry skin, and hair loss that have persisted for ~3 months. She reports these sx are present daily and have significantly impacted her ability to maintain her regular work schedule. She has a hx of hypothyroidism and is currently on HCTZ 25 mg for HTN. Her mother had hypothyroidism and T2DM. The pt is highly cooperative with medical advice.
+
+   **ROS:**
+   - General: Reports fatigue and weight gain.
+   - Skin: Reports dry skin and hair loss.
+   - Endocrine: No recent changes in thirst or urination.
+   - CV: No CP or palpitations.
+   - Resp: No SOB or cough.
+   - GI: No abd pain or changes in bowel habits.
+   - MSK: No joint pain or swelling.
+   - Neuro: No HA or dizziness.
+   - Psych: No depression or anxiety.
+
+**2. Objective:**
+   **VS:**
+   - BP: 125/80 mmHg
+   - HR: 72 bpm
+   - RR: 16 breaths/min
+   - Temp: 98.6°F
+   - Wt: 175 lbs
+   - Ht: 5'5""
+
+   **PE:**
+   - General: Alert and cooperative, in no acute distress.
+   - HEENT: No goiter; slight enlargement and tenderness noted in the thyroid region.
+   - Skin: Dry, with some areas of scaling.
+   - CV: Heart sounds normal, no murmurs.
+   - Resp: Breath sounds clear to auscultation bilaterally.
+   - Abd: Soft, non-tender, no organomegaly.
+   - MSK: Normal ROM, no joint swelling or tenderness.
+   - Neuro: Alert and oriented, normal reflexes.
+
+**3. Assessment:**
+   - Disorder of Thyroid, Unspecified
+   - Hx of hypothyroidism, currently uncontrolled.
+   - HTN, well-managed with HCTZ.
+
+**4. Plan:**
+   **Meds:**
+   - Rx Levothyroxine 50 mcg PO QD in the AM, 30 tabs, with one refill.
+
+   **F/U Recommendations:**
+   - Schedule a F/U visit in 6 weeks to reassess sx and review lab results.
+
+   **Referrals:**
+   - Referral to radiology for thyroid US to assess thyroid structure and vascularity.
+   - Referral to Dr. Sarah Thompson, Endo, for further eval and mgmt of hypothyroidism.
+
+   **Investigations:**
+   - Order blood work for TSH, Free T4, and Thyroid Ab levels.
+
+   **Lifestyle Recommendations:**
+   - Encourage continuation of a balanced diet and regular exercise.
+   - Discuss sx of hypothyroidism and the importance of med adherence.
+
+   **Pt Education:**
+   - Explain the importance of taking Levothyroxine on an empty stomach and avoiding Ca and Fe supplements close to the med time to enhance absorption.
+   - Inform the pt about potential SE of Levothyroxine and the sx of over-treatment and under-treatment to watch for.
+
+   **Notes:**
+   - The pt is advised to contact the clinic if sx worsen or new sx develop before the F/U appointment."|Endocrinologist|"**Doctor:** Hi there! Nice to see you today. How have you been feeling?
+
+**Patient:** Hi, Doctor. Well, I've been feeling really tired lately, and I've noticed I've gained some weight. My skin is really dry, and my hair is falling out more than usual. It's been going on for about 3 months now.
+
+**Doctor:** I see. That sounds quite bothersome. Have these symptoms been affecting your daily activities or work?
+
+**Patient:** Yes, definitely. The fatigue has made it really hard to keep up with my regular work schedule.
+
+**Doctor:** I understand. Let's dive a bit deeper. Do you have any history of thyroid issues?
+
+**Patient:** Yes, I have hypothyroidism. I'm also taking hydrochlorothiazide 25 mg for my hypertension.
+
+**Doctor:** Got it. Has anyone in your family had similar issues?
+
+**Patient:** Yes, my mother had hypothyroidism and type 2 diabetes.
+
+**Doctor:** Okay, that’s helpful information. Are you experiencing any other symptoms, like changes in your thirst or urination?
+
+**Patient:** No, I haven’t noticed any changes in those areas.
+
+**Doctor:** Any chest pain or palpitations?
+
+**Patient:** No, none at all.
+
+**Doctor:** How about shortness of breath or cough?
+
+**Patient:** No, I haven't had any issues with that either.
+
+**Doctor:** Any abdominal pain or changes in your bowel habits?
+
+**Patient:** No, everything's normal there.
+
+**Doctor:** Do you have any joint pain or swelling?
+
+**Patient:** No, my joints are fine.
+
+**Doctor:** Have you been experiencing any headaches or dizziness?
+
+**Patient:** No, I haven’t had any headaches or dizziness.
+
+**Doctor:** Alright, and how about your mood? Any feelings of depression or anxiety?
+
+**Patient:** No, my mood has been okay. Just the fatigue and other symptoms are really frustrating.
+
+**Doctor:** I understand. Let me check your vital signs and do a quick physical examination. Your blood pressure is 125/80 mmHg, heart rate is 72 bpm, respiratory rate is 16 breaths/min, and your temperature is 98.6°F. Your weight is 175 lbs, and your height is 5'5"".
+
+**Patient:** Okay, sounds good.
+
+**Doctor:** I’m going to check your thyroid area now. There’s no goiter, but I do notice some slight enlargement and tenderness in the thyroid region. Your skin looks dry and I see some areas of scaling. Your heart sounds are normal, and your breath sounds are clear. Your abdomen is soft and non-tender, and there's no organ enlargement. Your range of motion is normal, and there's no joint swelling or tenderness. Neurologically, everything seems normal, and you're alert and oriented.
+
+**Patient:** Alright.
+
+**Doctor:** Based on your symptoms and physical examination, it seems like your hypothyroidism might be currently uncontrolled. We need to do some further investigations to confirm this.
+
+**Patient:** Okay, what do we need to do?
+
+**Doctor:** I’m going to prescribe you Levothyroxine 50 mcg to take once daily in the morning. We’ll also schedule a follow-up visit in 6 weeks to reassess your symptoms and review your lab results.
+
+**Patient:** Got it. And what about the tests?
+
+**Doctor:** I’ll order blood work for TSH, Free T4, and Thyroid antibodies levels. We’ll also refer you to the radiology department for a thyroid ultrasound to assess your thyroid structure and vascularity.
+
+**Patient:** Alright, sounds good.
+
+**Doctor:** In the meantime, continue with a balanced diet and regular exercise. It’s important to take Levothyroxine on an empty stomach and avoid taking calcium and iron supplements close to the medication time to enhance absorption.
+
+**Patient:** Okay, I’ll make sure to do that.
+
+**Doctor:** Be aware of potential side effects of Levothyroxine and the symptoms of over-treatment and under-treatment. If you notice any new symptoms or if your current symptoms worsen, please contact the clinic before your follow-up appointment.
+
+**Patient:** Will do. Is there anything else I need to know?
+
+**Doctor:** No, that’s about it for now. We’ll see you back in 6 weeks and review everything then. Take care and don’t hesitate to reach out if you need anything before that.
+
+**Patient:** Thank you, Doctor. I appreciate your help.
+
+**Doctor:** You’re welcome. Have a good day!"|"[doctor]: Hi there! Nice to see you today. How have you been feeling?
+
+[patient]: Hi, Doctor. Well, I've been feeling really tired lately, and I've noticed I've gained some weight. My skin is really dry, and my hair is falling out more than usual. It's been going on for about 3 months now.
+
+[doctor]: I see. That sounds quite bothersome. Have these symptoms been affecting your daily activities or work?
+
+[patient]: Yes, definitely. The fatigue has made it really hard to keep up with my regular work schedule.
+
+[doctor]: I understand. Let's dive a bit deeper. Do you have any history of thyroid issues?
+
+[patient]: Yes, I have hypothyroidism. I'm also taking hydrochlorothiazide 25 mg for my hypertension.
+
+[doctor]: Got it. Has anyone in your family had similar issues?
+
+[patient]: Yes, my mother had hypothyroidism and type 2 diabetes.
+
+[doctor]: Okay, that’s helpful information. Are you experiencing any other symptoms, like changes in your thirst or urination?
+
+[patient]: No, I haven’t noticed any changes in those areas.
+
+[doctor]: Any chest pain or palpitations?
+
+[patient]: No, none at all.
+
+[doctor]: How about shortness of breath or cough?
+
+[patient]: No, I haven't had any issues with that either.
+
+[doctor]: Any abdominal pain or changes in your bowel habits?
+
+[patient]: No, everything's normal there.
+
+[doctor]: Do you have any joint pain or swelling?
+
+[patient]: No, my joints are fine.
+
+[doctor]: Have you been experiencing any headaches or dizziness?
+
+[patient]: No, I haven’t had any headaches or dizziness.
+
+[doctor]: Alright, and how about your mood? Any feelings of depression or anxiety?
+
+[patient]: No, my mood has been okay. Just the fatigue and other symptoms are really frustrating.
+
+[doctor]: I understand. Let me check your vital signs and do a quick physical examination. Your blood pressure is 125/80 mmHg, heart rate is 72 bpm, respiratory rate is 16 breaths/min, and your temperature is 98.6°F. Your weight is 175 lbs, and your height is 5'5"".
+
+[patient]: Okay, sounds good.
+
+[doctor]: I’m going to check your thyroid area now. There’s no goiter, but I do notice some slight enlargement and tenderness in the thyroid region. Your skin looks dry and I see some areas of scaling. Your heart sounds are normal, and your breath sounds are clear. Your abdomen is soft and non-tender, and there's no organ enlargement. Your range of motion is normal, and there's no joint swelling or tenderness. Neurologically, everything seems normal, and you're alert and oriented.
+
+[patient]: Alright.
+
+[doctor]: Based on your symptoms and physical examination, it seems like your hypothyroidism might be currently uncontrolled. We need to do some further investigations to confirm this.
+
+[patient]: Okay, what do we need to do?
+
+[doctor]: I’m going to prescribe you Levothyroxine 50 mcg to take once daily in the morning. We’ll also schedule a follow-up visit in 6 weeks to reassess your symptoms and review your lab results.
+
+[patient]: Got it. And what about the tests?
+
+[doctor]: I’ll order blood work for TSH, Free T4, and Thyroid antibodies levels. We’ll also refer you to the radiology department for a thyroid ultrasound to assess your thyroid structure and vascularity.
+
+[patient]: Alright, sounds good.
+
+[doctor]: In the meantime, continue with a balanced diet and regular exercise. It’s important to take Levothyroxine on an empty stomach and avoid taking calcium and iron supplements close to the medication time to enhance absorption.
+
+[patient]: Okay, I’ll make sure to do that.
+
+[doctor]: Be aware of potential side effects of Levothyroxine and the symptoms of over-treatment and under-treatment. If you notice any new symptoms or if your current symptoms worsen, please contact the clinic before your follow-up appointment.
+
+[patient]: Will do. Is there anything else I need to know?
+
+[doctor]: No, that’s about it for now. We’ll see you back in 6 weeks and review everything then. Take care and don’t hesitate to reach out if you need anything before that.
+
+[patient]: Thank you, Doctor. I appreciate your help.
+
+[doctor]: You’re welcome. Have a good day!"
+DISORDER OF THYROID, UNSPECIFIED|"ROLE: Endocrinologist
+
+1) Medical Outcome: 
+   - Diagnosis: Disorder of Thyroid, Unspecified
+   - Prescribed Treatment: Levothyroxine 75 mcg, orally, once daily in the morning, quantity: 30 tablets, duration: 1 month.
+   - Follow-up recommendations: Recheck thyroid function tests in 4 weeks.
+   - Blood Work: Thyroid function tests (TSH, Free T4)
+   - Referral: N/A
+   - Imaging: N/A
+
+2) Medical History: 
+   - Previous Diagnoses: Hypertension, Hyperlipidemia
+   - Family Medical History: Mother had hypothyroidism; father had type 2 diabetes.
+   - Medication History: Currently on Lisinopril 20 mg daily for hypertension and Atorvastatin 10 mg daily for hyperlipidemia.
+   - Allergies: Penicillin
+   - Chronic Conditions: NA
+
+3) Symptom Description:
+   - Severity: Moderate
+   - Duration: 3 months
+   - Associated Symptoms: Fatigue, weight gain, hair loss, constipation, feeling cold
+   - Frequency: Daily
+   - Impact on Daily Activities: Significant; struggles with daily house chores and work.
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: 7 hours per night but feels unrested
+   - Diet: Diet high in processed foods, low vegetable intake
+   - Exercise: Rarely exercises
+   - Tobacco Use: Smokes half a pack of cigarettes daily
+   - Alcohol Consumption: Drinks socially, around 3-4 drinks per week
+   - Drug Use: None
+   - Recreational Activities: Enjoys watching TV and reading
+
+5) Demographic Information:
+   - Age: 52
+   - Gender: Female
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: Moderate; understands basic medical terms and instructions
+   - Job Status: Works as a high school teacher
+
+6) Patient's Behavior:
+   - Level of cooperation with medical advice: Cooperative but needs frequent reminders
+
+7) Geographical Location:
+   - Urban
+   - Environmental Health Risks: Moderate air pollution
+   - Neighborhood Type: Well-served by transit but located in a food desert
+
+8) Clinical Setting: Private Practice
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - None noted
+
+11) Native or Non-Native English Speaking Patient: Native English Speaker
+
+12) Physical exams: 
+   - Routine physical exam: palpation of thyroid shows slight enlargement, no nodules felt.
+
+13) Investigation/Test results:
+   - Awaiting: Thyroid function tests (TSH, Free T4)"|Rejected|Rejected|Rejected|Rejected||
+DISORDER OF THYROID, UNSPECIFIED|"ROLE: Endocrinologist
+
+1) Medical Outcome:
+   - Diagnosis: Disorder of Thyroid, Unspecified
+   - Prescribed Treatment: Levothyroxine 100 mcg, orally, once daily in the morning, quantity: 30 tablets, duration: 1 month.
+   - Follow-up recommendations: Reassess symptoms and thyroid function tests in 6 weeks.
+   - Blood Work: Thyroid function tests (TSH, Free T4, Free T3), Complete Blood Count (CBC)
+   - Referral: N/A
+   - Imaging: Thyroid ultrasound
+
+2) Medical History:
+   - Previous Diagnoses: Anemia, Type 2 Diabetes
+   - Family Medical History: Mother had Graves' disease; brother has rheumatoid arthritis.
+   - Medication History: Currently on Metformin 500 mg twice a day for diabetes; Iron supplements for anemia.
+   - Allergies: Latex
+   - Chronic Conditions: NA
+
+3) Symptom Description:
+   - Severity: Severe
+   - Duration: 6 months
+   - Associated Symptoms: Extreme fatigue, swelling in neck, difficulty swallowing, dry skin, depression
+   - Frequency: Daily
+   - Impact on Daily Activities: Severely limits ability to work and participate in social activities
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Less than 5 hours of sleep, wakes up frequently at night
+   - Diet: High carbohydrate diet, under-eats due to difficulty swallowing
+   - Exercise: Walking, low intensity due to fatigue
+   - Tobacco Use: None
+   - Alcohol Consumption: None
+   - Drug Use: None
+   - Recreational Activities: Used to enjoy gardening, currently unable due to fatigue
+
+5) Demographic Information:
+   - Age: 45
+   - Gender: Female
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Low-income
+   - Education Level: High school graduate
+   - Health Literacy: Low; requires simple, clear instructions
+   - Job Status: Unemployed due to health issues
+
+6) Patient's Behavior:
+   - Level of cooperation with medical advice: Somewhat skeptical and requires convincing about the necessity of treatment
+
+7) Geographical Location:
+   - Rural
+   - Environmental Health Risks: High levels of agricultural pesticides
+   - Neighborhood Type: Impoverished, limited access to healthcare facilities, food desert
+
+8) Clinical Setting: Community Health Services
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - Patient expressed concerns about affording medication due to financial constraints
+
+11) Native or Non-Native English Speaking Patient: Non-Native English Speaker; primary language Spanish
+
+12) Physical exams:
+   - Thyroid palpation reveals an enlarged thyroid with potential nodules
+
+13) Investigation/Test results:
+   - Awaiting: Thyroid function tests (TSH, Free T4, Free T3), Complete Blood Count (CBC), Thyroid ultrasound"|Rejected|Rejected|Rejected|Rejected||
+DISORDER OF THYROID, UNSPECIFIED|"ROLE: Endocrinologist
+
+1) Medical Outcome:
+   - Diagnosis: Disorder of Thyroid, Unspecified
+   - Prescribed Treatment: Levothyroxine 50 mcg, orally, once daily in the morning, quantity: 30 tablets, duration: 1 month.
+   - Follow-up recommendations: Follow-up in 8 weeks to reassess symptoms and thyroid function tests.
+   - Blood Work: Thyroid function tests (TSH, Free T4), Lipid Panel
+   - Referral: Refer to a nutritionist for dietary counseling
+
+2) Medical History:
+   - Previous Diagnoses: Gestational diabetes, Iron deficiency anemia
+   - Family Medical History: Grandmother had thyroid cancer, sister has lupus
+   - Medication History: None
+   - Allergies: Sulfa drugs
+   - Chronic Conditions: NA
+
+3) Symptom Description:
+   - Severity: Moderate
+   - Duration: 2 months
+   - Associated Symptoms: Fatigue, dry hair, muscle cramps, poor concentration, irritability
+   - Frequency: Daily
+   - Impact on Daily Activities: Affects ability to focus at work and participate in family activities
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Around 6 hours of sleep, not restful
+   - Diet: Prefers fast food and sugary snacks
+   - Exercise: Minimal physical activity, occasional walks
+   - Tobacco Use: Smokes socially, about once a week
+   - Alcohol Consumption: Drinks moderately, around 2-3 drinks on weekends
+   - Drug Use: None
+   - Recreational Activities: Infrequently participates in outdoor hiking, limited by fatigue
+
+5) Demographic Information:
+   - Age: 35
+   - Gender: Female
+   - Ethnicity: African American
+   - Socio-economic Status: Upper middle class
+   - Education Level: Master's degree
+   - Health Literacy: High; well-informed and proactive about health
+   - Job Status: Works as a financial analyst
+
+6) Patient's Behavior:
+   - Level of cooperation with medical advice: Very cooperative, eager to find a solution
+
+7) Geographical Location:
+   - Big City vs Small City: Big City
+   - Environmental Health Risks: Low pollution, high-stress urban environment
+   - Neighborhood Type: Affluent neighborhood, good access to healthcare and healthy food options
+
+8) Clinical Setting:
+   - Urgent Care Center
+
+9) Type of Encounter:
+   - Emergency Visit
+
+10) Treatment Disparities:
+   - None noted
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English Speaker
+
+12) Physical exams:
+   - Thyroid palpation: Slight enlargement without nodules
+
+13) Investigation/Test results:
+   - Awaiting: Thyroid function tests (TSH, Free T4), Lipid Panel"|Rejected|Rejected|Rejected|Rejected||
+DISORDER OF THYROID, UNSPECIFIED|"ROLE: Endocrinologist
+
+- Medical Outcome: 
+  - Diagnosis: E04.9 - Disorder of thyroid, unspecified
+  - Prescribed Treatment: Levothyroxine 50 mcg, oral, daily, indefinitely
+  - Follow-up Recommendations: Re-evaluate thyroid function tests (T3, T4, TSH) in 6 weeks
+  - Referral to Specialists: Refer to a dietitian for nutritional counseling; Dr. Jane Collins
+  - Blood Work: Biochemistry panel including Thyroid Function Tests (T3, T4, TSH), Lipid Profile
+  - Imaging: Thyroid ultrasound to evaluate gland morphology
+
+- Medical History:
+  - Previous Diagnoses: Hypertension
+  - Family Medical History: Mother with hypothyroidism
+  - Medication History: Lisinopril 10 mg daily
+  - Allergies: Penicillin
+  - Chronic Conditions: Hypertension
+
+- Symptom Description:
+  - Severity: Moderate
+  - Duration: 3 months
+  - Associated Symptoms: Fatigue, weight gain, dry skin
+  - Frequency: Daily
+  - Impact on Daily Activities: Reduced energy affecting work performance
+
+- Patient’s Self-Reported Habits and Lifestyle:
+  - Sleep: Difficulty falling asleep, feels tired despite 8 hours of sleep
+  - Diet: High in processed foods, irregular meal timings
+  - Exercise: Sedentary lifestyle
+  - Tobacco Use: None
+  - Alcohol Consumption: Occasional, weekends only
+  - Recreational Activities: Watching TV, reading
+
+- Demographic Information:
+  - Age: 45
+  - Gender: Female
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Middle class
+  - Education Level: Bachelor’s degree
+  - Health Literacy: Moderate
+  - Job Status: Office administrator
+  
+- Patient's Behavior: Generally compliant with medical advice
+
+- Geographical Location:
+  - Big City vs Small City: Big City
+  - Rural vs Urban: Urban
+  - Pollution and Environmental Health Risks: Moderate pollution
+  - Neighborhood Type: Affluent, well-served by transit, multiple grocery stores
+
+- Clinical Setting:
+  - Type: Private Practice
+
+- Type of Encounter:
+  - Initial Consultation
+
+- Treatment Disparities: N/A
+
+- Native or Non-Native English Speaking Patient: Native
+
+- Physical Exams:
+  - General appearance: Overweight, dry skin
+  - Neck: Palpable goiter, non-tender
+
+- Investigation/Test Results:
+  - Awaiting results for: Biochemistry panel including Thyroid Function Tests (T3, T4, TSH), Lipid Profile
+  - Thyroid ultrasound pending for gland morphology assessment"|Rejected|Rejected|Rejected|Rejected||
+DISORDER OF THYROID, UNSPECIFIED|"ROLE: Endocrinologist
+
+- Medical Outcome:
+  - Diagnosis: E04.9 - Disorder of thyroid, unspecified
+  - Prescribed Treatment: Levothyroxine 75 mcg, oral, daily, indefinitely
+  - Follow-up Recommendations: Re-evaluate thyroid function tests (T3, T4, TSH) in 8 weeks
+  - Referral to Specialists: Refer to a cardiologist for evaluation due to palpitations; Dr. John Evans
+  - Blood Work: Biochemistry panel including Thyroid Function Tests (T3, T4, TSH), Complete Blood Count (CBC), Liver Function Tests (LFTs)
+  - Imaging: Thyroid ultrasound to evaluate gland morphology and potential nodules
+
+- Medical History:
+  - Previous Diagnoses: Type 2 Diabetes Mellitus
+  - Family Medical History: Father with hyperthyroidism, mother with heart disease
+  - Medication History: Metformin 500 mg twice daily
+  - Allergies: Sulfa drugs
+  - Chronic Conditions: Diabetes, high cholesterol
+
+- Symptom Description:
+  - Severity: Moderate to severe
+  - Duration: 6 months
+  - Associated Symptoms: Fatigue, weight gain, palpitations, hair thinning
+  - Frequency: Daily
+  - Impact on Daily Activities: Difficulty concentrating at work, needing frequent breaks
+
+- Patient’s Self-Reported Habits and Lifestyle:
+  - Sleep: Experiences insomnia and wakes up frequently at night
+  - Diet: Vegetarian, consumes high sugar snacks frequently
+  - Exercise: Regular walking, 30 minutes daily
+  - Tobacco Use: Former smoker, quit 2 years ago
+  - Alcohol Consumption: Social drinker, 1-2 glasses of wine per week
+  - Recreational Activities: Gardening, participating in book club
+
+- Demographic Information:
+  - Age: 52
+  - Gender: Male
+  - Ethnicity: African American
+  - Socio-economic Status: Upper middle class
+  - Education Level: Master's degree
+  - Health Literacy: High
+  - Job Status: University professor
+
+- Patient's Behavior: Highly compliant with medical advice
+
+- Geographical Location:
+  - Big City vs Small City: Big City
+  - Rural vs Urban: Urban
+  - Pollution and Environmental Health Risks: Low pollution
+  - Neighborhood Type: Affluent, well-served by transit, multiple grocery stores within walking distance
+
+- Clinical Setting:
+  - Type: University-affiliated Hospital
+
+- Type of Encounter:
+  - Routine Check-up
+
+- Treatment Disparities: N/A
+
+- Native or Non-Native English Speaking Patient: Native
+
+- Physical Exams:
+  - General appearance: Overweight, thinning hair, dry skin
+  - Neck: Palpable goiter, irregular in shape, non-tender, no lymphadenopathy
+
+- Investigation/Test Results:
+  - Awaiting results for: Biochemistry panel including Thyroid Function Tests (T3, T4, TSH), Complete Blood Count (CBC), Liver Function Tests (LFTs)
+  - Thyroid ultrasound pending for gland morphology assessment and potential nodules"|Rejected|Rejected|Rejected|Rejected||
+DISORDER OF THYROID, UNSPECIFIED|"ROLE: Endocrinologist
+
+- Medical Outcome:
+  - Diagnosis: E04.9 - Disorder of thyroid, unspecified
+  - Prescribed Treatment: Levothyroxine 75 mcg, oral, daily, indefinitely
+  - Follow-up Recommendations: Re-evaluate thyroid function tests (T3, T4, TSH) in 8 weeks
+  - Referral to Specialists: Refer to a cardiologist for evaluation due to palpitations; Dr. John Evans
+  - Blood Work: Biochemistry panel including Thyroid Function Tests (T3, T4, TSH), Complete Blood Count (CBC), Liver Function Tests (LFTs)
+  - Imaging: Thyroid ultrasound to evaluate gland morphology and potential nodules
+
+- Medical History:
+  - Previous Diagnoses: Type 2 Diabetes Mellitus
+  - Family Medical History: Father with hyperthyroidism, mother with heart disease
+  - Medication History: Metformin 500 mg twice daily
+  - Allergies: Sulfa drugs
+  - Chronic Conditions: Diabetes, high cholesterol
+
+- Symptom Description:
+  - Severity: Moderate to severe
+  - Duration: 6 months
+  - Associated Symptoms: Fatigue, weight gain, palpitations, hair thinning
+  - Frequency: Daily
+  - Impact on Daily Activities: Difficulty concentrating at work, needing frequent breaks
+
+- Patient’s Self-Reported Habits and Lifestyle:
+  - Sleep: Experiences insomnia and wakes up frequently at night
+  - Diet: Vegetarian, consumes high sugar snacks frequently
+  - Exercise: Regular walking, 30 minutes daily
+  - Tobacco Use: Former smoker, quit 2 years ago
+  - Alcohol Consumption: Social drinker, 1-2 glasses of wine per week
+  - Recreational Activities: Gardening, participating in book club
+
+- Demographic Information:
+  - Age: 52
+  - Gender: Female
+  - Ethnicity: Asian
+  - Socio-economic Status: Middle class
+  - Education Level: High school diploma
+  - Health Literacy: Moderate
+  - Job Status: Part-time retail cashier
+
+- Patient's Behavior: Highly compliant with medical advice
+
+- Geographical Location:
+  - Big City vs Small City: Small Town
+  - Rural vs Urban: Rural
+  - Pollution and Environmental Health Risks: Low pollution
+  - Neighborhood Type: Moderate-income, limited public transportation, food desert
+
+- Clinical Setting:
+  - Type: Community Health Center
+
+- Type of Encounter:
+  - Routine Check-up
+
+- Treatment Disparities: N/A
+
+- Native or Non-Native English Speaking Patient: Non-native (Spanish-speaking)
+
+- Physical Exams:
+  - General appearance: Overweight, thinning hair, dry skin
+  - Neck: Palpable goiter, irregular in shape, non-tender, no lymphadenopathy
+
+- Investigation/Test Results:
+  - Awaiting results for: Biochemistry panel including Thyroid Function Tests (T3, T4, TSH), Complete Blood Count (CBC), Liver Function Tests (LFTs)
+  - Thyroid ultrasound pending for gland morphology assessment and potential nodules"|Rejected|Rejected|Rejected|Rejected||
+DISORDER OF THYROID, UNSPECIFIED|"**ROLE:** Endocrinologist
+
+**Scenario:**
+1. **Medical Outcome:**
+   - Diagnosis: Disorder of Thyroid, unspecified (ICD-10 E07.9)
+   - Prescribed Treatment:
+     - Levothyroxine 50 mcg, oral, once daily, quantity: 30 tablets
+   - Follow-up recommendations: Return in 6 weeks for re-evaluation and repeat thyroid function tests
+   - Referral to specialists: NA
+   - Referral to further tests or imaging: NA
+   - Medication adjustment: NA
+   - Lifestyle Change: Encourage patient to maintain a balanced diet rich in iodine, avoid soy products, and increase physical activity 
+   - Additional Testing: Blood tests - Thyroid function tests (TSH, Free T4, Free T3)
+
+2. **Medical History:**
+   - Previous Diagnoses: History of depression, diagnosed 2 years ago
+   - Family Medical History: Mother had hypothyroidism; Father had hypertension
+   - Medication History: Currently on Sertraline 50 mg daily for depression
+   - Allergies: No known drug allergies
+   - Chronic Conditions: Depression 
+
+3. **Symptom Description:**
+   - Severity: Mild to moderate fatigue, intermittently feeling cold
+   - Duration: Symptoms present for the past 3 months
+   - Associated Symptoms: Weight gain, dry skin
+   - Frequency: Symptoms occur daily
+   - Impact on Daily Activities: Fatigue affecting work performance, exercising less frequently
+
+4. **Patient’s self-reported habits and lifestyle:**
+   - Sleep: 6-7 hours per night, often restless sleep
+   - Diet: Skips breakfast occasionally, regular meals but low in iodine
+   - Exercise: 2 times a week, light walking
+   - Tobacco Use: Non-smoker
+   - Alcohol Consumption: Occasionally drinks wine, about once a week
+   - Drug Use: Denies any illicit drug use
+   - Recreational Activities: Enjoys reading and gardening on weekends
+
+5. **Demographic Information:**
+   - Age: 34
+   - Gender: Female
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle-income
+   - Education Level: Bachelor's degree
+   - Health Literacy: Moderate, understands basic medical terminology 
+   - Job Status: Works as a school teacher
+
+6. **Patient's Behavior:**
+   - Cooperation Level: Highly cooperative and takes medications as prescribed
+
+7. **Geographical Location:**
+   - Big City vs Small City: Resides in a major urban area
+   - Rural vs Urban: Urban
+   - Pollution and Environmental Health Risks: Moderate pollution levels
+   - Neighborhood Type: Middle-class neighborhood, well-served by public transit, accessible healthy food options
+
+8. **Clinical Setting:**
+   - Type of Clinical Setting: Specialty Clinic
+
+9. **Type of Encounter:**
+   - Initial Consultation
+
+10. ** Treatment Disparities:**
+    - No treatment disparities noted
+
+11. **Native or Non-Native English Speaking Patient:**
+    - Native English speaker
+
+12. **Physical exams:**
+    - Palpation of the neck reveals a mildly enlarged thyroid
+    - Heart rate: 68 bpm, regular rhythm
+    - Skin: Dry and slightly flaky 
+
+13. **Investigation/Test results:**
+    - Awaiting results from ordered Thyroid function tests (TSH, Free T4, Free T3)"|Rejected|Rejected|Rejected|Rejected||
+DISORDER OF THYROID, UNSPECIFIED|"**ROLE:** Endocrinologist
+
+**Scenario:**
+1. **Medical Outcome:**
+   - Diagnosis: Disorder of Thyroid, unspecified (ICD-10 E07.9)
+   - Prescribed Treatment:
+     - Levothyroxine 50 mcg, oral, once daily, quantity: 30 tablets
+   - Follow-up recommendations: Return in 4 weeks for re-evaluation and repeat thyroid function tests
+   - Referral to specialists: NA
+   - Referral to further tests or imaging: Neck ultrasound to assess thyroid size and nodules
+   - Medication adjustment: NA
+   - Lifestyle Change: Encourage balanced diet with adequate iodine, increasing physical activity
+   - Additional Testing: Blood tests - Thyroid function tests (TSH, Free T4, Free T3)
+
+2. **Medical History:**
+   - Previous Diagnoses: Mild hypertension diagnosed 1 year ago
+   - Family Medical History: Sister has Graves' disease; Grandfather had thyroid cancer
+   - Medication History: On Hydrochlorothiazide 12.5 mg daily for hypertension
+   - Allergies: Mild allergy to penicillin
+   - Chronic Conditions: Hypertension
+
+3. **Symptom Description:**
+   - Severity: Moderate fatigue, hair thinning
+   - Duration: Symptoms present for the past 4 months
+   - Associated Symptoms: Constipation, decreased concentration
+   - Frequency: Symptoms occur nearly every day
+   - Impact on Daily Activities: Fatigue affecting job performance and daily tasks
+
+4. **Patient’s self-reported habits and lifestyle:**
+   - Sleep: 7-8 hours per night, often feels unrefreshed
+   - Diet: Balanced meals, occasional iodine-rich foods
+   - Exercise: 3 times a week, moderate intensity
+   - Tobacco Use: Smokes half a pack a day
+   - Alcohol Consumption: Social drinker, drinks on weekends
+   - Drug Use: Denies any illicit drug use
+   - Recreational Activities: Enjoys hiking and photography
+
+5. **Demographic Information:**
+   - Age: 46
+   - Gender: Male
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Upper-middle-income
+   - Education Level: Master's degree
+   - Health Literacy: High, understands complex medical terminology
+   - Job Status: Works as a marketing manager
+
+6. **Patient's Behavior:**
+   - Cooperation Level: Generally compliant with medical advice, but struggles with quitting smoking
+
+7. **Geographical Location:**
+   - Big City vs Small City: Resides in a small city
+   - Rural vs Urban: Small urban area
+   - Pollution and Environmental Health Risks: Low pollution levels
+   - Neighborhood Type: Affluent neighborhood, well-served by public transit, accessible healthy food options
+
+8. **Clinical Setting:**
+   - Type of Clinical Setting: Private Practice
+
+9. **Type of Encounter:**
+   - Initial Consultation
+
+10. **Treatment Disparities:**
+    - No treatment disparities noted
+
+11. **Native or Non-Native English Speaking Patient:**
+    - Native English speaker
+
+12. **Physical exams:**
+    - General: Slightly overweight, BMI 27
+    - Neck: Mildly enlarged thyroid, no palpable nodules
+    - Cardiovascular: BP 140/85, regular heart rate
+    - Skin: Dry skin, thinning hair 
+
+13. **Investigation/Test results:**
+    - Awaiting results from ordered Thyroid function tests (TSH, Free T4, Free T3)
+    - Neck ultrasound ordered to assess thyroid structure and any nodules"|Rejected|Rejected|Rejected|Rejected||
+DISORDER OF THYROID, UNSPECIFIED|"**ROLE:** Endocrinologist
+
+**Scenario:**
+1. **Medical Outcome:**
+   - Diagnosis: Disorder of Thyroid, unspecified (ICD-10 E07.9)
+   - Prescribed Treatment:
+     - Levothyroxine 25 mcg, oral, once daily, quantity: 30 tablets, with a review for dose adjustment in 6 weeks
+   - Follow-up recommendations: Return in 6 weeks for re-evaluation and repeat thyroid function tests
+   - Referral to specialists: NA
+   - Referral to further tests or imaging: None at this time
+   - Medication adjustment: Possible based on follow-up test outcomes
+   - Lifestyle Change: Emphasis on maintaining an iodine-sufficient diet, increasing overall physical activity
+   - Additional Testing: Blood tests - Thyroid function tests (TSH, Free T4, Free T3)
+
+2. **Medical History:**
+   - Previous Diagnoses: Type 2 diabetes diagnosed 3 years ago
+   - Family Medical History: Father had diabetes; Mother had rheumatoid arthritis
+   - Medication History: Metformin 500 mg twice daily for diabetes
+   - Allergies: Seasonal allergies (pollen)
+   - Chronic Conditions: Type 2 diabetes
+
+3. **Symptom Description:**
+   - Severity: Moderate fatigue, intermittent muscle cramps
+   - Duration: Symptoms present for the past 6 months
+   - Associated Symptoms: Dry skin, occasional hair loss
+   - Frequency: Symptoms occur daily
+   - Impact on Daily Activities: Reduced ability to perform physical activities, frequent breaks during house chores
+
+4. **Patient’s self-reported habits and lifestyle:**
+   - Sleep: 5-6 hours per night, poor sleep quality
+   - Diet: Irregular meals, tends to consume high-calorie fast food often
+   - Exercise: Rarely exercises, sedentary lifestyle
+   - Tobacco Use: Never smoked
+   - Alcohol Consumption: Drinks beer socially, about twice a month
+   - Drug Use: Denies any illicit drug use
+   - Recreational Activities: Enjoys watching movies, rarely active outdoors
+
+5. **Demographic Information:**
+   - Age: 55
+   - Gender: Female
+   - Ethnicity: African American
+   - Socio-economic Status: Low-income
+   - Education Level: High school diploma
+   - Health Literacy: Low, struggles to understand medical jargon
+   - Job Status: Unemployed, previously worked in retail
+
+6. **Patient's Behavior:**
+   - Cooperation Level: Inconsistent with medication adherence and lifestyle modifications, needs frequent counseling
+
+7. **Geographical Location:**
+   - Big City vs Small City: Resides in a rural area
+   - Rural vs Urban: Rural
+   - Pollution and Environmental Health Risks: Low pollution levels, limited access to healthcare facilities
+   - Neighborhood Type: Impoverished neighborhood, limited access to fresh produce and healthy food options (food desert)
+
+8. **Clinical Setting:**
+   - Type of Clinical Setting: Community Health Services
+
+9. **Type of Encounter:**
+   - Chronic Disease Management 
+
+10. **Treatment Disparities:**
+    - Possible treatment disparities due to socio-economic status and healthcare access
+
+11. **Native or Non-Native English Speaking Patient:**
+    - Native English speaker
+
+12. **Physical exams:**
+    - General: Overweight, BMI 32
+    - Neck: No palpable thyroid enlargement
+    - Cardiovascular: BP 135/90, regular heart rate
+    - Skin: Dry skin, patches of hair thinning on scalp
+
+13. **Investigation/Test results:**
+    - Awaiting results from ordered Thyroid function tests (TSH, Free T4, Free T3)"|Rejected|Rejected|Rejected|Rejected||

@@ -1,0 +1,2564 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+CARDIAC ARREST, CAUSE UNSPECIFIED|"ROLE: Emergency Medicine Physician
+
+- **Medical Outcome**: 
+  - Diagnosis: Cardiac arrest, cause unspecified (ICD-10: I46.9)
+  - Prescribed Treatment: 
+    - Cardiopulmonary resuscitation (CPR) administered
+    - Intubation for airway management
+    - Intravenous administration of epinephrine (1 mg every 3-5 minutes during CPR)
+  - Referral to Specialists: Cardiologist for further evaluation, Dr. John Smith
+  - Further Tests/Imaging: 
+    - EKG to monitor heart rhythm
+    - Blood Work 
+      - Biochemistry: Electrolyte levels, Troponin
+      - Hematology: Complete Blood Count (CBC)
+  - Follow-up Recommendations: Admission to ICU for continuous monitoring and advanced cardiac life support (ACLS)
+
+- **Medical History**:
+  - Previous Diagnoses: Hypertension, Type 2 Diabetes Mellitus
+  - Family Medical History: Father had a myocardial infarction at age 55
+  - Medication History: 
+    - Metformin 500 mg BID
+    - Lisinopril 10 mg once daily
+  - Allergies: None
+  - Chronic Conditions: Hypertension, Type 2 Diabetes Mellitus
+
+- **Symptom Description**: 
+  - Severity: Loss of consciousness, no pulse
+  - Duration: Sudden onset
+  - Associated Symptoms: None reported due to the emergency nature
+  - Frequency: First known episode
+  - Impact on Daily Activities: NA due to acute nature
+
+- **Patient’s self-reported habits and lifestyle**:
+  - Sleep: Reports issues with insomnia
+  - Diet: High in processed foods, low in fruits and vegetables
+  - Exercise: Sedentary lifestyle
+  - Tobacco Use: Smoker for 20 years, 1 pack/day
+  - Alcohol Consumption: Occasional, social drinker
+  - Drug Use: Denies illicit drug use
+  - Recreational Activities: Watches TV, does not engage in physical activities
+
+- **Demographic Information**: 
+  - Age: 62
+  - Gender: Male
+  - Ethnicity: African American
+  - Socio-economic Status: Middle class
+  - Education Level: High school diploma
+  - Health Literacy: Moderate
+  - Job Status: Retired
+
+- **Patient's Behavior**: Limited adherence to medical advice, particularly regarding lifestyle changes
+
+- **Geographical Location**: 
+  - Big City
+  - Urban
+  - Pollution and Environmental Health Risks: Moderate pollution
+  - Neighborhood Type: Mixed socio-economic, well-served by transit, not a food desert
+
+- **Clinical Setting**: 
+  - Hospital Emergency Room
+
+- **Type of Encounter**:
+  - Emergency Visit
+
+- **Treatment Disparities**: None reported at this moment
+
+- **Native or Non-Native English Speaking Patient**: Native English speaker
+
+- **Physical exams**: 
+  - Cardiovascular: No pulse detected
+  - Respiratory: No spontaneous breathing
+  - Neurological: Unresponsive
+
+- **Investigation/Test results**: 
+  - Blood Work awaiting
+  - EKG ordered"|"#####
+**1. Subjective:**
+
+CHIEF COMPLAINT
+Sudden loss of consciousness.
+
+HISTORY OF PRESENT ILLNESS
+The patient is a 62-year-old African American male with a known history of hypertension and Type 2 Diabetes Mellitus who was brought to the emergency room after a sudden collapse. Eyewitnesses report that the patient lost consciousness abruptly without prior complaints or warning signs. He was found unresponsive, with no pulse and no spontaneous breathing.
+
+The patient has a significant history of non-adherence to medical advice, especially regarding lifestyle changes. He reportedly leads a sedentary lifestyle, has a diet high in processed foods, smokes one pack of cigarettes per day, and is an occasional social drinker. There is no known illicit drug use. He had frequent issues with insomnia and has been retired from his job.
+
+Family medical history is significant for myocardial infarction in his father at age 55.
+
+2. Objective:
+
+PHYSICAL EXAMINATION
+- Cardiovascular: No pulse detected.
+- Respiratory: No spontaneous breathing.
+- Neurological: Unresponsive.
+- Other relevant findings: Cyanosis observed, pupils non-reactive.
+
+INVESTIGATION/TEST RESULTS
+- EKG: Ordered to monitor heart rhythm.
+- Blood Work: Awaiting results.
+    - Biochemistry: Electrolyte levels, Troponin.
+    - Hematology: Complete Blood Count (CBC).
+
+3. Assessment:
+
+The patient is a 62-year-old male with a history of hypertension and Type 2 Diabetes Mellitus, presenting with cardiac arrest, cause unspecified (ICD-10: I46.9). Immediate resuscitation measures were initiated upon arrival to the emergency room.
+
+4. Plan:
+
+- Cardiopulmonary resuscitation (CPR) administered.
+- Intubation performed for airway management.
+- Intravenous administration of epinephrine (1 mg every 3-5 minutes during CPR).
+- Referral to a cardiologist, Dr. John Smith, for further evaluation.
+- Admission to the Intensive Care Unit (ICU) for continuous monitoring and advanced cardiac life support (ACLS).
+- Further tests:
+    - EKG to monitor heart rhythm.
+    - Blood Work:
+        - Biochemistry: Electrolyte levels, Troponin.
+        - Hematology: Complete Blood Count (CBC).
+
+Follow-up recommendations will be contingent on the patient's response to initial resuscitation efforts and further specialist consultations."|"#####
+**1. Subjective:**
+
+CHIEF COMPLAINT
+Sudden loss of consciousness.
+
+HISTORY OF PRESENT ILLNESS
+The patient is a 62-year-old African American male with a known history of hypertension and Type 2 Diabetes Mellitus who was brought to the emergency room after a sudden collapse. Eyewitnesses report that the patient lost consciousness abruptly without prior complaints or warning signs. He was found unresponsive, with no pulse and no spontaneous breathing.
+
+The patient has a significant history of non-adherence to medical advice, especially regarding lifestyle changes. He reportedly leads a sedentary lifestyle, has a diet high in processed foods, smokes one pack of cigarettes per day, and is an occasional social drinker. There is no known illicit drug use. He had frequent issues with insomnia and has been retired from his job.
+
+Family medical history is significant for myocardial infarction in his father at age 55.
+
+**2. Objective:**
+
+PHYSICAL EXAMINATION
+- Cardiovascular: No pulse detected.
+- Respiratory: No spontaneous breathing.
+- Neurological: Unresponsive.
+- Other relevant findings: Cyanosis observed, pupils non-reactive.
+
+**3. Assessment:**
+
+The patient is a 62-year-old male with a history of hypertension and Type 2 Diabetes Mellitus, presenting with cardiac arrest, cause unspecified (ICD-10: I46.9). Immediate resuscitation measures were initiated upon arrival to the emergency room.
+
+**4. Plan:**
+
+- Cardiopulmonary resuscitation (CPR) administered.
+- Intubation performed for airway management.
+- Intravenous administration of epinephrine (1 mg every 3-5 minutes during CPR).
+- Referral to a cardiologist, Dr. John Smith, for further evaluation due to cardiac arrest.
+- Admission to the Intensive Care Unit (ICU) for continuous monitoring and advanced cardiac life support (ACLS).
+- Further tests:
+    - EKG to monitor heart rhythm.
+    - Blood Work:
+        - Biochemistry: Electrolyte levels, Troponin.
+        - Hematology: Complete Blood Count (CBC).
+
+Follow-up recommendations will be contingent on the patient's response to initial resuscitation efforts and further specialist consultations."|"#####
+**1. Subjective:**
+
+CHIEF COMPLAINT
+Sudden LOC.
+
+HISTORY OF PRESENT ILLNESS
+The pt is a 62 y/o AA male with a known hx of HTN and T2DM who was brought to the ER after a sudden collapse. Eyewitnesses report that the pt lost consciousness abruptly without prior complaints or warning signs. He was found unresponsive, with no pulse and no spontaneous breathing.
+
+The pt has a significant hx of non-adherence to medical advice, especially regarding lifestyle changes. He reportedly leads a sedentary lifestyle, has a diet high in processed foods, smokes 1 ppd, and is an occasional social drinker. There is no known illicit drug use. He had frequent issues with insomnia and has been retired from his job.
+
+Family medical hx is significant for MI in his father at age 55.
+
+**2. Objective:**
+
+PHYSICAL EXAMINATION
+- CV: No pulse detected.
+- Resp: No spontaneous breathing.
+- Neuro: Unresponsive.
+- Other relevant findings: Cyanosis observed, pupils non-reactive.
+
+**3. Assessment:**
+
+The pt is a 62 y/o male with a hx of HTN and T2DM, presenting with cardiac arrest, cause unspecified (ICD-10: I46.9). Immediate resuscitation measures were initiated upon arrival to the ER.
+
+**4. Plan:**
+
+- CPR administered.
+- Intubation performed for airway mgmt.
+- IV admin of epi (1 mg q3-5min during CPR).
+- Referral to a cardiologist, Dr. John Smith, for further eval due to cardiac arrest.
+- Admission to the ICU for continuous monitoring and ACLS.
+- Further tests:
+    - EKG to monitor heart rhythm.
+    - Blood Work:
+        - Biochem: Electrolyte levels, Troponin.
+        - Heme: CBC.
+
+Follow-up recommendations will be contingent on the pt's response to initial resuscitation efforts and further specialist consultations."|Emergency Medicine Physician|"[doctor] Hi, I'm Dr. Johnson. Can you tell me what happened leading up to your sudden collapse?
+
+[patient's family member] He was just sitting in the living room, and then he suddenly collapsed. There was no warning at all.
+
+[doctor] Okay, thank you for that information. Did he complain of any symptoms before he collapsed, like chest pain or shortness of breath?
+
+[patient's family member] No, he didn’t say anything. He just suddenly fell.
+
+[doctor] I see. Does he have any known medical conditions?
+
+[patient's family member] Yes, he has hypertension and Type 2 Diabetes Mellitus.
+
+[doctor] And how has he been managing these conditions? Is he taking his medications regularly?
+
+[patient's family member] Honestly, he hasn’t been very good about following medical advice. He skips medications sometimes and doesn't eat very healthily.
+
+[doctor] Understood. Can you tell me more about his lifestyle?
+
+[patient's family member] He leads a pretty sedentary lifestyle. He’s retired and spends most of his time at home. His diet is not great; he eats a lot of processed foods. He also smokes a pack of cigarettes a day and drinks socially.
+
+[doctor] Does he use any illicit drugs?
+
+[patient's family member] No, he doesn't use any drugs.
+
+[doctor] Okay, thank you. And does he have a family history of heart problems?
+
+[patient's family member] Yes, his father had a myocardial infarction at age 55.
+
+[doctor] Okay, let's go through his physical examination results. On examination, we found that he had no detectable pulse and no spontaneous breathing. He was unresponsive, with cyanosis and non-reactive pupils. We have already initiated CPR and intubation.
+
+[patient's family member] Oh my, that sounds serious.
+
+[doctor] Yes, it is. We also ordered an EKG to monitor his heart rhythm and blood work to check his electrolyte levels and troponin, as well as a complete blood count.
+
+[patient's family member] What do those tests check for?
+
+[doctor] The EKG will help us understand his heart rhythm, and the blood work will give us information about his overall health, including his heart function and any potential electrolyte imbalances.
+
+[patient's family member] I see, thank you.
+
+[doctor] We have also administered intravenous epinephrine to help stimulate his heart. Right now, he is being referred to Dr. John Smith, a cardiologist, for further evaluation.
+
+[patient's family member] Will he be okay?
+
+[doctor] It's difficult to say at this moment. He’s being admitted to the Intensive Care Unit for continuous monitoring and advanced cardiac life support. We are doing everything we can.
+
+[patient's family member] Thank you, Doctor.
+
+[doctor] You're welcome. We will keep you updated on any changes in his condition. Do you have any questions right now?
+
+[patient's family member] No, I just hope he pulls through.
+
+[doctor] We are doing our best. We will continue to monitor him closely and provide the necessary care. If you think of any questions later, please don't hesitate to ask.
+
+[patient's family member] Thank you, Doctor.
+
+[doctor] You're welcome. We'll be in touch soon."|"[doctor]: Hi, I'm Dr. Johnson. Can you tell me what happened leading up to your sudden collapse?
+
+[patient]: Hey, Doc. I was just sitting in the living room, and then, boom, I blacked out. No warning at all.
+
+[doctor]: Hmm, okay. Did you feel anything unusual before you collapsed? Like chest pain or trouble breathing?
+
+[patient]: Nope, nothing. It just happened out of the blue.
+
+[doctor]: Got it. Do you have any known medical conditions?
+
+[patient]: Yeah, I have high blood pressure and diabetes.
+
+[doctor]: And how have you been managing these conditions? Are you taking your medications regularly?
+
+[patient]: To be honest, not really. I skip my meds sometimes and my diet isn't the best.
+
+[doctor]: Alright, I understand. Can you tell me more about your lifestyle?
+
+[patient]: Well, I don't move around much since I retired. I eat a lot of junk food, smoke a pack a day, and drink socially now and then.
+
+[doctor]: Do you use any illicit drugs?
+
+[patient]: Nah, I don’t touch that stuff.
+
+[doctor]: Okay, thank you. And does anyone in your family have a history of heart problems?
+
+[patient]: Yeah, my dad had a heart attack when he was 55.
+
+[doctor]: Alright, let's go over your physical examination results. When you arrived, we found no pulse and no spontaneous breathing. You were unresponsive, had cyanosis, and your pupils were non-reactive. We immediately started CPR and intubation.
+
+[patient]: Oh wow, that sounds bad.
+
+[doctor]: Yes, it is quite serious. We also ordered an EKG to monitor your heart rhythm and blood work to check your electrolyte levels, troponin, and a complete blood count.
+
+[patient]: What are those tests for?
+
+[doctor]: The EKG will help us understand your heart rhythm, and the blood work will provide information about your overall health, including heart function and any electrolyte imbalances.
+
+[patient]: Got it, thanks.
+
+[doctor]: We also administered intravenous epinephrine to stimulate your heart. You are being referred to Dr. John Smith, a cardiologist, for further evaluation.
+
+[patient]: Will I be okay?
+
+[doctor]: It's hard to say right now. You’re being admitted to the Intensive Care Unit for continuous monitoring and advanced cardiac life support. We are doing everything we can.
+
+[patient]: Thank you, Doctor.
+
+[doctor]: You're welcome. We will keep you updated on any changes in your condition. Do you have any questions right now?
+
+[patient]: No, I just hope I pull through.
+
+[doctor]: We are doing our best. We will continue to monitor you closely and provide the necessary care. If you think of any questions later, please don't hesitate to ask.
+
+[patient]: Thanks, Doc.
+
+[doctor]: You're welcome. We'll be in touch soon."
+CARDIAC ARREST, CAUSE UNSPECIFIED|"**ROLE:** Emergency Medicine Physician
+
+1. **Medical Outcome:**
+   - Diagnosis: Cardiac Arrest, Cause Unspecified
+   - Intervention: Cardiopulmonary resuscitation (CPR), defibrillation, administration of intravenous fluids
+   - Medications Administered:
+     - Epinephrine 1 mg IV, repeated every 3-5 minutes
+     - Magnesium Sulfate 2 grams IV for potential hypomagnesemia
+   - Follow-up recommendations: Transfer to Intensive Care Unit, order for a 24-hour Holter monitor upon stabilization
+   - Blood Work: Complete Blood Count (CBC), Basic Metabolic Panel (BMP), Magnesium levels, Troponin levels
+   - Imaging: Urgent Computed Tomography (CT) scan of the chest to rule out pulmonary embolism
+
+2. **Medical History:**
+   - Previous Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), Hyperthyroidism
+   - Family Medical History: Mother had breast cancer, father died of a stroke at 70
+   - Medication History: Albuterol inhaler as needed, Levothyroxine 75 mcg daily
+   - Allergies: Latex
+   - Chronic Conditions: COPD, Hyperthyroidism
+
+3. **Symptom Description:**
+   - Severity: Severe, patient collapsed and unresponsive
+   - Duration: The episode began 20 minutes before arrival
+   - Associated Symptoms: Shortness of breath, cyanosis before collapsing
+   - Frequency: First episode
+   - Impact on Daily Activities: Complete incapacity
+
+4. **Patient’s self-reported habits and lifestyle:**
+   - Sleep: Reports 7-8 hours/night, but interrupted by frequent coughing
+   - Diet: Low-carb diet, tries to avoid sugary foods
+   - Exercise: Occasional walks, limited mobility due to COPD
+   - Tobacco Use: Smoked 1 pack/day for 30 years, quit 10 years ago
+   - Alcohol Consumption: Rarely drinks, 1-2 drinks/month
+   - Drug Use: Denies recreational drug use
+   - Recreational Activities: Enjoys knitting and watching television
+
+5. **Demographic Information:**
+   - Age: 72
+   - Gender: Female
+   - Ethnicity: White
+   - Socio-economic Status: Lower-middle income
+   - Education Level: Bachelor's Degree
+   - Health Literacy: High
+   - Job Status: Retired librarian
+
+6. **Patient's Behavior:**
+   - Cooperation with Medical Advice: Generally compliant, follows up with regular doctor appointments
+
+7. **Geographical Location:**
+   - Big City vs. Small City: Big City
+   - Urban Environment
+   - Pollution and Environmental Health Risks: High pollution due to industrial activities
+   - Neighborhood Type: Low-income neighborhood, limited access to healthy food options, some crime issues
+
+8. **Clinical Setting:**
+   - Emergency Department
+
+9. **Type of Encounter:**
+   - Emergency Visit
+
+10. **Treatment Disparities:**
+   - May have limited access to follow-up care due to socioeconomic status and geographical location
+
+11. **Native or Non-Native English Speaking Patient:**
+   - Non-Native English Speaker, primary language is Spanish
+
+12. **Physical exams:**
+   - Cardiovascular: No pulse detected, immediate defibrillation performed
+   - Neurological: Unresponsive, Glasgow Coma Scale: 3
+   - Respiratory: No breathing detected, cyanosis, intubated for airway management
+
+13. **Investigation/Test results:**
+   - Blood Work: CBC, BMP, Magnesium levels, Troponin levels (awaiting results)
+   - Imaging: CT scan of the chest (awaiting performance and results)"|"#### Medical Note
+
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+The patient, a 72-year-old female, was brought to the Emergency Department after collapsing and becoming unresponsive at home 20 minutes prior to arrival.
+
+**History of Present Illness (HPI):**
+The patient has a history of Chronic Obstructive Pulmonary Disease (COPD) and Hyperthyroidism. The collapse was preceded by shortness of breath and cyanosis. This is her first episode of such severity. The patient has been compliant with her medications but has interrupted sleep due to frequent coughing.
+
+**Review of Systems (ROS):**
+- **Constitutional:** No fever, weight stable.
+- **Respiratory:** Shortness of breath, cyanosis before collapse.
+- **Cardiovascular:** Unresponsive, no pulse detected upon arrival.
+- **Gastrointestinal:** Denies nausea, vomiting.
+- **Neurological:** Unresponsive, GCS of 3.
+- **Other Systems:** Negative.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: Not measurable pre-resuscitation
+- Heart Rate: No pulse detected initially
+- Respiratory Rate: Apneic
+- Oxygen Saturation: Not measurable pre-resuscitation
+
+**Physical Examination:**
+- **General:** Unresponsive, cyanotic.
+- **Cardiovascular:** No detectable pulse, immediate defibrillation performed.
+- **Respiratory:** No spontaneous respiration, patient intubated for airway management.
+- **Neurological:** Unresponsive, Glasgow Coma Scale (GCS): 3.
+- **Skin:** Cyanosis noted.
+
+**Diagnostic Studies:**
+- **Blood Work:** CBC, BMP, Magnesium levels, Troponin levels (awaiting results)
+- **Imaging:** CT scan of the chest ordered to rule out pulmonary embolism (awaiting performance and results)
+
+**3. Assessment:**
+- Cardiac arrest, cause unspecified
+- Potential hypomagnesemia
+- Consideration of pulmonary embolism
+
+**4. Plan:**
+- Continue cardiopulmonary resuscitation (CPR) and defibrillation as needed.
+- Administer Epinephrine 1 mg IV every 3-5 minutes during resuscitation.
+- Administer Magnesium Sulfate 2 grams IV to address potential hypomagnesemia.
+- Transfer to Intensive Care Unit upon stabilization.
+- Order a 24-hour Holter monitor post-stabilization to assess for arrhythmias.
+- Monitor and await CBC, BMP, Magnesium levels, and Troponin levels.
+- Perform urgent CT scan of the chest to rule out pulmonary embolism.
+- Ensure follow-up care plan considering patient's socioeconomic status and language barriers; provide translation services and connect with social worker for coordination of care.
+- Provide discharge instructions to the ICU team regarding the patient's history of COPD and Hyperthyroidism, emphasizing the need for tailored respiratory support and continuous monitoring.
+
+**Instructions:**
+- Continue all current life-saving measures.
+- Ensure close communication with the ICU team upon patient's transfer.
+- Update the patient's family about the current situation and ongoing interventions.
+- Engage hospital social services to assist with potential disparities in follow-up care due to socioeconomic and geographical factors."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+The patient, Mrs. Eleanor Smith, a 72-year-old female, was brought to the Emergency Department after collapsing and becoming unresponsive at home 20 minutes prior to arrival.
+
+**History of Present Illness (HPI):**
+The patient has a history of Chronic Obstructive Pulmonary Disease (COPD) and Hyperthyroidism. The collapse was preceded by shortness of breath and cyanosis. This is her first episode of such severity. The patient has been compliant with her medications but has interrupted sleep due to frequent coughing.
+
+**Review of Systems (ROS):**
+- **Constitutional:** No fever, weight stable.
+- **Respiratory:** Shortness of breath, cyanosis before collapse.
+- **Cardiovascular:** Unresponsive, no pulse detected upon arrival.
+- **Gastrointestinal:** Denies nausea, vomiting.
+- **Neurological:** Unresponsive, GCS of 3.
+- **Other Systems:** Negative.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: Not measurable pre-resuscitation
+- Heart Rate: No pulse detected initially
+- Respiratory Rate: Apneic
+- Oxygen Saturation: Not measurable pre-resuscitation
+
+**Physical Examination:**
+- **General:** Unresponsive, cyanotic.
+- **Cardiovascular:** No detectable pulse, immediate defibrillation performed.
+- **Respiratory:** No spontaneous respiration, patient intubated for airway management.
+- **Neurological:** Unresponsive, Glasgow Coma Scale (GCS): 3.
+- **Skin:** Cyanosis noted.
+
+**Diagnostic Studies:**
+- **Blood Work:** CBC, BMP, Magnesium levels, Troponin levels (awaiting results)
+
+**3. Assessment:**
+- Cardiac arrest, cause unspecified
+- Potential hypomagnesemia
+- Consideration of pulmonary embolism
+
+**4. Plan:**
+- Continue cardiopulmonary resuscitation (CPR) and defibrillation as needed.
+- Administer Epinephrine 1 mg IV every 3-5 minutes during resuscitation.
+- Administer Magnesium Sulfate 2 grams IV to address potential hypomagnesemia.
+- Transfer to Intensive Care Unit upon stabilization.
+- Order a 24-hour Holter monitor post-stabilization to assess for arrhythmias.
+- Monitor and await CBC, BMP, Magnesium levels, and Troponin levels.
+- Perform urgent CT scan of the chest to rule out pulmonary embolism.
+- Ensure follow-up care plan considering patient's socioeconomic status and language barriers; provide translation services and connect with social worker for coordination of care.
+- Provide discharge instructions to the ICU team regarding the patient's history of COPD and Hyperthyroidism, emphasizing the need for tailored respiratory support and continuous monitoring.
+- Engage hospital social services to assist with potential disparities in follow-up care due to socioeconomic and geographical factors."|"**1. Subjective:**
+
+**CC:**
+The pt, Mrs. Eleanor Smith, a 72 y/o F, was brought to the ED after collapsing and becoming unresponsive at home 20 mins PTA.
+
+**HPI:**
+The pt has a hx of COPD and hyperthyroidism. The collapse was preceded by SOB and cyanosis. This is her first episode of such severity. The pt has been compliant with her meds but has interrupted sleep due to frequent coughing.
+
+**ROS:**
+- **Constitutional:** No fever, weight stable.
+- **Respiratory:** SOB, cyanosis before collapse.
+- **Cardiovascular:** Unresponsive, no pulse detected upon arrival.
+- **Gastrointestinal:** Denies N/V.
+- **Neurological:** Unresponsive, GCS of 3.
+- **Other Systems:** Negative.
+
+**2. Objective:**
+
+**VS:**
+- BP: Not measurable pre-resuscitation
+- HR: No pulse detected initially
+- RR: Apneic
+- O2 Sat: Not measurable pre-resuscitation
+
+**PE:**
+- **General:** Unresponsive, cyanotic.
+- **CV:** No detectable pulse, immediate defib performed.
+- **Resp:** No spontaneous respiration, pt intubated for airway mgmt.
+- **Neuro:** Unresponsive, GCS: 3.
+- **Skin:** Cyanosis noted.
+
+**Diagnostic Studies:**
+- **Labs:** CBC, BMP, Mg levels, Troponin levels (awaiting results)
+
+**3. Assessment:**
+- Cardiac arrest, cause unspecified
+- Potential hypomagnesemia
+- Consideration of PE
+
+**4. Plan:**
+- Continue CPR and defib as needed.
+- Admin Epi 1 mg IV q3-5 mins during resuscitation.
+- Admin MgSO4 2 g IV to address potential hypomagnesemia.
+- Transfer to ICU upon stabilization.
+- Order a 24-hr Holter monitor post-stabilization to assess for arrhythmias.
+- Monitor and await CBC, BMP, Mg levels, and Troponin levels.
+- Perform urgent CT chest to r/o PE.
+- Ensure follow-up care plan considering pt's socioeconomic status and language barriers; provide translation services and connect with SW for coordination of care.
+- Provide discharge instructions to the ICU team regarding the pt's hx of COPD and hyperthyroidism, emphasizing the need for tailored respiratory support and continuous monitoring.
+- Engage hospital social services to assist with potential disparities in follow-up care due to socioeconomic and geographical factors."|Role not found in the first 5 lines.|"**Doctor:** Hi there, I understand you're the one who brought in the patient. Can you tell me what happened?
+
+**Family Member:** Yes, she's my mother. She collapsed and became unresponsive at home about 20 minutes ago. It was really scary!
+
+**Doctor:** I'm sorry to hear that. Did anything happen before she collapsed?
+
+**Family Member:** Yes, she was having trouble breathing and looked really blue around her lips just before she collapsed.
+
+**Doctor:** Okay, so she had shortness of breath and cyanosis before collapsing. Has she ever had an episode like this before?
+
+**Family Member:** No, this is the first time something this serious has happened.
+
+**Doctor:** Alright. Does she have any medical conditions that we should be aware of?
+
+**Family Member:** Yes, she has Chronic Obstructive Pulmonary Disease and Hyperthyroidism.
+
+**Doctor:** Got it. Is she taking any medications for those conditions?
+
+**Family Member:** Yes, she's been compliant with her medications.
+
+**Doctor:** That's good to know. Has she been experiencing any other symptoms lately, like fever or weight loss?
+
+**Family Member:** No, her weight has been stable and she hasn’t had any fever.
+
+**Doctor:** How about her sleep? Has she had any trouble sleeping?
+
+**Family Member:** Yes, she often wakes up because of frequent coughing.
+
+**Doctor:** Thank you for sharing that. I need to ask a few more questions to get a complete picture. Has she had any nausea or vomiting?
+
+**Family Member:** No, she hasn’t had any nausea or vomiting.
+
+**Doctor:** And her neurological status before she collapsed—was she alert and oriented?
+
+**Family Member:** Yes, she was fine before the shortness of breath started.
+
+**Doctor:** Okay. When she collapsed, did you check if she had a pulse?
+
+**Family Member:** Yes, we couldn’t find a pulse.
+
+**Doctor:** I see. Was she breathing at all when you found her?
+
+**Family Member:** No, she wasn’t breathing.
+
+**Doctor:** Thank you for all this information. We are currently performing cardiopulmonary resuscitation on her. For now, let me update you on what we are doing.
+
+**Doctor:** Her vital signs were not measurable when she arrived. She had no detectable pulse, was not breathing, and her oxygen saturation was not measurable. We've intubated her and started immediate defibrillation.
+
+**Family Member:** Oh my God. Is she going to be okay?
+
+**Doctor:** We are doing everything we can. We have also ordered some blood work, including a Complete Blood Count, Basic Metabolic Panel, Magnesium levels, and Troponin levels. We're awaiting those results.
+
+**Family Member:** What are you looking for with those tests?
+
+**Doctor:** We want to check for any underlying issues like electrolyte imbalances or cardiac events that might have contributed to her collapse.
+
+**Family Member:** Okay, that makes sense.
+
+**Doctor:** We’ve also ordered a CT scan of her chest to rule out a pulmonary embolism, which is a blockage in one of the pulmonary arteries in her lungs.
+
+**Family Member:** Is that serious?
+
+**Doctor:** It can be, but we’re covering all bases to identify the cause of her collapse. We’ve also administered Epinephrine and Magnesium Sulfate during resuscitation to support her heart and address potential hypomagnesemia, which is low magnesium levels.
+
+**Family Member:** What else will you do for her?
+
+**Doctor:** Once she is stabilized, we’ll transfer her to the Intensive Care Unit. We will also order a 24-hour Holter monitor to assess for any arrhythmias. This will help us understand if there are any irregular heartbeats that we need to address.
+
+**Family Member:** I see.
+
+**Doctor:** We’ll continue to monitor her blood work results and the CT scan results to guide further treatment. Additionally, we’ll ensure that the ICU team is well-informed about her history of COPD and Hyperthyroidism for tailored respiratory support and continuous monitoring.
+
+**Family Member:** Thank you for explaining everything.
+
+**Doctor:** You're welcome. We’ll update you regularly on her condition. Do you have any other questions or concerns?
+
+**Family Member:** No, just please do everything you can.
+
+**Doctor:** Absolutely. We are also engaging our hospital social services to assist with potential disparities in follow-up care due to socioeconomic and geographical factors. We’ll provide translation services and connect with a social worker for coordination of her ongoing care.
+
+**Family Member:** Thank you. I appreciate that.
+
+**Doctor:** We will keep you informed every step of the way. If you need anything or have any questions, please don’t hesitate to ask.
+
+**Family Member:** Alright, thank you again.
+
+**Doctor:** You’re welcome. We’re here to help."|"[doctor]: Hi there, I understand you're the one who brought in the patient. Can you tell me what happened?
+
+[family member]: Yes, she's my mother. She collapsed and became unresponsive at home about 20 minutes ago. It was really scary!
+
+[doctor]: I'm sorry to hear that. Did anything happen before she collapsed?
+
+[family member]: Yes, she was having trouble breathing and looked really blue around her lips just before she collapsed.
+
+[doctor]: Okay, so she had shortness of breath and cyanosis before collapsing. Has she ever had an episode like this before?
+
+[family member]: No, this is the first time something this serious has happened.
+
+[doctor]: Alright. Does she have any medical conditions that we should be aware of?
+
+[family member]: Yes, she has Chronic Obstructive Pulmonary Disease and Hyperthyroidism.
+
+[doctor]: Got it. Is she taking any medications for those conditions?
+
+[family member]: Yes, she's been compliant with her medications.
+
+[doctor]: That's good to know. Has she been experiencing any other symptoms lately, like fever or weight loss?
+
+[family member]: No, her weight has been stable and she hasn’t had any fever.
+
+[doctor]: How about her sleep? Has she had any trouble sleeping?
+
+[family member]: Yes, she often wakes up because of frequent coughing.
+
+[doctor]: Thank you for sharing that. I need to ask a few more questions to get a complete picture. Has she had any nausea or vomiting?
+
+[family member]: No, she hasn’t had any nausea or vomiting.
+
+[doctor]: And her neurological status before she collapsed—was she alert and oriented?
+
+[family member]: Yes, she was fine before the shortness of breath started.
+
+[doctor]: Okay. When she collapsed, did you check if she had a pulse?
+
+[family member]: Yes, we couldn’t find a pulse.
+
+[doctor]: I see. Was she breathing at all when you found her?
+
+[family member]: No, she wasn’t breathing.
+
+[doctor]: Thank you for all this information. We are currently performing cardiopulmonary resuscitation on her. For now, let me update you on what we are doing.
+
+[doctor]: Her vital signs were not measurable when she arrived. She had no detectable pulse, was not breathing, and her oxygen saturation was not measurable. We've intubated her and started immediate defibrillation.
+
+[family member]: Oh my God. Is she going to be okay?
+
+[doctor]: We are doing everything we can. We have also ordered some blood work, including a Complete Blood Count, Basic Metabolic Panel, Magnesium levels, and Troponin levels. We're awaiting those results.
+
+[family member]: What are you looking for with those tests?
+
+[doctor]: We want to check for any underlying issues like electrolyte imbalances or cardiac events that might have contributed to her collapse.
+
+[family member]: Okay, that makes sense.
+
+[doctor]: We’ve also ordered a CT scan of her chest to rule out a pulmonary embolism, which is a blockage in one of the pulmonary arteries in her lungs.
+
+[family member]: Is that serious?
+
+[doctor]: It can be, but we’re covering all bases to identify the cause of her collapse. We’ve also administered Epinephrine and Magnesium Sulfate during resuscitation to support her heart and address potential hypomagnesemia, which is low magnesium levels.
+
+[family member]: What else will you do for her?
+
+[doctor]: Once she is stabilized, we’ll transfer her to the Intensive Care Unit. We will also order a 24-hour Holter monitor to assess for any arrhythmias. This will help us understand if there are any irregular heartbeats that we need to address.
+
+[family member]: I see.
+
+[doctor]: We’ll continue to monitor her blood work results and the CT scan results to guide further treatment. Additionally, we’ll ensure that the ICU team is well-informed about her history of COPD and Hyperthyroidism for tailored respiratory support and continuous monitoring.
+
+[family member]: Thank you for explaining everything.
+
+[doctor]: You're welcome. We’ll update you regularly on her condition. Do you have any other questions or concerns?
+
+[family member]: No, just please do everything you can.
+
+[doctor]: Absolutely. We are also engaging our hospital social services to assist with potential disparities in follow-up care due to socioeconomic and geographical factors. We’ll provide translation services and connect with a social worker for coordination of her ongoing care.
+
+[family member]: Thank you. I appreciate that.
+
+[doctor]: We will keep you informed every step of the way. If you need anything or have any questions, please don’t hesitate to ask.
+
+[family member]: Alright, thank you again.
+
+[doctor]: You’re welcome. We’re here to help."
+CARDIAC ARREST, CAUSE UNSPECIFIED|"ROLE: Emergency Medicine Physician
+
+** 1) Medical Outcome: **
+   - Diagnosis: Cardiac arrest, cause unspecified (ICD-10: I46.9)
+   - Prescribed Treatment: 
+     - Medication: Epinephrine 1 mg IV push, repeat every 3-5 minutes during resuscitation.
+     - Medication: Amiodarone 300 mg IV bolus if refractory to defibrillation.
+   - Follow-up recommendations: Follow-up visit within one week.
+   - Referral: 
+     - Reason for referral: Post-resuscitation care and electrophysiological evaluation.
+     - Specialty: Electrophysiologist.
+     - Doctor's Name: Dr. Emily Brown.
+   - Imaging: Brain CT scan without contrast to rule out hypoxic encephalopathy.
+   - Blood Work: Troponin I, Basic metabolic panel (BMP), Arterial blood gas (ABG).
+
+** 2) Medical History: **
+   - Previous Diagnoses: Hyperlipidemia, Rheumatoid Arthritis.
+   - Family Medical History: Stroke in mother, Type 1 Diabetes in brother.
+   - Medication History: Atorvastatin 20 mg once daily, Methotrexate 15 mg weekly.
+   - Allergies: NSAIDs.
+   - Chronic Conditions: Hyperlipidemia, Rheumatoid Arthritis.
+
+** 3) Symptom Description: **
+   - Severity: Sudden collapse, unresponsive.
+   - Duration: Immediate onset during grocery shopping.
+   - Associated Symptoms: Witnesses reported brief chest pain before collapse.
+   - Frequency: First occurrence.
+   - Impact on Daily Activities: Unable to perform any activities.
+
+** 4) Patient’s self-reported habits and lifestyle: **
+   - Sleep: Poor, frequently wakes up at night due to joint pain.
+   - Diet: High cholesterol diet, frequently consumes red meat and fried foods.
+   - Exercise: Irregular, occasional walking.
+   - Tobacco Use: Never smoked.
+   - Alcohol Consumption: Drinks wine three times a week.
+   - Drug Use: None reported.
+   - Recreational Activities: Enjoys cooking and reading.
+
+** 5) Demographic Information: **
+   - Age: 61
+   - Gender: Male
+   - Ethnicity: Asian
+   - Socio-economic Status: Middle-class
+   - Education Level: Master’s degree
+   - Health Literacy: Good understanding of health-related information.
+   - Job Status: Retired engineer
+
+** 6) Patient's Behavior: **
+   - The level of patient's cooperation with medical advice: Generally good but inconsistent with dietary advice.
+
+** 7) Geographical Location: **
+   - Big City vs Small City: Big City
+   - Rural vs Urban: Urban
+   - Pollution and Environmental Health Risks: Moderate pollution.
+   - Neighborhood Type: Middle-income neighborhood.
+   - Well-served by Transit: Yes 
+   - Food Desert: No
+
+** 8) Clinical Setting: **
+   - Emergency Room (ER)
+
+** 9) Type of Encounter: **
+   - Emergency Visit
+
+** 10) Treatment Disparities: **
+   - None identified.
+
+** 11) Native or Non-Native English Speaking Patient: **
+   - Non-Native English Speaking Patient (Primary language: Mandarin)
+
+** 12) Physical exams: **
+   - CONSTITUTIONAL: Patient found unresponsive.
+   - CV: No palpable pulse, immediate CPR initiated.
+   - RESPIRATORY: Not breathing, intubation performed.
+   - GI/GU: NA
+   - SKIN: Cyanotic, cool extremities.
+
+** 13) Investigation/Test results: **
+   - Initial ECG: Ventricular fibrillation.
+   - Brain CT: Awaiting results.
+   - Blood Work: Awaiting results of Troponin I, Basic metabolic panel (BMP), Arterial blood gas (ABG)."|"#####
+**Subjective:**
+
+**Chief Complaint (CC)**
+Sudden collapse and unresponsiveness.
+
+**History of Present Illness (HPI)**
+A 61-year-old Asian male, non-native English speaker (primary language: Mandarin), presented to the Emergency Room (ER) after a sudden collapse while grocery shopping. Witnesses reported the patient experienced brief chest pain before collapsing. This is the first occurrence of such an event. The patient was found unresponsive and not breathing upon EMS arrival. The patient's medical history includes hyperlipidemia and rheumatoid arthritis. He has been experiencing poor sleep, frequently disrupts his nightly rest due to joint pain, and follows a high cholesterol diet with irregular exercise habits. He never smoked, occasionally drinks wine, and has no history of drug use.
+
+**Review of Systems (ROS)**
+- **Constitutional:** Unresponsive at presentation.
+- **Cardiovascular:** Brief chest pain reported by witnesses before collapse.
+- **Respiratory:** Not breathing upon EMS arrival, intubation performed.
+- **Gastrointestinal/Genitourinary:** Not applicable.
+- **Skin:** Cyanotic, cool extremities.
+
+**Objective:**
+- **CONSTITUTIONAL:** Patient found unresponsive, cyanotic with cool extremities.
+- **CV:** No palpable pulse, immediate CPR initiated.
+- **RESPIRATORY:** Not breathing, intubation performed.
+- **GI/GU:** Not applicable.
+- **SKIN:** Cyanotic, cool extremities.
+
+**Investigation/Test results:**
+- **Initial ECG:** Ventricular fibrillation.
+- **Brain CT:** Awaiting results to rule out hypoxic encephalopathy.
+- **Blood Work:** Awaiting results for Troponin I, Basic metabolic panel (BMP), Arterial blood gas (ABG).
+
+**Assessment:**
+- Cardiac arrest, cause unspecified (ICD-10: I46.9).
+
+**Plan:**
+- **Medication:** Administer Epinephrine 1 mg IV push, repeat every 3-5 minutes during resuscitation.
+- **Medication:** Administer Amiodarone 300 mg IV bolus if refractory to defibrillation.
+- **Imaging:** Perform Brain CT scan without contrast to rule out hypoxic encephalopathy.
+- **Blood Work:** Order Troponin I, Basic metabolic panel (BMP), Arterial blood gas (ABG).
+- **Referral:** Post-resuscitation care and electrophysiological evaluation by Dr. Emily Brown, Electrophysiologist.
+- **Follow-up recommendations:** Schedule a follow-up visit within one week for further evaluation and management."|"**Subjective:**
+
+**Chief Complaint (CC)**
+Sudden collapse and unresponsiveness.
+
+**History of Present Illness (HPI)**
+A 61-year-old Asian male, non-native English speaker (primary language: Mandarin), presented to the Emergency Room (ER) after a sudden collapse while grocery shopping. Witnesses reported the patient experienced brief chest pain before collapsing. This is the first occurrence of such an event. The patient was found unresponsive and not breathing upon EMS arrival. The patient's medical history includes hyperlipidemia and rheumatoid arthritis. He has been experiencing poor sleep, frequently disrupts his nightly rest due to joint pain, and follows a high cholesterol diet with irregular exercise habits. He never smoked, occasionally drinks wine, and has no history of drug use.
+
+**Review of Systems (ROS)**
+- **Constitutional:** Unresponsive at presentation.
+- **Cardiovascular:** Brief chest pain reported by witnesses before collapse.
+- **Respiratory:** Not breathing upon EMS arrival, intubation performed.
+- **Gastrointestinal/Genitourinary:** Not applicable.
+- **Skin:** Cyanotic, cool extremities.
+
+**Objective:**
+- **CONSTITUTIONAL:** Patient found unresponsive, cyanotic with cool extremities.
+- **CV:** No palpable pulse, immediate CPR initiated.
+- **RESPIRATORY:** Not breathing, intubation performed.
+- **GI/GU:** Not applicable.
+- **SKIN:** Cyanotic, cool extremities.
+
+**Investigation/Test results:**
+- **Initial ECG:** Ventricular fibrillation.
+- **Brain CT:** Awaiting results to rule out hypoxic encephalopathy.
+- **Blood Work:** Awaiting results for Troponin I, Basic metabolic panel (BMP), Arterial blood gas (ABG).
+
+**Assessment:**
+- Cardiac arrest, cause unspecified (ICD-10: I46.9).
+
+**Plan:**
+- **Medication:** Administer Epinephrine 1 mg IV push, repeat every 3-5 minutes during resuscitation.
+- **Medication:** Administer Amiodarone 300 mg IV bolus if refractory to defibrillation.
+- **Imaging:** Perform Brain CT scan without contrast to rule out hypoxic encephalopathy.
+- **Blood Work:** Order Troponin I, Basic metabolic panel (BMP), Arterial blood gas (ABG).
+- **Referral:** Post-resuscitation care and electrophysiological evaluation by Dr. Emily Brown, Electrophysiologist.
+- **Follow-up recommendations:** Schedule a follow-up visit within one week for further evaluation and management."|"**Subjective:**
+
+**CC**
+Sudden collapse and unresponsiveness.
+
+**HPI**
+A 61-year-old Asian male, non-native English speaker (primary language: Mandarin), presented to the ER after a sudden collapse while grocery shopping. Witnesses reported the pt experienced brief CP before collapsing. This is the first occurrence of such an event. The pt was found unresponsive and apneic upon EMS arrival. The pt's PMH includes HLD and RA. He has been experiencing poor sleep, frequently disrupts his nightly rest due to joint pain, and follows a high cholesterol diet with irregular exercise habits. He never smoked, occasionally drinks wine, and has no hx of drug use.
+
+**ROS**
+- **Constitutional:** Unresponsive at presentation.
+- **CV:** Brief CP reported by witnesses before collapse.
+- **Resp:** Apneic upon EMS arrival, intubation performed.
+- **GI/GU:** N/A.
+- **Skin:** Cyanotic, cool extremities.
+
+**Objective:**
+- **CONSTITUTIONAL:** Pt found unresponsive, cyanotic with cool extremities.
+- **CV:** No palpable pulse, immediate CPR initiated.
+- **RESP:** Apneic, intubation performed.
+- **GI/GU:** N/A.
+- **SKIN:** Cyanotic, cool extremities.
+
+**Investigation/Test results:**
+- **Initial ECG:** V-fib.
+- **Brain CT:** Awaiting results to r/o hypoxic encephalopathy.
+- **Blood Work:** Awaiting results for Troponin I, BMP, ABG.
+
+**Assessment:**
+- Cardiac arrest, cause unspecified (ICD-10: I46.9).
+
+**Plan:**
+- **Med:** Administer Epi 1 mg IV push, repeat q3-5min during resuscitation.
+- **Med:** Administer Amio 300 mg IV bolus if refractory to defibrillation.
+- **Imaging:** Perform Brain CT scan w/o contrast to r/o hypoxic encephalopathy.
+- **Blood Work:** Order Troponin I, BMP, ABG.
+- **Referral:** Post-resuscitation care and electrophysiological eval by Dr. Emily Brown, EP.
+- **F/U recommendations:** Schedule a f/u visit within one week for further eval and mgmt."|Emergency Medicine Physician|"**Chief Complaint:**
+
+**Doctor:** Hello. How are you feeling today?
+
+**Patient:** I don't remember much. I was told I collapsed while grocery shopping.
+
+**Doctor:** Yes, you had a sudden collapse and were unresponsive. Can you tell me if you remember feeling anything unusual before you collapsed?
+
+**Patient:** I don't recall much. I think I felt a brief chest pain, but then everything went black.
+
+**Doctor:** Alright, let's start from the beginning. You mentioned you felt chest pain before collapsing. Did the pain come on suddenly?
+
+**Patient:** Yes, it was very sudden.
+
+**Doctor:** How would you describe the chest pain? Was it sharp, dull, or something else?
+
+**Patient:** It was sharp, like a stabbing pain.
+
+**Doctor:** Did the pain radiate to other parts of your body, like your arms or jaw?
+
+**Patient:** No, it was just in my chest.
+
+**History of Present Illness:**
+
+**Doctor:** Alright. This is the first time something like this has happened to you?
+
+**Patient:** Yes, I've never collapsed before.
+
+**Doctor:** I see. When the Emergency Medical Services arrived, you were unresponsive and not breathing. They had to perform intubation. Do you have any recollection of this?
+
+**Patient:** No, I don't remember anything after the chest pain.
+
+**Doctor:** Alright, let's talk about your medical history. You have hyperlipidemia and rheumatoid arthritis, correct?
+
+**Patient:** Yes, I've had both for a few years now.
+
+**Doctor:** How are you managing your hyperlipidemia? Are you taking any medications for it?
+
+**Patient:** Yes, I take medication daily, but I don't remember the name.
+
+**Doctor:** How about your rheumatoid arthritis? Are you on any specific treatment for that?
+
+**Patient:** I take medication for that too, but the pain still wakes me up at night.
+
+**Doctor:** So, you have been experiencing poor sleep due to joint pain?
+
+**Patient:** Yes, I often wake up because of the pain.
+
+**Doctor:** How's your diet? Are you following any specific dietary recommendations?
+
+**Patient:** Not really. I eat whatever I want, but I know my diet isn't the best. I like foods high in cholesterol.
+
+**Doctor:** And how often do you exercise?
+
+**Patient:** I exercise irregularly. Sometimes I go weeks without exercising.
+
+**Doctor:** Do you smoke or use any recreational drugs?
+
+**Patient:** No, I've never smoked or used drugs.
+
+**Doctor:** How about alcohol? Do you drink?
+
+**Patient:** I occasionally drink wine, but not very often.
+
+**Review of Systems:**
+
+**Doctor:** Let's go through a quick review of systems. Were you experiencing any other symptoms before the collapse?
+
+**Patient:** No, just the chest pain.
+
+**Doctor:** Okay. You were unresponsive when EMS arrived, and they reported you were not breathing. Your extremities were cool and cyanotic. Do you remember any of that?
+
+**Patient:** No, I don't remember anything after feeling the chest pain.
+
+**Doctor:** Did you have any gastrointestinal or genitourinary symptoms, like stomach pain or issues with urination?
+
+**Patient:** No, not that I can recall.
+
+**Doctor:** Alright, let's move on to the physical exam and test results.
+
+**Objective:**
+
+**Doctor:** Your vital signs were taken upon arrival. You were unresponsive and cyanotic with cool extremities. We couldn't feel a pulse, so immediate CPR was initiated. You were not breathing, and intubation was performed. Your initial ECG showed ventricular fibrillation.
+
+**Patient:** That's a lot to take in. What does it all mean?
+
+**Doctor:** Ventricular fibrillation is a severe cardiac rhythm disturbance. It means your heart was not beating effectively, which is why you collapsed and were unresponsive.
+
+**Patient:** That sounds serious.
+
+**Doctor:** It is, but you're in good hands. We also performed a Brain CT scan to rule out hypoxic encephalopathy, which means we want to check if there was any brain damage due to lack of oxygen. The results are still pending.
+
+**Patient:** Okay.
+
+**Doctor:** We also ordered blood tests, including Troponin I, Basic Metabolic Panel (BMP), and Arterial Blood Gas (ABG). These will help us understand more about your condition.
+
+**Patient:** When will I get the results?
+
+**Doctor:** They should be available soon. We'll keep you informed.
+
+**Assessment:**
+
+**Doctor:** Based on what we've seen so far, you experienced a cardiac arrest. The exact cause is still unspecified, but we're working to find out more.
+
+**Patient:** What happens next?
+
+**Plan:**
+
+**Doctor:** We have a plan in place. For medication, we administered Epinephrine 1 mg IV push, repeating every 3-5 minutes during resuscitation. If your condition is refractory to defibrillation, we also have Amiodarone 300 mg IV bolus ready.
+
+**Patient:** What do those medications do?
+
+**Doctor:** Epinephrine helps to stimulate your heart, while Amiodarone helps to control abnormal heart rhythms.
+
+**Patient:** Okay, I understand.
+
+**Doctor:** As I mentioned, we performed a Brain CT scan to rule out any brain damage due to lack of oxygen. We also ordered blood tests for Troponin I, BMP, and ABG to get more information about your condition.
+
+**Patient:** What else do I need to do?
+
+**Doctor:** After we've stabilized your condition, we'll refer you to Dr. Emily Brown, an electrophysiologist, for further evaluation. She will help us understand the electrical activity of your heart and guide us in your treatment.
+
+**Patient:** Will I need to come back for follow-ups?
+
+**Doctor:** Yes, we recommend you schedule a follow-up visit within one week for further evaluation and management.
+
+**Patient:** Okay, I'll make sure to do that.
+
+**Doctor:** Do you have any questions or concerns right now?
+
+**Patient:** No, I think I've got it all. Thank you for explaining everything.
+
+**Doctor:** You're welcome. Rest assured, we're doing everything we can to take care of you. If you have any other questions, feel free to ask.
+
+**Patient:** Thank you, doctor.
+
+**Doctor:** You're welcome. Take care, and we'll keep you updated on your test results."|"[doctor]: Hello. How are you feeling today?
+
+[patient]: I don't remember much. I was told I collapsed while grocery shopping.
+
+[doctor]: Yes, you had a sudden collapse and were unresponsive. Can you tell me if you remember feeling anything unusual before you collapsed?
+
+[patient]: I don't recall much. I think I felt a brief chest pain, but then everything went black.
+
+[doctor]: Hmm, I see. Let's start from the beginning. You mentioned you felt chest pain before collapsing. Did the pain come on suddenly?
+
+[patient]: Yes, it was very sudden.
+
+[doctor]: How would you describe the chest pain? Was it sharp, dull, or something else?
+
+[patient]: It was sharp, like a stabbing pain.
+
+[doctor]: Did the pain radiate to other parts of your body, like your arms or jaw?
+
+[patient]: No, it was just in my chest.
+
+[doctor]: Alright. This is the first time something like this has happened to you?
+
+[patient]: Yes, I've never collapsed before.
+
+[doctor]: I see. When the Emergency Medical Services arrived, you were unresponsive and not breathing. They had to perform intubation. Do you have any recollection of this?
+
+[patient]: No, I don't remember anything after the chest pain.
+
+[doctor]: Alright, let's talk about your medical history. You have hyperlipidemia and rheumatoid arthritis, correct?
+
+[patient]: Yes, I've had both for a few years now.
+
+[doctor]: How are you managing your hyperlipidemia? Are you taking any medications for it?
+
+[patient]: Yes, I take medication daily, but I don't remember the name.
+
+[doctor]: How about your rheumatoid arthritis? Are you on any specific treatment for that?
+
+[patient]: I take medication for that too, but the pain still wakes me up at night.
+
+[doctor]: Hmm, so you have been experiencing poor sleep due to joint pain?
+
+[patient]: Yes, I often wake up because of the pain.
+
+[doctor]: How's your diet? Are you following any specific dietary recommendations?
+
+[patient]: Not really. I eat whatever I want, but I know my diet isn't the best. I like foods high in cholesterol.
+
+[doctor]: And how often do you exercise?
+
+[patient]: I exercise irregularly. Sometimes I go weeks without exercising.
+
+[doctor]: Do you smoke or use any recreational drugs?
+
+[patient]: No, I've never smoked or used drugs.
+
+[doctor]: How about alcohol? Do you drink?
+
+[patient]: I occasionally drink wine, but not very often.
+
+[doctor]: Let's go through a quick review of systems. Were you experiencing any other symptoms before the collapse?
+
+[patient]: No, just the chest pain.
+
+[doctor]: Okay. You were unresponsive when EMS arrived, and they reported you were not breathing. Your extremities were cool and cyanotic. Do you remember any of that?
+
+[patient]: No, I don't remember anything after feeling the chest pain.
+
+[doctor]: Did you have any gastrointestinal or genitourinary symptoms, like stomach pain or issues with urination?
+
+[patient]: No, not that I can recall.
+
+[doctor]: Alright, let's move on to the physical exam and test results.
+
+[doctor]: Your vital signs were taken upon arrival. You were unresponsive and cyanotic with cool extremities. We couldn't feel a pulse, so immediate CPR was initiated. You were not breathing, and intubation was performed. Your initial ECG showed ventricular fibrillation.
+
+[patient]: That's a lot to take in. What does it all mean?
+
+[doctor]: Ventricular fibrillation is a severe cardiac rhythm disturbance. It means your heart was not beating effectively, which is why you collapsed and were unresponsive.
+
+[patient]: That sounds serious.
+
+[doctor]: It is, but you're in good hands. We also performed a Brain CT scan to rule out hypoxic encephalopathy, which means we want to check if there was any brain damage due to lack of oxygen. The results are still pending.
+
+[patient]: Okay.
+
+[doctor]: We also ordered blood tests, including Troponin I, Basic Metabolic Panel (BMP), and Arterial Blood Gas (ABG). These will help us understand more about your condition.
+
+[patient]: When will I get the results?
+
+[doctor]: They should be available soon. We'll keep you informed.
+
+[doctor]: Based on what we've seen so far, you experienced a cardiac arrest. The exact cause is still unspecified, but we're working to find out more.
+
+[patient]: What happens next?
+
+[doctor]: We have a plan in place. For medication, we administered Epinephrine 1 mg IV push, repeating every 3-5 minutes during resuscitation. If your condition is refractory to defibrillation, we also have Amiodarone 300 mg IV bolus ready.
+
+[patient]: What do those medications do?
+
+[doctor]: Epinephrine helps to stimulate your heart, while Amiodarone helps to control abnormal heart rhythms.
+
+[patient]: Okay, I understand.
+
+[doctor]: As I mentioned, we performed a Brain CT scan to rule out any brain damage due to lack of oxygen. We also ordered blood tests for Troponin I, BMP, and ABG to get more information about your condition.
+
+[patient]: What else do I need to do?
+
+[doctor]: After we've stabilized your condition, we'll refer you to Dr. Emily Brown, an electrophysiologist, for further evaluation. She will help us understand the electrical activity of your heart and guide us in your treatment.
+
+[patient]: Will I need to come back for follow-ups?
+
+[doctor]: Yes, we recommend you schedule a follow-up visit within one week for further evaluation and management.
+
+[patient]: Okay, I'll make sure to do that.
+
+[doctor]: Do you have any questions or concerns right now?
+
+[patient]: No, I think I've got it all. Thank you for explaining everything.
+
+[doctor]: You're welcome. Rest assured, we're doing everything we can to take care of you. If you have any other questions, feel free to ask.
+
+[patient]: Thank you, doctor.
+
+[doctor]: You're welcome. Take care, and we'll keep you updated on your test results."
+CARDIAC ARREST, CAUSE UNSPECIFIED|"ROLE: General Practitioner
+
+**Scenario**:
+
+**1) Medical Outcome**:
+   - Diagnosis: Cardiac Arrest, Cause Unspecified
+   - Referral: Immediate referral to hospital emergency department by ambulance.
+   - Blood Work: Complete Blood Count (CBC), Comprehensive Metabolic Panel (CMP), Troponin I
+   - Imaging: Chest X-ray to check for lung conditions that may have contributed
+
+**2) Medical History**:
+   - Previous Diagnoses: Asthma, Chronic Kidney Disease Stage 3
+   - Family Medical History: Mother with Alzheimer’s, father with hypertension
+   - Medication History: On Lisinopril 10 mg daily for hypertension, Albuterol inhaler as needed for asthma
+   - Allergies: Shellfish
+   - Chronic Conditions: Asthma, Chronic Kidney Disease
+
+**3) Symptom Description**:
+   - Severity: Severe, witnessed collapse
+   - Duration: Collapsed approximately 15 minutes before 911 call
+   - Associated Symptoms: Patient was complaining of severe shortness of breath and chest tightness before collapse
+   - Impact on Daily Activities: Incident occurred during a routine home check-up
+
+**4) Patient’s self-reported habits and lifestyle**:
+   - Sleep: Poor sleep quality, often wakes up breathless due to asthma
+   - Diet: High sodium intake, enjoys processed foods
+   - Exercise: Little to no exercise due to chronic kidney disease
+   - Tobacco Use: Smoked for 25 years, quit 10 years ago
+   - Alcohol Consumption: Regular, drinks 2-3 beers every weekend
+   - Drug Use: No illicit drug use
+   - Recreational Activities: Enjoys fishing occasionally
+
+**5) Demographic Information**:
+   - Age: 64
+   - Gender: Female
+   - Ethnicity: Asian American
+   - Socio-economic Status: Low-income
+   - Education Level: High school graduate
+   - Health Literacy: Limited understanding of medical terms
+   - Job Status: Unemployed, receives disability benefits
+
+**6) Patient's Behavior**:
+   - Level of cooperation: Generally cooperative with medical advice, but currently unresponsive and requiring immediate medical intervention.
+
+**7) Geographical Location**:
+   - Big City vs. Small City: Small City
+   - Rural vs. Urban: Rural
+   - Pollution and Environmental Health Risks: Rural area with seasonal agricultural pollution
+   - Neighborhood Type: Low-income neighborhood with limited access to healthcare facilities and transportation
+
+**8) Clinical Setting**:
+   - Home health visit by a general practitioner
+
+**9) Type of Encounter**:
+   - Routine Home Check-up
+
+**11) Native or Non-Native English Speaking Patient**:
+   - Non-Native English Speaker (primary language: Tagalog)
+
+**12) Physical exams**:
+   - Airway: Clear but unresponsive
+   - Breathing: Assisted ventilation with ambu bag
+   - Circulation: No pulse detected, immediate initiation of CPR.
+
+**13) Investigation/Test results**:
+   - ECG: Results pending upon hospital arrival
+   - Blood Work: CBC, CMP, Troponin I ordered with ambulance transport and awaiting results
+   - Imaging: Chest X-ray ordered to check for possible lung pathology contributing to the event"|"#### MEDICAL NOTE
+
+**1. Subjective:**
+
+Chief Complaint (CC):
+- Unwitnessed cardiac arrest during a routine home check-up.
+
+History of Present Illness (HPI):
+- The patient, a 64-year-old Asian American female, collapsed approximately 15 minutes before the 911 call. She was initially complaining of severe shortness of breath and chest tightness. The collapse was severe, and immediate emergency services were contacted.
+
+Review of Systems (ROS):
+- Respiratory: Severe shortness of breath, asthma exacerbation episodes.
+- Cardiovascular: Chest tightness.
+- General: Poor sleep quality, frequent breathlessness.
+
+**2. Objective:**
+
+Vital Signs:
+- Unavailable due to the patient's unresponsive state.
+
+Physical Examination:
+- Airway: Clear but unresponsive.
+- Breathing: Assisted ventilation with ambu bag in progress.
+- Circulation: No pulse detected; CPR initiated immediately upon collapse.
+
+Investigations:
+- Blood Work: Complete Blood Count (CBC), Comprehensive Metabolic Panel (CMP), Troponin I ordered.
+- Imaging: Chest X-ray ordered to check for lung conditions that may have contributed to the event.
+- ECG: Results pending upon arrival at the hospital.
+
+**3. Assessment:**
+
+- Cardiac Arrest, Cause Unspecified.
+
+The patient has a history of chronic medical conditions, including asthma and Chronic Kidney Disease Stage 3, which may have contributed to the cardiac event. The patient's ongoing medication includes Lisinopril and an Albuterol inhaler. Given the reported symptoms of severe shortness of breath and chest tightness prior to collapse, a cardiac etiology such as myocardial infarction must be strongly considered.
+
+**4. Plan:**
+
+1. Immediate referral to the hospital emergency department via ambulance for further management.
+2. Continue CPR and assisted ventilation during transport.
+3. Upon arrival at the hospital:
+   - Urgent ECG to confirm cardiac status.
+   - Immediate blood work, including CBC, CMP, and Troponin I levels, to investigate potential myocardial infarction and other contributory factors.
+   - Chest X-ray to explore any pulmonary involvement, given her history of asthma and the rural area's environmental health risks.
+4. Coordination with emergency medical services (EMS) to ensure smooth handoff and continuous monitoring during transport.
+5. Notify the hospital's emergency department of the patient's history, including chronic conditions, medication, and recent symptoms, to expedite care.
+
+The patient is currently unresponsive, and the priority is stabilization and immediate advanced cardiac life support (ACLS) interventions upon arrival at the hospital. 
+
+Family should be contacted to inform them of the situation and gather any additional medical history that may assist in the patient's care. 
+
+Follow-up will be contingent upon the patient's stabilization and further investigations at the hospital. 
+
+**INSTRUCTIONS:**
+
+- Immediate transfer to the hospital emergency department.
+- Constant monitoring and support during transport.
+- Ensure family is updated and involved in the care plan.
+
+---
+
+**SUMMARY:**
+
+This note outlines the urgent medical circumstance of a cardiac arrest during a routine home visit. Given the patient's chronic medical conditions and acute presentation, immediate life-saving interventions and detailed assessments are crucial."|"**1. Subjective:**
+
+Chief Complaint (CC):
+- Unwitnessed cardiac arrest during a routine home check-up.
+
+History of Present Illness (HPI):
+- The patient, a 64-year-old Asian American female named Mei Lin, collapsed approximately 15 minutes before the 911 call. She was initially complaining of severe shortness of breath and chest tightness. The collapse was severe, and immediate emergency services were contacted.
+
+Review of Systems (ROS):
+- Respiratory: Severe shortness of breath, asthma exacerbation episodes.
+- Cardiovascular: Chest tightness.
+- General: Poor sleep quality, frequent breathlessness.
+
+**2. Objective:**
+
+Vital Signs:
+- Unavailable due to the patient's unresponsive state.
+
+Physical Examination:
+- Airway: Clear but unresponsive.
+- Breathing: Assisted ventilation with ambu bag in progress.
+- Circulation: No pulse detected; CPR initiated immediately upon collapse.
+
+**3. Assessment:**
+
+- Cardiac Arrest, Cause Unspecified.
+
+The patient has a history of chronic medical conditions, including asthma and Chronic Kidney Disease Stage 3, which may have contributed to the cardiac event. The patient's ongoing medication includes Lisinopril and an Albuterol inhaler. Given the reported symptoms of severe shortness of breath and chest tightness prior to collapse, a cardiac etiology such as myocardial infarction must be strongly considered.
+
+**4. Plan:**
+
+1. Immediate referral to the hospital emergency department via ambulance for further management.
+2. Continue CPR and assisted ventilation during transport.
+3. Upon arrival at the hospital:
+   - Urgent ECG to confirm cardiac status.
+   - Immediate blood work, including CBC, CMP, and Troponin I levels, to investigate potential myocardial infarction and other contributory factors.
+   - Chest X-ray to explore any pulmonary involvement, given her history of asthma and the rural area's environmental health risks.
+4. Coordination with emergency medical services (EMS) to ensure smooth handoff and continuous monitoring during transport.
+5. Notify the hospital's emergency department of the patient's history, including chronic conditions, medication, and recent symptoms, to expedite care.
+6. Contact the family to inform them of the situation and gather any additional medical history that may assist in the patient's care.
+
+The patient is currently unresponsive, and the priority is stabilization and immediate advanced cardiac life support (ACLS) interventions upon arrival at the hospital. 
+
+Follow-up will be contingent upon the patient's stabilization and further investigations at the hospital."|"**1. Subjective:**
+
+Chief Complaint (CC):
+- Unwitnessed CA during a routine home check-up.
+
+History of Present Illness (HPI):
+- The pt, a 64 y/o Asian American F named Mei Lin, collapsed ~15 mins before the 911 call. She was initially c/o severe SOB and chest tightness. The collapse was severe, and immediate EMS were contacted.
+
+Review of Systems (ROS):
+- Resp: Severe SOB, asthma exacerbation episodes.
+- CV: Chest tightness.
+- Gen: Poor sleep quality, frequent breathlessness.
+
+**2. Objective:**
+
+Vital Signs (VS):
+- Unavailable due to pt's unresponsive state.
+
+Physical Examination (PE):
+- Airway: Clear but unresponsive.
+- Breathing: Assisted ventilation with ambu bag in progress.
+- Circulation: No pulse detected; CPR initiated immediately upon collapse.
+
+**3. Assessment:**
+
+- CA, Cause Unspecified.
+
+The pt has a hx of chronic medical conditions, including asthma and CKD Stage 3, which may have contributed to the cardiac event. The pt's ongoing meds include Lisinopril and an Albuterol inhaler. Given the reported sx of severe SOB and chest tightness prior to collapse, a cardiac etiology such as MI must be strongly considered.
+
+**4. Plan:**
+
+1. Immediate referral to the hospital ED via ambulance for further mgmt.
+2. Continue CPR and assisted ventilation during transport.
+3. Upon arrival at the hospital:
+   - Urgent ECG to confirm cardiac status.
+   - Immediate blood work, including CBC, CMP, and Troponin I levels, to investigate potential MI and other contributory factors.
+   - CXR to explore any pulmonary involvement, given her hx of asthma and the rural area's environmental health risks.
+4. Coordination with EMS to ensure smooth handoff and continuous monitoring during transport.
+5. Notify the hospital's ED of the pt's hx, including chronic conditions, meds, and recent sx, to expedite care.
+6. Contact the family to inform them of the situation and gather any additional medical hx that may assist in the pt's care.
+
+The pt is currently unresponsive, and the priority is stabilization and immediate ACLS interventions upon arrival at the hospital.
+
+Follow-up will be contingent upon the pt's stabilization and further investigations at the hospital."|General Practitioner|"[Doctor] Hi, I understand there was an emergency call for a patient who collapsed. What happened?
+
+[EMS Technician] Yes, Doctor. This is a 64-year-old Asian American female who collapsed approximately 15 minutes ago during a routine home check-up. She was initially complaining of severe shortness of breath and chest tightness.
+
+[Doctor] Oh no, that sounds serious. Did anyone witness the collapse?
+
+[EMS Technician] No, it was unwitnessed. The patient was found unresponsive when we arrived.
+
+[Doctor] Understood. What were her symptoms before she collapsed?
+
+[EMS Technician] She was complaining of severe shortness of breath and chest tightness.
+
+[Doctor] Okay, let's gather some more information. Does the patient have a history of any chronic medical conditions?
+
+[EMS Technician] Yes, she has a history of asthma and Chronic Kidney Disease Stage 3.
+
+[Doctor] I see. And is she on any medications?
+
+[EMS Technician] She is currently taking Lisinopril and uses an Albuterol inhaler.
+
+[Doctor] Hmm, that’s good to know. So when you arrived, what did you observe?
+
+[EMS Technician] The patient was unresponsive with no pulse. We immediately initiated CPR and assisted ventilation with an ambu bag.
+
+[Doctor] Good job on starting CPR right away. Have you ordered any investigations?
+
+[EMS Technician] Yes, we have ordered a Complete Blood Count (CBC), Comprehensive Metabolic Panel (CMP), and Troponin I. A Chest X-ray and ECG are also pending upon arrival at the hospital.
+
+[Doctor] Excellent. We need to consider a cardiac etiology such as myocardial infarction given her symptoms of severe shortness of breath and chest tightness prior to the collapse.
+
+[EMS Technician] That’s what we suspect as well. We’re arranging for immediate referral to the hospital emergency department.
+
+[Doctor] Great. Make sure CPR and assisted ventilation are continued during transport. We need to coordinate with the emergency medical services to ensure a smooth handoff.
+
+[EMS Technician] Understood, Doctor. We’ll ensure continuous monitoring during transport.
+
+[Doctor] Also, please notify the hospital’s emergency department of her history, including her chronic conditions, medications, and recent symptoms. This will expedite her care once she arrives.
+
+[EMS Technician] Will do.
+
+[Doctor] Do we have any vital signs available?
+
+[EMS Technician] Unfortunately, no. She was unresponsive, and we couldn't obtain any vital signs.
+
+[Doctor] Okay, let’s focus on stabilizing her. Once she arrives at the hospital, we need an urgent ECG to confirm her cardiac status and immediate blood work including CBC, CMP, and Troponin I levels.
+
+[EMS Technician] Yes, Doctor. We’ll ensure those are done right away.
+
+[Doctor] We also need a Chest X-ray to explore any pulmonary involvement, given her history of asthma and the rural area's environmental health risks.
+
+[EMS Technician] Got it. We’ll make sure everything is ready for when she arrives.
+
+[Doctor] Additionally, we need to contact her family to inform them of the situation and gather any additional medical history that may assist in her care.
+
+[EMS Technician] We have her family’s contact information and will notify them immediately.
+
+[Doctor] Perfect. Let’s move quickly and prioritize her stabilization and immediate advanced cardiac life support interventions upon arrival at the hospital.
+
+[EMS Technician] Absolutely, we’re on it.
+
+[Doctor] Thank you. Make sure to keep me updated on her condition and any changes during transport.
+
+[EMS Technician] Will do, Doctor. We’ll ensure she gets the best possible care.
+
+[Doctor] Alright. Let’s hope for the best and be prepared for anything. Thanks for your swift action.
+
+[EMS Technician] Thank you, Doctor. We’ll keep you posted.
+
+[Doctor] Take care, and good luck. Let's save her.
+
+[EMS Technician] Thank you, Doctor. We’re doing our best."|"[Doctor] Hi, I understand there was an emergency call for a patient who collapsed. What happened?
+
+[EMS Technician] Yes, Doctor. This is a 64-year-old Asian American female who collapsed approximately 15 minutes ago during a routine home check-up. She was initially complaining of severe shortness of breath and chest tightness.
+
+[Doctor] Oh no, that sounds serious. Did anyone witness the collapse?
+
+[EMS Technician] No, it was unwitnessed. The patient was found unresponsive when we arrived.
+
+[Doctor] Understood. What were her symptoms before she collapsed?
+
+[EMS Technician] She was complaining of severe shortness of breath and chest tightness.
+
+[Doctor] Okay, let's gather some more information. Does the patient have a history of any chronic medical conditions?
+
+[EMS Technician] Yes, she has a history of asthma and Chronic Kidney Disease Stage 3.
+
+[Doctor] I see. And is she on any medications?
+
+[EMS Technician] She is currently taking Lisinopril and uses an Albuterol inhaler.
+
+[Doctor] Hmm, that’s good to know. So when you arrived, what did you observe?
+
+[EMS Technician] The patient was unresponsive with no pulse. We immediately initiated CPR and assisted ventilation with an ambu bag.
+
+[Doctor] Good job on starting CPR right away. Have you ordered any investigations?
+
+[EMS Technician] Yes, we have ordered a Complete Blood Count (CBC), Comprehensive Metabolic Panel (CMP), and Troponin I. A Chest X-ray and ECG are also pending upon arrival at the hospital.
+
+[Doctor] Excellent. We need to consider a cardiac etiology such as myocardial infarction given her symptoms of severe shortness of breath and chest tightness prior to the collapse.
+
+[EMS Technician] That’s what we suspect as well. We’re arranging for immediate referral to the hospital emergency department.
+
+[Doctor] Great. Make sure CPR and assisted ventilation are continued during transport. We need to coordinate with the emergency medical services to ensure a smooth handoff.
+
+[EMS Technician] Understood, Doctor. We’ll ensure continuous monitoring during transport.
+
+[Doctor] Also, please notify the hospital’s emergency department of her history, including her chronic conditions, medications, and recent symptoms. This will expedite her care once she arrives.
+
+[EMS Technician] Will do.
+
+[Doctor] Do we have any vital signs available?
+
+[EMS Technician] Unfortunately, no. She was unresponsive, and we couldn't obtain any vital signs.
+
+[Doctor] Okay, let’s focus on stabilizing her. Once she arrives at the hospital, we need an urgent ECG to confirm her cardiac status and immediate blood work including CBC, CMP, and Troponin I levels.
+
+[EMS Technician] Yes, Doctor. We’ll ensure those are done right away.
+
+[Doctor] We also need a Chest X-ray to explore any pulmonary involvement, given her history of asthma and the rural area's environmental health risks.
+
+[EMS Technician] Got it. We’ll make sure everything is ready for when she arrives.
+
+[Doctor] Additionally, we need to contact her family to inform them of the situation and gather any additional medical history that may assist in her care.
+
+[EMS Technician] We have her family’s contact information and will notify them immediately.
+
+[Doctor] Perfect. Let’s move quickly and prioritize her stabilization and immediate advanced cardiac life support interventions upon arrival at the hospital.
+
+[EMS Technician] Absolutely, we’re on it.
+
+[Doctor] Thank you. Make sure to keep me updated on her condition and any changes during transport.
+
+[EMS Technician] Will do, Doctor. We’ll ensure she gets the best possible care.
+
+[Doctor] Alright. Let’s hope for the best and be prepared for anything. Thanks for your swift action.
+
+[EMS Technician] Thank you, Doctor. We’ll keep you posted.
+
+[Doctor] Take care, and good luck. Let's save her.
+
+[EMS Technician] Thank you, Doctor. We’re doing our best."
+CARDIAC ARREST, CAUSE UNSPECIFIED|"**ROLE:** Cardiologist
+
+**SCENARIO VARIABLES:**
+
+1. **Medical Outcome:**
+   - Diagnosis: Cardiac Arrest, Cause Unspecified (I46.9)
+   - Prescribed Treatment: CPR was successfully administered in the emergency room.
+   - Follow-up Recommendations: Refer to Electrophysiologist for further evaluation.
+   - Referral to Specialists: Electrophysiologist, Dr. Jane Smith, for possible arrhythmia.
+   - Referral to Further Tests or Imaging: 
+     - Echocardiogram to assess cardiac function.
+     - Coronary Angiography to evaluate for ischemic heart disease.
+     - Cardiac MRI for detailed imaging of cardiac structures.
+   - Medication Adjustment: Initiate Metoprolol 50 mg, orally, twice a day.
+   - Lifestyle Change: Recommended dietary modifications to reduce cardiovascular risk, such as a low-sodium diet, and emphasized the importance of regular exercise tailored to the patient’s capabilities post-event.
+
+2. **Medical History:**
+   - Previous Diagnoses: Hypertension, Type 2 Diabetes Mellitus, Hyperlipidemia
+   - Family Medical History: Father with Coronary Artery Disease, Mother with Hypertension
+   - Medication History: On Lisinopril 10 mg daily, Metformin 500 mg twice daily, Atorvastatin 20 mg nightly
+   - Allergies: No known drug allergies
+   - Chronic Conditions: Hypertension, Type 2 Diabetes Mellitus, Hyperlipidemia
+
+3. **Symptom Description:**
+   - Severity: Severe (cardiac arrest)
+   - Duration: Occurred suddenly with no prior warning
+   - Associated Symptoms: None reported prior to event
+   - Frequency: First occurrence
+   - Impact on Daily Activities: Currently hospitalized, unable to engage in usual activities
+
+4. **Patient’s self-reported habits and lifestyle:**
+   - Sleep: Reports generally poor sleep quality, averaging 5-6 hours per night
+   - Diet: High in processed foods and sodium, low in fruits and vegetables
+   - Exercise: Sedentary lifestyle with minimal physical activity
+   - Tobacco Use: Smokes one pack per day for the past 20 years
+   - Alcohol Consumption: Social drinker, 2-3 times per week
+   - Drug Use: Denies illicit drug use
+   - Recreational Activities: Enjoys watching TV and sporadic short walks in the neighborhood
+
+5. **Demographic Information:**
+   - Age: 55
+   - Gender: Male
+   - Ethnicity: African American
+   - Socio-economic Status: Middle-income
+   - Education Level: High school diploma
+   - Health Literacy: Moderate understanding of health concepts
+   - Job Status: Employed full-time as a factory worker
+
+6. **Patient's Behavior:**
+   - Level of Cooperation: Generally cooperative but has been previously non-adherent with dietary and exercise recommendations
+
+7. **Geographical Location:**
+   - Big City vs Small City: Urban
+   - Rural vs Urban: Urban
+   - Pollution and Environmental Health Risks: Moderate air pollution
+   - Neighborhood Type: Working-class neighborhood, moderate food desert status
+   - Well-served by Transit: Good access to public transit
+
+8. **Clinical Setting:**
+   - Type of Facility: Hospital Emergency Department
+   - Next Step: Follow-up consultations at a Cardiology Clinic
+
+9. **Type of Encounter:**
+   - Emergency Visit turned Hospital Admission
+   - Planned: Follow-up for Chronic Disease Management and Preventive Health Screening post-discharge
+
+10. **Treatment Disparities:**
+    - No immediate disparities noted, but close attention required due to patient's background and potential systemic biases
+
+11. **Native or Non-Native English Speaking Patient:**
+    - Native English Speaking
+
+12. **Physical exams:**
+    - Full cardiac examination revealing irregular heartbeat post-resuscitation
+    - Respiratory and abdominal exams normal
+
+13. **Investigation/Test results:**
+    - Initial EKG showed ventricular fibrillation
+    - Awaiting results: Cardiac Enzyme Panel, Echocardiogram, Coronary Angiography, Cardiac MRI
+    
+"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Cardiac arrest.
+
+**History of Present Illness (HPI):**
+John Doe is a 55-year-old African American male who presented to the emergency room after experiencing a sudden cardiac arrest. The event occurred with no prior warning signs or symptoms. CPR was immediately administered and was successfully resuscitated.
+
+**Review of Systems (ROS):**
+- **Cardiovascular:** No chest pain, palpitations, or shortness of breath prior to the event.
+- **Respiratory:** No cough, wheezing, or difficulty breathing noted.
+- **Gastrointestinal:** No nausea, vomiting, or abdominal pain.
+- **General:** Reports generally poor sleep quality, averaging 5-6 hours per night. Denies fever, chills, or night sweats.
+
+**Lifestyle and Habits:**
+- Diet: High in processed foods and sodium, low in fruits and vegetables.
+- Exercise: Sedentary lifestyle, minimal physical activity.
+- Tobacco Use: Smokes one pack per day for the past 20 years.
+- Alcohol Consumption: Social drinker, consumes alcohol 2-3 times a week.
+- Recreational Activities: Enjoys watching TV and sporadic short walks.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 145/90 mmHg
+- Heart Rate: 88 bpm, irregular post-resuscitation
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **General:** Alert and oriented, currently hospitalized, post-resuscitation.
+- **Cardiovascular:** Irregular heartbeat noted, no murmurs, gallops, or rubs.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-tender, no hepatosplenomegaly.
+- **Extremities:** No edema, good peripheral pulses.
+
+**Investigations/Tests:**
+- Initial EKG: Ventricular fibrillation
+- Awaiting results: Cardiac Enzyme Panel, Echocardiogram, Coronary Angiography, Cardiac MRI
+
+**3. Assessment:**
+
+**Diagnosis:**
+- Cardiac Arrest, Cause Unspecified (I46.9)
+
+**Differential Diagnosis:**
+- Potential arrhythmia
+- Ischemic heart disease
+- Structural heart disease
+
+**4. Plan:**
+
+**Immediate Management:**
+- Successfully administered CPR in the emergency room.
+
+**Medication:**
+- Initiate Metoprolol 50 mg, orally, twice a day.
+
+**Further Evaluation and Referrals:**
+- Refer to Electrophysiologist, Dr. Jane Smith, for possible arrhythmia evaluation.
+- Echocardiogram to assess cardiac function.
+- Coronary Angiography to evaluate for ischemic heart disease.
+- Cardiac MRI for detailed imaging of cardiac structures.
+
+**Lifestyle Recommendations:**
+- Dietary modifications to reduce cardiovascular risk, such as a low-sodium diet.
+- Emphasized the importance of regular exercise tailored to patient’s capabilities post-event.
+- Smoking cessation support and counseling.
+- Limit alcohol consumption.
+
+**Follow-Up:**
+- Schedule follow-up consultations at the Cardiology Clinic.
+
+**Patient Education:**
+- Educated on the importance of adherence to medication and lifestyle modifications.
+- Provided resources for smoking cessation and dietary counseling.
+
+**Instructions:**
+- Return to the Cardiology Clinic for follow-up in 2 weeks.
+- Contact healthcare provider if experiencing any new or worsening symptoms such as chest pain, shortness of breath, or palpitations.
+
+---
+
+**Note:** The patient was cooperative during the hospital stay, but close attention to adherence to lifestyle recommendations post-discharge is required due to previous non-adherence.
+"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Cardiac arrest.
+
+**History of Present Illness (HPI):**
+John Doe is a 55-year-old African American male who presented to the emergency room after experiencing a sudden cardiac arrest. The event occurred with no prior warning signs or symptoms. CPR was immediately administered and was successfully resuscitated.
+
+**Review of Systems (ROS):**
+- **Cardiovascular:** No chest pain, palpitations, or shortness of breath prior to the event.
+- **Respiratory:** No cough, wheezing, or difficulty breathing noted.
+- **Gastrointestinal:** No nausea, vomiting, or abdominal pain.
+- **General:** Reports generally poor sleep quality, averaging 5-6 hours per night. Denies fever, chills, or night sweats.
+
+**Lifestyle and Habits:**
+- Diet: High in processed foods and sodium, low in fruits and vegetables.
+- Exercise: Sedentary lifestyle, minimal physical activity.
+- Tobacco Use: Smokes one pack per day for the past 20 years.
+- Alcohol Consumption: Social drinker, consumes alcohol 2-3 times a week.
+- Recreational Activities: Enjoys watching TV and sporadic short walks.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 145/90 mmHg
+- Heart Rate: 88 bpm, irregular post-resuscitation
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **General:** Alert and oriented, currently hospitalized, post-resuscitation.
+- **Cardiovascular:** Irregular heartbeat noted, no murmurs, gallops, or rubs.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-tender, no hepatosplenomegaly.
+- **Extremities:** No edema, good peripheral pulses.
+
+**Investigations/Tests:**
+- Initial EKG: Ventricular fibrillation
+
+**3. Assessment:**
+
+**Diagnosis:**
+- Cardiac Arrest, Cause Unspecified (I46.9)
+
+**Differential Diagnosis:**
+- Potential arrhythmia
+- Ischemic heart disease
+- Structural heart disease
+
+**4. Plan:**
+
+**Immediate Management:**
+- Successfully administered CPR in the emergency room.
+
+**Medication:**
+- Initiate Metoprolol 50 mg, orally, twice a day.
+
+**Further Evaluation and Referrals:**
+- Refer to Electrophysiologist, Dr. Jane Smith, for possible arrhythmia evaluation.
+- Echocardiogram to assess cardiac function.
+- Coronary Angiography to evaluate for ischemic heart disease.
+- Cardiac MRI for detailed imaging of cardiac structures.
+
+**Lifestyle Recommendations:**
+- Dietary modifications to reduce cardiovascular risk, such as a low-sodium diet.
+- Emphasized the importance of regular exercise tailored to patient’s capabilities post-event.
+- Smoking cessation support and counseling.
+- Limit alcohol consumption.
+
+**Follow-Up:**
+- Schedule follow-up consultations at the Cardiology Clinic.
+
+**Patient Education:**
+- Educated on the importance of adherence to medication and lifestyle modifications.
+- Provided resources for smoking cessation and dietary counseling.
+
+**Instructions:**
+- Return to the Cardiology Clinic for follow-up in 2 weeks.
+- Contact healthcare provider if experiencing any new or worsening symptoms such as chest pain, shortness of breath, or palpitations."|"#####
+**1. Subjective:**
+
+**CC:**
+Cardiac arrest.
+
+**HPI:**
+John Doe is a 55 y/o African American male who presented to the ER after experiencing a sudden cardiac arrest. The event occurred with no prior warning signs or symptoms. CPR was immediately administered and was successfully resuscitated.
+
+**ROS:**
+- **CV:** No CP, palpitations, or SOB prior to the event.
+- **Resp:** No cough, wheezing, or difficulty breathing noted.
+- **GI:** No N/V or abdominal pain.
+- **Gen:** Reports generally poor sleep quality, averaging 5-6 hrs per night. Denies fever, chills, or night sweats.
+
+**Lifestyle and Habits:**
+- Diet: High in processed foods and Na, low in fruits and vegetables.
+- Exercise: Sedentary lifestyle, minimal physical activity.
+- Tobacco Use: Smokes 1 ppd for the past 20 yrs.
+- ETOH: Social drinker, consumes alcohol 2-3x/week.
+- Recreational Activities: Enjoys watching TV and sporadic short walks.
+
+**2. Objective:**
+
+**VS:**
+- BP: 145/90 mmHg
+- HR: 88 bpm, irregular post-resuscitation
+- RR: 18 breaths/min
+- O2 Sat: 98% on RA
+
+**PE:**
+- **Gen:** Alert and oriented, currently hospitalized, post-resuscitation.
+- **CV:** Irregular heartbeat noted, no murmurs, gallops, or rubs.
+- **Resp:** Clear to auscultation bilaterally.
+- **Abd:** Soft, non-tender, no HSM.
+- **Ext:** No edema, good peripheral pulses.
+
+**Investigations/Tests:**
+- Initial EKG: V-fib
+
+**3. Assessment:**
+
+**Dx:**
+- Cardiac Arrest, Cause Unspecified (I46.9)
+
+**DDx:**
+- Potential arrhythmia
+- Ischemic heart disease
+- Structural heart disease
+
+**4. Plan:**
+
+**Immediate Mgmt:**
+- Successfully administered CPR in the ER.
+
+**Rx:**
+- Initiate Metoprolol 50 mg PO BID.
+
+**Further Evaluation and Referrals:**
+- Refer to EP, Dr. Jane Smith, for possible arrhythmia eval.
+- Echo to assess cardiac function.
+- Coronary angio to eval for ischemic heart disease.
+- Cardiac MRI for detailed imaging of cardiac structures.
+
+**Lifestyle Recommendations:**
+- Dietary modifications to reduce CV risk, such as a low-Na diet.
+- Emphasized the importance of regular exercise tailored to patient’s capabilities post-event.
+- Smoking cessation support and counseling.
+- Limit ETOH consumption.
+
+**Follow-Up:**
+- Schedule f/u consultations at the Cardiology Clinic.
+
+**Patient Education:**
+- Educated on the importance of adherence to meds and lifestyle modifications.
+- Provided resources for smoking cessation and dietary counseling.
+
+**Instructions:**
+- Return to the Cardiology Clinic for f/u in 2 weeks.
+- Contact HCP if experiencing any new or worsening symptoms such as CP, SOB, or palpitations."|Role not found in the first 5 lines.|"**Doctor:** Hello, John. How are you feeling today?
+
+**Patient:** Hi, Doctor. I'm feeling a bit better, still a bit shaken up from everything that happened.
+
+**Doctor:** I can imagine. Let's talk about what brought you in today. It looks like you had a sudden cardiac arrest. Can you tell me more about what happened?
+
+**Patient:** Sure. I was just sitting at home watching TV when suddenly I felt nothing. Next thing I know, I'm here in the hospital. 
+
+**Doctor:** That must have been really scary. Did you have any warning signs before the event, like chest pain, palpitations, or shortness of breath?
+
+**Patient:** No, nothing like that. It just happened out of nowhere.
+
+**Doctor:** I see. And how have you been feeling in general, aside from this event? Any recent changes in your health?
+
+**Patient:** Well, I've been sleeping poorly, maybe about 5-6 hours a night. But other than that, nothing unusual. No fever, chills, or night sweats.
+
+**Doctor:** Okay, let's talk a bit about your lifestyle. What does your diet look like?
+
+**Patient:** Honestly, it's not great. I eat a lot of processed foods and salty snacks. Not much in the way of fruits or veggies.
+
+**Doctor:** How about exercise? Do you get much physical activity?
+
+**Patient:** Not really. I’m pretty sedentary. I do take the occasional short walk, but that's about it.
+
+**Doctor:** Alright. And do you smoke or drink alcohol?
+
+**Patient:** Yeah, I smoke about a pack a day and I drink socially, maybe 2-3 times a week.
+
+**Doctor:** Got it. Thanks for sharing all that information. Now, let's go over your vitals. Your blood pressure is 145/90 mmHg, and your heart rate was 88 bpm, but it was irregular post-resuscitation. Your respiratory rate was 18 breaths per minute, and your oxygen saturation was 98% on room air.
+
+**Patient:** Okay.
+
+**Doctor:** During the physical exam, you were alert and oriented. Your heartbeat is irregular, but there are no murmurs, gallops, or rubs. Your lungs are clear, your abdomen is soft and non-tender, and there’s no swelling in your extremities. Your peripheral pulses are good.
+
+**Patient:** That’s a relief.
+
+**Doctor:** We also did some initial tests. Your EKG showed ventricular fibrillation. We are still waiting on the results of your cardiac enzyme panel, echocardiogram, coronary angiography, and cardiac MRI.
+
+**Patient:** Alright. What does all this mean?
+
+**Doctor:** Based on everything so far, we have diagnosed you with cardiac arrest, but the exact cause is still unspecified. We are considering potential arrhythmia, ischemic heart disease, and structural heart disease as possible causes.
+
+**Patient:** I see. What's the plan from here?
+
+**Doctor:** First, we successfully administered CPR when you arrived. We’re starting you on Metoprolol 50 mg, to be taken orally twice a day to help manage your heart rate.
+
+**Patient:** Okay.
+
+**Doctor:** We’ll need to refer you to an electrophysiologist, Dr. Jane Smith, to evaluate you for any arrhythmias. We’ll also conduct an echocardiogram to assess your heart’s function, a coronary angiography to check for ischemic heart disease, and a cardiac MRI for detailed imaging of your heart structures.
+
+**Patient:** That sounds like a lot, but I understand.
+
+**Doctor:** In terms of lifestyle, we strongly recommend some changes to reduce your cardiovascular risk. You should adopt a low-sodium diet, increase your intake of fruits and vegetables, and start getting regular exercise suited to your capabilities post-event.
+
+**Patient:** I guess I need to make some serious changes then.
+
+**Doctor:** Yes, and it’s crucial that you stop smoking. We can provide you with support and counseling to help with that. Also, try to limit your alcohol consumption.
+
+**Patient:** I’ll do my best.
+
+**Doctor:** Good. We’ll schedule follow-up consultations at the cardiology clinic. It’s important to adhere to your medication and these lifestyle modifications. If you experience any new or worsening symptoms like chest pain, shortness of breath, or palpitations, contact your healthcare provider immediately.
+
+**Patient:** Okay, got it.
+
+**Doctor:** We’ll see you back in the Cardiology Clinic in 2 weeks for follow-up. In the meantime, take care and please follow the instructions closely.
+
+**Patient:** Thank you, Doctor. I appreciate all your help.
+
+**Doctor:** You’re welcome, John. We’re here to support you through this. Take care.
+
+**Patient:** Will do. Thanks again."|"[doctor]: Hello, John. How are you feeling today?
+
+[patient]: Hi, Doctor. I'm feeling a bit better, still a bit shaken up from everything that happened.
+
+[doctor]: I can imagine. Let's talk about what brought you in today. It looks like you had a sudden cardiac arrest. Can you tell me more about what happened?
+
+[patient]: Sure. I was just sitting at home watching TV when suddenly I felt nothing. Next thing I know, I'm here in the hospital. 
+
+[doctor]: That must have been really scary. Did you have any warning signs before the event, like chest pain, palpitations, or shortness of breath?
+
+[patient]: No, nothing like that. It just happened out of nowhere.
+
+[doctor]: I see. And how have you been feeling in general, aside from this event? Any recent changes in your health?
+
+[patient]: Well, I've been sleeping poorly, maybe about 5-6 hours a night. But other than that, nothing unusual. No fever, chills, or night sweats.
+
+[doctor]: Okay, let's talk a bit about your lifestyle. What does your diet look like?
+
+[patient]: Honestly, it's not great. I eat a lot of processed foods and salty snacks. Not much in the way of fruits or veggies.
+
+[doctor]: How about exercise? Do you get much physical activity?
+
+[patient]: Not really. I’m pretty sedentary. I do take the occasional short walk, but that's about it.
+
+[doctor]: Alright. And do you smoke or drink alcohol?
+
+[patient]: Yeah, I smoke about a pack a day and I drink socially, maybe 2-3 times a week.
+
+[doctor]: Got it. Thanks for sharing all that information. Now, let's go over your vitals. Your blood pressure is 145/90 mmHg, and your heart rate was 88 bpm, but it was irregular post-resuscitation. Your respiratory rate was 18 breaths per minute, and your oxygen saturation was 98% on room air.
+
+[patient]: Okay.
+
+[doctor]: During the physical exam, you were alert and oriented. Your heartbeat is irregular, but there are no murmurs, gallops, or rubs. Your lungs are clear, your abdomen is soft and non-tender, and there’s no swelling in your extremities. Your peripheral pulses are good.
+
+[patient]: That’s a relief.
+
+[doctor]: We also did some initial tests. Your EKG showed ventricular fibrillation. We are still waiting on the results of your cardiac enzyme panel, echocardiogram, coronary angiography, and cardiac MRI.
+
+[patient]: Alright. What does all this mean?
+
+[doctor]: Based on everything so far, we have diagnosed you with cardiac arrest, but the exact cause is still unspecified. We are considering potential arrhythmia, ischemic heart disease, and structural heart disease as possible causes.
+
+[patient]: I see. What's the plan from here?
+
+[doctor]: First, we successfully administered CPR when you arrived. We’re starting you on Metoprolol 50 mg, to be taken orally twice a day to help manage your heart rate.
+
+[patient]: Okay.
+
+[doctor]: We’ll need to refer you to an electrophysiologist, Dr. Jane Smith, to evaluate you for any arrhythmias. We’ll also conduct an echocardiogram to assess your heart’s function, a coronary angiography to check for ischemic heart disease, and a cardiac MRI for detailed imaging of your heart structures.
+
+[patient]: That sounds like a lot, but I understand.
+
+[doctor]: In terms of lifestyle, we strongly recommend some changes to reduce your cardiovascular risk. You should adopt a low-sodium diet, increase your intake of fruits and vegetables, and start getting regular exercise suited to your capabilities post-event.
+
+[patient]: I guess I need to make some serious changes then.
+
+[doctor]: Yes, and it’s crucial that you stop smoking. We can provide you with support and counseling to help with that. Also, try to limit your alcohol consumption.
+
+[patient]: I’ll do my best.
+
+[doctor]: Good. We’ll schedule follow-up consultations at the cardiology clinic. It’s important to adhere to your medication and these lifestyle modifications. If you experience any new or worsening symptoms like chest pain, shortness of breath, or palpitations, contact your healthcare provider immediately.
+
+[patient]: Okay, got it.
+
+[doctor]: We’ll see you back in the Cardiology Clinic in 2 weeks for follow-up. In the meantime, take care and please follow the instructions closely.
+
+[patient]: Thank you, Doctor. I appreciate all your help.
+
+[doctor]: You’re welcome, John. We’re here to support you through this. Take care.
+
+[patient]: Will do. Thanks again."
+CARDIAC ARREST, CAUSE UNSPECIFIED|"**ROLE:** Emergency Medicine Physician
+
+1. **Medical Outcome:**
+   - Diagnosis: Cardiac Arrest, Cause Unspecified
+   - Intervention: Cardiopulmonary resuscitation (CPR), defibrillation
+   - Medications Administered: 
+      - Epinephrine 1 mg IV, repeated every 3-5 minutes
+      - Amiodarone 300 mg IV bolus, followed by 150 mg IV if needed
+   - Follow-up recommendations: Admission to Intensive Care Unit, cardiology consultation
+   - Blood Work: Complete Blood Count (CBC), Comprehensive Metabolic Panel (CMP), Troponin levels, Blood Gas Analysis
+   - Imaging: Urgent Echocardiogram to assess cardiac function
+
+2. **Medical History:**
+   - Previous Diagnoses: Hypertension, Type 2 Diabetes
+   - Family Medical History: Father had a myocardial infarction at age 60, mother had a history of stroke
+   - Medication History: Metformin 500 mg twice daily, Lisinopril 20 mg daily
+   - Allergies: None known
+   - Chronic Conditions: Hypertension, Type 2 Diabetes
+
+3. **Symptom Description:**
+   - Severity: Severe, patient collapsed
+   - Duration: Sudden onset, lasting for the past 10 minutes before arrival
+   - Associated Symptoms: Shortness of breath, chest pain prior to collapse
+   - Frequency: First episode
+   - Impact on Daily Activities: Complete incapacitation
+
+4. **Patient’s self-reported habits and lifestyle:**
+   - Sleep: Reports 6 hours/night
+   - Diet: High-fat diet, low in fruits and vegetables
+   - Exercise: Sedentary lifestyle, no regular exercise
+   - Tobacco Use: Smokes 1 pack/day
+   - Alcohol Consumption: Drinks socially, approximately 3-4 drinks/week
+   - Drug Use: Denies recreational drug use
+   - Recreational Activities: NA
+
+5. **Demographic Information:**
+   - Age: 58
+   - Gender: Male
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Middle income
+   - Education Level: High School Diploma
+   - Health Literacy: Moderate
+   - Job Status: Warehouse worker
+
+6. **Patient's Behavior:**
+   - Cooperation with Medical Advice: Inconsistent, often forgets to take medications
+
+7. **Geographical Location:**
+   - Big City vs. Small City: Big City
+   - Urban Environment
+   - Pollution and Environmental Health Risks: Moderate pollution
+   - Neighborhood Type: Middle-class neighborhood, well-served by transit, not a food desert.
+
+8. **Clinical Setting:**
+   - Emergency Department
+
+9. **Type of Encounter:**
+   - Emergency Visit
+
+10. **Treatment Disparities:**
+   - None observed in this visit
+
+11. **Native or Non-Native English Speaking Patient:**
+   - Native English Speaker
+
+12. **Physical exams:**
+   - Cardiovascular: No pulse, requires immediate CPR.
+   - Neurological: Unresponsive, unconscious
+   - Respiratory: Apneic
+
+13. **Investigation/Test results:**
+   - Blood Work: CBC, CMP, Troponin levels, Blood Gas Analysis (awaiting results)
+   - Imaging: Urgent Echocardiogram (awaiting performance and results)"|Rejected|Rejected|Rejected|Rejected||
+CARDIAC ARREST, CAUSE UNSPECIFIED|"**ROLE:** Emergency Medicine Physician
+
+1. **Medical Outcome:**
+   - Diagnosis: Cardiac Arrest, Cause Unspecified
+   - Intervention: Advanced Cardiovascular Life Support (ACLS), intubation, ventilatory support
+   - Medications Administered: 
+      - Epinephrine 1 mg IV, repeated every 3-5 minutes
+      - Lidocaine 1-1.5 mg/kg IV bolus, followed by 0.5-0.75 mg/kg every 5-10 minutes as required
+   - Follow-up recommendations: Referral to cardiology for potential electrophysiological study, Admission to Intensive Care Unit
+   - Blood Work: Complete Blood Count (CBC), Basic Metabolic Panel (BMP), Troponin levels, Blood Gas Analysis, Coagulation Profile
+   - Imaging: Urgent Chest X-ray to check for complications like pneumothorax or pulmonary edema
+
+2. **Medical History:**
+   - Previous Diagnoses: History of myocardial infarction, Hyperlipidemia
+   - Family Medical History: Brother has chronic heart disease, mother has hypertension
+   - Medication History: Atorvastatin 40 mg daily, Aspirin 81 mg daily
+   - Allergies: Penicillin
+   - Chronic Conditions: Hyperlipidemia, Previous Myocardial Infarction
+
+3. **Symptom Description:**
+   - Severity: Severe, patient found unconscious, not breathing
+   - Duration: Episode started 15 minutes prior to arrival
+   - Associated Symptoms: Palpitations, dizziness before collapsing
+   - Frequency: First reported incident
+   - Impact on Daily Activities: Complete incapacitation
+
+4. **Patient’s self-reported habits and lifestyle:**
+   - Sleep: Reports difficulty sleeping, averaging 4-5 hours/night
+   - Diet: High-sodium diet, frequent fast food consumption
+   - Exercise: Minimal physical activity, walks occasionally
+   - Tobacco Use: Former smoker, quit 5 years ago
+   - Alcohol Consumption: Moderates, drinks 1-2 glasses of wine/week
+   - Drug Use: Denies any illegal drug use
+   - Recreational Activities: Occasionally plays cards with friends
+
+5. **Demographic Information:**
+   - Age: 65
+   - Gender: Female
+   - Ethnicity: African American
+   - Socio-economic Status: Low income
+   - Education Level: Some college
+   - Health Literacy: Low
+   - Job Status: Retired
+
+6. **Patient's Behavior:**
+   - Cooperation with Medical Advice: Sometimes forgets to take prescribed medications, non-compliant at times
+
+7. **Geographical Location:**
+   - Big City vs. Small City: Small City
+   - Urban vs. Rural Environment: Suburban
+   - Pollution and Environmental Health Risks: Low pollution
+   - Neighborhood Type: Middle-class neighborhood, less accessible transit, food desert
+
+8. **Clinical Setting:**
+   - Emergency Department
+
+9. **Type of Encounter:**
+   - Emergency Visit
+
+10. **Treatment Disparities:**
+   - None observed in this visit
+
+11. **Native or Non-Native English Speaking Patient:**
+   - Native English Speaker
+
+12. **Physical exams:**
+   - Cardiovascular: No pulse, immediate CPR initiated.
+   - Neurological: Unresponsive, unconscious
+   - Respiratory: No spontaneous breathing, intubated for airway management
+
+13. **Investigation/Test results:**
+   - Blood Work: CBC, BMP, Troponin levels, Blood Gas Analysis, Coagulation Profile (awaiting results)
+   - Imaging: Urgent Chest X-ray (awaiting performance and results)"|Rejected|Rejected|Rejected|Rejected||
+CARDIAC ARREST, CAUSE UNSPECIFIED|"ROLE: Cardiologist
+
+** 1) Medical Outcome: **
+   - Diagnosis: Cardiac arrest, cause unspecified (ICD-10: I46.9)
+   - Prescribed Treatment: 
+     - Medication: Epinephrine 1 mg IV push, repeat every 3-5 minutes as needed during resuscitation.
+     - Medication: Amiodarone 300 mg IV bolus if unresponsive to initial defibrillation attempts.
+   - Follow-up recommendations: Referral to a cardiac electrophysiologist for further evaluation.
+   - Referral: 
+     - Reason for referral: Post-cardiac arrest syndrome.
+     - Specialty: Cardiac Electrophysiologist.
+     - Doctor's Name: Dr. John Doe.
+   - Imaging: Echocardiogram and Cardiac MRI to evaluate structural heart disease.
+
+** 2) Medical History: **
+   - Previous Diagnoses: Hypertension, Type 2 Diabetes Mellitus.
+   - Family Medical History: Family history of coronary artery disease in father and stroke in mother.
+   - Medication History: Metformin 500 mg twice daily, Lisinopril 10 mg daily.
+   - Allergies: Penicillin.
+   - Chronic Conditions: Hypertension, Type 2 Diabetes Mellitus.
+
+** 3) Symptom Description: **
+   - Severity: Sudden loss of consciousness.
+   - Duration: Immediate onset.
+   - Associated Symptoms: None reported prior to event.
+   - Frequency: First occurrence.
+   - Impact on Daily Activities: Complete cessation of all activities.
+
+** 4) Patient’s self-reported habits and lifestyle: **
+   - Sleep: Reports adequate sleep, ~7 hours per night.
+   - Diet: High-sodium diet, often eats out.
+   - Exercise: Minimal physical activity, sedentary lifestyle.
+   - Tobacco Use: Smokes 1 pack per day for the last 20 years.
+   - Alcohol Consumption: Occasional social drinking, 1-2 drinks per week.
+   - Drug Use: Denies any drug use.
+   - Recreational Activities: None noted.
+
+** 5) Demographic Information: **
+   - Age: 55
+   - Gender: Male
+   - Ethnicity: African American
+   - Socio-economic Status: Middle-income
+   - Education Level: High school diploma
+   - Health Literacy: Moderate understanding of medical conditions and treatments.
+   - Job Status: Factory worker
+
+** 6) Patient's Behavior: **
+   - The level of patient's cooperation with medical advice: Previously poor adherence to lifestyle recommendations.
+
+** 7) Geographical Location: **
+   - Big City vs Small City: Big City
+   - Rural vs Urban: Urban
+   - Pollution and Environmental Health Risks: Moderate pollution, occasional high smog days.
+   - Neighborhood Type: Impoverished
+   - Well-served by Transit: Yes
+   - Food Desert: No
+
+** 8) Clinical Setting: **
+   - Emergency Room (ER) and Intensive Care Unit (ICU)
+
+** 9) Type of Encounter: **
+   - Emergency Visit
+
+** 10) Treatment Disparities: **
+   - Initial delay in receiving advanced cardiac life support due to overcrowded ER.
+
+** 11) Native or Non-Native English Speaking Patient: **
+   - Native English Speaking Patient
+
+** 12) Physical exams: **
+   - CONSTITUTIONAL: Unresponsive, no movement.
+   - CV: No pulse detected, immediate CPR initiated.
+   - RESPIRATORY: Apnea, bag-valve-mask ventilation initiated.
+   - GI/GU: NA
+   - SKIN: Pallor, cool to touch.
+
+** 13) Investigation/Test results: **
+   - Awaiting results of cardiac enzymes and electrolytes.
+   - ECG confirmed ventricular fibrillation. 
+   - Awaiting results of chest X-ray to rule out other causes."|Rejected|Rejected|Rejected|Rejected||
+CARDIAC ARREST, CAUSE UNSPECIFIED|"ROLE: Family Medicine Physician
+
+** 1) Medical Outcome: **
+   - Diagnosis: Cardiac arrest, cause unspecified (ICD-10: I46.9)
+   - Prescribed Treatment: 
+     - Medication: Epinephrine 1 mg IV push, repeat every 3-5 minutes during resuscitation.
+   - Follow-up recommendations: Schedule follow-up visit in one week.
+   - Referral: 
+     - Reason for referral: Comprehensive cardiac evaluation.
+     - Specialty: Cardiologist.
+     - Doctor's Name: Dr. Sarah Lee.
+   - Additional Testing: Complete blood count (CBC) and comprehensive metabolic panel (CMP).
+
+** 2) Medical History: **
+   - Previous Diagnoses: Asthma, prior episode of myocardial infarction (2 years ago).
+   - Family Medical History: Family history of hypertension in mother and sudden cardiac death in father.
+   - Medication History: Albuterol inhaler as needed, aspirin 81 mg daily.
+   - Allergies: Shellfish.
+   - Chronic Conditions: Asthma, coronary artery disease.
+
+** 3) Symptom Description: **
+   - Severity: Sudden collapse while walking.
+   - Duration: Immediate onset.
+   - Associated Symptoms: None reported by bystanders.
+   - Frequency: First known incident.
+   - Impact on Daily Activities: Complete interruption of ongoing activities.
+
+** 4) Patient’s self-reported habits and lifestyle: **
+   - Sleep: Frequently disturbed sleep due to asthma.
+   - Diet: Balanced diet primarily, occasional fast food.
+   - Exercise: Regular swimming twice a week.
+   - Tobacco Use: None.
+   - Alcohol Consumption: Moderate, 3-4 times a week (1-2 drinks each time).
+   - Drug Use: Denies any drug use.
+   - Recreational Activities: Active in community choir.
+
+** 5) Demographic Information: **
+   - Age: 47
+   - Gender: Female
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Upper-middle income
+   - Education Level: Bachelor's degree
+   - Health Literacy: Good understanding of own health conditions and medications.
+   - Job Status: Elementary school teacher
+
+** 6) Patient's Behavior: **
+   - The level of patient's cooperation with medical advice: Generally excellent adherence to lifestyle and medication recommendations.
+
+** 7) Geographical Location: **
+   - Big City vs Small City: Small City
+   - Rural vs Urban: Urban
+   - Pollution and Environmental Health Risks: Minimal pollution, safe environment.
+   - Neighborhood Type: Affluent 
+   - Well-served by Transit: Yes 
+   - Food Desert: No
+
+** 8) Clinical Setting: **
+   - Community Health Services
+
+** 9) Type of Encounter: **
+   - Emergency Visit
+
+** 10) Treatment Disparities: **
+   - NA
+
+** 11) Native or Non-Native English Speaking Patient: **
+   - Non-Native English Speaking Patient
+
+** 12) Physical exams: **
+   - CONSTITUTIONAL: Unresponsive upon arrival.
+   - CV: No palpable pulse detected, CPR initiated immediately.
+   - RESPIRATORY: Apnea observed, intubation performed.
+   - GI/GU: NA
+   - SKIN: Cool, cyanotic.
+
+** 13) Investigation/Test results: **
+   - Initial ECG: Flatline.
+   - Awaiting: Complete blood count (CBC), comprehensive metabolic panel (CMP)."|Rejected|Rejected|Rejected|Rejected||
+CARDIAC ARREST, CAUSE UNSPECIFIED|"ROLE: General Physician
+
+** 1) Medical Outcome: **
+   - Diagnosis: Cardiac arrest, cause unspecified (ICD-10: I46.9)
+   - Prescribed Treatment: 
+     - Medication: Epinephrine 1 mg IV push, repeat every 3-5 minutes during resuscitation.
+   - Follow-up recommendations: Follow-up visit in two weeks.
+   - Referral: 
+     - Reason for referral: Detailed cardiac and neurological evaluation.
+     - Specialty: Neurologist.
+     - Doctor's Name: Dr. Kevin Chang.
+   - Additional Testing: Serum electrolyte panel, troponin levels, brain MRI.
+
+** 2) Medical History: **
+   - Previous Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), Peripheral Artery Disease (PAD).
+   - Family Medical History: Mother had breast cancer, father had Alzheimer's disease.
+   - Medication History: Fluticasone inhaler, Clopidogrel 75 mg once daily.
+   - Allergies: Sulfa drugs.
+   - Chronic Conditions: COPD, PAD.
+
+** 3) Symptom Description: **
+   - Severity: Severe, unresponsive.
+   - Duration: Sudden onset.
+   - Associated Symptoms: None reported immediately prior.
+   - Frequency: First known instance.
+   - Impact on Daily Activities: Complete cessation of ongoing activity.
+
+** 4) Patient’s self-reported habits and lifestyle: **
+   - Sleep: Sleeps poorly, often breaks due to breathing difficulties.
+   - Diet: Low-fat, high-fiber diet.
+   - Exercise: Uses a treadmill at home three times a week.
+   - Tobacco Use: Ex-smoker, quit 5 years ago after smoking for 30 years.
+   - Alcohol Consumption: Rarely drinks, only on social occasions.
+   - Drug Use: None reported.
+   - Recreational Activities: Enjoys gardening and attending local book club meetings.
+
+** 5) Demographic Information: **
+   - Age: 68
+   - Gender: Female
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Lower-middle class
+   - Education Level: Some college, no degree
+   - Health Literacy: Basic understanding of medical conditions and treatments.
+   - Job Status: Retired librarian
+
+** 6) Patient's Behavior: **
+   - The level of patient's cooperation with medical advice: Generally follows medical advice but occasionally misses follow-up appointments.
+
+** 7) Geographical Location: **
+   - Big City vs Small City: Small City
+   - Rural vs Urban: Suburban
+   - Pollution and Environmental Health Risks: Low pollution, well-maintained environment.
+   - Neighborhood Type: Middle-income, mixed age groups.
+   - Well-served by Transit: Limited public transport options.
+   - Food Desert: No
+
+** 8) Clinical Setting: **
+   - Urgent Care Center
+
+** 9) Type of Encounter: **
+   - Emergency Visit
+
+** 10) Treatment Disparities: **
+   - NA
+
+** 11) Native or Non-Native English Speaking Patient: **
+   - Native English Speaking Patient
+
+** 12) Physical exams: **
+   - CONSTITUTIONAL: Unresponsive upon arrival.
+   - CV: No detectable pulse, immediate initiation of CPR.
+   - RESPIRATORY: Apneic, assisted ventilation required.
+   - GI/GU: NA
+   - SKIN: Cyanotic, cool to touch.
+
+** 13) Investigation/Test results: **
+   - Initial ECG: Asystole.
+   - Awaiting: Serum electrolyte panel, troponin levels, and brain MRI."|Rejected|Rejected|Rejected|Rejected||
+CARDIAC ARREST, CAUSE UNSPECIFIED|"ROLE: Emergency Medicine Specialist
+
+**Scenario**:
+
+**1) Medical Outcome**:
+   - Diagnosis: Cardiac Arrest, Cause Unspecified
+   - Medical Treatment: 
+     - Administer Epinephrine, 1 mg IV, every 3-5 minutes during resuscitation efforts.
+     - Administer Amiodarone, 300 mg IV as a bolus if initial defibrillation is unsuccessful.
+   - Follow-up recommendations: Post-resuscitation care in the ICU
+   - Referral: To Cardiology for an in-depth assessment upon stabilization.
+
+**2) Medical History**:
+   - Previous Diagnoses: Hypertension, Diabetes Mellitus Type II
+   - Family Medical History: Father had coronary artery disease, mother had a stroke.
+   - Allergies: None reported
+   - Chronic Conditions: Hypertension, Diabetes Mellitus Type II
+
+**3) Symptom Description**:
+   - Severity: Complete loss of consciousness, unresponsive
+   - Duration: Collapsed 5 minutes before arrival
+   - Associated Symptoms: Bystanders report sudden collapse, no prior warning signs
+
+**4) Patient’s self-reported habits and lifestyle**:
+   - Sleep: Typically 6-7 hours per night
+   - Diet: High intake of processed foods, low fruit and vegetable intake
+   - Exercise: Sedentary lifestyle, rarely exercises
+   - Tobacco Use: Smokes 10 cigarettes per day for the past 20 years
+   - Alcohol Consumption: Occasional social drinking, 1-2 times a month
+
+**5) Demographic Information**:
+   - Age: 55 
+   - Gender: Male
+   - Ethnicity: African American
+   - Socio-economic Status: Middle class
+   - Education Level: High school graduate
+   - Health Literacy: Limited understanding of medical terminology
+   - Job Status: Factory worker
+
+**6) Patient's Behavior**:
+   - Level of cooperation: Currently unresponsive and unable to provide cooperation
+
+**7) Geographical Location**:
+   - Big City vs. Small City: Big City
+   - Rural vs. Urban: Urban
+   - Pollution and Environmental Health Risks: Lives in an area with moderate air pollution
+   - Neighborhood Type: Middle-income residential neighborhood, well-served by transit, not a food desert
+
+**8) Clinical Setting**:
+   - Emergency Department
+
+**9) Type of Encounter**:
+   - Emergency Visit
+
+**11) Native or Non-Native English Speaking Patient**:
+   - Native English Speaker
+
+**12) Physical exams**:
+   - Airway: Patent with endotracheal tube
+   - Breathing: Assisted ventilation via Ambu bag
+   - Circulation: Pulse absent, ongoing CPR
+
+**13) Investigation/Test results**:
+   - Initial ECG: Awaiting results
+   - Blood Work: CBC, CMP, Troponin I, ABG - all tests have been ordered and are awaiting results
+   - Imaging: Chest X-Ray ordered to verify endotracheal tube placement and investigate possible causes"|Rejected|Rejected|Rejected|Rejected||
+CARDIAC ARREST, CAUSE UNSPECIFIED|"ROLE: Cardiologist
+
+**Scenario**:
+
+**1) Medical Outcome**:
+   - Diagnosis: Cardiac Arrest, Cause Unspecified
+   - Referral: Immediate referral to intensive care unit (ICU) for post-resuscitation care.
+   - Blood Work: Complete Blood Count (CBC), Comprehensive Metabolic Panel (CMP), Troponin I, B-type Natriuretic Peptide (BNP), Coagulation Profile - all tests ordered and awaiting results.
+   - Imaging: Echocardiogram ordered to assess cardiac function, Chest CT scan to rule out pulmonary embolism as a cause.
+
+**2) Medical History**:
+   - Previous Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), History of Myocardial Infarction
+   - Family Medical History: No known cardiovascular diseases in immediate family
+   - Medication History: Currently on Metoprolol 50 mg once daily, Albuterol inhaler as needed
+   - Allergies: Penicillin
+   - Chronic Conditions: COPD, Prior Myocardial Infarction
+
+**3) Symptom Description**:
+   - Severity: Severe, complete unresponsiveness
+   - Duration: Approximately 10 minutes before arrival of emergency services
+   - Associated Symptoms: Witnesses report sudden collapse without prior chest pain or shortness of breath
+   - Impact on Daily Activities: Patient was walking to transport bus when collapsed
+
+**4) Patient’s self-reported habits and lifestyle**:
+   - Sleep: Reports varying sleep, often disrupted due to COPD symptoms
+   - Diet: Mainly fast food, limited fresh fruits and vegetables
+   - Exercise: Limited due to COPD, mainly sedentary
+   - Tobacco Use: Smoked for 30 years, quit 5 years ago
+   - Alcohol Consumption: Occasional, about once a month
+   - Drug Use: No reported illicit drug use
+   - Recreational Activities: None reported due to health condition
+
+**5) Demographic Information**:
+   - Age: 68
+   - Gender: Female
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Lower-middle class
+   - Education Level: College-educated
+   - Health Literacy: Moderate understanding of medical conditions and treatments
+   - Job Status: Retired teacher
+
+**6) Patient's Behavior**:
+   - Level of cooperation: Unresponsive, no cooperation possible
+
+**7) Geographical Location**:
+   - Big City vs. Small City: Small City
+   - Rural vs. Urban: Rural
+   - Pollution and Environmental Health Risks: Lives in an area with low industrial pollution
+   - Neighborhood Type: Residential, predominantly middle-income, limited health facilities nearby
+
+**8) Clinical Setting**:
+   - Hospital Emergency Department
+
+**9) Type of Encounter**:
+   - Emergency Visit
+
+**11) Native or Non-Native English Speaking Patient**:
+   - Native English Speaker
+
+**12) Physical exams**:
+   - Airway: Opened with endotracheal tube
+   - Breathing: Mechanical ventilation initiated
+   - Circulation: No pulse detected, ongoing Advanced Cardiac Life Support (ACLS)
+
+**13) Investigation/Test results**:
+   - ECG: Awaiting initial results
+   - Blood Work: CBC, CMP, Troponin I, BNP, Coagulation Profile - all tests ordered and awaiting results
+   - Imaging: Echocardiogram ordered for cardiac function assessment, Chest CT scan to rule out pulmonary embolism"|Rejected|Rejected|Rejected|Rejected||
+CARDIAC ARREST, CAUSE UNSPECIFIED|"ROLE: Cardiologist
+
+**Scenario**:
+
+**1) Medical Outcome**:
+   - Diagnosis: Cardiac Arrest, Cause Unspecified
+   - Medication: Administer Atropine, 1 mg IV every 3-5 minutes during resuscitation.
+   - Follow-up recommendations: Immediate admission to the intensive care unit (ICU) for further monitoring and post-resuscitation care.
+   - Referral: Referral to an Electrophysiologist for further workup once stable.
+
+**2) Medical History**:
+   - Previous Diagnoses: History of Atrial Fibrillation, Hypertension, Hyperlipidemia
+   - Family Medical History: Mother with a history of stroke, father with a history of heart disease.
+   - Medication History: Currently on Warfarin 5 mg daily, Metoprolol 25 mg twice daily
+   - Allergies: No known drug allergies
+   - Chronic Conditions: Atrial Fibrillation, Hypertension
+
+**3) Symptom Description**:
+   - Severity: Complete and sudden loss of consciousness, unresponsive
+   - Duration: Collapsed approximately 8 minutes before arrival of emergency services
+   - Associated Symptoms: Witnesses report gasping breaths before collapse
+   - Impact on Daily Activities: Patient became unresponsive while attending a routine cardiology follow-up
+
+**4) Patient’s self-reported habits and lifestyle**:
+   - Sleep: Generally sleeps 5-6 hours per night, often disrupted by medical conditions
+   - Diet: Low in sodium, high in vegetables, adhering to a heart-healthy diet
+   - Exercise: Moderate exercise, walking 3 times a week
+   - Tobacco Use: Never smoked
+   - Alcohol Consumption: Drinks wine occasionally, about twice a week
+   - Drug Use: No history of illicit drug use
+   - Recreational Activities: Enjoys gardening and reading
+
+**5) Demographic Information**:
+   - Age: 72
+   - Gender: Male
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: High understanding of medical terminology and conditions
+   - Job Status: Retired accountant
+
+**6) Patient's Behavior**:
+   - Level of cooperation: Generally cooperative with medical advice, but currently unresponsive.
+
+**7) Geographical Location**:
+   - Big City vs. Small City: Big City
+   - Rural vs. Urban: Urban
+   - Pollution and Environmental Health Risks: Lives in an area with minimal pollution risks
+   - Neighborhood Type: Affluent residential neighborhood, well-served by transit, easy access to healthcare facilities.
+
+**8) Clinical Setting**:
+   - Heart Institute in a specialized cardiac unit
+
+**9) Type of Encounter**:
+   - Routine Follow-up
+
+**11) Native or Non-Native English Speaking Patient**:
+   - Native English Speaker
+
+**12) Physical exams**:
+   - Airway: Patent with oropharyngeal airway
+   - Breathing: Assisted with bag valve mask
+   - Circulation: No palpable pulse, undergoing Advanced Cardiac Life Support (ACLS) protocols
+
+**13) Investigation/Test results**:
+   - ECG: Awaiting initial results post-resuscitation
+   - Blood Work: CBC, CMP, Troponin I, BNP, Coagulation Profile ordered and awaiting results
+   - Imaging: Echocardiogram ordered to assess cardiac structure and function, Chest X-ray to verify airway and investigate potential pulmonary causes"|Rejected|Rejected|Rejected|Rejected||

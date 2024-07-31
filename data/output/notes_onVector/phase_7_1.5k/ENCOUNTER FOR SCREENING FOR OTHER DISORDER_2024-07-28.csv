@@ -1,0 +1,1661 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role
+ENCOUNTER FOR SCREENING FOR OTHER DISORDER|"ROLE: Family Medicine Physician
+
+** Scenario Values **
+1. Medical Outcome: Preventive Health Screening, Referral to Specialist, Lifestyle Change (Diet, Exercise)
+2. Medical History: Family History of Hypertension and Diabetes
+3. Symptom Description: NA
+4. Patient’s self-reported habits and lifestyle: Sedentary lifestyle, High-fat diet, No regular exercise, Non-smoker, Occasional alcohol consumption
+5. Demographic Information: 45-year-old, Male, African American, Middle-class, College-educated, Moderate health literacy, Office worker
+6. Patient's Behavior: Cooperative with medical advice, expresses willingness to improve lifestyle
+7. Geographical Location: Urban, High pollution levels, Affluent neighborhood
+8. Clinical Setting: Private Practice
+9. Type of Encounter: Routine Check-up, Preventive Health Screening
+10. Treatment Disparities: NA
+11. Native or Non-Native English Speaking Patient: Native English Speaker
+12. Physical exams: Blood Pressure, BMI measurement
+13. Investigation/Test results: Blood work - Biochemistry (Lipid profile, Blood Glucose), Hematology (Complete Blood Count), Awaiting results"|"## Medical Note
+
+### 1. Subjective
+
+**Chief Complaint (CC)**:  
+Routine check-up for preventive health screening.
+
+**History of Present Illness (HPI)**:  
+John Doe is a 45-year-old African American male who presents for a routine check-up. He has no specific complaints today but is here primarily for preventive health screening.
+
+**Review of Systems (ROS)**:  
+- **General**: Reports feeling generally well. No recent weight changes, fatigue, or fever.
+- **Cardiovascular**: No chest pain, palpitations, or dyspnea.
+- **Respiratory**: No cough or shortness of breath.
+- **Gastrointestinal**: No abdominal pain, nausea, or changes in bowel habits.
+- **Musculoskeletal**: No joint pain or muscle weakness.
+- **Neurological**: No headaches, dizziness, or changes in vision.
+
+### 2. Objective
+
+**Vital Signs**:  
+- Blood pressure: 140/90 mmHg
+- Pulse: 72 beats/min
+- Respiratory rate: 16/min
+- Body mass index (BMI): 29.5 kg/m²
+
+**Physical Exam**:  
+- **General**: Well-nourished, cooperative, in no acute distress.
+- **Head, Eyes, Ears, Nose, Throat (HEENT)**: Normocephalic, atraumatic, no lymphadenopathy.
+- **Cardiovascular**: Regular rate and rhythm, no murmurs, rubs, or gallops. Peripheral pulses are 2+ and equal bilaterally.
+- **Respiratory**: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Abdomen**: Soft, non-tender, no organomegaly.
+- **Musculoskeletal**: Full range of motion in all extremities, no tenderness or swelling.
+- **Skin**: No rashes, lesions, or discoloration observed.
+- **Neurological**: Alert, oriented, normal gait, no focal deficits.
+
+**Investigations/Test Results**:  
+Awaiting results from blood work including biochemistry (Lipid profile, Blood Glucose) and hematology (Complete Blood Count).
+
+### 3. Assessment
+
+- Elevated Blood Pressure: Hypertension, Family history of hypertension and diabetes.
+- Overweight with BMI of 29.5 kg/m².
+
+### 4. Plan
+
+1. **Preventive Health Screening**:
+   - Await blood work results for further evaluation.
+   - Referral to a cardiologist for hypertension management.
+   - Assessment of cardiovascular risk factors given family history and current blood pressure.
+
+2. **Lifestyle Change Recommendations**:
+   - **Diet**: Advise a balanced diet low in saturated fats and sugars, increase intake of fruits, vegetables, whole grains, and lean protein.
+   - **Exercise**: Recommend at least 150 minutes of moderate-intensity aerobic activity per week. Encourage starting with a walking program.
+   - **Alcohol Intake**: Limit to no more than 2 drinks per day.
+   
+3. **Follow-Up**:
+   - Schedule a follow-up appointment in 1 month to review blood test results and monitor blood pressure.
+   - Monitor adherence to lifestyle changes and address any challenges.
+
+4. **Education**:
+   - Educated the patient on the importance of regular physical activity and a healthy diet in managing weight and blood pressure.
+   - Discussed the impact of high pollution levels on respiratory health and advised minimizing outdoor activities during high pollution days.
+
+5. **Next Steps**:
+   - Referral to a dietitian for personalized dietary planning.
+   - Monitor for any signs of metabolic syndrome given family history and current health metrics.
+
+**Instructions**:  
+John was instructed to keep a diary of his dietary intake and physical activity, bring it to the next appointment for review, and follow up as scheduled.
+
+---
+
+This structured and comprehensive medical note reflects a routine preventive health check-up and provides a clear plan to address identified health issues while promoting a healthier lifestyle."|"## Medical Note
+
+### 1. Subjective
+
+**Chief Complaint (CC)**:  
+Routine check-up for preventive health screening.
+
+**History of Present Illness (HPI)**:  
+John Doe is a 45-year-old African American male who presents for a routine check-up. He has no specific complaints today but is here primarily for preventive health screening.
+
+**Review of Systems (ROS)**:  
+- **General**: Reports feeling generally well. No recent weight changes, fatigue, or fever.
+- **Cardiovascular**: No chest pain, palpitations, or dyspnea.
+- **Respiratory**: No cough or shortness of breath.
+- **Gastrointestinal**: No abdominal pain, nausea, or changes in bowel habits.
+- **Musculoskeletal**: No joint pain or muscle weakness.
+- **Neurological**: No headaches, dizziness, or changes in vision.
+
+### 2. Objective
+
+**Vital Signs**:  
+- Blood pressure: 140/90 mmHg
+- Pulse: 72 beats/min
+- Respiratory rate: 16/min
+- Body mass index (BMI): 29.5 kg/m²
+
+**Physical Exam**:  
+- **General**: Well-nourished, cooperative, in no acute distress.
+- **Head, Eyes, Ears, Nose, Throat (HEENT)**: Normocephalic, atraumatic, no lymphadenopathy.
+- **Cardiovascular**: Regular rate and rhythm, no murmurs, rubs, or gallops. Peripheral pulses are 2+ and equal bilaterally.
+- **Respiratory**: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Abdomen**: Soft, non-tender, no organomegaly.
+- **Musculoskeletal**: Full range of motion in all extremities, no tenderness or swelling.
+- **Skin**: No rashes, lesions, or discoloration observed.
+- **Neurological**: Alert, oriented, normal gait, no focal deficits.
+
+### 3. Assessment
+
+- Elevated Blood Pressure: Hypertension, Family history of hypertension and diabetes.
+- Overweight with BMI of 29.5 kg/m².
+
+### 4. Plan
+
+1. **Preventive Health Screening**:
+   - Await blood work results for further evaluation.
+   - Referral to a cardiologist for hypertension management. Reason: Elevated blood pressure and family history of hypertension. Specialist: Cardiologist. Doctor: Dr. Emily Carter.
+   - Assessment of cardiovascular risk factors given family history and current blood pressure.
+
+2. **Lifestyle Change Recommendations**:
+   - **Diet**: Advise a balanced diet low in saturated fats and sugars, increase intake of fruits, vegetables, whole grains, and lean protein.
+   - **Exercise**: Recommend at least 150 minutes of moderate-intensity aerobic activity per week. Encourage starting with a walking program.
+   - **Alcohol Intake**: Limit to no more than 2 drinks per day.
+   
+3. **Follow-Up**:
+   - Schedule a follow-up appointment in 1 month to review blood test results and monitor blood pressure.
+   - Monitor adherence to lifestyle changes and address any challenges.
+
+4. **Education**:
+   - Educated the patient on the importance of regular physical activity and a healthy diet in managing weight and blood pressure.
+   - Discussed the impact of high pollution levels on respiratory health and advised minimizing outdoor activities during high pollution days.
+
+5. **Next Steps**:
+   - Referral to a dietitian for personalized dietary planning. Reason: Overweight and dietary management. Specialist: Dietitian. 
+   - Monitor for any signs of metabolic syndrome given family history and current health metrics.
+
+**Instructions**:  
+John was instructed to keep a diary of his dietary intake and physical activity, bring it to the next appointment for review, and follow up as scheduled."|"## Medical Note
+
+### 1. Subjective
+
+**CC**:  
+Routine check-up for preventive health screening.
+
+**HPI**:  
+John Doe is a 45-year-old African American male who presents for a routine check-up. He has no specific complaints today but is here primarily for preventive health screening.
+
+**ROS**:  
+- **General**: Reports feeling generally well. No recent weight changes, fatigue, or fever.
+- **CV**: No CP, palpitations, or dyspnea.
+- **Resp**: No cough or SOB.
+- **GI**: No abdominal pain, nausea, or changes in bowel habits.
+- **MSK**: No joint pain or muscle weakness.
+- **Neuro**: No HA, dizziness, or changes in vision.
+
+### 2. Objective
+
+**VS**:  
+- BP: 140/90 mmHg
+- HR: 72 bpm
+- RR: 16/min
+- BMI: 29.5 kg/m²
+
+**PE**:  
+- **General**: Well-nourished, cooperative, in no acute distress.
+- **HEENT**: Normocephalic, atraumatic, no LAD.
+- **CV**: RRR, no murmurs, rubs, or gallops. Peripheral pulses are 2+ and equal bilaterally.
+- **Resp**: CTA bilaterally, no wheezes, rales, or rhonchi.
+- **Abd**: Soft, non-tender, no organomegaly.
+- **MSK**: Full ROM in all extremities, no tenderness or swelling.
+- **Skin**: No rashes, lesions, or discoloration observed.
+- **Neuro**: Alert, oriented, normal gait, no focal deficits.
+
+### 3. Assessment
+
+- HTN: Family hx of HTN and DM.
+- Overweight with BMI of 29.5 kg/m².
+
+### 4. Plan
+
+1. **Preventive Health Screening**:
+   - Await blood work results for further eval.
+   - Referral to cardiology for HTN mgmt. Reason: Elevated BP and family hx of HTN. Specialist: Cardiologist. Doctor: Dr. Emily Carter.
+   - Assessment of CV risk factors given family hx and current BP.
+
+2. **Lifestyle Change Recommendations**:
+   - **Diet**: Advise a balanced diet low in sat fats and sugars, increase intake of fruits, vegetables, whole grains, and lean protein.
+   - **Exercise**: Recommend at least 150 mins of moderate-intensity aerobic activity per week. Encourage starting with a walking program.
+   - **Alcohol Intake**: Limit to no more than 2 drinks/day.
+   
+3. **Follow-Up**:
+   - Schedule a f/u appointment in 1 month to review blood test results and monitor BP.
+   - Monitor adherence to lifestyle changes and address any challenges.
+
+4. **Education**:
+   - Educated the patient on the importance of regular physical activity and a healthy diet in managing weight and BP.
+   - Discussed the impact of high pollution levels on resp health and advised minimizing outdoor activities during high pollution days.
+
+5. **Next Steps**:
+   - Referral to a dietitian for personalized dietary planning. Reason: Overweight and dietary mgmt. Specialist: Dietitian. 
+   - Monitor for any signs of metabolic syndrome given family hx and current health metrics.
+
+**Instructions**:  
+John was instructed to keep a diary of his dietary intake and physical activity, bring it to the next appointment for review, and f/u as scheduled."|Family Medicine Physician
+ENCOUNTER FOR SCREENING FOR OTHER DISORDER|"ROLE: General Physician
+
+** CHIEF COMPLAINT**
+Routine annual check-up
+
+** HISTORY OF PRESENT ILLNESS**
+Carolyn Miller is a 55-year-old female presenting for her annual check-up. She reports no new symptoms but wants to discuss her weight management.
+
+** PAST MEDICAL HISTORY**
+- Hypertension
+- Hyperlipidemia
+- Type 2 Diabetes Mellitus
+- Osteoarthritis (knees)
+
+** FAMILY HISTORY**
+- Mother: Hypertension
+- Father: Stroke at age 70
+- Sibling: Type 2 Diabetes Mellitus
+
+** CURRENT MEDICATIONS**
+- Metformin 500mg, oral, twice daily
+- Lisinopril 10mg, oral, once daily
+- Atorvastatin 20mg, oral, once daily
+- Acetaminophen 500mg as needed for osteoarthritis pain
+
+** ALLERGIES**
+- None
+
+** SOCIAL HISTORY**
+- Sleep: 6-7 hours/night, occasional difficulties due to knee pain
+- Diet: High in processed foods, frequently eats out
+- Exercise: Minimal, walks short distances due to knee pain
+- Tobacco Use: Never smoked
+- Alcohol Consumption: Rarely, less than once a month
+- Drug Use: None
+- Recreational Activities: Enjoys reading and knitting
+
+** DEMOGRAPHIC INFORMATION**
+- Age: 55
+- Gender: Female
+- Ethnicity: African American
+- Socio-economic Status: Middle class
+- Education Level: College graduate
+- Health Literacy: Moderate, seeks clarification for medical terms
+- Job Status: Office manager
+- Native or Non-Native English Speaking: Native English Speaking
+
+** GEOGRAPHICAL LOCATION**
+- Urban area, good access to healthcare but lives in a food desert
+
+** CLINICAL SETTING**
+- Private Practice
+
+** TYPE OF ENCOUNTER**
+- Routine Check-up
+
+** PATIENT'S BEHAVIOR**
+- Highly motivated to lose weight but struggles with adherence to exercise recommendations
+
+** PHYSICAL EXAMS**
+- General: Slightly overweight, BMI of 29
+- Cardiovascular: BP 145/85 mmHg
+- Musculoskeletal: Reduced range of motion in knees, crepitus present
+
+** INVESTIGATIONS/TEST RESULTS**
+- Order for blood work: Biochemistry (HbA1c, fasting glucose, lipid profile, liver function tests)
+- Order for imaging: X-ray for both knees to assess the severity of osteoarthritis
+
+** MEDICAL OUTCOME**
+- Continue current medications
+- Lifestyle change: Referral to a physical therapist for a personalized exercise plan to improve knee function and aid weight loss
+- Nutrition: Referral to a dietitian for dietary adjustments suitable for diabetes and weight management
+- Follow-up in 6 months to review progress on weight management and osteoarthritis
+- Possible referral to an orthopedic specialist depending on X-ray results (reason: worsening knee osteoarthritis, Dr. John Smith, Orthopedics)"|"### SUBJECTIVE:
+
+#### Chief Complaint (CC)
+Routine annual check-up.
+
+#### History of Present Illness (HPI)
+Carolyn Miller is a 55-year-old female presenting for her annual check-up. She reports no new symptoms but expresses concerns about her weight management.
+
+#### Review of Systems (ROS)
+- **General:** No fever, chills, or night sweats. Reports fatigue and difficulty sleeping due to knee pain.
+- **Cardiovascular:** No chest pain, palpitations, or syncope.
+- **Respiratory:** No cough, shortness of breath, or wheezing.
+- **Gastrointestinal:** No nausea, vomiting, abdominal pain, or changes in bowel habits.
+- **Musculoskeletal:** Reports knee pain with reduced range of motion and crepitus but no swelling or redness.
+- **Endocrine:** No recent changes in appetite or weight. Reports difficulty managing blood sugars.
+- **Neurological:** No headaches, dizziness, or changes in vision.
+
+### OBJECTIVE:
+
+#### Physical Examination
+- **General Appearance:** Slightly overweight, BMI of 29, alert, and oriented.
+- **Vital Signs:** BP 145/85 mmHg, HR 78 bpm, RR 16 breaths per minute, Temp 98.6°F.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, gallops, or rubs.
+- **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Gastrointestinal:** Non-tender, no masses or organomegaly.
+- **Musculoskeletal:** Reduced range of motion in both knees, crepitus present, no swelling or erythema.
+- **Neurological:** Cranial nerves II-XII intact, no focal deficits.
+
+#### Investigations/Tests Results
+- **Ordered:**
+  - Blood work: HbA1c, fasting glucose, lipid profile, liver function tests.
+  - Imaging: X-ray for both knees to assess the severity of osteoarthritis.
+
+### ASSESSMENT:
+
+Carolyn Miller is a 55-year-old female with a medical history significant for hypertension, hyperlipidemia, type 2 diabetes mellitus, and osteoarthritis in the knees, presenting for her routine annual check-up.
+
+#### Assessment:
+1. **Hypertension:** Blood pressure is elevated at 145/85 mmHg. 
+2. **Hyperlipidemia:** To be assessed with lipid profile.
+3. **Type 2 Diabetes Mellitus:** Monitoring blood sugar control with HbA1c and fasting glucose.
+4. **Osteoarthritis:** Symptomatic knee pain with reduced range of motion, probable worsening.
+5. **Obesity:** BMI of 29, patient expresses desire for weight management.
+
+### PLAN:
+
+1. **Medications:**
+   - Continue Metformin 500mg twice daily for diabetes.
+   - Continue Lisinopril 10mg once daily for hypertension.
+   - Continue Atorvastatin 20mg once daily for hyperlipidemia.
+   - Continue Acetaminophen 500mg as needed for osteoarthritis pain.
+
+2. **Lifestyle Modifications:**
+   - **Exercise:** Referral to a physical therapist for a personalized exercise plan to improve knee function and support weight loss.
+   - **Nutrition:** Referral to a dietitian for diabetes-appropriate dietary adjustments and weight management guidance.
+
+3. **Investigations:**
+   - Blood work: HbA1c, fasting glucose, lipid profile, liver function tests (results pending).
+   - X-ray for both knees to assess the severity of osteoarthritis.
+
+4. **Follow-Up:**
+   - Schedule a follow-up visit in 6 months to review progress on weight management and osteoarthritis. 
+   - Based on the results of the knee X-ray, consider a possible referral to an orthopedic specialist, Dr. John Smith, for further management of knee osteoarthritis.
+
+5. **Patient Education:**
+   - Discussed the importance of medication adherence, regular physical activity, and dietary modifications.
+   - Encouraged the patient to keep a symptom diary to track knee pain and mobility issues.
+
+Patient agrees and understands the plan."|"### SUBJECTIVE:
+
+#### Chief Complaint (CC)
+Routine annual check-up.
+
+#### History of Present Illness (HPI)
+Carolyn Miller is a 55-year-old female presenting for her annual check-up. She reports no new symptoms but expresses concerns about her weight management.
+
+#### Review of Systems (ROS)
+- **General:** No fever, chills, or night sweats. Reports fatigue and difficulty sleeping due to knee pain.
+- **Cardiovascular:** No chest pain, palpitations, or syncope.
+- **Respiratory:** No cough, shortness of breath, or wheezing.
+- **Gastrointestinal:** No nausea, vomiting, abdominal pain, or changes in bowel habits.
+- **Musculoskeletal:** Reports knee pain with reduced range of motion and crepitus but no swelling or redness.
+- **Endocrine:** No recent changes in appetite or weight. Reports difficulty managing blood sugars.
+- **Neurological:** No headaches, dizziness, or changes in vision.
+
+### OBJECTIVE:
+
+#### Physical Examination
+- **General Appearance:** Slightly overweight, BMI of 29, alert, and oriented.
+- **Vital Signs:** BP 145/85 mmHg, HR 78 bpm, RR 16 breaths per minute, Temp 98.6°F.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, gallops, or rubs.
+- **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Gastrointestinal:** Non-tender, no masses or organomegaly.
+- **Musculoskeletal:** Reduced range of motion in both knees, crepitus present, no swelling or erythema.
+- **Neurological:** Cranial nerves II-XII intact, no focal deficits.
+
+### ASSESSMENT:
+
+Carolyn Miller is a 55-year-old female with a medical history significant for hypertension, hyperlipidemia, type 2 diabetes mellitus, and osteoarthritis in the knees, presenting for her routine annual check-up.
+
+#### Assessment:
+1. **Hypertension:** Blood pressure is elevated at 145/85 mmHg. 
+2. **Hyperlipidemia:** To be assessed with lipid profile.
+3. **Type 2 Diabetes Mellitus:** Monitoring blood sugar control with HbA1c and fasting glucose.
+4. **Osteoarthritis:** Symptomatic knee pain with reduced range of motion, probable worsening.
+5. **Obesity:** BMI of 29, patient expresses desire for weight management.
+
+### PLAN:
+
+1. **Medications:**
+   - Continue Metformin 500mg twice daily for diabetes.
+   - Continue Lisinopril 10mg once daily for hypertension.
+   - Continue Atorvastatin 20mg once daily for hyperlipidemia.
+   - Continue Acetaminophen 500mg as needed for osteoarthritis pain.
+
+2. **Lifestyle Modifications:**
+   - **Exercise:** Referral to a physical therapist for a personalized exercise plan to improve knee function and support weight loss.
+   - **Nutrition:** Referral to a dietitian for diabetes-appropriate dietary adjustments and weight management guidance.
+
+3. **Investigations:**
+   - Blood work: HbA1c, fasting glucose, lipid profile, liver function tests.
+   - X-ray for both knees to assess the severity of osteoarthritis.
+
+4. **Follow-Up:**
+   - Schedule a follow-up visit in 6 months to review progress on weight management and osteoarthritis. 
+   - Based on the results of the knee X-ray, consider a possible referral to an orthopedic specialist, Dr. John Smith, for further management of knee osteoarthritis.
+
+5. **Patient Education:**
+   - Discussed the importance of medication adherence, regular physical activity, and dietary modifications.
+   - Encouraged the patient to keep a symptom diary to track knee pain and mobility issues.
+
+Patient agrees and understands the plan."|"### SUBJECTIVE:
+
+#### CC
+Routine annual check-up.
+
+#### HPI
+Carolyn Miller is a 55 y/o F presenting for her annual check-up. She reports no new sx but expresses concerns about her wt mgmt.
+
+#### ROS
+- **General:** No fever, chills, or night sweats. Reports fatigue and difficulty sleeping due to knee pain.
+- **CV:** No CP, palpitations, or syncope.
+- **Resp:** No cough, SOB, or wheezing.
+- **GI:** No N/V, abd pain, or changes in bowel habits.
+- **MSK:** Reports knee pain with reduced ROM and crepitus but no swelling or redness.
+- **Endo:** No recent changes in appetite or wt. Reports difficulty managing blood sugars.
+- **Neuro:** No HA, dizziness, or changes in vision.
+
+### OBJECTIVE:
+
+#### Physical Exam
+- **General Appearance:** Slightly overweight, BMI of 29, alert, and oriented.
+- **VS:** BP 145/85 mmHg, HR 78 bpm, RR 16, Temp 98.6°F.
+- **CV:** RRR, no murmurs, gallops, or rubs.
+- **Resp:** CTA bilaterally, no wheezes, rales, or rhonchi.
+- **GI:** Non-tender, no masses or organomegaly.
+- **MSK:** Reduced ROM in both knees, crepitus present, no swelling or erythema.
+- **Neuro:** CN II-XII intact, no focal deficits.
+
+### ASSESSMENT:
+
+Carolyn Miller is a 55 y/o F with PMH significant for HTN, HLD, T2DM, and OA in the knees, presenting for her routine annual check-up.
+
+#### Assessment:
+1. **HTN:** BP is elevated at 145/85 mmHg.
+2. **HLD:** To be assessed with lipid profile.
+3. **T2DM:** Monitoring blood sugar control with HbA1c and fasting glucose.
+4. **OA:** Symptomatic knee pain with reduced ROM, probable worsening.
+5. **Obesity:** BMI of 29, pt expresses desire for wt mgmt.
+
+### PLAN:
+
+1. **Meds:**
+   - Continue Metformin 500mg BID for DM.
+   - Continue Lisinopril 10mg QD for HTN.
+   - Continue Atorvastatin 20mg QD for HLD.
+   - Continue Acetaminophen 500mg PRN for OA pain.
+
+2. **Lifestyle Modifications:**
+   - **Exercise:** Referral to PT for a personalized exercise plan to improve knee function and support wt loss.
+   - **Nutrition:** Referral to RD for DM-appropriate dietary adjustments and wt mgmt guidance.
+
+3. **Investigations:**
+   - Blood work: HbA1c, fasting glucose, lipid profile, LFTs.
+   - X-ray for both knees to assess the severity of OA.
+
+4. **F/U:**
+   - Schedule a F/U visit in 6 mos to review progress on wt mgmt and OA.
+   - Based on the results of the knee X-ray, consider a possible referral to ortho, Dr. John Smith, for further mgmt of knee OA.
+
+5. **Pt Education:**
+   - Discussed the importance of med adherence, regular physical activity, and dietary modifications.
+   - Encouraged the pt to keep a sx diary to track knee pain and mobility issues.
+
+Pt agrees and understands the plan."|General Physician
+ENCOUNTER FOR SCREENING FOR OTHER DISORDER|"ROLE: Family Medicine Physician
+
+Scenario:
+- Medical Outcome: Preventive health screening, referral for further imaging
+  - Imaging Order: Mammogram for breast cancer screening
+- Medical History: Hypertension, Family history of breast cancer (mother diagnosed at age 55)
+- Symptom Description: NA
+- Patient’s self-reported habits and lifestyle: 
+  - Sleep: Average 6-7 hours, sometimes disrupted
+  - Diet: High in fruits and vegetables but consumes fast food 1-2 times a week
+  - Exercise: Irregular, occasionally goes for walks
+  - Tobacco Use: Current smoker, 5 cigarettes a day
+  - Alcohol Consumption: Occasional drinking, weekends only
+  - Drug Use: None
+  - Recreational Activities: Enjoys gardening and watching movies
+- Demographic Information: 
+  - Age: 45
+  - Gender: Female
+  - Ethnicity: African American
+  - Socio-economic Status: Lower-middle class
+  - Education Level: High school diploma
+  - Health Literacy: Average
+  - Job Status: Part-time retail worker
+- Patient's Behavior: Generally cooperative but finds it hard to stick to medication regimen due to financial constraints
+- Geographical Location: Rural area
+  - Neighborhood Type: Mixed income
+  - Well-served by Transit: No, limited public transportation
+  - Food Desert: Yes
+- Clinical Setting: Community health center
+- Type of Encounter: Routine check-up
+- Treatment Disparities: Financial constraints prevent optimal adherence to treatment plans
+- Native or Non-Native English Speaking Patient: Native English speaker
+- Physical exams: 
+  - General appearance: Appears slightly fatigued
+  - Breast: No palpable lumps detected, breast tissue normal on palpation
+  - Respiratory: Clear breath sounds bilaterally
+  - Cardiovascular: Regular rate and rhythm, no murmurs
+  - Abdomen: Soft, non-tender, no organomegaly
+- Investigation/Test results: Blood work results reviewed
+  - Tests completed: Lipid panel, basic metabolic panel
+  - Results: Slightly elevated cholesterol, normal glucose levels, electrolytes within normal ranges
+- Awaiting Tests: Mammogram, scheduled for imaging at the nearest facility 30 miles away
+
+The patient has come in for a routine health screening. Due to her family history of breast cancer and irregular breast exams, a mammogram has been ordered. Emphasis is placed on making dietary improvements, increasing physical activity, and exploring smoking cessation programs."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Routine health screening.
+
+**History of Present Illness (HPI):**  
+45-year-old African American female presents for a routine health screening. She has a known history of hypertension and a family history of breast cancer (mother diagnosed at age 55). Currently, she has no specific symptoms but has not had a mammogram previously and her breast exams have been irregular.
+
+**Review of Systems (ROS):**  
+- **General:** Reports feeling slightly fatigued.
+- **Sleep:** Averages 6-7 hours, sometimes disrupted.
+- **Diet:** High in fruits and vegetables, but consumes fast food 1-2 times a week.
+- **Exercise:** Irregular; occasionally goes for walks.
+- **Tobacco Use:** Current smoker, 5 cigarettes a day.
+- **Alcohol Consumption:** Occasional drinking, weekends only.
+- **Drug Use:** None.
+- **Recreational Activities:** Enjoys gardening and watching movies.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood pressure: 140/90 mmHg
+- Heart rate: 72 bpm
+- Respirations: 16 per minute
+- Temperature: 98.6°F
+
+**Physical Exam:**
+- **General Appearance:** Appears slightly fatigued.
+- **Breast:** No palpable lumps detected, breast tissue normal on palpation.
+- **Respiratory:** Clear breath sounds bilaterally.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+
+**Test Results:**
+- **Lipid Panel:** Slightly elevated cholesterol.
+- **Basic Metabolic Panel:** Normal glucose levels, electrolytes within normal ranges.
+
+**3. Assessment:**
+
+1. **Hypertension:** 
+   - Well-known condition, currently managed but could be improved with lifestyle modifications.
+2. **Family history of breast cancer:**
+   - Significant due to mother's diagnosis at age 55, necessitating proactive screening.
+3. **Elevated cholesterol levels:**
+   - Likely related to diet and irregular exercise habits.
+4. **Current smoker:**
+   - Smoking cessation is crucial for long-term health.
+5. **Fatigue:**
+   - Likely multifactorial, possible contributions from sleep quality, diet, and smoking.
+
+**4. Plan:**
+
+1. **Mammogram:**
+   - Order a mammogram for breast cancer screening, scheduled at the nearest facility 30 miles away.
+2. **Dietary Counselling:**
+   - Encourage a balanced diet with reduced fast food intake, emphasize increasing fruits, vegetables, and whole grains.
+3. **Exercise:**
+   - Advise regular physical activity, targeting at least 30 minutes of moderate exercise 5 days a week.
+4. **Smoking Cessation:**
+   - Refer to a smoking cessation program, discuss nicotine replacement therapy or prescription medications if agreeable.
+5. **Hypertension Management:**
+   - Continue current antihypertensive medication, consider adjusting the regimen based on financial constraints and adherence.
+6. **Follow-up:**
+   - Schedule follow-up in 3 months to review mammogram results, re-assess hypertension, and monitor cholesterol levels.
+7. **Patient Education:**
+   - Discuss the importance of medication adherence despite financial constraints, explore possible assistance programs.
+
+The patient understands and agrees with the proposed plan. She will also explore local resources for dietary counseling and smoking cessation support.
+
+#####
+
+"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Routine health screening.
+
+**History of Present Illness (HPI):**  
+45-year-old African American female, named Angela Johnson, presents for a routine health screening. She has a known history of hypertension and a family history of breast cancer (mother diagnosed at age 55). Currently, she has no specific symptoms but has not had a mammogram previously and her breast exams have been irregular.
+
+**Review of Systems (ROS):**  
+- **General:** Reports feeling slightly fatigued.
+- **Sleep:** Averages 6-7 hours, sometimes disrupted.
+- **Diet:** High in fruits and vegetables, but consumes fast food 1-2 times a week.
+- **Exercise:** Irregular; occasionally goes for walks.
+- **Tobacco Use:** Current smoker, 5 cigarettes a day.
+- **Alcohol Consumption:** Occasional drinking, weekends only.
+- **Drug Use:** None.
+- **Recreational Activities:** Enjoys gardening and watching movies.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood pressure: 140/90 mmHg
+- Heart rate: 72 bpm
+- Respirations: 16 per minute
+- Temperature: 98.6°F
+
+**Physical Exam:**
+- **General Appearance:** Appears slightly fatigued.
+- **Breast:** No palpable lumps detected, breast tissue normal on palpation.
+- **Respiratory:** Clear breath sounds bilaterally.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+
+**Test Results:**
+- **Lipid Panel:** Slightly elevated cholesterol.
+- **Basic Metabolic Panel:** Normal glucose levels, electrolytes within normal ranges.
+
+**3. Assessment:**
+
+1. **Hypertension:** 
+   - Well-known condition, currently managed but could be improved with lifestyle modifications.
+2. **Family history of breast cancer:**
+   - Significant due to mother's diagnosis at age 55, necessitating proactive screening.
+3. **Elevated cholesterol levels:**
+   - Likely related to diet and irregular exercise habits.
+4. **Current smoker:**
+   - Smoking cessation is crucial for long-term health.
+5. **Fatigue:**
+   - Likely multifactorial, possible contributions from sleep quality, diet, and smoking.
+
+**4. Plan:**
+
+1. **Mammogram:**
+   - Order a mammogram for breast cancer screening, scheduled at the nearest facility 30 miles away.
+2. **Dietary Counselling:**
+   - Encourage a balanced diet with reduced fast food intake, emphasize increasing fruits, vegetables, and whole grains.
+3. **Exercise:**
+   - Advise regular physical activity, targeting at least 30 minutes of moderate exercise 5 days a week.
+4. **Smoking Cessation:**
+   - Refer to a smoking cessation program, discuss nicotine replacement therapy or prescription medications if agreeable.
+5. **Hypertension Management:**
+   - Continue current antihypertensive medication, consider adjusting the regimen based on financial constraints and adherence.
+6. **Follow-up:**
+   - Schedule follow-up in 3 months to review mammogram results, re-assess hypertension, and monitor cholesterol levels.
+7. **Patient Education:**
+   - Discuss the importance of medication adherence despite financial constraints, explore possible assistance programs.
+
+The patient understands and agrees with the proposed plan. She will also explore local resources for dietary counseling and smoking cessation support.
+
+#####"|"#####
+**1. Subjective:**
+
+**CC:**  
+Routine health screening.
+
+**HPI:**  
+45 y/o African American F, named Angela Johnson, presents for routine health screening. Hx of HTN and FHx of breast CA (mother dx at age 55). Currently, she has no specific sx but has not had a mammogram previously and her breast exams have been irregular.
+
+**ROS:**  
+- **General:** Reports feeling slightly fatigued.
+- **Sleep:** Averages 6-7 hrs, sometimes disrupted.
+- **Diet:** High in fruits and vegetables, but consumes fast food 1-2x/wk.
+- **Exercise:** Irregular; occasionally goes for walks.
+- **Tobacco Use:** Current smoker, 5 cigarettes/day.
+- **Alcohol Consumption:** Occasional drinking, weekends only.
+- **Drug Use:** None.
+- **Recreational Activities:** Enjoys gardening and watching movies.
+
+**2. Objective:**
+
+**VS:**
+- BP: 140/90 mmHg
+- HR: 72 bpm
+- RR: 16/min
+- Temp: 98.6°F
+
+**PE:**
+- **General Appearance:** Appears slightly fatigued.
+- **Breast:** No palpable lumps detected, breast tissue normal on palpation.
+- **Respiratory:** Clear breath sounds bilaterally.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+
+**Test Results:**
+- **Lipid Panel:** Slightly elevated cholesterol.
+- **BMP:** Normal glucose levels, electrolytes WNL.
+
+**3. Assessment:**
+
+1. **HTN:** 
+   - Well-known condition, currently managed but could be improved with lifestyle modifications.
+2. **FHx of breast CA:**
+   - Significant due to mother's dx at age 55, necessitating proactive screening.
+3. **Elevated cholesterol levels:**
+   - Likely related to diet and irregular exercise habits.
+4. **Current smoker:**
+   - Smoking cessation is crucial for long-term health.
+5. **Fatigue:**
+   - Likely multifactorial, possible contributions from sleep quality, diet, and smoking.
+
+**4. Plan:**
+
+1. **Mammogram:**
+   - Order a mammogram for breast CA screening, scheduled at the nearest facility 30 miles away.
+2. **Dietary Counselling:**
+   - Encourage a balanced diet with reduced fast food intake, emphasize increasing fruits, vegetables, and whole grains.
+3. **Exercise:**
+   - Advise regular physical activity, targeting at least 30 mins of moderate exercise 5 days/wk.
+4. **Smoking Cessation:**
+   - Refer to a smoking cessation program, discuss NRT or Rx meds if agreeable.
+5. **HTN Management:**
+   - Continue current antihypertensive meds, consider adjusting the regimen based on financial constraints and adherence.
+6. **Follow-up:**
+   - Schedule F/U in 3 months to review mammogram results, re-assess HTN, and monitor cholesterol levels.
+7. **Patient Education:**
+   - Discuss the importance of med adherence despite financial constraints, explore possible assistance programs.
+
+The patient understands and agrees with the proposed plan. She will also explore local resources for dietary counseling and smoking cessation support.
+
+#####"|Family Medicine Physician
+ENCOUNTER FOR SCREENING FOR OTHER DISORDER|"ROLE: Family Medicine Physician
+
+** Medical Outcome:**
+  - Diagnosis: Encounter for screening for other disorder (ICD-10 Code: Z13.89)
+  - Prescribed Treatment: N/A
+  - Follow-up Recommendations: Return in 6 months for re-evaluation and any necessary immunizations 
+  - Referral to further tests or imaging: N/A
+  - Medication Adjustment: N/A
+  - Lifestyle Change: Recommend balanced diet and regular exercise
+  - Order for blood work: Hematology (Complete Blood Count), Biochemistry panel (HB1AC, Kidney function, Lipid profile)
+
+** Medical History:**
+  - Previous Diagnoses: Hypothyroidism
+  - Family Medical History: Father has a history of stroke, Mother has osteoporosis 
+  - Medication History: Levothyroxine 75 mcg daily
+  - Allergies: Sulfa drugs
+  - Chronic Conditions: Hypothyroidism
+
+** Symptom Description:**
+  - Severity: N/A
+  - Duration: N/A
+  - Associated Symptoms: N/A
+  - Frequency: N/A
+  - Impact on Daily Activities: N/A
+
+** Patient’s self-reported habits and lifestyle:**
+  - Sleep: 7-8 hours per night, good sleep quality
+  - Diet: Consumes a balanced diet, but high in carbohydrates
+  - Exercise: Engages in mild exercise like walking thrice a week
+  - Tobacco Use: Non-smoker
+  - Alcohol Consumption: Light (1-2 drinks per month)
+  - Drug Use: N/A
+  - Recreational Activities: Enjoys reading and gardening
+
+** Demographic Information:**
+  - Age: 65
+  - Gender: Female
+  - Ethnicity: Asian
+  - Socio-economic Status: Retired on a fixed income
+  - Education Level: Bachelor’s degree
+  - Health Literacy: High
+  - Job Status: Retired school teacher
+
+** Patient's Behavior:**
+  - Level of Patient's Cooperation: Highly cooperative and adherent to medical advice
+
+** Geographical Location:**
+  - Urban area with good access to healthcare facilities
+  - Low pollution and environmental health risks
+  - Neighborhood Type: Middle-class, access to fresh food options and recreational parks
+
+** Clinical Setting:**
+  - Community Health Center
+
+** Type of Encounter:**
+  - Follow-up for established chronic condition
+
+** Treatment Disparities:**
+  - Patient has had occasional challenges affording medications on a fixed income
+
+** Native or Non-Native English Speaking Patient:**
+  - Non-Native English Speaking Patient (fluent in English)
+
+** Physical exams:**
+  - Blood Pressure: 125/70 mmHg
+  - Body Mass Index (BMI): 24 kg/m²
+  - General physical exam unremarkable
+
+** Investigation/Test results:**
+  - Awaiting results for Hematology (Complete Blood Count) and Biochemistry panel (HB1AC, Kidney function, Lipid profile)"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Routine follow-up for hypothyroidism and screening for other disorders.
+
+**History of Present Illness (HPI):**  
+A 65-year-old Asian female presents for a routine follow-up visit. She has a history of hypothyroidism, managed with Levothyroxine 75 mcg daily. The patient does not report any new symptoms and states that she feels generally well. She maintains a balanced diet but mentions it is high in carbohydrates. She engages in mild exercise such as walking thrice a week. She has a family history notable for her father’s history of stroke and her mother’s osteoporosis. She reports good sleep quality, non-smoker, light alcohol consumption (1-2 drinks per month), and no drug use. She enjoys reading and gardening.
+
+**Review of Systems (ROS):**
+- **General:** No recent weight loss or gain, fatigue, or fever.
+- **Cardiovascular:** No chest pain, palpitations, or edema.
+- **Respiratory:** No shortness of breath or cough.
+- **Gastrointestinal:** No nausea, vomiting, diarrhea, or constipation.
+- **Musculoskeletal:** No joint pain or muscle weakness.
+- **Neurological:** No headaches, dizziness, or weakness.
+- **Endocrine:** No changes in hair, skin, or tolerance to heat/cold.
+
+**2. Objective:**
+
+**Vitals:**
+- Blood Pressure: 125/70 mmHg
+- Body Mass Index (BMI): 24 kg/m²
+
+**Physical Exam:**
+- **General:** Well-appearing, in no acute distress.
+- **HEENT:** Normocephalic, atraumatic. No thyromegaly.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, rubs, or gallops.
+- **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Extremities:** No edema, pulses palpable.
+- **Neurological:** Alert and oriented, no focal deficits.
+
+**Results:**
+Awaiting results for Hematology (Complete Blood Count) and Biochemistry panel (HB1AC, Kidney function, Lipid profile).
+
+**3. Assessment:**
+Encounter for screening for other disorder, management of hypothyroidism (ICD-10 Code: Z13.89).
+
+**4. Plan:**
+
+**Treatment:**
+- No changes to current medication (Levothyroxine 75 mcg daily).
+
+**Recommendations:**
+- Continue a balanced diet, consider reducing carbohydrate intake.
+- Increase the frequency of exercise to at least five days a week if possible.
+- Maintain good sleep hygiene and aim for 7-8 hours per night.
+- Continue non-smoking and light alcohol consumption habits.
+
+**Follow-up:**
+- Return in 6 months for re-evaluation and any necessary immunizations.
+
+**Orders:**
+- Hematology (Complete Blood Count)
+- Biochemistry panel (HB1AC, Kidney function, Lipid profile)
+
+**Lifestyle Change:**
+- Recommend balanced diet and regular exercise.
+
+**Instructions:**
+- The patient has been advised to contact the clinic if she experiences any new or worsening symptoms before her next visit.
+- Discuss the importance of managing stress and engaging in recreational activities such as her reading and gardening."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Routine follow-up for hypothyroidism and screening for other disorders.
+
+**History of Present Illness (HPI):**  
+A 65-year-old Asian female, named Mrs. Mei Lin, presents for a routine follow-up visit. She has a history of hypothyroidism, managed with Levothyroxine 75 mcg daily. The patient does not report any new symptoms and states that she feels generally well. She maintains a balanced diet but mentions it is high in carbohydrates. She engages in mild exercise such as walking thrice a week. She has a family history notable for her father’s history of stroke and her mother’s osteoporosis. She reports good sleep quality, non-smoker, light alcohol consumption (1-2 drinks per month), and no drug use. She enjoys reading and gardening.
+
+**Review of Systems (ROS):**
+- **General:** No recent weight loss or gain, fatigue, or fever.
+- **Cardiovascular:** No chest pain, palpitations, or edema.
+- **Respiratory:** No shortness of breath or cough.
+- **Gastrointestinal:** No nausea, vomiting, diarrhea, or constipation.
+- **Musculoskeletal:** No joint pain or muscle weakness.
+- **Neurological:** No headaches, dizziness, or weakness.
+- **Endocrine:** No changes in hair, skin, or tolerance to heat/cold.
+
+**2. Objective:**
+
+**Vitals:**
+- Blood Pressure: 125/70 mmHg
+- Body Mass Index (BMI): 24 kg/m²
+
+**Physical Exam:**
+- **General:** Well-appearing, in no acute distress.
+- **HEENT:** Normocephalic, atraumatic. No thyromegaly.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, rubs, or gallops.
+- **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Extremities:** No edema, pulses palpable.
+- **Neurological:** Alert and oriented, no focal deficits.
+
+**Results:**
+Awaiting results for Hematology (Complete Blood Count) and Biochemistry panel (HB1AC, Kidney function, Lipid profile).
+
+**3. Assessment:**
+Encounter for screening for other disorder, management of hypothyroidism (ICD-10 Code: Z13.89).
+
+**4. Plan:**
+
+**Treatment:**
+- No changes to current medication (Levothyroxine 75 mcg daily).
+
+**Recommendations:**
+- Continue a balanced diet, consider reducing carbohydrate intake.
+- Increase the frequency of exercise to at least five days a week if possible.
+- Maintain good sleep hygiene and aim for 7-8 hours per night.
+- Continue non-smoking and light alcohol consumption habits.
+
+**Follow-up:**
+- Return in 6 months for re-evaluation and any necessary immunizations.
+
+**Orders:**
+- Hematology (Complete Blood Count)
+- Biochemistry panel (HB1AC, Kidney function, Lipid profile)
+
+**Lifestyle Change:**
+- Recommend balanced diet and regular exercise.
+
+**Instructions:**
+- The patient has been advised to contact the clinic if she experiences any new or worsening symptoms before her next visit.
+- Discuss the importance of managing stress and engaging in recreational activities such as her reading and gardening."|"#####
+**1. Subjective:**
+
+**CC:**  
+Routine f/u for hypothyroidism and screening for other disorders.
+
+**HPI:**  
+A 65 y/o Asian F, named Mrs. Mei Lin, presents for a routine f/u visit. She has a hx of hypothyroidism, managed with Levothyroxine 75 mcg daily. The pt does not report any new sx and states that she feels generally well. She maintains a balanced diet but mentions it is high in carbs. She engages in mild exercise such as walking TID per week. She has a FH notable for her father’s hx of CVA and her mother’s osteoporosis. She reports good sleep quality, non-smoker, light EtOH consumption (1-2 drinks per month), and no drug use. She enjoys reading and gardening.
+
+**ROS:**
+- **General:** No recent wt loss or gain, fatigue, or fever.
+- **CV:** No CP, palpitations, or edema.
+- **Resp:** No SOB or cough.
+- **GI:** No N/V/D or constipation.
+- **MSK:** No joint pain or muscle weakness.
+- **Neuro:** No HA, dizziness, or weakness.
+- **Endo:** No changes in hair, skin, or tolerance to heat/cold.
+
+**2. Objective:**
+
+**Vitals:**
+- BP: 125/70 mmHg
+- BMI: 24 kg/m²
+
+**Physical Exam:**
+- **General:** Well-appearing, in no acute distress.
+- **HEENT:** NCAT. No thyromegaly.
+- **CV:** RRR, no murmurs, rubs, or gallops.
+- **Resp:** CTA bilaterally, no wheezes, rales, or rhonchi.
+- **Abd:** Soft, non-tender, no organomegaly.
+- **Ext:** No edema, pulses palpable.
+- **Neuro:** A&O, no focal deficits.
+
+**Results:**
+Awaiting results for Hematology (CBC) and Biochemistry panel (HbA1c, Kidney function, Lipid profile).
+
+**3. Assessment:**
+Encounter for screening for other disorder, mgmt of hypothyroidism (ICD-10 Code: Z13.89).
+
+**4. Plan:**
+
+**Tx:**
+- No changes to current med (Levothyroxine 75 mcg daily).
+
+**Recommendations:**
+- Continue a balanced diet, consider reducing carb intake.
+- Increase the frequency of exercise to at least five days a week if possible.
+- Maintain good sleep hygiene and aim for 7-8 hrs per night.
+- Continue non-smoking and light EtOH consumption habits.
+
+**F/U:**
+- Return in 6 months for re-eval and any necessary immunizations.
+
+**Orders:**
+- Hematology (CBC)
+- Biochemistry panel (HbA1c, Kidney function, Lipid profile)
+
+**Lifestyle Change:**
+- Recommend balanced diet and regular exercise.
+
+**Instructions:**
+- The pt has been advised to contact the clinic if she experiences any new or worsening sx before her next visit.
+- Discuss the importance of managing stress and engaging in recreational activities such as her reading and gardening."|Family Medicine Physician
+ENCOUNTER FOR SCREENING FOR OTHER DISORDER|"ROLE: Family Medicine Physician
+
+**Scenario Variables:**
+1. Medical Outcome: Preventive Health Screening; Recommendations for follow-up.
+2. Medical History: Previous Diagnoses - Hyperlipidemia and Hypertension; Family Medical History - Father had colon cancer; Medication History - Atorvastatin 20 mg daily for cholesterol, Lisinopril 10 mg daily for blood pressure; Allergies - NKDA (No Known Drug Allergies); Chronic Conditions - None other than those diagnosed.
+3. Symptom Description: NA (No symptoms as this is a screening visit).
+4. Patient’s self-reported habits and lifestyle: Sleep - 6–7 hours per night; Diet - High in saturated fats and processed sugars; Exercise - Sedentary lifestyle, no regular exercise routine; Tobacco Use - Smokes half a pack per day; Alcohol Consumption - Occasional social drinker, 1–2 drinks per week; Drug Use - None; Recreational Activities - Minimal.
+5. Demographic Information: Age - 55; Gender - Male; Ethnicity - Caucasian; Socio-economic Status - Middle class; Education Level - College graduate; Health Literacy - Moderate; Job Status - Employed as an office manager.
+6. Patient's Behavior: Generally cooperative but exhibits some reluctance towards making lifestyle changes.
+7. Geographical Location: Urban; Neighborhood Type - Moderately affluent; Well-served by transit and healthcare facilities.
+8. Clinical Setting: Family Medicine Clinic.
+9. Type of Encounter: Initial Consultation for Preventive Health Screening.
+10. Treatment Disparities: None noted.
+11. Native or Non-Native English Speaking Patient: Native English Speaker.
+12. Physical exams: Vital signs (Blood pressure, heart rate, temperature, respiratory rate), Cardiopulmonary examination, Abdominal examination, BMI calculation.
+13. Investigation/Test results: Colonoscopy (scheduled due to family history of colon cancer); Lipid profile (to monitor hyperlipidemia); Hemoglobin A1C (to screen for diabetes); Complete Blood Count (CBC). All results are pending."|"### Subjective:
+
+**Chief Complaint (CC):**
+Initial consultation for preventive health screening.
+
+**History of Present Illness (HPI):**
+The patient is a 55-year-old Caucasian male here for an initial preventive health screening. He has a known history of hyperlipidemia and hypertension, currently managed with atorvastatin 20 mg daily and lisinopril 10 mg daily. He reports no current symptoms.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Denies fever, chills, or unintended weight loss.
+- **Cardiovascular:** Denies chest pain, palpitations, or dyspnea.
+- **Respiratory:** Denies cough, wheezing, or shortness of breath.
+- **Gastrointestinal:** Denies abdominal pain, nausea, vomiting, or changes in bowel habits.
+- **Neurological:** Denies headaches, dizziness, or syncope.
+- **Endocrine:** Denies polyuria, polydipsia, or unexplained weight changes.
+
+**Social History:**
+- Sleep: 6–7 hours per night.
+- Diet: High in saturated fats and processed sugars.
+- Exercise: Sedentary lifestyle, no regular exercise routine.
+- Tobacco Use: Smokes half a pack per day.
+- Alcohol Consumption: Occasional social drinker, 1–2 drinks per week.
+- Drug Use: None.
+- Recreational Activities: Minimal.
+- Occupation: Employed as an office manager.
+
+### Objective:
+
+**Vital Signs:**
+- Blood Pressure: 140/85 mmHg
+- Heart Rate: 78 bpm
+- Temperature: 98.6°F
+- Respiratory Rate: 16 breaths per minute
+- BMI: 30.5 (Obese)
+
+**Physical Examination:**
+- **General:** Patient appears well-developed and well-nourished. No acute distress.
+- **Cardiovascular:** Regular rate and rhythm. No murmurs, rubs, or gallops.
+- **Respiratory:** Lungs clear to auscultation bilaterally. No wheezes, rales, or rhonchi.
+- **Abdomen:** Soft, non-tender, and non-distended. Bowel sounds present. No organomegaly.
+- **Extremities:** No edema. Peripheral pulses are 2+ and symmetric.
+- **Neurological:** Alert and oriented x3. Cranial nerves II-XII intact.
+
+### Assessment:
+
+1. **Hyperlipidemia:**
+   - Medical Reasoning: Patient is on atorvastatin 20 mg daily. Lipid profile results pending to assess current management effectiveness.
+   
+2. **Hypertension:**
+   - Medical Reasoning: Blood pressure today is slightly elevated at 140/85 mmHg. Patient is currently on lisinopril 10 mg daily.
+
+3. **Preventive Health Screening:**
+   - Medical Reasoning: Given the patient's family history (father had colon cancer), a colonoscopy is scheduled. Screening for diabetes with Hemoglobin A1C is warranted given the patient's sedentary lifestyle and dietary habits.
+
+### Plan:
+
+1. **Medication:**
+   - Continue atorvastatin 20 mg daily and lisinopril 10 mg daily.
+   - Reevaluate medications based on subsequent lipid profile and blood pressure readings.
+
+2. **Lifestyle Modifications:**
+   - Smoking Cessation: Discussed benefits of quitting smoking and provided resources for smoking cessation.
+   - Diet: Recommended a diet low in saturated fats and processed sugars. Referral to a dietitian for nutritional counseling.
+   - Exercise: Encouraged at least 150 minutes of moderate aerobic activity per week. Provided a handout on beginner exercise routines.
+
+3. **Screenings/Tests:**
+   - Colonoscopy: Scheduled due to family history of colon cancer.
+   - Lipid Profile: Awaiting results.
+   - Hemoglobin A1C: Awaiting results.
+   - Complete Blood Count (CBC): Awaiting results.
+
+4. **Follow-Up:**
+   - Schedule follow-up appointment in 4 weeks to review test results and adjust treatment plan as necessary.
+   - Monitor blood pressure at home and maintain a log to discuss during the next visit.
+
+**Patient Education and Counseling:**
+- Discussed the importance of lifestyle changes in managing hyperlipidemia and hypertension.
+- Reviewed the potential risks associated with untreated hypertension and hyperlipidemia, including cardiovascular disease and stroke.
+- Addressed patient's reluctance towards lifestyle changes and emphasized small, manageable steps to improve health outcomes.
+
+**Patient Understanding and Agreement:**
+- Patient understands and agrees with the proposed plan and recommendations. All questions were answered.
+
+"|"### Subjective:
+
+**Chief Complaint (CC):**
+Initial consultation for preventive health screening.
+
+**History of Present Illness (HPI):**
+The patient, John Smith, is a 55-year-old Caucasian male here for an initial preventive health screening. He has a known history of hyperlipidemia and hypertension, currently managed with atorvastatin 20 mg daily and lisinopril 10 mg daily. He reports no current symptoms.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Denies fever, chills, or unintended weight loss.
+- **Cardiovascular:** Denies chest pain, palpitations, or dyspnea.
+- **Respiratory:** Denies cough, wheezing, or shortness of breath.
+- **Gastrointestinal:** Denies abdominal pain, nausea, vomiting, or changes in bowel habits.
+- **Neurological:** Denies headaches, dizziness, or syncope.
+- **Endocrine:** Denies polyuria, polydipsia, or unexplained weight changes.
+
+**Social History:**
+- Sleep: 6–7 hours per night.
+- Diet: High in saturated fats and processed sugars.
+- Exercise: Sedentary lifestyle, no regular exercise routine.
+- Tobacco Use: Smokes half a pack per day.
+- Alcohol Consumption: Occasional social drinker, 1–2 drinks per week.
+- Drug Use: None.
+- Recreational Activities: Minimal.
+- Occupation: Employed as an office manager.
+
+### Objective:
+
+**Vital Signs:**
+- Blood Pressure: 140/85 mmHg
+- Heart Rate: 78 bpm
+- Temperature: 98.6°F
+- Respiratory Rate: 16 breaths per minute
+- BMI: 30.5 (Obese)
+
+**Physical Examination:**
+- **General:** Patient appears well-developed and well-nourished. No acute distress.
+- **Cardiovascular:** Regular rate and rhythm. No murmurs, rubs, or gallops.
+- **Respiratory:** Lungs clear to auscultation bilaterally. No wheezes, rales, or rhonchi.
+- **Abdomen:** Soft, non-tender, and non-distended. Bowel sounds present. No organomegaly.
+- **Extremities:** No edema. Peripheral pulses are 2+ and symmetric.
+- **Neurological:** Alert and oriented x3. Cranial nerves II-XII intact.
+
+### Assessment:
+
+1. **Hyperlipidemia:**
+   - Medical Reasoning: Patient is on atorvastatin 20 mg daily. Lipid profile results pending to assess current management effectiveness.
+   
+2. **Hypertension:**
+   - Medical Reasoning: Blood pressure today is slightly elevated at 140/85 mmHg. Patient is currently on lisinopril 10 mg daily.
+
+3. **Preventive Health Screening:**
+   - Medical Reasoning: Given the patient's family history (father had colon cancer), a colonoscopy is scheduled. Screening for diabetes with Hemoglobin A1C is warranted given the patient's sedentary lifestyle and dietary habits.
+
+### Plan:
+
+1. **Medication:**
+   - Continue atorvastatin 20 mg daily and lisinopril 10 mg daily.
+   - Reevaluate medications based on subsequent lipid profile and blood pressure readings.
+
+2. **Lifestyle Modifications:**
+   - Smoking Cessation: Discussed benefits of quitting smoking and provided resources for smoking cessation.
+   - Diet: Recommended a diet low in saturated fats and processed sugars. Referral to a dietitian for nutritional counseling.
+   - Exercise: Encouraged at least 150 minutes of moderate aerobic activity per week. Provided a handout on beginner exercise routines.
+
+3. **Screenings/Tests:**
+   - Colonoscopy: Scheduled due to family history of colon cancer.
+   - Lipid Profile: Awaiting results.
+   - Hemoglobin A1C: Awaiting results.
+   - Complete Blood Count (CBC): Awaiting results.
+
+4. **Follow-Up:**
+   - Schedule follow-up appointment in 4 weeks to review test results and adjust treatment plan as necessary.
+   - Monitor blood pressure at home and maintain a log to discuss during the next visit.
+
+**Patient Education and Counseling:**
+- Discussed the importance of lifestyle changes in managing hyperlipidemia and hypertension.
+- Reviewed the potential risks associated with untreated hypertension and hyperlipidemia, including cardiovascular disease and stroke.
+- Addressed patient's reluctance towards lifestyle changes and emphasized small, manageable steps to improve health outcomes.
+
+**Patient Understanding and Agreement:**
+- Patient understands and agrees with the proposed plan and recommendations. All questions were answered."|"### Subjective:
+
+**CC:**
+Initial consult for preventive health screening.
+
+**HPI:**
+The pt, John Smith, is a 55 y/o Caucasian male here for an initial preventive health screening. He has a known hx of HLD and HTN, currently managed with atorvastatin 20 mg QD and lisinopril 10 mg QD. He reports no current sx.
+
+**ROS:**
+- **Constitutional:** Denies fever, chills, or unintended wt loss.
+- **CV:** Denies CP, palpitations, or dyspnea.
+- **Resp:** Denies cough, wheezing, or SOB.
+- **GI:** Denies abd pain, N/V, or changes in bowel habits.
+- **Neuro:** Denies HA, dizziness, or syncope.
+- **Endo:** Denies polyuria, polydipsia, or unexplained wt changes.
+
+**Social Hx:**
+- Sleep: 6–7 hrs per night.
+- Diet: High in sat fats and processed sugars.
+- Exercise: Sedentary lifestyle, no regular exercise routine.
+- Tobacco Use: Smokes ½ PPD.
+- ETOH: Occasional social drinker, 1–2 drinks/wk.
+- Drug Use: None.
+- Recreational Activities: Minimal.
+- Occupation: Employed as an office mgr.
+
+### Objective:
+
+**VS:**
+- BP: 140/85 mmHg
+- HR: 78 bpm
+- Temp: 98.6°F
+- RR: 16 bpm
+- BMI: 30.5 (Obese)
+
+**PE:**
+- **General:** Pt appears well-developed and well-nourished. No acute distress.
+- **CV:** RRR. No murmurs, rubs, or gallops.
+- **Resp:** Lungs CTA bilaterally. No wheezes, rales, or rhonchi.
+- **Abd:** Soft, non-tender, and non-distended. Bowel sounds present. No organomegaly.
+- **Ext:** No edema. Peripheral pulses are 2+ and symmetric.
+- **Neuro:** A&O x3. CN II-XII intact.
+
+### Assessment:
+
+1. **HLD:**
+   - Medical Reasoning: Pt is on atorvastatin 20 mg QD. Lipid profile results pending to assess current mgmt effectiveness.
+   
+2. **HTN:**
+   - Medical Reasoning: BP today is slightly elevated at 140/85 mmHg. Pt is currently on lisinopril 10 mg QD.
+
+3. **Preventive Health Screening:**
+   - Medical Reasoning: Given the pt's FHx (father had colon CA), a colonoscopy is scheduled. Screening for DM with HbA1C is warranted given the pt's sedentary lifestyle and dietary habits.
+
+### Plan:
+
+1. **Meds:**
+   - Continue atorvastatin 20 mg QD and lisinopril 10 mg QD.
+   - Reevaluate meds based on subsequent lipid profile and BP readings.
+
+2. **Lifestyle Mods:**
+   - Smoking Cessation: Discussed benefits of quitting smoking and provided resources for smoking cessation.
+   - Diet: Recommended a diet low in sat fats and processed sugars. Referral to a dietitian for nutritional counseling.
+   - Exercise: Encouraged at least 150 mins of moderate aerobic activity/wk. Provided a handout on beginner exercise routines.
+
+3. **Screenings/Tests:**
+   - Colonoscopy: Scheduled due to FHx of colon CA.
+   - Lipid Profile: Awaiting results.
+   - HbA1C: Awaiting results.
+   - CBC: Awaiting results.
+
+4. **F/U:**
+   - Schedule f/u appt in 4 wks to review test results and adjust tx plan as necessary.
+   - Monitor BP at home and maintain a log to discuss during the next visit.
+
+**Pt Education and Counseling:**
+- Discussed the importance of lifestyle changes in managing HLD and HTN.
+- Reviewed the potential risks associated with untreated HTN and HLD, including CVD and stroke.
+- Addressed pt's reluctance towards lifestyle changes and emphasized small, manageable steps to improve health outcomes.
+
+**Pt Understanding and Agreement:**
+- Pt understands and agrees with the proposed plan and recommendations. All questions were answered."|Family Medicine Physician
+ENCOUNTER FOR SCREENING FOR OTHER DISORDER|"ROLE: General Physician
+
+** CHIEF COMPLAINT:
+Routine check-up
+
+** HISTORY OF PRESENT ILLNESS:
+Maria Lopez is a 45-year-old female presenting for a routine preventive health screening. She reports no current symptoms or complaints.
+
+** PAST MEDICAL HISTORY:
+- Hypertension
+- Hyperlipidemia
+- Type 2 Diabetes Mellitus
+
+** FAMILY HISTORY:
+- Mother: Breast cancer, diagnosed at age 52
+- Father: Myocardial infarction, at age 60
+- Sister: Rheumatoid arthritis
+
+** CURRENT MEDICATIONS:
+- Metformin 500mg, oral, twice daily
+- Lisinopril 20mg, oral, once daily
+- Atorvastatin 40mg, oral, once daily
+- Aspirin 81mg, oral, once daily
+
+** ALLERGIES:
+- Penicillin (rash)
+- Sulfa drugs (hives)
+
+** SOCIAL HISTORY:
+- Sleep: 6-7 hours/night, reports occasional insomnia
+- Diet: Balanced diet, follows a Mediterranean diet
+- Exercise: Walks 30 minutes daily and does yoga twice a week
+- Tobacco Use: Quit smoking 10 years ago, smoked for 15 years
+- Alcohol Consumption: Occasionally, 1-2 glasses of wine per week
+- Drug Use: Denies illegal drug use
+- Recreational Activities: Enjoys gardening and knitting
+
+** DEMOGRAPHIC INFORMATION:
+- Age: 45
+- Gender: Female
+- Ethnicity: Hispanic
+- Socio-economic Status: Middle class
+- Education Level: College graduate
+- Health Literacy: High, understands medical terminology well
+- Job Status: High school teacher
+- Native or Non-Native English Speaking: Non-Native English Speaking
+
+** GEOGRAPHICAL LOCATION:
+- Urban, lives in a well-served neighborhood in a big city, good access to healthcare facilities and public transit
+
+** CLINICAL SETTING:
+- Community Health Services
+
+** TYPE OF ENCOUNTER:
+- Preventive Health Screening
+
+** PATIENT'S BEHAVIOR:
+- Highly cooperative, adheres well to medical advice
+
+** PHYSICAL EXAMS:
+- NA
+
+** INVESTIGATIONS/TEST RESULTS:
+- Order for blood work: Hematology (CBC), Biochemistry (fasting glucose, HbA1c, lipid profile, liver function tests, kidney function tests)
+- Order for imaging: Mammogram (due to family history of breast cancer)
+- Order for immunology: Thyroid profile (given family history of autoimmune disease)
+
+** MEDICAL OUTCOME:
+- Continue current medications
+- Emphasis on maintaining a healthy lifestyle
+- Follow-up in one year unless new symptoms or concerns arise
+- Referral to a dietitian for further management of diet related to diabetes control
+- Possible referral to an endocrinologist if thyroid function test results are abnormal (reason: family history of autoimmune disease, Dr. Emily Nguyen, Endocrinology)"|Rejected|Rejected|Rejected|Rejected
+ENCOUNTER FOR SCREENING FOR OTHER DISORDER|"ROLE: General Physician
+
+** CHIEF COMPLAINT**
+Routine check-up for follow-up on previously diagnosed conditions
+
+** HISTORY OF PRESENT ILLNESS**
+James Thompson is a 60-year-old male presenting for a follow-up appointment. He reports mild fatigue but no other symptoms.
+
+** PAST MEDICAL HISTORY**
+- Hypertension
+- Hyperlipidemia
+- Type 2 Diabetes Mellitus
+
+** FAMILY HISTORY**
+- Mother: Alzheimer’s disease, diagnosed at age 75
+- Father: Colorectal cancer, at age 68
+
+** CURRENT MEDICATIONS**
+- Metformin 500mg, oral, twice daily
+- Lisinopril 20mg, oral, once daily
+- Atorvastatin 40mg, oral, once daily
+- Aspirin 81mg, oral, once daily
+
+** ALLERGIES**
+- Penicillin (rash)
+- Sulfa drugs (hives)
+
+** SOCIAL HISTORY**
+- Sleep: 5-6 hours/night, reports occasional insomnia, difficulty maintaining sleep
+- Diet: High in carbohydrates and fats, irregular meal timings
+- Exercise: Minimal, occasionally takes short walks
+- Tobacco Use: Denies use
+- Alcohol Consumption: Frequently, 3-4 glasses of beer per week
+- Drug Use: Denies illegal drug use
+- Recreational Activities: Enjoys watching TV and playing chess
+
+** DEMOGRAPHIC INFORMATION**
+- Age: 60
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Lower-middle class
+- Education Level: High school graduate
+- Health Literacy: Moderate, understands basic medical terminology
+- Job Status: Retired factory worker
+- Native or Non-Native English Speaking: Native English Speaking
+
+** GEOGRAPHICAL LOCATION**
+- Rural area, lacks immediate access to specialized healthcare facilities, limited public transit options
+
+** CLINICAL SETTING**
+- Private Practice
+
+** TYPE OF ENCOUNTER**
+- Follow-up visit
+
+** PATIENT'S BEHAVIOR**
+- Somewhat non-compliant, irregular with medication adherence, and dietary recommendations
+
+** PHYSICAL EXAMS**
+- Cardiovascular: Mild tachycardia, BP 140/90 mmHg
+- Abdomen: Soft, non-tender with normoactive bowel sounds
+- General physique: Overweight, BMI of 30
+
+** INVESTIGATIONS/TEST RESULTS**
+- Order for blood work: Hematology (CBC), Biochemistry (fasting glucose, HbA1c, lipid profile, liver function tests, kidney function tests)
+- Awaiting results for these tests
+
+** MEDICAL OUTCOME**
+- Medication adjustment: Increase Metformin to 850mg twice daily due to suboptimal glucose control
+- Emphasis on adopting a healthier diet and regular exercise
+- Referral to a nutritionist for diabetes and heart health management 
+- Follow-up in three months to assess the efficacy of treatment changes and lifestyle modifications
+- Possible referral to a cardiologist if hypertension persists (reason: persistent hypertension, Dr. Alex Johnson, Cardiology)"|Rejected|Rejected|Rejected|Rejected
+ENCOUNTER FOR SCREENING FOR OTHER DISORDER|"ROLE: Family Medicine Physician
+
+Scenario:
+- Medical Outcome: Preventive health screening
+- Medical History: NA
+- Symptom Description: NA
+- Patient’s self-reported habits and lifestyle: 
+  - Sleep: Average 7-8 hours
+  - Diet: Balanced, includes fruits, vegetables, and lean proteins
+  - Exercise: Moderate exercise 3 times a week
+  - Tobacco Use: Former smoker, quit 5 years ago
+  - Alcohol Consumption: Moderate, occasional social drinking
+  - Drug Use: None
+  - Recreational Activities: Enjoys hiking and reading
+- Demographic Information: 
+  - Age: 35
+  - Gender: Female
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Middle class
+  - Education Level: College degree
+  - Health Literacy: High
+  - Job Status: Office worker, full-time employment
+- Patient's Behavior: Highly cooperative, values preventive care
+- Geographical Location: Urban area
+  - Neighborhood Type: Affluent
+  - Well-served by Transit: Yes
+  - Food Desert: No
+- Clinical Setting: Primary care clinic
+- Type of Encounter: Initial Consultation
+- Treatment Disparities: NA
+- Native or Non-Native English Speaking Patient: Native English speaker
+- Physical exams: 
+  - General appearance: Well-nourished, alert
+  - Respiratory: Clear breath sounds bilaterally
+  - Cardiovascular: Regular rate and rhythm, no murmurs
+  - Abdomen: Soft, non-tender, no organomegaly
+- Investigation/Test results: Blood work pending
+  - Tests ordered: Comprehensive metabolic panel, complete blood count, lipid panel
+- Awaiting Tests: Comprehensive metabolic panel, complete blood count, lipid panel
+
+The patient has come in for a routine health screening. No current complaints or symptoms. Emphasis on maintaining healthy lifestyle choices and ensuring no early signs of disorders."|Rejected|Rejected|Rejected|Rejected
+ENCOUNTER FOR SCREENING FOR OTHER DISORDER|"ROLE: Family Medicine Physician
+
+** Medical Outcome:**
+  - Diagnosis: Encounter for screening for other disorder (ICD-10 Code: Z13.89)
+  - Prescribed Treatment: N/A
+  - Follow-up Recommendations: Annual wellness check
+  - Referral to further tests or imaging: N/A
+  - Medication Adjustment: N/A
+  - Lifestyle Change: Advise on regular exercise and balanced diet
+  - Order for blood work: Vitamin D assessment, Biochemistry panel (HB1AC, Kidney function, Lipid profile)
+
+** Medical History:**
+  - Previous Diagnoses: Hypertension, Type 2 Diabetes
+  - Family Medical History: Father had a history of heart disease and Type 2 Diabetes
+  - Medication History: Metformin 500 mg twice daily, Lisinopril 20 mg daily
+  - Allergies: Penicillin
+  - Chronic Conditions: Hypertension, Type 2 Diabetes
+
+** Symptom Description:**
+  - Severity: N/A
+  - Duration: N/A
+  - Associated Symptoms: N/A
+  - Frequency: N/A
+  - Impact on Daily Activities: N/A
+
+** Patient’s self-reported habits and lifestyle:**
+  - Sleep: 6-7 hours per night
+  - Diet: Balanced diet but moderate intake of fatty foods
+  - Exercise: Does not exercise regularly
+  - Tobacco Use: Smokes 5 cigarettes per day
+  - Alcohol Consumption: Moderate (1-2 drinks per week)
+  - Drug Use: N/A
+  - Recreational Activities: Enjoys gardening and walking
+
+** Demographic Information:**
+  - Age: 58
+  - Gender: Male
+  - Ethnicity: Hispanic
+  - Socio-economic Status: Middle-class
+  - Education Level: High school graduate
+  - Health Literacy: Moderate
+  - Job Status: Works as a school janitor 
+
+** Patient's Behavior:**
+  - Level of Patient's Cooperation: Generally cooperative but occasional non-compliance with diet and exercise recommendations
+
+** Geographical Location:**
+  - Urban residential area
+  - Moderate pollution and environmental health risks
+  - Neighborhood Type: Working-class, community well-served by transit
+  - Limited access to fresh food options
+
+** Clinical Setting:**
+  - Family Medicine Clinic
+
+** Type of Encounter:**
+  - Preventive Health Screening
+
+** Treatment Disparities:**
+  - N/A
+  
+** Native or Non-Native English Speaking Patient:**
+  - Native English Speaking Patient
+
+** Physical exams:**
+  - Blood Pressure: 140/90 mmHg
+  - Body Mass Index (BMI): 29.5 kg/m²
+  - Cardiac and respiratory exams are unremarkable
+
+** Investigation/Test results:**
+  - Awaiting results for Vitamin D assessment and Biochemistry panel (HB1AC, Kidney function, Lipid profile)"|Rejected|Rejected|Rejected|Rejected
+ENCOUNTER FOR SCREENING FOR OTHER DISORDER|"ROLE: Family Medicine Physician
+
+** Medical Outcome:**
+  - Diagnosis: Encounter for screening for other disorder (ICD-10 Code: Z13.89)
+  - Prescribed Treatment: N/A
+  - Follow-up Recommendations: Annual wellness check
+  - Referral to further tests or imaging: N/A
+  - Medication Adjustment: N/A
+  - Lifestyle Change: Advise on smoking cessation, increase physical activity, and balanced diet
+  - Order for blood work: Biochemistry panel (HB1AC, Kidney function, Lipid profile), Hematology (Complete Blood Count)
+
+** Medical History:**
+  - Previous Diagnoses: None significant
+  - Family Medical History: Mother had a history of breast cancer
+  - Medication History: Occasional use of Ibuprofen for headaches
+  - Allergies: None known
+  - Chronic Conditions: None
+
+** Symptom Description:**
+  - Severity: N/A
+  - Duration: N/A
+  - Associated Symptoms: N/A
+  - Frequency: N/A
+  - Impact on Daily Activities: N/A
+
+** Patient’s self-reported habits and lifestyle:**
+  - Sleep: 5-6 hours per night
+  - Diet: High intake of processed foods and sugary drinks
+  - Exercise: Rarely exercises
+  - Tobacco Use: Smokes 10 cigarettes per day
+  - Alcohol Consumption: Heavy (5-6 drinks per week)
+  - Drug Use: Occasional use of marijuana
+  - Recreational Activities: Enjoys watching television and playing video games
+
+** Demographic Information:**
+  - Age: 45
+  - Gender: Female
+  - Ethnicity: African American
+  - Socio-economic Status: Lower class
+  - Education Level: Some college
+  - Health Literacy: Low
+  - Job Status: Unemployed
+
+** Patient's Behavior:**
+  - Level of Patient's Cooperation: Low cooperation, multiple missed appointments in the past
+
+** Geographical Location:**
+  - Rural area with limited access to healthcare facilities
+  - High pollution and environmental health risks
+  - Neighborhood Type: Impoverished, area classified as a food desert
+
+** Clinical Setting:**
+  - Community Health Center
+
+** Type of Encounter:**
+  - Follow-up for a recent emergency room visit for chest pain (non-cardiac origin, anxiety related)
+
+** Treatment Disparities:**
+  - Patient has limited healthcare access and struggles with compliance to medical advice due to financial constraints
+
+** Native or Non-Native English Speaking Patient:**
+  - Native English Speaking Patient
+
+** Physical exams:**
+  - Blood Pressure: 150/95 mmHg
+  - Body Mass Index (BMI): 32 kg/m²
+  - General physical examination shows signs of early obesity but no other acute findings
+
+** Investigation/Test results:**
+  - Awaiting results for Biochemistry panel (HB1AC, Kidney function, Lipid profile) and Hematology (Complete Blood Count)"|Rejected|Rejected|Rejected|Rejected
+ENCOUNTER FOR SCREENING FOR OTHER DISORDER|"ROLE: Family Medicine Physician
+
+** Medical Outcome:**
+  - Diagnosis: Encounter for screening for other disorder (ICD-10 Code: Z13.89)
+  - Prescribed Treatment: N/A
+  - Follow-up Recommendations: Annual check-up
+  - Referral to further tests or imaging: N/A
+  - Medication Adjustment: N/A
+  - Lifestyle Change: Advise moderate physical exercise and reduction of alcohol intake
+  - Order for blood work: Biochemistry panel (Lipid profile, Liver function tests), Hematology (Complete Blood Count), Vitamin D assessment
+
+** Medical History:**
+  - Previous Diagnoses: Asthma
+  - Family Medical History: Sister has rheumatoid arthritis, Mother has hypertension
+  - Medication History: Albuterol inhaler 90 mcg PRN
+  - Allergies: Latex allergy
+  - Chronic Conditions: Asthma
+
+** Symptom Description:**
+  - Severity: Mild intermittent symptoms of lethargy 
+  - Duration: Over the past 6 months
+  - Associated Symptoms: Occasional shortness of breath
+  - Frequency: Episodes occur once every couple of weeks 
+  - Impact on Daily Activities: Minimal, maintains regular activities but feels fatigued on bad days
+
+** Patient’s self-reported habits and lifestyle:**
+  - Sleep: 6-7 hours per night with occasional waking 
+  - Diet: Regular consumption of fast food, low intake of fruits and vegetables
+  - Exercise: Occasional but not consistent
+  - Tobacco Use: Non-smoker
+  - Alcohol Consumption: Moderate to heavy (3-4 drinks per week)
+  - Drug Use: N/A
+  - Recreational Activities: Enjoys hiking when time permits
+
+** Demographic Information:**
+  - Age: 30
+  - Gender: Male
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Middle-class
+  - Education Level: College graduate
+  - Health Literacy: High
+  - Job Status: Works as a software developer
+
+** Patient's Behavior:**
+  - Level of Patient's Cooperation: Generally cooperative and motivated to improve health
+
+** Geographical Location:**
+  - Suburban area with good access to healthcare services
+  - Low pollution and environmental health risks
+  - Neighborhood Type: Affluent, easy access to fresh food options
+
+** Clinical Setting:**
+  - Private Practice
+
+** Type of Encounter:**
+  - Initial Consultation for general health screening
+
+** Treatment Disparities:**
+  - N/A
+
+** Native or Non-Native English Speaking Patient:**
+  - Native English Speaking Patient
+
+** Physical exams:**
+  - Blood Pressure: 130/85 mmHg
+  - Body Mass Index (BMI): 27 kg/m²
+  - Respiratory examination shows clear lungs bilaterally but mild wheezing triggered by exercise
+
+** Investigation/Test results:**
+  - Awaiting results for Biochemistry panel (Lipid profile, Liver function tests), Hematology (Complete Blood Count), and Vitamin D assessment"|Rejected|Rejected|Rejected|Rejected

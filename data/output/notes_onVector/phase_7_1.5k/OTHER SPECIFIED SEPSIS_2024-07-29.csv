@@ -1,0 +1,1498 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role
+OTHER SPECIFIED SEPSIS|"ROLE: Infectious Disease Specialist
+
+** 1) Medical Outcome:
+   - Diagnosis: Other Specified Sepsis
+   - Prescribed Treatment: Broad-spectrum intravenous antibiotics (e.g., Meropenem 1g, IV, every 8 hours for 10 days)
+   - Follow-up Recommendations: Daily lab work to monitor infection markers and organ function
+   - Referral to Specialists: Consult with a Critical Care Specialist, Dr. Angela Hernandez, for ICU management
+   - Referral to Further Tests or Imaging: Order an echocardiogram to assess cardiac function, given signs of hemodynamic instability
+   - Medication Adjustment: Adjust antibiotic therapy based on culture and sensitivity results
+   - Lifestyle Change: Emphasize the importance of hydration and a balanced diet during recovery
+  
+** 2) Medical History:
+   - Previous Diagnoses: Chronic obstructive pulmonary disease (COPD), Type 2 Diabetes Mellitus
+   - Family Medical History: Father with a history of hypertension, mother with a history of cardiovascular disease
+   - Medication History: Metformin 500mg, orally, twice daily; Albuterol inhaler as needed; Lisinopril 10mg, orally, daily
+   - Allergies: Penicillin
+   - Chronic Conditions: COPD, Diabetes Mellitus
+
+** 3) Symptom Description:
+   - Severity: Severe
+   - Duration: 2 days
+   - Associated Symptoms: High fever (39.5°C), chills, shortness of breath, hypotension, altered mental status
+   - Frequency: Continuous
+   - Impact on Daily Activities: Confined to bed, unable to perform daily activities
+
+** 4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Poor quality, disrupted by symptoms
+   - Diet: Irregular, predominantly processed foods
+   - Exercise: Minimal physical activity, mostly sedentary
+   - Tobacco Use: Former smoker, quit 5 years ago
+   - Alcohol Consumption: Occasional social drinker
+   - Drug Use: Denies any recreational drug use
+   - Recreational Activities: Enjoys watching TV and reading
+
+** 5) Demographic Information:
+   - Age: 68
+   - Gender: Male
+   - Ethnicity: Latino
+   - Socio-economic Status: Middle income
+   - Education Level: High school graduate
+   - Health Literacy: Moderate, requires explanations in plain language
+   - Job Status: Retired
+
+** 6) Patient's Behavior:
+   - Level of cooperation: Cooperative but anxious about symptoms and prognosis
+
+** 7) Geographical Location:
+   - Big City vs Small City: Big City
+   - Rural vs Urban: Urban
+   - Pollution and Environmental Health Risks: Moderate pollution level
+   - Neighborhood Type: Affluent area, well-served by public transportation
+
+** 8) Clinical Setting:
+   - Hospitals
+
+** 9) Type of Encounter:
+   - Emergency Visit
+
+** 12) Physical exams:
+   - Cardiovascular: Tachycardia (HR 120 bpm), hypotensive (BP 85/55 mmHg), capillary refill time >3 seconds
+   - Respiratory: Tachypnea (RR 26/min), bilateral crackles on lung auscultation
+   - Neurological: Confused, Glasgow Coma Scale (GCS) 13/15 (E4, V4, M5)
+   - Skin: Warm, flushed skin; no obvious rash or lesions
+   - Abdomen: Soft, non-tender, bowel sounds present
+   
+** 13) Investigation/Test Results:
+   - Complete Blood Count (CBC): Elevated white blood cell count (WBC 18,000/µL), left shift, low platelets (100,000/µL)
+   - Blood Cultures: Awaiting results
+   - Serum Lactate: Elevated (4.5 mmol/L)
+   - C-Reactive Protein (CRP): Elevated (200 mg/L)
+   - Basic Metabolic Panel (BMP): Elevated creatinine (2.0 mg/dL), hyperglycemia (glucose 250 mg/dL)
+   - Imaging: Chest X-ray shows bilateral infiltrates suggesting pneumonia
+
+** 11) Native or Non-Native English Speaking Patient:
+   - Non-Native English Speaking
+
+** 10) Treatment Disparities:
+   - Ensuring translation services for effective communication despite non-native English speaking status."|"**1. Subjective:**
+   **CC:**
+   Severe illness with high fever, shortness of breath, and altered mental status.
+
+   **HPI:**
+   Mr. Ramirez, a 68-year-old Latino male, presents with severe symptoms over the past 2 days. He reports a high fever reaching 39.5°C, chills, shortness of breath, and recent episodes of confusion. His symptoms have confined him to bed, making daily activities unmanageable. He has a history of COPD and Type 2 Diabetes Mellitus. He denies recent tobacco or drug use but occasionally consumes alcohol socially. His diet is irregular and consists mostly of processed foods, with minimal physical activity.
+
+   **ROS:**
+   - **Constitutional:** High fever, chills, fatigue
+   - **Respiratory:** Shortness of breath, bilateral crackles
+   - **Cardiovascular:** Hypotension, tachycardia
+   - **Neurological:** Altered mental status, confusion
+   - **Gastrointestinal:** Normal appetite, no nausea or vomiting
+   - **Integumentary:** Warm, flushed skin
+
+**2. Objective:**
+   **Vital Signs:**
+   - Temperature: 39.5°C
+   - Blood Pressure: 85/55 mmHg
+   - Heart Rate: 120 bpm
+   - Respiratory Rate: 26/min
+   - Oxygen Saturation: 90% on room air
+
+   **Physical Examination:**
+   - **Cardiovascular:** Tachycardia, hypotensive, capillary refill time >3 seconds
+   - **Respiratory:** Tachypnea, bilateral crackles on auscultation
+   - **Neurological:** Glasgow Coma Scale (GCS) 13/15 (E4, V4, M5)
+   - **Skin:** Warm, flushed, no rash or lesions
+   - **Abdomen:** Soft, non-tender, bowel sounds present
+
+   **Investigations:**
+   - **CBC:** WBC 18,000/µL, left shift, platelets 100,000/µL
+   - **Blood Cultures:** Pending
+   - **Serum Lactate:** 4.5 mmol/L
+   - **CRP:** 200 mg/L
+   - **BMP:** Creatinine 2.0 mg/dL, glucose 250 mg/dL
+   - **Chest X-ray:** Bilateral infiltrates suggesting pneumonia
+
+**3. Assessment:**
+   - **Diagnosis:** Other Specified Sepsis, likely secondary to pneumonia, in a patient with underlying COPD and Type 2 Diabetes Mellitus.
+   - **Differential Diagnoses:** Bacterial pneumonia, viral pneumonia, acute exacerbation of COPD, diabetic ketoacidosis (DKA), acute renal injury.
+
+**4. Plan:**
+   - **Medical Treatment:**
+     - Initiate broad-spectrum intravenous antibiotics: Meropenem 1g, IV, every 8 hours for 10 days.
+     - Adjust antibiotic therapy based on culture and sensitivity results.
+   - **Supportive Care:**
+     - IV fluids for hypotension and hydration.
+     - Monitor oxygen saturation; consider supplemental oxygen if needed.
+   - **Follow-up:**
+     - Daily lab work: CBC, BMP, CRP, serum lactate.
+   - **Consultations:**
+     - Critical Care Specialist, Dr. Angela Hernandez, for ICU management.
+   - **Further Testing:**
+     - Order echocardiogram to assess cardiac function due to hemodynamic instability.
+   - **Lifestyle Recommendations:**
+     - Emphasize hydration and a balanced diet during recovery.
+   - **Communication:**
+     - Ensure translation services for effective communication with Mr. Ramirez, a non-native English speaker.
+
+**End of Note**"|"**1. Subjective:**
+   **CC:**
+   Severe illness with high fever, shortness of breath, and altered mental status.
+
+   **HPI:**
+   Mr. Ramirez, a 68-year-old Latino male, presents with severe symptoms over the past 2 days. He reports a high fever reaching 39.5°C, chills, shortness of breath, and recent episodes of confusion. His symptoms have confined him to bed, making daily activities unmanageable. He has a history of COPD and Type 2 Diabetes Mellitus. He denies recent tobacco or drug use but occasionally consumes alcohol socially. His diet is irregular and consists mostly of processed foods, with minimal physical activity.
+
+   **ROS:**
+   - **Constitutional:** High fever, chills, fatigue
+   - **Respiratory:** Shortness of breath, bilateral crackles
+   - **Cardiovascular:** Hypotension, tachycardia
+   - **Neurological:** Altered mental status, confusion
+   - **Gastrointestinal:** Normal appetite, no nausea or vomiting
+   - **Integumentary:** Warm, flushed skin
+
+**2. Objective:**
+   **Vital Signs:**
+   - Temperature: 39.5°C
+   - Blood Pressure: 85/55 mmHg
+   - Heart Rate: 120 bpm
+   - Respiratory Rate: 26/min
+   - Oxygen Saturation: 90% on room air
+
+   **Physical Examination:**
+   - **Cardiovascular:** Tachycardia, hypotensive, capillary refill time >3 seconds
+   - **Respiratory:** Tachypnea, bilateral crackles on auscultation
+   - **Neurological:** Glasgow Coma Scale (GCS) 13/15 (E4, V4, M5)
+   - **Skin:** Warm, flushed, no rash or lesions
+   - **Abdomen:** Soft, non-tender, bowel sounds present
+
+   **Investigations:**
+   - **CBC:** WBC 18,000/µL, left shift, platelets 100,000/µL
+   - **Blood Cultures:** Pending
+   - **Serum Lactate:** 4.5 mmol/L
+   - **CRP:** 200 mg/L
+   - **BMP:** Creatinine 2.0 mg/dL, glucose 250 mg/dL
+   - **Chest X-ray:** Bilateral infiltrates suggesting pneumonia
+
+**3. Assessment:**
+   - **Diagnosis:** Other Specified Sepsis, likely secondary to pneumonia, in a patient with underlying COPD and Type 2 Diabetes Mellitus.
+   - **Differential Diagnoses:** Bacterial pneumonia, viral pneumonia, acute exacerbation of COPD, diabetic ketoacidosis (DKA), acute renal injury.
+
+**4. Plan:**
+   - **Medical Treatment:**
+     - Initiate broad-spectrum intravenous antibiotics: Meropenem 1g, IV, every 8 hours for 10 days.
+     - Adjust antibiotic therapy based on culture and sensitivity results.
+   - **Supportive Care:**
+     - IV fluids for hypotension and hydration.
+     - Monitor oxygen saturation; consider supplemental oxygen if needed.
+   - **Follow-up:**
+     - Daily lab work: CBC, BMP, CRP, serum lactate.
+   - **Consultations:**
+     - Critical Care Specialist, Dr. Angela Hernandez, for ICU management due to severe sepsis and hemodynamic instability.
+   - **Further Testing:**
+     - Order echocardiogram to assess cardiac function due to hemodynamic instability.
+   - **Lifestyle Recommendations:**
+     - Emphasize hydration and a balanced diet during recovery.
+   - **Communication:**
+     - Ensure translation services for effective communication with Mr. Ramirez, a non-native English speaker."|"**1. Subjective:**
+   **CC:**
+   Severe illness with high fever, SOB, and AMS.
+
+   **HPI:**
+   Mr. Ramirez, a 68-year-old Latino male, presents with severe sx over the past 2 days. He reports a high fever reaching 39.5°C, chills, SOB, and recent episodes of confusion. His sx have confined him to bed, making ADLs unmanageable. He has a hx of COPD and T2DM. He denies recent tobacco or drug use but occasionally consumes alcohol socially. His diet is irregular and consists mostly of processed foods, with minimal physical activity.
+
+   **ROS:**
+   - **Constitutional:** High fever, chills, fatigue
+   - **Respiratory:** SOB, bilateral crackles
+   - **Cardiovascular:** Hypotension, tachycardia
+   - **Neurological:** AMS, confusion
+   - **Gastrointestinal:** Normal appetite, no N/V
+   - **Integumentary:** Warm, flushed skin
+
+**2. Objective:**
+   **Vital Signs:**
+   - Temp: 39.5°C
+   - BP: 85/55 mmHg
+   - HR: 120 bpm
+   - RR: 26/min
+   - O2 Sat: 90% on RA
+
+   **Physical Exam:**
+   - **Cardiovascular:** Tachycardia, hypotensive, cap refill time >3 sec
+   - **Respiratory:** Tachypnea, bilateral crackles on auscultation
+   - **Neurological:** GCS 13/15 (E4, V4, M5)
+   - **Skin:** Warm, flushed, no rash or lesions
+   - **Abdomen:** Soft, non-tender, BS present
+
+   **Investigations:**
+   - **CBC:** WBC 18,000/µL, left shift, platelets 100,000/µL
+   - **Blood Cultures:** Pending
+   - **Serum Lactate:** 4.5 mmol/L
+   - **CRP:** 200 mg/L
+   - **BMP:** Creatinine 2.0 mg/dL, glucose 250 mg/dL
+   - **CXR:** Bilateral infiltrates ?pneumonia
+
+**3. Assessment:**
+   - **Dx:** Other Specified Sepsis, likely 2° to pneumonia, in a pt with underlying COPD and T2DM.
+   - **DDx:** Bacterial pneumonia, viral pneumonia, acute exacerbation of COPD, DKA, acute renal injury.
+
+**4. Plan:**
+   - **Medical Tx:**
+     - Initiate broad-spectrum IV abx: Meropenem 1g, IV, q8h for 10 days.
+     - Adjust abx based on C&S results.
+   - **Supportive Care:**
+     - IV fluids for hypotension and hydration.
+     - Monitor O2 sat; consider supplemental O2 if needed.
+   - **Follow-up:**
+     - Daily labs: CBC, BMP, CRP, serum lactate.
+   - **Consults:**
+     - Critical Care Specialist, Dr. Angela Hernandez, for ICU mgmt due to severe sepsis and hemodynamic instability.
+   - **Further Testing:**
+     - Order echo to assess cardiac function due to hemodynamic instability.
+   - **Lifestyle Recommendations:**
+     - Emphasize hydration and a balanced diet during recovery.
+   - **Communication:**
+     - Ensure translation services for effective communication with Mr. Ramirez, a non-native English speaker."|Infectious Disease Specialist
+OTHER SPECIFIED SEPSIS|"ROLE: Infectious Disease Specialist
+
+- Medical Outcome:
+  - Diagnosis: Other Specified Sepsis (A41.89)
+  - Prescribed Treatment: Start Daptomycin 6 mg/kg IV every 24 hours for 10 days, Levofloxacin 500 mg IV every 24 hours for 10 days
+  - Follow-up Recommendations: Follow-up in 5 days for culture results and clinical reassessment
+  - Referral to further tests: Blood culture and sensitivity, Complete Blood Count (CBC), Serum Lactate, Procalcitonin
+  - Imaging: CT scan of the abdomen and pelvis without contrast to rule out intra-abdominal abscess
+- Medical History:
+  - Previous Diagnoses: Chronic Hepatitis C, recently diagnosed with cirrhosis
+  - Family Medical History: Father had liver disease, Mother had breast cancer
+  - Medication History: Antivirals for Hepatitis C
+  - Allergies: Allergic to Sulfa drugs (causes hives)
+  - Chronic Conditions: Chronic Hepatitis C, Cirrhosis
+- Symptom Description:
+  - Severity: Severe
+  - Duration: 36 hours
+  - Associated Symptoms: High fever, severe abdominal pain, jaundice, confusion, weakness
+  - Frequency: Constant
+  - Impact on Daily Activities: Completely unable to perform any activities, needs assistance
+- Patient’s self-reported habits and lifestyle:
+  - Sleep: Poor sleep quality due to abdominal pain
+  - Diet: High-fat diet and high in processed foods
+  - Exercise: Minimal due to fatigue and liver disease
+  - Tobacco Use: Non-smoker
+  - Alcohol Consumption: Heavy alcohol consumption (10 drinks per day), attempts to quit recently
+  - Drug Use: History of intravenous drug use, recently stopped
+  - Recreational Activities: Limited due to health issues
+- Demographic Information:
+  - Age: 45
+  - Gender: Male
+  - Ethnicity: Asian
+  - Socio-economic Status: Low-income, living on disability benefits
+  - Education Level: High school dropout
+  - Health Literacy: Limited understanding of medical conditions
+  - Job Status: Unemployed
+- Patient's Behavior:
+  - Cooperation: Initially reluctant but cooperative after explained urgency
+- Geographical Location:
+  - Big City vs Small City: Small City
+  - Rural vs Urban: Rural
+  - Pollution and Environmental Health Risks: Low pollution, limited access to healthcare facilities
+  - Neighborhood Type: Rural area, limited access to fresh food and public transportation
+- Clinical Setting:
+  - Community Health Services: Presented to a rural health clinic
+- Type of Encounter:
+  - Initial Consultation
+- Treatment Disparities:
+  - Limited resources and delay in specialist consultation due to rural setting
+- Native or Non-Native English-Speaking Patient:
+  - Non-Native English-speaking patient (native language: Vietnamese)
+- Physical exams:
+  - Cardiovascular: Tachycardia (HR 110 bpm), hypotension (BP 85/45 mmHg)
+  - Respiratory: Increased respiratory rate, clear breath sounds
+  - General: High fever (103°F), jaundice, visibly ill and weak
+  - Abdomen: Severe tenderness in the right upper quadrant, positive Murphy’s sign, distension
+  - Neurological: Disoriented, responds to painful stimuli but slow verbal responses
+- Investigation/Test results:
+  - Awaiting Blood culture and sensitivity results
+  - CBC: WBC elevated at 20,000 cells/µL
+  - Serum Lactate: Elevated at 3.8 mmol/L
+  - Procalcitonin: Elevated at 25 ng/mL
+  - CT scan of the abdomen and pelvis: Awaiting results"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+The patient, a 45-year-old Asian male, presents with severe abdominal pain, high fever, and confusion.
+
+**History of Present Illness (HPI):**
+The patient reports experiencing severe abdominal pain, high fever, jaundice, confusion, and weakness for the past 36 hours. He is completely unable to perform any daily activities and requires assistance for basic tasks.
+
+**Review of Systems (ROS):**
+- **General:** Reports severe weakness and high fever.
+- **Gastrointestinal:** Severe abdominal pain, jaundice.
+- **Neurological:** Confusion, slow verbal responses.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 103°F
+- Heart Rate: 110 bpm (Tachycardia)
+- Blood Pressure: 85/45 mmHg (Hypotension)
+- Respiratory Rate: Increased
+
+**Physical Examination:**
+- **General:** Visibly ill, jaundiced, weak.
+- **Cardiovascular:** Tachycardia without murmur.
+- **Respiratory:** Clear breath sounds.
+- **Abdomen:** Severe tenderness in the right upper quadrant, positive Murphy’s sign, distension.
+- **Neurological:** Disoriented, slow response to verbal stimuli, responds to painful stimuli.
+
+**Lab Results:**
+- CBC: WBC elevated at 20,000 cells/µL
+- Serum Lactate: Elevated at 3.8 mmol/L
+- Procalcitonin: Elevated at 25 ng/mL
+
+**Pending Diagnostic Tests:**
+- Blood culture and sensitivity
+- CT scan of the abdomen and pelvis to rule out intra-abdominal abscess
+
+**3. Assessment:**
+
+The patient is a 45-year-old male with a history of chronic Hepatitis C and cirrhosis, presenting with severe symptoms indicative of sepsis. The differential diagnosis includes Other Specified Sepsis (A41.89) likely secondary to a bacterial infection. High suspicion of an intra-abdominal source given the severe tenderness in the right upper quadrant and history of liver disease.
+
+**4. Plan:**
+
+- **Medications:**
+  - Start Daptomycin 6 mg/kg IV every 24 hours for 10 days.
+  - Start Levofloxacin 500 mg IV every 24 hours for 10 days.
+
+- **Further Investigations:**
+  - Blood culture and sensitivity.
+  - Complete Blood Count (CBC).
+  - Serum Lactate.
+  - Procalcitonin.
+  
+- **Imaging:**
+  - CT scan of the abdomen and pelvis without contrast to rule out intra-abdominal abscess.
+
+- **Follow-Up:**
+  - Follow-up in 5 days for culture results and clinical reassessment.
+  
+- **Referral:**
+  - Referral to a higher-level care facility if no improvement or deterioration occurs due to limited local resources.
+
+- **Patient Counseling:**
+  - Educated the patient and caregiver about the severity of the condition and the importance of adherence to the treatment plan.
+  - Discussed the need for lifestyle modifications, including cessation of alcohol.
+
+- **Support Services:**
+  - Consider referral to social services to address socio-economic challenges and ensure the patient has access to necessary resources.
+
+The patient understands and agrees with the recommended plan despite initial reluctance.
+#####"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+The patient, a 45-year-old Asian male, presents with severe abdominal pain, high fever, and confusion.
+
+**History of Present Illness (HPI):**
+The patient reports experiencing severe abdominal pain, high fever, jaundice, confusion, and weakness for the past 36 hours. He is completely unable to perform any daily activities and requires assistance for basic tasks.
+
+**Review of Systems (ROS):**
+- **General:** Reports severe weakness and high fever.
+- **Gastrointestinal:** Severe abdominal pain, jaundice.
+- **Neurological:** Confusion, slow verbal responses.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 103°F
+- Heart Rate: 110 bpm (Tachycardia)
+- Blood Pressure: 85/45 mmHg (Hypotension)
+- Respiratory Rate: Increased
+
+**Physical Examination:**
+- **General:** Visibly ill, jaundiced, weak.
+- **Cardiovascular:** Tachycardia without murmur.
+- **Respiratory:** Clear breath sounds.
+- **Abdomen:** Severe tenderness in the right upper quadrant, positive Murphy’s sign, distension.
+- **Neurological:** Disoriented, slow response to verbal stimuli, responds to painful stimuli.
+
+**Lab Results:**
+- CBC: WBC elevated at 20,000 cells/µL
+- Serum Lactate: Elevated at 3.8 mmol/L
+- Procalcitonin: Elevated at 25 ng/mL
+
+**3. Assessment:**
+
+The patient is a 45-year-old male with a history of chronic Hepatitis C and cirrhosis, presenting with severe symptoms indicative of sepsis. The differential diagnosis includes Other Specified Sepsis (A41.89) likely secondary to a bacterial infection. High suspicion of an intra-abdominal source given the severe tenderness in the right upper quadrant and history of liver disease.
+
+**4. Plan:**
+
+- **Medications:**
+  - Start Daptomycin 6 mg/kg IV every 24 hours for 10 days.
+  - Start Levofloxacin 500 mg IV every 24 hours for 10 days.
+
+- **Further Investigations:**
+  - Blood culture and sensitivity.
+
+- **Imaging:**
+  - CT scan of the abdomen and pelvis without contrast to rule out intra-abdominal abscess.
+
+- **Follow-Up:**
+  - Follow-up in 5 days for culture results and clinical reassessment.
+  
+- **Referral:**
+  - Referral to Dr. John Smith, Infectious Disease Specialist, for further management due to the severity of the sepsis and need for specialized care.
+  - Referral to a higher-level care facility if no improvement or deterioration occurs due to limited local resources.
+
+- **Patient Counseling:**
+  - Educated the patient and caregiver about the severity of the condition and the importance of adherence to the treatment plan.
+  - Discussed the need for lifestyle modifications, including cessation of alcohol.
+
+- **Support Services:**
+  - Consider referral to social services to address socio-economic challenges and ensure the patient has access to necessary resources.
+
+The patient understands and agrees with the recommended plan despite initial reluctance."|"**1. Subjective:**
+
+**CC:**
+The pt, a 45 y/o Asian male, presents with severe abd pain, high fever, and confusion.
+
+**HPI:**
+The pt reports experiencing severe abd pain, high fever, jaundice, confusion, and weakness for the past 36 hrs. He is completely unable to perform any ADLs and requires assistance for basic tasks.
+
+**ROS:**
+- **General:** Reports severe weakness and high fever.
+- **GI:** Severe abd pain, jaundice.
+- **Neuro:** Confusion, slow verbal responses.
+
+**2. Objective:**
+
+**VS:**
+- Temp: 103°F
+- HR: 110 bpm (Tachy)
+- BP: 85/45 mmHg (Hypo)
+- RR: Increased
+
+**PE:**
+- **General:** Visibly ill, jaundiced, weak.
+- **CV:** Tachy without murmur.
+- **Resp:** Clear breath sounds.
+- **Abd:** Severe tenderness in the RUQ, +Murphy’s sign, distension.
+- **Neuro:** Disoriented, slow response to verbal stimuli, responds to painful stimuli.
+
+**Labs:**
+- CBC: WBC elevated at 20K cells/µL
+- Serum Lactate: Elevated at 3.8 mmol/L
+- Procalcitonin: Elevated at 25 ng/mL
+
+**3. Assessment:**
+
+The pt is a 45 y/o male with a hx of chronic Hep C and cirrhosis, presenting with severe sx indicative of sepsis. The DDx includes Other Specified Sepsis (A41.89) likely 2° to a bacterial infxn. High suspicion of an intra-abd source given the severe tenderness in the RUQ and hx of liver dz.
+
+**4. Plan:**
+
+- **Meds:**
+  - Start Daptomycin 6 mg/kg IV q24h x10d.
+  - Start Levofloxacin 500 mg IV q24h x10d.
+
+- **Further Investigations:**
+  - Blood C&S.
+
+- **Imaging:**
+  - CT abd/pelvis w/o contrast to r/o intra-abd abscess.
+
+- **Follow-Up:**
+  - F/U in 5 days for culture results and clinical reassessment.
+  
+- **Referral:**
+  - Referral to Dr. John Smith, ID specialist, for further mgmt due to the severity of the sepsis and need for specialized care.
+  - Referral to a higher-level care facility if no improvement or deterioration occurs due to limited local resources.
+
+- **Pt Counseling:**
+  - Educated the pt and caregiver about the severity of the condition and the importance of adherence to the tx plan.
+  - Discussed the need for lifestyle modifications, including cessation of alcohol.
+
+- **Support Services:**
+  - Consider referral to social services to address socio-economic challenges and ensure the pt has access to necessary resources.
+
+The pt understands and agrees with the recommended plan despite initial reluctance."|Infectious Disease Specialist
+OTHER SPECIFIED SEPSIS|"ROLE: Infectious Disease Specialist
+
+- Demographic Information: 58-year-old male, Caucasian, middle-income, high school education, moderate health literacy, retired factory worker.
+- Geographical Location: Small City, Urban, moderately polluted, well-served by public transit.
+- Clinical Setting: Hospital
+- Type of Encounter: Emergency Visit
+- Symptom Description: Severe generalized weakness, fever 102°F, chills, difficulty breathing, confusion. Symptoms began 2 days ago. Patient states that he feels worse this morning.
+- Medical History: Type 2 Diabetes Mellitus, Hypertension. Previous hospitalization for pneumonia 3 years ago. 
+- Patient’s self-reported habits and lifestyle: Smokes 10 cigarettes per day for the last 40 years, consumes alcohol socially, no illicit drug use, sedentary lifestyle.
+- Patient's Behavior: Cooperative with the medical staff and willing to follow the treatment plan.
+- Physical exams: 
+  - VITALS: BP 90/60, HR 110 bpm, RR 22 breaths/min, Temp 102°F, O2 Sat 88% on room air.
+  - General: Appears acutely ill.
+  - CV: Tachycardia, no murmurs.
+  - RESP: Crackles in bilateral lower lobes.
+  - ABD: Soft, non-tender.
+  - NEURO: Oriented to person, disoriented to place and time.
+  - SKIN: Warm and flushed.
+- Investigation/Test results:
+  - Complete Blood Count (CBC): WBC 20,000/µL with left shift, Hemoglobin 12 g/dL, Platelets 150,000/µL.
+  - Blood cultures x2 pending.
+  - Basic Metabolic Panel (BMP): Elevated BUN and Creatinine.
+  - Arterial Blood Gas (ABG): Metabolic acidosis with a pH of 7.30.
+  - Chest X-ray: Bilateral infiltrates suggestive of pneumonia.
+- Medical Outcome:
+  - Diagnosis: Other Specified Sepsis.
+  - Prescribed Treatment: 
+    - IV Fluids: Normal saline bolus 30 mL/kg over 1 hour.
+    - IV Antibiotics: Vancomycin 1g every 12 hours and Piperacillin-Tazobactam 4.5g every 6 hours.
+  - Follow-up recommendations: ICU admission for close monitoring and management.
+  - Blood work: Daily CBC and BMP.
+  - Imaging: Repeat Chest X-ray in 48 hours to monitor progress.
+  - Medication adjustment: Continue current antihypertensive medication but hold oral hypoglycemic agents; start on IV insulin drip for glucose control.
+  - Lifestyle change: Strong recommendation to quit smoking. Consultation with a smoking cessation program to be arranged upon stabilization."|"#### Medical Note
+
+**1. Subjective:**
+   - **Chief Complaint (CC):** Severe generalized weakness, fever, chills, difficulty breathing, and confusion.
+   - **History of Present Illness (HPI):** 
+     - A 58-year-old Caucasian male presented to the emergency department with severe generalized weakness, fever of 102°F, chills, difficulty breathing, and confusion, all of which began 2 days ago. The patient reports worsening of symptoms this morning.
+   - **Review of Systems (ROS):** 
+     - **Constitutional:** Positive for fever and chills.
+     - **Respiratory:** Difficulty breathing.
+     - **Neurological:** Confusion.
+     - **General:** Severe weakness.
+
+**2. Objective:**
+   - **Vital Signs:**
+     - Blood Pressure (BP): 90/60 mmHg
+     - Heart Rate (HR): 110 bpm
+     - Respiratory Rate (RR): 22 breaths/min
+     - Temperature (Temp): 102°F
+     - Oxygen Saturation: 88% on room air
+   - **Physical Examination:**
+     - **General:** Appears acutely ill
+     - **Cardiovascular (CV):** Tachycardia, no murmurs
+     - **Respiratory (RESP):** Crackles in bilateral lower lobes
+     - **Abdominal (ABD):** Soft, non-tender
+     - **Neurological (NEURO):** Oriented to person, disoriented to place and time
+     - **Skin (SKIN):** Warm and flushed
+   - **Investigations:**
+     - **CBC:** WBC 20,000/µL with left shift, Hemoglobin 12 g/dL, Platelets 150,000/µL
+     - **Blood Cultures:** Pending
+     - **BMP:** Elevated BUN and Creatinine
+     - **ABG:** Metabolic acidosis with a pH of 7.30
+     - **Chest X-ray:** Bilateral infiltrates suggestive of pneumonia
+
+**3. Assessment:**
+   - **Diagnosis: Other Specified Sepsis** likely secondary to pneumonia in the context of a patient with Type 2 Diabetes Mellitus and Hypertension.
+
+**4. Plan:**
+   - **Treatment:**
+     - **Fluid Management:** Administer IV normal saline bolus 30 mL/kg over 1 hour.
+     - **Antibiotics:** IV Vancomycin 1g every 12 hours, and Piperacillin-Tazobactam 4.5g every 6 hours.
+     - **Glucose Management:** Hold oral hypoglycemic agents; start on IV insulin drip for glucose control.
+   - **Monitoring and Follow-up:**
+     - ICU admission for close monitoring and management.
+     - Daily CBC and BMP to monitor infection and renal function.
+     - Repeat Chest X-ray in 48 hours to monitor progress.
+     - Continue current antihypertensive medication.
+   - **Lifestyle Modifications:**
+     - Strong recommendation to quit smoking.
+     - Arrange consultation with a smoking cessation program upon stabilization.
+
+---"|"**1. Subjective:**
+   - **Chief Complaint (CC):** Severe generalized weakness, fever, chills, difficulty breathing, and confusion.
+   - **History of Present Illness (HPI):** 
+     - A 58-year-old Caucasian male presented to the emergency department with severe generalized weakness, fever of 102°F, chills, difficulty breathing, and confusion, all of which began 2 days ago. The patient reports worsening of symptoms this morning.
+   - **Review of Systems (ROS):** 
+     - **Constitutional:** Positive for fever and chills.
+     - **Respiratory:** Difficulty breathing.
+     - **Neurological:** Confusion.
+     - **General:** Severe weakness.
+
+**2. Objective:**
+   - **Vital Signs:**
+     - Blood Pressure (BP): 90/60 mmHg
+     - Heart Rate (HR): 110 bpm
+     - Respiratory Rate (RR): 22 breaths/min
+     - Temperature (Temp): 102°F
+     - Oxygen Saturation: 88% on room air
+   - **Physical Examination:**
+     - **General:** Appears acutely ill
+     - **Cardiovascular (CV):** Tachycardia, no murmurs
+     - **Respiratory (RESP):** Crackles in bilateral lower lobes
+     - **Abdominal (ABD):** Soft, non-tender
+     - **Neurological (NEURO):** Oriented to person, disoriented to place and time
+     - **Skin (SKIN):** Warm and flushed
+   - **Investigations:**
+     - **CBC:** WBC 20,000/µL with left shift, Hemoglobin 12 g/dL, Platelets 150,000/µL
+     - **Blood Cultures:** Pending
+     - **BMP:** Elevated BUN and Creatinine
+     - **ABG:** Metabolic acidosis with a pH of 7.30
+     - **Chest X-ray:** Bilateral infiltrates suggestive of pneumonia
+
+**3. Assessment:**
+   - **Diagnosis: Other Specified Sepsis** likely secondary to pneumonia in the context of a patient with Type 2 Diabetes Mellitus and Hypertension.
+
+**4. Plan:**
+   - **Treatment:**
+     - **Fluid Management:** Administer IV normal saline bolus 30 mL/kg over 1 hour.
+     - **Antibiotics:** IV Vancomycin 1g every 12 hours, and Piperacillin-Tazobactam 4.5g every 6 hours.
+     - **Glucose Management:** Hold oral hypoglycemic agents; start on IV insulin drip for glucose control.
+   - **Monitoring and Follow-up:**
+     - ICU admission for close monitoring and management.
+     - Daily CBC and BMP to monitor infection and renal function.
+     - Repeat Chest X-ray in 48 hours to monitor progress.
+     - Continue current antihypertensive medication.
+   - **Lifestyle Modifications:**
+     - Strong recommendation to quit smoking.
+     - Arrange consultation with a smoking cessation program upon stabilization."|"**1. Subjective:**
+   - **CC:** Severe generalized weakness, fever, chills, difficulty breathing, and confusion.
+   - **HPI:** 
+     - A 58-year-old Caucasian male presented to the ED with severe generalized weakness, fever of 102°F, chills, difficulty breathing, and confusion, all of which began 2 days ago. The patient reports worsening of symptoms this morning.
+   - **ROS:** 
+     - **Constitutional:** Positive for fever and chills.
+     - **RESP:** Difficulty breathing.
+     - **NEURO:** Confusion.
+     - **General:** Severe weakness.
+
+**2. Objective:**
+   - **VS:**
+     - BP: 90/60 mmHg
+     - HR: 110 bpm
+     - RR: 22 breaths/min
+     - Temp: 102°F
+     - O2 Sat: 88% on RA
+   - **PE:**
+     - **General:** Appears acutely ill
+     - **CV:** Tachycardia, no murmurs
+     - **RESP:** Crackles in BLL
+     - **ABD:** Soft, non-tender
+     - **NEURO:** Oriented to person, disoriented to place and time
+     - **SKIN:** Warm and flushed
+   - **Investigations:**
+     - **CBC:** WBC 20,000/µL with left shift, Hgb 12 g/dL, Plt 150,000/µL
+     - **Blood Cultures:** Pending
+     - **BMP:** Elevated BUN and Cr
+     - **ABG:** Metabolic acidosis with a pH of 7.30
+     - **CXR:** Bilateral infiltrates suggestive of PNA
+
+**3. Assessment:**
+   - **Dx:** Other Specified Sepsis likely 2° to PNA in the context of a patient with T2DM and HTN.
+
+**4. Plan:**
+   - **Tx:**
+     - **Fluid Mgmt:** Administer IV NS bolus 30 mL/kg over 1 hr.
+     - **Abx:** IV Vanc 1g q12h, and Pip-Tazo 4.5g q6h.
+     - **Glucose Mgmt:** Hold PO hypoglycemics; start on IV insulin drip for glucose control.
+   - **Monitoring and F/U:**
+     - ICU admission for close monitoring and mgmt.
+     - Daily CBC and BMP to monitor infection and renal function.
+     - Repeat CXR in 48 hrs to monitor progress.
+     - Continue current antihypertensive meds.
+   - **Lifestyle Mods:**
+     - Strong recommendation to quit smoking.
+     - Arrange consult with a smoking cessation program upon stabilization."|Infectious Disease Specialist
+OTHER SPECIFIED SEPSIS|"ROLE: Infectious Disease Specialist
+
+Scenario Variables:
+
+**1) Medical Outcome:**
+- Diagnosis: Other Specified Sepsis (A41.89)
+- Prescribed Treatment: IV vancomycin 1g every 12 hours for 7 days
+- Follow-up Recommendations: Re-evaluation in 7 days, telemedicine follow-up if stable
+- Referral to Specialists: Referral to nephrologist (Dr. Samuel Green) for potential renal involvement
+- Blood Work: Complete Blood Count (CBC), liver function tests, electrolytes, blood cultures
+- Imaging: Order Abdominal ultrasound for evaluation of potential abdominal source of infection
+
+**2) Medical History:**
+- Previous Diagnoses: Chronic Kidney Disease Stage 3, Rheumatoid Arthritis
+- Family Medical History: Mother with Parkinson's disease, sibling with history of stroke
+- Medication History: Hydroxychloroquine 200 mg daily, Losartan 50 mg daily
+- Allergies: Sulfa drugs
+- Chronic Conditions: Chronic Kidney Disease, Rheumatoid Arthritis
+
+**3) Symptom Description:**
+- Severity: Severe
+- Duration: 5 days
+- Associated Symptoms: Persistent high fever (103°F), joint pain, nausea, vomiting
+- Frequency: Constant
+- Impact on Daily Activities: Bedridden, significant impairment
+
+**4) Patient’s self-reported habits and lifestyle:**
+- Sleep: Disrupted sleep due to pain and fever
+- Diet: Low protein diet
+- Exercise: Occasional walking, limited due to joint pain
+- Tobacco Use: 10-pack-year history, quit 5 years ago
+- Alcohol Consumption: None
+- Drug Use: None
+- Recreational Activities: Gardening, light reading
+
+**5) Demographic Information:**
+- Age: 70
+- Gender: Female
+- Ethnicity: African American
+- Socio-economic Status: Lower middle class
+- Education Level: College graduate
+- Health Literacy: High
+- Job Status: Retired school teacher
+
+**6) Patient's Behavior:**
+- Highly compliant with medical advice, motivated to follow treatment plans
+
+**7) Geographical Location:**
+- Rural
+- Limited access to specialized healthcare
+- Food Desert
+- High pollution area
+
+**8) Clinical Setting:**
+- Community Health Clinic
+
+**9) Type of Encounter:**
+- Initial Consultation
+
+**10) Treatment Disparities:**
+- Potential delays in accessing specialist care due to geographical location and socioeconomic status
+
+**11) Native or Non-Native English Speaking Patient:**
+- Native English Speaking
+
+**12) Physical exams:**
+- General: Ill-appearing, febrile, and dehydrated
+- HEENT: Mild scleral icterus, oral mucosa dry
+- Respiratory: Clear to auscultation bilaterally
+- Cardiovascular: Tachycardic, no murmurs
+- Abdomen: Tender in the right upper quadrant, no rebound or guarding
+- Extremities: Warm, inflamed joints
+- Neurological: Alert but appears exhausted, no focal deficits
+
+**13) Investigation/Test results:**
+- Awaiting blood work results (CBC, liver function tests, electrolytes, blood cultures)
+- Awaiting Abdominal ultrasound results"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Patient presents with severe symptoms including persistent high fever, joint pain, and nausea for the past 5 days.
+
+**History of Present Illness (HPI):**
+- Patient is a 70-year-old African American female with a history of Chronic Kidney Disease Stage 3 and Rheumatoid Arthritis, presenting with a high fever of 103°F for the past 5 days.
+- The fever is accompanied by severe joint pain, nausea, and vomiting.
+- Symptoms have been constant and have significantly impaired her daily activities, leaving her bedridden.
+- She reports disrupted sleep due to pain and fever.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports severe fever, chills, and significant fatigue. Denies weight loss.
+- **Gastrointestinal:** Reports nausea and vomiting. Denies diarrhea.
+- **Musculoskeletal:** Reports severe joint pain, particularly in the extremities. Denies recent trauma.
+- **Genitourinary:** Denies dysuria or hematuria.
+- **Neurological:** Reports feeling exhausted but denies confusion or focal neurological deficits.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 103°F
+- Heart Rate: 110 bpm
+- Blood Pressure: 140/85 mmHg
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Exam:**
+- **General:** Ill-appearing, febrile, and dehydrated.
+- **HEENT:** Mild scleral icterus, oral mucosa dry.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Cardiovascular:** Tachycardic, no murmurs.
+- **Abdomen:** Tender in the right upper quadrant, no rebound or guarding.
+- **Extremities:** Warm, inflamed joints.
+- **Neurological:** Alert but exhausted, no focal deficits.
+
+**Pending Investigations:**
+- Blood Work: CBC, liver function tests, electrolytes, blood cultures.
+- Imaging: Abdominal ultrasound ordered to evaluate a potential abdominal source of infection.
+
+**3. Assessment:**
+
+**Primary Diagnosis:**
+- Other Specified Sepsis (A41.89)
+
+**Medical Reasoning:**
+- The patient’s acute presentation of high fever, systemic symptoms, and history of Chronic Kidney Disease raises concern for sepsis. The physical examination showing tenderness in the right upper quadrant and inflamed joints suggests a possible infection source, necessitating further imaging.
+
+**Differential Diagnoses:**
+- Acute bacterial infection source (abdominal, urinary, or musculoskeletal origin)
+- Rheumatoid Arthritis flare with secondary infection
+
+**4. Plan:**
+
+**Medical Treatment:**
+- Initiate IV vancomycin 1g every 12 hours for 7 days.
+
+**Patient Education and Counseling:**
+- Explained the serious nature of sepsis and the need for aggressive antibiotic treatment.
+- Discussed the importance of hydration and rest.
+
+**Follow-Up Recommendations:**
+- Re-evaluation in 7 days; telemedicine follow-up if stable.
+
+**Specialist Referral:**
+- Referral to Nephrologist Dr. Samuel Green for potential renal involvement.
+
+**Further Investigations:**
+- Await results of blood work (CBC, liver function tests, electrolytes, blood cultures).
+- Await results from the abdominal ultrasound.
+
+The patient agrees to the treatment plan and understands the critical importance of the follow-up appointments. Due to geographical and socioeconomic factors, additional support for transport to specialized care and accessing medications will be coordinated through the community health clinic.
+
+#####"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Patient presents with severe symptoms including persistent high fever, joint pain, and nausea for the past 5 days.
+
+**History of Present Illness (HPI):**
+- Patient is a 70-year-old African American female with a history of Chronic Kidney Disease Stage 3 and Rheumatoid Arthritis, presenting with a high fever of 103°F for the past 5 days.
+- The fever is accompanied by severe joint pain, nausea, and vomiting.
+- Symptoms have been constant and have significantly impaired her daily activities, leaving her bedridden.
+- She reports disrupted sleep due to pain and fever.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports severe fever, chills, and significant fatigue. Denies weight loss.
+- **Gastrointestinal:** Reports nausea and vomiting. Denies diarrhea.
+- **Musculoskeletal:** Reports severe joint pain, particularly in the extremities. Denies recent trauma.
+- **Genitourinary:** Denies dysuria or hematuria.
+- **Neurological:** Reports feeling exhausted but denies confusion or focal neurological deficits.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 103°F
+- Heart Rate: 110 bpm
+- Blood Pressure: 140/85 mmHg
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Exam:**
+- **General:** Ill-appearing, febrile, and dehydrated.
+- **HEENT:** Mild scleral icterus, oral mucosa dry.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Cardiovascular:** Tachycardic, no murmurs.
+- **Abdomen:** Tender in the right upper quadrant, no rebound or guarding.
+- **Extremities:** Warm, inflamed joints.
+- **Neurological:** Alert but exhausted, no focal deficits.
+
+**3. Assessment:**
+
+**Primary Diagnosis:**
+- Other Specified Sepsis (A41.89)
+
+**Medical Reasoning:**
+- The patient’s acute presentation of high fever, systemic symptoms, and history of Chronic Kidney Disease raises concern for sepsis. The physical examination showing tenderness in the right upper quadrant and inflamed joints suggests a possible infection source, necessitating further imaging.
+
+**Differential Diagnoses:**
+- Acute bacterial infection source (abdominal, urinary, or musculoskeletal origin)
+- Rheumatoid Arthritis flare with secondary infection
+
+**4. Plan:**
+
+**Medical Treatment:**
+- Initiate IV vancomycin 1g every 12 hours for 7 days.
+
+**Patient Education and Counseling:**
+- Explained the serious nature of sepsis and the need for aggressive antibiotic treatment.
+- Discussed the importance of hydration and rest.
+
+**Follow-Up Recommendations:**
+- Re-evaluation in 7 days; telemedicine follow-up if stable.
+
+**Specialist Referral:**
+- Referral to Nephrologist Dr. Samuel Green for potential renal involvement.
+
+**Further Investigations:**
+- Await results of blood work (CBC, liver function tests, electrolytes, blood cultures).
+- Await results from the abdominal ultrasound.
+
+The patient agrees to the treatment plan and understands the critical importance of the follow-up appointments. Due to geographical and socioeconomic factors, additional support for transport to specialized care and accessing medications will be coordinated through the community health clinic."|"**1. Subjective:**
+
+**CC:**
+Pt presents with severe sx including persistent high fever, joint pain, and nausea for the past 5 days.
+
+**HPI:**
+- Pt is a 70 y/o African American F with a hx of CKD Stage 3 and RA, presenting with a high fever of 103°F for the past 5 days.
+- The fever is accompanied by severe joint pain, nausea, and vomiting.
+- Sx have been constant and have significantly impaired her ADLs, leaving her bedridden.
+- She reports disrupted sleep due to pain and fever.
+
+**ROS:**
+- **Constitutional:** Reports severe fever, chills, and significant fatigue. Denies weight loss.
+- **GI:** Reports nausea and vomiting. Denies diarrhea.
+- **MSK:** Reports severe joint pain, particularly in the extremities. Denies recent trauma.
+- **GU:** Denies dysuria or hematuria.
+- **Neuro:** Reports feeling exhausted but denies confusion or focal neurological deficits.
+
+**2. Objective:**
+
+**VS:**
+- Temp: 103°F
+- HR: 110 bpm
+- BP: 140/85 mmHg
+- RR: 18 bpm
+- O2 Sat: 98% on RA
+
+**PE:**
+- **General:** Ill-appearing, febrile, and dehydrated.
+- **HEENT:** Mild scleral icterus, oral mucosa dry.
+- **Resp:** CTA bilaterally.
+- **CV:** Tachycardic, no murmurs.
+- **Abd:** Tender in the RUQ, no rebound or guarding.
+- **Ext:** Warm, inflamed joints.
+- **Neuro:** Alert but exhausted, no focal deficits.
+
+**3. Assessment:**
+
+**Primary Dx:**
+- Other Specified Sepsis (A41.89)
+
+**Medical Reasoning:**
+- The pt’s acute presentation of high fever, systemic sx, and hx of CKD raises concern for sepsis. The PE showing tenderness in the RUQ and inflamed joints suggests a possible infection source, necessitating further imaging.
+
+**Differential Dx:**
+- Acute bacterial infection source (abdominal, urinary, or musculoskeletal origin)
+- RA flare with secondary infection
+
+**4. Plan:**
+
+**Medical Tx:**
+- Initiate IV vanco 1g q12h for 7 days.
+
+**Pt Education and Counseling:**
+- Explained the serious nature of sepsis and the need for aggressive abx tx.
+- Discussed the importance of hydration and rest.
+
+**Follow-Up Recommendations:**
+- Re-evaluation in 7 days; telemedicine follow-up if stable.
+
+**Specialist Referral:**
+- Referral to Nephro Dr. Samuel Green for potential renal involvement.
+
+**Further Investigations:**
+- Await results of blood work (CBC, LFTs, electrolytes, blood cultures).
+- Await results from the abd US.
+
+The pt agrees to the tx plan and understands the critical importance of the follow-up appointments. Due to geographical and socioeconomic factors, additional support for transport to specialized care and accessing meds will be coordinated through the community health clinic."|Infectious Disease Specialist
+OTHER SPECIFIED SEPSIS|"ROLE: Infectious Disease Specialist
+
+**Clinical Setting:** Hospital
+**Type of Encounter:** Emergency Visit
+**Demographic Information:** Age: 62, Gender: Male, Ethnicity: Caucasian, Socio-economic Status: Middle income, Education Level: College graduate, Health Literacy: Good, Job Status: Retired
+**Patient's Behavior:** Cooperative with medical advice but appears anxious.
+**Geographical Location:** Urban, Big City, Well-served by Transit
+**Medical History:** Previous Diagnoses: Diabetes Mellitus Type 2, Hypertension, Medication History: Metformin 500 mg orally twice daily, Lisinopril 10 mg once daily, Allergies: Penicillin, Chronic Conditions: None other than diabetes and hypertension.
+**Symptom Description:** High fever (102.5°F), Severe chills, Generalized weakness, Onset: 3 days ago, Duration: continuous, Frequency: constant, Impact on Daily Activities: significant, unable to perform daily activities.
+**Patient’s self-reported habits and lifestyle:** Sleep: Poor, disturbed due to symptoms; Diet: Balanced; Exercise: Moderate, walks daily; Tobacco Use: Former smoker, quit 10 years ago; Alcohol Consumption: Occasional wine with dinner; Drug Use: None; Recreational Activities: Reading, gardening.
+**Physical exams:** Vital Signs - BP: 90/60 mmHg, HR: 110 bpm, RR: 22 breaths/minute, SpO2: 95% on room air; General Appearance: Appears ill, diaphoretic; Cardiovascular: Tachycardia, no murmurs; Respiratory: Lungs clear to auscultation; Abdominal: Mild tenderness in lower quadrants, no rebound tenderness; Neurological: Alert, oriented to person, place, time.
+**Medical Outcome:**
+  - Diagnosis: Other specified sepsis
+  - Medical Treatment: Start broad-spectrum IV antibiotics (Vancomycin 1 gram, every 12 hours and Piperacillin/Tazobactam 4.5 grams, every 6 hours), IV fluids (Normal Saline, 1000 ml bolus followed by maintenance IV fluids).
+  - Investigation/Test results: Blood cultures, Complete Blood Count (CBC), Comprehensive Metabolic Panel (CMP), Lactate level.
+  - Imaging: Chest X-ray to rule out pneumonia, Abdominal ultrasound to rule out intra-abdominal source of infection; results pending.
+  - Follow-up recommendations: Admit to ICU for close monitoring and ongoing treatment.
+  - Referral to specialists: Infectious Disease Specialist (Dr. Smith), Critical Care Specialist (Dr. Adams).
+  
+(Note: Please remember that this scenario is artificial and for research purposes only. In actual practice, consult a real physician for medical advice and treatment.)"|"#####
+
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+High fever, severe chills, generalized weakness.
+
+**History of Present Illness (HPI):**
+Mr. John Doe, a 62-year-old Caucasian male, presents to the emergency department with a history of high fever (102.5°F), severe chills, and generalized weakness for the past 3 days. The onset was sudden, and the symptoms have been constant, significantly impacting his daily activities, as he has been unable to perform them.
+
+**Review of Systems (ROS):**
+- General: Reports fever, chills, and feeling very weak.
+- Cardiovascular: No chest pain or palpitations aside from noted tachycardia.
+- Respiratory: No cough, shortness of breath, or wheezing.
+- Gastrointestinal: Mild abdominal discomfort, no nausea, vomiting, or diarrhea.
+- Neurological: No headaches, dizziness, or visual changes.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure (BP): 90/60 mmHg
+- Heart Rate (HR): 110 bpm
+- Respiratory Rate (RR): 22 breaths/minute
+- Oxygen Saturation (SpO2): 95% on room air
+- Temperature: 102.5°F
+
+**Physical Exam:**
+- General Appearance: Patient appears ill and diaphoretic.
+- Cardiovascular: Tachycardia noted, no murmurs.
+- Respiratory: Lungs clear to auscultation bilaterally.
+- Abdominal: Mild tenderness in lower quadrants, no rebound tenderness.
+- Neurological: Alert and oriented to person, place, and time.
+
+**Results:**
+- Blood cultures drawn.
+- Complete Blood Count (CBC).
+- Comprehensive Metabolic Panel (CMP).
+- Lactate level.
+- Imaging: Chest X-ray and Abdominal ultrasound, results pending.
+
+**3. Assessment:**
+
+**Diagnosis:**
+Other specified sepsis.
+
+**Differential Diagnosis:**
+- Bacterial sepsis of unknown origin.
+- Urinary tract infection with secondary sepsis.
+- Intra-abdominal infection leading to sepsis.
+
+**4. Plan:**
+
+**Treatment:**
+- Start broad-spectrum IV antibiotics:
+  - Vancomycin 1 gram, every 12 hours.
+  - Piperacillin/Tazobactam 4.5 grams, every 6 hours.
+- IV fluids:
+  - Normal Saline, 1000 ml bolus followed by maintenance IV fluids.
+  
+**Investigations:**
+- Continuous monitoring of vital signs.
+- Pending results from blood cultures, CBC, CMP, Lactate level.
+- Await results of Chest X-ray and Abdominal ultrasound.
+
+**Follow-Up:**
+- Admit to Intensive Care Unit (ICU) for close monitoring and ongoing treatment.
+- Daily review of bloodwork and cultures.
+- Adjust antibiotics based on culture sensitivity results.
+
+**Referrals:**
+- Infectious Disease Specialist (Dr. Smith) for ongoing infection management.
+- Critical Care Specialist (Dr. Adams) for ICU management.
+
+**Instructions:**
+- Maintain strict infection control protocols.
+- Monitor input/output and daily weights.
+- Reassess response to treatment and adjust therapeutic plan as needed.
+
+(Note: This scenario is artificial and for research purposes only. In actual practice, consult a real physician for medical advice and treatment.)"|"#####
+
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+High fever, severe chills, generalized weakness.
+
+**History of Present Illness (HPI):**
+Mr. John Doe, a 62-year-old Caucasian male, presents to the emergency department with a history of high fever (102.5°F), severe chills, and generalized weakness for the past 3 days. The onset was sudden, and the symptoms have been constant, significantly impacting his daily activities, as he has been unable to perform them.
+
+**Review of Systems (ROS):**
+- General: Reports fever, chills, and feeling very weak.
+- Cardiovascular: No chest pain or palpitations aside from noted tachycardia.
+- Respiratory: No cough, shortness of breath, or wheezing.
+- Gastrointestinal: Mild abdominal discomfort, no nausea, vomiting, or diarrhea.
+- Neurological: No headaches, dizziness, or visual changes.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure (BP): 90/60 mmHg
+- Heart Rate (HR): 110 bpm
+- Respiratory Rate (RR): 22 breaths/minute
+- Oxygen Saturation (SpO2): 95% on room air
+- Temperature: 102.5°F
+
+**Physical Exam:**
+- General Appearance: Patient appears ill and diaphoretic.
+- Cardiovascular: Tachycardia noted, no murmurs.
+- Respiratory: Lungs clear to auscultation bilaterally.
+- Abdominal: Mild tenderness in lower quadrants, no rebound tenderness.
+- Neurological: Alert and oriented to person, place, and time.
+
+**Results:**
+- Blood cultures drawn.
+- Complete Blood Count (CBC).
+- Comprehensive Metabolic Panel (CMP).
+- Lactate level.
+- Imaging: Chest X-ray and Abdominal ultrasound, results pending.
+
+**3. Assessment:**
+
+**Diagnosis:**
+Other specified sepsis.
+
+**Differential Diagnosis:**
+- Bacterial sepsis of unknown origin.
+- Urinary tract infection with secondary sepsis.
+- Intra-abdominal infection leading to sepsis.
+
+**4. Plan:**
+
+**Treatment:**
+- Start broad-spectrum IV antibiotics:
+  - Vancomycin 1 gram, every 12 hours.
+  - Piperacillin/Tazobactam 4.5 grams, every 6 hours.
+- IV fluids:
+  - Normal Saline, 1000 ml bolus followed by maintenance IV fluids.
+  
+**Investigations:**
+- Continuous monitoring of vital signs.
+- Pending results from blood cultures, CBC, CMP, Lactate level.
+- Await results of Chest X-ray and Abdominal ultrasound.
+
+**Follow-Up:**
+- Admit to Intensive Care Unit (ICU) for close monitoring and ongoing treatment.
+- Daily review of bloodwork and cultures.
+- Adjust antibiotics based on culture sensitivity results.
+
+**Referrals:**
+- Infectious Disease Specialist (Dr. Smith) for ongoing infection management.
+- Critical Care Specialist (Dr. Adams) for ICU management.
+
+**Instructions:**
+- Maintain strict infection control protocols.
+- Monitor input/output and daily weights.
+- Reassess response to treatment and adjust therapeutic plan as needed."|"#####
+
+**1. Subjective:**
+
+**CC:**
+High fever, severe chills, generalized weakness.
+
+**HPI:**
+Mr. John Doe, a 62 y/o Caucasian male, presents to the ED with a hx of high fever (102.5°F), severe chills, and generalized weakness for the past 3 days. The onset was sudden, and the sx have been constant, significantly impacting his ADLs, as he has been unable to perform them.
+
+**ROS:**
+- General: Reports fever, chills, and feeling very weak.
+- CV: No CP or palpitations aside from noted tachycardia.
+- Resp: No cough, SOB, or wheezing.
+- GI: Mild abdominal discomfort, no N/V/D.
+- Neuro: No HA, dizziness, or visual changes.
+
+**2. Objective:**
+
+**VS:**
+- BP: 90/60 mmHg
+- HR: 110 bpm
+- RR: 22 breaths/min
+- SpO2: 95% on RA
+- Temp: 102.5°F
+
+**PE:**
+- General: Patient appears ill and diaphoretic.
+- CV: Tachycardia noted, no murmurs.
+- Resp: Lungs clear to auscultation bilaterally.
+- Abd: Mild tenderness in lower quadrants, no rebound tenderness.
+- Neuro: Alert and oriented x3.
+
+**Results:**
+- Blood cx drawn.
+- CBC.
+- CMP.
+- Lactate level.
+- Imaging: CXR and Abdominal US, results pending.
+
+**3. Assessment:**
+
+**Dx:**
+Other specified sepsis.
+
+**DDx:**
+- Bacterial sepsis of unknown origin.
+- UTI with secondary sepsis.
+- Intra-abdominal infection leading to sepsis.
+
+**4. Plan:**
+
+**Tx:**
+- Start broad-spectrum IV abx:
+  - Vanc 1g, q12h.
+  - Pip/Tazo 4.5g, q6h.
+- IV fluids:
+  - NS, 1000 ml bolus followed by maintenance IV fluids.
+  
+**Investigations:**
+- Continuous monitoring of VS.
+- Pending results from blood cx, CBC, CMP, Lactate level.
+- Await results of CXR and Abdominal US.
+
+**Follow-Up:**
+- Admit to ICU for close monitoring and ongoing tx.
+- Daily review of bloodwork and cx.
+- Adjust abx based on cx sensitivity results.
+
+**Referrals:**
+- ID Specialist (Dr. Smith) for ongoing infection mgmt.
+- Critical Care Specialist (Dr. Adams) for ICU mgmt.
+
+**Instructions:**
+- Maintain strict infection control protocols.
+- Monitor I/O and daily weights.
+- Reassess response to tx and adjust therapeutic plan as needed."|Infectious Disease Specialist
+OTHER SPECIFIED SEPSIS|"ROLE: Infectious Disease Specialist
+
+- Medical Outcome: 
+  - Diagnosis: Other Specified Sepsis (A41.89)
+  - Prescribed Treatment: Initiate broad-spectrum antibiotics (vancomycin 15 mg/kg IV every 12 hours for 10 days and meropenem 1 g IV every 8 hours for 10 days)
+  - Follow-up Recommendations: Follow-up in 3 days to evaluate response to treatment
+  - Referral to further tests: Blood culture and sensitivity, Complete Blood Count (CBC), Liver Function Tests (LFTs), Renal Function Tests, and C-reactive Protein (CRP)
+  - Imaging: Chest X-ray to rule out pneumonia
+- Medical History:
+  - Previous Diagnoses: Type 2 diabetes mellitus, Hypertension
+  - Family Medical History: Father had coronary artery disease, Mother had rheumatoid arthritis
+  - Medication History: Metformin, Lisinopril, Hydrochlorothiazide
+  - Allergies: No known drug allergies
+  - Chronic Conditions: Type 2 diabetes, Hypertension
+- Symptom Description:
+  - Severity: Severe
+  - Duration: 3 days
+  - Associated Symptoms: Fever, chills, rapid heartbeat, confusion, shortness of breath
+  - Frequency: Constant
+  - Impact on Daily Activities: Unable to perform daily tasks, bedridden for the past day
+- Patient’s self-reported habits and lifestyle:
+  - Sleep: Disrupted due to fever and chills
+  - Diet: Regular balanced diet, no recent changes
+  - Exercise: Sedentary lifestyle
+  - Tobacco Use: Former smoker, quit 10 years ago
+  - Alcohol Consumption: Occasional social drinker
+  - Drug Use: None
+  - Recreational Activities: None recently due to illness
+- Demographic Information:
+  - Age: 62
+  - Gender: Male
+  - Ethnicity: African American
+  - Socio-economic Status: Lower middle class
+  - Education Level: High school graduate
+  - Health Literacy: Moderate understanding of medical terms and conditions
+  - Job Status: Retired factory worker
+- Patient's Behavior:
+  - Cooperation: Generally cooperative but expresses anxiety about hospitalization
+- Geographical Location:
+  - Big City vs Small City: Small City
+  - Rural vs Urban: Urban
+  - Pollution and Environmental Health Risks: Moderate pollution levels
+  - Neighborhood Type: Working-class neighborhood, well-served by transit, limited access to high-quality fresh food (food desert)
+- Clinical Setting:
+  - Hospitals: Admitted to a community hospital
+- Type of Encounter:
+  - Initial Consultation
+- Treatment Disparities:
+  - No noted disparities; aggressive treatment initiated promptly
+- Native or Non-Native English-Speaking Patient:
+  - Native English-speaking patient
+- Physical exams:
+  - Cardiovascular: Tachycardia, BP 90/60 mmHg
+  - Respiratory: Rapid breathing, decreased breath sounds in the lower lobes
+  - General: High fever (102°F), disoriented, lethargic
+  - Abdomen: Tenderness in the right upper quadrant
+- Investigation/Test results:
+  - Awaiting Blood culture and sensitivity results
+  - CBC: Elevated WBC at 18,000 cells/µL
+  - LFTs: Mild elevation in liver enzymes AST and ALT
+  - Renal Function Tests: Elevated BUN and creatinine
+  - CRP: Elevated at 150 mg/L
+  - Chest X-ray: Awaiting results"|Rejected|Rejected|Rejected|Rejected
+OTHER SPECIFIED SEPSIS|"ROLE: Infectious Disease Specialist
+
+- Medical Outcome:
+  - Diagnosis: Other Specified Sepsis (A41.89)
+  - Prescribed Treatment: Start Ceftriaxone 2 g IV every 24 hours for 7 days and Clindamycin 900 mg IV every 8 hours for 7 days
+  - Follow-up Recommendations: Follow-up in 2 days to assess response to treatment
+  - Referral to further tests: Blood culture and sensitivity, Complete Blood Count (CBC), Serum Lactate, Arterial Blood Gas (ABG), Procalcitonin, and C-reactive Protein (CRP)
+  - Imaging: Abdominal ultrasound to check for possible intra-abdominal infection as a source of sepsis
+  - Lifestyle Change: Advise patient to improve hand hygiene and regular diabetic management.
+- Medical History:
+  - Previous Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), Osteoarthritis
+  - Family Medical History: Brother had lung cancer, Mother had diabetes
+  - Medication History: Salbutamol inhaler, Ibuprofen
+  - Allergies: Penicillin allergy (causes rash)
+  - Chronic Conditions: COPD, Osteoarthritis
+- Symptom Description:
+  - Severity: Severe
+  - Duration: 2 days
+  - Associated Symptoms: High fever, severe abdominal pain, vomiting, shortness of breath
+  - Frequency: Persistent, unrelenting
+  - Impact on Daily Activities: Confined to bed, unable to eat or drink
+- Patient’s self-reported habits and lifestyle:
+  - Sleep: Poor quality due to chronic pain and recent illness
+  - Diet: Eats a diet high in processed foods and low in vegetables; financial limitations
+  - Exercise: Minimal due to osteoarthritis and COPD
+  - Tobacco Use: Current smoker, 1 pack per day for 30 years
+  - Alcohol Consumption: Drinks socially, approximately 2-3 drinks per week
+  - Drug Use: None reported
+  - Recreational Activities: Limited due to physical conditions and financial restrictions
+- Demographic Information:
+  - Age: 72
+  - Gender: Female
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Lower class, on social security benefits
+  - Education Level: Some high school, did not graduate
+  - Health Literacy: Limited understanding of medical terms and conditions
+  - Job Status: Retired housekeeping staff
+- Patient's Behavior:
+  - Cooperation: Initially uncooperative due to fear of hospitalization but becomes compliant with reassurance
+- Geographical Location: 
+  - Big City vs Small City: Rural
+  - Rural vs Urban: Rural
+  - Pollution and Environmental Health Risks: Low pollution but limited access to healthcare facilities
+  - Neighborhood Type: Isolated, limited access to public transport, food desert
+- Clinical Setting:
+  - Urgent Care Centers: Presented to a rural urgent care center due to rapid worsening of symptoms
+- Type of Encounter:
+  - Emergency Visit
+- Treatment Disparities:
+  - Limited availability of specialists; initial delay in treatment due to transportation issues
+- Native or Non-Native English-Speaking Patient:
+  - Native English-speaking patient
+- Physical exams:
+  - Cardiovascular: Elevated heart rate (tachycardia), blood pressure 85/55 mmHg
+  - Respiratory: Shallow breathing, decreased breath sounds in both lung bases
+  - General: High fever (103°F), visibly distressed, diaphoretic
+  - Abdomen: Marked tenderness and guarding in the lower right quadrant
+  - Neurological: Alert but disoriented to time
+- Investigation/Test results:
+  - Awaiting Blood culture and sensitivity results
+  - CBC: WBC elevated at 22,000 cells/µL
+  - Serum Lactate: Elevated at 4.5 mmol/L
+  - ABG: Metabolic acidosis
+  - Procalcitonin: Markedly elevated
+  - CRP: Elevated at 200 mg/L
+  - Abdominal ultrasound: Awaiting results"|Rejected|Rejected|Rejected|Rejected
+OTHER SPECIFIED SEPSIS|"ROLE: Infectious Disease Specialist
+
+- Medical Outcome:
+  - Diagnosis: Other Specified Sepsis (A41.89)
+  - Prescribed Treatment: Start Piperacillin-Tazobactam 4.5 g IV every 6 hours for 7 days, and Linezolid 600 mg IV every 12 hours for 7 days
+  - Follow-up Recommendations: Reevaluate in 48 hours for clinical response and adjust antibiotics based on culture results
+  - Referral to further tests: Blood culture and sensitivity, Complete Blood Count (CBC), C-reactive Protein (CRP), Procalcitonin, Blood Urea Nitrogen (BUN), Creatinine, and Echocardiogram to rule out endocarditis
+  - Imaging: CT scan of the chest, abdomen, and pelvis with contrast to identify any source of sepsis
+- Medical History:
+  - Previous Diagnoses: Chronic Kidney Disease Stage 3, Hypertension
+  - Family Medical History: Father had colon cancer, Mother had stroke
+  - Medication History: Amlodipine, Losartan, Furosemide
+  - Allergies: No known drug allergies
+  - Chronic Conditions: Chronic Kidney Disease Stage 3, Hypertension
+- Symptom Description:
+  - Severity: Very severe
+  - Duration: 1 day
+  - Associated Symptoms: High fever, extreme fatigue, hypotension, severe muscle pain, altered mental status
+  - Frequency: Persistent
+  - Impact on Daily Activities: Completely unable to perform any activities, needs assistance with basic movements
+- Patient’s self-reported habits and lifestyle:
+  - Sleep: Poor sleep due to frequent nocturia
+  - Diet: Low protein diet due to chronic kidney disease
+  - Exercise: Used to walk daily, now completely bedbound
+  - Tobacco Use: Never smoked
+  - Alcohol Consumption: None
+  - Drug Use: None
+  - Recreational Activities: Used to garden, now inactive due to illness
+- Demographic Information:
+  - Age: 65
+  - Gender: Female
+  - Ethnicity: Hispanic
+  - Socio-economic Status: Middle class
+  - Education Level: College graduate
+  - Health Literacy: High 
+  - Job Status: Retired teacher
+- Patient's Behavior:
+  - Cooperation: Fully cooperative, understands the need for hospitalization
+- Geographical Location:
+  - Big City vs Small City: Big City
+  - Rural vs Urban: Urban
+  - Pollution and Environmental Health Risks: Moderate pollution, high pollen count
+  - Neighborhood Type: Residential area, well-served by transit, access to fresh food markets
+- Clinical Setting:
+  - Hospitals: Referred to an infectious disease unit in a tertiary care hospital
+- Type of Encounter:
+  - Emergency Visit
+- Treatment Disparities:
+  - None identified; treatment is aggressive and timely
+- Native or Non-Native English-Speaking Patient:
+  - Native English-speaking patient
+- Physical exams:
+  - Cardiovascular: Tachycardia (HR 120 bpm), hypotension (BP 80/50 mmHg), no murmurs
+  - Respiratory: Crackles heard in both lungs, respiratory rate 28 breaths per minute
+  - General: High fever (104°F), appears acutely ill, lethargic but responsive
+  - Abdomen: Mild distension, tenderness in the pelvic region without rebound
+  - Neurological: Responds to verbal commands but disoriented to place and time
+- Investigation/Test results:
+  - Awaiting Blood culture and sensitivity results
+  - CBC: Elevated WBC at 24,000 cells/µL
+  - CRP: Elevated at 180 mg/L
+  - Procalcitonin: Significantly elevated
+  - BUN: Elevated at 35 mg/dL
+  - Creatinine: Elevated at 2.2 mg/dL
+  - Echocardiogram: Awaiting results
+  - CT scan of the chest, abdomen, and pelvis: Awaiting results"|Rejected|Rejected|Rejected|Rejected
+OTHER SPECIFIED SEPSIS|"ROLE: Infectious Disease Specialist
+
+Scenario Variables:
+
+**1) Medical Outcome:**
+- Diagnosis: Other Specified Sepsis (A41.89)
+- Prescribed Treatment: IV ciprofloxacin 400 mg every 12 hours for 10 days
+- Follow-up Recommendations: Re-evaluate after 10 days in office visit
+- Referral to Specialists: Consultation with hematologist (Dr. Emily Rose) for underlying blood disorder management
+- Blood Work: Complete Blood Count (CBC), blood cultures, metabolic panel
+- Imaging: Order Chest X-ray for evaluation of potential pneumonia
+
+**2) Medical History:**
+- Previous Diagnoses: Diabetes mellitus type 2, Hypertension
+- Family Medical History: Father with coronary artery disease; mother with type 2 diabetes
+- Medication History: Metformin 500 mg BID, Lisinopril 10 mg daily
+- Allergies: Penicillin
+- Chronic Conditions: Diabetes, Hypertension
+
+**3) Symptom Description:**
+- Severity: Severe
+- Duration: 3 days
+- Associated Symptoms: High fever (102.4°F), chills, confusion, shortness of breath
+- Frequency: Constant
+- Impact on Daily Activities: Bedridden, unable to perform daily activities
+
+**4) Patient’s self-reported habits and lifestyle:**
+- Sleep: Poor sleep (4-5 hours/night), frequent awakenings
+- Diet: High carbohydrate diet
+- Exercise: Sedentary lifestyle
+- Tobacco Use: None
+- Alcohol Consumption: Occasional (1-2 drinks/month)
+- Drug Use: None
+- Recreational Activities: Watching TV, reading
+
+**5) Demographic Information:**
+- Age: 65
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle class
+- Education Level: High school diploma
+- Health Literacy: Moderate
+- Job Status: Retired
+
+**6) Patient's Behavior:**
+- Cooperative with medical advice but struggles with diet and exercise recommendations
+
+**7) Geographical Location:**
+- Urban
+- Well-served by Transit
+- Affluent neighborhood
+- Health Facilities Nearby
+
+**8) Clinical Setting:**
+- Hospital
+
+**9) Type of Encounter:**
+- Emergency Visit
+
+**10) Treatment Disparities:**
+- No significant disparities noted
+
+**11) Native or Non-Native English Speaking Patient:**
+- Native English Speaking
+
+**12) Physical exams:**
+- General: Patient appears acutely ill, somnolent but arousable
+- HEENT: No icterus, no sign of meningismus
+- Respiratory: Crackles in the right lower lobe
+- Cardiovascular: Tachycardia, no murmurs
+- Abdomen: Soft, non-tender, no hepatosplenomegaly
+- Extremities: No edema, capillary refill is delayed
+- Neurological: Alert but confused, cranial nerves grossly intact
+
+**13) Investigation/Test results:**
+- Awaiting routine blood work results (CBC, blood cultures, metabolic panel)
+- Awaiting Chest X-ray results for potential pneumonia"|Rejected|Rejected|Rejected|Rejected
