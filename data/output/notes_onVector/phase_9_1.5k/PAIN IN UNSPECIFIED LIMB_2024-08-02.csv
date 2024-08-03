@@ -1,0 +1,1848 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role
+PAIN IN UNSPECIFIED LIMB|"ROLE: General Physician
+
+**Scenario Variables:**
+
+1. **Medical Outcome:**
+    - Diagnosis: Pain in unspecified limb (ICD-10: M79.609)
+    - Prescribed Treatment: 
+        - Ibuprofen 400 mg, oral, every 6-8 hours as needed for pain, quantity: 30 tablets.
+        - Physical Therapy, twice a week for 4 weeks.
+    - Follow-up Recommendations: Follow-up in 4 weeks to reassess pain and functionality.
+    - Referral to Specialists: Orthopedist, Dr. David Smith, for further evaluation and management of limb pain.
+    - Imaging Request: MRI of the affected limb to investigate underlying causes.
+
+2. **Medical History:**
+    - Previous Diagnoses: Hypertension, Type 2 Diabetes
+    - Family Medical History: Father had osteoarthritis, mother had osteoporosis.
+    - Medication History: Metformin 500 mg twice a day, Lisinopril 20 mg once a day.
+    - Allergies: Penicillin
+
+3. **Symptom Description:**
+    - Severity: Moderate to severe pain, rated 7/10 on a pain scale.
+    - Duration: 2 months
+    - Associated Symptoms: Occasional swelling, stiffness
+    - Frequency: Persistent, worsens with activity
+    - Impact on Daily Activities: Significant, difficult to perform daily tasks and work.
+
+4. **Patient’s self-reported habits and lifestyle:**
+    - Sleep: Poor, wakes up due to pain.
+    - Diet: Balanced, follows a diabetic diet plan.
+    - Exercise: Limited due to pain, walks short distances.
+    - Tobacco Use: None
+    - Alcohol Consumption: Occasional, 1-2 drinks per week.
+    - Recreational Activities: Limited due to pain.
+
+5. **Demographic Information:**
+    - Age: 45
+    - Gender: Female
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: Bachelor's degree
+    - Health Literacy: Moderate
+    - Job Status: Administrative assistant, currently on medical leave due to pain.
+
+6. **Patient's Behavior:**
+    - Cooperative with medical advice, eager to find a solution for the pain.
+
+7. **Geographical Location:**
+    - Big City
+    - Urban Neighborhood: Well-served by public transit, no significant pollution or environmental health risks.
+
+8. **Clinical Setting:**
+    - Private Practice
+
+9. **Type of Encounter:**
+    - Initial Consultation
+
+10. **Treatment Disparities:**
+    - None
+
+11. **Native or Non-Native English Speaking Patient:**
+    - Native English Speaking Patient
+
+12. **Physical exams:**
+    - Musculoskeletal Examination: 
+        - Inspection: No obvious deformity, slight swelling noted.
+        - Palpation: Tenderness in the limb.
+        - Range of Motion: Limited due to pain.
+        - Strength Testing: 4/5 strength in affected limb.
+
+13. **Investigation/Test results:**
+    - Awaiting: MRI of the affected limb
+
+---
+
+This scenario involves a comprehensive assessment of a patient presented with unspecified limb pain, detailing the necessary steps for diagnosis, treatment, and follow-up."|"**Subjective:**
+
+**Chief Complaint (CC):**
+Moderate to severe pain in an unspecified limb for the past 2 months.
+
+**History of Present Illness (HPI):**
+Ms. Jessica White is a 45-year-old female who presents today with complaints of moderate to severe pain in her limb, which she rates as 7/10 on a pain scale. She describes the pain as persistent and worsening with activity. The pain has been ongoing for 2 months and is significantly impacting her daily activities, making it difficult to perform tasks and work. She reports occasional swelling and stiffness in the affected limb. She has been adhering to her diabetic diet and has limited her exercise due to the pain. Her sleep quality is poor as she wakes up frequently due to discomfort. She denies any recent trauma or injury to the limb.
+
+**Review of Systems (ROS):**
+- General: No fever or weight loss.
+- Musculoskeletal: Moderate to severe limb pain, occasional swelling, stiffness, limited range of motion.
+- Neurological: No numbness or tingling.
+- Cardiovascular: No chest pain or palpitations.
+- Respiratory: No shortness of breath or cough.
+- Gastrointestinal: No nausea or vomiting.
+
+**Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 140/90 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+
+**Physical Examination:**
+- **General:** Well-nourished, cooperative female in moderate distress due to pain.
+- **Musculoskeletal:** 
+    - Inspection: No obvious deformity, slight swelling noted.
+    - Palpation: Tenderness in the affected limb.
+    - Range of Motion: Limited due to pain.
+    - Strength Testing: 4/5 strength in the affected limb.
+- **Neurological:** No focal deficits.
+
+**Assessment:**
+
+Diagnosis: Pain in unspecified limb (ICD-10: M79.609)
+
+**Plan:**
+
+1. **Medication:**
+    - Ibuprofen 400 mg, oral, every 6-8 hours as needed for pain, quantity: 30 tablets.
+
+2. **Physical Therapy:**
+    - Twice a week for 4 weeks to improve mobility and reduce pain.
+
+3. **Imaging:**
+    - MRI of the affected limb to investigate underlying causes.
+
+4. **Referral:**
+    - Referral to Orthopedist, Dr. David Smith, for further evaluation and management of limb pain.
+
+5. **Follow-up:**
+    - Follow-up in 4 weeks to reassess pain and functionality.
+
+6. **Patient Education:**
+    - Discussed the importance of adhering to prescribed medications and attending physical therapy sessions.
+    - Advised on maintaining a balanced diet and managing diabetes effectively.
+    - Encouraged gentle exercise as tolerated and the importance of rest.
+
+All questions were answered, and the patient was agreeable to the management plan."|"**Subjective:**
+
+**Chief Complaint (CC):**
+Moderate to severe pain in an unspecified limb for the past 2 months.
+
+**History of Present Illness (HPI):**
+Ms. Jessica White is a 45-year-old female who presents today with complaints of moderate to severe pain in her limb, which she rates as 7/10 on a pain scale. She describes the pain as persistent and worsening with activity. The pain has been ongoing for 2 months and is significantly impacting her daily activities, making it difficult to perform tasks and work. She reports occasional swelling and stiffness in the affected limb. She has been adhering to her diabetic diet and has limited her exercise due to the pain. Her sleep quality is poor as she wakes up frequently due to discomfort. She denies any recent trauma or injury to the limb.
+
+**Review of Systems (ROS):**
+- General: No fever or weight loss.
+- Musculoskeletal: Moderate to severe limb pain, occasional swelling, stiffness, limited range of motion.
+- Neurological: No numbness or tingling.
+- Cardiovascular: No chest pain or palpitations.
+- Respiratory: No shortness of breath or cough.
+- Gastrointestinal: No nausea or vomiting.
+
+**Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 140/90 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+
+**Physical Examination:**
+- **General:** Well-nourished, cooperative female in moderate distress due to pain.
+- **Musculoskeletal:** 
+    - Inspection: No obvious deformity, slight swelling noted.
+    - Palpation: Tenderness in the affected limb.
+    - Range of Motion: Limited due to pain.
+    - Strength Testing: 4/5 strength in the affected limb.
+- **Neurological:** No focal deficits.
+
+**Assessment:**
+
+Diagnosis: Pain in unspecified limb (ICD-10: M79.609)
+
+**Plan:**
+
+1. **Medication:**
+    - Ibuprofen 400 mg, oral, every 6-8 hours as needed for pain, quantity: 30 tablets.
+
+2. **Physical Therapy:**
+    - Twice a week for 4 weeks to improve mobility and reduce pain.
+
+3. **Imaging:**
+    - MRI of the affected limb to investigate underlying causes.
+
+4. **Referral:**
+    - Referral to Orthopedist, Dr. David Smith, for further evaluation and management of limb pain.
+
+5. **Follow-up:**
+    - Follow-up in 4 weeks to reassess pain and functionality.
+
+6. **Patient Education:**
+    - Discussed the importance of adhering to prescribed medications and attending physical therapy sessions.
+    - Advised on maintaining a balanced diet and managing diabetes effectively.
+    - Encouraged gentle exercise as tolerated and the importance of rest.
+
+All questions were answered, and the patient was agreeable to the management plan."|"**Subjective:**
+
+**CC:**
+Mod-severe pain in an unspecified limb x2 months.
+
+**HPI:**
+Ms. Jessica White, 45 y/o F, presents with c/o mod-severe limb pain, rated 7/10. Pain is persistent, worsens with activity, ongoing x2 months, impacting ADLs and work. Reports occasional swelling and stiffness. Adhering to diabetic diet, limited exercise due to pain. Poor sleep quality, frequently wakes due to discomfort. Denies recent trauma/injury.
+
+**ROS:**
+- General: No fever, no wt loss.
+- MSK: Mod-severe limb pain, occasional swelling, stiffness, limited ROM.
+- Neuro: No numbness/tingling.
+- CV: No CP or palpitations.
+- Resp: No SOB or cough.
+- GI: No N/V.
+
+**Objective:**
+
+**VS:**
+- BP: 140/90 mmHg
+- HR: 78 bpm
+- RR: 16 bpm
+- Temp: 98.6°F
+
+**PE:**
+- **General:** Well-nourished, cooperative F in mod distress due to pain.
+- **MSK:** 
+    - Inspection: No obvious deformity, slight swelling noted.
+    - Palpation: Tenderness in affected limb.
+    - ROM: Limited due to pain.
+    - Strength: 4/5 in affected limb.
+- **Neuro:** No focal deficits.
+
+**Assessment:**
+
+Dx: Pain in unspecified limb (ICD-10: M79.609)
+
+**Plan:**
+
+1. **Rx:**
+    - Ibuprofen 400 mg PO q6-8h PRN pain, qty: 30 tabs.
+
+2. **PT:**
+    - BID x4 weeks to improve mobility and reduce pain.
+
+3. **Imaging:**
+    - MRI of affected limb to r/o underlying causes.
+
+4. **Referral:**
+    - Ortho referral to Dr. David Smith for further eval and mgmt of limb pain.
+
+5. **F/U:**
+    - F/U in 4 weeks to reassess pain and functionality.
+
+6. **Pt Ed:**
+    - Discussed importance of adherence to Rx and attending PT sessions.
+    - Advised on maintaining balanced diet and managing DM effectively.
+    - Encouraged gentle exercise as tolerated and importance of rest.
+
+All questions answered, pt agreeable to mgmt plan."|General Physician
+PAIN IN UNSPECIFIED LIMB|"ROLE: Family Medicine Physician
+
+**1) Medical Outcome:**
+   - Diagnosis: Pain in unspecified limb (ICD-10: M79.60)
+   - Prescribed Treatment: 
+     - Diclofenac gel 1%, topical, 4 times daily, for 14 days
+     - Compression bandage
+     - Referral to Rheumatologist, Dr. Mark Henderson, for further evaluation
+   - Follow-up Recommendations: 
+     - Follow-up in 4 weeks
+     - Blood work: Comprehensive metabolic panel (CMP) and Complete Blood Count (CBC)
+
+**2) Medical History:**
+   - Previous Diagnoses: Hypertension, hyperlipidemia 
+   - Family Medical History: Mother had osteoarthritis, brother has multiple sclerosis
+   - Medication History: Currently on Amlodipine for hypertension, Atorvastatin for hyperlipidemia
+   - Allergies: None
+   - Chronic Conditions: None
+
+**3) Symptom Description:**
+   - Severity: 6/10
+   - Duration: 8 weeks
+   - Associated Symptoms: Stiffness, warmth in the affected limb
+   - Frequency: Intermittent, worse in the morning
+   - Impact on Daily Activities: Moderate difficulty with daily activities including personal care and housework
+
+**4) Patient’s self-reported habits and lifestyle:**
+   - Sleep: Fair quality, around 6 hours, occasionally disrupted by pain
+   - Diet: High in processed foods and sugary beverages
+   - Exercise: Limited to light stretching due to pain
+   - Tobacco Use: None
+   - Alcohol Consumption: Occasional, 1-2 drinks per month
+   - Drug Use: None
+   - Recreational Activities: Enjoys reading, but limited physical hobbies due to pain
+
+**5) Demographic Information:**
+   - Age: 37
+   - Gender: Male
+   - Ethnicity: Asian
+   - Socio-economic Status: High-income
+   - Education Level: Master's degree
+   - Health Literacy: High
+   - Job Status: Corporate manager
+
+**6) Patient's Behavior:**
+   - Level of patient's cooperation with medical advice: Highly compliant with medical advice
+
+**7) Geographical Location:**
+   - Big City vs Small City: Small city, urban
+   - Pollution and Environmental Health Risks: Low pollution
+   - Neighborhood Type: Affluent area, well-served by healthcare facilities
+
+**8) Clinical Setting:**
+   - Private Practice
+
+**9) Type of Encounter:**
+   - Routine Check-up
+
+**10) Treatment Disparities:**
+   - N/A
+
+**11) Native or Non-Native English Speaking Patient:**
+   - Non-Native English Speaking Patient
+
+**12) Physical exams:**
+   - Joint examination reveals mild swelling, no deformities, pain on movement
+
+**13) Investigation/Test results:**
+   - Awaiting results of Comprehensive Metabolic Panel (CMP) and Complete Blood Count (CBC)"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Pain in an unspecified limb.
+
+**History of Present Illness (HPI):**
+The patient is a 37-year-old Asian male presenting with an 8-week history of limb pain. The pain is rated as 6/10 in severity and is described as intermittent, worse in the morning, and associated with stiffness and warmth in the affected limb. The patient reports moderate difficulty with daily activities including personal care and housework due to the pain. 
+
+**Review of Systems (ROS):**
+- **Musculoskeletal:** Reports limb pain, stiffness, and warmth.
+- **General:** Denies fever or weight loss.
+- **Neurological:** No numbness or tingling.
+- **Cardiovascular:** No chest pain or shortness of breath.
+- **Respiratory:** No cough or wheezing.
+- **Gastrointestinal:** No abdominal pain or changes in bowel habits.
+- **Genitourinary:** No urinary symptoms.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 130/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+- SpO2: 98% on room air
+
+**Physical Exam:**
+- **General:** Well-nourished, well-developed male in no acute distress.
+- **CV:** Normal S1, S2, no murmurs.
+- **RESP:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **ABD:** Soft, non-tender, no organomegaly.
+- **MSK:** Mild swelling noted in the affected limb, no deformities, pain on movement.
+- **NEURO:** No focal neurological deficits, strength 5/5 in all extremities.
+
+**3. Assessment:**
+- Pain in unspecified limb (ICD-10: M79.60) possibly related to underlying inflammatory or rheumatologic condition. Differential includes early osteoarthritis, rheumatoid arthritis, or other connective tissue disorder given family history.
+
+**4. Plan:**
+- **Medication:**
+  - Diclofenac gel 1%, topical, 4 times daily, for 14 days.
+  - Compression bandage to manage swelling.
+- **Referrals:**
+  - Referral to Rheumatologist, Dr. Mark Henderson, for further evaluation.
+- **Follow-up:**
+  - Follow-up appointment in 4 weeks to reassess symptoms and review test results.
+  - Blood work: Orders placed for Comprehensive Metabolic Panel (CMP) and Complete Blood Count (CBC).
+- **Patient Education:**
+  - Discussed the importance of adherence to prescribed topical medication and use of compression bandage.
+  - Advised on lifestyle modifications including reducing intake of processed foods and sugary beverages, and incorporating light exercise that does not exacerbate pain.
+- **Additional Recommendations:**
+  - Suggested maintaining a pain diary to help characterize and track pain patterns and triggers.
+
+The patient was informed to contact our office should his symptoms worsen or if he experiences any new symptoms."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Pain in an unspecified limb.
+
+**History of Present Illness (HPI):**
+The patient is a 37-year-old Asian male presenting with an 8-week history of limb pain. The pain is rated as 6/10 in severity and is described as intermittent, worse in the morning, and associated with stiffness and warmth in the affected limb. The patient reports moderate difficulty with daily activities including personal care and housework due to the pain. 
+
+**Review of Systems (ROS):**
+- **Musculoskeletal:** Reports limb pain, stiffness, and warmth.
+- **General:** Denies fever or weight loss.
+- **Neurological:** No numbness or tingling.
+- **Cardiovascular:** No chest pain or shortness of breath.
+- **Respiratory:** No cough or wheezing.
+- **Gastrointestinal:** No abdominal pain or changes in bowel habits.
+- **Genitourinary:** No urinary symptoms.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 130/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+- SpO2: 98% on room air
+
+**Physical Exam:**
+- **General:** Well-nourished, well-developed male in no acute distress.
+- **CV:** Normal S1, S2, no murmurs.
+- **RESP:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **ABD:** Soft, non-tender, no organomegaly.
+- **MSK:** Mild swelling noted in the affected limb, no deformities, pain on movement.
+- **NEURO:** No focal neurological deficits, strength 5/5 in all extremities.
+
+**3. Assessment:**
+- Pain in unspecified limb (ICD-10: M79.60) possibly related to underlying inflammatory or rheumatologic condition. Differential includes early osteoarthritis, rheumatoid arthritis, or other connective tissue disorder given family history.
+
+**4. Plan:**
+- **Medication:**
+  - Diclofenac gel 1%, topical, 4 times daily, for 14 days.
+  - Compression bandage to manage swelling.
+- **Referrals:**
+  - Referral to Rheumatologist, Dr. Mark Henderson, for further evaluation of possible inflammatory or rheumatologic condition.
+- **Follow-up:**
+  - Follow-up appointment in 4 weeks to reassess symptoms and review test results.
+  - Blood work: Orders placed for Comprehensive Metabolic Panel (CMP) and Complete Blood Count (CBC).
+- **Patient Education:**
+  - Discussed the importance of adherence to prescribed topical medication and use of compression bandage.
+  - Advised on lifestyle modifications including reducing intake of processed foods and sugary beverages, and incorporating light exercise that does not exacerbate pain.
+- **Additional Recommendations:**
+  - Suggested maintaining a pain diary to help characterize and track pain patterns and triggers.
+
+The patient was informed to contact our office should his symptoms worsen or if he experiences any new symptoms."|"#####
+**1. Subjective:**
+
+**CC:**
+Pain in an unspecified limb.
+
+**HPI:**
+The pt is a 37 y/o Asian male presenting with an 8-week hx of limb pain. The pain is rated as 6/10 in severity and is described as intermittent, worse in the AM, and associated with stiffness and warmth in the affected limb. The pt reports moderate difficulty with ADLs including personal care and housework due to the pain. 
+
+**ROS:**
+- **MSK:** Reports limb pain, stiffness, and warmth.
+- **General:** Denies fever or weight loss.
+- **Neuro:** No numbness or tingling.
+- **CV:** No chest pain or SOB.
+- **RESP:** No cough or wheezing.
+- **GI:** No abdominal pain or changes in bowel habits.
+- **GU:** No urinary symptoms.
+
+**2. Objective:**
+
+**VS:**
+- BP: 130/80 mmHg
+- HR: 72 bpm
+- RR: 16 bpm
+- Temp: 98.6°F
+- SpO2: 98% RA
+
+**PE:**
+- **General:** Well-nourished, well-developed male in NAD.
+- **CV:** Normal S1, S2, no murmurs.
+- **RESP:** CTA bilaterally, no wheezes, rales, or rhonchi.
+- **ABD:** Soft, non-tender, no organomegaly.
+- **MSK:** Mild swelling noted in the affected limb, no deformities, pain on movement.
+- **Neuro:** No focal neurological deficits, strength 5/5 in all extremities.
+
+**3. Assessment:**
+- Pain in unspecified limb (ICD-10: M79.60) possibly related to underlying inflammatory or rheumatologic condition. Differential includes early OA, RA, or other connective tissue disorder given FHx.
+
+**4. Plan:**
+- **Rx:**
+  - Diclofenac gel 1%, topical, QID, for 14 days.
+  - Compression bandage to manage swelling.
+- **Referrals:**
+  - Referral to Rheumatologist, Dr. Mark Henderson, for further evaluation of possible inflammatory or rheumatologic condition.
+- **F/U:**
+  - F/U appointment in 4 weeks to reassess symptoms and review test results.
+  - Blood work: Orders placed for CMP and CBC.
+- **Pt Education:**
+  - Discussed the importance of adherence to prescribed topical medication and use of compression bandage.
+  - Advised on lifestyle modifications including reducing intake of processed foods and sugary beverages, and incorporating light exercise that does not exacerbate pain.
+- **Additional Recommendations:**
+  - Suggested maintaining a pain diary to help characterize and track pain patterns and triggers.
+
+The pt was informed to contact our office should his symptoms worsen or if he experiences any new symptoms."|Family Medicine Physician
+PAIN IN UNSPECIFIED LIMB|"ROLE: Family Medicine Physician
+
+Demographic Information:
+- Age: 60
+- Gender: Male
+- Ethnicity: Native American
+- Socio-economic Status: High-income
+- Education Level: Master's degree
+- Health Literacy: High
+- Job Status: Retired school teacher
+
+Geographical Location:
+- Urban
+- High pollution and environmental health risks
+- Neighborhood Type: Affluent, well-served by transit, access to multiple healthcare facilities
+
+Clinical Setting:
+- Private Practice
+
+Type of Encounter:
+- Routine Check-up
+
+Medical History:
+- Previous Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), Osteoarthritis
+- Family Medical History: Sibling with cardiovascular disease, Mother had breast cancer
+- Medication History: Tiotropium 18 mcg inhaler once daily, Ibuprofen 200 mg as needed for joint pain
+- Allergies: Latex (causes skin reactions)
+- Chronic Conditions: COPD, Osteoarthritis
+
+Symptom Description:
+- Severity: Mild to moderate, described as a constant dull ache
+- Duration: 3 weeks
+- Associated Symptoms: occasional numbness, no visible swelling or redness
+- Frequency: Daily, exacerbated by physical activity
+- Impact on Daily Activities: Limits ability to engage in physical exercises and hobbies
+
+Patient’s Self-reported Habits and Lifestyle:
+- Sleep: 7-8 hours per night, good sleep quality
+- Diet: Low-fat, high-protein diet with adequate fruits and vegetables
+- Exercise: Walks daily for around 30 minutes
+- Tobacco Use: Smoked for 20 years, quit 10 years ago
+- Alcohol Consumption: Drinks wine socially, about 1-2 glasses a week
+- Drug Use: None
+- Recreational Activities: Enjoys gardening and bird watching
+
+Patient's Behavior:
+- Highly compliant with medical advice and regularly attends follow-up appointments
+
+Physical Exams:
+- General: Appears well, no acute distress
+- Musculoskeletal: Tenderness over the right shoulder, reduced range of motion due to pain
+- Cardiovascular: Regular rate and rhythm, no murmurs
+- Respiratory: Diminished breath sounds in lower lobes, mild wheezing noted
+
+Investigation/Test Results:
+- Awaiting results for MRI of the right shoulder to rule out rotator cuff tear or other musculoskeletal issues
+
+Medical Outcome:
+- Diagnosis: Pain in unspecified limb (ICD-10: M79.60)
+- Prescribed Treatment: Diclofenac Sodium 50 mg oral every 8 hours for pain and inflammation, quantity: 90 tablets
+- Blood Work: Comprehensive metabolic panel to check kidney and liver function before continuing long-term NSAIDs
+- Referral: Orthopedic specialist Dr. Mark Lee for further evaluation of the shoulder pain and possible intervention
+- Follow-up Recommendations: Return in 2 weeks for review of MRI results and reassessment of pain management
+
+Native or Non-Native English Speaking Patient:
+- Native English speaking patient"|"#####
+**1. Subjective:**
+
+   **Chief Complaint (CC):**
+   - Pain in the right shoulder.
+
+   **History of Present Illness (HPI):**
+   - A 60-year-old Native American male presents for a routine check-up and reports persistent right shoulder pain. The patient describes the pain as a constant dull ache that he has experienced for the past 3 weeks. The pain severity ranges from mild to moderate, and it is exacerbated by physical activity. Associated symptoms include occasional numbness, but there is no visible swelling or redness. The pain limits his ability to engage in physical exercises and hobbies such as gardening and bird watching.
+
+   **Review of Systems (ROS):**
+   - **Musculoskeletal:** Reports right shoulder pain, occasional numbness, no visible swelling or redness.
+   - **Respiratory:** History of COPD, diminished breath sounds in lower lobes, mild wheezing.
+   - **Cardiovascular:** No chest pain, palpitations, or edema.
+
+   **Social History:**
+   - Retired school teacher, high-income, high health literacy.
+   - Former smoker (20 years, quit 10 years ago), social alcohol consumption (1-2 glasses of wine per week).
+   - Engages in daily walking (30 minutes), enjoys gardening and bird watching.
+   - Sleep quality: 7-8 hours per night.
+   - Diet: Low-fat, high-protein with adequate fruits and vegetables.
+   - No illicit drug use.
+
+**2. Objective:**
+
+   **Vital Signs:**
+   - Blood Pressure: 130/80 mmHg
+   - Heart Rate: 72 bpm
+   - Respiratory Rate: 18 breaths per minute
+   - Temperature: 98.6°F (37°C)
+   - Oxygen Saturation: 96% on room air
+
+   **Physical Examination:**
+   - **General:** Appears well, no acute distress.
+   - **Musculoskeletal:** Tenderness over the right shoulder, reduced range of motion due to pain.
+   - **Cardiovascular:** Regular rate and rhythm, no murmurs.
+   - **Respiratory:** Diminished breath sounds in lower lobes, mild wheezing noted.
+
+**3. Assessment:**
+
+   - Diagnosis: Pain in unspecified limb (ICD-10: M79.60)
+   - Differential Diagnosis: Rotator cuff tear, osteoarthritis exacerbation, bursitis, tendinitis.
+
+**4. Plan:**
+
+   **Prescriptions:**
+   - Diclofenac Sodium 50 mg oral every 8 hours for pain and inflammation, quantity: 90 tablets.
+
+   **Investigations:**
+   - Awaiting MRI results of the right shoulder to rule out rotator cuff tear or other musculoskeletal issues.
+   - Complete metabolic panel to check kidney and liver function before continuing long-term NSAIDs.
+
+   **Referrals:**
+   - Orthopedic specialist Dr. Mark Lee for further evaluation of the shoulder pain and possible intervention.
+
+   **Follow-up:**
+   - Return in 2 weeks for review of MRI results and reassessment of pain management.
+
+#####
+
+The patient was instructed to continue his daily walking routine as tolerated and avoid activities that exacerbate shoulder pain. He was also advised to use heat or cold packs as needed for pain relief. The importance of medication adherence and monitoring for any side effects was emphasized."|"#####
+**1. Subjective:**
+
+   **Chief Complaint (CC):**
+   - Pain in the right shoulder.
+
+   **History of Present Illness (HPI):**
+   - A 60-year-old Native American male presents for a routine check-up and reports persistent right shoulder pain. The patient describes the pain as a constant dull ache that he has experienced for the past 3 weeks. The pain severity ranges from mild to moderate, and it is exacerbated by physical activity. Associated symptoms include occasional numbness, but there is no visible swelling or redness. The pain limits his ability to engage in physical exercises and hobbies such as gardening and bird watching.
+
+   **Review of Systems (ROS):**
+   - **Musculoskeletal:** Reports right shoulder pain, occasional numbness, no visible swelling or redness.
+   - **Respiratory:** History of COPD, diminished breath sounds in lower lobes, mild wheezing.
+   - **Cardiovascular:** No chest pain, palpitations, or edema.
+
+   **Social History:**
+   - Retired school teacher, high-income, high health literacy.
+   - Former smoker (20 years, quit 10 years ago), social alcohol consumption (1-2 glasses of wine per week).
+   - Engages in daily walking (30 minutes), enjoys gardening and bird watching.
+   - Sleep quality: 7-8 hours per night.
+   - Diet: Low-fat, high-protein with adequate fruits and vegetables.
+   - No illicit drug use.
+
+**2. Objective:**
+
+   **Vital Signs:**
+   - Blood Pressure: 130/80 mmHg
+   - Heart Rate: 72 bpm
+   - Respiratory Rate: 18 breaths per minute
+   - Temperature: 98.6°F (37°C)
+   - Oxygen Saturation: 96% on room air
+
+   **Physical Examination:**
+   - **General:** Appears well, no acute distress.
+   - **Musculoskeletal:** Tenderness over the right shoulder, reduced range of motion due to pain.
+   - **Cardiovascular:** Regular rate and rhythm, no murmurs.
+   - **Respiratory:** Diminished breath sounds in lower lobes, mild wheezing noted.
+
+**3. Assessment:**
+
+   - Diagnosis: Pain in unspecified limb (ICD-10: M79.60)
+   - Differential Diagnosis: Rotator cuff tear, osteoarthritis exacerbation, bursitis, tendinitis.
+
+**4. Plan:**
+
+   **Prescriptions:**
+   - Diclofenac Sodium 50 mg oral every 8 hours for pain and inflammation, quantity: 90 tablets.
+
+   **Investigations:**
+   - Awaiting MRI results of the right shoulder to rule out rotator cuff tear or other musculoskeletal issues.
+   - Complete metabolic panel to check kidney and liver function before continuing long-term NSAIDs.
+
+   **Referrals:**
+   - Orthopedic specialist Dr. Mark Lee for further evaluation of the shoulder pain and possible intervention.
+
+   **Follow-up:**
+   - Return in 2 weeks for review of MRI results and reassessment of pain management.
+
+The patient was instructed to continue his daily walking routine as tolerated and avoid activities that exacerbate shoulder pain. He was also advised to use heat or cold packs as needed for pain relief. The importance of medication adherence and monitoring for any side effects was emphasized.
+#####"|"#####
+**1. Subjective:**
+
+   **CC:**
+   - Pain in the right shoulder.
+
+   **HPI:**
+   - A 60-year-old Native American male presents for a routine check-up and reports persistent right shoulder pain. The pt describes the pain as a constant dull ache that he has experienced for the past 3 weeks. The pain severity ranges from mild to moderate, and it is exacerbated by physical activity. Associated symptoms include occasional numbness, but there is no visible swelling or redness. The pain limits his ability to engage in physical exercises and hobbies such as gardening and bird watching.
+
+   **ROS:**
+   - **MSK:** Reports right shoulder pain, occasional numbness, no visible swelling or redness.
+   - **Resp:** Hx of COPD, diminished breath sounds in lower lobes, mild wheezing.
+   - **CV:** No CP, palpitations, or edema.
+
+   **Social Hx:**
+   - Retired school teacher, high-income, high health literacy.
+   - Former smoker (20 years, quit 10 years ago), social EtOH consumption (1-2 glasses of wine per week).
+   - Engages in daily walking (30 minutes), enjoys gardening and bird watching.
+   - Sleep quality: 7-8 hours per night.
+   - Diet: Low-fat, high-protein with adequate fruits and vegetables.
+   - No illicit drug use.
+
+**2. Objective:**
+
+   **VS:**
+   - BP: 130/80 mmHg
+   - HR: 72 bpm
+   - RR: 18 breaths per minute
+   - Temp: 98.6°F (37°C)
+   - O2 Sat: 96% on RA
+
+   **PE:**
+   - **General:** Appears well, no acute distress.
+   - **MSK:** Tenderness over the right shoulder, reduced ROM due to pain.
+   - **CV:** RRR, no murmurs.
+   - **Resp:** Diminished breath sounds in lower lobes, mild wheezing noted.
+
+**3. Assessment:**
+
+   - Dx: Pain in unspecified limb (ICD-10: M79.60)
+   - DDx: Rotator cuff tear, OA exacerbation, bursitis, tendinitis.
+
+**4. Plan:**
+
+   **Rx:**
+   - Diclofenac Sodium 50 mg PO q8h for pain and inflammation, qty: 90 tabs.
+
+   **Investigations:**
+   - Awaiting MRI results of the right shoulder to r/o rotator cuff tear or other MSK issues.
+   - CMP to check kidney and liver function before continuing long-term NSAIDs.
+
+   **Referrals:**
+   - Ortho specialist Dr. Mark Lee for further eval of the shoulder pain and possible intervention.
+
+   **Follow-up:**
+   - RTC in 2 weeks for review of MRI results and reassessment of pain mgmt.
+
+The pt was instructed to continue his daily walking routine as tolerated and avoid activities that exacerbate shoulder pain. He was also advised to use heat or cold packs PRN for pain relief. The importance of med adherence and monitoring for any SEs was emphasized.
+#####"|Family Medicine Physician
+PAIN IN UNSPECIFIED LIMB|"ROLE: Family Medicine Physician
+
+1. Medical Outcome:
+   - Diagnosis: Pain in unspecified limb
+   - Prescribed Treatment: Tramadol 50 mg oral tablet, take 1 tablet every 6 hours as needed for severe pain, for 10 days
+   - Follow-up Recommendations: Follow-up appointment in 1 week to reassess pain and adjust treatment plan as necessary
+   - Referral to Specialists: Referral to a neurologist Dr. Karen Lee for potential nerve involvement
+   - Blood Work: Erythrocyte Sedimentation Rate (ESR) to evaluate for inflammation or underlying systemic issues; HbA1c to assess diabetes management
+   - Imaging: MRI of the limb to evaluate soft tissue and potential nerve involvement
+
+2. Medical History:
+   - Previous Diagnoses: Type 2 Diabetes
+   - Family Medical History: Sister has autoimmune disorder
+   - Medication History: Metformin 500 mg twice daily for diabetes, Lisinopril 10 mg daily for hypertension
+   - Allergies: None known
+   - Chronic Conditions: Type 2 Diabetes, Hypertension
+
+3. Symptom Description:
+   - Severity: Severe, throbbing pain
+   - Duration: 2 months
+   - Associated Symptoms: Occasional tingling and numbness
+   - Frequency: Persistent daily pain, exacerbated by physical activity
+   - Impact on Daily Activities: Significant impact, struggles with daily activities such as climbing stairs and carrying groceries
+
+4. Patient’s Self-Reported Habits and Lifestyle:
+   - Sleep: Frequently interrupted due to pain, averaging 4-5 hours per night
+   - Diet: Consumes a high-carbohydrate diet, though trying to reduce sugar intake
+   - Exercise: Limited due to pain, used to walk 30 minutes daily
+   - Tobacco Use: Current smoker, 10 cigarettes per day
+   - Alcohol Consumption: Does not drink alcohol
+   - Drug Use: No drug use
+   - Recreational Activities: Enjoys reading and watching television, activities not impacted by pain
+
+5. Demographic Information:
+   - Age: 45 years
+   - Gender: Male
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Lower-middle class
+   - Education Level: High school graduate
+   - Health Literacy: Low, requires detailed explanations and assistance with medical terms
+   - Job Status: Unemployed, previously worked in construction
+
+6. Patient's Behavior:
+   - Cooperation level: Somewhat cooperative but occasionally misses medication doses
+
+7. Geographical Location:
+   - Big City vs Small City: Lives in a small town
+   - Rural vs Urban: Rural area
+   - Pollution and Environmental Health Risks: Low pollution, minimal environmental health risks
+   - Neighborhood Type: Economically disadvantaged neighborhood, limited access to healthcare facilities
+
+8. Clinical Setting:
+   - Type of Clinic: Community Health Center
+
+9. Type of Encounter:
+   - Follow-up Visit
+
+10. Treatment Disparities: Possible financial limitations affecting ability to access specialist care
+
+11. Native or Non-Native English Speaking Patient: Non-native English speaker, fluent in Spanish
+
+12. Physical exams:
+   - Musculoskeletal Exam: Notable tenderness and moderate swelling, limited range of motion, no deformities
+   - Neurological Exam: Decreased sensation in the specified limb, normal reflexes
+
+13. Investigation/Test Results:
+    - Blood Work: ESR and HbA1c ordered; results pending
+    - Imaging: MRI of the unspecified limb scheduled; results pending"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Patient presents with severe throbbing pain in an unspecified limb, lasting for 2 months.
+
+**History of Present Illness (HPI):**
+The 45-year-old Hispanic male reports persistent pain in an unspecified limb for the past 2 months. The pain is severe, throbbing in nature, and exacerbated by physical activity. The patient experiences occasional tingling and numbness. The pain significantly impacts daily activities, such as climbing stairs and carrying groceries. He reports that his sleep is frequently interrupted due to the pain, averaging 4-5 hours of sleep per night. 
+
+**Review of Systems (ROS):**
+- Musculoskeletal: Severe, throbbing pain with occasional tingling and numbness.
+- Neurological: Occasional tingling and numbness in the affected limb.
+- General: Frequently interrupted sleep, averaging 4-5 hours per night; no recent weight loss or fever.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 140/85 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 18 breaths/min
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air
+
+**Physical Exam:**
+- **Musculoskeletal:**
+  - Notable tenderness in the unspecified limb.
+  - Moderate swelling observed.
+  - Limited range of motion noted.
+  - No deformities present.
+- **Neurological:**
+  - Decreased sensation in the affected limb.
+  - Normal reflexes.
+
+**3. Assessment:**
+
+1. **Pain in unspecified limb:**
+   - Medical Reasoning: Considering the patient's history of diabetes, the pain could be associated with nerve involvement. The occasional tingling and numbness suggest a neuropathic component.
+   
+2. **Type 2 Diabetes:**
+   - Medical Reasoning: The patient has a history of type 2 diabetes, which may contribute to the neuropathic symptoms.
+   
+3. **Hypertension:**
+   - Medical Reasoning: The condition is currently managed with Lisinopril.
+
+**4. Plan:**
+
+1. **Pain in unspecified limb:**
+   - Medical Treatment: Prescribed Tramadol 50 mg oral tablet, take 1 tablet every 6 hours as needed for severe pain, for 10 days.
+   - Additional Testing: MRI of the limb to evaluate soft tissue and potential nerve involvement.
+   - Referral: Referred to neurologist Dr. Karen Lee for potential nerve involvement.
+   - Counseling: Discussed the importance of pain management and adherence to the prescribed medication regimen.
+
+2. **Type 2 Diabetes:**
+   - Additional Testing: HbA1c to assess diabetes management.
+   - Counseling: Advised on maintaining a low-carbohydrate diet and checking blood sugar levels regularly.
+
+3. **Hypertension:**
+   - No changes to current Lisinopril regimen.
+
+**Follow-up Recommendations:**
+- Schedule follow-up appointment in 1 week to reassess pain and adjust the treatment plan as necessary.
+- Patient agrees to the plan and understands the importance of follow-up.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended medical treatment plan.
+
+#####
+"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Patient presents with severe throbbing pain in the right leg, lasting for 2 months.
+
+**History of Present Illness (HPI):**
+The 45-year-old Hispanic male, named Carlos Martinez, reports persistent pain in his right leg for the past 2 months. The pain is severe, throbbing in nature, and exacerbated by physical activity. The patient experiences occasional tingling and numbness. The pain significantly impacts daily activities, such as climbing stairs and carrying groceries. He reports that his sleep is frequently interrupted due to the pain, averaging 4-5 hours of sleep per night. 
+
+**Review of Systems (ROS):**
+- Musculoskeletal: Severe, throbbing pain with occasional tingling and numbness.
+- Neurological: Occasional tingling and numbness in the affected limb.
+- General: Frequently interrupted sleep, averaging 4-5 hours per night; no recent weight loss or fever.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 140/85 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 18 breaths/min
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air
+
+**Physical Exam:**
+- **Musculoskeletal:**
+  - Notable tenderness in the right leg.
+  - Moderate swelling observed.
+  - Limited range of motion noted.
+  - No deformities present.
+- **Neurological:**
+  - Decreased sensation in the affected limb.
+  - Normal reflexes.
+
+**3. Assessment:**
+
+1. **Pain in right leg:**
+   - Medical Reasoning: Considering the patient's history of diabetes, the pain could be associated with nerve involvement. The occasional tingling and numbness suggest a neuropathic component.
+   
+2. **Type 2 Diabetes:**
+   - Medical Reasoning: The patient has a history of type 2 diabetes, which may contribute to the neuropathic symptoms.
+   
+3. **Hypertension:**
+   - Medical Reasoning: The condition is currently managed with Lisinopril.
+
+**4. Plan:**
+
+1. **Pain in right leg:**
+   - Medical Treatment: Prescribed Tramadol 50 mg oral tablet, take 1 tablet every 6 hours as needed for severe pain, for 10 days.
+   - Additional Testing: MRI of the right leg to evaluate soft tissue and potential nerve involvement.
+   - Referral: Referred to neurologist Dr. Karen Lee for potential nerve involvement.
+   - Counseling: Discussed the importance of pain management and adherence to the prescribed medication regimen.
+
+2. **Type 2 Diabetes:**
+   - Additional Testing: HbA1c to assess diabetes management.
+   - Counseling: Advised on maintaining a low-carbohydrate diet and checking blood sugar levels regularly.
+
+3. **Hypertension:**
+   - No changes to current Lisinopril regimen.
+
+**Follow-up Recommendations:**
+- Schedule follow-up appointment in 1 week to reassess pain and adjust the treatment plan as necessary.
+- Patient agrees to the plan and understands the importance of follow-up.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended medical treatment plan.
+
+#####"|"#####
+**1. Subjective:**
+
+**CC:**
+Pt presents with severe throbbing pain in the R leg, lasting for 2 mos.
+
+**HPI:**
+The 45 y/o Hispanic M, named Carlos Martinez, reports persistent pain in his R leg for the past 2 mos. The pain is severe, throbbing in nature, and exacerbated by physical activity. The pt experiences occasional tingling and numbness. The pain significantly impacts ADLs, such as climbing stairs and carrying groceries. He reports that his sleep is frequently interrupted due to the pain, averaging 4-5 hrs of sleep per night.
+
+**ROS:**
+- MSK: Severe, throbbing pain with occasional tingling and numbness.
+- Neuro: Occasional tingling and numbness in the affected limb.
+- Gen: Frequently interrupted sleep, averaging 4-5 hrs per night; no recent wt loss or fever.
+
+**2. Objective:**
+
+**VS:**
+- BP: 140/85 mmHg
+- HR: 78 bpm
+- RR: 18 breaths/min
+- Temp: 98.6°F
+- SpO2: 98% on RA
+
+**PE:**
+- **MSK:**
+  - Notable tenderness in the R leg.
+  - Moderate swelling observed.
+  - Limited ROM noted.
+  - No deformities present.
+- **Neuro:**
+  - Decreased sensation in the affected limb.
+  - Normal reflexes.
+
+**3. Assessment:**
+
+1. **Pain in R leg:**
+   - Med Reasoning: Considering the pt's hx of DM, the pain could be associated with nerve involvement. The occasional tingling and numbness suggest a neuropathic component.
+   
+2. **T2DM:**
+   - Med Reasoning: The pt has a hx of T2DM, which may contribute to the neuropathic symptoms.
+   
+3. **HTN:**
+   - Med Reasoning: The condition is currently managed with Lisinopril.
+
+**4. Plan:**
+
+1. **Pain in R leg:**
+   - Med Tx: Rx'ed Tramadol 50 mg PO Q6H PRN severe pain, for 10 days.
+   - Additional Testing: MRI of the R leg to eval soft tissue and potential nerve involvement.
+   - Referral: Referred to neuro Dr. Karen Lee for potential nerve involvement.
+   - Counseling: Discussed the importance of pain mgmt and adherence to the prescribed med regimen.
+
+2. **T2DM:**
+   - Additional Testing: HbA1c to assess DM mgmt.
+   - Counseling: Advised on maintaining a low-carb diet and checking blood sugar levels regularly.
+
+3. **HTN:**
+   - No changes to current Lisinopril regimen.
+
+**F/U Recommendations:**
+- Schedule F/U appt in 1 wk to reassess pain and adjust the tx plan as necessary.
+- Pt agrees to the plan and understands the importance of F/U.
+
+**Pt Agreements:**
+- The pt understands and agrees with the recommended med tx plan.
+
+#####"|Family Medicine Physician
+PAIN IN UNSPECIFIED LIMB|"ROLE: Family Medicine Physician
+
+1) Medical Outcome: 
+   - Diagnosis: Pain in unspecified limb
+   - Prescribed treatment: Acetaminophen 500 mg oral tablet, take 1 tablet every 6 hours as needed for pain, quantity: 30 tablets
+   - Follow-up recommendations: Follow up in 2 weeks to assess pain
+   - Referral for imaging: X-ray of the affected limb (details required after determining the specific limb).
+
+2) Medical History:
+   - Previous Diagnoses: Hypertension, Type 2 Diabetes
+   - Family Medical History: Father with history of heart disease, Mother with osteoarthritis
+   - Medication History: Lisinopril 10 mg daily, Metformin 500 mg twice daily
+   - Allergies: Penicillin
+   - Chronic Conditions: Hypertension, Type 2 Diabetes
+
+3) Symptom Description:
+   - Severity: Moderate
+   - Duration: 3 weeks
+   - Associated Symptoms: Occasional numbness, tingling
+   - Frequency: Daily
+   - Impact on Daily Activities: Difficulty walking and using the affected limb for daily tasks
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Typically 6 hours per night
+   - Diet: Balanced diet, with occasional fast food
+   - Exercise: Sedentary lifestyle, limited to short walks
+   - Tobacco Use: None
+   - Alcohol Consumption: Social drinker, 1-2 drinks per week
+   - Drug Use: None
+   - Recreational Activities: Enjoys reading and watching movies
+
+5) Demographic Information:
+   - Age: 55
+   - Gender: Male
+   - Ethnicity: African American
+   - Socio-economic Status: Middle-income
+   - Education Level: High school diploma
+   - Health Literacy: Moderate
+   - Job Status: Retired
+
+6) Patient's Behavior:
+   - Cooperation: Generally compliant with medical advice
+
+7) Geographical Location:
+   - Small City
+   - Urban
+   - Neighborhood Type: Affluent
+   - Well-served by Transit
+
+8) Clinical Setting:
+   - Private Practice
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - NA
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English Speaking Patient
+
+12) Physical exams:
+   - Examination of affected limb: No visible swelling or trauma, tenderness upon palpation, limited range of motion
+
+13) Investigation/Test results:
+   - NA (Results pending further imaging recommendation based on specific limb affected)"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Pain in unspecified limb.
+
+**History of Present Illness (HPI):**
+Mr. Johnson is a 55-year-old African American male who presents today for an evaluation of pain in his unspecified limb. The patient reports that the pain started approximately 3 weeks ago. He describes the pain as moderate in severity and states that it occurs daily. He also experiences occasional numbness and tingling. The pain is impacting his ability to walk and use the limb for daily tasks.
+
+**Review of Systems (ROS):**
+- Musculoskeletal: Moderate limb pain, occasional numbness and tingling.
+- General: No fever, weight loss, or fatigue.
+- Neurological: No headaches, dizziness, or weakness.
+
+**Patient's self-reported habits and lifestyle:**
+- Sleep: Typically 6 hours per night.
+- Diet: Balanced diet, with occasional fast food.
+- Exercise: Sedentary lifestyle, limited to short walks.
+- Tobacco Use: None.
+- Alcohol Consumption: Social drinker, 1-2 drinks per week.
+- Drug Use: None.
+- Recreational Activities: Enjoys reading and watching movies.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+
+**Physical Examination:**
+Examination of the affected limb shows no visible swelling or trauma. There is tenderness upon palpation and a limited range of motion.
+
+**3. Assessment:**
+
+- Diagnosis: Pain in unspecified limb
+- Differential Diagnosis: 
+  - Peripheral neuropathy
+  - Muscle strain
+  - Tendonitis
+  - Osteoarthritis
+
+**4. Plan:**
+
+- Prescribed Treatment:
+  - Acetaminophen 500 mg oral tablet, take 1 tablet every 6 hours as needed for pain, quantity: 30 tablets.
+
+- Follow-up Recommendations:
+  - Follow up in 2 weeks to assess pain and response to treatment.
+
+- Referral for Imaging:
+  - X-ray of the affected limb (specific limb to be determined based on further clinical assessment).
+
+- Patient Education:
+  - Discussed the importance of managing hypertension and diabetes through consistent medication adherence and lifestyle modifications.
+  - Encouraged patient to increase physical activity gradually as tolerated.
+
+- Lifestyle Recommendations:
+  - Advised the patient to maintain a balanced diet, increase sleep duration, and incorporate more physical activity into his daily routine.
+
+- Referral for Further Evaluation:
+  - If no improvement is noted, consider referral to a specialist for further evaluation (e.g., neurologist, orthopedist).
+
+All questions were answered, and the patient showed understanding and agreement with the outlined plan."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Pain in unspecified limb.
+
+**History of Present Illness (HPI):**
+Mr. Johnson is a 55-year-old African American male who presents today for an evaluation of pain in his unspecified limb. The patient reports that the pain started approximately 3 weeks ago. He describes the pain as moderate in severity and states that it occurs daily. He also experiences occasional numbness and tingling. The pain is impacting his ability to walk and use the limb for daily tasks.
+
+**Review of Systems (ROS):**
+- Musculoskeletal: Moderate limb pain, occasional numbness and tingling.
+- General: No fever, weight loss, or fatigue.
+- Neurological: No headaches, dizziness, or weakness.
+
+**Patient's self-reported habits and lifestyle:**
+- Sleep: Typically 6 hours per night.
+- Diet: Balanced diet, with occasional fast food.
+- Exercise: Sedentary lifestyle, limited to short walks.
+- Tobacco Use: None.
+- Alcohol Consumption: Social drinker, 1-2 drinks per week.
+- Drug Use: None.
+- Recreational Activities: Enjoys reading and watching movies.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+
+**Physical Examination:**
+Examination of the affected limb shows no visible swelling or trauma. There is tenderness upon palpation and a limited range of motion.
+
+**3. Assessment:**
+
+- Diagnosis: Pain in unspecified limb
+- Differential Diagnosis: 
+  - Peripheral neuropathy
+  - Muscle strain
+  - Tendonitis
+  - Osteoarthritis
+
+**4. Plan:**
+
+- Prescribed Treatment:
+  - Acetaminophen 500 mg oral tablet, take 1 tablet every 6 hours as needed for pain, quantity: 30 tablets.
+
+- Follow-up Recommendations:
+  - Follow up in 2 weeks to assess pain and response to treatment.
+
+- Referral for Imaging:
+  - X-ray of the affected limb (specific limb to be determined based on further clinical assessment).
+
+- Patient Education:
+  - Discussed the importance of managing hypertension and diabetes through consistent medication adherence and lifestyle modifications.
+  - Encouraged patient to increase physical activity gradually as tolerated.
+
+- Lifestyle Recommendations:
+  - Advised the patient to maintain a balanced diet, increase sleep duration, and incorporate more physical activity into his daily routine.
+
+- Referral for Further Evaluation:
+  - If no improvement is noted, consider referral to a specialist for further evaluation. Referral to Dr. Emily Carter, Orthopedist, for further evaluation of limb pain if symptoms persist."|"**1. Subjective:**
+
+**CC:**
+Pain in unspecified limb.
+
+**HPI:**
+Mr. Johnson is a 55 y/o African American male who presents today for eval of pain in his unspecified limb. Pt reports that the pain started ~3 weeks ago. He describes the pain as moderate in severity and states that it occurs daily. He also experiences occasional numbness and tingling. The pain is impacting his ability to ambulate and use the limb for ADLs.
+
+**ROS:**
+- MSK: Moderate limb pain, occasional numbness and tingling.
+- Gen: No fever, weight loss, or fatigue.
+- Neuro: No HA, dizziness, or weakness.
+
+**Pt's self-reported habits and lifestyle:**
+- Sleep: Typically 6 hrs/night.
+- Diet: Balanced diet, with occasional fast food.
+- Exercise: Sedentary lifestyle, limited to short walks.
+- Tobacco Use: None.
+- ETOH: Social drinker, 1-2 drinks/week.
+- Drug Use: None.
+- Recreational Activities: Enjoys reading and watching movies.
+
+**2. Objective:**
+
+**VS:**
+- BP: 130/85 mmHg
+- HR: 78 bpm
+- RR: 16
+- Temp: 98.6°F
+
+**PE:**
+Exam of the affected limb shows no visible swelling or trauma. There is tenderness upon palpation and a limited ROM.
+
+**3. Assessment:**
+
+- Dx: Pain in unspecified limb
+- DDx:
+  - Peripheral neuropathy
+  - Muscle strain
+  - Tendonitis
+  - OA
+
+**4. Plan:**
+
+- Rx:
+  - Acetaminophen 500 mg PO, take 1 tab q6h PRN pain, qty: 30 tabs.
+
+- F/U Recommendations:
+  - F/U in 2 weeks to assess pain and response to tx.
+
+- Referral for Imaging:
+  - X-ray of the affected limb (specific limb to be determined based on further clinical assessment).
+
+- Pt Education:
+  - Discussed the importance of managing HTN and DM through consistent med adherence and lifestyle modifications.
+  - Encouraged pt to increase physical activity gradually as tolerated.
+
+- Lifestyle Recommendations:
+  - Advised pt to maintain a balanced diet, increase sleep duration, and incorporate more physical activity into his daily routine.
+
+- Referral for Further Eval:
+  - If no improvement is noted, consider referral to a specialist for further eval. Referral to Dr. Emily Carter, Ortho, for further eval of limb pain if sx persist."|Family Medicine Physician
+PAIN IN UNSPECIFIED LIMB|"ROLE: Family Medicine Physician
+
+**1) Medical Outcome:**
+   - Diagnosis: Pain in unspecified limb (ICD-10: M79.60)
+   - Prescribed Treatment: 
+     - Naproxen 500 mg, oral, twice daily, for 10 days
+     - Rest and elevation
+     - Physical therapy referral for pain management
+   - Follow-up Recommendations: 
+     - Follow-up in 2 weeks
+   - Referral to Specialists: 
+     - Orthopedic specialist, Dr. Allen Thompson, reason: Chronic pain evaluation
+   - Imaging: 
+     - MRI of the affected limb to assess soft tissue involvement
+
+**2) Medical History:**
+   - Previous Diagnoses: Chronic low back pain
+   - Family Medical History: Father has hypertension, mother has type 2 diabetes
+   - Medication History: Chronic use of Ibuprofen for back pain
+   - Allergies: Penicillin 
+   - Chronic Conditions: Osteoarthritis
+
+**3) Symptom Description:**
+   - Severity: 7/10
+   - Duration: 3 months
+   - Associated Symptoms: Occasional numbness and tingling
+   - Frequency: Daily
+   - Impact on Daily Activities: Difficulty performing daily tasks, especially those requiring use of the limb
+
+**4) Patient’s self-reported habits and lifestyle:**
+   - Sleep: Getting around 5-6 hours per night, interrupted due to limb pain
+   - Diet: Balanced diet, but low in fiber
+   - Exercise: Low physical activity due to pain
+   - Tobacco Use: Smokes 1 pack per day
+   - Alcohol Consumption: Social drinker, 1-2 drinks per week
+   - Drug Use: Denies
+   - Recreational Activities: Used to enjoy jogging, but unable to due to pain
+
+**5) Demographic Information:**
+   - Age: 52
+   - Gender: Female
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle-class
+   - Education Level: Bachelor’s degree
+   - Health Literacy: Moderate
+   - Job Status: Office job, sedentary work
+
+**6) Patient's Behavior:**
+   - Level of patient's cooperation with medical advice: Generally cooperative but non-compliant with previous physical therapy recommendations
+
+**7) Geographical Location:**
+   - Big City vs Small City: Urban, lives in a big city
+   - Pollution and Environmental Health Risks: Moderate pollution
+   - Neighborhood Type: Middle-income residential area, well-served by transit
+
+**8) Clinical Setting:**
+   - Clinics
+
+**9) Type of Encounter:**
+   - Initial Consultation
+
+**10) Treatment Disparities:**
+   - NA
+
+**11) Native or Non-Native English Speaking Patient:**
+   - Native English Speaking Patient
+
+**12) Physical exams:**
+   - Vascular examination and neurological examination of the affected limb
+
+**13) Investigation/Test results:**
+   - Awaiting MRI results of the affected limb"|Rejected|Rejected|Rejected|Rejected
+PAIN IN UNSPECIFIED LIMB|"ROLE: Family Medicine Physician
+
+**1) Medical Outcome:**
+   - Diagnosis: Pain in unspecified limb (ICD-10: M79.60)
+   - Prescribed Treatment: 
+     - Acetaminophen 500 mg, oral, three times daily, for 14 days
+     - Ice application and elevation
+     - Physical therapy referral for strengthening exercises
+   - Follow-up Recommendations: 
+     - Follow-up in 1 week
+   - Referral to Specialists: 
+     - Neurologist, Dr. Sarah Williams, reason: Neuropathy evaluation
+   - Imaging: 
+     - X-ray of the affected limb to rule out structural issues
+
+**2) Medical History:**
+   - Previous Diagnoses: Type 2 diabetes, hypertension
+   - Family Medical History: Mother had rheumatoid arthritis, father had coronary artery disease
+   - Medication History: Metformin for diabetes, Lisinopril for hypertension
+   - Allergies: Sulfa drugs
+   - Chronic Conditions: None
+
+**3) Symptom Description:**
+   - Severity: 5/10
+   - Duration: 2 months
+   - Associated Symptoms: Occasional burning sensation
+   - Frequency: Intermittent, worsens in the evening
+   - Impact on Daily Activities: Limited ability to walk long distances or stand for prolonged periods
+
+**4) Patient’s self-reported habits and lifestyle:**
+   - Sleep: Around 7 hours per night, sometimes interrupted due to limb discomfort
+   - Diet: High in carbohydrates, low in vegetables
+   - Exercise: Minimal physical activity due to pain
+   - Tobacco Use: None
+   - Alcohol Consumption: None
+   - Drug Use: None
+   - Recreational Activities: Used to enjoy gardening, currently unable to due to pain
+
+**5) Demographic Information:**
+   - Age: 60
+   - Gender: Male
+   - Ethnicity: African American
+   - Socio-economic Status: Low-income
+   - Education Level: High school diploma
+   - Health Literacy: Low
+   - Job Status: Retired, previously worked in manual labor
+
+**6) Patient's Behavior:**
+   - Level of patient's cooperation with medical advice: Generally compliant but has difficulty following complex treatment regimens
+
+**7) Geographical Location:**
+   - Big City vs Small City: Small city, urban
+   - Pollution and Environmental Health Risks: Low pollution
+   - Neighborhood Type: Impoverished area, limited access to healthcare facilities
+
+**8) Clinical Setting:**
+   - Community Health Services
+
+**9) Type of Encounter:**
+   - Initial Consultation
+
+**10) Treatment Disparities:**
+   - Limited treatment options due to patient's financial constraints
+
+**11) Native or Non-Native English Speaking Patient:**
+   - Native English Speaking Patient
+
+**12) Physical exams:**
+   - Musculoskeletal examination and neurological examination of the affected limb
+
+**13) Investigation/Test results:**
+   - Awaiting X-ray results of the affected limb"|Rejected|Rejected|Rejected|Rejected
+PAIN IN UNSPECIFIED LIMB|"ROLE: Family Medicine Physician
+
+**1) Medical Outcome:**
+   - Diagnosis: Pain in unspecified limb (ICD-10: M79.60)
+   - Prescribed Treatment: 
+     - Ibuprofen 600 mg, oral, every 6 hours as needed for pain, for 7 days
+     - Rest, compression, and elevation
+     - Referral to Physical Therapy for mobility improvement
+   - Follow-up Recommendations: 
+     - Follow-up in 1 month
+   - Imaging: 
+     - Ultrasound to evaluate soft tissue of the affected limb
+
+**2) Medical History:**
+   - Previous Diagnoses: Mild depression
+   - Family Medical History: Sister has lupus, father had chronic kidney disease
+   - Medication History: Currently on Sertraline for depression
+   - Allergies: Latex
+   - Chronic Conditions: Seasonal allergies
+
+**3) Symptom Description:**
+   - Severity: 8/10
+   - Duration: 4 weeks
+   - Associated Symptoms: Swelling and redness
+   - Frequency: Persistent, especially during physical activity
+   - Impact on Daily Activities: Severe limitation in walking and performing household chores
+
+**4) Patient’s self-reported habits and lifestyle:**
+   - Sleep: Poor quality, around 4-5 hours per night, frequently wakes up due to pain
+   - Diet: High in fast food, low in fruits and vegetables
+   - Exercise: Sedentary due to limb pain
+   - Tobacco Use: History of smoking, quit 5 years ago
+   - Alcohol Consumption: Frequent, 3-4 drinks per week
+   - Drug Use: None
+   - Recreational Activities: Enjoys knitting but limited by limb pain
+
+**5) Demographic Information:**
+   - Age: 44
+   - Gender: Female
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Low-income
+   - Education Level: Completed high school
+   - Health Literacy: Moderate
+   - Job Status: Unemployed, previously worked in retail
+
+**6) Patient's Behavior:**
+   - Level of patient's cooperation with medical advice: Generally compliant but shows frustration with ongoing pain
+
+**7) Geographical Location:**
+   - Big City vs Small City: Big city, urban
+   - Pollution and Environmental Health Risks: High pollution, lives near industrial area
+   - Neighborhood Type: Impoverished area, limited access to healthy food options (food desert)
+
+**8) Clinical Setting:**
+   - Community Health Services
+
+**9) Type of Encounter:**
+   - Follow-up for chronic pain management
+
+**10) Treatment Disparities:**
+   - Limited access to advanced treatment options due to financial constraints
+
+**11) Native or Non-Native English Speaking Patient:**
+   - Native English Speaking Patient
+
+**12) Physical exams:**
+   - Palpation reveals tenderness and swelling in the affected limb, limited range of motion
+
+**13) Investigation/Test results:**
+   - Awaiting Ultrasound results of the affected limb"|Rejected|Rejected|Rejected|Rejected
+PAIN IN UNSPECIFIED LIMB|"ROLE: Family Medicine Physician
+
+Demographic Information:
+- Age: 45
+- Gender: Female
+- Ethnicity: Hispanic
+- Socio-economic Status: Middle-income
+- Education Level: High school graduate
+- Health Literacy: Moderate
+- Job Status: Administrative assistant
+
+Geographical Location:
+- Urban
+- Moderate pollution and environmental health risks
+- Neighborhood Type: Middle-income neighborhood, well-served by transit
+
+Clinical Setting:
+- Private Practice
+
+Type of Encounter:
+- Initial Consultation
+
+Medical History:
+- Previous Diagnoses: Hypertension, Hyperlipidemia
+- Family Medical History: Mother has arthritis, Father had cardiovascular disease
+- Medication History: Currently on Lisinopril 10 mg once daily, Atorvastatin 20 mg once daily
+- Allergies: Penicillin (causes rash)
+- Chronic Conditions: NA
+
+Symptom Description:
+- Severity: Moderate, described as a dull ache
+- Duration: 2 weeks
+- Associated Symptoms: Occasional swelling, no redness
+- Frequency: Constant throughout the day, worse with activity
+- Impact on Daily Activities: Difficulty walking and performing job duties
+
+Patient’s Self-reported Habits and Lifestyle:
+- Sleep: 6-7 hours per night, reports feeling rested
+- Diet: Balanced diet, follows Mediterranean diet principles
+- Exercise: Walks 3 times a week for 30 minutes
+- Tobacco Use: None
+- Alcohol Consumption: Occasional glass of wine on weekends
+- Drug Use: None
+- Recreational Activities: Enjoys gardening and reading
+
+Patient's Behavior:
+- Generally compliant with medical advice, expresses willingness to follow treatment recommendations
+
+Physical Exams:
+- General: Appears well, in no acute distress
+- Musculoskeletal: Inspection shows no deformities, tenderness to palpation in unspecified limb, full range of motion but painful
+- Cardiovascular: Regular rate and rhythm, no murmurs
+- Respiratory: Clear to auscultation bilaterally
+
+Investigation/Test Results:
+- Awaiting results for X-ray of the unspecified limb to rule out fractures or other structural abnormalities
+
+Medical Outcome:
+- Diagnosis: Pain in unspecified limb (ICD-10: M79.60)
+- Prescribed Treatment: Ibuprofen 400 mg (oral) every 6 hours as needed for pain, quantity: 30 tablets.
+- Blood Work: Order for biochemistry panel to check for any underlying metabolic abnormalities that could be contributing to the pain
+- Referral: Physical Therapy for assessment and management of limb pain. Referral to Dr. Jane Harris, PT.
+- Follow-up Recommendations: Return in 2 weeks for review of X-ray results and reassessment of pain."|Rejected|Rejected|Rejected|Rejected
+PAIN IN UNSPECIFIED LIMB|"ROLE: Family Medicine Physician
+
+Demographic Information:
+- Age: 52
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle-income
+- Education Level: College graduate
+- Health Literacy: High
+- Job Status: Construction worker
+
+Geographical Location:
+- Small City
+- Low pollution and environmental health risks
+- Neighborhood Type: Middle-income neighborhood, well-served by transit
+
+Clinical Setting:
+- Urgent Care Center
+
+Type of Encounter:
+- Emergency Visit
+
+Medical History:
+- Previous Diagnoses: Type 2 Diabetes Mellitus, History of back pain
+- Family Medical History: Father had Type 2 Diabetes, Mother had Osteoporosis
+- Medication History: Metformin 500 mg twice daily
+- Allergies: NA
+- Chronic Conditions: Type 2 Diabetes Mellitus
+
+Symptom Description:
+- Severity: Severe, described as sharp and stabbing
+- Duration: 3 days
+- Associated Symptoms: Significant swelling, redness, and warmth in the right leg
+- Frequency: Constant with sudden exacerbations
+- Impact on Daily Activities: Unable to walk or bear weight on right leg, affecting his ability to work
+
+Patient’s Self-reported Habits and Lifestyle:
+- Sleep: 5-6 hours per night, reports trouble staying asleep
+- Diet: High in carbohydrates, inconsistent meal timing
+- Exercise: Minimal due to recent leg pain
+- Tobacco Use: Smokes 10 cigarettes a day
+- Alcohol Consumption: Drinks 3-4 beers on weekends
+- Drug Use: None
+- Recreational Activities: Enjoys fishing and watching sports
+
+Patient's Behavior:
+- Generally compliant with medical advice, although admits difficulty adhering to diet recommendations for diabetes
+
+Physical Exams:
+- General: Appears in pain, limp favoring right leg
+- Musculoskeletal: Inspection reveals swelling, redness, and tenderness in the right lower leg, decreased range of motion due to pain
+- Cardiovascular: Regular rate and rhythm, no murmurs
+- Respiratory: Clear to auscultation bilaterally
+
+Investigation/Test Results:
+- Results for D-Dimer: Elevated, suggesting possible deep vein thrombosis
+- Awaiting results for Doppler ultrasound of the right leg to confirm diagnosis
+
+Medical Outcome:
+- Diagnosis: Pain in unspecified limb (ICD-10: M79.60)
+- Prescribed Treatment: Enoxaparin 1 mg/kg subcutaneously every 12 hours, duration: 7 days, quantity: 14 prefilled syringes
+- Blood Work: Order for biochemistry panel to check for underlying metabolic abnormalities due to diabetes and recent symptoms
+- Follow-up Recommendations: Immediate referral to Dr. John Carter, a vascular specialist, for further management of suspected deep vein thrombosis
+- Follow-up Appointment: Return to clinic in 1 week to review Doppler ultrasound results and reassess condition"|Rejected|Rejected|Rejected|Rejected
+PAIN IN UNSPECIFIED LIMB|"ROLE: Family Medicine Physician
+
+Demographic Information:
+- Age: 34
+- Gender: Female
+- Ethnicity: African-American
+- Socio-economic Status: Low-income
+- Education Level: High school graduate
+- Health Literacy: Low
+- Job Status: Unemployed
+
+Geographical Location:
+- Rural
+- Low pollution and environmental health risks
+- Neighborhood Type: Impoverished, limited access to healthcare and healthy food options
+
+Clinical Setting:
+- Community Health Services
+
+Type of Encounter:
+- Follow-up
+
+Medical History:
+- Previous Diagnoses: Obesity, Asthma, Depression
+- Family Medical History: Mother has hypertension, Father had diabetes
+- Medication History: Albuterol inhaler as needed, Fluoxetine 20 mg daily
+- Allergies: Shellfish (causes hives)
+- Chronic Conditions: Asthma, Depression
+
+Symptom Description:
+- Severity: Moderate to severe, described as throbbing and aching
+- Duration: 10 days
+- Associated Symptoms: Mild swelling, occasional numbness in the left leg
+- Frequency: Intermittent throughout the day, worsens in the evening
+- Impact on Daily Activities: Difficulty standing for long periods, affects mobility and daily chores
+
+Patient’s Self-reported Habits and Lifestyle:
+- Sleep: 4-5 hours per night, reports difficulty falling and staying asleep
+- Diet: High in processed foods, irregular meal timings
+- Exercise: Minimal due to pain and shortness of breath
+- Tobacco Use: Smokes half a pack per day
+- Alcohol Consumption: None
+- Drug Use: None
+- Recreational Activities: None due to current pain and depression
+
+Patient's Behavior:
+- Poor compliance with previous medical advice, missed several follow-up appointments due to transportation issues
+
+Physical Exams:
+- General: Appears uncomfortable, limping slightly
+- Musculoskeletal: Inspection reveals mild swelling and tenderness in the left lower leg, decreased range of motion due to pain
+- Cardiovascular: Regular rate and rhythm, no murmurs
+- Respiratory: Diminished breath sounds bilaterally, wheezing noted
+
+Investigation/Test Results:
+- Awaiting results for Doppler ultrasound of the left leg to rule out deep vein thrombosis (DVT)
+
+Medical Outcome:
+- Diagnosis: Pain in unspecified limb (ICD-10: M79.60)
+- Prescribed Treatment: Naproxen 250 mg (oral) every 12 hours as needed for pain, quantity: 30 tablets
+- Blood Work: Order for biochemistry panel and hematology to check for underlying metabolic or hematological abnormalities
+- Referral: Immediate referral to Dr. Emily Johnson, a vascular specialist, for further evaluation of suspected deep vein thrombosis 
+- Follow-up Recommendations: Return in 1 week to review Doppler ultrasound results and reassess condition with emphasis on improving asthma and depression management"|Rejected|Rejected|Rejected|Rejected
+PAIN IN UNSPECIFIED LIMB|"ROLE: Family Medicine Physician
+
+1. Medical Outcome: 
+   - Diagnosis: Pain in unspecified limb
+   - Prescribed Treatment: Naproxen 500 mg oral tablet, take 1 tablet twice daily with food for 10 days
+   - Follow-up Recommendations: Follow-up appointment in 2 weeks to reassess pain and function
+   - Referral to Specialists: Referral to orthopedist Dr. Alan Smith for further evaluation of limb pain if no improvement in two weeks
+   - Blood Work: Complete Blood Count (CBC) for further insight on possible underlying conditions like anemia or infection
+   - Imaging: X-Ray of the affected limb to exclude any fractures or structural abnormalities
+
+2. Medical History: 
+   - Previous Diagnoses: Osteoarthritis in the knees
+   - Family Medical History: Mother had rheumatoid arthritis
+   - Medication History: Currently taking antihypertensive medication (Amlodipine 5 mg daily)
+   - Allergies: None known
+   - Chronic Conditions: Hypertension
+
+3. Symptom Description:
+   - Severity: Moderate to severe pain
+   - Duration: 3 months
+   - Associated Symptoms: Occasional swelling and redness
+   - Frequency: Pain occurs daily, predominantly in the evening
+   - Impact on Daily Activities: Difficulty walking and performing household chores
+
+4. Patient’s Self-Reported Habits and Lifestyle:
+   - Sleep: Reports difficulty sleeping due to pain, averaging 5 hours per night
+   - Diet: Balanced diet with occasional fast food
+   - Exercise: Walks 20 minutes daily but often limited by pain
+   - Tobacco Use: Never smoked
+   - Alcohol Consumption: Occasional wine, 1-2 glasses per week
+   - Drug Use: No illicit drug use
+   - Recreational Activities: Participates in local community gardening, though less frequently due to pain
+
+5. Demographic Information:
+   - Age: 58 years
+   - Gender: Female
+   - Ethnicity: African American
+   - Socio-economic Status: Middle-class
+   - Education Level: High school graduate
+   - Health Literacy: Moderate, understands basic medical instructions
+   - Job Status: Retired
+
+6. Patient's Behavior: 
+   - Cooperation level: Highly cooperative and compliant with medical advice
+
+7. Geographical Location:
+   - Big City vs Small City: Lives in a small city
+   - Rural vs Urban: Urban area
+   - Pollution and Environmental Health Risks: Moderate pollution, no significant environmental health risks
+   - Neighborhood Type: Middle-class residential neighborhood, well-served by transit, near a community health center
+
+8. Clinical Setting: 
+   - Type of Clinic: Primary care clinic
+
+9. Type of Encounter:
+   - Initial Consultation 
+
+10. Treatment Disparities: None noted
+
+11. Native or Non-Native English Speaking Patient: Native English speaker
+
+12. Physical exams:
+   - Musculoskeletal Exam: Tenderness and mild swelling noted in the unspecified limb, no deformities observed
+   - Neurological Exam: Normal with no sensory or motor deficits detected
+
+13. Investigation/Test Results:
+    - Blood Work: CBC ordered; results pending
+    - Imaging: X-Ray of the unspecified limb ordered; results pending"|Rejected|Rejected|Rejected|Rejected
+PAIN IN UNSPECIFIED LIMB|"ROLE: Family Medicine Physician
+
+1. Medical Outcome: 
+   - Diagnosis: Pain in unspecified limb
+   - Prescribed Treatment: Ibuprofen 400 mg oral tablet, take 1 tablet every 6 to 8 hours as needed for pain, with food for 14 days
+   - Follow-up Recommendations: Follow-up appointment in 2 weeks to reassess pain and function
+   - Referral to Specialists: Referral to physical therapist Dr. Laura Thompson for pain management and rehabilitation exercises
+   - Blood Work: Comprehensive Metabolic Panel (CMP) to assess kidney and liver function given prolonged NSAID use
+   - Imaging: MRI of the unspecified limb to evaluate soft tissue and potential nerve involvement
+
+2. Medical History: 
+   - Previous Diagnoses: None
+   - Family Medical History: Father had coronary artery disease
+   - Medication History: Over-the-counter use of acetaminophen for occasional headaches
+   - Allergies: Allergic to penicillin
+   - Chronic Conditions: NA
+
+3. Symptom Description:
+   - Severity: Mild to moderate pain
+   - Duration: 6 weeks
+   - Associated Symptoms: Stiffness, occasional numbness
+   - Frequency: Pain occurs multiple times daily, varies with activity 
+   - Impact on Daily Activities: Difficulty lifting objects and doing office work
+
+4. Patient’s Self-Reported Habits and Lifestyle:
+   - Sleep: Average 7-8 hours per night, sometimes interrupted by pain
+   - Diet: Vegetarian, eats a balanced diet rich in vegetables and fruits
+   - Exercise: Regularly does yoga and pilates, recently reduced due to pain
+   - Tobacco Use: Former smoker, quit 10 years ago
+   - Alcohol Consumption: Social drinking, 1-2 drinks on weekends
+   - Drug Use: No drug use
+   - Recreational Activities: Enjoys painting and gardening, limited by current pain
+
+5. Demographic Information:
+   - Age: 32 years
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Upper-middle class
+   - Education Level: College graduate
+   - Health Literacy: High, familiar with medical terms and treatments
+   - Job Status: Full-time office worker
+
+6. Patient's Behavior: 
+   - Cooperation level: Highly cooperative and proactive in seeking pain relief
+
+7. Geographical Location:
+   - Big City vs Small City: Resides in a big city
+   - Rural vs Urban: Urban area
+   - Pollution and Environmental Health Risks: High pollution, some environmental health risks
+   - Neighborhood Type: Affluent neighborhood, well-served by transit
+
+8. Clinical Setting: 
+   - Type of Clinic: Private practice
+
+9. Type of Encounter:
+   - Initial Consultation
+
+10. Treatment Disparities: None noted
+
+11. Native or Non-Native English Speaking Patient: Native English speaker
+
+12. Physical exams:
+   - Musculoskeletal Exam: Palpable tenderness over the specified limb, mild limitation in range of motion, no obvious deformities
+   - Neurological Exam: Normal reflexes, mild decrease in sensation in the limb
+
+13. Investigation/Test Results:
+    - Blood Work: CMP ordered; results pending
+    - Imaging: MRI of the unspecified limb scheduled; results pending"|Rejected|Rejected|Rejected|Rejected
+PAIN IN UNSPECIFIED LIMB|"ROLE: Family Medicine Physician
+
+1. Medical Outcome:
+   - Diagnosis: Pain in unspecified limb
+   - Prescribed Treatment: Acetaminophen 650 mg oral tablet, take 1 tablet every 6 hours as needed for pain, for 7 days
+   - Follow-up Recommendations: Follow-up appointment in 1 week to reassess pain and determine next steps
+   - Referral to Specialists: Referral to a neurologist Dr. Karen Lee for potential nerve involvement
+   - Blood Work: Erythrocyte Sedimentation Rate (ESR) to evaluate for inflammation or underlying systemic issues
+   - Imaging: Ultrasound of the limb to assess soft tissue for any abnormalities
+
+2. Medical History:
+   - Previous Diagnoses: Type 2 Diabetes
+   - Family Medical History: Sister has autoimmune disorder
+   - Medication History: Metformin 500 mg twice daily for diabetes
+   - Allergies: None known
+   - Chronic Conditions: Type 2 Diabetes, Hypertension
+
+3. Symptom Description:
+   - Severity: Severe, throbbing pain
+   - Duration: 2 months
+   - Associated Symptoms: Occasional tingling and numbness
+   - Frequency: Persistent daily pain, exacerbated by physical activity
+   - Impact on Daily Activities: Significant impact, struggles with daily activities such as climbing stairs and carrying groceries
+
+4. Patient’s Self-Reported Habits and Lifestyle:
+   - Sleep: Frequently interrupted due to pain, averaging 4-5 hours per night
+   - Diet: Consumes a high-carbohydrate diet, though trying to reduce sugar intake
+   - Exercise: Limited due to pain, used to walk 30 minutes daily
+   - Tobacco Use: Current smoker, 10 cigarettes per day
+   - Alcohol Consumption: Does not drink alcohol
+   - Drug Use: No drug use
+   - Recreational Activities: Enjoys reading and watching television, activities not impacted by pain
+
+5. Demographic Information:
+   - Age: 45 years
+   - Gender: Male
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Lower-middle class
+   - Education Level: High school graduate
+   - Health Literacy: Low, requires detailed explanations and assistance with medical terms
+   - Job Status: Unemployed, previously worked in construction
+
+6. Patient's Behavior:
+   - Cooperation level: Somewhat cooperative but occasionally misses medication doses
+
+7. Geographical Location:
+   - Big City vs Small City: Lives in a small town
+   - Rural vs Urban: Rural area
+   - Pollution and Environmental Health Risks: Low pollution, minimal environmental health risks
+   - Neighborhood Type: Economically disadvantaged neighborhood, limited access to healthcare facilities
+
+8. Clinical Setting:
+   - Type of Clinic: Community Health Center
+
+9. Type of Encounter:
+   - Follow-up Visit
+
+10. Treatment Disparities: Possible financial limitations affecting ability to access specialist care
+
+11. Native or Non-Native English Speaking Patient: Non-native English speaker, fluent in Spanish
+
+12. Physical exams:
+   - Musculoskeletal Exam: Notable tenderness and moderate swelling, limited range of motion, no deformities
+   - Neurological Exam: Decreased sensation in the specified limb, normal reflexes
+
+13. Investigation/Test Results:
+    - Blood Work: ESR ordered; results pending
+    - Imaging: Ultrasound of the unspecified limb scheduled; results pending"|Rejected|Rejected|Rejected|Rejected

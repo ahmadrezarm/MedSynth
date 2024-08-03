@@ -1,0 +1,1414 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role
+ENCOUNTER FOR OTHER ADMINISTRATIVE EXAMINATIONS|"ROLE: Family Medicine Physician
+
+** 1) Medical Outcome:**
+- Follow-up Recommendations: Schedule a follow-up appointment in 1 year unless any issues arise earlier.
+- Lifestyle change: Emphasize the importance of exercise, a balanced diet, and regular health check-ups.
+
+** 2) Medical History:**
+- Previous Diagnoses: Hypertension
+- Family Medical History: Father had type 2 diabetes, mother had breast cancer.
+- Medication History: Takes Lisinopril 10 mg once daily for hypertension.
+- Allergies: NKA (No Known Allergies)
+- Chronic Conditions: Hypertension
+
+** 3) Symptom Description:**
+- N/A (No symptoms reported, as this is an administrative examination)
+
+** 4) Patient’s self-reported habits and lifestyle:**
+- Sleep: 7-8 hours per night
+- Diet: Balanced diet, includes vegetables, fruits, and lean protein; occasionally eats out.
+- Exercise: Walks 3 times a week for 30 minutes.
+- Tobacco Use: Non-smoker
+- Alcohol Consumption: Drinks alcohol socially, about 2-3 times a month.
+- Drug Use: Denies any recreational drug use.
+- Recreational Activities: Enjoys reading and gardening on weekends.
+
+** 5) Demographic Information:**
+- Age: 45
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle-class
+- Education Level: College graduate
+- Health Literacy: Good, understands medical terms and instructions.
+- Job Status: Employed as a Software Engineer
+
+** 6) Patient's Behavior:**
+- Level of cooperation: Highly cooperative with medical advice, attends regular check-ups, and adheres to prescribed treatments.
+
+** 7) Geographical Location:**
+- Big City: Lives in an urban area with adequate healthcare facilities.
+- Pollution: Minimal environmental health risks.
+- Neighborhood Type: Affluent community, well-served by public transit, not a food desert.
+
+** 8) Clinical Setting:**
+- Type of Encounter: Routine Check-up in a private practice.
+
+** 9) Type of Encounter:**
+- Initial Consultation
+
+** 10) Treatment Disparities:**
+- None observed; patient has good access to healthcare and financial means.
+
+** 11) Native or Non-Native English Speaking Patient:**
+- Native English-speaking patient
+
+** 12) Physical exams:**
+- Vital Signs: Blood pressure, heart rate, respiratory rate, temperature
+- General Appearance: Well-nourished, no acute distress.
+- Cardiovascular: Regular rate and rhythm, no murmurs.
+- Respiratory: Clear to auscultation, no wheezes or crackles.
+- Abdomen: Soft, non-tender, no organomegaly.
+- Musculoskeletal: Normal range of motion, no deformities.
+
+** 13) Investigation/Test results:**
+- N/A (No additional tests ordered at this time)
+
+---
+
+This scenario outlines a routine administrative examination without any specific complaints or acute symptoms, focusing on maintaining the patient's health and lifestyle."|"**1. Subjective:**
+   - **Chief Complaint (CC):** No specific complaints; here for routine check-up.
+   - **History of Present Illness (HPI):** Patient is a 45-year-old Caucasian male who presents for a routine follow-up visit. He reports no new symptoms or health concerns at this time.
+   - **Review of Systems (ROS):**
+     - General: Denies weight loss, fever, or fatigue.
+     - Cardiovascular: Denies chest pain, palpitations, or edema.
+     - Respiratory: Denies cough, shortness of breath, or wheezing.
+     - Gastrointestinal: Denies nausea, vomiting, diarrhea, or constipation.
+     - Musculoskeletal: Denies joint pain or swelling.
+     - Dermatological: Denies rashes or skin changes.
+
+**2. Objective:**
+   - **Vital Signs:**
+     - Blood Pressure: 128/78 mmHg
+     - Heart Rate: 72 bpm
+     - Respiratory Rate: 16 breaths/min
+     - Temperature: 98.6°F
+   - **General Appearance:** Well-nourished, alert, no acute distress.
+   - **Cardiovascular:** Regular rate and rhythm, S1 and S2 present without murmurs or gallops.
+   - **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+   - **Abdomen:** Soft, non-tender, bowel sounds active in all quadrants, no hepatosplenomegaly.
+   - **Musculoskeletal:** Full range of motion in all extremities, no deformities or tenderness.
+
+**3. Assessment:**
+   - Hypertension, well-controlled on current medication.
+   - No new medical issues reported or identified during the examination.
+
+**4. Plan:**
+   - **Medication:** Continue Lisinopril 10 mg once daily.
+   - **Lifestyle Recommendations:**
+     - Continue regular exercise regimen; walking 3 times a week for 30 minutes.
+     - Maintain a balanced diet rich in vegetables, fruits, and lean protein; limit eating out.
+     - Avoid tobacco and limit alcohol consumption to social occasions only.
+   - **Preventive Care:**
+     - Emphasize the importance of regular health screenings, including annual check-ups.
+     - Encourage the patient to monitor blood pressure at home.
+   - **Follow-Up:** Schedule the next follow-up appointment in 1 year unless any new issues arise earlier. Inform the patient to contact the office if any new symptoms develop or if there are any concerns about their hypertension.
+
+**Instructions:**
+   - Patient advised to maintain current healthy lifestyle and continue adherence to hypertension management plan.
+   - Reiterate the importance of attending regular health check-ups to monitor for any potential health changes."|"**1. Subjective:**
+   - **Chief Complaint (CC):** No specific complaints; here for routine check-up.
+   - **History of Present Illness (HPI):** Patient is a 45-year-old Caucasian male who presents for a routine follow-up visit. He reports no new symptoms or health concerns at this time.
+   - **Review of Systems (ROS):**
+     - General: Denies weight loss, fever, or fatigue.
+     - Cardiovascular: Denies chest pain, palpitations, or edema.
+     - Respiratory: Denies cough, shortness of breath, or wheezing.
+     - Gastrointestinal: Denies nausea, vomiting, diarrhea, or constipation.
+     - Musculoskeletal: Denies joint pain or swelling.
+     - Dermatological: Denies rashes or skin changes.
+
+**2. Objective:**
+   - **Vital Signs:**
+     - Blood Pressure: 128/78 mmHg
+     - Heart Rate: 72 bpm
+     - Respiratory Rate: 16 breaths/min
+     - Temperature: 98.6°F
+   - **General Appearance:** Well-nourished, alert, no acute distress.
+   - **Cardiovascular:** Regular rate and rhythm, S1 and S2 present without murmurs or gallops.
+   - **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+   - **Abdomen:** Soft, non-tender, bowel sounds active in all quadrants, no hepatosplenomegaly.
+   - **Musculoskeletal:** Full range of motion in all extremities, no deformities or tenderness.
+
+**3. Assessment:**
+   - Hypertension, well-controlled on current medication.
+   - No new medical issues reported or identified during the examination.
+
+**4. Plan:**
+   - **Medication:** Continue Lisinopril 10 mg once daily.
+   - **Lifestyle Recommendations:**
+     - Continue regular exercise regimen; walking 3 times a week for 30 minutes.
+     - Maintain a balanced diet rich in vegetables, fruits, and lean protein; limit eating out.
+     - Avoid tobacco and limit alcohol consumption to social occasions only.
+   - **Preventive Care:**
+     - Emphasize the importance of regular health screenings, including annual check-ups.
+     - Encourage the patient to monitor blood pressure at home.
+   - **Follow-Up:** Schedule the next follow-up appointment in 1 year unless any new issues arise earlier. Inform the patient to contact the office if any new symptoms develop or if there are any concerns about their hypertension."|"**1. Subjective:**
+   - **CC:** No specific complaints; here for routine check-up.
+   - **HPI:** Pt is a 45 y/o Caucasian M who presents for a routine f/u visit. He reports no new sx or health concerns at this time.
+   - **ROS:**
+     - General: Denies wt loss, fever, or fatigue.
+     - CV: Denies CP, palpitations, or edema.
+     - Resp: Denies cough, SOB, or wheezing.
+     - GI: Denies N/V/D or constipation.
+     - MSK: Denies joint pain or swelling.
+     - Derm: Denies rashes or skin changes.
+
+**2. Objective:**
+   - **VS:**
+     - BP: 128/78 mmHg
+     - HR: 72 bpm
+     - RR: 16 breaths/min
+     - Temp: 98.6°F
+   - **Gen Appearance:** Well-nourished, alert, NAD.
+   - **CV:** RRR, S1 and S2 present without murmurs or gallops.
+   - **Resp:** CTA bilaterally, no wheezes, rales, or rhonchi.
+   - **Abd:** Soft, NT, BS active in all quadrants, no HSM.
+   - **MSK:** Full ROM in all extremities, no deformities or tenderness.
+
+**3. Assessment:**
+   - HTN, well-controlled on current Rx.
+   - No new medical issues reported or identified during the exam.
+
+**4. Plan:**
+   - **Rx:** Continue Lisinopril 10 mg QD.
+   - **Lifestyle Recommendations:**
+     - Continue regular exercise regimen; walking 3x/week for 30 mins.
+     - Maintain a balanced diet rich in vegetables, fruits, and lean protein; limit eating out.
+     - Avoid tobacco and limit EtOH consumption to social occasions only.
+   - **Preventive Care:**
+     - Emphasize the importance of regular health screenings, including annual check-ups.
+     - Encourage pt to monitor BP at home.
+   - **F/U:** Schedule the next f/u appt in 1 year unless any new issues arise earlier. Inform pt to contact the office if any new sx develop or if there are any concerns about their HTN."|Family Medicine Physician
+ENCOUNTER FOR OTHER ADMINISTRATIVE EXAMINATIONS|"ROLE: Family Medicine Physician
+
+**1) Medical Outcome:**
+- Referral to gastroenterologist for chronic abdominal pain evaluation (Dr. John Doe)
+- Medication adjustment: Start pantoprazole 40 mg once daily (oral) for gastric symptoms
+- Follow-up in 4 weeks for symptom assessment and further management
+- Blood work ordered for hematology panel (CBC to check for anemia and infection)
+
+**2) Medical History:**
+- Previous Diagnoses: Irritable Bowel Syndrome (IBS), Hyperlipidemia
+- Medication History: Currently taking atorvastatin 20 mg daily for cholesterol
+- Allergies: Penicillin
+- Chronic Conditions: IBS, Hyperlipidemia
+
+**3) Symptom Description:**
+- Severity: Moderate to severe abdominal pain
+- Duration: Past 3 months
+- Associated Symptoms: Bloating, occasional nausea, no vomiting
+- Frequency: Daily
+- Impact on Daily Activities: Difficulty in performing daily tasks, affects work productivity
+
+**4) Patient’s self-reported habits and lifestyle:**
+- Sleep: Reports trouble sleeping due to abdominal pain, averages 5 hours per night
+- Diet: Recently changed to a low-FODMAP diet, avoids spicy foods
+- Exercise: Walks 30 minutes daily
+- Tobacco Use: Non-smoker
+- Alcohol Consumption: Occasional, 1-2 glasses of wine per month
+- Drug Use: Denies any illicit drug use
+- Recreational Activities: Enjoys yoga and gardening
+
+**5) Demographic Information:**
+- Age: 45
+- Gender: Female
+- Ethnicity: Hispanic
+- Socio-economic Status: Middle-class
+- Education Level: High school graduate
+- Health Literacy: Basic understanding
+- Job Status: Office worker
+
+**6) Patient's Behavior:**
+- Generally compliant with medical advice but expresses frustration due to ongoing symptoms
+
+**7) Geographical Location:**
+- Suburban
+- Pollution and Environmental Health Risks: Low pollution levels
+- Neighborhood Type: Moderately affluent, well-served by transit but limited healthcare facilities
+
+**8) Clinical Setting:**
+- Community Health Clinic
+
+**9) Type of Encounter:**
+- Initial Consultation
+
+**10) Treatment Disparities:**
+- N/A
+
+**11) Native or Non-Native English Speaking Patient:**
+- Non-Native English-speaking patient
+
+**12) Physical exams:**
+- Abdominal examination: Tenderness in the lower abdominal quadrants, no palpable masses, no rebound tenderness
+
+**13) Investigation/Test results:**
+- Blood work ordered: Hematology panel (CBC to check for anemia and infection)
+- Awaiting results"|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Moderate to severe abdominal pain.
+
+**History of Present Illness (HPI):**  
+The patient is a 45-year-old Hispanic female presenting with chronic moderate to severe abdominal pain experienced daily for the past 3 months. The pain is associated with bloating and occasional nausea but no vomiting. The patient reports difficulty performing daily tasks and a noticeable decline in work productivity due to the pain. She is following a low-FODMAP diet and avoids spicy foods in an attempt to alleviate symptoms. She expresses frustration due to ongoing symptoms despite lifestyle modifications.
+
+**Review of Systems (ROS):**  
+- **Constitutional:** Reports trouble sleeping due to abdominal pain, averages 5 hours per night.  
+- **Gastrointestinal:** Moderate to severe abdominal pain, bloating, occasional nausea. No vomiting.  
+- **General:** Denies fever or weight loss.  
+- **Respiratory:** Denies cough or shortness of breath.
+
+**Social History:**  
+- Non-smoker, occasional alcohol consumption (1-2 glasses of wine per month).  
+- Engages in regular physical activity (walks 30 minutes daily) and enjoys yoga and gardening.  
+- Works as an office worker with moderate socioeconomic status and basic health literacy.
+
+**2. Objective:**
+
+**Physical Examination Findings:**  
+- **Abdomen:** Tenderness in the lower abdominal quadrants, no palpable masses, no rebound tenderness.  
+- **Vital Signs:** Within normal limits.
+
+**Investigations:**  
+- Blood work ordered: Hematology panel (CBC) to check for anemia and infection (awaiting results).
+
+**3. Assessment:**
+
+**Primary Diagnosis:**  
+- Chronic Abdominal Pain, likely due to Irritable Bowel Syndrome (IBS), exacerbated by possible gastroesophageal reflux disease (GERD).
+
+**Differential Diagnosis:**  
+- Gastroesophageal Reflux Disease (GERD)  
+- Chronic Gastritis  
+- Peptic Ulcer Disease  
+- Functional Dyspepsia
+
+**4. Plan:**
+
+**Medical Treatment and Adjustments:**  
+- Start pantoprazole 40 mg once daily (oral) for gastric symptoms.
+
+**Referral:**  
+- Referral to gastroenterologist (Dr. John Doe) for evaluation of chronic abdominal pain.
+
+**Follow-Up:**  
+- Schedule follow-up in 4 weeks for symptom assessment and further management.
+
+**Investigations:**  
+- Await results of blood work (Hematology panel - CBC to check for anemia and infection).
+
+**Patient Education and Counseling:**  
+- Advised the patient about the potential benefits of pantoprazole and the importance of compliance with the medication regimen.
+- Discussed possible side effects of the new medication and advised to report any adverse effects.
+- Reviewed the importance of continuing a low-FODMAP diet and other lifestyle modifications.
+- Encouraged regular physical activity and stress reduction techniques such as yoga.
+- Emphasized the need for follow-up with the gastroenterologist to explore further diagnostic options and tailored treatment plans.
+  
+**Patient Agreements:**  
+The patient understands and agrees with the recommended medical treatment plan. All questions were answered, and the importance of follow-up was emphasized."|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Moderate to severe abdominal pain.
+
+**History of Present Illness (HPI):**  
+The patient is a 45-year-old Hispanic female presenting with chronic moderate to severe abdominal pain experienced daily for the past 3 months. The pain is associated with bloating and occasional nausea but no vomiting. The patient reports difficulty performing daily tasks and a noticeable decline in work productivity due to the pain. She is following a low-FODMAP diet and avoids spicy foods in an attempt to alleviate symptoms. She expresses frustration due to ongoing symptoms despite lifestyle modifications.
+
+**Review of Systems (ROS):**  
+- **Constitutional:** Reports trouble sleeping due to abdominal pain, averages 5 hours per night.  
+- **Gastrointestinal:** Moderate to severe abdominal pain, bloating, occasional nausea. No vomiting.  
+- **General:** Denies fever or weight loss.  
+- **Respiratory:** Denies cough or shortness of breath.
+
+**Social History:**  
+- Non-smoker, occasional alcohol consumption (1-2 glasses of wine per month).  
+- Engages in regular physical activity (walks 30 minutes daily) and enjoys yoga and gardening.  
+- Works as an office worker with moderate socioeconomic status and basic health literacy.
+
+**2. Objective:**
+
+**Physical Examination Findings:**  
+- **Abdomen:** Tenderness in the lower abdominal quadrants, no palpable masses, no rebound tenderness.  
+- **Vital Signs:** Within normal limits.
+
+**3. Assessment:**
+
+**Primary Diagnosis:**  
+- Chronic Abdominal Pain, likely due to Irritable Bowel Syndrome (IBS), exacerbated by possible gastroesophageal reflux disease (GERD).
+
+**Differential Diagnosis:**  
+- Gastroesophageal Reflux Disease (GERD)  
+- Chronic Gastritis  
+- Peptic Ulcer Disease  
+- Functional Dyspepsia
+
+**4. Plan:**
+
+**Medical Treatment and Adjustments:**  
+- Start pantoprazole 40 mg once daily (oral) for gastric symptoms.
+
+**Referral:**  
+- Referral to gastroenterologist (Dr. John Doe) for evaluation of chronic abdominal pain.
+
+**Follow-Up:**  
+- Schedule follow-up in 4 weeks for symptom assessment and further management.
+
+**Investigations:**  
+- Await results of blood work (Hematology panel - CBC to check for anemia and infection).
+
+**Patient Education and Counseling:**  
+- Advised the patient about the potential benefits of pantoprazole and the importance of compliance with the medication regimen.
+- Discussed possible side effects of the new medication and advised to report any adverse effects.
+- Reviewed the importance of continuing a low-FODMAP diet and other lifestyle modifications.
+- Encouraged regular physical activity and stress reduction techniques such as yoga.
+- Emphasized the need for follow-up with the gastroenterologist to explore further diagnostic options and tailored treatment plans.
+  
+**Patient Agreements:**  
+The patient understands and agrees with the recommended medical treatment plan. All questions were answered, and the importance of follow-up was emphasized."|"**1. Subjective:**
+
+**CC:**  
+Mod-severe abd pain.
+
+**HPI:**  
+Pt is a 45 y/o Hispanic F presenting with chronic mod-severe abd pain experienced daily for the past 3 mos. Pain assoc with bloating and occasional N but no V. Pt reports difficulty performing ADLs and a noticeable decline in work productivity due to pain. Following a low-FODMAP diet and avoids spicy foods to alleviate sx. Expresses frustration due to ongoing sx despite lifestyle modifications.
+
+**ROS:**  
+- **Constitutional:** Reports trouble sleeping due to abd pain, averages 5 hrs/night.  
+- **GI:** Mod-severe abd pain, bloating, occasional N. No V.  
+- **General:** Denies fever or wt loss.  
+- **Resp:** Denies cough or SOB.
+
+**Social Hx:**  
+- Non-smoker, occasional EtOH (1-2 glasses of wine/month).  
+- Engages in regular physical activity (walks 30 mins daily) and enjoys yoga and gardening.  
+- Works as an office worker with moderate SES and basic health literacy.
+
+**2. Objective:**
+
+**PE Findings:**  
+- **Abd:** Tenderness in the lower abd quadrants, no palpable masses, no rebound tenderness.  
+- **VS:** WNL.
+
+**3. Assessment:**
+
+**Primary Dx:**  
+- Chronic Abd Pain, likely due to IBS, exacerbated by possible GERD.
+
+**DDx:**  
+- GERD  
+- Chronic Gastritis  
+- PUD  
+- Functional Dyspepsia
+
+**4. Plan:**
+
+**Medical Tx and Adjustments:**  
+- Start pantoprazole 40 mg QD PO for gastric sx.
+
+**Referral:**  
+- Referral to GI (Dr. John Doe) for eval of chronic abd pain.
+
+**F/U:**  
+- Schedule f/u in 4 wks for sx assessment and further mgmt.
+
+**Investigations:**  
+- Await results of blood work (CBC to check for anemia and infection).
+
+**Pt Education and Counseling:**  
+- Advised pt about potential benefits of pantoprazole and importance of compliance with med regimen.
+- Discussed possible SEs of new med and advised to report any adverse effects.
+- Reviewed importance of continuing low-FODMAP diet and other lifestyle modifications.
+- Encouraged regular physical activity and stress reduction techniques such as yoga.
+- Emphasized need for f/u with GI to explore further diagnostic options and tailored tx plans.
+  
+**Pt Agreements:**  
+Pt understands and agrees with recommended medical tx plan. All questions were answered, and importance of f/u was emphasized."|Family Medicine Physician
+ENCOUNTER FOR OTHER ADMINISTRATIVE EXAMINATIONS|"ROLE: Family Medicine Physician
+
+- **Medical Outcome:**
+    - Diagnosis: Type 2 Diabetes Mellitus
+    - Prescribed Treatment: Metformin 500 mg twice daily
+    - Follow-up Recommendations: Follow-up in 3 months
+    - Referral: Nutritionist consultation with Dr. Karen Smith for diabetes management
+    - Lifestyle Change: Advised to adopt a low-carb diet, daily exercise, and to monitor blood glucose levels
+
+- **Medical History:**
+    - Previous Diagnoses: Hyperlipidemia
+    - Family Medical History: Father had Type 2 Diabetes, Mother had Hypertension and Stroke
+    - Medication History: Atorvastatin 10 mg once daily
+    - Allergies: None
+    - Chronic Conditions: Hyperlipidemia and newly diagnosed Type 2 Diabetes Mellitus
+
+- **Symptom Description:**
+    - Severity: Mild to moderate
+    - Duration: Last 6 months 
+    - Associated Symptoms: Increased thirst, frequent urination, and occasional blurred vision
+    - Frequency: Daily
+    - Impact on Daily Activities: Increased fatigue affecting work performance
+
+- **Patient’s Self-Reported Habits and Lifestyle:**
+    - Sleep: Averages 7-8 hours per night, good sleep quality
+    - Diet: High in carbohydrates, frequent consumption of sugary snacks 
+    - Exercise: Rarely exercises, sedentary lifestyle
+    - Tobacco Use: Smoker, 15 cigarettes/day
+    - Alcohol Consumption: Drinks a glass of wine daily
+    - Drug Use: None
+    - Recreational Activities: Enjoys watching TV and playing video games
+
+- **Demographic Information:**
+    - Age: 45
+    - Gender: Female
+    - Ethnicity: African American
+    - Socio-economic Status: Low-income
+    - Education Level: High School Graduate
+    - Health Literacy: Low
+    - Job Status: Works part-time as a cashier
+
+- **Patient's Behavior:**
+    - Level of cooperation: Motivated but has struggled with previous lifestyle changes 
+
+- **Geographical Location:**
+    - Big City vs Small City: Big City
+    - Rural vs Urban: Urban
+    - Pollution and Environmental Health Risks: Moderate pollution 
+    - Neighborhood Type: Food desert, limited access to healthy foods, high crime rates
+
+- **Clinical Setting:**
+    - Private Practice
+
+- **Type of Encounter:**
+    - Follow-up Visit for elevated blood glucose levels
+
+- **Treatment Disparities:**
+    - Limited access to healthy foods due to living in a food desert
+
+- **Native or Non-Native English Speaking Patient:**
+    - Native English Speaking
+
+- **Physical Exams:**
+    - Vital signs: Blood pressure, heart rate, respiratory rate, temperature, BMI
+    - Cardiovascular: Regular rate and rhythm, no murmurs
+    - Respiratory: Clear to auscultation bilaterally
+    - Abdomen: Soft, non-tender, no masses
+
+- **Investigation/Test results:**
+    - Blood Work: Fasting blood glucose and Hemoglobin A1c at initial consultation (awaiting results)"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Increased thirst, frequent urination, and occasional blurred vision.
+
+**History of Present Illness (HPI):**
+The patient, a 45-year-old African American female, presents for a follow-up visit regarding elevated blood glucose levels. She reports experiencing increased thirst, frequent urination, and occasional blurred vision over the past 6 months. These symptoms have been mild to moderate in severity but occur daily and have begun to impact her work performance due to increased fatigue.
+
+**Review of Systems (ROS):**
+
+- **Constitutional:** Reports increased fatigue. Denies unintentional weight loss or gain.
+- **Eyes:** Occasional blurred vision.
+- **Cardiovascular:** Denies chest pain, palpitations.
+- **Respiratory:** Denies shortness of breath, cough.
+- **Gastrointestinal:** Unremarkable.
+- **Genitourinary:** Increased frequency of urination.
+- **Endocrine:** Increased thirst and urination. 
+
+**2. Objective:**
+
+**Vital signs:**
+- Blood Pressure: 140/85 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths/minute
+- Temperature: 98.6°F
+- BMI: 32 kg/m²
+
+**Physical Exam:**
+
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-tender, no masses noted.
+- **Extremities:** No peripheral edema.
+
+**3. Assessment:**
+
+**Diagnosis:**
+The patient has been diagnosed with Type 2 Diabetes Mellitus based on the clinical presentation and elevated blood glucose levels noted previously. The HbA1c and fasting blood glucose results are pending to confirm the diagnosis.
+
+**4. Plan:**
+
+**Medical Management:**
+- Start Metformin 500 mg twice daily.
+  
+**Referral:**
+- Nutritionist consultation with Dr. Karen Smith for diabetes management.
+  
+**Lifestyle Recommendations:**
+- Adopt a low-carb diet.
+- Engage in daily exercise (at least 30 minutes of moderate activity).
+- Monitor blood glucose levels at home daily.
+- Smoking cessation support: Discussed the importance of quitting smoking given her current habit of 15 cigarettes/day.
+- Limit alcohol intake to a maximum of one glass of wine per day and consider reducing further.
+
+**Follow-up:**
+- Return for follow-up in 3 months to monitor blood glucose levels, adherence to lifestyle changes, and effectiveness of treatment.
+- Schedule additional follow-up visits with our in-house diabetes educator.
+
+**Patient Education:**
+- Educated the patient on the importance of dietary changes, the role of exercise in managing blood glucose levels, and the benefits of losing weight.
+- Discussed potential complications of uncontrolled diabetes and emphasized the importance of adherence to both medication and lifestyle recommendations.
+
+**Instructions:**
+- The patient has been given educational brochures on Type 2 Diabetes and dietary guidelines.
+- Encouraged to seek support from local community resources or support groups for diabetes management, especially given the challenge of living in a food desert.
+- Provided contact information for smoking cessation programs and encouraged her to take the first steps towards quitting.
+
+#####
+"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Increased thirst, frequent urination, and occasional blurred vision.
+
+**History of Present Illness (HPI):**
+The patient, a 45-year-old African American female, presents for a follow-up visit regarding elevated blood glucose levels. She reports experiencing increased thirst, frequent urination, and occasional blurred vision over the past 6 months. These symptoms have been mild to moderate in severity but occur daily and have begun to impact her work performance due to increased fatigue.
+
+**Review of Systems (ROS):**
+
+- **Constitutional:** Reports increased fatigue. Denies unintentional weight loss or gain.
+- **Eyes:** Occasional blurred vision.
+- **Cardiovascular:** Denies chest pain, palpitations.
+- **Respiratory:** Denies shortness of breath, cough.
+- **Gastrointestinal:** Unremarkable.
+- **Genitourinary:** Increased frequency of urination.
+- **Endocrine:** Increased thirst and urination. 
+
+**2. Objective:**
+
+**Vital signs:**
+- Blood Pressure: 140/85 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths/minute
+- Temperature: 98.6°F
+- BMI: 32 kg/m²
+
+**Physical Exam:**
+
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-tender, no masses noted.
+- **Extremities:** No peripheral edema.
+
+**3. Assessment:**
+
+**Diagnosis:**
+The patient has been diagnosed with Type 2 Diabetes Mellitus based on the clinical presentation and elevated blood glucose levels noted previously. The HbA1c and fasting blood glucose results are pending to confirm the diagnosis.
+
+**4. Plan:**
+
+**Medical Management:**
+- Start Metformin 500 mg twice daily.
+  
+**Referral:**
+- Nutritionist consultation with Dr. Karen Smith for diabetes management.
+  
+**Lifestyle Recommendations:**
+- Adopt a low-carb diet.
+- Engage in daily exercise (at least 30 minutes of moderate activity).
+- Monitor blood glucose levels at home daily.
+- Smoking cessation support: Discussed the importance of quitting smoking given her current habit of 15 cigarettes/day.
+- Limit alcohol intake to a maximum of one glass of wine per day and consider reducing further.
+
+**Follow-up:**
+- Return for follow-up in 3 months to monitor blood glucose levels, adherence to lifestyle changes, and effectiveness of treatment.
+- Schedule additional follow-up visits with our in-house diabetes educator.
+
+**Patient Education:**
+- Educated the patient on the importance of dietary changes, the role of exercise in managing blood glucose levels, and the benefits of losing weight.
+- Discussed potential complications of uncontrolled diabetes and emphasized the importance of adherence to both medication and lifestyle recommendations.
+
+**Instructions:**
+- The patient has been given educational brochures on Type 2 Diabetes and dietary guidelines.
+- Encouraged to seek support from local community resources or support groups for diabetes management, especially given the challenge of living in a food desert.
+- Provided contact information for smoking cessation programs and encouraged her to take the first steps towards quitting."|"**1. Subjective:**
+
+**CC:**
+Increased thirst, frequent urination, and occasional blurred vision.
+
+**HPI:**
+The pt, a 45 y/o African American F, presents for a f/u visit regarding elevated BG levels. She reports experiencing increased thirst, frequent urination, and occasional blurred vision over the past 6 mos. These sx have been mild to moderate in severity but occur daily and have begun to impact her work performance due to increased fatigue.
+
+**ROS:**
+
+- **Constitutional:** Reports increased fatigue. Denies unintentional wt loss or gain.
+- **Eyes:** Occasional blurred vision.
+- **CV:** Denies CP, palpitations.
+- **Resp:** Denies SOB, cough.
+- **GI:** Unremarkable.
+- **GU:** Increased frequency of urination.
+- **Endo:** Increased thirst and urination.
+
+**2. Objective:**
+
+**VS:**
+- BP: 140/85 mmHg
+- HR: 78 bpm
+- RR: 16 breaths/min
+- Temp: 98.6°F
+- BMI: 32 kg/m²
+
+**PE:**
+
+- **CV:** RRR, no murmurs.
+- **Resp:** CTA bilaterally.
+- **Abd:** Soft, non-tender, no masses noted.
+- **Ext:** No peripheral edema.
+
+**3. Assessment:**
+
+**Dx:**
+The pt has been dx with T2DM based on the clinical presentation and elevated BG levels noted previously. The HbA1c and FBG results are pending to confirm the dx.
+
+**4. Plan:**
+
+**Medical Mgmt:**
+- Start Metformin 500 mg BID.
+
+**Referral:**
+- Nutritionist consult with Dr. Karen Smith for DM mgmt.
+
+**Lifestyle Recommendations:**
+- Adopt a low-carb diet.
+- Engage in daily exercise (at least 30 mins of moderate activity).
+- Monitor BG levels at home daily.
+- Smoking cessation support: Discussed the importance of quitting smoking given her current habit of 15 cigarettes/day.
+- Limit EtOH intake to a max of one glass of wine per day and consider reducing further.
+
+**F/U:**
+- Return for f/u in 3 mos to monitor BG levels, adherence to lifestyle changes, and effectiveness of tx.
+- Schedule additional f/u visits with our in-house diabetes educator.
+
+**Pt Education:**
+- Educated the pt on the importance of dietary changes, the role of exercise in managing BG levels, and the benefits of losing wt.
+- Discussed potential complications of uncontrolled DM and emphasized the importance of adherence to both medication and lifestyle recommendations.
+
+**Instructions:**
+- The pt has been given educational brochures on T2DM and dietary guidelines.
+- Encouraged to seek support from local community resources or support groups for DM mgmt, especially given the challenge of living in a food desert.
+- Provided contact info for smoking cessation programs and encouraged her to take the first steps towards quitting."|Family Medicine Physician
+ENCOUNTER FOR OTHER ADMINISTRATIVE EXAMINATIONS|"ROLE: General Physician
+
+1) Medical Outcome: Referral to endocrinologist for evaluation of thyroid function - Dr. John Anderson; order for thyroid ultrasound; prescribe Levothyroxine 50 mcg, oral, once daily for 6 months.
+2) Medical History: Previous diagnosis of hypothyroidism, family history of thyroid disorders, no current medications for hypothyroidism, lactose intolerance.
+3) Symptom Description: Moderate fatigue, weight gain, dry skin; duration of 3 months; symptoms are consistent and significantly impacting daily activities, such as difficulty concentrating at work.
+4) Patient’s self-reported habits and lifestyle: Sleeps 8 hours per night but still feels tired; follows a balanced diet avoiding lactose; exercises 3 times a week; non-smoker; consumes alcohol occasionally (once a month); enjoys gardening.
+5) Demographic Information: 35-year-old female; Asian descent; middle-class socio-economic status; university education; high health literacy; works as an accountant.
+6) Patient's Behavior: Highly cooperative and motivated to follow medical advice.
+7) Geographical Location: Lives in a suburban area in a small city; neighborhood is affluent with access to healthcare services and fresh foods.
+8) Clinical Setting: Private practice.
+9) Type of Encounter: Initial Consultation.
+10) Treatment Disparities: None noted.
+11) Native or Non-Native English Speaking Patient: Native English speaker.
+12) Physical exams: Neck exam including palpation of the thyroid gland, BMI assessment.
+13) Investigation/Test results: Order for thyroid ultrasound, results pending. Blood tests ordered for thyroid function tests (T3, T4, TSH)."|"#####
+1. Subjective:
+
+**Chief Complaint (CC):**
+Moderate fatigue, weight gain, and dry skin for the past 3 months.
+
+**History of Present Illness (HPI):**
+A 35-year-old female of Asian descent presents for an initial consultation at a private practice with complaints of moderate fatigue, weight gain, and dry skin. These symptoms have been present for approximately 3 months and have been consistent, significantly impacting her daily activities. The patient reports difficulty concentrating at work. She has a previous diagnosis of hypothyroidism but is currently not on any medications for this condition. She has a family history of thyroid disorders.
+
+**Review of Systems (ROS):**
+- Constitutional: Reports moderate fatigue despite sleeping 8 hours per night.
+- Dermatologic: Complains of dry skin.
+- Gastrointestinal: Follows a lactose-free balanced diet.
+- Endocrine: Noted weight gain over the past 3 months. No recent changes in appetite or bowel habits.
+- Musculoskeletal: No joint pain or muscle weakness.
+- Neurological: Difficulty concentrating at work.
+- General: Non-smoker, consumes alcohol occasionally (once a month), exercises 3 times a week, and enjoys gardening.
+
+2. Objective:
+
+**Vital Signs:**
+- Blood pressure: 118/76 mmHg
+- Heart rate: 72 bpm
+- Respiratory rate: 16 breaths per minute
+- Temperature: 98.6°F
+- BMI: 26
+
+**Physical Exam:**
+- General: Patient is alert, cooperative, and appears moderately fatigued.
+- Neck: Thyroid gland palpated; no obvious enlargement, nodules, or tenderness noticed.
+- Skin: Dry skin noted on arms and legs.
+- Abdomen: Soft, non-tender, no hepatosplenomegaly.
+- Neurological: Alert and oriented, cranial nerves II-XII intact, normal reflexes.
+
+**Pending Investigations:**
+- Thyroid ultrasound ordered.
+- Blood tests ordered for thyroid function tests (T3, T4, TSH).
+
+3. Assessment:
+
+- Hypothyroidism: Symptoms consistent with hypothyroidism including fatigue, weight gain, and dry skin. The patient has a previous diagnosis but is currently off medications.
+- Thyroid dysfunction: Pending further evaluation via thyroid ultrasound and thyroid function tests.
+
+4. Plan:
+
+- Referral to endocrinologist Dr. John Anderson for further evaluation of thyroid function.
+- Ordered thyroid ultrasound to assess thyroid structure.
+- Prescribed Levothyroxine 50 mcg, oral, once daily for 6 months.
+- Advised the patient to monitor symptoms and follow up in 6 weeks for reassessment of thyroid function tests and clinical symptoms.
+- Discussed importance of adherence to medication and potential need for dose adjustment.
+- Educated the patient on signs of both hypo- and hyperthyroidism to watch for, and encouraged lifestyle modifications to support overall health.
+- Scheduled follow-up appointment in 6 weeks to review blood test results and ultrasound findings.
+- Reinforced the importance of regular exercise, balanced diet, and adequate sleep.
+
+#####
+
+**INSTRUCTIONS:**
+- Follow up with the endocrinologist.
+- Adhere to the prescribed medication and note any changes in symptoms.
+- Return in 6 weeks for follow-up evaluation and thyroid function test review."|"#####
+1. Subjective:
+
+**Chief Complaint (CC):**
+Moderate fatigue, weight gain, and dry skin for the past 3 months.
+
+**History of Present Illness (HPI):**
+A 35-year-old female of Asian descent presents for an initial consultation at a private practice with complaints of moderate fatigue, weight gain, and dry skin. These symptoms have been present for approximately 3 months and have been consistent, significantly impacting her daily activities. The patient reports difficulty concentrating at work. She has a previous diagnosis of hypothyroidism but is currently not on any medications for this condition. She has a family history of thyroid disorders.
+
+**Review of Systems (ROS):**
+- Constitutional: Reports moderate fatigue despite sleeping 8 hours per night.
+- Dermatologic: Complains of dry skin.
+- Gastrointestinal: Follows a lactose-free balanced diet.
+- Endocrine: Noted weight gain over the past 3 months. No recent changes in appetite or bowel habits.
+- Musculoskeletal: No joint pain or muscle weakness.
+- Neurological: Difficulty concentrating at work.
+- General: Non-smoker, consumes alcohol occasionally (once a month), exercises 3 times a week, and enjoys gardening.
+
+2. Objective:
+
+**Vital Signs:**
+- Blood pressure: 118/76 mmHg
+- Heart rate: 72 bpm
+- Respiratory rate: 16 breaths per minute
+- Temperature: 98.6°F
+- BMI: 26
+
+**Physical Exam:**
+- General: Patient is alert, cooperative, and appears moderately fatigued.
+- Neck: Thyroid gland palpated; no obvious enlargement, nodules, or tenderness noticed.
+- Skin: Dry skin noted on arms and legs.
+- Abdomen: Soft, non-tender, no hepatosplenomegaly.
+- Neurological: Alert and oriented, cranial nerves II-XII intact, normal reflexes.
+
+3. Assessment:
+
+- Hypothyroidism: Symptoms consistent with hypothyroidism including fatigue, weight gain, and dry skin. The patient has a previous diagnosis but is currently off medications.
+- Thyroid dysfunction: Pending further evaluation via thyroid ultrasound and thyroid function tests.
+
+4. Plan:
+
+- Referral to endocrinologist Dr. John Anderson for further evaluation of thyroid function.
+  - Reason for referral: Further evaluation of thyroid function.
+  - Specialty: Endocrinology.
+  - Doctor's name: Dr. John Anderson.
+- Ordered thyroid ultrasound to assess thyroid structure.
+- Ordered blood tests for thyroid function tests (T3, T4, TSH).
+- Prescribed Levothyroxine 50 mcg, oral, once daily for 6 months.
+- Advised the patient to monitor symptoms and follow up in 6 weeks for reassessment of thyroid function tests and clinical symptoms.
+- Discussed importance of adherence to medication and potential need for dose adjustment.
+- Educated the patient on signs of both hypo- and hyperthyroidism to watch for, and encouraged lifestyle modifications to support overall health.
+- Scheduled follow-up appointment in 6 weeks to review blood test results and ultrasound findings.
+- Reinforced the importance of regular exercise, balanced diet, and adequate sleep."|"#####
+1. Subjective:
+
+**CC:**
+Moderate fatigue, weight gain, and dry skin for the past 3 months.
+
+**HPI:**
+A 35-year-old F of Asian descent presents for an initial consult at a private practice with c/o moderate fatigue, weight gain, and dry skin. These sx have been present for ~3 months and have been consistent, significantly impacting her ADLs. Pt reports difficulty concentrating at work. She has a PMHx of hypothyroidism but is currently not on any meds for this condition. She has a FHx of thyroid disorders.
+
+**ROS:**
+- Constitutional: Reports moderate fatigue despite sleeping 8 hrs/night.
+- Derm: Complains of dry skin.
+- GI: Follows a lactose-free balanced diet.
+- Endo: Noted weight gain over the past 3 months. No recent changes in appetite or bowel habits.
+- MSK: No joint pain or muscle weakness.
+- Neuro: Difficulty concentrating at work.
+- General: Non-smoker, consumes ETOH occasionally (once a month), exercises 3x/week, and enjoys gardening.
+
+2. Objective:
+
+**VS:**
+- BP: 118/76 mmHg
+- HR: 72 bpm
+- RR: 16 bpm
+- Temp: 98.6°F
+- BMI: 26
+
+**PE:**
+- General: Pt is alert, cooperative, and appears moderately fatigued.
+- Neck: Thyroid gland palpated; no obvious enlargement, nodules, or tenderness noticed.
+- Skin: Dry skin noted on arms and legs.
+- Abd: Soft, non-tender, no HSM.
+- Neuro: A&O, CN II-XII intact, normal reflexes.
+
+3. Assessment:
+
+- Hypothyroidism: Sx consistent with hypothyroidism including fatigue, weight gain, and dry skin. Pt has a previous dx but is currently off meds.
+- Thyroid dysfunction: Pending further eval via thyroid US and TFTs.
+
+4. Plan:
+
+- Referral to endo Dr. John Anderson for further eval of thyroid function.
+  - Reason for referral: Further eval of thyroid function.
+  - Specialty: Endo.
+  - Doctor's name: Dr. John Anderson.
+- Ordered thyroid US to assess thyroid structure.
+- Ordered blood tests for TFTs (T3, T4, TSH).
+- Rx'd Levothyroxine 50 mcg PO QD for 6 months.
+- Advised pt to monitor sx and f/u in 6 weeks for reassessment of TFTs and clinical sx.
+- Discussed importance of adherence to meds and potential need for dose adjustment.
+- Educated pt on signs of both hypo- and hyperthyroidism to watch for, and encouraged lifestyle modifications to support overall health.
+- Scheduled f/u appt in 6 weeks to review blood test results and US findings.
+- Reinforced the importance of regular exercise, balanced diet, and adequate sleep."|General Physician
+ENCOUNTER FOR OTHER ADMINISTRATIVE EXAMINATIONS|"ROLE: Family Medicine Physician
+
+DEMOGRAPHIC INFORMATION
+- Age: 40
+- Gender: Male
+- Ethnicity: Hispanic
+- Socio-economic Status: Middle-class
+- Education Level: High School Diploma
+- Health Literacy: Moderate
+- Job Status: Warehouse Worker
+
+CLINICAL SETTING
+- Community Health Services
+
+TYPE OF ENCOUNTER
+- Initial Consultation
+
+MEDICAL HISTORY
+- Previous Diagnoses: Hypertension, Prediabetes
+- Family Medical History: Father had Type 2 Diabetes, Mother has Hypertension
+- Medication History: Currently taking Lisinopril 10 mg once daily for hypertension
+- Allergies: N/A
+- Chronic Conditions: Hypertension
+
+SYMPOM DESCRIPTION
+- N/A 
+
+PATIENT’S SELF-REPORTED HABITS AND LIFESTYLE
+- Sleep: Approximately 6 hours per night, often disrupted
+- Diet: High in carbohydrates and processed foods, frequent fast food consumption
+- Exercise: Rarely exercises due to long work hours
+- Tobacco Use: Smokes 5 cigarettes per day
+- Alcohol Consumption: Drinks beer on weekends, around 4-5 cans
+- Drug Use: Denies illicit drug use
+- Recreational Activities: Occasionally plays soccer with friends on weekends
+
+PATIENT'S BEHAVIOR
+- Moderately cooperative; acknowledges poor lifestyle habits but struggles with adherence to healthier routines
+
+GEOGRAPHICAL LOCATION
+- Urban area, big city
+- Neighborhood Type: Working-class, well-served by public transit
+
+TREATMENT DISPARITIES
+- Potential concern about ability to pay for more frequent follow-ups or additional testing
+
+MEDICAL OUTCOME
+- Referral to Nutritionist for diet modification
+- Referral to Cardiologist for management of hypertension
+- Recommendation for lifestyle changes: Increase exercise, smoking cessation program, reduce alcohol consumption
+- Follow-up blood work for biochemistry and hematology, including fasting glucose and lipid profile to assess prediabetes status and overall health
+
+INVESTIGATION/TEST RESULTS
+- Blood work: Biochemistry and Hematology, including fasting glucose and lipid profile
+
+PHYSICAL EXAMS
+- General Physical Exam: Height, weight, BMI, blood pressure measurements
+
+**Scenario Ends Here**"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Initial consultation for management of chronic conditions and lifestyle modification.
+
+**History of Present Illness (HPI):**
+Mr. Rodriguez is a 40-year-old Hispanic male presenting for an initial consultation. He has a history of hypertension and prediabetes. The patient reports feeling generally well but acknowledges poor dietary habits, infrequent exercise, and disrupted sleep patterns. He works long hours in a warehouse, which limits his ability to exercise regularly. He admits to smoking 5 cigarettes per day and consuming 4-5 cans of beer on weekends. He has not seen a healthcare provider regularly and is concerned about his capability to afford frequent follow-ups or additional testing.
+
+**Review of Systems (ROS):**
+- Cardiovascular: Denies chest pain or palpitations.
+- Respiratory: Reports no shortness of breath or wheezing.
+- Gastrointestinal: No nausea, vomiting, or changes in bowel habits.
+- Neurological: No headaches, dizziness, or visual disturbances.
+- Endocrine: No new symptoms of hyperglycemia (e.g., frequent urination, excessive thirst).
+
+**2. Objective:**
+
+**Vital Signs:**
+- Height: 5'9""
+- Weight: 210 lbs
+- BMI: 31.0 (Obese)
+- Blood Pressure: 145/90 mmHg
+
+**Physical Examination:**
+- General: Well-nourished, alert, and cooperative male in no acute distress.
+- Cardiovascular: Regular rate and rhythm, no murmurs, gallops, or rubs.
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- Abdomen: Soft, non-tender, no hepatosplenomegaly.
+- Extremities: No edema, pulses are 2+ and equal bilaterally.
+- Skin: No rashes or lesions.
+
+**Results:**
+Pending blood work: biochemistry and hematology, including fasting glucose and lipid profile.
+
+**3. Assessment:**
+1. Hypertension, uncontrolled despite current medication (Lisinopril 10 mg once daily).
+2. Prediabetes, risk of progression to Type 2 Diabetes.
+3. Obesity, Body Mass Index 31.0.
+4. Tobacco use and social alcohol consumption.
+5. Poor dietary habits and sedentary lifestyle contributing to overall health risks.
+
+**4. Plan:**
+
+1. **Medication:**
+    - Continue Lisinopril 10 mg once daily for hypertension; discuss possible dosage increase after blood work results.
+  
+2. **Referrals:**
+    - Nutritionist: For dietary modification and education on managing prediabetes and improving cardiovascular health.
+    - Cardiologist: For further evaluation and management of hypertension.
+
+3. **Lifestyle Recommendations:**
+    - Smoking cessation program: Provide resources and support for quitting smoking.
+    - Alcohol reduction: Advise limiting alcohol intake to no more than two drinks per occasion.
+    - Diet: Encourage a balanced diet, emphasizing whole grains, fruits, vegetables, lean proteins, and reducing processed foods and fast food consumption.
+    - Exercise: Recommend starting with moderate exercise, such as brisk walking for 30 minutes, at least 3 times a week.
+    - Sleep: Discuss strategies to improve sleep hygiene and aim for 7-8 hours of uninterrupted sleep per night.
+
+4. **Follow-up:**
+    - Schedule follow-up appointment in 2-4 weeks to review blood work results and assess progress.
+    - Regular monitoring of blood pressure and fasting glucose levels.
+    - Discuss potential for more frequent follow-ups dependent on patient’s insurance and financial situation.
+
+5. **Patient Education:**
+    - Provide educational materials on hypertension, prediabetes, and the benefits of lifestyle changes.
+    - Reinforce the importance of adhering to medication and lifestyle recommendations to prevent complications.
+
+All of Mr. Rodriguez's questions were answered, and he expressed understanding and agreement with the proposed plan."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Initial consultation for management of chronic conditions and lifestyle modification.
+
+**History of Present Illness (HPI):**
+Mr. Rodriguez is a 40-year-old Hispanic male presenting for an initial consultation. He has a history of hypertension and prediabetes. The patient reports feeling generally well but acknowledges poor dietary habits, infrequent exercise, and disrupted sleep patterns. He works long hours in a warehouse, which limits his ability to exercise regularly. He admits to smoking 5 cigarettes per day and consuming 4-5 cans of beer on weekends. He has not seen a healthcare provider regularly and is concerned about his capability to afford frequent follow-ups or additional testing.
+
+**Review of Systems (ROS):**
+- Cardiovascular: Denies chest pain or palpitations.
+- Respiratory: Reports no shortness of breath or wheezing.
+- Gastrointestinal: No nausea, vomiting, or changes in bowel habits.
+- Neurological: No headaches, dizziness, or visual disturbances.
+- Endocrine: No new symptoms of hyperglycemia (e.g., frequent urination, excessive thirst).
+
+**2. Objective:**
+
+**Vital Signs:**
+- Height: 5'9""
+- Weight: 210 lbs
+- BMI: 31.0 (Obese)
+- Blood Pressure: 145/90 mmHg
+
+**Physical Examination:**
+- General: Well-nourished, alert, and cooperative male in no acute distress.
+- Cardiovascular: Regular rate and rhythm, no murmurs, gallops, or rubs.
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- Abdomen: Soft, non-tender, no hepatosplenomegaly.
+- Extremities: No edema, pulses are 2+ and equal bilaterally.
+- Skin: No rashes or lesions.
+
+**Results:**
+Pending blood work: biochemistry and hematology, including fasting glucose and lipid profile.
+
+**3. Assessment:**
+1. Hypertension, uncontrolled despite current medication (Lisinopril 10 mg once daily).
+2. Prediabetes, risk of progression to Type 2 Diabetes.
+3. Obesity, Body Mass Index 31.0.
+4. Tobacco use and social alcohol consumption.
+5. Poor dietary habits and sedentary lifestyle contributing to overall health risks.
+
+**4. Plan:**
+
+1. **Medication:**
+    - Continue Lisinopril 10 mg once daily for hypertension; discuss possible dosage increase after blood work results.
+  
+2. **Referrals:**
+    - Nutritionist: For dietary modification and education on managing prediabetes and improving cardiovascular health.
+    - Cardiologist: For further evaluation and management of hypertension. Refer to Dr. Emily Carter, Cardiologist, for further evaluation and management of hypertension.
+
+3. **Lifestyle Recommendations:**
+    - Smoking cessation program: Provide resources and support for quitting smoking.
+    - Alcohol reduction: Advise limiting alcohol intake to no more than two drinks per occasion.
+    - Diet: Encourage a balanced diet, emphasizing whole grains, fruits, vegetables, lean proteins, and reducing processed foods and fast food consumption.
+    - Exercise: Recommend starting with moderate exercise, such as brisk walking for 30 minutes, at least 3 times a week.
+    - Sleep: Discuss strategies to improve sleep hygiene and aim for 7-8 hours of uninterrupted sleep per night.
+
+4. **Follow-up:**
+    - Schedule follow-up appointment in 2-4 weeks to review blood work results and assess progress.
+    - Regular monitoring of blood pressure and fasting glucose levels.
+    - Discuss potential for more frequent follow-ups dependent on patient’s insurance and financial situation.
+
+5. **Patient Education:**
+    - Provide educational materials on hypertension, prediabetes, and the benefits of lifestyle changes.
+    - Reinforce the importance of adhering to medication and lifestyle recommendations to prevent complications.
+
+All of Mr. Rodriguez's questions were answered, and he expressed understanding and agreement with the proposed plan."|"**1. Subjective:**
+
+**CC:**
+Initial consult for mgmt of chronic conditions and lifestyle modification.
+
+**HPI:**
+Mr. Rodriguez is a 40 y/o Hispanic M presenting for an initial consult. Hx of HTN and prediabetes. Pt reports feeling generally well but acknowledges poor dietary habits, infrequent exercise, and disrupted sleep patterns. Works long hours in a warehouse, limiting ability to exercise regularly. Admits to smoking 5 cigs/day and consuming 4-5 cans of beer on weekends. Has not seen a healthcare provider regularly and is concerned about affording frequent follow-ups or additional testing.
+
+**ROS:**
+- CV: Denies CP or palpitations.
+- Resp: No SOB or wheezing.
+- GI: No N/V or changes in bowel habits.
+- Neuro: No HA, dizziness, or visual disturbances.
+- Endo: No new sx of hyperglycemia (e.g., polyuria, polydipsia).
+
+**2. Objective:**
+
+**VS:**
+- Ht: 5'9""
+- Wt: 210 lbs
+- BMI: 31.0 (Obese)
+- BP: 145/90 mmHg
+
+**PE:**
+- Gen: Well-nourished, alert, cooperative M in NAD.
+- CV: RRR, no murmurs, gallops, or rubs.
+- Resp: CTA bilat, no wheezes, rales, or rhonchi.
+- Abd: Soft, NT, no HSM.
+- Ext: No edema, pulses 2+ and equal bilat.
+- Skin: No rashes or lesions.
+
+**Results:**
+Pending blood work: biochem and hematology, incl fasting glucose and lipid profile.
+
+**3. Assessment:**
+1. HTN, uncontrolled despite current Rx (Lisinopril 10 mg QD).
+2. Prediabetes, risk of progression to T2DM.
+3. Obesity, BMI 31.0.
+4. Tobacco use and social EtOH consumption.
+5. Poor dietary habits and sedentary lifestyle contributing to overall health risks.
+
+**4. Plan:**
+
+1. **Rx:**
+    - Continue Lisinopril 10 mg QD for HTN; discuss possible dosage increase after blood work results.
+  
+2. **Referrals:**
+    - Nutritionist: For dietary modification and education on managing prediabetes and improving CV health.
+    - Cardiology: Refer to Dr. Emily Carter for further eval and mgmt of HTN.
+
+3. **Lifestyle Recommendations:**
+    - Smoking cessation program: Provide resources and support for quitting smoking.
+    - Alcohol reduction: Advise limiting EtOH intake to no more than 2 drinks per occasion.
+    - Diet: Encourage a balanced diet, emphasizing whole grains, fruits, vegetables, lean proteins, and reducing processed foods and fast food consumption.
+    - Exercise: Recommend starting with moderate exercise, such as brisk walking for 30 mins, at least 3x/week.
+    - Sleep: Discuss strategies to improve sleep hygiene and aim for 7-8 hrs of uninterrupted sleep per night.
+
+4. **Follow-up:**
+    - Schedule f/u appt in 2-4 weeks to review blood work results and assess progress.
+    - Regular monitoring of BP and fasting glucose levels.
+    - Discuss potential for more frequent f/u dependent on pt’s insurance and financial situation.
+
+5. **Pt Education:**
+    - Provide educational materials on HTN, prediabetes, and the benefits of lifestyle changes.
+    - Reinforce the importance of adhering to Rx and lifestyle recommendations to prevent complications.
+
+All of Mr. Rodriguez's questions were answered, and he expressed understanding and agreement with the proposed plan."|Family Medicine Physician
+ENCOUNTER FOR OTHER ADMINISTRATIVE EXAMINATIONS|"ROLE: Family Medicine Physician
+
+**1) Medical Outcome:** 
+- Recommended follow-up for annual physical exam
+- Referral to optometrist for vision test (Dr. Jane Smith, due to the patient's age and previous history of nearsightedness)
+- Blood work ordered for biochemistry panel (to assess general health)
+- Lifestyle change recommendations: increased exercise, balanced diet, and stress management
+
+**2) Medical History:**
+- Previous Diagnoses: Nearsightedness, Hypertension
+- Medication History: Currently taking lisinopril 10 mg daily for hypertension
+- Allergies: None
+- Chronic Conditions: Hypertension
+
+**3) Symptom Description:**
+- Severity: N/A
+- Duration: N/A
+- Associated Symptoms: N/A
+- Frequency: N/A
+- Impact on Daily Activities: N/A
+
+**4) Patient’s self-reported habits and lifestyle:**
+- Sleep: Reports getting around 6 hours of sleep per night
+- Diet: Describes diet as ""average,"" with occasional fast food and sugary snacks
+- Exercise: Sedentary lifestyle, minimal physical activity
+- Tobacco Use: Former smoker, quit 5 years ago
+- Alcohol Consumption: Social drinker, 1-2 drinks per week
+- Drug Use: Denies any illicit drug use
+- Recreational Activities: Enjoys reading and gardening
+
+**5) Demographic Information:**
+- Age: 62
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle-class
+- Education Level: College graduate
+- Health Literacy: Adequate understanding of health information
+- Job Status: Retired
+
+**6) Patient's Behavior:**
+- Generally cooperative with medical advice, follows medication regimen, but reluctant to make significant lifestyle changes
+
+**7) Geographical Location:**
+- Urban 
+- Pollution and Environmental Health Risks: Moderate air pollution
+- Neighborhood Type: Affluent, well-served by transit and amenities
+
+**8) Clinical Setting:**
+- Private Practice
+
+**9) Type of Encounter:**
+- Routine Check-up
+
+**10) Treatment Disparities:**
+- N/A
+
+**11) Native or Non-Native English Speaking Patient:**
+- Native English-speaking patient
+
+**12) Physical exams:**
+- General physical examination including blood pressure check, heart and lung auscultation, and abdominal palpation
+
+**13) Investigation/Test results:**
+- Blood work ordered: Biochemistry panel (including lipid profile, glucose, etc.)
+- Awaiting results"|Rejected|Rejected|Rejected|Rejected
+ENCOUNTER FOR OTHER ADMINISTRATIVE EXAMINATIONS|"ROLE: Family Medicine Physician
+
+- **Medical Outcome:**
+    - Prescribed Treatment: Influenza vaccination
+    - Follow-up Recommendations: Annual check-up
+    - Referral: None
+    - Lifestyle Change: Encouraged balanced diet, regular exercise, and smoking cessation
+
+- **Medical History:**
+    - Previous Diagnoses: Hypertension
+    - Family Medical History: Father had Type 2 Diabetes, Mother had Hypertension
+    - Medication History: Lisinopril 10 mg once daily
+    - Allergies: None
+    - Chronic Conditions: Hypertension
+
+- **Symptom Description:**
+    - Severity: N/A (Administrative Examination)
+    - Duration: N/A
+    - Associated Symptoms: N/A
+    - Frequency: N/A
+    - Impact on Daily Activities: N/A
+
+- **Patient’s self-reported habits and lifestyle:**
+    - Sleep: Averages 6-7 hours per night
+    - Diet: Balanced but could improve fruit and vegetable intake
+    - Exercise: Sedentary, walks 2-3 times a week
+    - Tobacco Use: Smokes 5 cigarettes per day, attempting to quit
+    - Alcohol Consumption: Social drinking, 1-2 drinks per week
+    - Drug Use: None
+    - Recreational Activities: Enjoys gardening and reading
+
+- **Demographic Information:**
+    - Age: 50
+    - Gender: Male
+    - Ethnicity: Hispanic
+    - Socio-economic Status: Middle Class
+    - Education Level: High School Diploma
+    - Health Literacy: Moderate
+    - Job Status: Employed as a mechanic
+
+- **Patient's Behavior:**
+    - Level of cooperation: Highly cooperative with medical advice
+
+- **Geographical Location:**
+    - Big City vs Small City: Big City
+    - Rural vs Urban: Urban
+    - Pollution and Environmental Health Risks: Moderate pollution
+    - Neighborhood Type: Residential middle-class neighborhood, well-served by transit
+
+- **Clinical Setting:**
+    - Community Health Services
+
+- **Type of Encounter:**
+    - Initial Consultation
+
+- **Treatment Disparities:**
+    - None noted
+
+- **Native or Non-Native English Speaking Patient:**
+    - Native English Speaking
+
+- **Physical exams:**
+    - Vital signs: Blood pressure, heart rate, respiratory rate, temperature, BMI
+    - Cardiovascular: Regular rate and rhythm, no murmurs
+    - Respiratory: Clear to auscultation bilaterally
+    - Abdomen: Soft, non-tender, no masses
+    - Extremities: No edema
+
+- **Investigation/Test results:**
+    - None conducted in this encounter"|Rejected|Rejected|Rejected|Rejected
+ENCOUNTER FOR OTHER ADMINISTRATIVE EXAMINATIONS|"ROLE: Family Medicine Physician
+
+- **Medical Outcome:**
+    - Prescribed Treatment: Seasonal influenza vaccination
+    - Follow-up Recommendations: Bi-annual check-up
+    - Referral: Smoking cessation program
+    - Lifestyle Change: Advised to follow a low-sodium diet, increase physical activity, and limit alcohol consumption
+
+- **Medical History:**
+    - Previous Diagnoses: Hyperlipidemia
+    - Family Medical History: Brother had a myocardial infarction at age 55, Mother had breast cancer
+    - Medication History: Atorvastatin 20 mg once daily
+    - Allergies: Penicillin
+    - Chronic Conditions: Hyperlipidemia
+
+- **Symptom Description:**
+    - Severity: N/A (Administrative Examination)
+    - Duration: N/A
+    - Associated Symptoms: N/A
+    - Frequency: N/A
+    - Impact on Daily Activities: N/A
+
+- **Patient’s self-reported habits and lifestyle:**
+    - Sleep: Averages 5 hours per night
+    - Diet: High intake of processed foods and red meat
+    - Exercise: Infrequent, occasional weekend hikes
+    - Tobacco Use: Smokes 10 cigarettes per day
+    - Alcohol Consumption: Drinks 3-4 beers per weekend
+    - Drug Use: None
+    - Recreational Activities: Enjoys fishing and watching sports
+
+- **Demographic Information:**
+    - Age: 62
+    - Gender: Male
+    - Ethnicity: African American
+    - Socio-economic Status: Working-class
+    - Education Level: Trade School Diploma
+    - Health Literacy: Low
+    - Job Status: Retired construction worker
+
+- **Patient's Behavior:**
+    - Level of cooperation: Moderate, open to lifestyle changes but skeptical about medication
+
+- **Geographical Location:**
+    - Big City vs Small City: Small City
+    - Rural vs Urban: Rural
+    - Pollution and Environmental Health Risks: Low pollution, exposure to agricultural chemicals
+    - Neighborhood Type: Rural farming community, limited healthcare access, food desert
+
+- **Clinical Setting:**
+    - Urgent Care Center
+
+- **Type of Encounter:**
+    - Initial Consultation
+
+- **Treatment Disparities:**
+    - Potentially fewer medical options due to limited healthcare facilities in a rural setting
+
+- **Native or Non-Native English Speaking Patient:**
+    - Native English Speaking
+
+- **Physical exams:**
+    - Vital signs: Blood pressure, heart rate, respiratory rate, temperature, BMI
+    - Cardiovascular: Regular rate and rhythm, no murmurs
+    - Respiratory: Clear to auscultation bilaterally
+    - Abdomen: Soft, non-tender, no masses
+    - Extremities: No edema
+
+- **Investigation/Test results:**
+    - NA"|Rejected|Rejected|Rejected|Rejected
+ENCOUNTER FOR OTHER ADMINISTRATIVE EXAMINATIONS|"ROLE: Family Medicine Physician
+
+- **Medical Outcome:**
+    - Prescribed Treatment: Physical therapy sessions
+    - Follow-up Recommendations: Follow-up in 6 weeks
+    - Referral: None
+    - Lifestyle Change: Advised gentle stretching exercises and ergonomic adjustments at work
+
+- **Medical History:**
+    - Previous Diagnoses: Osteoarthritis 
+    - Family Medical History: Mother had osteoporosis, Father had chronic back pain
+    - Medication History: Over-the-counter pain relievers (Ibuprofen)
+    - Allergies: None
+    - Chronic Conditions: Osteoarthritis
+
+- **Symptom Description:**
+    - Severity: Moderate
+    - Duration: Last 3 months
+    - Associated Symptoms: Stiffness in the morning, occasional swelling
+    - Frequency: Daily
+    - Impact on Daily Activities: Difficulty in prolonged sitting and standing
+
+- **Patient’s self-reported habits and lifestyle:**
+    - Sleep: Difficulty sleeping due to pain, averages 5 hours per night
+    - Diet: Balanced with occasional fast-food intake
+    - Exercise: Sedentary lifestyle due to pain, occasional short walks
+    - Tobacco Use: None
+    - Alcohol Consumption: None
+    - Drug Use: None
+    - Recreational Activities: Enjoys knitting but limited by pain
+
+- **Demographic Information:**
+    - Age: 65
+    - Gender: Female
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Lower-middle class
+    - Education Level: Some college education
+    - Health Literacy: Moderate
+    - Job Status: Retired office clerk
+
+- **Patient's Behavior:**
+    - Level of cooperation: Highly cooperative with medical advice
+
+- **Geographical Location:**
+    - Big City vs Small City: Urban
+    - Rural vs Urban: Urban
+    - Pollution and Environmental Health Risks: Urban pollution, but not significant
+    - Neighborhood Type: Residential neighborhood, well-served by transit
+
+- **Clinical Setting:**
+    - Community Health Services
+
+- **Type of Encounter:**
+    - Initial Consultation
+
+- **Treatment Disparities:**
+    - None noted
+
+- **Native or Non-Native English Speaking Patient:**
+    - Native English Speaking
+
+- **Physical exams:**
+    - Vital signs: Blood pressure, heart rate, respiratory rate, temperature, BMI
+    - Musculoskeletal: Tenderness in the lower back, reduced range of motion in lumbar spine, slight swelling in knee joints
+
+- **Investigation/Test results:**
+    - Ordered: X-ray of the lumbar spine to rule out further complications or fractures"|Rejected|Rejected|Rejected|Rejected
+ENCOUNTER FOR OTHER ADMINISTRATIVE EXAMINATIONS|"ROLE: Family Medicine Physician
+
+1) Medical Outcome: Preventive Health Screening; blood work for biochemistry, hematology, and vitamin D levels; referral to a nutritionist for diet consultation - Dr. Jane Smith
+2) Medical History: Hypertension, high cholesterol; mother had Type 2 diabetes; currently taking antihypertensive medication; no known drug allergies; chronic back pain.
+3) Symptom Description: Generally asymptomatic but reports occasional fatigue and mild joint stiffness; symptoms are mild and sporadic without significant impact on daily activities.
+4) Patient’s self-reported habits and lifestyle: Sleeps 6 hours per night; diet high in processed foods; exercises infrequently; non-smoker; consumes alcohol socially (2-3 times a week).
+5) Demographic Information: 55-year-old male; Caucasian; middle-class socio-economic status; high school education; moderate health literacy; works as a delivery driver.
+6) Patient's Behavior: Generally compliant with medical advice and eager to improve overall health.
+7) Geographical Location: Lives in a mid-sized urban city; neighborhood is moderate-income with access to public transit; not a food desert.
+8) Clinical Setting: Routine check-up in a community clinic.
+9) Type of Encounter: Routine Check-up and Preventive Health Screening.
+10) Treatment Disparities: None noted.
+11) Native or Non-Native English Speaking Patient: Native English speaker.
+12) Physical exams: General physical exam; blood pressure monitoring; BMI assessment.
+13) Investigation/Test results: Blood work ordered for biochemistry, hematology, and vitamin D levels; results pending."|Rejected|Rejected|Rejected|Rejected
