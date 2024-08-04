@@ -1,0 +1,2741 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+ENCOUNTER FOR PREPROCEDURAL EXAMINATIONS|"ROLE: General Physician
+
+**Scenario:**
+
+1) **Medical Outcome:** 
+   - Preoperative clearance for elective cholecystectomy.
+   - Orders for blood work:
+     - Biochemistry: Complete Metabolic Panel (CMP)
+     - Hematology: Complete Blood Count (CBC)
+     - Coagulation: Prothrombin Time (PT), International Normalized Ratio (INR), and Activated Partial Thromboplastin Time (aPTT)
+
+2) **Medical History:**
+   - Previous Diagnoses: Chronic cholecystitis, Gastroesophageal Reflux Disease (GERD)
+   - Family Medical History: Mother with a history of gallstones and Father with hypertension.
+   - Medication History: Omeprazole 20 mg once daily for GERD.
+   - Allergies: Penicillin 
+   - Chronic Conditions: None
+
+3) **Symptom Description:**
+   - Severity: Mild intermittent right upper quadrant pain.
+   - Duration: Episodes lasting 1-2 hours, occurring 2-3 times a week.
+   - Associated Symptoms: Nausea, bloating.
+   - Frequency: 2-3 times a week.
+   - Impact on Daily Activities: No significant impact on daily activities but discomfort during episodes.
+
+4) **Patient’s self-reported habits and lifestyle:**
+   - Sleep: 7-8 hours per night, generally restful.
+   - Diet: Balanced diet but high-fat meals often trigger symptoms.
+   - Exercise: Regular exercise, jogging three times a week.
+   - Tobacco Use: None.
+   - Alcohol Consumption: Occasional, 1-2 drinks per week.
+   - Drug Use: None.
+   - Recreational Activities: Enjoys hiking and reading.
+
+5) **Demographic Information:**
+   - Age: 45
+   - Gender: Female
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: High 
+   - Job Status: Full-time office manager
+
+6) **Patient's Behavior:**
+   - Highly cooperative with medical advice and has been proactive in managing GERD.
+
+7) **Geographical Location:**
+   - Urban
+   - Big City, well-served by public transit.
+   - Moderately affluent neighborhood.
+
+8) **Clinical Setting:**
+   - Private Practice.
+
+9) **Type of Encounter:**
+   - Initial Consultation for Preprocedural Examination.
+
+10) **Treatment Disparities:**
+   - None noted, as patient has adequate insurance coverage and good access to healthcare services.
+
+11) **Native or Non-Native English Speaking Patient:**
+   - Native English Speaker.
+
+12) **Physical exams:**
+   - General physical exam, including abdominal palpation to check for tenderness.
+   - Cardiovascular and respiratory exams to ensure fitness for surgery.
+   
+13) **Investigation/Test results:**
+   - Blood work as mentioned, results awaited.
+   
+"|"#### MEDICAL NOTE
+
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Preoperative clearance for elective cholecystectomy.
+
+**History of Present Illness (HPI):**
+A 45-year-old Caucasian female presents for preoperative clearance for an elective cholecystectomy. The patient has a history of chronic cholecystitis and Gastroesophageal Reflux Disease (GERD), currently managed with Omeprazole 20 mg once daily. She reports mild intermittent right upper quadrant pain, with episodes lasting 1-2 hours, occurring 2-3 times a week. The pain is often accompanied by nausea and bloating. Although these episodes cause discomfort, they do not significantly impact her daily activities.
+
+**Review of Systems (ROS):**
+- Constitutional: No fever, weight loss, or fatigue.
+- Gastrointestinal: Reports mild intermittent right upper quadrant pain, nausea, and bloating. No vomiting, diarrhea, or constipation.
+- Cardiovascular: Denies chest pain, palpitations, or edema.
+- Respiratory: Denies shortness of breath or cough.
+- Musculoskeletal: No muscle cramps or joint pain.
+- Neurological: No headaches, dizziness, or syncope.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air
+
+**Physical Exam:**
+- General: Well-nourished, well-developed female, in no acute distress.
+- HEENT: Normocephalic, atraumatic. No erythema or exudate in the oropharynx.
+- Neck: No lymphadenopathy. Thyroid non-enlarged and non-tender.
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Peripheral pulses 2+ bilaterally.
+- Abdomen: Soft, non-distended. Mild tenderness in the right upper quadrant, no rebound or guarding. Bowel sounds present and normal.
+- Extremities: No edema. 
+- Neurological: Alert and oriented, normal gait, no focal deficits.
+
+**Investigations:**
+Orders for blood work placed:
+- Complete Metabolic Panel (CMP)
+- Complete Blood Count (CBC)
+- Prothrombin Time (PT)
+- International Normalized Ratio (INR)
+- Activated Partial Thromboplastin Time (aPTT)
+
+**3. Assessment:**
+
+- Chronic cholecystitis
+- Gastroesophageal Reflux Disease (GERD)
+- Preoperative clearance for elective cholecystectomy
+
+**4. Plan:**
+
+- **Medical Treatment:**
+  - Continue Omeprazole 20 mg once daily for GERD.
+
+- **Preoperative Management:**
+  - Await and review blood work results (CMP, CBC, PT, INR, aPTT) to ensure suitability for surgery.
+  - Patient education on maintaining a low-fat diet to manage symptoms of chronic cholecystitis.
+  - Emphasize the importance of fasting and preoperative instructions before the surgery.
+
+- **Follow-Up:**
+  - Schedule a follow-up appointment to review blood test results and finalize preoperative clearance.
+  - Reassess patient’s symptoms and provide additional support as needed.
+
+- **Patient Agreements:**
+  - The patient understands and agrees with the recommended medical and preoperative plan. She is aware of the need to follow specific guidelines prior to her scheduled cholecystectomy.
+
+This note provides a comprehensive overview of the patient's current health status, necessary preoperative considerations, and the medical management plan to ensure a safe and effective surgical procedure."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Preoperative clearance for elective cholecystectomy.
+
+**History of Present Illness (HPI):**
+A 45-year-old Caucasian female, named Emily Johnson, presents for preoperative clearance for an elective cholecystectomy. The patient has a history of chronic cholecystitis and Gastroesophageal Reflux Disease (GERD), currently managed with Omeprazole 20 mg once daily. She reports mild intermittent right upper quadrant pain, with episodes lasting 1-2 hours, occurring 2-3 times a week. The pain is often accompanied by nausea and bloating. Although these episodes cause discomfort, they do not significantly impact her daily activities.
+
+**Review of Systems (ROS):**
+- Constitutional: No fever, weight loss, or fatigue.
+- Gastrointestinal: Reports mild intermittent right upper quadrant pain, nausea, and bloating. No vomiting, diarrhea, or constipation.
+- Cardiovascular: Denies chest pain, palpitations, or edema.
+- Respiratory: Denies shortness of breath or cough.
+- Musculoskeletal: No muscle cramps or joint pain.
+- Neurological: No headaches, dizziness, or syncope.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air
+
+**Physical Exam:**
+- General: Well-nourished, well-developed female, in no acute distress.
+- HEENT: Normocephalic, atraumatic. No erythema or exudate in the oropharynx.
+- Neck: No lymphadenopathy. Thyroid non-enlarged and non-tender.
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops. Peripheral pulses 2+ bilaterally.
+- Abdomen: Soft, non-distended. Mild tenderness in the right upper quadrant, no rebound or guarding. Bowel sounds present and normal.
+- Extremities: No edema. 
+- Neurological: Alert and oriented, normal gait, no focal deficits.
+
+**3. Assessment:**
+
+- Chronic cholecystitis
+- Gastroesophageal Reflux Disease (GERD)
+- Preoperative clearance for elective cholecystectomy
+
+**4. Plan:**
+
+- **Medical Treatment:**
+  - Continue Omeprazole 20 mg once daily for GERD.
+
+- **Preoperative Management:**
+  - Await and review blood work results (CMP, CBC, PT, INR, aPTT) to ensure suitability for surgery.
+  - Patient education on maintaining a low-fat diet to manage symptoms of chronic cholecystitis.
+  - Emphasize the importance of fasting and preoperative instructions before the surgery.
+
+- **Follow-Up:**
+  - Schedule a follow-up appointment to review blood test results and finalize preoperative clearance.
+  - Reassess patient’s symptoms and provide additional support as needed.
+
+- **Patient Agreements:**
+  - The patient understands and agrees with the recommended medical and preoperative plan. She is aware of the need to follow specific guidelines prior to her scheduled cholecystectomy."|"**1. Subjective:**
+
+**CC:**
+Preop clearance for elective cholecystectomy.
+
+**HPI:**
+A 45 y/o Caucasian F, Emily Johnson, presents for preop clearance for elective cholecystectomy. Pt has a hx of chronic cholecystitis and GERD, currently managed with Omeprazole 20 mg QD. She reports mild intermittent RUQ pain, with episodes lasting 1-2 hrs, occurring 2-3x/week. The pain is often accompanied by nausea and bloating. Although these episodes cause discomfort, they do not significantly impact her ADLs.
+
+**ROS:**
+- Constitutional: No fever, weight loss, or fatigue.
+- GI: Reports mild intermittent RUQ pain, nausea, and bloating. No vomiting, diarrhea, or constipation.
+- CV: Denies CP, palpitations, or edema.
+- Resp: Denies SOB or cough.
+- MSK: No muscle cramps or joint pain.
+- Neuro: No HA, dizziness, or syncope.
+
+**2. Objective:**
+
+**VS:**
+- BP: 120/80 mmHg
+- HR: 72 bpm
+- RR: 16 breaths/min
+- Temp: 98.6°F
+- SpO2: 98% on RA
+
+**PE:**
+- General: Well-nourished, well-developed F, in no acute distress.
+- HEENT: NCAT. No erythema or exudate in the oropharynx.
+- Neck: No LAD. Thyroid non-enlarged and non-tender.
+- Resp: CTA bilaterally, no wheezes, rales, or rhonchi.
+- CV: RRR, no murmurs, rubs, or gallops. Peripheral pulses 2+ bilaterally.
+- Abd: Soft, non-distended. Mild tenderness in the RUQ, no rebound or guarding. BS present and normal.
+- Ext: No edema. 
+- Neuro: A&O, normal gait, no focal deficits.
+
+**3. Assessment:**
+
+- Chronic cholecystitis
+- GERD
+- Preop clearance for elective cholecystectomy
+
+**4. Plan:**
+
+- **Medical Tx:**
+  - Continue Omeprazole 20 mg QD for GERD.
+
+- **Preop Mgmt:**
+  - Await and review blood work results (CMP, CBC, PT, INR, aPTT) to ensure suitability for surgery.
+  - Pt ed on maintaining a low-fat diet to manage symptoms of chronic cholecystitis.
+  - Emphasize the importance of fasting and preop instructions before the surgery.
+
+- **F/U:**
+  - Schedule a F/U appt to review blood test results and finalize preop clearance.
+  - Reassess pt’s symptoms and provide additional support as needed.
+
+- **Pt Agreements:**
+  - Pt understands and agrees with the recommended medical and preop plan. She is aware of the need to follow specific guidelines prior to her scheduled cholecystectomy."|General Physician|"**Doctor:** Good morning! How are you doing today?
+
+**Patient:** Good morning, doctor. I’m doing alright, thank you. I’m here for preoperative clearance for my elective cholecystectomy.
+
+**Doctor:** I see. Can you tell me a bit more about the history of your present illness?
+
+**Patient:** Well, I have chronic cholecystitis and Gastroesophageal Reflux Disease, or GERD. I take Omeprazole 20 mg once daily for the GERD.
+
+**Doctor:** Alright. How have your symptoms been lately?
+
+**Patient:** I have mild intermittent pain in my right upper quadrant, usually for 1 to 2 hours. It happens about 2 to 3 times a week. It’s often accompanied by nausea and bloating.
+
+**Doctor:** And do these episodes significantly impact your daily activities?
+
+**Patient:** No, not really. They cause discomfort, but I can still carry on with my day.
+
+**Doctor:** Okay, let’s do a quick review of systems. Have you had any fever, weight loss, or fatigue?
+
+**Patient:** No, none of those.
+
+**Doctor:** How about vomiting, diarrhea, or constipation?
+
+**Patient:** No, I haven’t experienced any of those.
+
+**Doctor:** Any chest pain, palpitations, or edema?
+
+**Patient:** No, I’ve not had any of those symptoms.
+
+**Doctor:** Any shortness of breath or cough?
+
+**Patient:** No, I haven’t had shortness of breath or a cough.
+
+**Doctor:** How about muscle cramps or joint pain?
+
+**Patient:** No muscle cramps or joint pain.
+
+**Doctor:** Have you experienced any headaches, dizziness, or fainting spells?
+
+**Patient:** No, none of those.
+
+**Doctor:** Alright, let’s proceed with a physical exam. Your vital signs look good: Blood Pressure is 120/80 mmHg, Heart Rate is 72 bpm, Respiratory Rate is 16 breaths per minute, Temperature is 98.6°F, and Oxygen Saturation is 98% on room air.
+
+**Patient:** That sounds good.
+
+**Doctor:** On examination, you appear well-nourished and well-developed, and you’re in no acute distress. Your head, ears, eyes, nose, and throat are normal. No signs of erythema or exudate in the oropharynx.
+
+**Patient:** Okay.
+
+**Doctor:** Your neck shows no lymphadenopathy, and your thyroid is non-enlarged and non-tender. Your lungs are clear to auscultation bilaterally, with no wheezes, rales, or rhonchi.
+
+**Patient:** That’s good to hear.
+
+**Doctor:** Your heart has a regular rate and rhythm, with no murmurs, rubs, or gallops. Peripheral pulses are 2+ bilaterally.
+
+**Patient:** Alright.
+
+**Doctor:** Your abdomen is soft and non-distended. There is mild tenderness in the right upper quadrant but no rebound or guarding. Bowel sounds are present and normal.
+
+**Patient:** Okay.
+
+**Doctor:** Your extremities show no edema, and neurologically, you are alert and oriented with a normal gait and no focal deficits.
+
+**Patient:** That’s reassuring.
+
+**Doctor:** I’ve ordered some blood work for you: a Complete Metabolic Panel, a Complete Blood Count, Prothrombin Time, International Normalized Ratio, and Activated Partial Thromboplastin Time.
+
+**Patient:** Alright, I understand.
+
+**Doctor:** For now, continue taking Omeprazole 20 mg once daily for your GERD. We need to wait for the blood work results to ensure you're suitable for surgery.
+
+**Patient:** Okay, I’ll continue with Omeprazole.
+
+**Doctor:** I also recommend maintaining a low-fat diet to help manage your chronic cholecystitis symptoms.
+
+**Patient:** I’ll make sure to follow that.
+
+**Doctor:** It’s important to follow the fasting and preoperative instructions before your surgery. We’ll schedule a follow-up appointment to review your blood test results and finalize your preoperative clearance.
+
+**Patient:** Got it. I’ll make sure to follow the instructions.
+
+**Doctor:** Do you have any questions or concerns about the upcoming surgery or the preoperative steps?
+
+**Patient:** No, I think I understand everything. Thank you for explaining it all.
+
+**Doctor:** You’re welcome. The goal is to ensure you’re in the best possible condition for the surgery. We’ll reassess your symptoms and provide additional support if needed.
+
+**Patient:** Sounds good. Thank you, doctor.
+
+**Doctor:** You’re welcome. Take care and follow up with the scheduled appointment. We’ll see you soon to review the results.
+
+**Patient:** Will do. Thank you again.
+
+**Doctor:** Have a great day!"|"[doctor]: Good morning! How are you doing today?
+
+[patient]: Good morning, doctor. I’m doing alright, thank you. I’m here for preoperative clearance for my elective cholecystectomy.
+
+[doctor]: I see. Can you tell me a bit more about the history of your present illness?
+
+[patient]: Well, I have chronic cholecystitis and Gastroesophageal Reflux Disease, or GERD. I take Omeprazole 20 mg once daily for the GERD.
+
+[doctor]: Alright. How have your symptoms been lately?
+
+[patient]: I have mild intermittent pain in my right upper quadrant, usually for 1 to 2 hours. It happens about 2 to 3 times a week. It’s often accompanied by nausea and bloating.
+
+[doctor]: And do these episodes significantly impact your daily activities?
+
+[patient]: No, not really. They cause discomfort, but I can still carry on with my day.
+
+[doctor]: Okay, let’s do a quick review of systems. Have you had any fever, weight loss, or fatigue?
+
+[patient]: No, none of those.
+
+[doctor]: How about vomiting, diarrhea, or constipation?
+
+[patient]: No, I haven’t experienced any of those.
+
+[doctor]: Any chest pain, palpitations, or edema?
+
+[patient]: No, I’ve not had any of those symptoms.
+
+[doctor]: Any shortness of breath or cough?
+
+[patient]: No, I haven’t had shortness of breath or a cough.
+
+[doctor]: How about muscle cramps or joint pain?
+
+[patient]: No muscle cramps or joint pain.
+
+[doctor]: Have you experienced any headaches, dizziness, or fainting spells?
+
+[patient]: No, none of those.
+
+[doctor]: Alright, let’s proceed with a physical exam. Your vital signs look good: Blood Pressure is 120/80 mmHg, Heart Rate is 72 bpm, Respiratory Rate is 16 breaths per minute, Temperature is 98.6°F, and Oxygen Saturation is 98% on room air.
+
+[patient]: That sounds good.
+
+[doctor]: On examination, you appear well-nourished and well-developed, and you’re in no acute distress. Your head, ears, eyes, nose, and throat are normal. No signs of erythema or exudate in the oropharynx.
+
+[patient]: Okay.
+
+[doctor]: Your neck shows no lymphadenopathy, and your thyroid is non-enlarged and non-tender. Your lungs are clear to auscultation bilaterally, with no wheezes, rales, or rhonchi.
+
+[patient]: That’s good to hear.
+
+[doctor]: Your heart has a regular rate and rhythm, with no murmurs, rubs, or gallops. Peripheral pulses are 2+ bilaterally.
+
+[patient]: Alright.
+
+[doctor]: Your abdomen is soft and non-distended. There is mild tenderness in the right upper quadrant but no rebound or guarding. Bowel sounds are present and normal.
+
+[patient]: Okay.
+
+[doctor]: Your extremities show no edema, and neurologically, you are alert and oriented with a normal gait and no focal deficits.
+
+[patient]: That’s reassuring.
+
+[doctor]: I’ve ordered some blood work for you: a Complete Metabolic Panel, a Complete Blood Count, Prothrombin Time, International Normalized Ratio, and Activated Partial Thromboplastin Time.
+
+[patient]: Alright, I understand.
+
+[doctor]: For now, continue taking Omeprazole 20 mg once daily for your GERD. We need to wait for the blood work results to ensure you're suitable for surgery.
+
+[patient]: Okay, I’ll continue with Omeprazole.
+
+[doctor]: I also recommend maintaining a low-fat diet to help manage your chronic cholecystitis symptoms.
+
+[patient]: I’ll make sure to follow that.
+
+[doctor]: It’s important to follow the fasting and preoperative instructions before your surgery. We’ll schedule a follow-up appointment to review your blood test results and finalize your preoperative clearance.
+
+[patient]: Got it. I’ll make sure to follow the instructions.
+
+[doctor]: Do you have any questions or concerns about the upcoming surgery or the preoperative steps?
+
+[patient]: No, I think I understand everything. Thank you for explaining it all.
+
+[doctor]: You’re welcome. The goal is to ensure you’re in the best possible condition for the surgery. We’ll reassess your symptoms and provide additional support if needed.
+
+[patient]: Sounds good. Thank you, doctor.
+
+[doctor]: You’re welcome. Take care and follow up with the scheduled appointment. We’ll see you soon to review the results.
+
+[patient]: Will do. Thank you again.
+
+[doctor]: Have a great day!"
+ENCOUNTER FOR PREPROCEDURAL EXAMINATIONS|"ROLE: Family Medicine Physician
+
+Demographic Information:
+- Age: 34
+- Gender: Female
+- Ethnicity: Hispanic
+- Socio-economic Status: Low-income
+- Education Level: Some college
+- Health Literacy: Low
+- Job Status: Part-time retail worker
+
+Geographical Location:
+- Big City
+- Urban
+- Impoverished neighborhood
+- Food Desert
+
+Clinical Setting:
+- Community Health Center
+
+Type of Encounter:
+- Follow-up
+
+Medical History:
+- Previous Diagnoses: Asthma, Obesity
+- Family Medical History: Mother with Type 2 Diabetes, Father with Hypertension
+- Medication History: Albuterol inhaler, 2 puffs as needed; No other regular medications
+- Allergies: None
+- Chronic Conditions: Asthma, Obesity
+
+Symptom Description:
+- Severity: Moderate difficulty in breathing
+- Duration: Past week
+- Associated Symptoms: Wheezing, chest tightness
+- Frequency: Daily
+- Impact on Daily Activities: Difficulty performing tasks at work
+
+Patient’s self-reported habits and lifestyle:
+- Sleep: 5-6 hours per night
+- Diet: High in processed foods, low intake of fruits and vegetables
+- Exercise: Rare, occasional walking
+- Tobacco Use: Smokes 1 pack per day
+- Alcohol Consumption: Occasionally, 1-2 drinks per month
+- Drug Use: None
+- Recreational Activities: Watching TV, minimal physical activities
+
+Patient's Behavior:
+- Occasionally misses appointments and medications, moderate cooperation with medical advice
+
+Physical Exams:
+- Respiratory exam shows wheezing and decreased breath sounds in both lungs
+
+Investigation/Test results:
+- Awaiting results from spirometry done during the follow-up visit
+
+Medical Outcome:
+- Prescribed treatment: 
+   - Prednisone 20 mg, oral, once daily for 5 days for asthma exacerbation
+   - Encouraged to use Albuterol inhaler as prescribed
+- Referral to Pulmonology
+   - Reason: Persistent asthma symptoms and poor control
+   - Specialty: Pulmonology
+   - Doctor's Name: Dr. Maria Gonzalez
+- Referral for blood work:
+   - Biochemistry: Comprehensive Metabolic Panel (CMP) to monitor liver and kidney function due to medication adjustments
+   - Hematology: Complete Blood Count (CBC) to check for any underlying infections or anemia"|"### MEDICAL NOTE
+
+#### 1. Subjective
+
+**Chief Complaint (CC):**
+- Moderate difficulty in breathing.
+
+**History of Present Illness (HPI):**
+- 34-year-old Hispanic female presents for a follow-up visit due to moderate difficulty in breathing.
+- Symptoms have persisted for the past week with daily occurrences of wheezing and chest tightness. 
+- The patient reports difficulty performing tasks at work due to these symptoms.
+
+**Review of Systems (ROS):**
+- **Respiratory:** Reports wheezing and chest tightness.
+- **General:** No fever, chills, or night sweats.
+- **Cardiovascular:** Denies chest pain or palpitations.
+- **Gastrointestinal:** No nausea, vomiting, or abdominal pain.
+- **Neurological:** No headaches or dizziness.
+
+#### 2. Objective
+
+**Vital Signs:**
+- Blood Pressure: 128/84 mmHg
+- Heart Rate: 82 bpm
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 95% on room air
+
+**Physical Exam:**
+- **General:** Appears in mild respiratory distress.
+- **Respiratory:**
+  - Auscultation: Wheezing and decreased breath sounds in both lungs.
+  - No use of accessory muscles observed.
+- **Cardiovascular:**
+  - Normal heart sounds, no murmurs or gallops.
+- **Abdomen:**
+  - Soft, non-tender, no organomegaly.
+- **Extremities:**
+  - No edema.
+
+**Investigations:**
+- Awaiting results from spirometry done during the follow-up visit.
+  
+#### 3. Assessment
+
+1. **Asthma exacerbation.**
+   - **Medical Reasoning:** Moderate difficulty in breathing, daily symptoms of wheezing and chest tightness, and decreased breath sounds on exam.
+   - **Differential Diagnosis:** Chronic obstructive pulmonary disease (COPD), congestive heart failure, pneumonia.
+
+2. **Obesity.**
+   - **Medical Reasoning:** Contributing factor to asthma symptoms and overall health condition.
+  
+#### 4. Plan
+
+1. **Asthma exacerbation:**
+   - **Treatment:**
+     - Prednisone 20 mg, oral, once daily for 5 days.
+     - Continue Albuterol inhaler, 2 puffs as needed.
+   - **Patient Education and Counseling:**
+     - Educated on the importance of medication adherence.
+     - Discussed strategies to avoid asthma triggers (e.g., smoke, allergens).
+     - Advised to monitor symptoms and seek medical attention if symptoms worsen.
+   - **Referral:**
+     - Referred to Pulmonology (Dr. Maria Gonzalez) for persistent asthma symptoms and poor control.
+   - **Follow-up:**
+     - Follow-up appointment in 1 week for reassessment.
+
+2. **Obesity:**
+   - **Lifestyle Modifications:**
+     - Discussed dietary changes, including increasing the intake of fruits and vegetables and reducing processed foods.
+     - Encouraged to engage in regular physical activity, aiming for at least 30 minutes of moderate exercise most days of the week.
+   - **Referral:**
+     - Referred for dietary counseling and weight management program.
+  
+3. **Additional Testing:**
+   - **Blood Work:**
+     - Comprehensive Metabolic Panel (CMP) to monitor liver and kidney function due to medication adjustments.
+     - Complete Blood Count (CBC) to check for any underlying infections or anemia.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended medical treatment plan. She will attempt to improve medication adherence and follow up with the pulmonologist as scheduled."|"### MEDICAL NOTE
+
+#### 1. Subjective
+
+**Chief Complaint (CC):**
+- Moderate difficulty in breathing.
+
+**History of Present Illness (HPI):**
+- 34-year-old Hispanic female, Maria Hernandez, presents for a follow-up visit due to moderate difficulty in breathing.
+- Symptoms have persisted for the past week with daily occurrences of wheezing and chest tightness. 
+- The patient reports difficulty performing tasks at work due to these symptoms.
+
+**Review of Systems (ROS):**
+- **Respiratory:** Reports wheezing and chest tightness.
+- **General:** No fever, chills, or night sweats.
+- **Cardiovascular:** Denies chest pain or palpitations.
+- **Gastrointestinal:** No nausea, vomiting, or abdominal pain.
+- **Neurological:** No headaches or dizziness.
+
+#### 2. Objective
+
+**Vital Signs:**
+- Blood Pressure: 128/84 mmHg
+- Heart Rate: 82 bpm
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 95% on room air
+
+**Physical Exam:**
+- **General:** Appears in mild respiratory distress.
+- **Respiratory:**
+  - Auscultation: Wheezing and decreased breath sounds in both lungs.
+  - No use of accessory muscles observed.
+- **Cardiovascular:**
+  - Normal heart sounds, no murmurs or gallops.
+- **Abdomen:**
+  - Soft, non-tender, no organomegaly.
+- **Extremities:**
+  - No edema.
+
+**Investigations:**
+- Awaiting results from spirometry done during the follow-up visit.
+
+#### 3. Assessment
+
+1. **Asthma exacerbation.**
+   - **Medical Reasoning:** Moderate difficulty in breathing, daily symptoms of wheezing and chest tightness, and decreased breath sounds on exam.
+   - **Differential Diagnosis:** Chronic obstructive pulmonary disease (COPD), congestive heart failure, pneumonia.
+
+2. **Obesity.**
+   - **Medical Reasoning:** Contributing factor to asthma symptoms and overall health condition.
+
+#### 4. Plan
+
+1. **Asthma exacerbation:**
+   - **Treatment:**
+     - Prednisone 20 mg, oral, once daily for 5 days.
+     - Continue Albuterol inhaler, 2 puffs as needed.
+   - **Patient Education and Counseling:**
+     - Educated on the importance of medication adherence.
+     - Discussed strategies to avoid asthma triggers (e.g., smoke, allergens).
+     - Advised to monitor symptoms and seek medical attention if symptoms worsen.
+   - **Referral:**
+     - Referred to Pulmonology (Dr. Maria Gonzalez) for persistent asthma symptoms and poor control.
+   - **Follow-up:**
+     - Follow-up appointment in 1 week for reassessment.
+
+2. **Obesity:**
+   - **Lifestyle Modifications:**
+     - Discussed dietary changes, including increasing the intake of fruits and vegetables and reducing processed foods.
+     - Encouraged to engage in regular physical activity, aiming for at least 30 minutes of moderate exercise most days of the week.
+   - **Referral:**
+     - Referred for dietary counseling and weight management program with Dr. John Smith, a dietitian.
+
+3. **Additional Testing:**
+   - **Blood Work:**
+     - Comprehensive Metabolic Panel (CMP) to monitor liver and kidney function due to medication adjustments.
+     - Complete Blood Count (CBC) to check for any underlying infections or anemia.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended medical treatment plan. She will attempt to improve medication adherence and follow up with the pulmonologist as scheduled."|"### MEDICAL NOTE
+
+#### 1. Subjective
+
+**CC:**
+- Moderate dyspnea.
+
+**HPI:**
+- 34 y/o Hispanic F, Maria Hernandez, presents for f/u visit due to moderate dyspnea.
+- Sx have persisted for the past week with daily occurrences of wheezing and chest tightness.
+- Pt reports difficulty performing tasks at work due to these Sx.
+
+**ROS:**
+- **Resp:** Reports wheezing and chest tightness.
+- **Gen:** No fever, chills, or night sweats.
+- **CV:** Denies CP or palpitations.
+- **GI:** No N/V or abdominal pain.
+- **Neuro:** No HA or dizziness.
+
+#### 2. Objective
+
+**VS:**
+- BP: 128/84 mmHg
+- HR: 82 bpm
+- RR: 20 bpm
+- Temp: 98.6°F
+- SpO2: 95% on RA
+
+**PE:**
+- **Gen:** Appears in mild resp distress.
+- **Resp:**
+  - Ausc: Wheezing and decreased breath sounds bilaterally.
+  - No use of accessory muscles observed.
+- **CV:**
+  - Normal heart sounds, no murmurs or gallops.
+- **Abd:**
+  - Soft, non-tender, no organomegaly.
+- **Ext:**
+  - No edema.
+
+**Investigations:**
+- Awaiting results from spirometry done during the f/u visit.
+
+#### 3. Assessment
+
+1. **Asthma exacerbation.**
+   - **Medical Reasoning:** Moderate dyspnea, daily Sx of wheezing and chest tightness, and decreased breath sounds on exam.
+   - **DDx:** COPD, CHF, pneumonia.
+
+2. **Obesity.**
+   - **Medical Reasoning:** Contributing factor to asthma Sx and overall health condition.
+
+#### 4. Plan
+
+1. **Asthma exacerbation:**
+   - **Tx:**
+     - Prednisone 20 mg PO QD x 5 days.
+     - Continue Albuterol inhaler, 2 puffs PRN.
+   - **Pt Ed and Counseling:**
+     - Educated on the importance of med adherence.
+     - Discussed strategies to avoid asthma triggers (e.g., smoke, allergens).
+     - Advised to monitor Sx and seek medical attention if Sx worsen.
+   - **Referral:**
+     - Referred to Pulmonology (Dr. Maria Gonzalez) for persistent asthma Sx and poor control.
+   - **F/U:**
+     - F/U appointment in 1 week for reassessment.
+
+2. **Obesity:**
+   - **Lifestyle Modifications:**
+     - Discussed dietary changes, including increasing the intake of fruits and vegetables and reducing processed foods.
+     - Encouraged to engage in regular physical activity, aiming for at least 30 minutes of moderate exercise most days of the week.
+   - **Referral:**
+     - Referred for dietary counseling and weight mgmt program with Dr. John Smith, RD.
+
+3. **Additional Testing:**
+   - **Blood Work:**
+     - CMP to monitor liver and kidney function due to med adjustments.
+     - CBC to check for any underlying infections or anemia.
+
+**Pt Agreements:**
+- The pt understands and agrees with the recommended medical Tx plan. She will attempt to improve med adherence and F/U with the pulmonologist as scheduled."|Family Medicine Physician|"### CONVERSATION
+
+#### Doctor: 
+Hey, how are you doing today?
+
+#### Patient: 
+Hi, I'm okay. I've been having some trouble breathing though.
+
+#### Doctor: 
+I see. You mentioned moderate difficulty in breathing. Can you tell me more about that?
+
+#### Patient: 
+Sure, it's been going on for about a week now. I feel wheezing and chest tightness every day, and it's been hard to do my work because of it.
+
+#### Doctor: 
+Hmm, that sounds concerning. Have you experienced any fever, chills, or night sweats?
+
+#### Patient: 
+No, no fever or chills. And definitely no night sweats.
+
+#### Doctor: 
+Okay, that's good to know. Any chest pain or palpitations?
+
+#### Patient: 
+No, I haven't had any chest pain or palpitations.
+
+#### Doctor: 
+Alright. How about any nausea, vomiting, or abdominal pain?
+
+#### Patient: 
+No, none of those either.
+
+#### Doctor: 
+Any headaches or dizziness?
+
+#### Patient: 
+No, no headaches or dizziness.
+
+#### Doctor: 
+Great, thanks for that information. Let's check your vitals. Your blood pressure is 128/84 mmHg, heart rate is 82 bpm, respiratory rate is 20 breaths per minute, and your temperature is 98.6°F. Oxygen saturation is 95% on room air. 
+
+#### Patient: 
+Okay.
+
+#### Doctor: 
+You appear to be in mild respiratory distress. When I listen to your lungs, I hear wheezing and decreased breath sounds in both lungs. You’re not using your accessory muscles to breathe, which is a good sign.
+
+#### Patient: 
+What does that mean?
+
+#### Doctor: 
+It means you're having some trouble breathing, but it's not so severe that you're using extra muscles to help you breathe. Your heart sounds are normal, no murmurs or gallops. Your abdomen is soft and non-tender, no organomegaly, and there’s no edema in your extremities.
+
+#### Patient: 
+Okay, that’s a relief.
+
+#### Doctor: 
+We’re still waiting for the spirometry results from your follow-up visit. This will help us assess your lung function further.
+
+#### Patient: 
+Got it.
+
+#### Doctor: 
+Based on your symptoms and physical exam, I believe you're experiencing an asthma exacerbation. It’s causing moderate difficulty in breathing, wheezing, and chest tightness. Your decreased breath sounds on exam support this.
+
+#### Patient: 
+That makes sense. What else could it be?
+
+#### Doctor: 
+We also need to consider other conditions like chronic obstructive pulmonary disease (COPD), congestive heart failure, or pneumonia. But given your history and symptoms, asthma exacerbation seems most likely.
+
+#### Patient: 
+Okay.
+
+#### Doctor: 
+You also have obesity, which can worsen asthma symptoms and overall health condition.
+
+#### Patient: 
+Yeah, I know I need to work on that.
+
+#### Doctor: 
+For your asthma exacerbation, I’m prescribing Prednisone 20 mg, oral, once daily for 5 days. Continue using your Albuterol inhaler, 2 puffs as needed.
+
+#### Patient: 
+Alright.
+
+#### Doctor: 
+It's crucial that you adhere to your medication regimen. Avoiding asthma triggers like smoke and allergens is also important. Monitor your symptoms closely and seek medical attention if they worsen.
+
+#### Patient: 
+I will. 
+
+#### Doctor: 
+I’m referring you to a pulmonologist, Dr. Maria Gonzalez, for your persistent asthma symptoms and poor control.
+
+#### Patient: 
+Okay, I’ll follow up with her.
+
+#### Doctor: 
+We’ll need to see you again in a week for reassessment.
+
+#### Patient: 
+Got it.
+
+#### Doctor: 
+Now, about your obesity. We should discuss some lifestyle changes. Increasing your intake of fruits and vegetables and reducing processed foods will help.
+
+#### Patient: 
+I can do that.
+
+#### Doctor: 
+I also encourage you to engage in regular physical activity. Aim for at least 30 minutes of moderate exercise most days of the week.
+
+#### Patient: 
+I’ll try my best.
+
+#### Doctor: 
+I’m referring you for dietary counseling and a weight management program.
+
+#### Patient: 
+Thank you, I need that support.
+
+#### Doctor: 
+Additionally, I want to do some blood work. A comprehensive metabolic panel (CMP) to monitor your liver and kidney function, and a complete blood count (CBC) to check for any underlying infections or anemia.
+
+#### Patient: 
+Okay, that sounds good.
+
+#### Doctor: 
+Do you have any questions about the plan?
+
+#### Patient: 
+No, I think you've covered everything. 
+
+#### Doctor: 
+Great. So, you’ll take the Prednisone, continue the Albuterol, follow up with Dr. Gonzalez, and make those lifestyle changes we talked about. We’ll see you in a week for follow-up.
+
+#### Patient: 
+Yes, I’ll do all that.
+
+#### Doctor: 
+Perfect. My nurse will come in and get you started on the paperwork and blood work. 
+
+#### Patient: 
+Thank you, Doctor.
+
+#### Doctor: 
+You're welcome. Take care and see you next week.
+
+#### Patient: 
+Thanks. Bye."|"#### [doctor]: 
+Hey, how are you doing today?
+
+#### [patient]: 
+Hi, I'm okay. I've been having some trouble breathing though.
+
+#### [doctor]: 
+I see. You mentioned moderate difficulty in breathing. Can you tell me more about that?
+
+#### [patient]: 
+Sure, it's been going on for about a week now. I feel wheezing and chest tightness every day, and it's been hard to do my work because of it.
+
+#### [doctor]: 
+Hmm, that sounds concerning. Have you experienced any fever, chills, or night sweats?
+
+#### [patient]: 
+No, no fever or chills. And definitely no night sweats.
+
+#### [doctor]: 
+Okay, that's good to know. Any chest pain or palpitations?
+
+#### [patient]: 
+No, I haven't had any chest pain or palpitations.
+
+#### [doctor]: 
+Alright. How about any nausea, vomiting, or abdominal pain?
+
+#### [patient]: 
+No, none of those either.
+
+#### [doctor]: 
+Any headaches or dizziness?
+
+#### [patient]: 
+No, no headaches or dizziness.
+
+#### [doctor]: 
+Great, thanks for that information. Let's check your vitals. Your blood pressure is 128/84 mmHg, heart rate is 82 bpm, respiratory rate is 20 breaths per minute, and your temperature is 98.6°F. Oxygen saturation is 95% on room air. 
+
+#### [patient]: 
+Okay.
+
+#### [doctor]: 
+You appear to be in mild respiratory distress. When I listen to your lungs, I hear wheezing and decreased breath sounds in both lungs. You’re not using your accessory muscles to breathe, which is a good sign.
+
+#### [patient]: 
+What does that mean?
+
+#### [doctor]: 
+It means you're having some trouble breathing, but it's not so severe that you're using extra muscles to help you breathe. Your heart sounds are normal, no murmurs or gallops. Your abdomen is soft and non-tender, no organomegaly, and there’s no edema in your extremities.
+
+#### [patient]: 
+Okay, that’s a relief.
+
+#### [doctor]: 
+We’re still waiting for the spirometry results from your follow-up visit. This will help us assess your lung function further.
+
+#### [patient]: 
+Got it.
+
+#### [doctor]: 
+Based on your symptoms and physical exam, I believe you're experiencing an asthma exacerbation. It’s causing moderate difficulty in breathing, wheezing, and chest tightness. Your decreased breath sounds on exam support this.
+
+#### [patient]: 
+That makes sense. What else could it be?
+
+#### [doctor]: 
+We also need to consider other conditions like chronic obstructive pulmonary disease (COPD), congestive heart failure, or pneumonia. But given your history and symptoms, asthma exacerbation seems most likely.
+
+#### [patient]: 
+Okay.
+
+#### [doctor]: 
+You also have obesity, which can worsen asthma symptoms and overall health condition.
+
+#### [patient]: 
+Yeah, I know I need to work on that.
+
+#### [doctor]: 
+For your asthma exacerbation, I’m prescribing Prednisone 20 mg, oral, once daily for 5 days. Continue using your Albuterol inhaler, 2 puffs as needed.
+
+#### [patient]: 
+Alright.
+
+#### [doctor]: 
+It's crucial that you adhere to your medication regimen. Avoiding asthma triggers like smoke and allergens is also important. Monitor your symptoms closely and seek medical attention if they worsen.
+
+#### [patient]: 
+I will. 
+
+#### [doctor]: 
+I’m referring you to a pulmonologist, Dr. Maria Gonzalez, for your persistent asthma symptoms and poor control.
+
+#### [patient]: 
+Okay, I’ll follow up with her.
+
+#### [doctor]: 
+We’ll need to see you again in a week for reassessment.
+
+#### [patient]: 
+Got it.
+
+#### [doctor]: 
+Now, about your obesity. We should discuss some lifestyle changes. Increasing your intake of fruits and vegetables and reducing processed foods will help.
+
+#### [patient]: 
+I can do that.
+
+#### [doctor]: 
+I also encourage you to engage in regular physical activity. Aim for at least 30 minutes of moderate exercise most days of the week.
+
+#### [patient]: 
+I’ll try my best.
+
+#### [doctor]: 
+I’m referring you for dietary counseling and a weight management program.
+
+#### [patient]: 
+Thank you, I need that support.
+
+#### [doctor]: 
+Additionally, I want to do some blood work. A comprehensive metabolic panel (CMP) to monitor your liver and kidney function, and a complete blood count (CBC) to check for any underlying infections or anemia.
+
+#### [patient]: 
+Okay, that sounds good.
+
+#### [doctor]: 
+Do you have any questions about the plan?
+
+#### [patient]: 
+No, I think you've covered everything. 
+
+#### [doctor]: 
+Great. So, you’ll take the Prednisone, continue the Albuterol, follow up with Dr. Gonzalez, and make those lifestyle changes we talked about. We’ll see you in a week for follow-up.
+
+#### [patient]: 
+Yes, I’ll do all that.
+
+#### [doctor]: 
+Perfect. My nurse will come in and get you started on the paperwork and blood work. 
+
+#### [patient]: 
+Thank you, Doctor.
+
+#### [doctor]: 
+You're welcome. Take care and see you next week.
+
+#### [patient]: 
+Thanks. Bye."
+ENCOUNTER FOR PREPROCEDURAL EXAMINATIONS|"ROLE: Family Medicine Physician
+
+- Medical Outcome:
+  - Diagnosis: Anemia, unspecified (ICD-10: D64.9).
+  - Prescribed treatment: Ferrous sulfate 325 mg, tablets, oral, once daily, quantity: 90 tablets.
+  - Referral for further tests: Blood work including hematology (complete blood count, iron levels, ferritin, and reticulocyte count).
+  - Follow-up visit scheduled for 1 month to recheck blood work and assess symptom improvement.
+- Medical History:
+  - Previous Diagnoses: Crohn's Disease, Iron Deficiency Anemia.
+  - Family Medical History: Sibling with Crohn's Disease, Mother with Rheumatoid Arthritis.
+  - Medication History: Mesalamine 2.4 g daily for Crohn's Disease. No known drug allergies.
+  - Allergies: Penicillin.
+  - Chronic Conditions: Crohn's Disease.
+- Symptom Description:
+  - Severity: Moderate fatigue, dizziness, and shortness of breath.
+  - Duration: 4 months.
+  - Associated Symptoms: Pale skin, brittle nails, restless leg syndrome.
+  - Frequency: Daily.
+  - Impact on Daily Activities: Difficulty concentrating at work, requires frequent breaks to rest.
+- Patient’s self-reported habits and lifestyle:
+  - Sleep: 7-8 hours per night, but still feels tired during the day.
+  - Diet: Reduced red meat intake due to gastrointestinal discomfort.
+  - Exercise: Limited by fatigue, occasional light yoga.
+  - Tobacco Use: Non-smoker.
+  - Alcohol Consumption: Social drinker, 1-2 drinks per month.
+  - Drug Use: None.
+  - Recreational Activities: Enjoys hiking but limited by current symptoms.
+- Demographic Information:
+  - Age: 35 years.
+  - Gender: Female.
+  - Ethnicity: Asian.
+  - Socio-economic Status: Lower-middle class.
+  - Education Level: High school graduate.
+  - Health Literacy: Moderate.
+  - Job Status: Waitress.
+- Patient's Behavior:
+  - Generally adheres to medical advice but requires reminders for medication adherence.
+- Geographical Location:
+  - Rural setting, Small City.
+  - Limited access to specialized healthcare services.
+  - Well-served by public transit but limited health food options.
+- Clinical Setting:
+  - Community Health Services.
+- Type of Encounter:
+  - Chronic Disease Management.
+- Native or Non-Native English Speaking Patient:
+  - Native English speaker.
+- Physical exams:
+  - General physical examination performed.
+  - Notable for pallor and brittle nails.
+  - Abdominal examination normal.
+  - Cardiovascular and respiratory examination normal.
+- Investigation/Test results:
+  - Awaiting results of blood work including complete blood count, iron levels, ferritin, and reticulocyte count.
+- Treatment Disparities:
+  - Limited access to specialized care and affordable healthy food options due to geographical location and socio-economic status."|"#####
+**Subjective:**
+
+- **Chief Complaint (CC):**
+  Fatigue, dizziness, and shortness of breath.
+
+- **History of Present Illness (HPI):**
+  The patient is a 35-year-old Asian female presenting with a 4-month history of moderate fatigue, dizziness, and shortness of breath. She reports daily symptoms, including pale skin, brittle nails, and restless leg syndrome. The symptoms have considerably impacted her daily activities, making it difficult for her to concentrate at work, and she requires frequent breaks to rest.
+
+- **Review of Systems (ROS):**
+  - **Constitutional:** Positive for fatigue.
+  - **Skin:** Positive for pallor and brittle nails.
+  - **Cardiovascular:** Negative for chest pain or palpitations.
+  - **Respiratory:** Positive for shortness of breath.
+  - **Gastrointestinal:** Negative for abdominal pain or changes in bowel habits.
+  - **Neurological:** Positive for dizziness and restless leg syndrome.
+
+**Objective:**
+
+- **Vitals:**
+  - BP: 110/70 mmHg
+  - HR: 80 bpm
+  - RR: 18 breaths/min
+  - Temp: 98.6°F
+  - BMI: 22.0 kg/m²
+
+- **Physical Examination:**
+  - **General Appearance:** Notable for pallor.
+  - **Skin:** Pale skin and brittle nails observed.
+  - **Abdominal Exam:** Normal, no tenderness or masses.
+  - **Cardiovascular:** Normal S1 and S2, no murmurs or gallops.
+  - **Respiratory:** Clear to auscultation bilaterally, no wheezing or crackles.
+  - **Neurological:** Alert and oriented, no focal deficits.
+
+- **Results:**
+  - Awaiting results of blood work including complete blood count, iron levels, ferritin, and reticulocyte count.
+
+**Assessment:**
+
+- **Primary Diagnosis:**
+  Anemia, unspecified (ICD-10: D64.9), suspected to be secondary to iron deficiency, potentially exacerbated by underlying Crohn's Disease.
+
+**Plan:**
+
+1. **Medication:**
+   - Start Ferrous sulfate 325 mg, tablets, oral, once daily, quantity: 90 tablets.
+
+2. **Further Tests:**
+   - Referral for blood work including complete blood count, iron levels, ferritin, and reticulocyte count.
+
+3. **Recommendations:**
+   - Dietary advice focusing on increasing iron-rich food intake, within the comfort of her gastrointestinal symptoms.
+   - Education on the importance of medication adherence and setting reminders if necessary.
+
+4. **Follow-Up:**
+   - Scheduled a follow-up visit in 1 month to recheck blood work and assess symptom improvement.
+
+5. **Referral:**
+   - Considering her chronic conditions and socio-economic status, a referral to a nutritionist for dietary management may be beneficial, and continuous monitoring of her Crohn's Disease is recommended.
+
+**Instructions:**
+
+- The patient was advised to take the ferrous sulfate with vitamin C to enhance absorption and avoid taking it with calcium-rich foods or beverages.
+- The patient was educated about potential side effects of iron supplements, such as gastrointestinal discomfort, and advised to take them with food if needed.
+- Discussed the limited access to specialized care and healthy food options due to geographical location and socio-economic status, and encouraged utilization of available community resources for support."|"#####
+**Subjective:**
+
+- **Chief Complaint (CC):**
+  Fatigue, dizziness, and shortness of breath.
+
+- **History of Present Illness (HPI):**
+  The patient, named Mei Lin, is a 35-year-old Asian female presenting with a 4-month history of moderate fatigue, dizziness, and shortness of breath. She reports daily symptoms, including pale skin, brittle nails, and restless leg syndrome. The symptoms have considerably impacted her daily activities, making it difficult for her to concentrate at work, and she requires frequent breaks to rest.
+
+- **Review of Systems (ROS):**
+  - **Constitutional:** Positive for fatigue.
+  - **Skin:** Positive for pallor and brittle nails.
+  - **Cardiovascular:** Negative for chest pain or palpitations.
+  - **Respiratory:** Positive for shortness of breath.
+  - **Gastrointestinal:** Negative for abdominal pain or changes in bowel habits.
+  - **Neurological:** Positive for dizziness and restless leg syndrome.
+
+**Objective:**
+
+- **Vitals:**
+  - BP: 110/70 mmHg
+  - HR: 80 bpm
+  - RR: 18 breaths/min
+  - Temp: 98.6°F
+  - BMI: 22.0 kg/m²
+
+- **Physical Examination:**
+  - **General Appearance:** Notable for pallor.
+  - **Skin:** Pale skin and brittle nails observed.
+  - **Abdominal Exam:** Normal, no tenderness or masses.
+  - **Cardiovascular:** Normal S1 and S2, no murmurs or gallops.
+  - **Respiratory:** Clear to auscultation bilaterally, no wheezing or crackles.
+  - **Neurological:** Alert and oriented, no focal deficits.
+
+**Assessment:**
+
+- **Primary Diagnosis:**
+  Anemia, unspecified (ICD-10: D64.9), suspected to be secondary to iron deficiency, potentially exacerbated by underlying Crohn's Disease.
+
+**Plan:**
+
+1. **Medication:**
+   - Start Ferrous sulfate 325 mg, tablets, oral, once daily, quantity: 90 tablets.
+
+2. **Further Tests:**
+   - Referral for blood work including complete blood count, iron levels, ferritin, and reticulocyte count.
+
+3. **Recommendations:**
+   - Dietary advice focusing on increasing iron-rich food intake, within the comfort of her gastrointestinal symptoms.
+   - Education on the importance of medication adherence and setting reminders if necessary.
+
+4. **Follow-Up:**
+   - Scheduled a follow-up visit in 1 month to recheck blood work and assess symptom improvement.
+
+5. **Referral:**
+   - Referral to Dr. Sarah Thompson, a nutritionist, for dietary management.
+   - Referral to Dr. John Patel, a gastroenterologist, for continuous monitoring of her Crohn's Disease.
+
+**Instructions:**
+
+- The patient was advised to take the ferrous sulfate with vitamin C to enhance absorption and avoid taking it with calcium-rich foods or beverages.
+- The patient was educated about potential side effects of iron supplements, such as gastrointestinal discomfort, and advised to take them with food if needed.
+- Discussed the limited access to specialized care and healthy food options due to geographical location and socio-economic status, and encouraged utilization of available community resources for support."|"#####
+**Subjective:**
+
+- **CC:**
+  Fatigue, dizziness, and SOB.
+
+- **HPI:**
+  The pt, named Mei Lin, is a 35 y/o Asian F presenting with a 4-month hx of moderate fatigue, dizziness, and SOB. She reports daily sx, including pale skin, brittle nails, and RLS. The sx have considerably impacted her daily activities, making it difficult for her to concentrate at work, and she requires frequent breaks to rest.
+
+- **ROS:**
+  - **Constitutional:** +fatigue.
+  - **Skin:** +pallor and brittle nails.
+  - **CV:** -CP or palpitations.
+  - **Resp:** +SOB.
+  - **GI:** -abdominal pain or changes in bowel habits.
+  - **Neuro:** +dizziness and RLS.
+
+**Objective:**
+
+- **Vitals:**
+  - BP: 110/70 mmHg
+  - HR: 80 bpm
+  - RR: 18 breaths/min
+  - Temp: 98.6°F
+  - BMI: 22.0 kg/m²
+
+- **PE:**
+  - **General Appearance:** Notable for pallor.
+  - **Skin:** Pale skin and brittle nails observed.
+  - **Abd Exam:** Normal, no tenderness or masses.
+  - **CV:** Normal S1 and S2, no murmurs or gallops.
+  - **Resp:** Clear to auscultation bilaterally, no wheezing or crackles.
+  - **Neuro:** Alert and oriented, no focal deficits.
+
+**Assessment:**
+
+- **Primary Dx:**
+  Anemia, unspecified (ICD-10: D64.9), suspected to be 2° to iron deficiency, potentially exacerbated by underlying Crohn's Dz.
+
+**Plan:**
+
+1. **Rx:**
+   - Start ferrous sulfate 325 mg, tabs, PO, QD, qty: 90 tabs.
+
+2. **Further Tests:**
+   - Referral for blood work including CBC, iron levels, ferritin, and retic count.
+
+3. **Recommendations:**
+   - Dietary advice focusing on increasing iron-rich food intake, within the comfort of her GI sx.
+   - Education on the importance of med adherence and setting reminders if necessary.
+
+4. **F/U:**
+   - Scheduled a F/U visit in 1 month to recheck blood work and assess sx improvement.
+
+5. **Referral:**
+   - Referral to Dr. Sarah Thompson, a nutritionist, for dietary mgmt.
+   - Referral to Dr. John Patel, a GI specialist, for continuous monitoring of her Crohn's Dz.
+
+**Instructions:**
+
+- The pt was advised to take the ferrous sulfate with vitamin C to enhance absorption and avoid taking it with calcium-rich foods or beverages.
+- The pt was educated about potential SE of iron supplements, such as GI discomfort, and advised to take them with food if needed.
+- Discussed the limited access to specialized care and healthy food options due to geographical location and socio-economic status, and encouraged utilization of available community resources for support."|Family Medicine Physician|"**Doctor:** Hi there, how are you today?
+
+**Patient:** Hi, I'm okay, but I've been feeling quite unwell lately.
+
+**Doctor:** I'm sorry to hear that. What seems to be the problem?
+
+**Patient:** Well, I've been experiencing a lot of fatigue, dizziness, and shortness of breath for the past four months.
+
+**Doctor:** That sounds tough. Can you tell me more about these symptoms?
+
+**Patient:** Sure. The fatigue is pretty much constant; I feel tired all the time. I get dizzy quite frequently, and even small tasks make me short of breath. It's really impacting my daily life.
+
+**Doctor:** Have you noticed any other symptoms?
+
+**Patient:** Yes, my skin looks really pale, my nails are quite brittle, and I've been having restless leg syndrome.
+
+**Doctor:** How often do you experience these symptoms?
+
+**Patient:** Daily. It's gotten to the point where I struggle to concentrate at work and need frequent breaks to rest.
+
+**Doctor:** That must be very challenging. Let’s go through some more details. Have you had any chest pain or palpitations?
+
+**Patient:** No, I haven't had any chest pain or palpitations.
+
+**Doctor:** How about any abdominal pain or changes in your bowel habits?
+
+**Patient:** No abdominal pain or changes in bowel habits.
+
+**Doctor:** Any other neurological symptoms besides dizziness and restless leg syndrome?
+
+**Patient:** No, just those.
+
+**Doctor:** Okay, thank you for sharing that. Let’s take a look at your vital signs. Your blood pressure is 110/70 mmHg, heart rate is 80 bpm, respiratory rate is 18 breaths per minute, and your temperature is 98.6°F. Your BMI is 22.0 kg/m², which is within the normal range.
+
+**Patient:** Alright.
+
+**Doctor:** On physical examination, I did notice that your skin is quite pale, and your nails are brittle. Your abdominal exam was normal with no tenderness or masses. Your cardiovascular exam showed normal S1 and S2 heart sounds, without any murmurs or gallops. Your respiratory exam was clear with no wheezing or crackles. Neurologically, you are alert and oriented with no focal deficits.
+
+**Patient:** Okay.
+
+**Doctor:** We are currently awaiting the results of your blood work, which includes a complete blood count, iron levels, ferritin, and reticulocyte count. Based on what you've described and my examination, I suspect you might have anemia, potentially due to iron deficiency. 
+
+**Patient:** Anemia? That sounds serious.
+
+**Doctor:** It can be, but it's treatable. I'm going to prescribe you Ferrous sulfate 325 mg tablets to take once daily. This should help increase your iron levels.
+
+**Patient:** Alright, I can do that.
+
+**Doctor:** Additionally, I recommend that you increase your intake of iron-rich foods, such as red meat, beans, and leafy green vegetables. Make sure to take the iron tablets with vitamin C to enhance absorption and avoid taking them with calcium-rich foods or beverages.
+
+**Patient:** Got it.
+
+**Doctor:** Be aware that iron supplements can sometimes cause gastrointestinal discomfort. If you experience this, try taking them with food.
+
+**Patient:** Okay, I will.
+
+**Doctor:** We’ll schedule a follow-up visit in one month to recheck your blood work and see how your symptoms are improving.
+
+**Patient:** Sounds good.
+
+**Doctor:** Considering your chronic conditions and socio-economic status, a referral to a nutritionist might be beneficial for dietary management, and continuous monitoring of your Crohn's Disease is recommended.
+
+**Patient:** Thank you, I appreciate that.
+
+**Doctor:** You’re welcome. If you have any questions or need further support, please don't hesitate to reach out. My nurse will provide you with the prescription and additional instructions.
+
+**Patient:** Thank you, Doctor.
+
+**Doctor:** Take care, and see you in a month."|"[doctor]: Hi there, how are you today?
+
+[patient]: Hi, I'm okay, but I've been feeling quite unwell lately.
+
+[doctor]: I'm sorry to hear that. What seems to be the problem?
+
+[patient]: Well, I've been experiencing a lot of fatigue, dizziness, and shortness of breath for the past four months.
+
+[doctor]: That sounds tough. Can you tell me more about these symptoms?
+
+[patient]: Sure. The fatigue is pretty much constant; I feel tired all the time. I get dizzy quite frequently, and even small tasks make me short of breath. It's really impacting my daily life.
+
+[doctor]: Have you noticed any other symptoms?
+
+[patient]: Yes, my skin looks really pale, my nails are quite brittle, and I've been having restless leg syndrome.
+
+[doctor]: Hmm, I see. How often do you experience these symptoms?
+
+[patient]: Daily. It's gotten to the point where I struggle to concentrate at work and need frequent breaks to rest.
+
+[doctor]: That must be very challenging. Let’s go through some more details. Have you had any chest pain or palpitations?
+
+[patient]: No, I haven't had any chest pain or palpitations.
+
+[doctor]: How about any abdominal pain or changes in your bowel habits?
+
+[patient]: No abdominal pain or changes in bowel habits.
+
+[doctor]: Any other neurological symptoms besides dizziness and restless leg syndrome?
+
+[patient]: No, just those.
+
+[doctor]: Okay, thank you for sharing that. Let’s take a look at your vital signs. Your blood pressure is 110/70 mmHg, heart rate is 80 bpm, respiratory rate is 18 breaths per minute, and your temperature is 98.6°F. Your BMI is 22.0 kg/m², which is within the normal range.
+
+[patient]: Alright.
+
+[doctor]: On physical examination, I did notice that your skin is quite pale, and your nails are brittle. Your abdominal exam was normal with no tenderness or masses. Your cardiovascular exam showed normal S1 and S2 heart sounds, without any murmurs or gallops. Your respiratory exam was clear with no wheezing or crackles. Neurologically, you are alert and oriented with no focal deficits.
+
+[patient]: Okay.
+
+[doctor]: We are currently awaiting the results of your blood work, which includes a complete blood count, iron levels, ferritin, and reticulocyte count. Based on what you've described and my examination, I suspect you might have anemia, potentially due to iron deficiency. 
+
+[patient]: Anemia? That sounds serious.
+
+[doctor]: It can be, but it's treatable. I'm going to prescribe you Ferrous sulfate 325 mg tablets to take once daily. This should help increase your iron levels.
+
+[patient]: Alright, I can do that.
+
+[doctor]: Additionally, I recommend that you increase your intake of iron-rich foods, such as red meat, beans, and leafy green vegetables. Make sure to take the iron tablets with vitamin C to enhance absorption and avoid taking them with calcium-rich foods or beverages.
+
+[patient]: Got it.
+
+[doctor]: Be aware that iron supplements can sometimes cause gastrointestinal discomfort. If you experience this, try taking them with food.
+
+[patient]: Okay, I will.
+
+[doctor]: We’ll schedule a follow-up visit in one month to recheck your blood work and see how your symptoms are improving.
+
+[patient]: Sounds good.
+
+[doctor]: Considering your chronic conditions and socio-economic status, a referral to a nutritionist might be beneficial for dietary management, and continuous monitoring of your Crohn's Disease is recommended.
+
+[patient]: Thank you, I appreciate that.
+
+[doctor]: You’re welcome. If you have any questions or need further support, please don't hesitate to reach out. My nurse will provide you with the prescription and additional instructions.
+
+[patient]: Thank you, Doctor.
+
+[doctor]: Take care, and see you in a month."
+ENCOUNTER FOR PREPROCEDURAL EXAMINATIONS|"ROLE: Family Medicine Physician
+
+Demographic Information:
+- Age: 45
+- Gender: Male
+- Ethnicity: African American
+- Socio-economic Status: Lower Middle Class
+- Education Level: College Graduate
+- Health Literacy: Low
+- Job Status: Warehouse Worker
+
+Medical History:
+- Previous Diagnoses: Obesity, Gastroesophageal Reflux Disease (GERD)
+- Family Medical History: Mother had Colon Cancer, Father had Hypertension
+- Medication History: Omeprazole 20mg orally once daily, Multivitamin daily
+- Allergies: No known drug allergies
+- Chronic Conditions: Obesity, GERD
+
+Type of Encounter:
+- Preprocedural Examination prior to scheduled colonoscopy due to family history of Colon Cancer
+
+Clinical Setting:
+- Community Health Services
+
+Patient’s self-reported habits and lifestyle:
+- Sleep: 5-6 hours per night, poor quality
+- Diet: High in carbohydrates and fats, frequently eats fast food, low in fiber
+- Exercise: Rarely exercises, sedentary job
+- Tobacco Use: Smokes 10 cigarettes a day
+- Alcohol Consumption: Drinks 2-3 beers daily
+- Drug Use: None
+- Recreational Activities: Watches TV, plays video games
+
+Geographical Location:
+- Big City
+- Impoverished Neighborhood
+- High pollution and environmental health risks
+
+Patient's Behavior:
+- Occasionally adheres to medical advice, frequently misses follow-up appointments
+
+Symptom Description:
+- Severity: N/A
+- Duration: N/A
+- Associated Symptoms: N/A
+- Frequency: N/A
+- Impact on Daily Activities: N/A
+
+Native or Non-Native English Speaking Patient:
+- Native English Speaking Patient
+
+Physical exams:
+- General physical examination including abdominal examination and vital signs
+
+Investigation/Test Results:
+- Blood Work: Biochemistry for preoperative evaluation including liver function tests, lipid profile, and fasting glucose level.
+- Imaging: Abdominal ultrasound to rule out any liver abnormalities due to fatty liver disease (associated with obesity and poor dietary habits).
+
+Medical Outcome:
+- Diagnosis: Encounter for preprocedural examinations.
+- Prescribed Treatment: N/A for this encounter.
+- Follow-up Recommendations: Schedule an appointment for review of preoperative tests 5 days prior to the procedure.
+- Referral: Referral to a gastroenterologist (Dr. Smith) for pre-procedural evaluation before the colonoscopy.
+- Order for blood work: Liver function tests, lipid profile, and fasting glucose level.
+- Order for Imaging: Abdominal ultrasound for evaluation of liver status.
+
+This scenario incorporates the feedback and ensures variability across the required variables."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+- Encounter for preprocedural examination prior to scheduled colonoscopy due to family history of colon cancer.
+
+**History of Present Illness (HPI):**
+- 45-year-old African American male with a history of obesity and GERD presents for a preprocedural examination. The patient is scheduled for a colonoscopy due to his family history of colon cancer. No current symptoms reported.
+
+**Review of Systems (ROS):**
+- Constitutional: Reports poor sleep quality (5-6 hours per night). Denies fever, weight loss, or chills.
+- Gastrointestinal: Denies current abdominal pain, nausea, vomiting, or changes in bowel habits. History of GERD managed with omeprazole 20 mg daily.
+- Cardiovascular: Denies chest pain or palpitations.
+- Respiratory: Denies shortness of breath, cough, or wheezing.
+- Musculoskeletal: Denies joint pain or muscle aches.
+
+**2. Objective:**
+
+**VITALS:**
+- Blood Pressure (BP): 140/88 mmHg
+- Heart Rate (HR): 88 bpm
+- Respiratory Rate (RR): 18 breaths per minute
+- Temperature: 98.6°F
+- BMI: 32 kg/m² (Obese category)
+
+**PHYSICAL EXAM:**
+
+**General:**
+- Alert, no acute distress.
+
+**HEENT:**
+- Normocephalic, atraumatic, no oropharyngeal abnormalities.
+
+**Respiratory:**
+- Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+
+**Cardiovascular:**
+- Regular rate and rhythm, no murmurs, rubs, or gallops.
+
+**Gastrointestinal:**
+- Soft, non-tender, no rebound or guarding. No hepatosplenomegaly. Bowel sounds present and normal in all quadrants.
+
+**Musculoskeletal:**
+- Full range of motion in all extremities, strength 5/5 bilaterally.
+
+**3. Assessment:**
+
+- Preprocedural examination for scheduled colonoscopy.
+  - Medical Reasoning: Patient's family history of colon cancer necessitates a colonoscopy. No current symptoms indicating an acute issue but requires evaluation to rule out any underlying conditions.
+- Obesity.
+  - Medical Reasoning: BMI indicates obesity, which is a risk factor for several conditions including fatty liver disease.
+- GERD.
+  - Medical Reasoning: Chronic condition managed with omeprazole, no current symptoms reported.
+
+**4. Plan:**
+
+- **Blood Work:**
+  - Order liver function tests, lipid profile, and fasting glucose level to evaluate metabolic and liver status.
+  
+- **Imaging:**
+  - Abdominal ultrasound to assess for fatty liver disease and any other liver abnormalities due to the patient's obesity and dietary habits.
+  
+- **Referrals:**
+  - Referral to Dr. Smith, gastroenterologist, for preprocedural evaluation before the colonoscopy.
+  
+- **Follow-up Recommendations:**
+  - Schedule an appointment 5 days prior to the procedure to review preoperative test results.
+
+- **Patient Education and Counseling:**
+  - Discussed the importance of modifying diet to include more fiber and reduce fast food intake.
+  - Strongly encouraged increasing physical activity, even light exercise.
+  - Advised on smoking cessation and reducing alcohol intake.
+  - Emphasized the importance of adhering to follow-up appointments and medical advice for optimal health outcomes.
+
+Patient Agreements: The patient understands the need for the outlined tests and referrals and agrees to follow-up for the review of test results and further counseling on lifestyle modifications."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+- Encounter for preprocedural examination prior to scheduled colonoscopy due to family history of colon cancer.
+
+**History of Present Illness (HPI):**
+- 45-year-old African American male with a history of obesity and GERD presents for a preprocedural examination. The patient is scheduled for a colonoscopy due to his family history of colon cancer. No current symptoms reported.
+
+**Review of Systems (ROS):**
+- Constitutional: Reports poor sleep quality (5-6 hours per night). Denies fever, weight loss, or chills.
+- Gastrointestinal: Denies current abdominal pain, nausea, vomiting, or changes in bowel habits. History of GERD managed with omeprazole 20 mg daily.
+- Cardiovascular: Denies chest pain or palpitations.
+- Respiratory: Denies shortness of breath, cough, or wheezing.
+- Musculoskeletal: Denies joint pain or muscle aches.
+
+**2. Objective:**
+
+**VITALS:**
+- Blood Pressure (BP): 140/88 mmHg
+- Heart Rate (HR): 88 bpm
+- Respiratory Rate (RR): 18 breaths per minute
+- Temperature: 98.6°F
+- BMI: 32 kg/m² (Obese category)
+
+**PHYSICAL EXAM:**
+
+**General:**
+- Alert, no acute distress.
+
+**HEENT:**
+- Normocephalic, atraumatic, no oropharyngeal abnormalities.
+
+**Respiratory:**
+- Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+
+**Cardiovascular:**
+- Regular rate and rhythm, no murmurs, rubs, or gallops.
+
+**Gastrointestinal:**
+- Soft, non-tender, no rebound or guarding. No hepatosplenomegaly. Bowel sounds present and normal in all quadrants.
+
+**Musculoskeletal:**
+- Full range of motion in all extremities, strength 5/5 bilaterally.
+
+**3. Assessment:**
+
+- Preprocedural examination for scheduled colonoscopy.
+  - Medical Reasoning: Patient's family history of colon cancer necessitates a colonoscopy. No current symptoms indicating an acute issue but requires evaluation to rule out any underlying conditions.
+- Obesity.
+  - Medical Reasoning: BMI indicates obesity, which is a risk factor for several conditions including fatty liver disease.
+- GERD.
+  - Medical Reasoning: Chronic condition managed with omeprazole, no current symptoms reported.
+
+**4. Plan:**
+
+- **Blood Work:**
+  - Order liver function tests, lipid profile, and fasting glucose level to evaluate metabolic and liver status.
+  
+- **Imaging:**
+  - Abdominal ultrasound to assess for fatty liver disease and any other liver abnormalities due to the patient's obesity and dietary habits.
+  
+- **Referrals:**
+  - Referral to Dr. John Smith, gastroenterologist, for preprocedural evaluation before the colonoscopy.
+  
+- **Follow-up Recommendations:**
+  - Schedule an appointment 5 days prior to the procedure to review preoperative test results.
+
+- **Patient Education and Counseling:**
+  - Discussed the importance of modifying diet to include more fiber and reduce fast food intake.
+  - Strongly encouraged increasing physical activity, even light exercise.
+  - Advised on smoking cessation and reducing alcohol intake.
+  - Emphasized the importance of adhering to follow-up appointments and medical advice for optimal health outcomes.
+
+Patient Agreements: The patient understands the need for the outlined tests and referrals and agrees to follow-up for the review of test results and further counseling on lifestyle modifications."|"**1. Subjective:**
+
+**CC:**
+- Encounter for preprocedural exam prior to scheduled colonoscopy due to FHx of colon CA.
+
+**HPI:**
+- 45 y/o AA male with hx of obesity and GERD presents for preprocedural exam. Pt scheduled for colonoscopy due to FHx of colon CA. No current sx reported.
+
+**ROS:**
+- Constitutional: Reports poor sleep quality (5-6 hrs/night). Denies fever, wt loss, or chills.
+- GI: Denies current abd pain, N/V, or changes in bowel habits. Hx of GERD managed with omeprazole 20 mg daily.
+- CV: Denies CP or palpitations.
+- Resp: Denies SOB, cough, or wheezing.
+- MSK: Denies joint pain or muscle aches.
+
+**2. Objective:**
+
+**VITALS:**
+- BP: 140/88 mmHg
+- HR: 88 bpm
+- RR: 18 bpm
+- Temp: 98.6°F
+- BMI: 32 kg/m² (Obese category)
+
+**PE:**
+
+**General:**
+- Alert, NAD.
+
+**HEENT:**
+- NC/AT, no oropharyngeal abnormalities.
+
+**Resp:**
+- CTA bilaterally, no wheezes, rales, or rhonchi.
+
+**CV:**
+- RRR, no murmurs, rubs, or gallops.
+
+**GI:**
+- Soft, NT, no rebound or guarding. No HSM. BS present and normal in all quadrants.
+
+**MSK:**
+- Full ROM in all extremities, strength 5/5 bilaterally.
+
+**3. Assessment:**
+
+- Preprocedural exam for scheduled colonoscopy.
+  - Medical Reasoning: Pt's FHx of colon CA necessitates colonoscopy. No current sx indicating an acute issue but requires eval to r/o any underlying conditions.
+- Obesity.
+  - Medical Reasoning: BMI indicates obesity, which is a risk factor for several conditions including fatty liver dz.
+- GERD.
+  - Medical Reasoning: Chronic condition managed with omeprazole, no current sx reported.
+
+**4. Plan:**
+
+- **Blood Work:**
+  - Order LFTs, lipid profile, and fasting glucose level to eval metabolic and liver status.
+  
+- **Imaging:**
+  - Abd US to assess for fatty liver dz and any other liver abnormalities due to pt's obesity and dietary habits.
+  
+- **Referrals:**
+  - Referral to Dr. John Smith, GI, for preprocedural eval before colonoscopy.
+  
+- **Follow-up Recommendations:**
+  - Schedule appt 5 days prior to procedure to review pre-op test results.
+
+- **Patient Education and Counseling:**
+  - Discussed importance of modifying diet to include more fiber and reduce fast food intake.
+  - Strongly encouraged increasing physical activity, even light exercise.
+  - Advised on smoking cessation and reducing alcohol intake.
+  - Emphasized importance of adhering to follow-up appts and medical advice for optimal health outcomes.
+
+Patient Agreements: Pt understands the need for the outlined tests and referrals and agrees to follow-up for review of test results and further counseling on lifestyle modifications."|Family Medicine Physician|"**Doctor:** Good morning! How are you doing today?
+
+**Patient:** Good morning, doctor. I'm doing alright, thank you.
+
+**Doctor:** Great to hear. So, I see you're here for a preprocedural examination before your scheduled colonoscopy. Can you tell me a bit more about why you're getting this procedure done?
+
+**Patient:** Yes, my primary care doctor recommended it because I have a family history of colon cancer. My father was diagnosed when he was 50.
+
+**Doctor:** Understood. It's very important to stay on top of screenings given your family history. How are you feeling overall? Any current symptoms or issues?
+
+**Patient:** No, I feel fine. Just here to make sure everything is in order before the colonoscopy.
+
+**Doctor:** Good to hear. Let's go through a few things. How's your sleep been lately?
+
+**Patient:** I don't sleep very well, maybe 5 to 6 hours a night.
+
+**Doctor:** I see. Any fever, weight loss, or chills recently?
+
+**Patient:** No, nothing like that.
+
+**Doctor:** How about your gastrointestinal system? Any current abdominal pain, nausea, vomiting, or changes in bowel habits?
+
+**Patient:** No, my stomach's been fine. I do have GERD, but I take omeprazole for that.
+
+**Doctor:** Got it. And how has the GERD been with the medication?
+
+**Patient:** It's been manageable. The omeprazole really helps.
+
+**Doctor:** Good to know. Any issues with chest pain or palpitations?
+
+**Patient:** No, my heart's been fine.
+
+**Doctor:** How about your breathing? Any shortness of breath, cough, or wheezing?
+
+**Patient:** No, I haven't had any problems with that.
+
+**Doctor:** And your joints and muscles? Any pain or aches there?
+
+**Patient:** No, everything feels good.
+
+**Doctor:** Alright, let's move on to your vital signs. Your blood pressure is 140/88 mmHg, your heart rate is 88 beats per minute, respiratory rate is 18 breaths per minute, and your temperature is 98.6°F. Your BMI is 32, which puts you in the obese category. Do you have any concerns about your weight?
+
+**Patient:** Yeah, I know I need to lose some weight. It's been hard to manage.
+
+**Doctor:** I understand, and we can discuss some strategies for that. Let's go through a quick physical exam. I'll start with your head, ears, eyes, nose, and throat. Everything looks normal there.
+
+**Patient:** Okay, good.
+
+**Doctor:** Your lungs are clear to auscultation bilaterally, no wheezes, rales, or rhonchi. Your heart has a regular rate and rhythm, no murmurs, rubs, or gallops.
+
+**Patient:** That's good to hear.
+
+**Doctor:** Your abdomen is soft and non-tender, with no rebound or guarding. No hepatosplenomegaly, and bowel sounds are normal in all quadrants.
+
+**Patient:** Sounds good.
+
+**Doctor:** Your musculoskeletal exam shows a full range of motion in all extremities, and strength is 5 out of 5 bilaterally.
+
+**Patient:** Okay, great.
+
+**Doctor:** Based on your exam and your history, we need to do a few things before your colonoscopy. First, we'll order some blood work. This will include liver function tests, a lipid profile, and a fasting glucose level to evaluate your metabolic and liver status.
+
+**Patient:** Alright, that sounds reasonable.
+
+**Doctor:** We'll also do an abdominal ultrasound to assess for fatty liver disease and any other liver abnormalities due to your obesity and dietary habits.
+
+**Patient:** Okay, I understand.
+
+**Doctor:** I'll refer you to Dr. Smith, a gastroenterologist, for your preprocedural evaluation before the colonoscopy.
+
+**Patient:** That's good. I've heard good things about Dr. Smith.
+
+**Doctor:** Excellent. We'll also need to schedule an appointment 5 days prior to the procedure to review all the preoperative test results.
+
+**Patient:** Sure, I can do that.
+
+**Doctor:** Now, let's talk about some lifestyle modifications. It's important to modify your diet to include more fiber and reduce fast food intake.
+
+**Patient:** Yeah, I know I need to eat better.
+
+**Doctor:** Increasing physical activity is also crucial. Even light exercise can make a big difference.
+
+**Patient:** I'll try to be more active.
+
+**Doctor:** If you smoke, I strongly encourage you to quit, and try to reduce your alcohol intake as well.
+
+**Patient:** I don't smoke, but I do like to have a drink now and then.
+
+**Doctor:** Reducing alcohol will also help. Finally, it's very important to adhere to follow-up appointments and medical advice for optimal health outcomes.
+
+**Patient:** I understand. I'll make sure to follow up.
+
+**Doctor:** Great. Do you have any questions or concerns about the plan?
+
+**Patient:** No, everything sounds clear. I appreciate the thorough explanation.
+
+**Doctor:** You're welcome. We'll get those tests ordered and get you set up with Dr. Smith. I'll see you again in 5 days to review everything.
+
+**Patient:** Sounds good. Thanks, doctor.
+
+**Doctor:** Take care, and see you soon."|"[doctor]: Good morning! How are you doing today?
+
+[patient]: Good morning, doctor. I'm doing alright, thank you.
+
+[doctor]: Great to hear. So, I see you're here for a preprocedural examination before your scheduled colonoscopy. Can you tell me a bit more about why you're getting this procedure done?
+
+[patient]: Yes, my primary care doctor recommended it because I have a family history of colon cancer. My father was diagnosed when he was 50.
+
+[doctor]: Understood. It's very important to stay on top of screenings given your family history. How are you feeling overall? Any current symptoms or issues?
+
+[patient]: No, I feel fine. Just here to make sure everything is in order before the colonoscopy.
+
+[doctor]: Good to hear. Let's go through a few things. How's your sleep been lately?
+
+[patient]: I don't sleep very well, maybe 5 to 6 hours a night.
+
+[doctor]: I see. Any fever, weight loss, or chills recently?
+
+[patient]: No, nothing like that.
+
+[doctor]: How about your gastrointestinal system? Any current abdominal pain, nausea, vomiting, or changes in bowel habits?
+
+[patient]: No, my stomach's been fine. I do have GERD, but I take omeprazole for that.
+
+[doctor]: Got it. And how has the GERD been with the medication?
+
+[patient]: It's been manageable. The omeprazole really helps.
+
+[doctor]: Good to know. Any issues with chest pain or palpitations?
+
+[patient]: No, my heart's been fine.
+
+[doctor]: How about your breathing? Any shortness of breath, cough, or wheezing?
+
+[patient]: No, I haven't had any problems with that.
+
+[doctor]: And your joints and muscles? Any pain or aches there?
+
+[patient]: No, everything feels good.
+
+[doctor]: Alright, let's move on to your vital signs. Your blood pressure is 140/88 mmHg, your heart rate is 88 beats per minute, respiratory rate is 18 breaths per minute, and your temperature is 98.6°F. Your BMI is 32, which puts you in the obese category. Do you have any concerns about your weight?
+
+[patient]: Yeah, I know I need to lose some weight. It's been hard to manage.
+
+[doctor]: I understand, and we can discuss some strategies for that. Let's go through a quick physical exam. I'll start with your head, ears, eyes, nose, and throat. Everything looks normal there.
+
+[patient]: Okay, good.
+
+[doctor]: Your lungs are clear to auscultation bilaterally, no wheezes, rales, or rhonchi. Your heart has a regular rate and rhythm, no murmurs, rubs, or gallops.
+
+[patient]: That's good to hear.
+
+[doctor]: Your abdomen is soft and non-tender, with no rebound or guarding. No hepatosplenomegaly, and bowel sounds are normal in all quadrants.
+
+[patient]: Sounds good.
+
+[doctor]: Your musculoskeletal exam shows a full range of motion in all extremities, and strength is 5 out of 5 bilaterally.
+
+[patient]: Okay, great.
+
+[doctor]: Based on your exam and your history, we need to do a few things before your colonoscopy. First, we'll order some blood work. This will include liver function tests, a lipid profile, and a fasting glucose level to evaluate your metabolic and liver status.
+
+[patient]: Alright, that sounds reasonable.
+
+[doctor]: We'll also do an abdominal ultrasound to assess for fatty liver disease and any other liver abnormalities due to your obesity and dietary habits.
+
+[patient]: Okay, I understand.
+
+[doctor]: I'll refer you to Dr. Smith, a gastroenterologist, for your preprocedural evaluation before the colonoscopy.
+
+[patient]: That's good. I've heard good things about Dr. Smith.
+
+[doctor]: Excellent. We'll also need to schedule an appointment 5 days prior to the procedure to review all the preoperative test results.
+
+[patient]: Sure, I can do that.
+
+[doctor]: Now, let's talk about some lifestyle modifications. It's important to modify your diet to include more fiber and reduce fast food intake.
+
+[patient]: Yeah, I know I need to eat better.
+
+[doctor]: Increasing physical activity is also crucial. Even light exercise can make a big difference.
+
+[patient]: I'll try to be more active.
+
+[doctor]: If you smoke, I strongly encourage you to quit, and try to reduce your alcohol intake as well.
+
+[patient]: I don't smoke, but I do like to have a drink now and then.
+
+[doctor]: Reducing alcohol will also help. Finally, it's very important to adhere to follow-up appointments and medical advice for optimal health outcomes.
+
+[patient]: I understand. I'll make sure to follow up.
+
+[doctor]: Great. Do you have any questions or concerns about the plan?
+
+[patient]: No, everything sounds clear. I appreciate the thorough explanation.
+
+[doctor]: You're welcome. We'll get those tests ordered and get you set up with Dr. Smith. I'll see you again in 5 days to review everything.
+
+[patient]: Sounds good. Thanks, doctor.
+
+[doctor]: Take care, and see you soon."
+ENCOUNTER FOR PREPROCEDURAL EXAMINATIONS|"**ROLE:** General Physician
+
+**Variables:**
+
+**1) Medical Outcome:**
+   - Preoperative assessment for upcoming knee arthroscopy.
+   - Order blood work for biochemistry and hematology.
+   - Recommendations for medication adjustments if needed.
+
+**2) Medical History:**
+   - Previous Diagnoses: Osteoarthritis in the right knee.
+   - Family Medical History: Hypertension in father, Type 2 Diabetes in mother.
+   - Medication History: Currently on ibuprofen 400 mg orally, every 6 hours for pain.
+   - Allergies: None.
+   - Chronic Conditions: Hypertension.
+
+**3) Symptom Description:**
+   - Severity: Moderate pain and limited mobility in the right knee.
+   - Duration: 2 years.
+   - Associated Symptoms: Swelling and stiffness.
+   - Frequency: Daily.
+   - Impact on Daily Activities: Difficulty walking and performing daily tasks.
+
+**4) Patient’s self-reported habits and lifestyle:**
+   - Sleep: 6-7 hours per night.
+   - Diet: Generally balanced but admits to a high sugar intake.
+   - Exercise: Limited due to knee pain, no regular exercise regime.
+   - Tobacco Use: None.
+   - Alcohol Consumption: Occasional/social.
+   - Drug Use: None.
+   - Recreational Activities: Enjoys reading and watching television, limited outdoor activities due to pain.
+
+**5) Demographic Information:**
+   - Age: 50
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle-class
+   - Education Level: Bachelor's degree
+   - Health Literacy: Moderate
+   - Job Status: Office job, sedentary.
+
+**6) Patient's Behavior:**
+   - Generally cooperative with medical advice but admits difficulty in adhering to exercise recommendations due to pain.
+
+**7) Geographical Location:**
+   - Urban area.
+   - Moderate pollution.
+   - Neighborhood Type: Middle-class, well-served by public transit and local amenities.
+
+**8) Clinical Setting:**
+   - Hospital outpatient clinic.
+
+**9) Type of Encounter:**
+   - Initial Consultation for preoperative examination.
+
+**10) Treatment Disparities:**
+   - N/A
+
+**11) Native or Non-Native English-Speaking Patient:**
+   - Native English Speaker
+
+**12) Physical exams:**
+   - General physical examination.
+   - Focused examination of the right knee, including range of motion and stability tests.
+
+**13) Investigation/Test results:**
+   - Blood Work: Order for biochemistry and hematology to assess general health and readiness for surgery.
+     - Biochemistry: electrolytes, renal function, liver function, glucose.
+     - Hematology: Complete Blood Count (CBC).
+   
+"|"### Medical Note
+
+#### 1. Subjective:
+
+**Chief Complaint (CC):**
+Patient presents for preoperative assessment in preparation for upcoming knee arthroscopy.
+
+**History of Present Illness (HPI):**
+A 50-year-old Caucasian male with a history of osteoarthritis in the right knee, experiencing moderate pain and limited mobility for 2 years. The pain is associated with daily swelling and stiffness, significantly impacting daily activities such as walking and performing routine tasks.
+
+**Review of Systems (ROS):**
+- **Musculoskeletal:** Reports moderate pain, swelling, and stiffness in the right knee. Difficulty with mobility.
+- **General/Constitutional:** No recent fevers, chills, or weight loss.
+- **Cardiovascular:** No chest pain, palpitations, or edema.
+- **Respiratory:** No shortness of breath, cough, or wheezing.
+- **Gastrointestinal:** No nausea, vomiting, or changes in bowel habits.
+- **Neurological:** No headaches, dizziness, or changes in sensation.
+
+**Social History:**
+- **Lifestyle:** Sleeps 6-7 hours per night, balanced diet but high sugar intake, limited exercise due to knee pain.
+- **Substance Use:** No tobacco use, occasional/social alcohol consumption, no drug use.
+- **Recreational Activities:** Enjoys reading and watching television, limited outdoor activities.
+- **Occupation:** Works in an office job which is largely sedentary.
+
+#### 2. Objective:
+
+**Vital Signs:**
+- Blood Pressure: 135/85 mm Hg
+- Heart Rate: 78 BPM
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6 degrees F
+
+**Physical Examination:**
+- **General Appearance:** Alert and oriented, no acute distress.
+- **Cardiovascular:** Heart sounds normal, no murmurs, gallops, or rubs.
+- **Respiratory:** Lungs clear to auscultation bilaterally, no wheezes or crackles.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Musculoskeletal:** Right knee shows mild swelling and decreased range of motion. Tenderness on palpation of the joint line and crepitus noted, no erythema. Stability tests indicate mild laxity, consistent with chronic osteoarthritis changes.
+- **Neurological:** Normal sensory and motor function in all extremities.
+
+**Laboratory Tests Ordered:**
+- **Biochemistry:** Electrolytes, renal function, liver function, glucose.
+- **Hematology:** Complete Blood Count (CBC).
+
+#### 3. Assessment:
+
+1. **Osteoarthritis of the right knee:**
+   - Moderate pain and limited mobility.
+   - Chronic condition lasting 2 years.
+   - Impacting daily activities.
+
+2. **Hypertension:**
+   - Currently managed but requires monitoring and potential adjustment preoperatively.
+
+#### 4. Plan:
+
+1. **Osteoarthritis Management:**
+   - Proceed with knee arthroscopy as scheduled to improve mobility and reduce pain.
+   - Continue current medication of ibuprofen 400 mg every 6 hours for pain management.
+   - Recommend preoperative physiotherapy for strengthening exercises as tolerated to improve postoperative recovery.
+
+2. **Preoperative Work-Up:**
+   - Order blood work (biochemistry and hematology) to assess general health and readiness for surgery.
+   - Ensure electrolyte balance, renal function, liver function, and glucose levels are within normal limits.
+   - Review CBC results for any abnormalities such as anemia or infection.
+
+3. **Hypertension Management:**
+   - Monitor blood pressure regularly.
+   - Discuss potential adjustments to anti-hypertensive medication preoperatively if required.
+
+4. **Patient Education:**
+   - Discuss the importance of maintaining a balanced diet and reducing sugar intake.
+   - Emphasize adherence to hypertension medication and monitoring.
+   - Educate about postoperative care and the importance of follow-up appointments.
+
+**Patient Agreements:**
+The patient understands and agrees with the proposed medical treatment plan, including the need for preoperative blood work and ongoing management of osteoarthritis and hypertension."|"### Medical Note
+
+#### 1. Subjective:
+
+**Chief Complaint (CC):**
+Patient presents for preoperative assessment in preparation for upcoming knee arthroscopy.
+
+**History of Present Illness (HPI):**
+A 50-year-old Caucasian male with a history of osteoarthritis in the right knee, experiencing moderate pain and limited mobility for 2 years. The pain is associated with daily swelling and stiffness, significantly impacting daily activities such as walking and performing routine tasks.
+
+**Review of Systems (ROS):**
+- **Musculoskeletal:** Reports moderate pain, swelling, and stiffness in the right knee. Difficulty with mobility.
+- **General/Constitutional:** No recent fevers, chills, or weight loss.
+- **Cardiovascular:** No chest pain, palpitations, or edema.
+- **Respiratory:** No shortness of breath, cough, or wheezing.
+- **Gastrointestinal:** No nausea, vomiting, or changes in bowel habits.
+- **Neurological:** No headaches, dizziness, or changes in sensation.
+
+**Social History:**
+- **Lifestyle:** Sleeps 6-7 hours per night, balanced diet but high sugar intake, limited exercise due to knee pain.
+- **Substance Use:** No tobacco use, occasional/social alcohol consumption, no drug use.
+- **Recreational Activities:** Enjoys reading and watching television, limited outdoor activities.
+- **Occupation:** Works in an office job which is largely sedentary.
+
+#### 2. Objective:
+
+**Vital Signs:**
+- Blood Pressure: 135/85 mm Hg
+- Heart Rate: 78 BPM
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6 degrees F
+
+**Physical Examination:**
+- **General Appearance:** Alert and oriented, no acute distress.
+- **Cardiovascular:** Heart sounds normal, no murmurs, gallops, or rubs.
+- **Respiratory:** Lungs clear to auscultation bilaterally, no wheezes or crackles.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Musculoskeletal:** Right knee shows mild swelling and decreased range of motion. Tenderness on palpation of the joint line and crepitus noted, no erythema. Stability tests indicate mild laxity, consistent with chronic osteoarthritis changes.
+- **Neurological:** Normal sensory and motor function in all extremities.
+
+#### 3. Assessment:
+
+1. **Osteoarthritis of the right knee:**
+   - Moderate pain and limited mobility.
+   - Chronic condition lasting 2 years.
+   - Impacting daily activities.
+
+2. **Hypertension:**
+   - Currently managed but requires monitoring and potential adjustment preoperatively.
+
+#### 4. Plan:
+
+1. **Osteoarthritis Management:**
+   - Proceed with knee arthroscopy as scheduled to improve mobility and reduce pain.
+   - Continue current medication of ibuprofen 400 mg every 6 hours for pain management.
+   - Recommend preoperative physiotherapy for strengthening exercises as tolerated to improve postoperative recovery.
+
+2. **Preoperative Work-Up:**
+   - Order blood work (biochemistry and hematology) to assess general health and readiness for surgery.
+   - Ensure electrolyte balance, renal function, liver function, and glucose levels are within normal limits.
+   - Review CBC results for any abnormalities such as anemia or infection.
+
+3. **Hypertension Management:**
+   - Monitor blood pressure regularly.
+   - Discuss potential adjustments to anti-hypertensive medication preoperatively if required.
+
+4. **Patient Education:**
+   - Discuss the importance of maintaining a balanced diet and reducing sugar intake.
+   - Emphasize adherence to hypertension medication and monitoring.
+   - Educate about postoperative care and the importance of follow-up appointments.
+
+**Patient Agreements:**
+The patient understands and agrees with the proposed medical treatment plan, including the need for preoperative blood work and ongoing management of osteoarthritis and hypertension."|"### Medical Note
+
+#### 1. Subjective:
+
+**CC:**
+Pt presents for pre-op assessment in prep for upcoming knee arthroscopy.
+
+**HPI:**
+A 50 y/o Caucasian M with a hx of OA in the R knee, experiencing mod pain and limited mobility for 2 yrs. Pain assoc with daily swelling and stiffness, significantly impacting ADLs such as ambulation and routine tasks.
+
+**ROS:**
+- **MSK:** Reports mod pain, swelling, and stiffness in the R knee. Difficulty with mobility.
+- **Gen/Con:** No recent fevers, chills, or weight loss.
+- **CV:** No CP, palpitations, or edema.
+- **Resp:** No SOB, cough, or wheezing.
+- **GI:** No N/V, or changes in bowel habits.
+- **Neuro:** No HA, dizziness, or changes in sensation.
+
+**Social Hx:**
+- **Lifestyle:** Sleeps 6-7 hrs/night, balanced diet but high sugar intake, limited exercise due to knee pain.
+- **Substance Use:** No tobacco use, occasional/social ETOH, no drug use.
+- **Recreational Activities:** Enjoys reading and watching TV, limited outdoor activities.
+- **Occupation:** Works in an office job which is largely sedentary.
+
+#### 2. Objective:
+
+**VS:**
+- BP: 135/85 mm Hg
+- HR: 78 BPM
+- RR: 16 breaths/min
+- Temp: 98.6°F
+
+**PE:**
+- **Gen Appearance:** Alert and oriented, no acute distress.
+- **CV:** Heart sounds normal, no murmurs, gallops, or rubs.
+- **Resp:** Lungs clear to ausc bilaterally, no wheezes or crackles.
+- **Abd:** Soft, non-tender, no organomegaly.
+- **MSK:** R knee shows mild swelling and decreased ROM. Tenderness on palpation of the joint line and crepitus noted, no erythema. Stability tests indicate mild laxity, consistent with chronic OA changes.
+- **Neuro:** Normal sensory and motor function in all extremities.
+
+#### 3. Assessment:
+
+1. **OA of the R knee:**
+   - Mod pain and limited mobility.
+   - Chronic condition lasting 2 yrs.
+   - Impacting ADLs.
+
+2. **HTN:**
+   - Currently managed but requires monitoring and potential adjustment pre-op.
+
+#### 4. Plan:
+
+1. **OA Mgmt:**
+   - Proceed with knee arthroscopy as scheduled to improve mobility and reduce pain.
+   - Continue current med of ibuprofen 400 mg q6h for pain mgmt.
+   - Recommend pre-op PT for strengthening exercises as tolerated to improve post-op recovery.
+
+2. **Pre-op Work-Up:**
+   - Order blood work (biochem and hematology) to assess general health and readiness for surgery.
+   - Ensure electrolyte balance, renal function, liver function, and glucose levels are WNL.
+   - Review CBC results for any abnormalities such as anemia or infection.
+
+3. **HTN Mgmt:**
+   - Monitor BP regularly.
+   - Discuss potential adjustments to anti-HTN med pre-op if required.
+
+4. **Pt Education:**
+   - Discuss the importance of maintaining a balanced diet and reducing sugar intake.
+   - Emphasize adherence to HTN med and monitoring.
+   - Educate about post-op care and the importance of follow-up appointments.
+
+**Pt Agreements:**
+The pt understands and agrees with the proposed medical tx plan, including the need for pre-op blood work and ongoing mgmt of OA and HTN."|Role not found in the first 5 lines.|"### Conversation
+
+#### Preoperative Assessment for Knee Arthroscopy
+
+**Doctor:** Hi, how are you doing today?
+
+**Patient:** I'm doing okay, thank you. How are you?
+
+**Doctor:** I’m well, thank you. So, I see you’re here for a preoperative assessment in preparation for your upcoming knee arthroscopy. Can you tell me a bit more about your knee issues?
+
+**Patient:** Sure, I’ve had osteoarthritis in my right knee for about two years now. The pain has been moderate, and it’s been really affecting my mobility. My knee swells up daily and gets very stiff, which makes it hard to walk or do routine tasks.
+
+**Doctor:** I see. That sounds quite challenging. Have you noticed any recent changes in your symptoms?
+
+**Patient:** Not really, it’s been pretty consistent. The pain, swelling, and stiffness are there every day.
+
+**Doctor:** Okay, let's go through a few more details. Have you experienced any recent fevers, chills, or weight loss?
+
+**Patient:** No, none of those.
+
+**Doctor:** And what about chest pain, palpitations, or swelling in your legs?
+
+**Patient:** No, my heart seems fine. No chest pain or anything like that.
+
+**Doctor:** How about your breathing? Any shortness of breath, cough, or wheezing?
+
+**Patient:** No, my breathing has been normal.
+
+**Doctor:** Any gastrointestinal issues like nausea, vomiting, or changes in bowel habits?
+
+**Patient:** No, none.
+
+**Doctor:** Have you had any headaches, dizziness, or changes in sensation?
+
+**Patient:** No, I haven’t had any of those problems.
+
+**Doctor:** Alright. Let’s talk a bit about your lifestyle. How many hours do you sleep on average per night?
+
+**Patient:** I usually get about 6 to 7 hours of sleep.
+
+**Doctor:** And how would you describe your diet?
+
+**Patient:** I think it’s pretty balanced, but I do have a high sugar intake.
+
+**Doctor:** How about exercise? Are you able to do any physical activities?
+
+**Patient:** I try, but it’s very limited because of the knee pain. I really can’t do much.
+
+**Doctor:** Do you use tobacco or consume alcohol or any recreational drugs?
+
+**Patient:** I don’t smoke or use drugs. I do drink alcohol occasionally, but only socially.
+
+**Doctor:** What kind of activities do you enjoy?
+
+**Patient:** I like reading and watching television. I used to enjoy outdoor activities, but I can’t do much of that now.
+
+**Doctor:** And what kind of work do you do?
+
+**Patient:** I work in an office. It’s mostly a desk job, so I’m sitting most of the time.
+
+**Doctor:** Got it. Let's check your vital signs. Your blood pressure is 135/85 mm Hg, heart rate is 78 beats per minute, respiratory rate is 16 breaths per minute, and your temperature is 98.6 degrees Fahrenheit. Those all look normal.
+
+**Patient:** That’s good to hear.
+
+**Doctor:** I’m going to perform a physical examination now. Just relax. You’re alert and oriented, and you don’t seem to be in acute distress, which is good.
+
+**Patient:** Okay.
+
+**Doctor:** I’m listening to your heart now. Heart sounds are normal, no murmurs, gallops, or rubs. Now, I’ll check your lungs. Your lungs are clear to auscultation bilaterally, no wheezes or crackles.
+
+**Patient:** That’s a relief.
+
+**Doctor:** I’m palpating your abdomen. It’s soft, non-tender, and I don’t feel any enlarged organs.
+
+**Patient:** That sounds good.
+
+**Doctor:** Now, let’s take a look at your right knee. I see some mild swelling and a decreased range of motion. Does it hurt when I press here?
+
+**Patient:** Yes, that’s quite tender.
+
+**Doctor:** I also notice some crepitus and mild laxity, which is consistent with osteoarthritis. There’s no redness, which is good. Stability tests indicate some mild laxity, but overall, nothing too alarming.
+
+**Patient:** That’s pretty much how it feels every day.
+
+**Doctor:** I’ll also check your neurological function. Sensory and motor function in all your extremities is normal. That’s good.
+
+**Patient:** Great.
+
+**Doctor:** I’m going to order some blood work to assess your general health and readiness for surgery. This will include electrolytes, renal function, liver function, glucose, and a complete blood count.
+
+**Patient:** Okay, I understand.
+
+**Doctor:** For the osteoarthritis, we’ll proceed with the knee arthroscopy as scheduled. We’ll also continue your current ibuprofen 400 mg every 6 hours for pain. I recommend some preoperative physiotherapy to strengthen your knee and improve postoperative recovery.
+
+**Patient:** That sounds good. I’ll do whatever is needed.
+
+**Doctor:** Regarding your hypertension, it’s important to monitor your blood pressure regularly. We may need to adjust your medication before the surgery. Are you currently taking any antihypertensive medications?
+
+**Patient:** Yes, I am. I’ve been on them for a while now.
+
+**Doctor:** We’ll review those and make any necessary adjustments. We’ll also monitor your blood pressure closely.
+
+**Patient:** Alright.
+
+**Doctor:** Let’s talk about your diet. Maintaining a balanced diet and reducing sugar intake is important, especially since you have osteoarthritis and hypertension.
+
+**Patient:** I know I need to cut down on sugar. It’s just hard sometimes.
+
+**Doctor:** I understand. It’s important for your overall health. Also, make sure you’re adhering to your hypertension medication and monitoring your blood pressure.
+
+**Patient:** I will.
+
+**Doctor:** After the surgery, follow-up appointments are crucial. We’ll discuss postoperative care and make sure you’re healing well.
+
+**Patient:** I’ll make sure to attend all follow-ups.
+
+**Doctor:** Great. Do you have any questions or concerns about the upcoming surgery or your current treatment plan?
+
+**Patient:** No, I think you’ve covered everything.
+
+**Doctor:** Excellent. We’ll proceed with the preoperative work-up and make sure you’re ready for the surgery. 
+
+**Patient:** Thank you, Doctor.
+
+**Doctor:** You’re welcome. Take care and see you soon for the surgery.
+
+**Patient:** Thanks, you too."|"[doctor]: Hi, how are you doing today?
+
+[patient]: I'm doing okay, thank you. How are you?
+
+[doctor]: I’m well, thank you. So, I see you’re here for a preoperative assessment in preparation for your upcoming knee arthroscopy. Can you tell me a bit more about your knee issues?
+
+[patient]: Sure, I’ve had osteoarthritis in my right knee for about two years now. The pain has been moderate, and it’s been really affecting my mobility. My knee swells up daily and gets very stiff, which makes it hard to walk or do routine tasks.
+
+[doctor]: I see. That sounds quite challenging. Have you noticed any recent changes in your symptoms?
+
+[patient]: Not really, it’s been pretty consistent. The pain, swelling, and stiffness are there every day.
+
+[doctor]: Okay, let's go through a few more details. Have you experienced any recent fevers, chills, or weight loss?
+
+[patient]: No, none of those.
+
+[doctor]: And what about chest pain, palpitations, or swelling in your legs?
+
+[patient]: No, my heart seems fine. No chest pain or anything like that.
+
+[doctor]: How about your breathing? Any shortness of breath, cough, or wheezing?
+
+[patient]: No, my breathing has been normal.
+
+[doctor]: Any gastrointestinal issues like nausea, vomiting, or changes in bowel habits?
+
+[patient]: No, none.
+
+[doctor]: Have you had any headaches, dizziness, or changes in sensation?
+
+[patient]: No, I haven’t had any of those problems.
+
+[doctor]: Alright. Let’s talk a bit about your lifestyle. How many hours do you sleep on average per night?
+
+[patient]: I usually get about 6 to 7 hours of sleep.
+
+[doctor]: And how would you describe your diet?
+
+[patient]: I think it’s pretty balanced, but I do have a high sugar intake.
+
+[doctor]: How about exercise? Are you able to do any physical activities?
+
+[patient]: I try, but it’s very limited because of the knee pain. I really can’t do much.
+
+[doctor]: Do you use tobacco or consume alcohol or any recreational drugs?
+
+[patient]: I don’t smoke or use drugs. I do drink alcohol occasionally, but only socially.
+
+[doctor]: What kind of activities do you enjoy?
+
+[patient]: I like reading and watching television. I used to enjoy outdoor activities, but I can’t do much of that now.
+
+[doctor]: And what kind of work do you do?
+
+[patient]: I work in an office. It’s mostly a desk job, so I’m sitting most of the time.
+
+[doctor]: Got it. Let's check your vital signs. Your blood pressure is 135/85 mm Hg, heart rate is 78 beats per minute, respiratory rate is 16 breaths per minute, and your temperature is 98.6 degrees Fahrenheit. Those all look normal.
+
+[patient]: That’s good to hear.
+
+[doctor]: I’m going to perform a physical examination now. Just relax. You’re alert and oriented, and you don’t seem to be in acute distress, which is good.
+
+[patient]: Okay.
+
+[doctor]: I’m listening to your heart now. Heart sounds are normal, no murmurs, gallops, or rubs. Now, I’ll check your lungs. Your lungs are clear to auscultation bilaterally, no wheezes or crackles.
+
+[patient]: That’s a relief.
+
+[doctor]: I’m palpating your abdomen. It’s soft, non-tender, and I don’t feel any enlarged organs.
+
+[patient]: That sounds good.
+
+[doctor]: Now, let’s take a look at your right knee. I see some mild swelling and a decreased range of motion. Does it hurt when I press here?
+
+[patient]: Yes, that’s quite tender.
+
+[doctor]: I also notice some crepitus and mild laxity, which is consistent with osteoarthritis. There’s no redness, which is good. Stability tests indicate some mild laxity, but overall, nothing too alarming.
+
+[patient]: That’s pretty much how it feels every day.
+
+[doctor]: I’ll also check your neurological function. Sensory and motor function in all your extremities is normal. That’s good.
+
+[patient]: Great.
+
+[doctor]: I’m going to order some blood work to assess your general health and readiness for surgery. This will include electrolytes, renal function, liver function, glucose, and a complete blood count.
+
+[patient]: Okay, I understand.
+
+[doctor]: For the osteoarthritis, we’ll proceed with the knee arthroscopy as scheduled. We’ll also continue your current ibuprofen 400 mg every 6 hours for pain. I recommend some preoperative physiotherapy to strengthen your knee and improve postoperative recovery.
+
+[patient]: That sounds good. I’ll do whatever is needed.
+
+[doctor]: Regarding your hypertension, it’s important to monitor your blood pressure regularly. We may need to adjust your medication before the surgery. Are you currently taking any antihypertensive medications?
+
+[patient]: Yes, I am. I’ve been on them for a while now.
+
+[doctor]: We’ll review those and make any necessary adjustments. We’ll also monitor your blood pressure closely.
+
+[patient]: Alright.
+
+[doctor]: Let’s talk about your diet. Maintaining a balanced diet and reducing sugar intake is important, especially since you have osteoarthritis and hypertension.
+
+[patient]: I know I need to cut down on sugar. It’s just hard sometimes.
+
+[doctor]: I understand. It’s important for your overall health. Also, make sure you’re adhering to your hypertension medication and monitoring your blood pressure.
+
+[patient]: I will.
+
+[doctor]: After the surgery, follow-up appointments are crucial. We’ll discuss postoperative care and make sure you’re healing well.
+
+[patient]: I’ll make sure to attend all follow-ups.
+
+[doctor]: Great. Do you have any questions or concerns about the upcoming surgery or your current treatment plan?
+
+[patient]: No, I think you’ve covered everything.
+
+[doctor]: Excellent. We’ll proceed with the preoperative work-up and make sure you’re ready for the surgery.
+
+[patient]: Thank you, Doctor.
+
+[doctor]: You’re welcome. Take care and see you soon for the surgery.
+
+[patient]: Thanks, you too."
+ENCOUNTER FOR PREPROCEDURAL EXAMINATIONS|"ROLE: Family Medicine Physician
+
+Demographic Information:
+- Age: 65
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle-class
+- Education Level: High school
+- Health Literacy: Moderate
+- Job Status: Retired
+
+Geographical Location:
+- Small City
+- Urban
+- Well-served by Transit
+- Affluent Neighborhood
+
+Clinical Setting:
+- Private Practice
+
+Type of Encounter:
+- Initial Consultation
+
+Medical History:
+- Previous Diagnoses: Hypertension, Type 2 Diabetes Mellitus
+- Family Medical History: Mother with coronary artery disease, Father with Type 2 Diabetes
+- Medication History: Metformin, 500 mg, oral, twice daily; Lisinopril, 20 mg, oral, once daily
+- Allergies: Penicillin
+- Chronic Conditions: Hypertension, Type 2 Diabetes Mellitus
+
+Symptom Description:
+- Severity: NA
+- Duration: NA
+- Associated Symptoms: NA
+- Frequency: NA
+- Impact on Daily Activities: NA
+
+Patient’s self-reported habits and lifestyle:
+- Sleep: 7-8 hours per night
+- Diet: Balanced diet
+- Exercise: Walks 30 minutes daily
+- Tobacco Use: None
+- Alcohol Consumption: Occasionally, 1-2 drinks per week
+- Drug Use: None
+- Recreational Activities: Gardening, reading
+
+Patient's Behavior:
+- Cooperative with medical advice
+
+Physical Exams:
+- NA
+
+Investigation/Test results:
+- NA
+
+Medical Outcome:
+- Referral to Cardiology for preprocedural examination
+   - Reason: Assess cardiovascular fitness before an upcoming elective knee replacement surgery
+   - Specialty: Cardiology
+   - Doctor's Name: Dr. Johnathan Smith
+- Referral for blood work
+   - Biochemistry: Comprehensive Metabolic Panel (CMP) to evaluate kidney function, liver function, electrolytes, and glucose level
+   - Hematology: Complete Blood Count (CBC) to check for anemia or infection
+
+"|Rejected|Rejected|Rejected|Rejected||
+ENCOUNTER FOR PREPROCEDURAL EXAMINATIONS|"ROLE: Family Medicine Physician
+
+- Medical Outcome: 
+  - Pre-procedural examination completed for upcoming hip replacement surgery.
+  - Referred for preoperative blood work including hematology (complete blood count), biochemistry (electrolytes, liver function tests, and renal function tests), and coagulation profile. 
+  - Referred for imaging: Chest X-ray (preoperative evaluation), Hip X-ray (preoperative evaluation).
+  - Prescription for anticoagulation management: Warfarin 5 mg, tablets, oral, once daily for 5 days prior to surgery, quantity: 5 tablets.
+  - Follow-up scheduled 1 week before surgery to review blood work and imaging results.
+- Medical History:
+  - Previous Diagnoses: Osteoarthritis of the hip, Hypertension.
+  - Family Medical History: No significant family history of hip disorders or coagulation disorders.
+  - Medication History: Takes lisinopril 20 mg daily for hypertension. No known drug allergies.
+  - Allergies: None.
+  - Chronic Conditions: Osteoarthritis, Hypertension.
+- Symptom Description: 
+  - Severity: Moderate pain in the right hip.
+  - Duration: 3 years.
+  - Associated Symptoms: Limited range of motion, difficulty walking.
+  - Frequency: Daily.
+  - Impact on Daily Activities: Significant limitation in performing daily tasks such as walking, climbing stairs, and standing for extended periods.
+- Patient’s self-reported habits and lifestyle: 
+  - Sleep: 6-7 hours per night, disrupted by hip pain.
+  - Diet: Balanced diet, adequate fruit and vegetable intake.
+  - Exercise: Limited due to hip pain, occasional short walks for exercise.
+  - Tobacco Use: Non-smoker.
+  - Alcohol Consumption: Occasional social drinker, 1-2 glasses of wine per week.
+  - Drug Use: None.
+  - Recreational Activities: Enjoys reading and gardening, limited by hip pain.
+- Demographic Information:
+  - Age: 67 years.
+  - Gender: Female.
+  - Ethnicity: Caucasian.
+  - Socio-economic Status: Middle class.
+  - Education Level: College graduate.
+  - Health Literacy: High.
+  - Job Status: Retired teacher.
+- Patient's Behavior:
+  - Very cooperative with medical advice and treatment plans.
+- Geographical Location:
+  - Urban setting in a big city.
+  - Affluent neighborhood.
+  - Well-served by transit and healthcare facilities.
+- Clinical Setting: 
+  - Private Practice.
+- Type of Encounter: 
+  - Pre-procedural examination.
+- Investigation/Test results: 
+  - Awaiting results of preoperative blood work and chest and hip X-rays.
+- Native or Non-Native English Speaking Patient:
+  - Native English speaker. 
+- Physical exams:
+  - General physical examination performed.
+  - Focused hip examination showed pain on movement, limited range of motion.
+  - Cardiovascular and respiratory examination normal.
+  - No signs of infection or inflammation around the hip.
+  
+- Treatment Disparities:
+  - None identified. The patient has good health insurance and access to care."|Rejected|Rejected|Rejected|Rejected||
+ENCOUNTER FOR PREPROCEDURAL EXAMINATIONS|"ROLE: Family Medicine Physician
+
+- Medical Outcome:
+  - Pre-procedural examination completed for upcoming gallbladder removal surgery.
+  - Referred for preoperative blood work: hematology (complete blood count), biochemistry (liver function tests, renal function tests, electrolytes), and coagulation profile.
+  - Referred for imaging: Abdominal ultrasound for preoperative evaluation, Chest X-ray (preoperative evaluation).
+  - Prescription for pain management: Acetaminophen 500 mg, tablets, oral, every 6 hours as needed for pain, quantity: 20 tablets.
+  - Follow-up appointment scheduled 3 days before surgery to review blood work and imaging results.
+- Medical History:
+  - Previous Diagnoses: Chronic cholecystitis, Type 2 Diabetes Mellitus.
+  - Family Medical History: History of gallbladder disease in the mother.
+  - Medication History: Metformin 500 mg daily for diabetes. No known medication allergies.
+  - Allergies: Latex allergy.
+  - Chronic Conditions: Diabetes Mellitus Type 2, Hypertension.
+- Symptom Description:
+  - Severity: Severe right upper quadrant abdominal pain.
+  - Duration: 6 months.
+  - Associated Symptoms: Nausea, occasional vomiting, fatty food intolerance.
+  - Frequency: Intermittently, especially after meals.
+  - Impact on Daily Activities: Limited ability to eat normal meals, resulting in weight loss and fatigue.
+- Patient’s self-reported habits and lifestyle:
+  - Sleep: 4-5 hours per night, disrupted by abdominal pain.
+  - Diet: Low-fat diet due to symptom management of cholecystitis.
+  - Exercise: Limited due to abdominal discomfort, participates in light walking.
+  - Tobacco Use: Former smoker, quit 5 years ago.
+  - Alcohol Consumption: Non-drinker.
+  - Drug Use: None.
+  - Recreational Activities: Enjoys knitting and watching television, restricted by discomfort.
+- Demographic Information:
+  - Age: 54 years.
+  - Gender: Female.
+  - Ethnicity: Hispanic.
+  - Socio-economic Status: Low income.
+  - Education Level: High school graduate.
+  - Health Literacy: Moderate.
+  - Job Status: Part-time retail worker.
+- Patient's Behavior:
+  - Cooperative with medical advice and adheres to prescribed treatment plans.
+- Geographical Location:
+  - Small City, Urban setting.
+  - Impoverished neighborhood.
+  - Food desert, limited access to healthy food options.
+- Clinical Setting:
+  - Community Health Services.
+- Type of Encounter:
+  - Pre-procedural examination.
+- Investigation/Test results:
+  - Awaiting results of preoperative blood work and imaging, including abdominal ultrasound and chest X-ray.
+- Native or Non-Native English Speaking Patient:
+  - Non-Native English speaker but fluent in Spanish and has good comprehension of medical terms.
+- Physical exams:
+  - General physical examination performed.
+  - Abdominal examination revealed tenderness in the right upper quadrant, positive Murphy's sign.
+  - Cardiovascular and respiratory examination unremarkable.
+- Treatment Disparities:
+  - Limited access to healthcare due to low-income status, affecting timely follow-up and access to medications."|Rejected|Rejected|Rejected|Rejected||
+ENCOUNTER FOR PREPROCEDURAL EXAMINATIONS|"ROLE: Endocrinologist
+
+- Medical Outcome:
+  - Diagnosis: Hypothyroidism (ICD-10: E03.9).
+  - Prescribed treatment: Levothyroxine 75 mcg, tablets, oral, once daily, quantity: 30 tablets.
+  - Referral for further tests: Thyroid function tests including TSH, Free T4, and Free T3.
+  - Follow-up visit scheduled for 6 weeks to recheck thyroid function tests and adjust medication as needed.
+- Medical History:
+  - Previous Diagnoses: Hypertension, Chronic Sinusitis.
+  - Family Medical History: Mother had Hypothyroidism, Father had Type 2 Diabetes.
+  - Medication History: Takes Losartan 50 mg daily for hypertension, No known drug allergies.
+  - Allergies: None.
+  - Chronic Conditions: Hypertension.
+- Symptom Description:
+  - Severity: Mild to moderate fatigue, weight gain, cold intolerance.
+  - Duration: 6 months.
+  - Associated Symptoms: Hair thinning, constipation, dry skin.
+  - Frequency: Daily.
+  - Impact on Daily Activities: Decreased energy levels affecting job performance and ability to exercise.
+- Patient’s self-reported habits and lifestyle:
+  - Sleep: 8 hours per night, still wakes up feeling tired.
+  - Diet: Balanced diet but reports difficulty managing weight despite diet and exercise.
+  - Exercise: Walks 30 minutes daily, tries to be active but limited by fatigue.
+  - Tobacco Use: Non-smoker.
+  - Alcohol Consumption: Moderation, 1-2 drinks per week.
+  - Drug Use: None.
+  - Recreational Activities: Enjoys gardening and reading, feels too tired to engage as much as before.
+- Demographic Information:
+  - Age: 45 years.
+  - Gender: Male.
+  - Ethnicity: African American.
+  - Socio-economic Status: Middle class.
+  - Education Level: Bachelor's degree.
+  - Health Literacy: High.
+  - Job Status: Office manager.
+- Patient's Behavior:
+  - Highly adherent to medical advice and medications.
+- Geographical Location:
+  - Big City, Urban setting.
+  - Mixed-income neighborhood.
+  - Well-served by public transit and healthcare services.
+- Clinical Setting:
+  - Specialty Clinic.
+- Type of Encounter:
+  - Initial Consultation.
+- Native or Non-Native English Speaking Patient:
+  - Native English speaker.
+- Physical exams:
+  - General physical examination performed.
+  - Notable for dry skin, periorbital puffiness, and delayed relaxation of deep tendon reflexes.
+  - Cardiovascular and respiratory examination normal.
+- Investigation/Test results:
+  - Awaiting results of thyroid function tests including TSH, Free T4, and Free T3.
+- Treatment Disparities:
+  - None identified; patient has comprehensive health insurance and good access to care."|Rejected|Rejected|Rejected|Rejected||
+ENCOUNTER FOR PREPROCEDURAL EXAMINATIONS|"ROLE: Family Medicine Physician
+
+Demographic Information:
+- Age: 54
+- Gender: Female
+- Ethnicity: Hispanic
+- Socio-economic Status: Middle class
+- Education Level: High School Graduate
+- Health Literacy: Moderate
+- Job Status: Employed as an office manager
+
+Medical History:
+- Previous Diagnoses: Type 2 Diabetes Mellitus, Hypertension
+- Family Medical History: Mother had Type 2 Diabetes, Father had Hypertension
+- Medication History: Metformin 500mg orally twice a day, Lisinopril 10mg orally once daily
+- Allergies: No known drug allergies 
+- Chronic Conditions: Type 2 Diabetes Mellitus, Hypertension
+
+Type of Encounter:
+- Preprocedural Examination prior to scheduled knee replacement surgery
+
+Clinical Setting:
+- Private Practice
+
+Patient’s self-reported habits and lifestyle:
+- Sleep: 7-8 hours per night, good quality
+- Diet: Balanced diet with reduced sugar intake
+- Exercise: Walks 30 minutes daily
+- Tobacco Use: None
+- Alcohol Consumption: Occasional, social drinking (1-2 drinks/month)
+- Drug Use: None
+- Recreational Activities: Enjoys gardening and reading
+
+Geographical Location:
+- Urban
+- Well-served by Transit
+- Affluent Neighborhood
+
+Patient's Behavior:
+- Cooperative and follows medical advice regularly
+
+Symptom Description:
+- Severity: N/A
+- Duration: N/A
+- Associated Symptoms: N/A
+- Frequency: N/A
+- Impact on Daily Activities: N/A
+
+Physical exams:
+- General physical examination including vital signs, cardiovascular, respiratory, and musculoskeletal system checks
+
+Investigation/Test results:
+- Blood Work: Biochemistry for preoperative evaluation including CBC, renal function tests, and coagulation profile.
+- Imaging: Chest X-ray to rule out any underlying pulmonary conditions before surgery.
+
+Medical Outcome:
+- Diagnosis: Encounter for preprocedural examinations.
+- Prescribed Treatment: N/A for this encounter.
+- Follow-up Recommendations: Schedule an appointment for review of preoperative tests 3 days prior to surgery.
+- Referral: Referral to an anesthesiologist for pre-anesthetic evaluation.
+- Order for blood work: CBC, renal function tests, and coagulation profile.
+- Order for Imaging: Chest X-ray for preoperative evaluation."|Rejected|Rejected|Rejected|Rejected||
