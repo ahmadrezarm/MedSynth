@@ -34,6 +34,9 @@ class InstructDataset(ABC):
                 self.dataset = pd.read_csv(dataset_path, sep= "|")
         elif dataset_path == "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/phase_6_500/_combined_with_dial.csv":
                 self.dataset = pd.read_csv(dataset_path, sep= "|")
+        elif dataset_path == "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/phase_7_1.5k/_combined_with_dial.csv":
+                self.dataset = pd.read_csv(dataset_path, sep= "|")
+
         else:
             self.dataset = pd.read_csv(dataset_path)
 
