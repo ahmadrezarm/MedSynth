@@ -29,7 +29,7 @@ def file_exists(disease_description, path_to_save_notes):
 
 def main():
     ###### Edit this for each phase #############
-    path_to_save_notes= "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/phase_11_1.5k"
+    path_to_save_notes= "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/phase_12_35_remaining"
     ##############################################
     counter= 1
     openai_client= note_generation_functions.initialize_openai_client()
@@ -43,10 +43,12 @@ def main():
     #next_300_icd10_desc = df['ICD10_desc'].iloc[800:1100].tolist()  
     #next_300_icd10_desc = df['ICD10_desc'].iloc[1100:1400].tolist()  
     #next_300_icd10_desc = df['ICD10_desc'].iloc[1400:1700].tolist()  
-    next_300_icd10_desc = df['ICD10_desc'].iloc[1700:2000].tolist()  
+    #next_300_icd10_desc = df['ICD10_desc'].iloc[1700:2000].tolist()  
+    #next_7_icd10_desc = df['ICD10_desc'].iloc[2000:2007].tolist()
+    remained= ["HEART DISEASE, UNSPECIFIED"]  
 
 
-    for disease in next_300_icd10_desc:
+    for disease in remained:
             print(f"counter is: {counter}")
             print(disease)
             if not file_exists(disease, path_to_save_notes):
