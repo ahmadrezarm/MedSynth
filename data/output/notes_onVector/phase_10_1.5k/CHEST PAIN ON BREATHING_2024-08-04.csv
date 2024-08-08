@@ -1,0 +1,1555 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role
+CHEST PAIN ON BREATHING|"ROLE: General Physician
+
+**Scenario:**
+
+1. **Medical Outcome:**
+   - Diagnosis: Chest Pain on Breathing (ICD-10 R07.1)
+   - Prescribed Treatment: Prescribe Ibuprofen 400 mg oral every 6 hours as needed for pain, quantity 30 tablets.
+   - Follow-up Recommendations: Follow-up in 1 week to reassess pain and review test results.
+   - Referral to Specialists: Referral to Pulmonologist - Dr. James Miller for further evaluation of possible underlying respiratory condition.
+   - Referral to Further Tests: 
+     - Chest X-ray (PA and Lateral views) to assess for any abnormalities in the lungs and chest structure.
+     - Blood Work: Complete Blood Count (CBC) to check for any signs of infection or inflammation.
+
+2. **Medical History:**
+   - Previous Diagnoses: GERD diagnosed 2 years ago, managed with lifestyle changes and occasional antacids.
+   - Family Medical History: Father had hypertension and mother had asthma.
+   - Medication History: No current medications, only occasional use of antacids.
+   - Allergies: NKDA
+   - Chronic Conditions: GERD
+
+3. **Symptom Description:**
+   - Severity: Moderate to severe chest pain.
+   - Duration: 3 days.
+   - Associated Symptoms: Shortness of breath, especially when taking deep breaths.
+   - Frequency: Constant pain, worsens with deep breaths.
+   - Impact on Daily Activities: Difficulty performing daily activities due to pain and shortness of breath.
+
+4. **Patient’s Self-Reported Habits and Lifestyle:**
+   - Sleep: Poor sleep due to pain.
+   - Diet: Balanced diet with occasional spicy foods.
+   - Exercise: Regular light exercise, such as walking.
+   - Tobacco Use: Smokes half a pack of cigarettes daily for 10 years.
+   - Alcohol Consumption: Occasional, socially.
+   - Drug Use: Denies recreational drug use.
+   - Recreational Activities: Enjoys gardening and reading.
+
+5. **Demographic Information:**
+   - Age: 45
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle-income
+   - Education Level: High school graduate
+   - Health Literacy: Moderate
+   - Job Status: Mechanic
+
+6. **Patient's Behavior:**
+   - Cooperative with medical advice but concerned about pain and potential serious conditions.
+
+7. **Geographical Location:**
+   - Big City vs Small City: Lives in a small city
+   - Rural vs Urban: Suburban area
+   - Pollution and Environmental Health Risks: Moderate air pollution due to nearby factories
+   - Neighborhood Type: Middle-class suburban, well-served by transit
+
+8. **Clinical Setting:**
+   - Community Health Services
+
+9. **Type of Encounter:**
+   - Initial Consultation
+
+10. **Treatment Disparities:**
+    - N/A
+
+11. **Native or Non-Native English Speaking Patient:**
+    - Native English Speaking Patient
+
+12. **Physical exams:**
+    - Respiratory Examination: Reduced breath sounds on the left side, bilateral wheezing.
+    - Cardiovascular Examination: Regular rate and rhythm, no murmurs.
+    - Chest Palpation: Tenderness over the lower rib cage.
+
+13. **Investigation/Test results:**
+    - Awaiting: Chest X-ray (PA and Lateral views) and Complete Blood Count (CBC)."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Chest pain on breathing.
+
+**History of Present Illness (HPI):**
+John Smith is a 45-year-old Caucasian male who presents with moderate to severe chest pain for the past three days. The pain is described as constant and worsens with deep breaths. He also reports shortness of breath, especially when taking deep breaths. The pain has significantly impacted his ability to perform daily activities, and he has experienced poor sleep due to the pain.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Denies fever, chills, weight loss.
+- **Respiratory:** Endorses shortness of breath with deep breaths.
+- **Cardiovascular:** Denies palpitations, syncope.
+- **Gastrointestinal:** Denies nausea, vomiting, abdominal pain. History of GERD.
+- **Musculoskeletal:** Endorses chest wall tenderness.
+- **Neurological:** Denies headaches, dizziness.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 98.6°F
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **General:** Alert and oriented, in moderate distress due to pain.
+- **Respiratory:** Reduced breath sounds on the left side, bilateral wheezing.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Chest Palpation:** Tenderness over the lower rib cage.
+- **Abdomen:** Soft, non-tender, no masses.
+- **Extremities:** No edema.
+
+**3. Assessment:**
+
+John Smith is a 45-year-old male with a history of GERD presenting with chest pain on breathing, shortness of breath, and chest wall tenderness.
+
+**Differential Diagnosis:**
+1. Pleuritic chest pain possibly due to respiratory infection or inflammation.
+2. Musculoskeletal pain related to chest wall tenderness.
+3. GERD exacerbation.
+
+**4. Plan:**
+
+**Treatment:**
+- Prescribe Ibuprofen 400 mg oral every 6 hours as needed for pain, quantity 30 tablets.
+
+**Referrals:**
+- Referral to Pulmonologist - Dr. James Miller for further evaluation of possible underlying respiratory condition.
+
+**Further Tests:**
+- Order Chest X-ray (PA and Lateral views) to assess for any abnormalities in the lungs and chest structure.
+- Order Blood Work: Complete Blood Count (CBC) to check for any signs of infection or inflammation.
+
+**Follow-Up:**
+- Follow-up in 1 week to reassess pain and review test results.
+
+**Patient Education and Counseling:**
+- Advised to avoid activities that exacerbate chest pain.
+- Discussed risks of smoking and provided resources for smoking cessation.
+- Encouraged continuation of a balanced diet and regular light exercise.
+- Explained the importance of follow-up and adherence to prescribed therapy.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended medical treatment plan and follow-up schedule.
+#####"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Chest pain on breathing.
+
+**History of Present Illness (HPI):**
+John Smith is a 45-year-old Caucasian male who presents with moderate to severe chest pain for the past three days. The pain is described as constant and worsens with deep breaths. He also reports shortness of breath, especially when taking deep breaths. The pain has significantly impacted his ability to perform daily activities, and he has experienced poor sleep due to the pain.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Denies fever, chills, weight loss.
+- **Respiratory:** Endorses shortness of breath with deep breaths.
+- **Cardiovascular:** Denies palpitations, syncope.
+- **Gastrointestinal:** Denies nausea, vomiting, abdominal pain. History of GERD.
+- **Musculoskeletal:** Endorses chest wall tenderness.
+- **Neurological:** Denies headaches, dizziness.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 98.6°F
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 18 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **General:** Alert and oriented, in moderate distress due to pain.
+- **Respiratory:** Reduced breath sounds on the left side, bilateral wheezing.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Chest Palpation:** Tenderness over the lower rib cage.
+- **Abdomen:** Soft, non-tender, no masses.
+- **Extremities:** No edema.
+
+**3. Assessment:**
+
+John Smith is a 45-year-old male with a history of GERD presenting with chest pain on breathing, shortness of breath, and chest wall tenderness.
+
+**Differential Diagnosis:**
+1. Pleuritic chest pain possibly due to respiratory infection or inflammation.
+2. Musculoskeletal pain related to chest wall tenderness.
+3. GERD exacerbation.
+
+**4. Plan:**
+
+**Treatment:**
+- Prescribe Ibuprofen 400 mg oral every 6 hours as needed for pain, quantity 30 tablets.
+
+**Referrals:**
+- Referral to Pulmonologist - Dr. James Miller for further evaluation of possible underlying respiratory condition.
+
+**Further Tests:**
+- Order Chest X-ray (PA and Lateral views) to assess for any abnormalities in the lungs and chest structure.
+- Order Blood Work: Complete Blood Count (CBC) to check for any signs of infection or inflammation.
+
+**Follow-Up:**
+- Follow-up in 1 week to reassess pain and review test results.
+
+**Patient Education and Counseling:**
+- Advised to avoid activities that exacerbate chest pain.
+- Discussed risks of smoking and provided resources for smoking cessation.
+- Encouraged continuation of a balanced diet and regular light exercise.
+- Explained the importance of follow-up and adherence to prescribed therapy.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended medical treatment plan and follow-up schedule.
+#####"|"#####
+**1. Subjective:**
+
+**CC:**
+Chest pain on breathing.
+
+**HPI:**
+John Smith is a 45-year-old Caucasian male who presents with moderate to severe CP for the past three days. The pain is described as constant and worsens with deep breaths. He also reports SOB, especially when taking deep breaths. The pain has significantly impacted his ability to perform ADLs, and he has experienced poor sleep due to the pain.
+
+**ROS:**
+- **Constitutional:** Denies fever, chills, weight loss.
+- **Respiratory:** Endorses SOB with deep breaths.
+- **Cardiovascular:** Denies palpitations, syncope.
+- **Gastrointestinal:** Denies nausea, vomiting, abdominal pain. Hx of GERD.
+- **Musculoskeletal:** Endorses chest wall tenderness.
+- **Neurological:** Denies headaches, dizziness.
+
+**2. Objective:**
+
+**VS:**
+- Temp: 98.6°F
+- BP: 130/85 mmHg
+- HR: 78 bpm
+- RR: 18 bpm
+- O2 Sat: 98% on RA
+
+**Physical Exam:**
+- **General:** Alert and oriented, in moderate distress due to pain.
+- **Respiratory:** Reduced breath sounds on the left side, bilateral wheezing.
+- **Cardiovascular:** RRR, no murmurs.
+- **Chest Palpation:** Tenderness over the lower rib cage.
+- **Abdomen:** Soft, non-tender, no masses.
+- **Extremities:** No edema.
+
+**3. Assessment:**
+
+John Smith is a 45-year-old male with a Hx of GERD presenting with CP on breathing, SOB, and chest wall tenderness.
+
+**Differential Dx:**
+1. Pleuritic CP possibly due to respiratory infection or inflammation.
+2. Musculoskeletal pain related to chest wall tenderness.
+3. GERD exacerbation.
+
+**4. Plan:**
+
+**Tx:**
+- Rx Ibuprofen 400 mg PO q6h PRN for pain, qty 30 tabs.
+
+**Referrals:**
+- Referral to Pulmonologist - Dr. James Miller for further evaluation of possible underlying respiratory condition.
+
+**Further Tests:**
+- Order CXR (PA and Lat views) to assess for any abnormalities in the lungs and chest structure.
+- Order Blood Work: CBC to check for any signs of infection or inflammation.
+
+**Follow-Up:**
+- F/U in 1 week to reassess pain and review test results.
+
+**Patient Education and Counseling:**
+- Advised to avoid activities that exacerbate CP.
+- Discussed risks of smoking and provided resources for smoking cessation.
+- Encouraged continuation of a balanced diet and regular light exercise.
+- Explained the importance of F/U and adherence to prescribed therapy.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended medical Tx plan and F/U schedule.
+#####"|General Physician
+CHEST PAIN ON BREATHING|"ROLE: General Physician
+
+SCENARIO VALUES:
+
+1) Medical Outcome:
+   - Diagnosis: Pleurisy (ICD-10 code: R09.1)
+   - Prescribed Treatment:
+     - NSAIDs for pain management: Celecoxib 200 mg, oral, twice daily for 10 days, 20 capsules.
+   - Follow-up Recommendations: Follow-up in 1 week to reassess symptoms.
+   - Referral to Specialists: Pulmonologist to evaluate underlying lung conditions, Dr. Karen Lee.
+   - Referral to Further Tests:
+     - Blood Work: CBC (Complete Blood Count) to rule out infection.
+     - Imaging: Chest CT scan to evaluate pleura and detect any effusion.
+
+2) Medical History:
+   - Previous Diagnoses: Hypertension, managed with medication.
+   - Medication History: Losartan 100 mg daily for hypertension, refilled recently.
+   - Chronic Conditions: Obesity, BMI of 35.
+
+3) Symptom Description:
+   - Severity: Moderate.
+   - Duration: 4 days.
+   - Associated Symptoms: Shortness of breath, dry cough, mild fever.
+   - Frequency: Persistent.
+   - Impact on Daily Activities: Significant limitation, unable to perform household chores.
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: 5-6 hours per night, disturbed by pain.
+   - Diet: High in carbohydrates and fats, poor dietary control.
+   - Exercise: Minimal, occasional walking.
+   - Tobacco Use: Smoker, 1 pack per day for 20 years.
+   - Alcohol Consumption: Moderate, 1-2 drinks per night.
+   - Recreational Activities: None due to physical discomfort and lifestyle.
+
+5) Demographic Information:
+   - Age: 50
+   - Gender: Male
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Lower middle class
+   - Education Level: High school graduate
+   - Health Literacy: Low understanding of medical issues
+   - Job Status: Factory worker, physically demanding job
+
+6) Patient's Behavior:
+   - Level of patient's cooperation with medical advice: Often non-compliant with medical advice and appointments.
+
+7) Geographical Location:
+   - Big City vs Small City: Big City
+   - Rural vs Urban: Urban
+   - Pollution and Environmental Health Risks: High pollution due to heavy traffic and industry.
+   - Neighborhood Type: Impoverished, limited access to healthcare facilities.
+
+8) Clinical Setting:
+   - Emergency Department
+
+9) Type of Encounter:
+   - Emergency Visit
+
+10) Treatment Disparities:
+   - Limited access to follow-up care due to financial constraints.
+
+11) Native or Non-Native English Speaking Patient:
+   - Non-Native English Speaking Patient (Primary language: Spanish)
+
+12) Physical exams:
+   - Respiratory Examination: Decreased breath sounds and pleural rub on auscultation in the left lower lung field.
+   - Cardiovascular Examination: Regular rate and rhythm, no murmurs.
+   - Abdominal Examination: Obese abdomen, non-tender.
+
+13) Investigation/Test results:
+   - Awaiting: Chest CT scan and Blood Work (CBC)"|"### Medical Note
+
+#### 1. Subjective:
+**Chief Complaint (CC):**
+Persistent chest pain and difficulty breathing.
+
+**History of Present Illness (HPI):**
+The patient is a 50-year-old Hispanic male who presents to the Emergency Department with complaints of moderate chest pain, shortness of breath, dry cough, and mild fever for the past 4 days. He reports significant limitations in his daily activities due to these symptoms, being unable to perform household chores. His sleep is disturbed due to pain, getting only 5-6 hours per night. The patient is a smoker (1 pack per day for 20 years) and has a diet high in carbohydrates and fats with minimal exercise. He drinks alcohol moderately (1-2 drinks per night) and currently holds a physically demanding job as a factory worker. He lives in an urban area with high pollution and limited access to healthcare facilities.
+
+**Review of Systems (ROS):**
+- **Respiratory:** Shortness of breath, dry cough.
+- **Cardiovascular:** No chest pain unrelated to breathing, no palpitations.
+- **Gastrointestinal:** No nausea, vomiting, or diarrhea. Obese but non-tender abdomen.
+- **General:** Mild fever, fatigued.
+- **Musculoskeletal:** No joint pain or swelling.
+- **Neurological:** No headaches, dizziness, or changes in mental status.
+- **Psychiatric:** Non-specific.
+
+#### 2. Objective:
+**Vitals:**
+- Blood Pressure: 150/90 mmHg
+- Heart Rate: 85 beats per minute
+- Respiratory Rate: 22 breaths per minute
+- Temperature: 100.4°F (38°C)
+- Oxygen Saturation: 94% on room air
+
+**Physical Examination:**
+- **General:** Obese male, appears in moderate distress due to chest pain.
+- **Respiratory:** Decreased breath sounds and pleural rub on auscultation in the left lower lung field.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Abdominal:** Obese abdomen, non-tender to palpation.
+
+#### 3. Assessment:
+**Primary Diagnosis:**
+Pleurisy (ICD-10 code: R09.1)
+
+**Differential Diagnoses:**
+- Pneumonia
+- Pulmonary Embolism
+- Acute Bronchitis
+- Congestive Heart Failure
+
+#### 4. Plan:
+**Prescribed Treatment:**
+- **Medications:**
+  - Celecoxib 200 mg, oral, twice daily for 10 days, 20 capsules
+
+**Referrals:**
+- **Pulmonologist:** Dr. Karen Lee to evaluate underlying lung conditions
+
+**Further Investigations:**
+- **Blood Work:** Complete Blood Count (CBC) to rule out infection
+- **Imaging:** Chest CT scan to evaluate pleura and detect any effusion
+
+**Follow-up Recommendations:**
+- Follow-up appointment in 1 week to reassess symptoms.
+
+**Instructions to the Patient:**
+- Continue taking Losartan 100 mg daily for hypertension.
+- Begin the prescribed NSAIDs for pain management.
+- Avoid smoking and seek resources for smoking cessation.
+- Adjust diet to reduce carbohydrate and fat intake.
+- Attempt to increase physical activity within comfort limits.
+- Seek emergent care if experiencing worsening shortness of breath, severe pain, or other concerning symptoms.
+- Due to financial constraints, explore community health resources for potential support in follow-up care.
+
+**Educational Points:**
+- Explanation provided in Spanish regarding the nature of pleurisy, importance of medication adherence, lifestyle modifications, and the necessity of follow-up care.
+
+**Discharge Plan:**
+- Patient discharged with instructions and medication.
+- Emphasis on the importance of compliance with prescribed treatment and follow-up appointments."|"### Medical Note
+
+#### 1. Subjective:
+**Chief Complaint (CC):**
+Persistent chest pain and difficulty breathing.
+
+**History of Present Illness (HPI):**
+The patient is a 50-year-old Hispanic male who presents to the Emergency Department with complaints of moderate chest pain, shortness of breath, dry cough, and mild fever for the past 4 days. He reports significant limitations in his daily activities due to these symptoms, being unable to perform household chores. His sleep is disturbed due to pain, getting only 5-6 hours per night. The patient is a smoker (1 pack per day for 20 years) and has a diet high in carbohydrates and fats with minimal exercise. He drinks alcohol moderately (1-2 drinks per night) and currently holds a physically demanding job as a factory worker. He lives in an urban area with high pollution and limited access to healthcare facilities.
+
+**Review of Systems (ROS):**
+- **Respiratory:** Shortness of breath, dry cough.
+- **Cardiovascular:** No chest pain unrelated to breathing, no palpitations.
+- **Gastrointestinal:** No nausea, vomiting, or diarrhea. Obese but non-tender abdomen.
+- **General:** Mild fever, fatigued.
+- **Musculoskeletal:** No joint pain or swelling.
+- **Neurological:** No headaches, dizziness, or changes in mental status.
+- **Psychiatric:** Non-specific.
+
+#### 2. Objective:
+**Vitals:**
+- Blood Pressure: 150/90 mmHg
+- Heart Rate: 85 beats per minute
+- Respiratory Rate: 22 breaths per minute
+- Temperature: 100.4°F (38°C)
+- Oxygen Saturation: 94% on room air
+
+**Physical Examination:**
+- **General:** Obese male, appears in moderate distress due to chest pain.
+- **Respiratory:** Decreased breath sounds and pleural rub on auscultation in the left lower lung field.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Abdominal:** Obese abdomen, non-tender to palpation.
+
+#### 3. Assessment:
+**Primary Diagnosis:**
+Pleurisy (ICD-10 code: R09.1)
+
+**Differential Diagnoses:**
+- Pneumonia
+- Pulmonary Embolism
+- Acute Bronchitis
+- Congestive Heart Failure
+
+#### 4. Plan:
+**Prescribed Treatment:**
+- **Medications:**
+  - Celecoxib 200 mg, oral, twice daily for 10 days, 20 capsules
+
+**Referrals:**
+- **Pulmonologist:** Dr. Karen Lee to evaluate underlying lung conditions
+
+**Further Investigations:**
+- **Blood Work:** Complete Blood Count (CBC) to rule out infection
+- **Imaging:** Chest CT scan to evaluate pleura and detect any effusion
+
+**Follow-up Recommendations:**
+- Follow-up appointment in 1 week to reassess symptoms.
+
+**Instructions to the Patient:**
+- Continue taking Losartan 100 mg daily for hypertension.
+- Begin the prescribed NSAIDs for pain management.
+- Avoid smoking and seek resources for smoking cessation.
+- Adjust diet to reduce carbohydrate and fat intake.
+- Attempt to increase physical activity within comfort limits.
+- Seek emergent care if experiencing worsening shortness of breath, severe pain, or other concerning symptoms.
+- Due to financial constraints, explore community health resources for potential support in follow-up care.
+
+**Educational Points:**
+- Explanation provided in Spanish regarding the nature of pleurisy, importance of medication adherence, lifestyle modifications, and the necessity of follow-up care.
+
+**Discharge Plan:**
+- Patient discharged with instructions and medication.
+- Emphasis on the importance of compliance with prescribed treatment and follow-up appointments."|"### Medical Note
+
+#### 1. Subjective:
+**CC:**
+Persistent CP and SOB.
+
+**HPI:**
+The pt is a 50 y/o Hispanic male presenting to the ED with c/o moderate CP, SOB, dry cough, and mild fever x4 days. Reports significant limitations in ADLs due to sx, unable to perform household chores. Sleep disturbed due to pain, getting only 5-6 hrs/night. Pt is a smoker (1 ppd x20 yrs) and has a diet high in carbs and fats with minimal exercise. Drinks alcohol moderately (1-2 drinks/night) and currently holds a physically demanding job as a factory worker. Lives in an urban area with high pollution and limited access to healthcare facilities.
+
+**ROS:**
+- **Resp:** SOB, dry cough.
+- **CV:** No CP unrelated to breathing, no palpitations.
+- **GI:** No N/V/D. Obese but non-tender abdomen.
+- **General:** Mild fever, fatigued.
+- **MSK:** No joint pain or swelling.
+- **Neuro:** No HA, dizziness, or changes in mental status.
+- **Psych:** Non-specific.
+
+#### 2. Objective:
+**Vitals:**
+- BP: 150/90 mmHg
+- HR: 85 bpm
+- RR: 22 bpm
+- Temp: 100.4°F (38°C)
+- O2 Sat: 94% on RA
+
+**PE:**
+- **General:** Obese male, appears in moderate distress due to CP.
+- **Resp:** Decreased BS and pleural rub on auscultation in the LLL.
+- **CV:** RRR, no murmurs.
+- **Abd:** Obese, non-tender to palpation.
+
+#### 3. Assessment:
+**Primary Dx:**
+Pleurisy (ICD-10: R09.1)
+
+**DDx:**
+- PNA
+- PE
+- Acute bronchitis
+- CHF
+
+#### 4. Plan:
+**Rx:**
+- Celecoxib 200 mg PO BID x10 days, 20 caps
+
+**Referrals:**
+- Pulmonologist: Dr. Karen Lee to eval underlying lung conditions
+
+**Further Investigations:**
+- **Labs:** CBC to r/o infection
+- **Imaging:** Chest CT to eval pleura and detect any effusion
+
+**F/U Recommendations:**
+- F/U in 1 week to reassess sx.
+
+**Pt Instructions:**
+- Continue Losartan 100 mg daily for HTN.
+- Begin prescribed NSAIDs for pain mgmt.
+- Avoid smoking and seek resources for smoking cessation.
+- Adjust diet to reduce carbs and fat intake.
+- Attempt to increase physical activity within comfort limits.
+- Seek emergent care if experiencing worsening SOB, severe pain, or other concerning sx.
+- Due to financial constraints, explore community health resources for potential support in F/U care.
+
+**Educational Points:**
+- Explanation provided in Spanish regarding the nature of pleurisy, importance of med adherence, lifestyle modifications, and necessity of F/U care.
+
+**Discharge Plan:**
+- Pt discharged with instructions and med.
+- Emphasis on the importance of compliance with prescribed tx and F/U appts."|General Physician
+CHEST PAIN ON BREATHING|"ROLE: General Physician
+
+Variables for the scenario:
+- **Medical Outcome**: Prescription for muscle relaxant (Cyclobenzaprine 10 mg, oral, once daily for 5 days); order for an MRI of the thoracic spine; referral to an orthopedic specialist for further evaluation.
+- **Medical History**: Previous Diagnoses (Chronic lower back pain), Family Medical History (Brother has rheumatoid arthritis), Medication History (Occasional use of over-the-counter analgesics for muscle pain), Allergies (Seasonal pollen), Chronic Conditions (None).
+- **Symptom Description**: Severity (Mild to moderate), Duration (2 weeks), Associated Symptoms (No fever, no cough), Frequency (Intermittent, mostly at the end of the day), Impact on Daily Activities (Able to work with some discomfort, sleeps poorly).
+- **Patient’s self-reported habits and lifestyle**: Sleep (Poor, due to discomfort), Diet (Vegetarian), Exercise (Regular yoga), Tobacco Use (None), Alcohol Consumption (None), Drug Use (None), Recreational Activities (Gardening).
+- **Demographic Information**: Age (34), Gender (Female), Ethnicity (Asian), Socio-economic Status (Upper middle class), Education Level (Postgraduate), Health Literacy (High), Job Status (Corporate manager).
+- **Patient's Behavior**: Highly cooperative and usually adheres to medical advice.
+- **Geographical Location**: Urban, affluent neighborhood, well-served by public transit, low pollution.
+- **Clinical Setting**: Private Practice.
+- **Type of Encounter**: Initial Consultation.
+- **Treatment Disparities**: None noted.
+- **Native or Non-Native English Speaking Patient**: Native English Speaking.
+- **Physical exams**: Neurological exam, Musculoskeletal exam.
+- **Investigation/Test results**: Awaiting MRI of the thoracic spine to rule out disc herniation or spinal stenosis; no additional blood work ordered.
+
+This revised scenario includes diverse medical history, symptoms, and lifestyle elements, focusing on musculoskeletal issues with appropriate imaging and a referral."|"### Medical Note
+
+#### 1. Subjective:
+
+**Chief Complaint (CC):** 
+Upper back pain.
+
+**History of Present Illness (HPI):**
+Ms. Lin is a 34-year-old Asian female who presents today with complaints of mild to moderate upper back pain that has persisted for the past 2 weeks. She describes the pain as intermittent, mostly occurring at the end of the day. The pain is affecting her sleep quality but she is able to continue her work as a corporate manager with some discomfort. She denies any associated symptoms such as fever or cough.
+
+**Review of Systems (ROS):**
+- **General:** No fever, no weight loss.
+- **Musculoskeletal:** Reports mild to moderate upper back pain, denies joint swelling.
+- **Neurological:** Denies numbness or tingling.
+
+**Current Medications:**
+- Occasional over-the-counter analgesics for muscle pain
+
+**Past Medical History:**
+- Chronic lower back pain
+
+**Family Medical History:**
+- Brother with rheumatoid arthritis
+
+**Allergies:**
+- Seasonal pollen
+
+**Social History:**
+- Lives in an affluent urban neighborhood, well-served by public transit.
+- Vegetarian diet, practices regular yoga.
+- No tobacco, alcohol, or drug use.
+- Enjoys gardening as a recreational activity.
+
+#### 2. Objective:
+
+**Vital Signs:**
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 14 breaths/min
+- Temperature: 98.6°F
+
+**Physical Examination:**
+- **Neurological Exam:** No focal deficits, strength 5/5 in all extremities, sensation intact.
+- **Musculoskeletal Exam:** Mild tenderness over the thoracic spine, no muscular atrophy, full range of motion in the upper extremities, no muscle spasms observed.
+
+#### 3. Assessment:
+
+**Primary Diagnosis:**
+- Thoracic spine pain, likely musculoskeletal in origin.
+
+**Differential Diagnoses:**
+- Muscular strain
+- Thoracic disc herniation
+- Spinal stenosis
+
+#### 4. Plan:
+
+1. **Medication:**
+   - Prescribed Cyclobenzaprine 10 mg, oral, once daily for 5 days for muscle relaxation.
+
+2. **Imaging:**
+   - Ordered MRI of the thoracic spine to rule out disc herniation or spinal stenosis.
+
+3. **Referral:**
+   - Referred to an orthopedic specialist for further evaluation.
+
+4. **Patient Education:**
+   - Advised to maintain her regular yoga practice but avoid any movements that exacerbate the pain.
+   - Discussed the importance of ergonomic adjustments at her workplace to reduce strain on her back.
+
+5. **Follow-up:**
+   - Follow-up appointment scheduled in 2 weeks to review MRI results and discuss the next steps based on orthopedic evaluation.
+
+All questions were answered, and the patient expressed understanding and agreement with the plan. She is highly cooperative and usually adheres to medical advice."|"### Medical Note
+
+#### 1. Subjective:
+
+**Chief Complaint (CC):** 
+Upper back pain.
+
+**History of Present Illness (HPI):**
+Ms. Lin is a 34-year-old Asian female who presents today with complaints of mild to moderate upper back pain that has persisted for the past 2 weeks. She describes the pain as intermittent, mostly occurring at the end of the day. The pain is affecting her sleep quality but she is able to continue her work as a corporate manager with some discomfort. She denies any associated symptoms such as fever or cough.
+
+**Review of Systems (ROS):**
+- **General:** No fever, no weight loss.
+- **Musculoskeletal:** Reports mild to moderate upper back pain, denies joint swelling.
+- **Neurological:** Denies numbness or tingling.
+
+**Current Medications:**
+- Occasional over-the-counter analgesics for muscle pain
+
+**Past Medical History:**
+- Chronic lower back pain
+
+**Family Medical History:**
+- Brother with rheumatoid arthritis
+
+**Allergies:**
+- Seasonal pollen
+
+**Social History:**
+- Lives in an affluent urban neighborhood, well-served by public transit.
+- Vegetarian diet, practices regular yoga.
+- No tobacco, alcohol, or drug use.
+- Enjoys gardening as a recreational activity.
+
+#### 2. Objective:
+
+**Vital Signs:**
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 14 breaths/min
+- Temperature: 98.6°F
+
+**Physical Examination:**
+- **Neurological Exam:** No focal deficits, strength 5/5 in all extremities, sensation intact.
+- **Musculoskeletal Exam:** Mild tenderness over the thoracic spine, no muscular atrophy, full range of motion in the upper extremities, no muscle spasms observed.
+
+#### 3. Assessment:
+
+**Primary Diagnosis:**
+- Thoracic spine pain, likely musculoskeletal in origin.
+
+**Differential Diagnoses:**
+- Muscular strain
+- Thoracic disc herniation
+- Spinal stenosis
+
+#### 4. Plan:
+
+1. **Medication:**
+   - Prescribed Cyclobenzaprine 10 mg, oral, once daily for 5 days for muscle relaxation.
+
+2. **Imaging:**
+   - Ordered MRI of the thoracic spine to rule out disc herniation or spinal stenosis.
+
+3. **Referral:**
+   - Referred to Dr. John Smith, an orthopedic specialist, for further evaluation due to persistent upper back pain and to rule out any structural abnormalities.
+
+4. **Patient Education:**
+   - Advised to maintain her regular yoga practice but avoid any movements that exacerbate the pain.
+   - Discussed the importance of ergonomic adjustments at her workplace to reduce strain on her back.
+
+5. **Follow-up:**
+   - Follow-up appointment scheduled in 2 weeks to review MRI results and discuss the next steps based on orthopedic evaluation.
+
+All questions were answered, and the patient expressed understanding and agreement with the plan. She is highly cooperative and usually adheres to medical advice."|"### Medical Note
+
+#### 1. Subjective:
+
+**CC:** 
+Upper back pain.
+
+**HPI:**
+Ms. Lin is a 34 y/o Asian F who presents today c/o mild to moderate upper back pain x2 weeks. She describes the pain as intermittent, mostly occurring at the end of the day. The pain is affecting her sleep quality but she is able to continue her work as a corporate manager with some discomfort. She denies any associated symptoms such as fever or cough.
+
+**ROS:**
+- **General:** No fever, no weight loss.
+- **MSK:** Reports mild to moderate upper back pain, denies joint swelling.
+- **Neuro:** Denies numbness or tingling.
+
+**Current Meds:**
+- Occasional OTC analgesics for muscle pain
+
+**PMH:**
+- Chronic lower back pain
+
+**FMH:**
+- Brother with RA
+
+**Allergies:**
+- Seasonal pollen
+
+**Social Hx:**
+- Lives in an affluent urban neighborhood, well-served by public transit.
+- Vegetarian diet, practices regular yoga.
+- No tobacco, ETOH, or drug use.
+- Enjoys gardening as a recreational activity.
+
+#### 2. Objective:
+
+**VS:**
+- BP: 120/80 mmHg
+- HR: 72 bpm
+- RR: 14
+- Temp: 98.6°F
+
+**PE:**
+- **Neuro Exam:** No focal deficits, strength 5/5 in all extremities, sensation intact.
+- **MSK Exam:** Mild tenderness over the T-spine, no muscular atrophy, full ROM in the upper extremities, no muscle spasms observed.
+
+#### 3. Assessment:
+
+**Primary Dx:**
+- Thoracic spine pain, likely MSK in origin.
+
+**DDx:**
+- Muscular strain
+- Thoracic disc herniation
+- Spinal stenosis
+
+#### 4. Plan:
+
+1. **Rx:**
+   - Rx'ed Cyclobenzaprine 10 mg PO QHS x5 days for muscle relaxation.
+
+2. **Imaging:**
+   - Ordered MRI T-spine to r/o disc herniation or spinal stenosis.
+
+3. **Referral:**
+   - Referred to ortho Dr. John Smith for further eval due to persistent upper back pain and to r/o any structural abnormalities.
+
+4. **Pt Education:**
+   - Advised to maintain her regular yoga practice but avoid any movements that exacerbate the pain.
+   - Discussed the importance of ergonomic adjustments at her workplace to reduce strain on her back.
+
+5. **F/U:**
+   - F/U in 2 weeks to review MRI results and discuss the next steps based on ortho eval.
+
+All questions were answered, and the patient expressed understanding and agreement with the plan. She is highly cooperative and usually adheres to medical advice."|General Physician
+CHEST PAIN ON BREATHING|"ROLE: Cardiologist
+
+1) Medical Outcome:
+   - Diagnosis: Chest pain on breathing (ICD-10 Description: R07.1 Chest pain on breathing)
+   - Prescribed Treatment: 
+     * Medication: Ibuprofen 200 mg, orally, 3 times a day, for 7 days, 21 tablets.
+   - Follow-up Recommendations: Follow-up in 1 week to reassess symptoms.
+   - Referral to Specialists: Referral to pulmonologist Dr. John Smith for further evaluation of potential respiratory causes.
+   - Further Tests or Imaging: 
+     * Imaging: Chest X-ray (confirming no previous imaging conducted recently).
+     * Blood Work: Cardiac enzymes, CBC, and D-dimer to rule out potential causes like infection, clotting disorders, or myocardial damage.
+
+2) Medical History:
+   - Previous Diagnoses: Hypertension
+   - Family Medical History: Mother had a myocardial infarction at age 55, father has COPD
+   - Medication History: Currently taking Lisinopril 10 mg daily for hypertension.
+   - Allergies: None
+   - Chronic Conditions: Hypertension
+
+3) Symptom Description:
+   - Severity: Severe
+   - Duration: 3 days
+   - Associated Symptoms: Shortness of breath, mild fever
+   - Frequency: Constant
+   - Impact on Daily Activities: Significant, unable to perform routine tasks
+
+4) Patient's Self-reported Habits and Lifestyle:
+   - Sleep: Reports adequate sleep, but quality has decreased due to pain
+   - Diet: Balanced diet with low sodium intake due to hypertension
+   - Exercise: Moderately active, participates in walking 3 times a week
+   - Tobacco Use: Non-smoker
+   - Alcohol Consumption: Social drinker, 1-2 drinks per week
+   - Drug Use: None
+   - Recreational Activities: Enjoys gardening, typically very active outdoors
+
+5) Demographic Information:
+   - Age: 48
+   - Gender: Female
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: High
+   - Job Status: Full-time office manager
+
+6) Patient's Behavior:
+   - Very cooperative and follows medical advice diligently
+
+7) Geographical Location:
+   - Big City
+   - Urban
+   - Well-served by Transit
+   - Moderate pollution
+
+8) Clinical Setting:
+   - Private Practice
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - No notable disparities; patient has insurance and able to afford recommended treatment
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English Speaker
+
+12) Physical Exams:
+   - Cardiovascular: Heart sounds normal, no murmurs, rubs or gallops.
+   - Respiratory: Decreased breath sounds in the lower left lung field, mild crackles.
+
+13) Investigation/Test Results:
+   - Awaiting: Chest X-ray, Cardiac enzymes, CBC, and D-dimer results"|"#####
+**Subjective:**
+
+**Chief Complaint (CC):**
+48-year-old female presents with chest pain on breathing.
+
+**History of Present Illness (HPI):**
+The patient reports experiencing severe chest pain for the past 3 days. The pain is constant and significantly impacts her ability to perform routine tasks. It is associated with shortness of breath and a mild fever. She describes the pain as severe and notes that her quality of sleep has decreased due to the discomfort. 
+
+**Review of Systems (ROS):**
+- Cardiovascular: Denies palpitations or prior similar episodes.
+- Respiratory: Reports shortness of breath.
+- Gastrointestinal: Denies nausea or vomiting.
+- Musculoskeletal: Denies recent trauma or injury.
+- General: Mild fever noted, denies chills or night sweats.
+
+**Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 100.2°F
+- Oxygen Saturation: 96% on room air
+
+**Physical Examination:**
+- **Cardiovascular:** Heart sounds normal, no murmurs, rubs, or gallops.
+- **Respiratory:** Decreased breath sounds in the lower left lung field, mild crackles.
+- **Abdomen:** Soft, non-tender, no hepatosplenomegaly.
+- **Neurological:** Alert and oriented, no focal deficits.
+
+**Assessment:**
+
+Chest pain on breathing (ICD-10: R07.1)
+- Differential diagnoses include potential respiratory causes such as pleuritis, pulmonary embolism, or pneumothorax, as well as cardiac etiologies like pericarditis.
+
+**Plan:**
+
+**Medications:**
+- Ibuprofen 200 mg, orally, 3 times a day, for 7 days, 21 tablets.
+
+**Further Tests/Imaging:**
+- Chest X-ray to evaluate the lung fields and rule out any acute pathology.
+- Blood Work: Cardiac enzymes, CBC, and D-dimer to rule out potential causes such as infection, clotting disorders, or myocardial damage.
+
+**Referrals:**
+- Referral to pulmonologist Dr. John Smith for further evaluation of potential respiratory causes.
+
+**Follow-up:**
+- Follow-up appointment in 1 week to reassess symptoms and review test results.
+
+**Patient Education:**
+- Explained the importance of taking prescribed medication and the necessity of follow-up tests and specialist evaluation.
+- Advised to seek immediate medical attention if symptoms worsen or new symptoms develop, such as severe shortness of breath or chest pain radiating to the arm or jaw.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan."|"#####
+**Subjective:**
+
+**Chief Complaint (CC):**
+48-year-old female presents with chest pain on breathing.
+
+**History of Present Illness (HPI):**
+The patient reports experiencing severe chest pain for the past 3 days. The pain is constant and significantly impacts her ability to perform routine tasks. It is associated with shortness of breath and a mild fever. She describes the pain as severe and notes that her quality of sleep has decreased due to the discomfort. 
+
+**Review of Systems (ROS):**
+- Cardiovascular: Denies palpitations or prior similar episodes.
+- Respiratory: Reports shortness of breath.
+- Gastrointestinal: Denies nausea or vomiting.
+- Musculoskeletal: Denies recent trauma or injury.
+- General: Mild fever noted, denies chills or night sweats.
+
+**Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 100.2°F
+- Oxygen Saturation: 96% on room air
+
+**Physical Examination:**
+- **Cardiovascular:** Heart sounds normal, no murmurs, rubs, or gallops.
+- **Respiratory:** Decreased breath sounds in the lower left lung field, mild crackles.
+- **Abdomen:** Soft, non-tender, no hepatosplenomegaly.
+- **Neurological:** Alert and oriented, no focal deficits.
+
+**Assessment:**
+
+Chest pain on breathing (ICD-10: R07.1)
+- Differential diagnoses include potential respiratory causes such as pleuritis, pulmonary embolism, or pneumothorax, as well as cardiac etiologies like pericarditis.
+
+**Plan:**
+
+**Medications:**
+- Ibuprofen 200 mg, orally, 3 times a day, for 7 days, 21 tablets.
+
+**Further Tests/Imaging:**
+- Chest X-ray to evaluate the lung fields and rule out any acute pathology.
+- Blood Work: Cardiac enzymes, CBC, and D-dimer to rule out potential causes such as infection, clotting disorders, or myocardial damage.
+
+**Referrals:**
+- Referral to pulmonologist Dr. John Smith for further evaluation of potential respiratory causes.
+
+**Follow-up:**
+- Follow-up appointment in 1 week to reassess symptoms and review test results.
+
+**Patient Education:**
+- Explained the importance of taking prescribed medication and the necessity of follow-up tests and specialist evaluation.
+- Advised to seek immediate medical attention if symptoms worsen or new symptoms develop, such as severe shortness of breath or chest pain radiating to the arm or jaw.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan."|"#####
+**Subjective:**
+
+**CC:**
+48 y/o F presents with CP on breathing.
+
+**HPI:**
+Pt reports experiencing severe CP for the past 3 days. The pain is constant and significantly impacts her ability to perform ADLs. It is associated with SOB and a mild fever. She describes the pain as severe and notes that her quality of sleep has decreased due to the discomfort.
+
+**ROS:**
+- CV: Denies palpitations or prior similar episodes.
+- Resp: Reports SOB.
+- GI: Denies N/V.
+- MSK: Denies recent trauma or injury.
+- Gen: Mild fever noted, denies chills or night sweats.
+
+**Objective:**
+
+**VS:**
+- BP: 130/85 mmHg
+- HR: 78 bpm
+- RR: 18 bpm
+- Temp: 100.2°F
+- SpO2: 96% on RA
+
+**PE:**
+- **CV:** Heart sounds normal, no murmurs, rubs, or gallops.
+- **Resp:** Decreased breath sounds in the lower L lung field, mild crackles.
+- **Abd:** Soft, non-tender, no HSM.
+- **Neuro:** A&O, no focal deficits.
+
+**Assessment:**
+
+CP on breathing (ICD-10: R07.1)
+- Differential diagnoses include potential respiratory causes such as pleuritis, PE, or PTX, as well as cardiac etiologies like pericarditis.
+
+**Plan:**
+
+**Meds:**
+- Ibuprofen 200 mg PO TID x7 days, 21 tabs.
+
+**Further Tests/Imaging:**
+- CXR to eval lung fields and r/o any acute pathology.
+- Blood Work: Cardiac enzymes, CBC, and D-dimer to r/o potential causes such as infection, clotting disorders, or myocardial damage.
+
+**Referrals:**
+- Referral to pulm Dr. John Smith for further eval of potential respiratory causes.
+
+**F/U:**
+- F/U appointment in 1 week to reassess symptoms and review test results.
+
+**Pt Education:**
+- Explained the importance of taking prescribed meds and the necessity of F/U tests and specialist eval.
+- Advised to seek immediate medical attention if symptoms worsen or new symptoms develop, such as severe SOB or CP radiating to the arm or jaw.
+
+**Pt Agreements:**
+The pt understands and agrees with the recommended medical treatment plan."|Cardiologist
+CHEST PAIN ON BREATHING|"ROLE: Family Medicine Physician
+
+- **1) Medical Outcome:**
+  - Diagnosis: Pleurisy (ICD-10 description: R09.1 Pleurisy)
+  - Prescribed Treatment: Ibuprofen 400 mg, oral, every 6 hours as needed, for 7 days, quantity: 28 tablets
+  - Follow-up Recommendations: Return visit in 1 week for re-evaluation of symptoms
+  - Referral to Specialists: Referral to Pulmonologist Dr. Sarah Thompson for further evaluation of possible underlying causes
+  - Referral to Further Tests or Imaging: Chest X-ray to rule out pneumonia or other underlying pathology
+
+- **2) Medical History:**
+  - Previous Diagnoses: Hypertension
+  - Family Medical History: Father with chronic obstructive pulmonary disease (COPD)
+  - Medication History: Lisinopril 10 mg daily for hypertension
+  - Allergies: N/A
+  - Chronic Conditions: Hypertension
+
+- **3) Symptom Description:**
+  - Severity: Moderate to severe
+  - Duration: 3 days
+  - Associated Symptoms: Fever, shortness of breath
+  - Frequency: Constant
+  - Impact on Daily Activities: Difficulty performing daily activities due to pain on breathing
+
+- **4) Patient’s Self-Reported Habits and Lifestyle:**
+  - Sleep: Difficult due to pain
+  - Diet: Balanced diet
+  - Exercise: Sedentary lifestyle
+  - Tobacco Use: Smokes 1 pack per day for 15 years
+  - Alcohol Consumption: Social drinker, 1-2 drinks per week
+  - Drug Use: N/A
+  - Recreational Activities: Enjoys reading and watching television
+
+- **5) Demographic Information:**
+  - Age: 45
+  - Gender: Male
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Middle class
+  - Education Level: High school diploma
+  - Health Literacy: Moderate
+  - Job Status: Office worker
+
+- **6) Patient's Behavior:**
+  - Generally cooperative with medical advice, but has had difficulty quitting smoking
+
+- **7) Geographical Location:**
+  - Big City
+  - Urban
+  - Pollution and Environmental Health Risks: Moderate, lives near a busy highway
+  - Neighborhood Type: Affluent
+  - Well-served by Transit
+  - Food Desert: N/A
+
+- **8) Clinical Setting:**
+  - Community Health Services
+
+- **9) Type of Encounter:**
+  - Initial Consultation
+
+- **10) Treatment Disparities:**
+  - N/A
+
+- **11) Native or Non-Native English Speaking Patient:**
+  - Native English Speaker
+
+- **12) Physical Exams:**
+  - Respiratory Exam:
+    - Inspection: Normal chest movement, no visible abnormalities
+    - Palpation: Tenderness over the right lower rib cage
+    - Percussion: Dullness over the right lower lung field
+    - Auscultation: Decreased breath sounds over the right lower lung field, pleural rub heard
+
+- **13) Investigation/Test Results:**
+  - Awaiting Results: Chest X-ray (PA and lateral views)"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Moderate to severe chest pain, especially with breathing.
+
+**History of Present Illness (HPI):**
+A 45-year-old Caucasian male presents with a 3-day history of sharp chest pain that exacerbates with deep breathing. The pain is constant and has been progressively worsening, significantly impacting his daily activities. He reports associated symptoms of fever and shortness of breath.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports fever.
+- **Respiratory:** Reports shortness of breath and pleuritic chest pain.
+- **Gastrointestinal:** Denies nausea, vomiting, or abdominal pain.
+- **Cardiovascular:** Denies palpitations or chest tightness.
+- **Musculoskeletal:** Denies musculoskeletal pain besides the tenderness in the chest area.
+- **Skin:** Denies rashes or other skin changes.
+
+**2. Objective:**
+
+**Vitals:**
+- Blood pressure: 130/85 mmHg
+- Heart rate: 82 bpm
+- Respirations: 20 per minute
+- Temperature: 101.2°F
+- SpO2: 95% on room air
+
+**Physical Examination:**
+
+**General:**
+Alert and cooperative, but in visible discomfort due to pain.
+
+**Respiratory:**
+- Inspection: Normal chest movement without visible abnormalities.
+- Palpation: Tenderness over the right lower rib cage.
+- Percussion: Dullness over the right lower lung field.
+- Auscultation: Decreased breath sounds over the right lower lung field, pleural rub heard.
+
+**Cardiovascular:**
+- Heart sounds: Regular rate and rhythm; no murmurs, gallops, or rubs.
+
+**Abdominal:**
+- No masses, tenderness, or organomegaly.
+- Normal bowel sounds in all quadrants.
+
+**3. Assessment:**
+
+**Pleurisy (ICD-10: R09.1)**
+- Medical Reasoning: Based on the patient's history of sharp, pleuritic chest pain, fever, and examination findings of pleural rub and decreased breath sounds, pleurisy is the most likely diagnosis. A chest X-ray is pending to rule out other potential causes such as pneumonia.
+
+**4. Plan:**
+
+**Treatment:**
+- Ibuprofen 400 mg, oral, every 6 hours as needed, for 7 days, quantity: 28 tablets.
+
+**Referral:**
+- Referral to Pulmonologist Dr. Sarah Thompson for further evaluation of possible underlying causes.
+
+**Investigations:**
+- Chest X-ray (PA and lateral views) ordered to rule out pneumonia or other underlying pathology.
+
+**Follow-up:**
+- Return visit in 1 week for re-evaluation of symptoms.
+
+**Patient Education and Counseling:**
+- Advised on the importance of completing the prescribed medication regimen.
+- Discussed the need for follow-up with a pulmonologist and the importance of the chest X-ray.
+- Emphasized smoking cessation and offered resources for smoking cessation programs.
+- Patient agrees and understands the treatment plan.
+
+#####"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Moderate to severe chest pain, especially with breathing.
+
+**History of Present Illness (HPI):**
+A 45-year-old Caucasian male presents with a 3-day history of sharp chest pain that exacerbates with deep breathing. The pain is constant and has been progressively worsening, significantly impacting his daily activities. He reports associated symptoms of fever and shortness of breath.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports fever.
+- **Respiratory:** Reports shortness of breath and pleuritic chest pain.
+- **Gastrointestinal:** Denies nausea, vomiting, or abdominal pain.
+- **Cardiovascular:** Denies palpitations or chest tightness.
+- **Musculoskeletal:** Denies musculoskeletal pain besides the tenderness in the chest area.
+- **Skin:** Denies rashes or other skin changes.
+
+**2. Objective:**
+
+**Vitals:**
+- Blood pressure: 130/85 mmHg
+- Heart rate: 82 bpm
+- Respirations: 20 per minute
+- Temperature: 101.2°F
+- SpO2: 95% on room air
+
+**Physical Examination:**
+
+**General:**
+Alert and cooperative, but in visible discomfort due to pain.
+
+**Respiratory:**
+- Inspection: Normal chest movement without visible abnormalities.
+- Palpation: Tenderness over the right lower rib cage.
+- Percussion: Dullness over the right lower lung field.
+- Auscultation: Decreased breath sounds over the right lower lung field, pleural rub heard.
+
+**Cardiovascular:**
+- Heart sounds: Regular rate and rhythm; no murmurs, gallops, or rubs.
+
+**Abdominal:**
+- No masses, tenderness, or organomegaly.
+- Normal bowel sounds in all quadrants.
+
+**3. Assessment:**
+
+**Pleurisy (ICD-10: R09.1)**
+- Medical Reasoning: Based on the patient's history of sharp, pleuritic chest pain, fever, and examination findings of pleural rub and decreased breath sounds, pleurisy is the most likely diagnosis. A chest X-ray is pending to rule out other potential causes such as pneumonia.
+
+**4. Plan:**
+
+**Treatment:**
+- Ibuprofen 400 mg, oral, every 6 hours as needed, for 7 days, quantity: 28 tablets.
+
+**Referral:**
+- Referral to Pulmonologist Dr. Sarah Thompson for further evaluation of possible underlying causes.
+
+**Investigations:**
+- Chest X-ray (PA and lateral views) ordered to rule out pneumonia or other underlying pathology.
+
+**Follow-up:**
+- Return visit in 1 week for re-evaluation of symptoms.
+
+**Patient Education and Counseling:**
+- Advised on the importance of completing the prescribed medication regimen.
+- Discussed the need for follow-up with a pulmonologist and the importance of the chest X-ray.
+- Emphasized smoking cessation and offered resources for smoking cessation programs.
+- Patient agrees and understands the treatment plan."|"**1. Subjective:**
+
+**CC:**
+Moderate to severe CP, especially with breathing.
+
+**HPI:**
+A 45 y/o Caucasian M presents with a 3-day hx of sharp CP that exacerbates with deep breathing. The pain is constant and has been progressively worsening, significantly impacting his ADLs. He reports associated sx of fever and SOB.
+
+**ROS:**
+- **Constitutional:** Reports fever.
+- **Respiratory:** Reports SOB and pleuritic CP.
+- **Gastrointestinal:** Denies N/V or abdominal pain.
+- **Cardiovascular:** Denies palpitations or chest tightness.
+- **Musculoskeletal:** Denies MSK pain besides the tenderness in the chest area.
+- **Skin:** Denies rashes or other skin changes.
+
+**2. Objective:**
+
+**Vitals:**
+- BP: 130/85 mmHg
+- HR: 82 bpm
+- RR: 20/min
+- Temp: 101.2°F
+- SpO2: 95% RA
+
+**Physical Exam:**
+
+**General:**
+Alert and cooperative, but in visible discomfort due to pain.
+
+**Respiratory:**
+- Inspection: Normal chest movement without visible abnormalities.
+- Palpation: Tenderness over the right lower rib cage.
+- Percussion: Dullness over the right lower lung field.
+- Auscultation: Decreased breath sounds over the right lower lung field, pleural rub heard.
+
+**Cardiovascular:**
+- Heart sounds: RRR; no murmurs, gallops, or rubs.
+
+**Abdominal:**
+- No masses, tenderness, or organomegaly.
+- Normal BS in all quadrants.
+
+**3. Assessment:**
+
+**Pleurisy (ICD-10: R09.1)**
+- Medical Reasoning: Based on the pt's hx of sharp, pleuritic CP, fever, and exam findings of pleural rub and decreased breath sounds, pleurisy is the most likely dx. A CXR is pending to r/o other potential causes such as PNA.
+
+**4. Plan:**
+
+**Treatment:**
+- Ibuprofen 400 mg PO q6h PRN for 7 days, qty: 28 tabs.
+
+**Referral:**
+- Referral to Pulmonologist Dr. Sarah Thompson for further eval of possible underlying causes.
+
+**Investigations:**
+- CXR (PA and lateral views) ordered to r/o PNA or other underlying pathology.
+
+**Follow-up:**
+- Return visit in 1 week for re-eval of sx.
+
+**Patient Education and Counseling:**
+- Advised on the importance of completing the prescribed med regimen.
+- Discussed the need for f/u with a pulmonologist and the importance of the CXR.
+- Emphasized smoking cessation and offered resources for smoking cessation programs.
+- Pt agrees and understands the treatment plan."|Family Medicine Physician
+CHEST PAIN ON BREATHING|"ROLE: General Physician
+
+SCENARIO VALUES:
+
+1) Medical Outcome: 
+   - Diagnosis: Pleurisy (ICD-10 code: R09.1)
+   - Prescribed Treatment: 
+     - NSAIDs for pain management: Ibuprofen 400 mg, oral, every 6-8 hours as needed, for 7 days, 21 tablets.
+   - Follow-up Recommendations: Follow-up in 2 weeks to reassess symptoms.
+   - Referral to Specialists: Cardiologist to rule out any cardiac causes of chest pain, Dr. Sarah Johnson.
+   - Referral to Further Tests: 
+     - Blood Work: CBC (Complete Blood Count) to rule out infection, D-dimer to rule out embolism.
+     - Imaging: Chest X-ray to evaluate for any lung issues.
+
+2) Medical History:
+   - Previous Diagnoses: Hypertension, managed with medication.
+   - Chronic Conditions: Chronic Obstructive Pulmonary Disease (COPD)
+
+3) Symptom Description:
+   - Severity: Moderate to severe.
+   - Duration: 3 days.
+   - Associated Symptoms: Shortness of breath, occasional cough.
+   - Frequency: Constant.
+   - Impact on Daily Activities: Difficulty performing daily activities like walking and climbing stairs.
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Reports 6 hours per night, difficulty sleeping due to chest pain.
+   - Diet: Balanced diet, home-cooked meals.
+   - Exercise: Minimal due to COPD.
+   - Tobacco Use: Former smoker, quit 5 years ago. 20 pack-years history.
+   - Alcohol Consumption: Occasional, 1-2 drinks per week.
+   - Recreational Activities: Enjoys reading and gardening.
+
+5) Demographic Information:
+   - Age: 68
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: High school diploma
+   - Health Literacy: Good understanding of medical issues
+   - Job Status: Retired
+
+6) Patient's Behavior:
+   - Level of patient's cooperation with medical advice: Generally compliant but occasionally forgets doses of hypertension medication.
+
+7) Geographical Location:
+   - Big City vs Small City: Small City
+   - Rural vs Urban: Urban
+   - Pollution and Environmental Health Risks: Moderate pollution due to nearby industrial area.
+   - Neighborhood Type: Middle-class residential area, well-served by public transit, not a food desert.
+
+8) Clinical Setting:
+   - Private Practice
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - NA
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English Speaking Patient
+
+12) Physical exams:
+   - Respiratory Examination: Decreased breath sounds on auscultation in the lower right lung field.
+   - Cardiovascular Examination: Regular rate and rhythm, no murmurs.
+
+13) Investigation/Test results:
+   - Awaiting: Chest X-ray and Blood Work (CBC and D-dimer)
+
+"|Rejected|Rejected|Rejected|Rejected
+CHEST PAIN ON BREATHING|"ROLE: General Physician
+
+SCENARIO VALUES:
+
+1) Medical Outcome:
+   - Diagnosis: Pleurisy (ICD-10 code: R09.1)
+   - Prescribed Treatment:
+     - NSAIDs for pain management: Ibuprofen 400 mg, oral, every 6-8 hours as needed, for 7 days, 21 tablets.
+   - Antibiotic: Azithromycin 250 mg, oral, once daily for 5 days, 5 tablets.
+   - Follow-up Recommendations: Follow-up in 1 week to reassess symptoms.
+   - Referral to Specialists: Pulmonologist to rule out any underlying lung conditions, Dr. Michael Thompson.
+   - Referral to Further Tests:
+     - Blood Work: CBC (Complete Blood Count) to rule out infection, D-dimer to rule out embolism.
+     - Imaging: Chest X-ray to evaluate for any lung issues.
+
+2) Medical History:
+   - Previous Diagnoses: Hypertension, managed with medication.
+   - Medication History: Losartan 50 mg daily for hypertension.
+   - Chronic Conditions: Asthma
+
+3) Symptom Description:
+   - Severity: Severe.
+   - Duration: 3 days.
+   - Associated Symptoms: Shortness of breath, occasional dry cough.
+   - Frequency: Persistent.
+   - Impact on Daily Activities: Severe limitation, unable to walk more than a few steps without pain.
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Poor quality of sleep due to pain and difficulty breathing.
+   - Diet: Mostly vegetarian, occasional fish.
+   - Exercise: Irregular due to asthma, mostly light stretching.
+   - Tobacco Use: Never smoked.
+   - Alcohol Consumption: Rare, social occasions only.
+   - Recreational Activities: Enjoys bird watching and painting.
+
+5) Demographic Information:
+   - Age: 60
+   - Gender: Female
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Lower middle class
+   - Education Level: Some college education
+   - Health Literacy: Moderate understanding of medical issues
+   - Job Status: Administrative assistant
+
+6) Patient's Behavior:
+   - Level of patient's cooperation with medical advice: Highly compliant, follows all medical advice closely.
+
+7) Geographical Location:
+   - Big City vs Small City: Rural
+   - Rural vs Urban: Rural
+   - Pollution and Environmental Health Risks: Low pollution, clean air 
+   - Neighborhood Type: Rural residential, limited public transit, food desert.
+
+8) Clinical Setting:
+   - Community Health Services
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - Genetic predispositions to be mindful of
+
+11) Native or Non-Native English Speaking Patient:
+   - Non-Native English Speaking Patient (Primary language: Spanish)
+
+12) Physical exams:
+   - Respiratory Examination: Crackles heard in the lower right lung field.
+   - Cardiovascular Examination: Regular rate and rhythm, no murmurs.
+   - Abdominal Examination: Soft and non-tender.
+
+13) Investigation/Test results:
+   - Awaiting: Chest X-ray and Blood Work (CBC and D-dimer)"|Rejected|Rejected|Rejected|Rejected
+CHEST PAIN ON BREATHING|"ROLE: General Physician
+
+SCENARIO VALUES:
+
+1) Medical Outcome:
+   - Diagnosis: Pleurisy (ICD-10 code: R09.1)
+   - Prescribed Treatment:
+     - NSAIDs for pain management: Naproxen 500 mg, oral, twice daily as needed, for 10 days, 20 tablets.
+   - Follow-up Recommendations: Follow-up in 1 week to reassess symptoms.
+   - Referral to Specialists: Pulmonologist to evaluate any underlying lung conditions, Dr. Emily Ramirez.
+   - Referral to Further Tests:
+     - Blood Work: CBC (Complete Blood Count) to rule out infection.
+     - Imaging: Chest CT scan to rule out pulmonary embolism.
+
+2) Medical History:
+   - Previous Diagnoses: Type 2 Diabetes Mellitus
+   - Medication History: Metformin 500 mg twice daily.
+   - Chronic Conditions: None
+
+3) Symptom Description:
+   - Severity: Moderate.
+   - Duration: 4 days.
+   - Associated Symptoms: Shortness of breath, dry cough, slight fever.
+   - Frequency: Constant.
+   - Impact on Daily Activities: Significant limitation, difficulty with daily routine tasks.
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Poor quality due to pain.
+   - Diet: High carbohydrate diet, poorly controlled diabetes.
+   - Exercise: None, sedentary lifestyle.
+   - Tobacco Use: Current smoker, 15 pack-years history.
+   - Alcohol Consumption: Occasional, 2-3 drinks per month.
+   - Recreational Activities: Limited due to sedentary lifestyle.
+
+5) Demographic Information:
+   - Age: 55
+   - Gender: Male
+   - Ethnicity: African American
+   - Socio-economic Status: Lower-income
+   - Education Level: Some high school
+   - Health Literacy: Limited understanding of medical issues
+   - Job Status: Unemployed
+
+6) Patient's Behavior:
+   - Level of patient's cooperation with medical advice: Poor compliance with previous medical advice, missed several follow-up appointments for diabetes.
+
+7) Geographical Location:
+   - Big City vs Small City: Big City
+   - Rural vs Urban: Urban
+   - Pollution and Environmental Health Risks: High pollution, industrial area.
+   - Neighborhood Type: Impoverished, limited access to healthy food, poorly served by transit.
+
+8) Clinical Setting:
+   - Urgent Care Center
+
+9) Type of Encounter:
+   - Emergency Visit
+
+10) Treatment Disparities:
+   - Concerns about patient's ability to afford prescription medications.
+
+11) Native or Non-Native English Speaking Patient:
+   - Non-Native English Speaking Patient (Primary language: Spanish)
+
+12) Physical exams:
+   - Respiratory Examination: Decreased breath sounds and pleural rub on auscultation in the left lower lung field.
+   - Cardiovascular Examination: Regular rate and rhythm, no murmurs.
+   - Abdominal Examination: NA.
+
+13) Investigation/Test results:
+   - Awaiting: Chest CT scan and Blood Work (CBC)"|Rejected|Rejected|Rejected|Rejected
+CHEST PAIN ON BREATHING|"ROLE: General Physician
+
+Variables for the scenario:
+- **Medical Outcome**: Order for imaging (Chest X-ray) and blood work (Biochemistry and Hematology panels), prescribed medication for pain relief, referral to a cardiologist.
+- **Medical History**: Previous Diagnoses (Hypertension), Family Medical History (Father had a heart attack at age 57), Allergies (Penicillin), Chronic Conditions (None).
+- **Symptom Description**: Severity (Severe), Duration (2 days), Associated Symptoms (Shortness of breath, occasional dizziness), Frequency (Constant), Impact on Daily Activities (Unable to perform usual activities, difficulty in lying down).
+- **Patient’s self-reported habits and lifestyle**: Sleep (Irregular), Diet (High in saturated fats), Exercise (Sedentary lifestyle), Tobacco Use (15 cigarettes/day for 20 years), Alcohol Consumption (2-3 drinks/day), Drug Use (None), Recreational Activities (None specified).
+- **Demographic Information**: Age (52), Gender (Male), Ethnicity (Caucasian), Socio-economic Status (Middle class), Education Level (High school), Health Literacy (Moderate), Job Status (Manual laborer).
+- **Patient's Behavior**: Generally cooperative with medical advice but has been non-compliant with smoking cessation advice in the past.
+- **Geographical Location**: Small City, Urban, Moderate pollution levels, Middle-class neighborhood, Not well-served by public transit, good access to healthcare facilities.
+- **Clinical Setting**: Urgent Care Center.
+- **Type of Encounter**: Emergency Visit.
+- **Treatment Disparities**: None noted.
+- **Native or Non-Native English Speaking Patient**: Native English Speaking.
+- **Physical exams**: Cardiovascular exam, Respiratory exam.
+- **Investigation/Test results**: Awaiting Chest X-ray (to rule out pneumonia or any lung pathology including Pulmonary Embolism), Biochemistry (to check for electrolytes, kidney function, and cardiac enzymes), Hematology (Complete blood count for signs of infection or anemia).
+
+This scenario outlines a detailed account of a middle-aged male presenting with acute chest pain on breathing, suspecting either cardiac or pulmonary origin, with appropriate workups and referrals initiated."|Rejected|Rejected|Rejected|Rejected
+CHEST PAIN ON BREATHING|"ROLE: General Physician
+
+Variables for the scenario:
+- **Medical Outcome**: Prescription for non-steroidal anti-inflammatory drug (NSAID) for pain relief; referral for a CT scan of the chest; pain management consultation.
+- **Medical History**: Previous Diagnoses (Gastroesophageal Reflux Disease - GERD), Family Medical History (Mother had breast cancer at age 60), Medication History (Occasional use of antacids for GERD), Allergies (None), Chronic Conditions (GERD).
+- **Symptom Description**: Severity (Moderate), Duration (3 days), Associated Symptoms (Heartburn, nausea), Frequency (Intermittent), Impact on Daily Activities (Moderately impacting daily activities).
+- **Patient’s self-reported habits and lifestyle**: Sleep (Disrupted by GERD symptoms), Diet (Balanced but has late-night snacks), Exercise (Walks dog daily), Tobacco Use (Quit 5 years ago), Alcohol Consumption (Occasional wine - 1-2 glasses/week), Drug Use (None), Recreational Activities (Plays the guitar).
+- **Demographic Information**: Age (45), Gender (Female), Ethnicity (African American), Socio-economic Status (Middle class), Education Level (College graduate), Health Literacy (High), Job Status (School teacher).
+- **Patient's Behavior**: Highly cooperative with medical advice, adherent to GERD management plan.
+- **Geographical Location**: Suburban area, moderately affluent neighborhood, low pollution levels, well-served by public transit, accessible healthcare facilities.
+- **Clinical Setting**: Primary Care Clinic.
+- **Type of Encounter**: Initial Consultation.
+- **Treatment Disparities**: High health literacy and accessibility to a variety of healthcare options.
+- **Native or Non-Native English Speaking Patient**: Native English Speaking.
+- **Physical exams**: Cardiovascular exam, Gastrointestinal exam, Respiratory exam.
+- **Investigation/Test results**: Awaiting CT scan of the chest to rule out other causes of chest pain including pulmonary embolism; awaiting blood work (Biochemistry panel including liver function tests, cardiac enzymes).
+
+This revised scenario provides a different context, emphasizing a primary care setting with a new clinical history and lifestyle elements, maintaining the focus on chest pain but differentiating the medical approach and associated variables."|Rejected|Rejected|Rejected|Rejected

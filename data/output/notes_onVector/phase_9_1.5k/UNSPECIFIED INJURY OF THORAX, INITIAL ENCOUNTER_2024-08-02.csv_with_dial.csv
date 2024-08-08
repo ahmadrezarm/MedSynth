@@ -1,0 +1,2400 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+UNSPECIFIED INJURY OF THORAX, INITIAL ENCOUNTER|"**ROLE:** General Physician
+
+**Scenario Values:**
+
+1) **Medical Outcome:**
+   - Prescription: Ibuprofen 400 mg, oral, every 6 hours as needed for pain, 30 tablets.
+   - Recommendation: Rest and avoid strenuous activities for 1 week.
+   - Imaging: X-ray, thoracic spine, to rule out fractures or other significant injuries.
+   - Follow-up: Schedule a follow-up appointment in 7 days to assess healing and any persistent symptoms.
+
+2) **Medical History:**
+   - Previous Diagnoses: Hypertension, managed with lifestyle changes.
+   - Family Medical History: Mother has osteoporosis, Father had coronary artery disease.
+   - Medication History: No regular medications.
+   - Allergies: Penicillin.
+   - Chronic Conditions: None.
+
+3) **Symptom Description:**
+   - Severity: Moderate to severe chest pain.
+   - Duration: Injury occurred 2 days ago.
+   - Associated Symptoms: Difficulty breathing deeply, occasional sharp pain radiating to the back.
+   - Frequency: Pain is constant but worsens with certain movements.
+   - Impact on Daily Activities: Limiting ability to perform physical tasks at work, difficulty sleeping.
+
+4) **Patient’s self-reported habits and lifestyle:**
+   - Sleep: Poor quality sleep due to pain.
+   - Diet: Balanced diet but high sodium intake.
+   - Exercise: Light physical activity, mainly walking.
+   - Tobacco Use: Smokes 5-6 cigarettes a day.
+   - Alcohol Consumption: Social drinker, averaging 2-3 drinks a week.
+   - Drug Use: Denies any drug use.
+   - Recreational Activities: Enjoys gardening and light sports.
+
+5) **Demographic Information:**
+   - Age: 45
+   - Gender: Male
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Middle-class
+   - Education Level: High school graduate
+   - Health Literacy: Moderate understanding of health information.
+   - Job Status: Manual laborer in construction.
+
+6) **Patient's Behavior:**
+   - Cooperation: Cooperative with medical advice but concerned about losing income due to inability to work.
+
+7) **Geographical Location:**
+   - Big City vs Small City: Small city
+   - Rural vs Urban: Urban
+   - Pollution and Environmental Health Risks: Moderate pollution, typical of urban setting.
+   - Neighborhood Type: Working-class, well-served by public transit, local clinics available.
+
+8) **Clinical Setting:**
+   - Urgent Care Center
+
+9) **Type of Encounter:**
+   - Initial Consultation
+
+10) **Treatment Disparities:**
+   - Possible financial concern regarding follow-up imaging and time off work.
+
+11) **Native or Non-Native English Speaking Patient:**
+   - Non-Native English Speaking Patient, primary language Spanish.
+
+12) **Physical exams:**
+   - Inspection and palpation of the thoracic area to assess for tenderness, bruising, and other signs of injury.
+   - Auscultation to evaluate breath sounds and ensure no pneumothorax or hemothorax.
+
+13) **Investigation/Test results:**
+   - Awaiting results: X-ray of the thoracic spine."|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Moderate to severe chest pain.
+
+**History of Present Illness (HPI):**  
+The patient, a 45-year-old Hispanic male, presents with moderate to severe chest pain that began 2 days ago following an unspecified injury. The pain is described as constant and worsens with certain movements, accompanied by difficulty breathing deeply and occasional sharp pain radiating to the back. The pain has significantly limited his ability to perform physical tasks at work and has disrupted his sleep.
+
+**Review of Systems (ROS):**
+
+- **Constitutional:** Poor quality sleep due to pain.
+- **Respiratory:** Difficulty breathing deeply, no cough, no known history of pneumothorax.
+- **Cardiovascular:** No known history of coronary artery disease.
+- **Gastrointestinal:** No nausea, vomiting, or abdominal pain.
+- **Musculoskeletal:** Moderate to severe chest pain, worsens with movement, occasional sharp pain radiating to the back.
+  
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure (BP): 135/85 mmHg
+- Heart Rate (HR): 78 beats per minute
+- Respiratory Rate (RR): 20 breaths per minute
+- Temperature: 98.6 °F
+- SpO2: 98% on room air
+
+**Physical Exam:**
+
+- **General:** Cooperative, in moderate distress due to pain.
+- **Respiratory:** Clear breath sounds bilaterally, no wheezing or crackles noted. Mild discomfort upon deep inspiration.
+- **Cardiovascular:** No murmurs, rubs, or gallops. Regular rate and rhythm.
+- **Musculoskeletal:** Tenderness on palpation over the thoracic spine and adjacent muscles. No visible bruising or swelling.
+- **Skin:** Intact, no rashes or lesions.
+
+**Results:**
+- Awaiting results from X-ray of the thoracic spine to rule out fractures or other significant injuries.
+
+**3. Assessment:**
+
+The patient presents with acute thoracic musculoskeletal pain likely secondary to recent injury, complicated by moderate respiratory distress due to pain. Given the patient’s history of hypertension and family history of osteoporosis and coronary artery disease, ongoing monitoring is essential.
+
+**4. Plan:**
+
+- **Prescription:** Ibuprofen 400 mg, oral, every 6 hours as needed for pain, 30 tablets.
+- **Imaging:** X-ray of the thoracic spine to rule out fractures or other significant injuries.
+- **Recommendations:** Rest and avoid strenuous activities for 1 week to allow for healing.
+- **Follow-up:** Schedule a follow-up appointment in 7 days to assess healing and review X-ray results.
+- **Lifestyle Modifications:** Considering the patient's high sodium intake and smoking habits, advise reducing salt in diet and provide resources for smoking cessation.
+- **Financial Concerns:** Discuss potential financial support or work adjustments during follow-up to address concerns about income loss due to inability to work.
+
+**Instructions:**
+- The patient should take ibuprofen as prescribed and avoid any strenuous activities for the next week.
+- The patient should avoid activities that exacerbate the pain and should try to find comfortable positions to alleviate discomfort while sleeping.
+- The patient should return for a follow-up in 7 days or sooner if symptoms worsen.
+- Arrange for an interpreter if needed for follow-up consultations to ensure the patient fully understands the medical advice and instructions."|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Moderate to severe chest pain.
+
+**History of Present Illness (HPI):**  
+The patient, a 45-year-old Hispanic male, presents with moderate to severe chest pain that began 2 days ago following an unspecified injury. The pain is described as constant and worsens with certain movements, accompanied by difficulty breathing deeply and occasional sharp pain radiating to the back. The pain has significantly limited his ability to perform physical tasks at work and has disrupted his sleep.
+
+**Review of Systems (ROS):**
+
+- **Constitutional:** Poor quality sleep due to pain.
+- **Respiratory:** Difficulty breathing deeply, no cough, no known history of pneumothorax.
+- **Cardiovascular:** No known history of coronary artery disease.
+- **Gastrointestinal:** No nausea, vomiting, or abdominal pain.
+- **Musculoskeletal:** Moderate to severe chest pain, worsens with movement, occasional sharp pain radiating to the back.
+  
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure (BP): 135/85 mmHg
+- Heart Rate (HR): 78 beats per minute
+- Respiratory Rate (RR): 20 breaths per minute
+- Temperature: 98.6 °F
+- SpO2: 98% on room air
+
+**Physical Exam:**
+
+- **General:** Cooperative, in moderate distress due to pain.
+- **Respiratory:** Clear breath sounds bilaterally, no wheezing or crackles noted. Mild discomfort upon deep inspiration.
+- **Cardiovascular:** No murmurs, rubs, or gallops. Regular rate and rhythm.
+- **Musculoskeletal:** Tenderness on palpation over the thoracic spine and adjacent muscles. No visible bruising or swelling.
+- **Skin:** Intact, no rashes or lesions.
+
+**3. Assessment:**
+
+The patient presents with acute thoracic musculoskeletal pain likely secondary to recent injury, complicated by moderate respiratory distress due to pain. Given the patient’s history of hypertension and family history of osteoporosis and coronary artery disease, ongoing monitoring is essential.
+
+**4. Plan:**
+
+- **Prescription:** Ibuprofen 400 mg, oral, every 6 hours as needed for pain, 30 tablets.
+- **Imaging:** X-ray of the thoracic spine to rule out fractures or other significant injuries.
+- **Recommendations:** Rest and avoid strenuous activities for 1 week to allow for healing.
+- **Follow-up:** Schedule a follow-up appointment in 7 days to assess healing and review X-ray results.
+- **Lifestyle Modifications:** Considering the patient's high sodium intake and smoking habits, advise reducing salt in diet and provide resources for smoking cessation.
+- **Financial Concerns:** Discuss potential financial support or work adjustments during follow-up to address concerns about income loss due to inability to work.
+
+**Instructions:**
+- The patient should take ibuprofen as prescribed and avoid any strenuous activities for the next week.
+- The patient should avoid activities that exacerbate the pain and should try to find comfortable positions to alleviate discomfort while sleeping.
+- The patient should return for a follow-up in 7 days or sooner if symptoms worsen.
+- Arrange for an interpreter if needed for follow-up consultations to ensure the patient fully understands the medical advice and instructions."|"**1. Subjective:**
+
+**CC:**  
+Moderate to severe CP.
+
+**HPI:**  
+The pt, a 45 y/o Hispanic male, presents with moderate to severe CP that began 2 days ago following an unspecified injury. The pain is described as constant and worsens with certain movements, accompanied by difficulty breathing deeply and occasional sharp pain radiating to the back. The pain has significantly limited his ability to perform physical tasks at work and has disrupted his sleep.
+
+**ROS:**
+
+- **Constitutional:** Poor quality sleep due to pain.
+- **Respiratory:** Difficulty breathing deeply, no cough, no known hx of pneumothorax.
+- **Cardiovascular:** No known hx of CAD.
+- **Gastrointestinal:** No N/V or abdominal pain.
+- **Musculoskeletal:** Moderate to severe CP, worsens with movement, occasional sharp pain radiating to the back.
+  
+**2. Objective:**
+
+**VS:**
+- BP: 135/85 mmHg
+- HR: 78 bpm
+- RR: 20 bpm
+- Temp: 98.6 °F
+- SpO2: 98% on RA
+
+**PE:**
+
+- **General:** Cooperative, in moderate distress due to pain.
+- **Respiratory:** Clear breath sounds bilaterally, no wheezing or crackles noted. Mild discomfort upon deep inspiration.
+- **Cardiovascular:** No murmurs, rubs, or gallops. RRR.
+- **Musculoskeletal:** Tenderness on palpation over the T-spine and adjacent muscles. No visible bruising or swelling.
+- **Skin:** Intact, no rashes or lesions.
+
+**3. Assessment:**
+
+The pt presents with acute thoracic MSK pain likely secondary to recent injury, complicated by moderate respiratory distress due to pain. Given the pt’s hx of HTN and FHx of osteoporosis and CAD, ongoing monitoring is essential.
+
+**4. Plan:**
+
+- **Rx:** Ibuprofen 400 mg PO q6h PRN for pain, 30 tabs.
+- **Imaging:** X-ray of the T-spine to r/o fractures or other significant injuries.
+- **Recommendations:** Rest and avoid strenuous activities for 1 week to allow for healing.
+- **Follow-up:** Schedule a f/u appointment in 7 days to assess healing and review X-ray results.
+- **Lifestyle Modifications:** Considering the pt's high sodium intake and smoking habits, advise reducing salt in diet and provide resources for smoking cessation.
+- **Financial Concerns:** Discuss potential financial support or work adjustments during f/u to address concerns about income loss due to inability to work.
+
+**Instructions:**
+- The pt should take ibuprofen as prescribed and avoid any strenuous activities for the next week.
+- The pt should avoid activities that exacerbate the pain and should try to find comfortable positions to alleviate discomfort while sleeping.
+- The pt should return for a f/u in 7 days or sooner if symptoms worsen.
+- Arrange for an interpreter if needed for f/u consultations to ensure the pt fully understands the medical advice and instructions."|Role not found in the first 5 lines.|"```plaintext
+[doctor] Hi there, how are you today?
+
+[patient] Hi doctor, I've been better. I've got this chest pain that's really bothering me.
+
+[doctor] I'm sorry to hear that. Can you tell me more about this chest pain? When did it start and how does it feel?
+
+[patient] It began about 2 days ago after I hurt myself somehow, but I'm not really sure what exactly happened. The pain is constant and it gets worse when I move in certain ways. It also makes it hard to breathe deeply.
+
+[doctor] Hmm, that sounds quite uncomfortable. Does the pain ever spread to other areas, like your back?
+
+[patient] Yes, sometimes it feels like a sharp pain that goes to my back.
+
+[doctor] I see. How has this pain affected your daily activities?
+
+[patient] It's been tough. I can't do much at work and it's been hard to sleep because of the pain.
+
+[doctor] I'm sorry to hear that. Let's go through some other symptoms to get a complete picture. Have you had any issues with breathing, like a cough or a history of pneumothorax?
+
+[patient] No cough or anything like that. Just the trouble breathing deeply because of the pain.
+
+[doctor] Alright. Do you have any history of heart problems, like coronary artery disease?
+
+[patient] No, I don't have any heart issues that I know of.
+
+[doctor] Good to know. How about your stomach? Any nausea, vomiting, or abdominal pain?
+
+[patient] No, my stomach's been fine.
+
+[doctor] Alright, thank you. Let's check your vital signs. Your blood pressure is 135/85 mmHg, heart rate is 78 beats per minute, respiratory rate is 20 breaths per minute, and your temperature is 98.6 °F. Your oxygen saturation is 98% on room air. 
+
+[patient] Okay, that sounds normal, right?
+
+[doctor] Yes, your vitals are within normal ranges. Now, I'll need to perform a physical exam. Please let me know if anything I do causes you discomfort.
+
+[patient] Alright.
+
+[doctor] [Examining patient] I can see you're in some distress due to the pain. Your breath sounds are clear on both sides, which is good. However, I can tell you're having some discomfort when you take a deep breath. Your heart sounds normal, no murmurs or irregular beats. Now, let me check your chest and back.
+
+[patient] Sure.
+
+[doctor] [Palpating chest and back] It looks like there's tenderness over your thoracic spine and the muscles around it. No visible bruising or swelling, and your skin looks normal, no rashes or lesions.
+
+[patient] Yeah, it really hurts when you press there.
+
+[doctor] I understand. We’ll need an X-ray of your thoracic spine to rule out any fractures or other significant injuries. We’re still waiting on those results.
+
+[patient] Okay. When will I get the results?
+
+[doctor] We should have them soon. In the meantime, we need to manage your pain. I'm going to prescribe you Ibuprofen 400 mg. You should take one tablet every 6 hours as needed for pain. Does that sound okay?
+
+[patient] Yeah, that should help.
+
+[doctor] Additionally, I recommend that you rest and avoid any strenuous activities for the next week to allow your body to heal. 
+
+[patient] Alright, I can do that.
+
+[doctor] I'll schedule a follow-up appointment in 7 days to check on your progress and review the X-ray results. Does that work for you?
+
+[patient] Yes, that works.
+
+[doctor] Great. Now, I noticed from your history that you have high sodium intake and smoking habits. It's important to reduce salt in your diet and consider quitting smoking. It will help with your overall health.
+
+[patient] Yeah, I know I need to cut down on salt and quit smoking. 
+
+[doctor] I can provide you with some resources for smoking cessation. Would that be helpful?
+
+[patient] Yes, that would be great.
+
+[doctor] Finally, I understand you might have financial concerns due to being unable to work. We can discuss potential financial support or work adjustments at your follow-up appointment.
+
+[patient] Thank you, that’s been a big worry for me.
+
+[doctor] Of course. Remember to take the ibuprofen as prescribed and avoid any activities that make the pain worse. Try to find comfortable positions to sleep in. If your symptoms worsen before the follow-up, come back sooner.
+
+[patient] I will. Thank you, doctor.
+
+[doctor] You're welcome. We'll see you in 7 days. Take care and rest up.
+
+[patient] Thank you, I'll do that.
+```"|"```plaintext
+[doctor] Hi there, how are you today?
+
+[patient] Hi doctor, I've been better. I've got this chest pain that's really bothering me.
+
+[doctor] I'm sorry to hear that. Can you tell me more about this chest pain? When did it start and how does it feel?
+
+[patient] It began about 2 days ago after I hurt myself somehow, but I'm not really sure what exactly happened. The pain is constant and it gets worse when I move in certain ways. It also makes it hard to breathe deeply.
+
+[doctor] Hmm, that sounds quite uncomfortable. Does the pain ever spread to other areas, like your back?
+
+[patient] Yes, sometimes it feels like a sharp pain that goes to my back.
+
+[doctor] I see. How has this pain affected your daily activities?
+
+[patient] It's been tough. I can't do much at work and it's been hard to sleep because of the pain.
+
+[doctor] I'm sorry to hear that. Let's go through some other symptoms to get a complete picture. Have you had any issues with breathing, like a cough or a history of pneumothorax?
+
+[patient] No cough or anything like that. Just the trouble breathing deeply because of the pain.
+
+[doctor] Alright. Do you have any history of heart problems, like coronary artery disease?
+
+[patient] No, I don't have any heart issues that I know of.
+
+[doctor] Good to know. How about your stomach? Any nausea, vomiting, or abdominal pain?
+
+[patient] No, my stomach's been fine.
+
+[doctor] Alright, thank you. Let's check your vital signs. Your blood pressure is 135/85 mmHg, heart rate is 78 beats per minute, respiratory rate is 20 breaths per minute, and your temperature is 98.6 °F. Your oxygen saturation is 98% on room air. 
+
+[patient] Okay, that sounds normal, right?
+
+[doctor] Yes, your vitals are within normal ranges. Now, I'll need to perform a physical exam. Please let me know if anything I do causes you discomfort.
+
+[patient] Alright.
+
+[doctor] [Examining patient] I can see you're in some distress due to the pain. Your breath sounds are clear on both sides, which is good. However, I can tell you're having some discomfort when you take a deep breath. Your heart sounds normal, no murmurs or irregular beats. Now, let me check your chest and back.
+
+[patient] Sure.
+
+[doctor] [Palpating chest and back] It looks like there's tenderness over your thoracic spine and the muscles around it. No visible bruising or swelling, and your skin looks normal, no rashes or lesions.
+
+[patient] Yeah, it really hurts when you press there.
+
+[doctor] I understand. We’ll need an X-ray of your thoracic spine to rule out any fractures or other significant injuries. We’re still waiting on those results.
+
+[patient] Okay. When will I get the results?
+
+[doctor] We should have them soon. In the meantime, we need to manage your pain. I'm going to prescribe you Ibuprofen 400 mg. You should take one tablet every 6 hours as needed for pain. Does that sound okay?
+
+[patient] Yeah, that should help.
+
+[doctor] Additionally, I recommend that you rest and avoid any strenuous activities for the next week to allow your body to heal. 
+
+[patient] Alright, I can do that.
+
+[doctor] I'll schedule a follow-up appointment in 7 days to check on your progress and review the X-ray results. Does that work for you?
+
+[patient] Yes, that works.
+
+[doctor] Great. Now, I noticed from your history that you have high sodium intake and smoking habits. It's important to reduce salt in your diet and consider quitting smoking. It will help with your overall health.
+
+[patient] Yeah, I know I need to cut down on salt and quit smoking. 
+
+[doctor] I can provide you with some resources for smoking cessation. Would that be helpful?
+
+[patient] Yes, that would be great.
+
+[doctor] Finally, I understand you might have financial concerns due to being unable to work. We can discuss potential financial support or work adjustments at your follow-up appointment.
+
+[patient] Thank you, that’s been a big worry for me.
+
+[doctor] Of course. Remember to take the ibuprofen as prescribed and avoid any activities that make the pain worse. Try to find comfortable positions to sleep in. If your symptoms worsen before the follow-up, come back sooner.
+
+[patient] I will. Thank you, doctor.
+
+[doctor] You're welcome. We'll see you in 7 days. Take care and rest up.
+
+[patient] Thank you, I'll do that.
+```"
+UNSPECIFIED INJURY OF THORAX, INITIAL ENCOUNTER|"ROLE: Emergency Medicine Physician
+
+**Scenario Variables**
+
+**1) Medical Outcome:** 
+- Diagnosis: Unspecified injury of thorax (ICD-10 code: S29.9)
+- Prescribed Treatment: Acetaminophen with codeine #3, 300 mg/30 mg, oral, every 4-6 hours as needed for pain, quantity: 20 tablets
+- Imaging Order: Chest X-ray and CT scan of the thorax to evaluate for potential fractures or internal injuries
+- Referral: Follow-up with Traumologist Dr. Samha Javed in 3 days for further evaluation and management of injuries
+
+**2) Medical History:**
+- Previous Diagnoses: Type 2 Diabetes managed with Metformin 500 mg twice daily
+- Family Medical History: Mother with history of rheumatoid arthritis
+- Medication History: Metformin 500 mg twice daily, Aspirin 81 mg daily
+- Allergies: Allergic to Penicillin
+- Chronic Conditions: Type 2 Diabetes
+
+**3) Symptom Description:**
+- Severity: Severe
+- Duration: 2 hours
+- Associated Symptoms: Difficulty breathing, visible swelling and bruising on the chest
+- Frequency: Constant since onset
+- Impact on Daily Activities: Severe, unable to perform any routine tasks
+
+**4) Patient’s Self-Reported Habits and Lifestyle:**
+- Sleep: Difficulty sleeping due to pain
+- Diet: High in carbohydrates, struggles with diabetic diet
+- Exercise: Minimal physical activity due to sedentary job
+- Tobacco Use: Non-smoker
+- Alcohol Consumption: Rarely drinks, less than 1 drink per month
+- Drug Use: None
+- Recreational Activities: Enjoys reading and gardening
+
+**5) Demographic Information:**
+- Age: 62
+- Gender: Female
+- Ethnicity: African American
+- Socio-economic Status: Lower middle class
+- Education Level: High school graduate
+- Health Literacy: Moderate
+- Job Status: Retired factory worker
+
+**6) Patient's Behavior:**
+- Level of Cooperation: Anxious but compliant with medical advice
+
+**7) Geographical Location:**
+- Big City vs Small City: Small City
+- Pollution and Environmental Health Risks: Low pollution
+- Neighborhood Type: Food desert, limited access to fresh produce
+
+**8) Clinical Setting:**
+- Setting: Community Hospital Emergency Department
+
+**9) Type of Encounter:**
+- Initial Consultation
+
+**10) Treatment Disparities:**
+- Patient has limited financial means and relies on Medicare, potentially affecting access to follow-up care
+
+**11) Native or Non-Native English Speaking Patient:**
+- Native English Speaker
+
+**12) Physical Exams:**
+- Inspection: Visible swelling and ecchymosis on the right side of the chest, tenderness upon palpation
+- Respiratory: Diminished breath sounds on the right side, shallow breathing
+
+**13) Investigation/Test results:**
+- Awaiting Chest X-ray and CT scan of the thorax to evaluate for potential fractures or internal injuries
+
+The scenario is provided without extra text as requested."|"### 1. Subjective
+
+**Chief Complaint (CC):**  
+Severe chest pain and difficulty breathing.
+
+**History of Present Illness (HPI):**  
+The patient is a 62-year-old African American female who presents with severe chest pain and difficulty breathing that started approximately 2 hours ago. She reports that the pain is constant and significant enough to prevent her from performing any routine tasks. She also notes visible swelling and bruising on the right side of her chest. She has had difficulty sleeping due to the pain.
+
+**Review of Systems (ROS):**  
+- **Respiratory:** Endorses difficulty breathing.
+- **Musculoskeletal:** Endorses swelling and bruising on the right side of the chest, with severe tenderness on palpation.
+- **General:** Denies fever and chills.
+
+### 2. Objective
+
+**Vital Signs:**
+- Blood Pressure: 142/88 mmHg
+- Heart Rate: 96 beats per minute
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 36.8°C (98.2°F)
+- Oxygen Saturation: 94% on room air
+
+**Physical Examination:**
+- **Inspection:** Noted visible swelling and ecchymosis on the right side of the chest.
+- **Palpation:** Significant tenderness on the right side of the chest.
+- **Respiratory:** Diminished breath sounds on the right side; patient exhibits shallow breathing.
+- **Cardiovascular:** Heart sounds normal, no murmurs, rubs, or gallops.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+
+**Investigations:**  
+Awaiting Chest X-ray and CT scan of the thorax for further evaluation.
+
+### 3. Assessment
+
+**Assessment:**
+- **Unspecified injury of thorax (ICD-10 code: S29.9):**
+  - Given the patient's severe chest pain, visible swelling, bruising, and diminished breath sounds, an unspecified injury of the thorax is suspected. The imaging studies (Chest X-ray and CT scan of the thorax) are essential to evaluate for potential fractures or internal injuries.
+
+**Chronic Conditions:** 
+- Type 2 Diabetes, currently managed with Metformin 500 mg twice daily.
+
+### 4. Plan
+
+**Medical Treatment:**
+- Prescribe Acetaminophen with codeine #3, 300 mg/30 mg, oral, every 4-6 hours as needed for pain; quantity: 20 tablets.
+
+**Diagnostic Workup:**
+- Order Chest X-ray and CT scan of the thorax to evaluate for potential fractures or internal injuries.
+
+**Referrals:**
+- Schedule a follow-up with Traumologist Dr. Samha Javed in 3 days for further evaluation and management of injuries.
+
+**Patient Education and Counseling:**
+- Discuss the importance of managing her Type 2 Diabetes rigorously, especially with the additional physical stress from her recent injury.
+- Advise on pain management strategies and the potential side effects of the prescribed medication.
+- Educate her on the signs to watch for, such as increased difficulty breathing or worsening pain, and to seek immediate medical attention if these occur.
+
+**Follow-up:**
+- Follow up in 3 days with Dr. Samha Javed for further evaluation and management of her thoracic injury.
+- Encourage the patient to return to the ED if symptoms worsen or new symptoms develop.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended medical treatment plan. She is anxious but compliant with medical advice."|"### 1. Subjective
+
+**Chief Complaint (CC):**  
+Severe chest pain and difficulty breathing.
+
+**History of Present Illness (HPI):**  
+The patient, Ms. Angela Thompson, is a 62-year-old African American female who presents with severe chest pain and difficulty breathing that started approximately 2 hours ago. She reports that the pain is constant and significant enough to prevent her from performing any routine tasks. She also notes visible swelling and bruising on the right side of her chest. She has had difficulty sleeping due to the pain.
+
+**Review of Systems (ROS):**  
+- **Respiratory:** Endorses difficulty breathing.
+- **Musculoskeletal:** Endorses swelling and bruising on the right side of the chest, with severe tenderness on palpation.
+- **General:** Denies fever and chills.
+
+### 2. Objective
+
+**Vital Signs:**
+- Blood Pressure: 142/88 mmHg
+- Heart Rate: 96 beats per minute
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 36.8°C (98.2°F)
+- Oxygen Saturation: 94% on room air
+
+**Physical Examination:**
+- **Inspection:** Noted visible swelling and ecchymosis on the right side of the chest.
+- **Palpation:** Significant tenderness on the right side of the chest.
+- **Respiratory:** Diminished breath sounds on the right side; patient exhibits shallow breathing.
+- **Cardiovascular:** Heart sounds normal, no murmurs, rubs, or gallops.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+
+### 3. Assessment
+
+**Assessment:**
+- **Unspecified injury of thorax (ICD-10 code: S29.9):**
+  - Given the patient's severe chest pain, visible swelling, bruising, and diminished breath sounds, an unspecified injury of the thorax is suspected. The imaging studies (Chest X-ray and CT scan of the thorax) are essential to evaluate for potential fractures or internal injuries.
+
+**Chronic Conditions:** 
+- Type 2 Diabetes, currently managed with Metformin 500 mg twice daily.
+
+### 4. Plan
+
+**Medical Treatment:**
+- Prescribe Acetaminophen with codeine #3, 300 mg/30 mg, oral, every 4-6 hours as needed for pain; quantity: 20 tablets.
+
+**Diagnostic Workup:**
+- Order Chest X-ray and CT scan of the thorax to evaluate for potential fractures or internal injuries.
+
+**Referrals:**
+- Schedule a follow-up with Traumologist Dr. Samha Javed in 3 days for further evaluation and management of injuries.
+
+**Patient Education and Counseling:**
+- Discuss the importance of managing her Type 2 Diabetes rigorously, especially with the additional physical stress from her recent injury.
+- Advise on pain management strategies and the potential side effects of the prescribed medication.
+- Educate her on the signs to watch for, such as increased difficulty breathing or worsening pain, and to seek immediate medical attention if these occur.
+
+**Follow-up:**
+- Follow up in 3 days with Dr. Samha Javed for further evaluation and management of her thoracic injury.
+- Encourage the patient to return to the ED if symptoms worsen or new symptoms develop.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended medical treatment plan. She is anxious but compliant with medical advice."|"### 1. Subjective
+
+**CC:**  
+Severe CP and SOB.
+
+**HPI:**  
+The pt, Ms. Angela Thompson, is a 62 y/o AA female who presents with severe CP and SOB that started ~2 hrs ago. She reports that the pain is constant and significant enough to prevent her from performing any routine tasks. She also notes visible swelling and bruising on the R side of her chest. She has had difficulty sleeping due to the pain.
+
+**ROS:**  
+- **Resp:** Endorses SOB.
+- **MSK:** Endorses swelling and bruising on the R side of the chest, with severe tenderness on palpation.
+- **Gen:** Denies fever and chills.
+
+### 2. Objective
+
+**VS:**
+- BP: 142/88 mmHg
+- HR: 96 bpm
+- RR: 20 bpm
+- Temp: 36.8°C (98.2°F)
+- O2 Sat: 94% on RA
+
+**PE:**
+- **Inspection:** Noted visible swelling and ecchymosis on the R side of the chest.
+- **Palpation:** Significant tenderness on the R side of the chest.
+- **Resp:** Diminished breath sounds on the R side; pt exhibits shallow breathing.
+- **CV:** Heart sounds normal, no murmurs, rubs, or gallops.
+- **Abd:** Soft, non-tender, no organomegaly.
+
+### 3. Assessment
+
+**Assessment:**
+- **Unspecified injury of thorax (ICD-10: S29.9):**
+  - Given the pt's severe CP, visible swelling, bruising, and diminished breath sounds, an unspecified injury of the thorax is suspected. Imaging studies (CXR and CT thorax) are essential to evaluate for potential fractures or internal injuries.
+
+**Chronic Conditions:** 
+- T2DM, currently managed with Metformin 500 mg BID.
+
+### 4. Plan
+
+**Medical Tx:**
+- Rx Acetaminophen with codeine #3, 300 mg/30 mg, PO, q4-6h PRN for pain; qty: 20 tabs.
+
+**Dx Workup:**
+- Order CXR and CT thorax to evaluate for potential fractures or internal injuries.
+
+**Referrals:**
+- Schedule f/u with Traumologist Dr. Samha Javed in 3 days for further eval and mgmt of injuries.
+
+**Pt Education and Counseling:**
+- Discuss the importance of managing her T2DM rigorously, especially with the additional physical stress from her recent injury.
+- Advise on pain mgmt strategies and the potential SEs of the prescribed med.
+- Educate her on the signs to watch for, such as increased SOB or worsening pain, and to seek immediate medical attention if these occur.
+
+**F/U:**
+- F/U in 3 days with Dr. Samha Javed for further eval and mgmt of her thoracic injury.
+- Encourage the pt to return to the ED if symptoms worsen or new symptoms develop.
+
+**Pt Agreements:**
+- The pt understands and agrees with the recommended medical tx plan. She is anxious but compliant with medical advice."|Emergency Medicine Physician|"[doctor] Hi there, how are you feeling today?
+
+[patient] Hi, doctor. I’m not feeling well at all. I have severe chest pain and it’s really hard to breathe.
+
+[doctor] I’m sorry to hear that. When did this pain start?
+
+[patient] It started about two hours ago. It’s constant and really bad. I can’t do anything because of it.
+
+[doctor] I see. Is the pain on one side or all over your chest?
+
+[patient] It’s mostly on the right side. I also noticed some swelling and bruising there.
+
+[doctor] Okay. Have you had any difficulty sleeping because of the pain?
+
+[patient] Yes, I couldn’t sleep at all last night.
+
+[doctor] I understand. Have you had any fever or chills?
+
+[patient] No, no fever or chills.
+
+[doctor] Alright. Have you ever experienced anything like this before?
+
+[patient] No, this is the first time.
+
+[doctor] Okay, let’s take a look at your medical history. Do you have any chronic conditions?
+
+[patient] Yes, I have Type 2 Diabetes. I take Metformin for it.
+
+[doctor] Alright, thank you for letting me know. I’m going to perform a physical examination now. Is that okay?
+
+[patient] Yes, that’s fine.
+
+[doctor] Okay, let’s check your vitals first. Your blood pressure is 142/88 mmHg, your heart rate is 96 beats per minute, respiratory rate is 20 breaths per minute, temperature is 36.8°C (98.2°F), and your oxygen saturation is 94% on room air. 
+
+[doctor] Now, I’m going to inspect your chest. I can see visible swelling and bruising on the right side. Does it hurt when I press here?
+
+[patient] Yes, it’s very tender.
+
+[doctor] Alright. I’m going to listen to your lungs now. Take a deep breath for me. I notice diminished breath sounds on the right side and your breathing is shallow. 
+
+[doctor] Your heart sounds are normal with no murmurs, rubs, or gallops. Your abdomen is soft, non-tender, and there’s no organomegaly.
+
+[patient] What does all that mean, doctor?
+
+[doctor] Based on your symptoms and my examination, it looks like you might have an unspecified injury of the thorax. We’ll need to do some imaging studies to get a better picture of what’s going on. We’ll order a Chest X-ray and a CT scan of the thorax.
+
+[patient] Okay, doctor. What about the pain?
+
+[doctor] For the pain, I’m going to prescribe Acetaminophen with codeine #3, 300 mg/30 mg. You can take it every 4-6 hours as needed. I’ll give you 20 tablets for now.
+
+[patient] Thank you. Will it help with the pain?
+
+[doctor] It should help manage the pain. Just be sure to follow the dosing instructions and let us know if you have any side effects.
+
+[patient] Alright, I will.
+
+[doctor] I’m also going to schedule a follow-up appointment for you with Traumologist Dr. Samha Javed in 3 days. He’ll be able to further evaluate and manage your injury.
+
+[patient] Okay, I’ll make sure to go to that appointment.
+
+[doctor] In the meantime, it’s important to manage your Type 2 Diabetes rigorously, especially with the additional physical stress from your injury. I also want to educate you on some signs to watch for, such as increased difficulty breathing or worsening pain. If these occur, seek immediate medical attention.
+
+[patient] I understand. I’ll keep an eye on it.
+
+[doctor] Great. Do you have any questions or concerns?
+
+[patient] No, I think you’ve covered everything.
+
+[doctor] Alright, then. We’ll proceed with the imaging studies and I’ll have the results soon. In the meantime, take care and follow the instructions I’ve given you.
+
+[patient] Thank you, doctor.
+
+[doctor] You’re welcome. Take care and I’ll see you in 3 days for the follow-up. If anything worsens, don’t hesitate to come back to the ED.
+
+[patient] Okay, I will. Thank you.
+
+[doctor] Bye for now. Take care."|"[doctor] Hi there, how are you feeling today?
+
+[patient] Hi, doctor. I’m not feeling well at all. I have severe chest pain and it’s really hard to breathe.
+
+[doctor] I’m sorry to hear that. When did this pain start?
+
+[patient] It started about two hours ago. It’s constant and really bad. I can’t do anything because of it.
+
+[doctor] I see. Is the pain on one side or all over your chest?
+
+[patient] It’s mostly on the right side. I also noticed some swelling and bruising there.
+
+[doctor] Okay. Have you had any difficulty sleeping because of the pain?
+
+[patient] Yes, I couldn’t sleep at all last night.
+
+[doctor] I understand. Have you had any fever or chills?
+
+[patient] No, no fever or chills.
+
+[doctor] Alright. Have you ever experienced anything like this before?
+
+[patient] No, this is the first time.
+
+[doctor] Okay, let’s take a look at your medical history. Do you have any chronic conditions?
+
+[patient] Yes, I have Type 2 Diabetes. I take Metformin for it.
+
+[doctor] Alright, thank you for letting me know. I’m going to perform a physical examination now. Is that okay?
+
+[patient] Yes, that’s fine.
+
+[doctor] Okay, let’s check your vitals first. Your blood pressure is 142/88 mmHg, your heart rate is 96 beats per minute, respiratory rate is 20 breaths per minute, temperature is 36.8°C (98.2°F), and your oxygen saturation is 94% on room air. 
+
+[doctor] Now, I’m going to inspect your chest. I can see visible swelling and bruising on the right side. Does it hurt when I press here?
+
+[patient] Yes, it’s very tender.
+
+[doctor] Alright. I’m going to listen to your lungs now. Take a deep breath for me. I notice diminished breath sounds on the right side and your breathing is shallow. 
+
+[doctor] Your heart sounds are normal with no murmurs, rubs, or gallops. Your abdomen is soft, non-tender, and there’s no organomegaly.
+
+[patient] What does all that mean, doctor?
+
+[doctor] Based on your symptoms and my examination, it looks like you might have an unspecified injury of the thorax. We’ll need to do some imaging studies to get a better picture of what’s going on. We’ll order a Chest X-ray and a CT scan of the thorax.
+
+[patient] Okay, doctor. What about the pain?
+
+[doctor] For the pain, I’m going to prescribe Acetaminophen with codeine #3, 300 mg/30 mg. You can take it every 4-6 hours as needed. I’ll give you 20 tablets for now.
+
+[patient] Thank you. Will it help with the pain?
+
+[doctor] It should help manage the pain. Just be sure to follow the dosing instructions and let us know if you have any side effects.
+
+[patient] Alright, I will.
+
+[doctor] I’m also going to schedule a follow-up appointment for you with Traumologist Dr. Samha Javed in 3 days. He’ll be able to further evaluate and manage your injury.
+
+[patient] Okay, I’ll make sure to go to that appointment.
+
+[doctor] In the meantime, it’s important to manage your Type 2 Diabetes rigorously, especially with the additional physical stress from your injury. I also want to educate you on some signs to watch for, such as increased difficulty breathing or worsening pain. If these occur, seek immediate medical attention.
+
+[patient] I understand. I’ll keep an eye on it.
+
+[doctor] Great. Do you have any questions or concerns?
+
+[patient] No, I think you’ve covered everything.
+
+[doctor] Alright, then. We’ll proceed with the imaging studies and I’ll have the results soon. In the meantime, take care and follow the instructions I’ve given you.
+
+[patient] Thank you, doctor.
+
+[doctor] You’re welcome. Take care and I’ll see you in 3 days for the follow-up. If anything worsens, don’t hesitate to come back to the ED.
+
+[patient] Okay, I will. Thank you.
+
+[doctor] Bye for now. Take care."
+UNSPECIFIED INJURY OF THORAX, INITIAL ENCOUNTER|"ROLE: Emergency Medicine Physician
+
+- **Medical Outcome:**
+  - Diagnosis: Unspecified injury of thorax (initial encounter)
+  - Imaging: Order for Thoracic MRI to evaluate for soft tissue injury
+  - Medications: Codeine 15 mg, oral, every 6 hours as needed, Duration: 3 days, Quantity: 12 tablets
+  - Referral: Physical Therapist, Jane Doe, for rehabilitation exercises
+  - Follow-up: Follow up in 1 week to review imaging results and reassess pain management
+
+- **Medical History:**
+  - Previous Diagnoses: Migraine, Osteoarthritis
+  - Medication History: Sumatriptan 50 mg as needed for migraines, Ibuprofen 400 mg as needed for osteoarthritis
+  - Allergies: None
+
+- **Symptom Description:**
+  - Severity: Severe pain, 8/10
+  - Duration: 6 hours
+  - Associated Symptoms: Tightness in chest, difficulty taking deep breaths
+  - Frequency: Continuous since trauma
+  - Impact on Daily Activities: Unable to perform daily chores, difficulty in sitting up
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: 4-5 hours per night, pain disturbing sleep
+  - Diet: Predominantly vegetarian
+  - Exercise: Regular swimmer, 3-4 times a week
+  - Tobacco Use: None
+  - Alcohol Consumption: Occasionally, about twice a month
+  - Drug Use: None
+  - Recreational Activities: Enjoys pottery and reading
+
+- **Demographic Information:**
+  - Age: 61
+  - Gender: Female
+  - Ethnicity: Asian
+  - Socio-economic Status: Upper-middle class
+  - Education Level: Master's degree
+  - Health Literacy: High
+  - Job Status: Retired teacher
+
+- **Patient's Behavior:**
+  - Cooperative but anxious about pain and imaging results
+
+- **Geographical Location:**
+  - Suburban area
+  - Low pollution levels
+  - Access to high-quality medical facilities
+
+- **Clinical Setting:**
+  - Emergency Department in a suburban hospital
+
+- **Type of Encounter:**
+  - Emergency Visit
+
+- **Treatment Disparities:**
+  - No apparent treatment disparities
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English Speaker
+
+- **Physical Exams:**
+  - Inspection: Noticeable swelling on the left side of the chest
+  - Palpation: Significant tenderness over ribs 2-4 on the left side
+  - Auscultation: No abnormal breath sounds
+  - Percussion: Resonance noted, no dullness
+
+- **Investigation/Test results:**
+  - Awaiting Thoracic MRI results to evaluate for soft tissue injury"|"#### Medical Note
+
+**1. Subjective:**
+   - **Chief Complaint (CC):** Severe pain in the thoracic region following trauma.
+   - **History of Present Illness (HPI):** 
+     - The patient is a 61-year-old Asian female presenting to the emergency department with severe pain in the left thoracic region, rated 8/10. The pain has been continuous since the trauma occurred 6 hours ago, accompanied by tightness in the chest and difficulty taking deep breaths. The pain is significantly impacting her ability to perform daily chores and sit up.
+   - **Review of Systems (ROS):**
+     - **Constitutional:** Reports severe pain affecting sleep, resulting in 4-5 hours of sleep per night.
+     - **Respiratory:** Reports difficulty taking deep breaths. No cough, wheezing, or hemoptysis.
+     - **Musculoskeletal:** Severe localized pain and tenderness over ribs 2-4 on the left side. No limb weakness or joint swelling.
+  
+**2. Objective:**
+   - **Vital Signs:** 
+     - Blood Pressure: 132/78 mmHg
+     - Heart Rate: 88 beats per minute
+     - Respiratory Rate: 18 breaths per minute
+     - Temperature: 97.8°F
+     - SpO2: 98% on room air
+   - **Physical Examination:**
+     - **Respiratory:**
+       - Auscultation: No abnormal breath sounds.
+       - Percussion: Resonance noted, no dullness.
+     - **Chest:**
+       - Inspection: Noticeable swelling on the left side of the chest.
+       - Palpation: Significant tenderness over ribs 2-4 on the left side.
+       - Inspection: Noticeable swelling on the left side of the chest.
+     - **General:**
+       - Patient appears anxious but cooperative.
+   - **Imaging:**
+     - Thoracic MRI ordered to evaluate for soft tissue injury.
+
+**3. Assessment:**
+   - **Diagnosis:** Unspecified injury of thorax (initial encounter).
+   - **Differential Diagnosis:**
+     - Rib fracture
+     - Intercostal muscle strain
+     - Costochondritis
+
+**4. Plan:**
+   - **Medications:**
+     - Codeine 15 mg, oral, every 6 hours as needed for pain, Duration: 3 days, Quantity: 12 tablets.
+   - **Referral:**
+     - Referral to Physical Therapist, Jane Doe, for rehabilitation exercises.
+   - **Follow-up:**
+     - Follow up in 1 week to review imaging results and reassess pain management.
+   - **Patient Education and Counseling:**
+     - Discussed the importance of rest and avoiding activities that may exacerbate the pain.
+     - Educated on potential adverse effects of codeine and the importance of adhering to the prescribed dosage.
+     - Advised to apply ice packs intermittently to the swollen area and to keep the area elevated if possible.
+     - Patient was reassured about the imaging procedure and its importance in diagnosing any soft tissue injury.
+     - Encouraged to monitor symptoms and return to the emergency department if experiencing increased pain, difficulty breathing, or other concerning symptoms.
+
+**Patient Agreements:**
+   - The patient understands and agrees with the recommended medical treatment plan."|"**1. Subjective:**
+   - **Chief Complaint (CC):** Severe pain in the thoracic region following trauma.
+   - **History of Present Illness (HPI):** 
+     - The patient is a 61-year-old Asian female presenting to the emergency department with severe pain in the left thoracic region, rated 8/10. The pain has been continuous since the trauma occurred 6 hours ago, accompanied by tightness in the chest and difficulty taking deep breaths. The pain is significantly impacting her ability to perform daily chores and sit up.
+   - **Review of Systems (ROS):**
+     - **Constitutional:** Reports severe pain affecting sleep, resulting in 4-5 hours of sleep per night.
+     - **Respiratory:** Reports difficulty taking deep breaths. No cough, wheezing, or hemoptysis.
+     - **Musculoskeletal:** Severe localized pain and tenderness over ribs 2-4 on the left side. No limb weakness or joint swelling.
+  
+**2. Objective:**
+   - **Vital Signs:** 
+     - Blood Pressure: 132/78 mmHg
+     - Heart Rate: 88 beats per minute
+     - Respiratory Rate: 18 breaths per minute
+     - Temperature: 97.8°F
+     - SpO2: 98% on room air
+   - **Physical Examination:**
+     - **Respiratory:**
+       - Auscultation: No abnormal breath sounds.
+       - Percussion: Resonance noted, no dullness.
+     - **Chest:**
+       - Inspection: Noticeable swelling on the left side of the chest.
+       - Palpation: Significant tenderness over ribs 2-4 on the left side.
+     - **General:**
+       - Patient appears anxious but cooperative.
+
+**3. Assessment:**
+   - **Diagnosis:** Unspecified injury of thorax (initial encounter).
+   - **Differential Diagnosis:**
+     - Rib fracture
+     - Intercostal muscle strain
+     - Costochondritis
+
+**4. Plan:**
+   - **Medications:**
+     - Codeine 15 mg, oral, every 6 hours as needed for pain, Duration: 3 days, Quantity: 12 tablets.
+   - **Imaging:**
+     - Thoracic MRI ordered to evaluate for soft tissue injury.
+   - **Referral:**
+     - Referral to Physical Therapist, Jane Doe, for rehabilitation exercises.
+   - **Follow-up:**
+     - Follow up in 1 week to review imaging results and reassess pain management.
+   - **Patient Education and Counseling:**
+     - Discussed the importance of rest and avoiding activities that may exacerbate the pain.
+     - Educated on potential adverse effects of codeine and the importance of adhering to the prescribed dosage.
+     - Advised to apply ice packs intermittently to the swollen area and to keep the area elevated if possible.
+     - Patient was reassured about the imaging procedure and its importance in diagnosing any soft tissue injury.
+     - Encouraged to monitor symptoms and return to the emergency department if experiencing increased pain, difficulty breathing, or other concerning symptoms.
+
+**Patient Agreements:**
+   - The patient understands and agrees with the recommended medical treatment plan."|"**1. Subjective:**
+   - **CC:** Severe pain in the thoracic region post-trauma.
+   - **HPI:** 
+     - 61 y/o Asian F presents to ED with severe L thoracic pain, rated 8/10, continuous since trauma 6 hrs ago, with chest tightness and difficulty with deep breaths. Pain impacts ADLs and sitting up.
+   - **ROS:**
+     - **Constitutional:** Severe pain affecting sleep, resulting in 4-5 hrs/night.
+     - **Respiratory:** Difficulty with deep breaths. No cough, wheezing, or hemoptysis.
+     - **MSK:** Severe localized pain and tenderness over ribs 2-4 on L side. No limb weakness or joint swelling.
+
+**2. Objective:**
+   - **VS:** 
+     - BP: 132/78 mmHg
+     - HR: 88 bpm
+     - RR: 18 bpm
+     - Temp: 97.8°F
+     - SpO2: 98% RA
+   - **PE:**
+     - **Resp:**
+       - Ausc: No abnormal breath sounds.
+       - Perc: Resonance, no dullness.
+     - **Chest:**
+       - Inspect: Noticeable swelling on L side.
+       - Palp: Significant tenderness over ribs 2-4 on L side.
+     - **Gen:**
+       - Pt appears anxious but cooperative.
+
+**3. Assessment:**
+   - **Dx:** Unspecified thorax injury (initial encounter).
+   - **DDx:**
+     - Rib fx
+     - Intercostal muscle strain
+     - Costochondritis
+
+**4. Plan:**
+   - **Rx:**
+     - Codeine 15 mg PO q6h PRN pain x3 days, #12 tabs.
+   - **Imaging:**
+     - Thoracic MRI ordered to eval soft tissue injury.
+   - **Referral:**
+     - PT referral to Jane Doe for rehab exercises.
+   - **F/U:**
+     - F/U in 1 week to review MRI results and reassess pain mgmt.
+   - **Pt Ed and Counseling:**
+     - Discussed importance of rest and avoiding activities that exacerbate pain.
+     - Educated on potential AEs of codeine and adherence to prescribed dosage.
+     - Advised to apply ice packs intermittently to swollen area and elevate if possible.
+     - Reassured pt about MRI procedure and its importance in diagnosing soft tissue injury.
+     - Encouraged to monitor symptoms and return to ED if experiencing increased pain, difficulty breathing, or other concerning symptoms.
+
+**Pt Agreements:**
+   - Pt understands and agrees with the recommended medical treatment plan."|Emergency Medicine Physician|"[Doctor] Good afternoon! How are you feeling today?
+
+[Patient] Good afternoon, Doctor. Not very well, to be honest. I've been experiencing severe pain in my chest area.
+
+[Doctor] I'm sorry to hear that. Can you tell me more about this pain? When did it start?
+
+[Patient] It started about six hours ago after I had a fall. The pain is in my left chest, and it's really bad, around 8 out of 10.
+
+[Doctor] I see. Have you noticed any other symptoms along with the pain?
+
+[Patient] Yes, there's tightness in my chest and I have difficulty taking deep breaths. It's also making it hard for me to do daily tasks and even sit up.
+
+[Doctor] That sounds very uncomfortable. Have you been able to get any sleep despite the pain?
+
+[Patient] Not really. The pain is so bad that I can only sleep for about 4 to 5 hours a night.
+
+[Doctor] Hmm. That's tough. Have you noticed any issues with your breathing, such as coughing, wheezing, or coughing up blood?
+
+[Patient] No, there's no coughing or wheezing, and I haven't coughed up any blood.
+
+[Doctor] Alright. How about pain or tenderness in other parts of your body, like your limbs or joints?
+
+[Patient] No, it's just localized pain and tenderness over my ribs on the left side, but no issues with my limbs or joints.
+
+[Doctor] Understood. Can I ask if you have any history of similar pain or any trauma to the chest before this incident?
+
+[Patient] No, this is the first time I've had such pain and the first time I've had any trauma to my chest.
+
+[Doctor] Okay. Let's take a closer look. I'll start with your vital signs.
+
+[Doctor] Your blood pressure is 132/78 mmHg, heart rate is 88 beats per minute, respiratory rate is 18 breaths per minute, temperature is 97.8°F, and your oxygen saturation is 98% on room air. Those are all within normal ranges.
+
+[Patient] That's good to hear.
+
+[Doctor] Let me do a physical examination now. I'll start with listening to your lungs. Take a deep breath for me.
+
+[Patient] (Breathes deeply)
+
+[Doctor] Your breath sounds are normal, no abnormal breath sounds. Now I'll tap on your chest to check for any dullness. 
+
+[Doctor] The percussion sounds are resonant, which is normal. There's no dullness. Now, let me inspect and palpate your chest.
+
+[Doctor] I can see noticeable swelling on the left side of your chest. When I press over your ribs 2 to 4 on the left side, do you feel any tenderness?
+
+[Patient] Yes, it hurts a lot there.
+
+[Doctor] Alright, thank you for letting me know. You appear a bit anxious but very cooperative, which helps a lot. Based on your symptoms and exam, I'm going to order a thoracic MRI to evaluate for any soft tissue injury.
+
+[Patient] Okay, what do you think it could be?
+
+[Doctor] There are a few possibilities we need to consider. It could be a rib fracture, an intercostal muscle strain, or costochondritis. The MRI will help us pinpoint the exact cause.
+
+[Patient] I see. What happens next?
+
+[Doctor] I'll prescribe you some medication for the pain. You will take Codeine 15 mg orally every 6 hours as needed for pain. I'll give you a 3-day supply, which is 12 tablets.
+
+[Patient] Okay, I hope that helps with the pain.
+
+[Doctor] It should. I'll also refer you to a physical therapist, Jane Doe, for rehabilitation exercises. They will help you recover faster and manage the pain better.
+
+[Patient] Thank you. What else should I do to manage the pain?
+
+[Doctor] It's important that you rest and avoid activities that might make the pain worse. Apply ice packs intermittently to the swollen area and try to keep it elevated if possible.
+
+[Patient] I'll do that. Is there anything else I should know about the medication?
+
+[Doctor] Yes, Codeine can have some adverse effects, such as drowsiness, constipation, and nausea. Make sure you adhere to the prescribed dosage and do not take more than advised.
+
+[Patient] Got it. I'll be careful.
+
+[Doctor] Great. We'll need to follow up in one week to review the imaging results and reassess your pain management. If your pain increases, or you have more difficulty breathing, or any other concerning symptoms, you should return to the emergency department immediately.
+
+[Patient] Okay, I'll make sure to monitor my symptoms closely.
+
+[Doctor] Excellent. Do you have any questions or concerns about the plan?
+
+[Patient] No, I think you've covered everything. Thank you for your help.
+
+[Doctor] You're welcome. I'll write down the instructions and make sure you have all the information you need. Take care and see you in a week.
+
+[Patient] Thank you, Doctor. I'll see you then.
+
+[Doctor] Take care. Goodbye.
+
+[Patient] Goodbye."|"[Doctor] Good afternoon! How are you feeling today?
+
+[Patient] Good afternoon, Doctor. Not very well, to be honest. I've been experiencing severe pain in my chest area.
+
+[Doctor] I'm sorry to hear that. Can you tell me more about this pain? When did it start?
+
+[Patient] It started about six hours ago after I had a fall. The pain is in my left chest, and it's really bad, around 8 out of 10.
+
+[Doctor] I see. Have you noticed any other symptoms along with the pain?
+
+[Patient] Yes, there's tightness in my chest and I have difficulty taking deep breaths. It's also making it hard for me to do daily tasks and even sit up.
+
+[Doctor] That sounds very uncomfortable. Have you been able to get any sleep despite the pain?
+
+[Patient] Not really. The pain is so bad that I can only sleep for about 4 to 5 hours a night.
+
+[Doctor] Hmm. That's tough. Have you noticed any issues with your breathing, such as coughing, wheezing, or coughing up blood?
+
+[Patient] No, there's no coughing or wheezing, and I haven't coughed up any blood.
+
+[Doctor] Alright. How about pain or tenderness in other parts of your body, like your limbs or joints?
+
+[Patient] No, it's just localized pain and tenderness over my ribs on the left side, but no issues with my limbs or joints.
+
+[Doctor] Understood. Can I ask if you have any history of similar pain or any trauma to the chest before this incident?
+
+[Patient] No, this is the first time I've had such pain and the first time I've had any trauma to my chest.
+
+[Doctor] Okay. Let's take a closer look. I'll start with your vital signs.
+
+[Doctor] Your blood pressure is 132/78 mmHg, heart rate is 88 beats per minute, respiratory rate is 18 breaths per minute, temperature is 97.8°F, and your oxygen saturation is 98% on room air. Those are all within normal ranges.
+
+[Patient] That's good to hear.
+
+[Doctor] Let me do a physical examination now. I'll start with listening to your lungs. Take a deep breath for me.
+
+[Patient] (Breathes deeply)
+
+[Doctor] Your breath sounds are normal, no abnormal breath sounds. Now I'll tap on your chest to check for any dullness. 
+
+[Doctor] The percussion sounds are resonant, which is normal. There's no dullness. Now, let me inspect and palpate your chest.
+
+[Doctor] I can see noticeable swelling on the left side of your chest. When I press over your ribs 2 to 4 on the left side, do you feel any tenderness?
+
+[Patient] Yes, it hurts a lot there.
+
+[Doctor] Alright, thank you for letting me know. You appear a bit anxious but very cooperative, which helps a lot. Based on your symptoms and exam, I'm going to order a thoracic MRI to evaluate for any soft tissue injury.
+
+[Patient] Okay, what do you think it could be?
+
+[Doctor] There are a few possibilities we need to consider. It could be a rib fracture, an intercostal muscle strain, or costochondritis. The MRI will help us pinpoint the exact cause.
+
+[Patient] I see. What happens next?
+
+[Doctor] I'll prescribe you some medication for the pain. You will take Codeine 15 mg orally every 6 hours as needed for pain. I'll give you a 3-day supply, which is 12 tablets.
+
+[Patient] Okay, I hope that helps with the pain.
+
+[Doctor] It should. I'll also refer you to a physical therapist, Jane Doe, for rehabilitation exercises. They will help you recover faster and manage the pain better.
+
+[Patient] Thank you. What else should I do to manage the pain?
+
+[Doctor] It's important that you rest and avoid activities that might make the pain worse. Apply ice packs intermittently to the swollen area and try to keep it elevated if possible.
+
+[Patient] I'll do that. Is there anything else I should know about the medication?
+
+[Doctor] Yes, Codeine can have some adverse effects, such as drowsiness, constipation, and nausea. Make sure you adhere to the prescribed dosage and do not take more than advised.
+
+[Patient] Got it. I'll be careful.
+
+[Doctor] Great. We'll need to follow up in one week to review the imaging results and reassess your pain management. If your pain increases, or you have more difficulty breathing, or any other concerning symptoms, you should return to the emergency department immediately.
+
+[Patient] Okay, I'll make sure to monitor my symptoms closely.
+
+[Doctor] Excellent. Do you have any questions or concerns about the plan?
+
+[Patient] No, I think you've covered everything. Thank you for your help.
+
+[Doctor] You're welcome. I'll write down the instructions and make sure you have all the information you need. Take care and see you in a week.
+
+[Patient] Thank you, Doctor. I'll see you then.
+
+[Doctor] Take care. Goodbye.
+
+[Patient] Goodbye."
+UNSPECIFIED INJURY OF THORAX, INITIAL ENCOUNTER|"ROLE: Emergency Medicine Physician
+
+** Scenario Variables:**
+
+1. Medical Outcome:
+    - Diagnosis: Unspecified injury of thorax, initial encounter (S29.9XXA)
+    - Prescribed Treatment: Pain management with tramadol 50 mg, oral, three times daily as needed, quantity: 20 tablets.
+    - Follow-up Recommendations: Follow-up with primary care physician in one week.
+    - Referral to Specialists: Referral to Pulmonologist, Dr. Kim, if respiratory symptoms persist.
+    - Imaging: Order for chest X-ray (Two views) to rule out rib fractures or other structural issues.
+
+2. Medical History:
+    - Previous Diagnoses: Type 2 Diabetes Mellitus
+    - Medication History: Metformin 500 mg, twice daily.
+    - Allergies: Ibuprofen
+    - Chronic Conditions: Type 2 Diabetes
+
+3. Symptom Description:
+    - Severity: Moderate pain, localized on the left side of the chest.
+    - Duration: Started 24 hours ago following a motor vehicle accident.
+    - Associated Symptoms: Mild shortness of breath, occasional cough.
+    - Frequency: Intermittent stabbing pain.
+    - Impact on Daily Activities: Difficulty bending or lifting objects.
+
+4. Patient’s self-reported habits and lifestyle:
+    - Sleep: Reports having trouble sleeping due to pain.
+    - Diet: Balanced diet with focus on low glycemic index foods.
+    - Exercise: Walks 30 minutes daily.
+    - Tobacco Use: Quit smoking 10 years ago, non-smoker since.
+    - Alcohol Consumption: Drinks wine occasionally, maximum 2 glasses per week.
+    - Drug Use: No recreational drug use.
+    - Recreational Activities: Enjoys painting and reading.
+
+5. Demographic Information:
+    - Age: 50
+    - Gender: Female
+    - Ethnicity: Asian
+    - Socio-economic Status: Upper middle class
+    - Education Level: Master’s degree
+    - Health Literacy: High
+    - Job Status: Part-time librarian
+
+6. Patient's Behavior:
+    - Patient is calm but concerned and is very responsive to medical advice.
+
+7. Geographical Location:
+    - Big City vs Small City: Small city
+    - Rural vs Urban: Rural
+    - Pollution and Environmental Health Risks: Low pollution
+    - Neighborhood Type: Affluent, access to good medical facilities
+
+8. Clinical Setting:
+    - Telemedicine consultation
+
+9. Type of Encounter:
+    - Initial Consultation
+
+10. Treatment Disparities:
+    - All treatment options were fully discussed with the patient, no apparent treatment disparities.
+
+11. Native or Non-Native English Speaking Patient:
+    - Non-Native English-speaking patient, primarily speaks Mandarin.
+
+12. Physical exams:
+    - Not applicable (Telemedicine consult).
+
+13. Investigation/Test results:
+    - Chest X-ray (Two views) ordered to evaluate for potential fractures or other issues, results awaited."|"#####
+
+**Subjective:**
+
+**Chief Complaint (CC):**
+Left-sided chest pain following motor vehicle accident.
+
+**History of Present Illness (HPI):**
+A 50-year-old Asian female presents via telemedicine for evaluation of left-sided chest pain. The pain began 24 hours ago following a motor vehicle accident. The patient describes the pain as moderate, intermittent, and stabbing in nature, localized to the left side of her chest. She reports associated mild shortness of breath and occasional cough. The pain is aggravated by bending or lifting objects and has caused difficulty sleeping.
+
+**Review of Systems (ROS):**
+- **Respiratory:** Mild shortness of breath, occasional cough.
+- **Musculoskeletal:** Moderate left-sided chest pain.
+- **General:** Difficulty sleeping due to pain.
+  
+**Objective:**
+
+- **Telemedicine Consultation:** No physical examination performed.
+- **Investigations Ordered:** Chest X-ray (Two views) to rule out rib fractures or other structural issues.
+
+**Assessment:**
+
+- **Primary Diagnosis:** Unspecified injury of thorax, initial encounter (S29.9XXA).
+
+**Plan:**
+1. **Medication:** 
+   - Pain management with tramadol 50 mg, oral, three times daily as needed, quantity 20 tablets.
+2. **Follow-up:**
+   - Follow-up with primary care physician in one week.
+3. **Referrals:**
+   - Referral to Pulmonologist, Dr. Kim, if respiratory symptoms persist.
+4. **Investigations:**
+   - Order for chest X-ray (Two views) to rule out rib fractures or other structural issues.
+5. **Patient Education and Instructions:**
+   - Advise the patient to avoid activities that may exacerbate the pain, such as heavy lifting or bending.
+   - Discuss the importance of adhering to prescribed medications and follow-up appointments, particularly given her Type 2 Diabetes Mellitus.
+   - Encourage maintaining a balanced diet and regular exercise, as currently practiced.
+   - Reiterate the importance of contacting the healthcare provider if symptoms worsen, or new symptoms arise.
+6. **Allergies Noted:**
+   - Avoid ibuprofen due to allergy.
+  
+**Instructions to Patient:**
+- The patient should continue her balanced diet with a focus on low glycemic index foods and maintain her daily walking routine as tolerated.
+- She is encouraged to rest and use pain medication as prescribed.
+- Avoid alcohol consumption while taking tramadol.
+- Contact her primary care physician if pain persists or worsens, or if she experiences any new or concerning symptoms.
+- Follow-up with primary care physician in one week, as well as the pulmonologist if respiratory symptoms do not improve.
+
+"|"#####
+
+**Subjective:**
+
+**Chief Complaint (CC):**
+Left-sided chest pain following motor vehicle accident.
+
+**History of Present Illness (HPI):**
+A 50-year-old Asian female, named Mei Lin, presents via telemedicine for evaluation of left-sided chest pain. The pain began 24 hours ago following a motor vehicle accident. The patient describes the pain as moderate, intermittent, and stabbing in nature, localized to the left side of her chest. She reports associated mild shortness of breath and occasional cough. The pain is aggravated by bending or lifting objects and has caused difficulty sleeping.
+
+**Review of Systems (ROS):**
+- **Respiratory:** Mild shortness of breath, occasional cough.
+- **Musculoskeletal:** Moderate left-sided chest pain.
+- **General:** Difficulty sleeping due to pain.
+  
+**Objective:**
+
+- **Telemedicine Consultation:** No physical examination performed.
+
+**Assessment:**
+
+- **Primary Diagnosis:** Unspecified injury of thorax, initial encounter (S29.9XXA).
+
+**Plan:**
+1. **Medication:** 
+   - Pain management with tramadol 50 mg, oral, three times daily as needed, quantity 20 tablets.
+2. **Follow-up:**
+   - Follow-up with primary care physician in one week.
+3. **Referrals:**
+   - Referral to Pulmonologist, Dr. Kim, if respiratory symptoms persist.
+4. **Investigations:**
+   - Order for chest X-ray (Two views) to rule out rib fractures or other structural issues.
+5. **Patient Education and Instructions:**
+   - Advise the patient to avoid activities that may exacerbate the pain, such as heavy lifting or bending.
+   - Discuss the importance of adhering to prescribed medications and follow-up appointments, particularly given her Type 2 Diabetes Mellitus.
+   - Encourage maintaining a balanced diet and regular exercise, as currently practiced.
+   - Reiterate the importance of contacting the healthcare provider if symptoms worsen, or new symptoms arise.
+6. **Allergies Noted:**
+   - Avoid ibuprofen due to allergy.
+  
+**Instructions to Patient:**
+- The patient should continue her balanced diet with a focus on low glycemic index foods and maintain her daily walking routine as tolerated.
+- She is encouraged to rest and use pain medication as prescribed.
+- Avoid alcohol consumption while taking tramadol.
+- Contact her primary care physician if pain persists or worsens, or if she experiences any new or concerning symptoms.
+- Follow-up with primary care physician in one week, as well as the pulmonologist if respiratory symptoms do not improve."|"#####
+
+**Subjective:**
+
+**CC:**
+Left-sided CP following MVA.
+
+**HPI:**
+A 50-year-old Asian F, named Mei Lin, presents via telemed for eval of left-sided CP. The pain began 24 hrs ago post-MVA. Pt describes the pain as moderate, intermittent, and stabbing, localized to the left side of her chest. She reports associated mild SOB and occasional cough. The pain is aggravated by bending or lifting objects and has caused difficulty sleeping.
+
+**ROS:**
+- **Resp:** Mild SOB, occasional cough.
+- **MSK:** Moderate left-sided CP.
+- **Gen:** Difficulty sleeping due to pain.
+  
+**Objective:**
+
+- **Telemed Consult:** No PE performed.
+
+**Assessment:**
+
+- **Primary Dx:** Unspecified injury of thorax, initial encounter (S29.9XXA).
+
+**Plan:**
+1. **Rx:** 
+   - Pain mgmt with tramadol 50 mg PO TID PRN, qty 20 tabs.
+2. **F/U:**
+   - F/U with PCP in 1 week.
+3. **Referrals:**
+   - Referral to Pulmonologist, Dr. Kim, if resp sx persist.
+4. **Investigations:**
+   - Order for CXR (2 views) to R/O rib fractures or other structural issues.
+5. **Pt Ed and Instructions:**
+   - Advise pt to avoid activities that may exacerbate the pain, such as heavy lifting or bending.
+   - Discuss the importance of adhering to prescribed meds and F/U appts, particularly given her T2DM.
+   - Encourage maintaining a balanced diet and regular exercise, as currently practiced.
+   - Reiterate the importance of contacting the HCP if sx worsen, or new sx arise.
+6. **Allergies Noted:**
+   - Avoid ibuprofen due to allergy.
+  
+**Instructions to Pt:**
+- Pt should continue her balanced diet with a focus on low glycemic index foods and maintain her daily walking routine as tolerated.
+- She is encouraged to rest and use pain meds as prescribed.
+- Avoid EtOH consumption while taking tramadol.
+- Contact her PCP if pain persists or worsens, or if she experiences any new or concerning sx.
+- F/U with PCP in 1 week, as well as the pulmonologist if resp sx do not improve."|Emergency Medicine Physician|"**Conversation:**
+
+**Doctor:** Hello, I’m Dr. Smith, and I'll be seeing you today through this telemedicine consultation. Can you start by telling me what brings you in today?
+
+**Patient:** Hi, Dr. Smith. I've been having left-sided chest pain since yesterday. It started after I was in a car accident.
+
+**Doctor:** I'm sorry to hear that. Can you describe the pain for me?
+
+**Patient:** It's moderate and comes and goes. It feels like a stabbing pain on the left side of my chest.
+
+**Doctor:** Okay, stabbing pain. Is there anything that makes it better or worse?
+
+**Patient:** Yes, it gets worse when I bend over or lift things. It’s been really hard to sleep because of it.
+
+**Doctor:** That sounds quite uncomfortable. Have you noticed any other symptoms along with the chest pain?
+
+**Patient:** I've had some mild shortness of breath and an occasional cough.
+
+**Doctor:** I see. How is your breathing now? Is it difficult to breathe?
+
+**Patient:** It's a bit better now, but it was worse right after the accident.
+
+**Doctor:** Understood. Let's go over your medical history a bit. Do you have any chronic conditions or allergies?
+
+**Patient:** I have Type 2 Diabetes Mellitus, and I'm allergic to ibuprofen.
+
+**Doctor:** Thank you for letting me know. Are you currently taking any medications for your diabetes or any other conditions?
+
+**Patient:** Yes, I take metformin for my diabetes.
+
+**Doctor:** Alright. Have you been able to maintain your diet and exercise routine despite the pain?
+
+**Patient:** Yes, I try to follow a balanced diet and go for a walk every day, but the pain has made it difficult lately.
+
+**Doctor:** That’s good to hear you’re keeping up with your routine as much as possible. Now, I’ll be ordering a chest X-ray to rule out any rib fractures or other structural issues. Does that sound okay?
+
+**Patient:** Yes, that sounds good.
+
+**Doctor:** For your pain, I’m going to prescribe tramadol, 50 mg, to be taken three times daily as needed. It should help manage the pain. Please avoid alcohol while taking tramadol.
+
+**Patient:** Okay, I’ll make sure to avoid alcohol.
+
+**Doctor:** Since you mentioned difficulty sleeping, I want to emphasize avoiding activities that might worsen the pain, like heavy lifting or bending. Try to rest as much as you can.
+
+**Patient:** I will, thank you.
+
+**Doctor:** I’m also referring you to a pulmonologist, Dr. Kim, especially if your respiratory symptoms persist. It’s important to follow up with them if needed.
+
+**Patient:** Alright, I’ll keep that in mind.
+
+**Doctor:** Please follow up with your primary care physician in one week to review your progress and the results of your chest X-ray. It’s crucial to keep your follow-up appointments, especially given your diabetes.
+
+**Patient:** I’ll make sure to do that. Thank you, Dr. Smith.
+
+**Doctor:** One more thing—continue your balanced diet focusing on low glycemic index foods and keep walking as much as the pain allows. If the pain worsens or you notice any new symptoms, contact your primary care physician immediately.
+
+**Patient:** I’ll do that. Thank you for your help.
+
+**Doctor:** You're welcome. Take care and feel better soon. Goodbye.
+
+**Patient:** Goodbye, Dr. Smith."|"[doctor]: Hello, I’m Dr. Smith, and I'll be seeing you today through this telemedicine consultation. Can you start by telling me what brings you in today?
+
+[patient]: Hi, Dr. Smith. I've been having left-sided chest pain since yesterday. It started after I was in a car accident.
+
+[doctor]: Oh no, I'm sorry to hear that. Can you describe the pain for me?
+
+[patient]: It's moderate and comes and goes. It feels like a stabbing pain on the left side of my chest.
+
+[doctor]: Okay, stabbing pain. Is there anything that makes it better or worse?
+
+[patient]: Yeah, it gets worse when I bend over or lift things. It’s been really hard to sleep because of it.
+
+[doctor]: That sounds quite uncomfortable. Have you noticed any other symptoms along with the chest pain?
+
+[patient]: I've had some mild shortness of breath and an occasional cough.
+
+[doctor]: I see. How is your breathing now? Is it difficult to breathe?
+
+[patient]: It's a bit better now, but it was worse right after the accident.
+
+[doctor]: Understood. Let's go over your medical history a bit. Do you have any chronic conditions or allergies?
+
+[patient]: I have Type 2 Diabetes Mellitus, and I'm allergic to ibuprofen.
+
+[doctor]: Thank you for letting me know. Are you currently taking any medications for your diabetes or any other conditions?
+
+[patient]: Yes, I take metformin for my diabetes.
+
+[doctor]: Alright. Have you been able to maintain your diet and exercise routine despite the pain?
+
+[patient]: Yes, I try to follow a balanced diet and go for a walk every day, but the pain has made it difficult lately.
+
+[doctor]: That’s good to hear you’re keeping up with your routine as much as possible. Now, I’ll be ordering a chest X-ray to rule out any rib fractures or other structural issues. Does that sound okay?
+
+[patient]: Yes, that sounds good.
+
+[doctor]: For your pain, I’m going to prescribe tramadol, 50 mg, to be taken three times daily as needed. It should help manage the pain. Please avoid alcohol while taking tramadol.
+
+[patient]: Okay, I’ll make sure to avoid alcohol.
+
+[doctor]: Since you mentioned difficulty sleeping, I want to emphasize avoiding activities that might worsen the pain, like heavy lifting or bending. Try to rest as much as you can.
+
+[patient]: I will, thank you.
+
+[doctor]: I’m also referring you to a pulmonologist, Dr. Kim, especially if your respiratory symptoms persist. It’s important to follow up with them if needed.
+
+[patient]: Alright, I’ll keep that in mind.
+
+[doctor]: Please follow up with your primary care physician in one week to review your progress and the results of your chest X-ray. It’s crucial to keep your follow-up appointments, especially given your diabetes.
+
+[patient]: I’ll make sure to do that. Thank you, Dr. Smith.
+
+[doctor]: One more thing—continue your balanced diet focusing on low glycemic index foods and keep walking as much as the pain allows. If the pain worsens or you notice any new symptoms, contact your primary care physician immediately.
+
+[patient]: I’ll do that. Thank you for your help.
+
+[doctor]: You're welcome. Take care and feel better soon. Goodbye.
+
+[patient]: Goodbye, Dr. Smith."
+UNSPECIFIED INJURY OF THORAX, INITIAL ENCOUNTER|"ROLE: Emergency Medicine Physician
+
+SCENARIO:
+
+** Medical Outcome: **
+- Diagnosis: Unspecified injury of thorax (S29.90XA)
+- Prescribed treatment: Pain management with ibuprofen 400 mg oral every 6 hours as needed for pain, not to exceed 7 days.
+- Imaging: Chest X-ray to assess for fractures or pneumothorax.
+- Follow-up recommendations: Follow-up with primary care physician within 1 week to reassess injury.
+- Referral: Referral to a thoracic surgeon, Dr. Smith, if the X-ray reveals any significant findings such as fractures or lung injury.
+- Lifestyle change: Limited physical activity until follow-up, avoid heavy lifting.
+
+** Medical History: **
+- No significant previous diagnoses.
+- No known allergies.
+- No current medications.
+
+** Symptom Description: **
+- Severity: Moderate to severe chest pain.
+- Duration: Pain started approximately 2 hours ago after a fall.
+- Associated Symptoms: Shortness of breath, especially when taking deep breaths.
+- Frequency: Continues without relief since the fall.
+- Impact on Daily Activities: Difficulty in performing normal daily tasks due to pain.
+
+** Patient’s self-reported habits and lifestyle: **
+- Sleep: Difficult falling asleep due to pain.
+- Diet: Balanced diet with regular meals.
+- Exercise: Generally active, runs 3 times a week.
+- Tobacco Use: Non-smoker.
+- Alcohol Consumption: Occasional social drinker, about 2-3 drinks per month.
+- Drug Use: Denies any drug use.
+- Recreational Activities: Enjoys jogging and intramural sports.
+
+** Demographic Information: **
+- Age: 28
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle class.
+- Education Level: Bachelor's Degree in Business Administration.
+- Health Literacy: High, understands medical terminology well.
+- Job Status: Full-time marketing executive.
+
+** Patient's Behavior: **
+- Cooperative and follows medical advice diligently.
+
+** Geographical Location: **
+- Big City: Resides in an urban area.
+- Environmental Health Risks: Generally low pollution exposure.
+- Neighborhood Type: Affluent, well-served by transit, has access to parks and recreational areas.
+
+** Clinical Setting: **
+- Emergency Department
+
+** Type of Encounter: **
+- Initial Consultation
+
+** Treatment Disparities: **
+- None detected; patient has insurance and can afford prescribed treatments and follow-ups.
+
+** Native or Non-Native English Speaking Patient: **
+- Native English speaking.
+
+** Physical exams: **
+- Inspection: Ecchymosis and abrasion noted on the right side of the chest.
+- Palpation: Tenderness over the right thorax.
+- Auscultation: Breath sounds slightly diminished on the right side, no wheezing or crackles.
+
+** Investigation/Test results: **
+- Imaging: Chest X-ray ordered to evaluate for rib fractures or pneumothorax.
+
+** Instructions: **
+- Patient understands the need for imaging and will get the X-ray immediately. Will follow up with his primary physician and return to the ER if symptoms worsen."|"**1. Subjective:**
+- **Chief Complaint (CC):** Moderate to severe chest pain.
+- **History of Present Illness (HPI):** 
+  - **Onset:** Pain started approximately 2 hours ago after a fall.
+  - **Location:** Right side of the chest.
+  - **Duration:** Continues without relief since the fall.
+  - **Characteristics:** Moderate to severe pain, worsened by deep breaths.
+  - **Associated Symptoms:** Shortness of breath, especially when taking deep breaths.
+  - **Aggravating Factors:** Physical activity and deep breathing.
+  - **Relieving Factors:** None reported.
+  - **Impact on Daily Activities:** Difficulty in performing normal daily tasks due to pain.
+- **Review of Systems (ROS):**
+  - **General:** Reports difficulty falling asleep due to pain.
+  - **Cardiovascular:** No chest pain apart from the injury-related discomfort.
+  - **Respiratory:** Shortness of breath, especially on deep inspiration.
+  - **Musculoskeletal:** Pain and tenderness over the right thorax, no other musculoskeletal complaints.
+  - **Neurological:** No dizziness, headache, or loss of consciousness.
+
+**2. Objective:**
+- **Vital Signs:** 
+  - BP: 120/80 mmHg.
+  - HR: 82 bpm.
+  - RR: 20 breaths per minute.
+  - SpO2: 98% on room air.
+- **Physical Examination:**
+  - **Inspection:** Ecchymosis and abrasion noted on the right side of the chest.
+  - **Palpation:** Tenderness over the right thorax.
+  - **Auscultation:** Breath sounds slightly diminished on the right side, no wheezing or crackles.
+- **Investigations:**
+  - **Imaging:** Chest X-ray ordered to evaluate for rib fractures or pneumothorax.
+
+**3. Assessment:**
+- **Diagnosis:** Unspecified injury of thorax (S29.90XA).
+  - **Medical Reasoning:** Based on the history of a fall, localized chest pain with associated shortness of breath, and physical examination findings, the diagnosis is indicative of an unspecified thoracic injury.
+  - **Differential Diagnosis:** Rib fracture, pneumothorax, muscle contusion.
+
+**4. Plan:**
+- **Medical Treatment:** 
+  - Pain management with ibuprofen 400 mg oral every 6 hours as needed for pain, not to exceed 7 days.
+  - Chest X-ray to assess for fractures or pneumothorax.
+- **Patient Education and Counseling:**
+  - Discussed the importance of limited physical activity and avoiding heavy lifting until follow-up.
+  - Advised to seek immediate care if experiencing worsening symptoms such as increased shortness of breath or severe pain.
+- **Follow-Up:**
+  - Follow-up with primary care physician within 1 week to reassess injury.
+  - If the X-ray reveals any significant findings such as fractures or lung injury, referral to thoracic surgeon, Dr. Smith.
+- **Patient Agreements:** 
+  - The patient understands and agrees with the recommended treatment plan and follow-up instructions.
+- **Instructions:**
+  - Patient to get the chest X-ray immediately.
+  - Will follow up with his primary care physician as instructed and will return to the ER if symptoms worsen.
+
+**5. Lifestyle Recommendations:**
+  - Limited physical activity until follow-up, avoid heavy lifting."|"**1. Subjective:**
+- **Chief Complaint (CC):** Moderate to severe chest pain.
+- **History of Present Illness (HPI):** 
+  - **Onset:** Pain started approximately 2 hours ago after a fall.
+  - **Location:** Right side of the chest.
+  - **Duration:** Continues without relief since the fall.
+  - **Characteristics:** Moderate to severe pain, worsened by deep breaths.
+  - **Associated Symptoms:** Shortness of breath, especially when taking deep breaths.
+  - **Aggravating Factors:** Physical activity and deep breathing.
+  - **Relieving Factors:** None reported.
+  - **Impact on Daily Activities:** Difficulty in performing normal daily tasks due to pain.
+- **Review of Systems (ROS):**
+  - **General:** Reports difficulty falling asleep due to pain.
+  - **Cardiovascular:** No chest pain apart from the injury-related discomfort.
+  - **Respiratory:** Shortness of breath, especially on deep inspiration.
+  - **Musculoskeletal:** Pain and tenderness over the right thorax, no other musculoskeletal complaints.
+  - **Neurological:** No dizziness, headache, or loss of consciousness.
+
+**2. Objective:**
+- **Vital Signs:** 
+  - BP: 120/80 mmHg.
+  - HR: 82 bpm.
+  - RR: 20 breaths per minute.
+  - SpO2: 98% on room air.
+- **Physical Examination:**
+  - **Inspection:** Ecchymosis and abrasion noted on the right side of the chest.
+  - **Palpation:** Tenderness over the right thorax.
+  - **Auscultation:** Breath sounds slightly diminished on the right side, no wheezing or crackles.
+
+**3. Assessment:**
+- **Diagnosis:** Unspecified injury of thorax (S29.90XA).
+  - **Medical Reasoning:** Based on the history of a fall, localized chest pain with associated shortness of breath, and physical examination findings, the diagnosis is indicative of an unspecified thoracic injury.
+  - **Differential Diagnosis:** Rib fracture, pneumothorax, muscle contusion.
+
+**4. Plan:**
+- **Medical Treatment:** 
+  - Pain management with ibuprofen 400 mg oral every 6 hours as needed for pain, not to exceed 7 days.
+  - Chest X-ray to assess for fractures or pneumothorax.
+- **Patient Education and Counseling:**
+  - Discussed the importance of limited physical activity and avoiding heavy lifting until follow-up.
+  - Advised to seek immediate care if experiencing worsening symptoms such as increased shortness of breath or severe pain.
+- **Follow-Up:**
+  - Follow-up with primary care physician within 1 week to reassess injury.
+  - If the X-ray reveals any significant findings such as fractures or lung injury, referral to thoracic surgeon, Dr. John Smith, for further evaluation and management.
+- **Patient Agreements:** 
+  - The patient understands and agrees with the recommended treatment plan and follow-up instructions.
+- **Instructions:**
+  - Patient to get the chest X-ray immediately.
+  - Will follow up with his primary care physician as instructed and will return to the ER if symptoms worsen.
+
+**5. Lifestyle Recommendations:**
+  - Limited physical activity until follow-up, avoid heavy lifting."|"**1. Subjective:**
+- **CC:** Mod-severe CP.
+- **HPI:**
+  - **Onset:** Pain started ~2 hrs ago post-fall.
+  - **Location:** R side of chest.
+  - **Duration:** Continues w/o relief since fall.
+  - **Characteristics:** Mod-severe pain, worsened by deep breaths.
+  - **Assoc. Symptoms:** SOB, esp. on deep breaths.
+  - **Aggravating Factors:** Physical activity and deep breathing.
+  - **Relieving Factors:** None reported.
+  - **Impact on ADLs:** Difficulty in performing normal daily tasks due to pain.
+- **ROS:**
+  - **General:** Reports difficulty falling asleep due to pain.
+  - **CV:** No CP apart from injury-related discomfort.
+  - **Resp:** SOB, esp. on deep inspiration.
+  - **MSK:** Pain and tenderness over R thorax, no other MSK complaints.
+  - **Neuro:** No dizziness, HA, or LOC.
+
+**2. Objective:**
+- **VS:**
+  - BP: 120/80 mmHg.
+  - HR: 82 bpm.
+  - RR: 20 bpm.
+  - SpO2: 98% RA.
+- **PE:**
+  - **Inspection:** Ecchymosis and abrasion noted on R side of chest.
+  - **Palpation:** Tenderness over R thorax.
+  - **Auscultation:** Breath sounds slightly diminished on R side, no wheezing or crackles.
+
+**3. Assessment:**
+- **Dx:** Unspecified injury of thorax (S29.90XA).
+  - **Medical Reasoning:** Based on Hx of fall, localized CP with assoc. SOB, and PE findings, Dx indicative of unspecified thoracic injury.
+  - **DDx:** Rib fx, PTX, muscle contusion.
+
+**4. Plan:**
+- **Medical Tx:**
+  - Pain mgmt with ibuprofen 400 mg PO q6h PRN pain, max 7 days.
+  - CXR to assess for fx or PTX.
+- **Pt Ed and Counseling:**
+  - Discussed importance of limited physical activity and avoiding heavy lifting until F/U.
+  - Advised to seek immediate care if experiencing worsening symptoms such as increased SOB or severe pain.
+- **F/U:**
+  - F/U with PCP within 1 week to reassess injury.
+  - If CXR reveals any significant findings such as fx or lung injury, referral to thoracic sx, Dr. John Smith, for further eval and mgmt.
+- **Pt Agreements:**
+  - Pt understands and agrees with the recommended Tx plan and F/U instructions.
+- **Instructions:**
+  - Pt to get CXR immediately.
+  - Will F/U with PCP as instructed and will return to ER if symptoms worsen.
+
+**5. Lifestyle Recommendations:**
+  - Limited physical activity until F/U, avoid heavy lifting."|Emergency Medicine Physician|"```plaintext
+[doctor] Hi there, I’m Dr. Harris. How are you doing today?
+
+[patient] Hi, Dr. Harris. I’m not doing too well. I’ve been having some pretty bad chest pain.
+
+[doctor] I’m sorry to hear that. Can you tell me when this pain started?
+
+[patient] It started about two hours ago after I had a fall.
+
+[doctor] I see. Can you describe where the pain is located?
+
+[patient] It's on the right side of my chest.
+
+[doctor] And has the pain been constant since the fall, or does it come and go?
+
+[patient] It's been constant and hasn't gotten any better.
+
+[doctor] How would you rate the pain on a scale from 1 to 10, with 10 being the worst?
+
+[patient] I’d say it’s around a 7 or 8, so it’s pretty bad.
+
+[doctor] What makes the pain worse?
+
+[patient] Taking deep breaths or doing any physical activity makes it worse.
+
+[doctor] And have you found anything that makes the pain better?
+
+[patient] No, nothing seems to help.
+
+[doctor] Okay. Have you noticed any other symptoms associated with this pain, like shortness of breath?
+
+[patient] Yes, especially when I try to take deep breaths.
+
+[doctor] Alright. How has this pain affected your daily activities?
+
+[patient] It’s really hard to do anything normal. Even simple tasks are difficult because of the pain.
+
+[doctor] I can imagine. Have you had any trouble sleeping because of the pain?
+
+[patient] Yes, it’s been hard to fall asleep.
+
+[doctor] Okay, apart from this injury-related discomfort, have you had any other chest pain?
+
+[patient] No, just this pain from the fall.
+
+[doctor] Any dizziness, headaches, or loss of consciousness?
+
+[patient] No, none of that.
+
+[doctor] Alright, let’s check your vital signs. Your blood pressure is 120 over 80 mmHg, heart rate is 82 beats per minute, respiratory rate is 20 breaths per minute, and your oxygen saturation is 98% on room air. 
+
+[patient] Okay.
+
+[doctor] I need to examine your chest now. I'll start by looking at the affected area. Hmm, I see some bruising and an abrasion on the right side of your chest.
+
+[patient] Yeah, it’s pretty sore there.
+
+[doctor] I’ll gently press on the area. Let me know if it hurts.
+
+[patient] Ouch, yes, that’s very tender.
+
+[doctor] I can feel the tenderness over your right thorax. I’m going to listen to your lungs now. Take a deep breath for me. 
+
+[doctor] Okay, your breath sounds are slightly diminished on the right side, but I don’t hear any wheezing or crackles.
+
+[patient] What does that mean?
+
+[doctor] It could mean a few things, like a rib fracture or even a small pneumothorax, which is air trapped between your lung and chest wall. We’ll need a chest X-ray to be sure.
+
+[patient] Okay. 
+
+[doctor] So, based on what you're telling me and what I found during the exam, it looks like you have an unspecified injury of the thorax. This could be a rib fracture or muscle contusion, and we need to rule out a pneumothorax.
+
+[patient] What’s the next step?
+
+[doctor] First, I’m going to order a chest X-ray to check for fractures or any air leakage in your chest. While we wait for the results, I’ll prescribe you some ibuprofen for pain management—400 mg every six hours as needed, but not to exceed 7 days.
+
+[patient] Alright.
+
+[doctor] In the meantime, it’s very important that you limit physical activity and avoid heavy lifting. If your symptoms get worse, especially if you have increased shortness of breath or severe pain, you need to seek immediate care.
+
+[patient] Got it. 
+
+[doctor] I’ll also arrange a follow-up with your primary care physician within a week to reassess your injury. Depending on the X-ray results, you might need to see a thoracic surgeon, Dr. Smith, if we find any significant issues like fractures or lung injury.
+
+[patient] Okay, I understand.
+
+[doctor] Do you have any questions or concerns about the plan?
+
+[patient] No, that sounds clear. I’ll follow up as instructed and go to the ER if things get worse.
+
+[doctor] Great. I’ll send you for that chest X-ray now. Make sure to follow up with your primary care physician as we discussed and take it easy for the next few days. If you need anything else, don’t hesitate to reach out.
+
+[patient] Thank you, Dr. Harris. I appreciate it.
+
+[doctor] You’re welcome. Take care.
+```
+"|"```plaintext
+[doctor] Hi there, I’m Dr. Harris. How are you doing today?
+
+[patient] Hi, Dr. Harris. I’m not doing too well. I’ve been having some pretty bad chest pain.
+
+[doctor] I’m sorry to hear that. Can you tell me when this pain started?
+
+[patient] It started about two hours ago after I had a fall.
+
+[doctor] Oh, I see. Can you describe where the pain is located?
+
+[patient] It's on the right side of my chest.
+
+[doctor] And has the pain been constant since the fall, or does it come and go?
+
+[patient] It's been constant and hasn't gotten any better.
+
+[doctor] Hmm, how would you rate the pain on a scale from 1 to 10, with 10 being the worst?
+
+[patient] I’d say it’s around a 7 or 8, so it’s pretty bad.
+
+[doctor] Alright, what makes the pain worse?
+
+[patient] Taking deep breaths or doing any physical activity makes it worse.
+
+[doctor] And have you found anything that makes the pain better?
+
+[patient] No, nothing seems to help.
+
+[doctor] Okay. Have you noticed any other symptoms associated with this pain, like shortness of breath?
+
+[patient] Yes, especially when I try to take deep breaths.
+
+[doctor] Alright. How has this pain affected your daily activities?
+
+[patient] It’s really hard to do anything normal. Even simple tasks are difficult because of the pain.
+
+[doctor] I can imagine. Have you had any trouble sleeping because of the pain?
+
+[patient] Yes, it’s been hard to fall asleep.
+
+[doctor] Okay, apart from this injury-related discomfort, have you had any other chest pain?
+
+[patient] No, just this pain from the fall.
+
+[doctor] Any dizziness, headaches, or loss of consciousness?
+
+[patient] No, none of that.
+
+[doctor] Alright, let’s check your vital signs. Your blood pressure is 120 over 80 mmHg, heart rate is 82 beats per minute, respiratory rate is 20 breaths per minute, and your oxygen saturation is 98% on room air. 
+
+[patient] Okay.
+
+[doctor] I need to examine your chest now. I'll start by looking at the affected area. Hmm, I see some bruising and an abrasion on the right side of your chest.
+
+[patient] Yeah, it’s pretty sore there.
+
+[doctor] I’ll gently press on the area. Let me know if it hurts.
+
+[patient] Ouch, yes, that’s very tender.
+
+[doctor] I can feel the tenderness over your right thorax. I’m going to listen to your lungs now. Take a deep breath for me. 
+
+[doctor] Okay, your breath sounds are slightly diminished on the right side, but I don’t hear any wheezing or crackles.
+
+[patient] What does that mean?
+
+[doctor] It could mean a few things, like a rib fracture or even a small pneumothorax, which is air trapped between your lung and chest wall. We’ll need a chest X-ray to be sure.
+
+[patient] Okay. 
+
+[doctor] So, based on what you're telling me and what I found during the exam, it looks like you have an unspecified injury of the thorax. This could be a rib fracture or muscle contusion, and we need to rule out a pneumothorax.
+
+[patient] What’s the next step?
+
+[doctor] First, I’m going to order a chest X-ray to check for fractures or any air leakage in your chest. While we wait for the results, I’ll prescribe you some ibuprofen for pain management—400 mg every six hours as needed, but not to exceed 7 days.
+
+[patient] Alright.
+
+[doctor] In the meantime, it’s very important that you limit physical activity and avoid heavy lifting. If your symptoms get worse, especially if you have increased shortness of breath or severe pain, you need to seek immediate care.
+
+[patient] Got it. 
+
+[doctor] I’ll also arrange a follow-up with your primary care physician within a week to reassess your injury. Depending on the X-ray results, you might need to see a thoracic surgeon, Dr. Smith, if we find any significant issues like fractures or lung injury.
+
+[patient] Okay, I understand.
+
+[doctor] Do you have any questions or concerns about the plan?
+
+[patient] No, that sounds clear. I’ll follow up as instructed and go to the ER if things get worse.
+
+[doctor] Great. I’ll send you for that chest X-ray now. Make sure to follow up with your primary care physician as we discussed and take it easy for the next few days. If you need anything else, don’t hesitate to reach out.
+
+[patient] Thank you, Dr. Harris. I appreciate it.
+
+[doctor] You’re welcome. Take care.
+```"
+UNSPECIFIED INJURY OF THORAX, INITIAL ENCOUNTER|"ROLE: Emergency Medicine Physician
+
+**Scenario Variables**
+
+**1) Medical Outcome:** 
+- Diagnosis: Unspecified injury of thorax (ICD-10 code: S29.9)
+- Prescribed Treatment: NSAIDs for pain management - Ibuprofen 400 mg, oral, every 6-8 hours as needed, quantity: 30 tablets
+- Imaging Order: Chest X-ray to evaluate for rib fractures or other thoracic injuries
+- Referral: Follow-up with Primary Care Physician in 1 week for reassessment
+
+**2) Medical History:**
+- Previous Diagnoses: Hypertension, managed with Lisinopril 10 mg daily
+- Family Medical History: Father with history of myocardial infarction at age 65
+- Medication History: Lisinopril 10 mg daily
+- Allergies: No known drug allergies
+- Chronic Conditions: Hypertension
+
+**3) Symptom Description:**
+- Severity: Moderate to severe
+- Duration: 3 hours
+- Associated Symptoms: Shortness of breath, chest pain worsening with movement and deep breaths
+- Frequency: Constant since onset
+- Impact on Daily Activities: Significant, unable to perform routine tasks
+
+**4) Patient’s Self-Reported Habits and Lifestyle:**
+- Sleep: Reports difficulty sleeping due to pain
+- Diet: Balanced diet
+- Exercise: Occasional brisk walking
+- Tobacco Use: History of smoking 10 pack-years, quit 2 years ago
+- Alcohol Consumption: Social drinker, 1-2 drinks per week
+
+**5) Demographic Information:**
+- Age: 45
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle class
+- Education Level: College graduate
+- Health Literacy: High
+- Job Status: Office worker
+
+**6) Patient's Behavior:**
+- Level of Cooperation: Fully cooperative and concerned about his condition
+
+**7) Geographical Location:**
+- Big City vs Small City: Urban
+- Pollution and Environmental Health Risks: Moderate pollution
+- Neighborhood Type: Well-served by transit
+
+**8) Clinical Setting:**
+- Setting: Emergency Department of a city hospital
+
+**9) Type of Encounter:**
+- Initial Consultation
+
+**10) Treatment Disparities:**
+- None noted; patient has good insurance and access to care.
+
+**11) Native or Non-Native English Speaking Patient:**
+- Native English Speaker
+
+**12) Physical Exams:**
+- Inspection: Ecchymosis on the left side of the chest, tenderness upon palpation
+- Respiratory: Decreased breath sounds on the left side, no wheezing or rales
+
+**13) Investigation/Test results:**
+- Awaiting Chest X-ray results to evaluate for potential rib fractures or other thoracic injuries
+
+The scenario is provided without extra text as requested."|Rejected|Rejected|Rejected|Rejected||
+UNSPECIFIED INJURY OF THORAX, INITIAL ENCOUNTER|"ROLE: Emergency Medicine Physician
+
+- **Medical Outcome:**
+  - Diagnosis: Unspecified injury of thorax (initial encounter)
+  - Imaging: Order for Chest X-ray to rule out fractures and pneumothorax
+  - Referral: Thoracic surgeon, Dr. Smith for further assessment if needed
+  - Medications: Ibuprofen 400 mg, oral, three times a day, Duration: 7 days, Quantity: 21 tablets
+  - Follow-up: Within one week for re-evaluation
+
+- **Medical History:**
+  - Previous Diagnoses: Asthma, Seasonal Allergies
+  - Medication History: Albuterol inhaler as needed, Loratadine 10 mg daily during pollen season
+  - Allergies: Penicillin
+
+- **Symptom Description:**
+  - Severity: Sharp pain, 7/10
+  - Duration: 2 hours
+  - Associated Symptoms: Shortness of breath, mild dizziness
+  - Frequency: Constant since injury
+  - Impact on Daily Activities: Difficulty in breathing and movement
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: 6-7 hours per night, occasional disturbance due to asthma
+  - Diet: Balanced diet, mainly vegetarian
+  - Exercise: Regular jogger, 3-4 times a week
+  - Tobacco Use: None
+  - Alcohol Consumption: Social drinker, 1-2 drinks per week
+  - Drug Use: None
+  - Recreational Activities: Enjoys hiking and yoga
+
+- **Demographic Information:**
+  - Age: 35
+  - Gender: Male
+  - Ethnicity: Hispanic
+  - Socio-economic Status: Middle class
+  - Education Level: College graduate
+  - Health Literacy: High
+  - Job Status: IT Professional, desk job
+
+- **Patient's Behavior:**
+  - Highly cooperative with medical advice
+
+- **Geographical Location:**
+  - Big City
+  - Urban
+  - Affluent Neighborhood
+  - Well-served by public transit
+
+- **Clinical Setting:**
+  - Emergency Department of a large hospital
+
+- **Type of Encounter:**
+  - Initial Consultation
+
+- **Treatment Disparities:**
+  - No apparent treatment disparities
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English Speaker
+
+- **Physical Exams:**
+  - Inspection: Bruising and tenderness on the right side of the chest
+  - Palpation: Tenderness over ribs 3-5 on the right side
+  - Auscultation: Normal breath sounds, no wheezing or crackles
+  - Percussion: Resonant lungs bilaterally
+
+- **Investigation/Test results:**
+  - Awaiting Chest X-ray results to assess for rib fractures or pneumothorax"|Rejected|Rejected|Rejected|Rejected||
+UNSPECIFIED INJURY OF THORAX, INITIAL ENCOUNTER|"ROLE: Emergency Medicine Physician
+
+- **Medical Outcome:**
+  - Diagnosis: Unspecified injury of thorax (initial encounter)
+  - Imaging: Order for Chest CT scan to rule out internal injuries and detailed assessment
+  - Medications: Acetaminophen 500 mg, oral, every 6 hours as needed for pain, Duration: 5 days, Quantity: 20 tablets
+  - Follow-up: Follow-up appointment with primary care physician in 1 week
+
+- **Medical History:**
+  - Previous Diagnoses: Hypertension, Chronic Bronchitis
+  - Medication History: Lisinopril 10 mg daily, Inhaler for bronchitis as needed
+  - Allergies: None
+
+- **Symptom Description:**
+  - Severity: Moderate pain, 5/10
+  - Duration: 4 hours
+  - Associated Symptoms: Light-headedness, difficulty taking deep breaths
+  - Frequency: Worsening with movement
+  - Impact on Daily Activities: Difficulty performing routine activities
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: 7-8 hours per night, generally undisturbed
+  - Diet: Balanced diet with occasional fast food
+  - Exercise: Light exercise, walks 2 times a week
+  - Tobacco Use: Quit smoking 5 years ago, previously smoked 1 pack per day
+  - Alcohol Consumption: Rare, once a month
+  - Drug Use: None
+  - Recreational Activities: Enjoys reading and gardening
+
+- **Demographic Information:**
+  - Age: 52
+  - Gender: Female
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Upper-middle class
+  - Education Level: High school graduate
+  - Health Literacy: Moderate
+  - Job Status: Administrative assistant, part-time
+
+- **Patient's Behavior:**
+  - Somewhat anxious about medical procedures, but generally cooperative
+
+- **Geographical Location:**
+  - Small City
+  - Urban
+  - Middle-class neighborhood
+  - Limited public transit options
+
+- **Clinical Setting:**
+  - Community Health Center
+
+- **Type of Encounter:**
+  - Emergency Visit
+
+- **Treatment Disparities:**
+  - No apparent treatment disparities
+
+- **Native or Non-Native English Speaking Patient:**
+  - Non-Native English Speaker
+
+- **Physical Exams:**
+  - Inspection: Visible bruising on the left side of the chest
+  - Palpation: Tenderness over ribs 4-6 on the left side
+  - Auscultation: Slightly diminished breath sounds on the left side
+  - Percussion: Dullness on the left mid-thoracic area
+
+- **Investigation/Test results:**
+  - Awaiting Chest CT scan results for detailed evaluation"|Rejected|Rejected|Rejected|Rejected||
+UNSPECIFIED INJURY OF THORAX, INITIAL ENCOUNTER|"ROLE: Family Medicine Physician
+
+- **Medical Outcome:**
+  - Diagnosis: Unspecified injury of thorax (initial encounter)
+  - Imaging: Order for Chest Ultrasound to check for pleural effusion or hemothorax
+  - Medications: Naproxen 250 mg, oral, twice daily, Duration: 1 week, Quantity: 14 tablets
+  - Follow-up: Follow up in 3 days to review imaging results and assess pain management
+
+- **Medical History:**
+  - Previous Diagnoses: Type 2 Diabetes, High cholesterol 
+  - Medication History: Metformin 500 mg twice daily, Atorvastatin 20 mg daily 
+  - Allergies: Sulfa drugs
+
+- **Symptom Description:**
+  - Severity: Mild to moderate pain, 4/10
+  - Duration: 1 day
+  - Associated Symptoms: Localized tenderness, mild swelling
+  - Frequency: Continuous since injury
+  - Impact on Daily Activities: Some discomfort while bending and lifting objects
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: 5-6 hours per night, disrupted sleep due to pain
+  - Diet: Mixed diet with balanced meals and occasional sweets, regular monitoring of blood glucose
+  - Exercise: Walks 30 minutes daily
+  - Tobacco Use: None
+  - Alcohol Consumption: Occasional, 1-2 glasses of wine per month
+  - Drug Use: None
+  - Recreational Activities: Enjoys cooking and bird-watching
+
+- **Demographic Information:**
+  - Age: 48
+  - Gender: Female
+  - Ethnicity: African American
+  - Socio-economic Status: Lower-middle class
+  - Education Level: Some college
+  - Health Literacy: Fair
+  - Job Status: Freelance writer, works from home
+
+- **Patient's Behavior:**
+  - Very cooperative with medical advice, proactive in health management
+
+- **Geographical Location:**
+  - Rural area
+  - Limited access to specialized medical facilities
+  - Moderate pollution levels
+
+- **Clinical Setting:**
+  - Small rural clinic
+
+- **Type of Encounter:**
+  - Initial Consultation
+
+- **Treatment Disparities:**
+  - Potential difficulty in accessing imaging facilities due to geographic location; patient might have limited options for follow-up with specialists
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English Speaker
+
+- **Physical Exams:**
+  - Inspection: Mild bruising on the right thoracic region
+  - Palpation: Tenderness over right lower ribs
+  - Auscultation: Clear breath sounds bilaterally, no abnormalities detected
+  - Percussion: Normal resonance
+
+- **Investigation/Test results:**
+  - Awaiting Chest Ultrasound results to check for pleural effusion or hemothorax"|Rejected|Rejected|Rejected|Rejected||
+UNSPECIFIED INJURY OF THORAX, INITIAL ENCOUNTER|"ROLE: Emergency Medicine Physician
+
+** Scenario Variables:**
+
+1. Medical Outcome:
+    - Diagnosis: Unspecified injury of thorax, initial encounter (S29.9XXA)
+    - Prescribed Treatment: Pain management with ibuprofen 400 mg, oral, every 6 hours as needed, quantity: 20 tablets.
+    - Follow-up Recommendations: Follow-up with primary care physician in one week.
+    - Referral to Specialists: 
+
+        Referral to Orthopedic Specialist, Dr. Jameson, for further evaluation if pain persists or worsens.
+
+    - Imaging: Order for chest X-ray to rule out rib fracture or internal injury.
+
+2. Medical History:
+    - Previous Diagnoses: Hypertension
+    - Medication History: Lisinopril 10 mg, once daily.
+    - Allergies: No known drug allergies.
+    - Chronic Conditions: Hypertension
+
+3. Symptom Description:
+    - Severity: Moderate to severe pain in the chest area.
+    - Duration: Pain started 3 hours ago after a fall.
+    - Associated Symptoms: Difficulty breathing, especially when taking deep breaths.
+    - Frequency: Constant pain, worsens with movement.
+    - Impact on Daily Activities: Unable to perform usual activities due to pain.
+
+4. Patient’s self-reported habits and lifestyle:
+    - Sleep: Usually gets 7-8 hours of sleep per night.
+    - Diet: Balanced diet.
+    - Exercise: Exercises 3 times per week, jogging and weightlifting.
+    - Tobacco Use: Non-smoker.
+    - Alcohol Consumption: Social drinker, 1-2 drinks on weekends.
+    - Drug Use: Denies any recreational drug use.
+    - Recreational Activities: Engages in outdoor sports occasionally.
+
+5. Demographic Information:
+    - Age: 35
+    - Gender: Male
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: College graduate
+    - Health Literacy: High
+    - Job Status: Employed as a software engineer
+
+6. Patient's Behavior:
+    - Patient is cooperative with medical advice and eager to understand treatment options.
+
+7. Geographical Location:
+    - Big City vs Small City: Big city
+    - Rural vs Urban: Urban
+    - Pollution and Environmental Health Risks: Moderate pollution
+    - Neighborhood Type: Affluent, well-served by transit, ample access to medical facilities.
+
+8. Clinical Setting:
+    - Urgent Care Center
+
+9. Type of Encounter:
+    - Initial Consultation
+
+10. Treatment Disparities:
+    - Treatment options were thoroughly discussed to avoid assumptions about compliance or ability to pay.
+
+11. Native or Non-Native English Speaking Patient:
+    - Native English-speaking patient
+
+12. Physical exams:
+    - Respiratory: Auscultation revealed normal breath sounds, no wheezes or crackles.
+    - Cardiovascular: Regular rate and rhythm, no murmurs.
+    - Musculoskeletal: Tenderness noted over the left anterior chest wall, no visible deformity.
+
+13. Investigation/Test results:
+    - Chest X-ray ordered to evaluate for rib fractures or other internal injuries."|Rejected|Rejected|Rejected|Rejected||
+UNSPECIFIED INJURY OF THORAX, INITIAL ENCOUNTER|"ROLE: Emergency Medicine Physician
+
+** Scenario Variables:**
+
+1. Medical Outcome:
+    - Diagnosis: Unspecified injury of thorax, initial encounter (S29.9XXA)
+    - Prescribed Treatment: Pain management with acetaminophen 500 mg, oral, every 4-6 hours as needed, maximum 8 tablets per 24 hours, quantity: 30 tablets.
+    - Follow-up Recommendations: Follow-up with primary care physician in 3 days.
+    - Referral to Specialists: Referral to Pulmonologist, Dr. Harris, for further evaluation if difficulty breathing persists.
+    - Imaging: CT scan of thorax to rule out pulmonary contusion or pneumothorax.
+
+2. Medical History:
+    - Previous Diagnoses: Asthma
+    - Medication History: Albuterol inhaler during asthma exacerbations.
+    - Allergies: Penicillin
+    - Chronic Conditions: Asthma
+
+3. Symptom Description:
+    - Severity: Severe pain in the chest area.
+    - Duration: Pain started 1 hour ago after a bicycle accident.
+    - Associated Symptoms: Sharp pain with deep breaths, mild dizziness.
+    - Frequency: Constant, severe pain; intermittent dizziness.
+    - Impact on Daily Activities: Unable to sit or stand comfortably due to chest pain.
+
+4. Patient’s self-reported habits and lifestyle:
+    - Sleep: Usually gets 6-7 hours of sleep per night.
+    - Diet: Vegetarian diet.
+    - Exercise: Exercises 5 times per week, cycling and swimming.
+    - Tobacco Use: Non-smoker.
+    - Alcohol Consumption: Rarely drinks alcohol, mostly on special occasions.
+    - Drug Use: Denies any recreational drug use.
+    - Recreational Activities: Active in a local cycling club.
+
+5. Demographic Information:
+    - Age: 28
+    - Gender: Female
+    - Ethnicity: Hispanic
+    - Socio-economic Status: Middle class
+    - Education Level: High school graduate
+    - Health Literacy: Moderate
+    - Job Status: Receptionist at a dental clinic
+
+6. Patient's Behavior:
+    - Patient is anxious but willing to follow medical advice and eager to recover swiftly.
+
+7. Geographical Location:
+    - Big City vs Small City: Big city
+    - Rural vs Urban: Urban
+    - Pollution and Environmental Health Risks: Low pollution
+    - Neighborhood Type: Affluent, well-served by transit, close to parks and medical facilities.
+
+8. Clinical Setting:
+    - Emergency Room
+
+9. Type of Encounter:
+    - Initial Consultation
+
+10. Treatment Disparities:
+    - Offered all available treatment options, considering the patient's ability to understand and comply.
+
+11. Native or Non-Native English Speaking Patient:
+    - Non-Native English-speaking patient, native Spanish speaker, required interpreter.
+
+12. Physical exams:
+    - Respiratory: Auscultation revealed diminished breath sounds on the left side.
+    - Cardiovascular: Regular rate and rhythm, no gallops or murmurs.
+    - Musculoskeletal: Localized tenderness over the left rib cage, no visible bruising.
+
+13. Investigation/Test results:
+    - CT scan of thorax ordered to evaluate for potential pulmonary contusion or pneumothorax."|Rejected|Rejected|Rejected|Rejected||
+UNSPECIFIED INJURY OF THORAX, INITIAL ENCOUNTER|"ROLE: Emergency Medicine Physician
+
+** Scenario Variables:**
+
+1. Medical Outcome:
+    - Diagnosis: Unspecified injury of thorax, initial encounter (S29.9XXA)
+    - Prescribed Treatment: Pain management with naproxen 250 mg, oral, twice daily with food, quantity: 14 tablets.
+    - Follow-up Recommendations: Follow-up with primary care physician in two days.
+    - Referral to Specialists: Referral to Cardiologist, Dr. Patel, if symptoms persist due to patient's pre-existing heart condition.
+    - Blood Work: Ordered for cardiac markers including Troponin to rule out myocardial injury.
+
+2. Medical History:
+    - Previous Diagnoses: Congestive Heart Failure (CHF)
+    - Medication History: Metoprolol 50 mg, twice daily.
+    - Allergies: Sulfa drugs
+    - Chronic Conditions: CHF, Hypertension
+
+3. Symptom Description:
+    - Severity: Severe and sharp chest pain.
+    - Duration: Pain began 30 minutes after being struck on the chest by a falling object.
+    - Associated Symptoms: Shortness of breath, palpitations.
+    - Frequency: Constant chest pain, intermittent palpitations.
+    - Impact on Daily Activities: Difficulty lying down and speaking due to pain.
+
+4. Patient’s self-reported habits and lifestyle:
+    - Sleep: Has difficulty sleeping due to CHF, often wakes up needing to sit up to breathe.
+    - Diet: Low-sodium diet.
+    - Exercise: Limited due to CHF; regular short walks.
+    - Tobacco Use: Smoked until 5 years ago, currently a non-smoker.
+    - Alcohol Consumption: Occasional wine, 1 glass per week.
+    - Drug Use: Denies any recreational drug use.
+    - Recreational Activities: Enjoys gardening.
+
+5. Demographic Information:
+    - Age: 65
+    - Gender: Male
+    - Ethnicity: African American
+    - Socio-economic Status: Lower middle class
+    - Education Level: High school graduate
+    - Health Literacy: Low
+    - Job Status: Retired school teacher
+
+6. Patient's Behavior:
+    - Patient is cooperative but appears anxious and worried about heart-related symptoms.
+
+7. Geographical Location:
+    - Big City vs Small City: Small city
+    - Rural vs Urban: Suburban
+    - Pollution and Environmental Health Risks: Low pollution
+    - Neighborhood Type: Middle-income, well-served by transit, moderate access to medical facilities.
+
+8. Clinical Setting:
+    - Rural Hospital Emergency Department
+
+9. Type of Encounter:
+    - Emergency Visit
+
+10. Treatment Disparities:
+    - Ensured thorough communication and understanding of all treatment options, considering the patient's lower health literacy.
+
+11. Native or Non-Native English Speaking Patient:
+    - Native English-speaking patient
+
+12. Physical exams:
+    - Respiratory: Auscultation revealed diminished breath sounds on the left side.
+    - Cardiovascular: Irregular heartbeats noted, regular rate and rhythm otherwise.
+    - Musculoskeletal: Localized tenderness over the left rib cage, visible bruising noted.
+
+13. Investigation/Test results:
+    - Blood work for cardiac markers (Troponin) to rule out myocardial injury.
+    - CT scan of thorax ordered to evaluate potential internal injuries and rib fractures. Results are awaiting."|Rejected|Rejected|Rejected|Rejected||

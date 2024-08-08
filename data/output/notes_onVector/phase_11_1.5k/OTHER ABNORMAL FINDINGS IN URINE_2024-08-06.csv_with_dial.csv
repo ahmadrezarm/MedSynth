@@ -1,0 +1,2246 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+OTHER ABNORMAL FINDINGS IN URINE|"ROLE: Family Medicine Physician
+
+**Scenario Variables:**
+
+**1) Medical Outcome:** 
+- Follow-up recommendations: Return in 2 weeks for reassessment.
+- Referral to further tests: Urinalysis and urine culture.
+- Medication: Nitrofurantoin 100 mg, oral, twice daily for 7 days, quantity: 14 capsules.
+
+**2) Medical History:** 
+- Previous Diagnoses: Recurrent urinary tract infections (UTIs), Type 2 diabetes mellitus.
+- Family Medical History: Mother with chronic kidney disease, father with hypertension.
+- Medication History: Metformin 500 mg twice daily for diabetes.
+- Allergies: Penicillin.
+- Chronic Conditions: Type 2 diabetes mellitus, history of recurrent UTIs.
+
+**3) Symptom Description:** 
+- Severity: Moderate
+- Duration: 3 days
+- Associated Symptoms: Mild lower abdominal pain, slight fever, increased frequency and urgency of urination.
+- Frequency: Several times a day 
+- Impact on Daily Activities: Discomfort while working, affecting concentration.
+
+**4) Patient’s Self-Reported Habits and Lifestyle:** 
+- Sleep: 6 hours per night
+- Diet: High in carbohydrates, low in vegetables and fiber
+- Exercise: Minimal, sedentary job
+- Tobacco Use: None
+- Alcohol Consumption: Social drinking, 1-2 times per month
+- Drug Use: None
+- Recreational Activities: Occasionally goes for short walks.
+
+**5) Demographic Information:** 
+- Age: 52
+- Gender: Female
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle-class
+- Education Level: High school diploma
+- Health Literacy: Moderate
+- Job Status: Full-time office worker
+
+**6) Patient's Behavior:** 
+- Generally compliant with medical advice but forgets to take her medication occasionally.
+
+**7) Geographical Location:** 
+- Big City
+- Urban
+- Moderate pollution level
+- Neighborhood Type: Safe residential area, has access to public transportation, close to a supermarket.
+
+**8) Clinical Setting:** 
+- Private Practice 
+
+**9) Type of Encounter:** 
+- Initial Consultation 
+
+**10) Treatment Disparities:** 
+- NA
+
+**11) Native or Non-Native English Speaking Patient:** 
+- Native English Speaking Patient
+
+**12) Physical exams:** 
+- Abdominal examination: Mild tenderness in the lower abdomen
+- Vital signs: Slightly elevated temperature (99.5°F), BP: 130/85 mmHg, Pulse: 78 bpm, RR: 16 bpm
+
+**13) Investigation/Test results:**
+- Awaiting: Urinalysis, urine culture
+
+**14) Test Results:**
+- Not ready, tests pending completion"|"#####
+**1. Subjective:**
+**Chief Complaint (CC):**
+Recurrent urinary tract infections (UTIs).
+
+**History of Present Illness (HPI):**
+The patient is a 52-year-old Caucasian female with a history of Type 2 diabetes mellitus and recurrent UTIs. She presents with symptoms of a UTI that started 3 days ago. She reports moderate severity with increased frequency and urgency of urination, accompanied by mild lower abdominal pain and a slight fever. These symptoms are significantly affecting her ability to concentrate at work.
+
+**Review of Systems (ROS):**
+- **General:** Mild fever, slightly increased fatigue.
+- **Gastrointestinal:** No nausea, vomiting, or changes in bowel habits.
+- **Genitourinary:** Frequent urination, urgency, lower abdominal discomfort.
+- **Endocrine:** No new symptoms related to diabetes management.
+  
+**2. Objective:**
+**Vital Signs:**
+- Temperature: 99.5°F
+- Blood Pressure: 130/85 mmHg
+- Pulse: 78 bpm
+- Respiratory Rate: 16 bpm
+
+**Physical Exam:**
+- **Abdomen:** Mild tenderness in the lower abdomen, no rebound tenderness or guarding.
+- **Genitourinary:** No obvious external abnormalities noted.
+- **Other systems:** No abnormalities observed.
+
+**3. Assessment:**
+The patient presents with symptoms suggestive of a urinary tract infection, likely exacerbated by her underlying Type 2 diabetes mellitus. Differential diagnoses include cystitis and pyelonephritis, though the latter is less likely given the moderate severity of symptoms and absence of significant back pain or systemic symptoms.
+
+**4. Plan:**
+1. **Medications:**
+   - Prescribe Nitrofurantoin 100 mg, oral, twice daily for 7 days, quantity: 14 capsules.
+   
+2. **Investigations:**
+   - Order urinalysis and urine culture to confirm the diagnosis and guide further treatment.
+
+3. **Follow-Up:**
+   - Recommend returning in 2 weeks for reassessment of symptoms and review of test results.
+
+4. **Education & Lifestyle Changes:**
+   - Advise increasing water intake to help flush out bacteria.
+   - Discuss dietary modifications to reduce carbohydrate intake and increase vegetables and fiber, which may help manage diabetes and reduce UTI risk.
+   - Encourage moderate physical activity, such as regular walking, to improve overall health.
+   - Address the importance of medication adherence and provide strategies to remember to take her medications.
+
+5. **Referral:**
+   - No immediate referral needed unless symptoms worsen or do not improve with initial treatment.
+"|"#####
+**1. Subjective:**
+**Chief Complaint (CC):**
+Recurrent urinary tract infections (UTIs).
+
+**History of Present Illness (HPI):**
+The patient, named Emily Johnson, is a 52-year-old Caucasian female with a history of Type 2 diabetes mellitus and recurrent UTIs. She presents with symptoms of a UTI that started 3 days ago. She reports moderate severity with increased frequency and urgency of urination, accompanied by mild lower abdominal pain and a slight fever. These symptoms are significantly affecting her ability to concentrate at work.
+
+**Review of Systems (ROS):**
+- **General:** Mild fever, slightly increased fatigue.
+- **Gastrointestinal:** No nausea, vomiting, or changes in bowel habits.
+- **Genitourinary:** Frequent urination, urgency, lower abdominal discomfort.
+- **Endocrine:** No new symptoms related to diabetes management.
+  
+**2. Objective:**
+**Vital Signs:**
+- Temperature: 99.5°F
+- Blood Pressure: 130/85 mmHg
+- Pulse: 78 bpm
+- Respiratory Rate: 16 bpm
+
+**Physical Exam:**
+- **Abdomen:** Mild tenderness in the lower abdomen, no rebound tenderness or guarding.
+- **Genitourinary:** No obvious external abnormalities noted.
+- **Other systems:** No abnormalities observed.
+
+**3. Assessment:**
+The patient presents with symptoms suggestive of a urinary tract infection, likely exacerbated by her underlying Type 2 diabetes mellitus. Differential diagnoses include cystitis and pyelonephritis, though the latter is less likely given the moderate severity of symptoms and absence of significant back pain or systemic symptoms.
+
+**4. Plan:**
+1. **Medications:**
+   - Prescribe Nitrofurantoin 100 mg, oral, twice daily for 7 days, quantity: 14 capsules.
+   
+2. **Investigations:**
+   - Order urinalysis and urine culture to confirm the diagnosis and guide further treatment.
+
+3. **Follow-Up:**
+   - Recommend returning in 2 weeks for reassessment of symptoms and review of test results.
+
+4. **Education & Lifestyle Changes:**
+   - Advise increasing water intake to help flush out bacteria.
+   - Discuss dietary modifications to reduce carbohydrate intake and increase vegetables and fiber, which may help manage diabetes and reduce UTI risk.
+   - Encourage moderate physical activity, such as regular walking, to improve overall health.
+   - Address the importance of medication adherence and provide strategies to remember to take her medications.
+
+5. **Referral:**
+   - No immediate referral needed unless symptoms worsen or do not improve with initial treatment."|"#####
+**1. Subjective:**
+**CC:**
+Recurrent UTIs.
+
+**HPI:**
+The pt, Emily Johnson, is a 52 y/o Caucasian F with a hx of T2DM and recurrent UTIs. She presents with sx of a UTI that started 3 days ago. She reports moderate severity with increased frequency and urgency of urination, accompanied by mild lower abdominal pain and a slight fever. These sx are significantly affecting her ability to concentrate at work.
+
+**ROS:**
+- **General:** Mild fever, slightly increased fatigue.
+- **GI:** No N/V or changes in bowel habits.
+- **GU:** Frequent urination, urgency, lower abdominal discomfort.
+- **Endo:** No new sx related to DM mgmt.
+  
+**2. Objective:**
+**VS:**
+- Temp: 99.5°F
+- BP: 130/85 mmHg
+- HR: 78 bpm
+- RR: 16 bpm
+
+**PE:**
+- **Abd:** Mild tenderness in the lower abdomen, no rebound tenderness or guarding.
+- **GU:** No obvious external abnormalities noted.
+- **Other systems:** No abnormalities observed.
+
+**3. Assessment:**
+The pt presents with sx suggestive of a UTI, likely exacerbated by her underlying T2DM. Differential dx includes cystitis and pyelonephritis, though the latter is less likely given the moderate severity of sx and absence of significant back pain or systemic sx.
+
+**4. Plan:**
+1. **Meds:**
+   - Rx Nitrofurantoin 100 mg PO BID x7 days, qty: 14 caps.
+   
+2. **Labs:**
+   - Order UA and urine C&S to confirm dx and guide further tx.
+
+3. **F/U:**
+   - Recommend RTC in 2 weeks for reassessment of sx and review of test results.
+
+4. **Pt Ed & Lifestyle Changes:**
+   - Advise increasing H2O intake to help flush out bacteria.
+   - Discuss dietary modifications to reduce carb intake and increase veggies and fiber, which may help manage DM and reduce UTI risk.
+   - Encourage moderate physical activity, such as regular walking, to improve overall health.
+   - Address the importance of med adherence and provide strategies to remember to take her meds.
+
+5. **Referral:**
+   - No immediate referral needed unless sx worsen or do not improve with initial tx."|Family Medicine Physician|"**Chief Complaint:**
+Recurrent urinary tract infections (UTIs).
+
+---
+
+**Conversation:**
+
+**Doctor:** Good morning, how are you doing today?
+
+**Patient:** Good morning, doctor. I'm not feeling great, actually. I'm having symptoms of a urinary tract infection again.
+
+**Doctor:** I'm sorry to hear that. Can you tell me more about your symptoms?
+
+**Patient:** Sure. About three days ago, I started to feel this constant need to urinate, and it's really frequent. I also feel an urgency to go, but not much comes out. I have some mild pain in my lower abdomen and a slight fever.
+
+**Doctor:** I see. On a scale from 1 to 10, how would you rate the severity of your symptoms?
+
+**Patient:** I would say it's moderate, maybe around a 5 or 6. It's really affecting my ability to concentrate at work.
+
+**Doctor:** Alright. And how about your fever? How high has it been?
+
+**Patient:** It's been mild, not too high. I haven't measured it exactly, but I do feel a bit warmer than usual.
+
+**Doctor:** Okay, thank you for sharing that. Let's go over a few more details. Have you experienced any increased fatigue lately?
+
+**Patient:** Yes, I have been feeling slightly more tired than usual.
+
+**Doctor:** How about any gastrointestinal issues like nausea, vomiting, or changes in bowel habits?
+
+**Patient:** No, I haven't had any problems with that.
+
+**Doctor:** That's good to hear. And in terms of your diabetes, have you noticed any new symptoms or changes in your diabetes management?
+
+**Patient:** No, nothing new with my diabetes.
+
+**Doctor:** Alright. Can you give me your medical history record?
+
+**Patient:** Here you are.
+
+**Doctor:** Based on your medical history, I see that you have Type 2 diabetes mellitus and a history of recurrent UTIs. Have you had any UTIs recently?
+
+**Patient:** Yes, I've had several over the past year. It's been quite frustrating.
+
+**Doctor:** I can imagine. We'll do our best to address this issue. Let's move on to a physical examination now. Your vital signs look good overall. Your temperature is 99.5°F, your blood pressure is 130/85 mmHg, your pulse is 78 bpm, and your respiratory rate is 16 bpm.
+
+**Patient:** Okay.
+
+**Doctor:** I'm going to examine your abdomen now. Please let me know if you feel any pain or discomfort.
+
+**Patient:** Alright.
+
+**Doctor:** (Examining) I can feel some mild tenderness in your lower abdomen, but there's no rebound tenderness or guarding. Everything else looks normal externally.
+
+**Patient:** That's good to know.
+
+**Doctor:** Based on your symptoms and my examination, it does sound like you have a urinary tract infection. Given your history of diabetes, it's important to treat this promptly.
+
+**Patient:** Yes, I understand.
+
+**Doctor:** For your treatment plan, I'm going to prescribe Nitrofurantoin 100 mg, to be taken orally twice daily for 7 days. That will be a total of 14 capsules.
+
+**Patient:** Okay. I'll make sure to take them as prescribed.
+
+**Doctor:** Great. I also want to order a urinalysis and urine culture to confirm the diagnosis and guide our treatment further. We'll check for any bacteria in your urine and see which antibiotics would be most effective.
+
+**Patient:** That sounds good.
+
+**Doctor:** I recommend you return in 2 weeks for a reassessment of your symptoms and to review the test results. If your symptoms worsen or don't improve within a few days, please contact me immediately.
+
+**Patient:** Will do, thank you.
+
+**Doctor:** In the meantime, let’s talk about some lifestyle changes that can help. Increase your water intake to help flush out the bacteria. Aim for about 8 glasses a day.
+
+**Patient:** I'll try my best.
+
+**Doctor:** Also, consider reducing your carbohydrate intake and increasing vegetables and fiber in your diet. This can help manage your diabetes and reduce the risk of UTIs.
+
+**Patient:** Okay, I'll make some changes.
+
+**Doctor:** Moderate physical activity, such as regular walking, can improve your overall health. And it’s important to adhere to your medication schedule. Have you had any trouble remembering to take your medications?
+
+**Patient:** Sometimes I do forget.
+
+**Doctor:** You might find it helpful to set an alarm on your phone or use a pill organizer to keep track.
+
+**Patient:** That's a good idea. I'll try that.
+
+**Doctor:** Excellent. We don't need to refer you to a specialist at this point, but let me know if your symptoms worsen or don't improve with the initial treatment.
+
+**Patient:** Alright, thank you, doctor.
+
+**Doctor:** You're welcome. Take care and I'll see you in two weeks for the follow-up.
+
+**Patient:** Thank you, I'll see you then."|"[doctor]: Good morning, how are you doing today?
+
+[patient]: Good morning, doctor. I'm not feeling great, actually. I'm having symptoms of a urinary tract infection again.
+
+[doctor]: I'm sorry to hear that. Can you tell me more about your symptoms?
+
+[patient]: Sure. About three days ago, I started to feel this constant need to urinate, and it's really frequent. I also feel an urgency to go, but not much comes out. I have some mild pain in my lower abdomen and a slight fever.
+
+[doctor]: Hmm, I see. On a scale from 1 to 10, how would you rate the severity of your symptoms?
+
+[patient]: I would say it's moderate, maybe around a 5 or 6. It's really affecting my ability to concentrate at work.
+
+[doctor]: Alright. And how about your fever? How high has it been?
+
+[patient]: It's been mild, not too high. I haven't measured it exactly, but I do feel a bit warmer than usual.
+
+[doctor]: Okay, thank you for sharing that. Let's go over a few more details. Have you experienced any increased fatigue lately?
+
+[patient]: Yes, I have been feeling slightly more tired than usual.
+
+[doctor]: How about any gastrointestinal issues like nausea, vomiting, or changes in bowel habits?
+
+[patient]: No, I haven't had any problems with that.
+
+[doctor]: That's good to hear. And in terms of your diabetes, have you noticed any new symptoms or changes in your diabetes management?
+
+[patient]: No, nothing new with my diabetes.
+
+[doctor]: Alright. Based on your medical history, I see that you have Type 2 diabetes mellitus and a history of recurrent UTIs. Have you had any UTIs recently?
+
+[patient]: Yes, I've had several over the past year. It's been quite frustrating.
+
+[doctor]: I can imagine. We'll do our best to address this issue. Let's move on to a physical examination now. Your vital signs look good overall. Your temperature is 99.5°F, your blood pressure is 130/85 mmHg, your pulse is 78 bpm, and your respiratory rate is 16 bpm.
+
+[patient]: Okay.
+
+[doctor]: I'm going to examine your abdomen now. Please let me know if you feel any pain or discomfort.
+
+[patient]: Alright.
+
+[doctor]: (Examining) I can feel some mild tenderness in your lower abdomen, but there's no rebound tenderness or guarding. Everything else looks normal externally.
+
+[patient]: That's good to know.
+
+[doctor]: Based on your symptoms and my examination, it does sound like you have a urinary tract infection. Given your history of diabetes, it's important to treat this promptly.
+
+[patient]: Yes, I understand.
+
+[doctor]: For your treatment plan, I'm going to prescribe Nitrofurantoin 100 mg, to be taken orally twice daily for 7 days. That will be a total of 14 capsules.
+
+[patient]: Okay. I'll make sure to take them as prescribed.
+
+[doctor]: Great. I also want to order a urinalysis and urine culture to confirm the diagnosis and guide our treatment further. We'll check for any bacteria in your urine and see which antibiotics would be most effective.
+
+[patient]: That sounds good.
+
+[doctor]: I recommend you return in 2 weeks for a reassessment of your symptoms and to review the test results. If your symptoms worsen or don't improve within a few days, please contact me immediately.
+
+[patient]: Will do, thank you.
+
+[doctor]: In the meantime, let’s talk about some lifestyle changes that can help. Increase your water intake to help flush out the bacteria. Aim for about 8 glasses a day.
+
+[patient]: I'll try my best.
+
+[doctor]: Also, consider reducing your carbohydrate intake and increasing vegetables and fiber in your diet. This can help manage your diabetes and reduce the risk of UTIs.
+
+[patient]: Okay, I'll make some changes.
+
+[doctor]: Moderate physical activity, such as regular walking, can improve your overall health. And it’s important to adhere to your medication schedule. Have you had any trouble remembering to take your medications?
+
+[patient]: Sometimes I do forget.
+
+[doctor]: You might find it helpful to set an alarm on your phone or use a pill organizer to keep track.
+
+[patient]: That's a good idea. I'll try that.
+
+[doctor]: Excellent. We don't need to refer you to a specialist at this point, but let me know if your symptoms worsen or don't improve with the initial treatment.
+
+[patient]: Alright, thank you, doctor.
+
+[doctor]: You're welcome. Take care and I'll see you in two weeks for the follow-up.
+
+[patient]: Thank you, I'll see you then."
+OTHER ABNORMAL FINDINGS IN URINE|"ROLE: Nephrologist
+
+** Medical Outcome: **
+- Diagnosis: Other abnormal findings in urine (R82.90)
+- Prescribed Treatment: 
+  - Medication: Ciprofloxacin 500 mg, oral, twice a day, for 10 days, quantity: 20 tablets.
+  - Lifestyle change: Increase water intake to 8 glasses per day.
+  - Follow-up recommendations: Follow-up appointment in 2 weeks.
+  - Referral: Referral to urologist Dr. Ahmed for further evaluation due to recurrent abnormalities in urine tests.
+- Blood Work: Ordered tests for biochemistry including creatinine and blood urea nitrogen (BUN).
+- Imaging: Ordered ultrasound for kidneys and bladder.
+
+** Medical History: **
+- Previous Diagnoses: Urinary Tract Infections (UTIs).
+- Family Medical History: Mother has a history of kidney stones.
+- Medication History: Previous antibiotic treatments for UTIs.
+- Allergies: Penicillin.
+- Chronic Conditions: Hypertension.
+
+** Symptom Description: **
+- Severity: Moderate.
+- Duration: 3 months.
+- Associated Symptoms: Occasional lower back pain, frequent urination, and cloudy urine.
+- Frequency: Episodes occurring once every month.
+- Impact on Daily Activities: Causes discomfort and mild disruption in daily activities.
+
+** Patient’s self-reported habits and lifestyle: **
+- Sleep: Averages 6-7 hours per night.
+- Diet: Predominantly high in sodium due to frequent consumption of processed foods.
+- Exercise: Engages in light walking, 30 minutes daily.
+- Tobacco Use: None.
+- Alcohol Consumption: Social drinker, approximately 2-3 drinks per week.
+- Drug Use: None.
+- Recreational Activities: Enjoys gardening and reading.
+
+** Demographic Information: **
+- Age: 45
+- Gender: Female
+- Ethnicity: Hispanic
+- Socio-economic Status: Middle class
+- Education Level: High school graduate
+- Health Literacy: Basic understanding of medical terms and instructions.
+- Job Status: Works as a cashier.
+
+** Patient's Behavior: **
+- The patient is cooperative with medical advice and adheres to prescribed treatments and follow-up recommendations.
+
+** Geographical Location: **
+- Big City vs Small City: Small City
+- Rural vs Urban: Rural
+- Pollution and Environmental Health Risks: Minimal pollution.
+- Neighborhood Type: Middle-income residential area, not a food desert.
+
+** Clinical Setting: **
+- Clinics
+
+** Type of Encounter: **
+- Follow-up
+
+** Investigation/Test results: **
+- Previous urine tests showed elevated levels of protein and presence of white blood cells.
+- Awaiting results for urine culture and sensitivity test for current abnormalities."|"**1. Subjective:**
+
+   **Chief Complaint (CC):**
+   The patient, a 45-year-old Hispanic female, presents for follow-up regarding recurrent urinary abnormalities and associated symptoms.
+
+   **History of Present Illness (HPI):**
+   The patient reports moderate symptoms for the past 3 months, including occasional lower back pain, frequent urination, and cloudy urine. Symptoms appear approximately once a month, causing discomfort and mild disruption in daily activities.
+
+   **Review of Systems (ROS):**
+   - **Constitutional:** Negative for fever, chills, or weight loss.
+   - **Genitourinary:** Positive for frequent urination and cloudy urine. Negative for dysuria or hematuria.
+   - **Gastrointestinal:** Negative for nausea, vomiting, or abdominal pain.
+   - **Musculoskeletal:** Positive for occasional lower back pain.
+
+**2. Objective:**
+
+   **Vital Signs:**
+   - Blood pressure: 138/82 mmHg
+   - Heart rate: 72 bpm
+   - Temperature: 98.6°F
+   - Respiratory rate: 16 breaths per minute
+
+   **Physical Exam:**
+   - **General:** Alert, cooperative, appears in no acute distress.
+   - **Abdomen:** No tenderness, masses, or organomegaly. Mildly tender in the lower back upon palpation.
+   - **Genitourinary:** No external abnormalities noted.
+   - **Musculoskeletal:** Normal range of motion, no spinal tenderness, but mild discomfort in the lumbar region.
+
+   **Laboratory Results:**
+   Awaiting results for current urine culture and sensitivity test.
+
+**3. Assessment:**
+
+   Diagnosis: Other abnormal findings in urine (R82.90). The patient has recurrent abnormalities in urine tests, indicative of possible ongoing or recurrent urinary tract infections or other genitourinary issues.
+
+**4. Plan:**
+
+   - **Medication:** Prescribed Ciprofloxacin 500 mg, to be taken orally, twice a day, for 10 days. Quantity: 20 tablets.
+   - **Lifestyle Change:** Advised to increase water intake to at least 8 glasses per day to help flush the urinary system and potentially reduce the recurrence of infections.
+   - **Follow-up Recommendations:** Scheduled a follow-up appointment in 2 weeks to reassess symptoms and review test results.
+   - **Referral:** Referred to urologist Dr. Ahmed for further evaluation given the recurrent nature of the urinary abnormalities.
+   - **Blood Work:** Ordered blood tests for biochemistry including creatinine and blood urea nitrogen (BUN) to assess kidney function.
+   - **Imaging:** Ordered an ultrasound of the kidneys and bladder to rule out structural abnormalities or stones.
+
+The patient was counseled on the importance of adhering to the prescribed antibiotic regimen and lifestyle modifications. She was also reminded to follow up with Dr. Ahmed for a comprehensive urological evaluation. She demonstrated a basic understanding of the medical terms and instructions provided."|"**1. Subjective:**
+
+   **Chief Complaint (CC):**
+   The patient, a 45-year-old Hispanic female, presents for follow-up regarding recurrent urinary abnormalities and associated symptoms.
+
+   **History of Present Illness (HPI):**
+   The patient reports moderate symptoms for the past 3 months, including occasional lower back pain, frequent urination, and cloudy urine. Symptoms appear approximately once a month, causing discomfort and mild disruption in daily activities.
+
+   **Review of Systems (ROS):**
+   - **Constitutional:** Negative for fever, chills, or weight loss.
+   - **Genitourinary:** Positive for frequent urination and cloudy urine. Negative for dysuria or hematuria.
+   - **Gastrointestinal:** Negative for nausea, vomiting, or abdominal pain.
+   - **Musculoskeletal:** Positive for occasional lower back pain.
+
+**2. Objective:**
+
+   **Vital Signs:**
+   - Blood pressure: 138/82 mmHg
+   - Heart rate: 72 bpm
+   - Temperature: 98.6°F
+   - Respiratory rate: 16 breaths per minute
+
+   **Physical Exam:**
+   - **General:** Alert, cooperative, appears in no acute distress.
+   - **Abdomen:** No tenderness, masses, or organomegaly. Mildly tender in the lower back upon palpation.
+   - **Genitourinary:** No external abnormalities noted.
+   - **Musculoskeletal:** Normal range of motion, no spinal tenderness, but mild discomfort in the lumbar region.
+
+   **Laboratory Results:**
+   Awaiting results for current urine culture and sensitivity test.
+
+**3. Assessment:**
+
+   Diagnosis: Other abnormal findings in urine (R82.90). The patient has recurrent abnormalities in urine tests, indicative of possible ongoing or recurrent urinary tract infections or other genitourinary issues.
+
+**4. Plan:**
+
+   - **Medication:** Prescribed Ciprofloxacin 500 mg, to be taken orally, twice a day, for 10 days. Quantity: 20 tablets.
+   - **Lifestyle Change:** Advised to increase water intake to at least 8 glasses per day to help flush the urinary system and potentially reduce the recurrence of infections.
+   - **Follow-up Recommendations:** Scheduled a follow-up appointment in 2 weeks to reassess symptoms and review test results.
+   - **Referral:** Referred to urologist Dr. Ahmed for further evaluation given the recurrent nature of the urinary abnormalities.
+   - **Blood Work:** Ordered blood tests for biochemistry including creatinine and blood urea nitrogen (BUN) to assess kidney function.
+   - **Imaging:** Ordered an ultrasound of the kidneys and bladder to rule out structural abnormalities or stones.
+
+The patient was counseled on the importance of adhering to the prescribed antibiotic regimen and lifestyle modifications. She was also reminded to follow up with Dr. Ahmed for a comprehensive urological evaluation. She demonstrated a basic understanding of the medical terms and instructions provided."|"**1. Subjective:**
+
+   **CC:**
+   The pt, a 45 y/o Hispanic F, presents for f/u regarding recurrent urinary abnormalities and associated sx.
+
+   **HPI:**
+   The pt reports moderate sx for the past 3 mos, including occasional LBP, frequent urination, and cloudy urine. Sx appear approx once a month, causing discomfort and mild disruption in daily activities.
+
+   **ROS:**
+   - **Constitutional:** Negative for fever, chills, or weight loss.
+   - **GU:** Positive for frequent urination and cloudy urine. Negative for dysuria or hematuria.
+   - **GI:** Negative for nausea, vomiting, or abdominal pain.
+   - **MSK:** Positive for occasional LBP.
+
+**2. Objective:**
+
+   **VS:**
+   - BP: 138/82 mmHg
+   - HR: 72 bpm
+   - Temp: 98.6°F
+   - RR: 16 bpm
+
+   **PE:**
+   - **General:** Alert, cooperative, appears in NAD.
+   - **Abd:** No tenderness, masses, or organomegaly. Mildly tender in the lower back upon palpation.
+   - **GU:** No external abnormalities noted.
+   - **MSK:** Normal ROM, no spinal tenderness, but mild discomfort in the lumbar region.
+
+   **Labs:**
+   Awaiting results for current urine C&S.
+
+**3. Assessment:**
+
+   Dx: Other abnormal findings in urine (R82.90). The pt has recurrent abnormalities in urine tests, indicative of possible ongoing or recurrent UTIs or other GU issues.
+
+**4. Plan:**
+
+   - **Rx:** Prescribed Cipro 500 mg PO BID x10 days. Qty: 20 tabs.
+   - **Lifestyle:** Advised to increase H2O intake to at least 8 glasses/day to help flush the urinary system and potentially reduce recurrence of infections.
+   - **F/U:** Scheduled a f/u appt in 2 wks to reassess sx and review test results.
+   - **Referral:** Referred to uro Dr. Ahmed for further eval given the recurrent nature of the urinary abnormalities.
+   - **Labs:** Ordered blood tests for biochem including Cr and BUN to assess kidney function.
+   - **Imaging:** Ordered US of the kidneys and bladder to r/o structural abnormalities or stones.
+
+The pt was counseled on the importance of adhering to the prescribed abx regimen and lifestyle modifications. She was also reminded to f/u with Dr. Ahmed for a comprehensive uro eval. She demonstrated a basic understanding of the medical terms and instructions provided."|Nephrologist|"**Doctor:** Good morning! How are you doing today?
+
+**Patient:** Good morning, doctor. I'm doing okay. I'm here for a follow-up on my urinary issues.
+
+**Doctor:** Alright, let's go over your symptoms. Can you tell me about the issues you've been experiencing?
+
+**Patient:** Sure. For the past three months, I've had these symptoms that come and go. I often feel the need to urinate frequently, and my urine sometimes looks cloudy. I also get lower back pain every now and then.
+
+**Doctor:** I see. How often do these symptoms appear?
+
+**Patient:** It happens about once a month. When it does, it makes me pretty uncomfortable and disrupts my daily activities.
+
+**Doctor:** Okay, that sounds troublesome. Have you experienced any fever, chills, or weight loss during this time?
+
+**Patient:** No, none of those.
+
+**Doctor:** How about any burning sensation when you urinate or blood in your urine?
+
+**Patient:** No, I haven't noticed any burning or blood.
+
+**Doctor:** Any nausea, vomiting, or abdominal pain?
+
+**Patient:** No, none of that either.
+
+**Doctor:** And the lower back pain you mentioned, how often does it occur?
+
+**Patient:** It happens occasionally, not all the time.
+
+**Doctor:** Okay, that's helpful. Let me review your vital signs. Your blood pressure is 138/82 mmHg, heart rate is 72 bpm, your temperature is 98.6°F, and your respiratory rate is 16 breaths per minute. Everything looks within normal ranges.
+
+**Patient:** That's good to hear.
+
+**Doctor:** Now, I'll perform a quick physical exam. Please lie down so I can check your abdomen and lower back.
+
+**Patient:** Okay.
+
+**Doctor:** (Examining) Your abdomen looks normal, with no tenderness, masses, or organ enlargement. There is some mild tenderness in your lower back. No external abnormalities in the genitourinary area. Your range of motion is normal, and there’s no spinal tenderness, but I do notice some mild discomfort in the lumbar region.
+
+**Patient:** Ouch, yes, that spot is a bit tender.
+
+**Doctor:** Alright. We're still waiting on the results for your current urine culture and sensitivity test. Let's go over the plan. I’ll be prescribing you Ciprofloxacin 500 mg, to be taken orally twice a day for 10 days. That’s 20 tablets in total.
+
+**Patient:** Sounds good. Anything else I should do?
+
+**Doctor:** Yes, I recommend increasing your water intake to at least 8 glasses per day. This can help flush your urinary system and might reduce the recurrence of infections.
+
+**Patient:** Okay, I’ll do that.
+
+**Doctor:** We’ll also schedule a follow-up appointment in 2 weeks to reassess your symptoms and review your test results. Additionally, I’m referring you to Dr. Ahmed, a urologist, for further evaluation due to the recurrent nature of your urinary issues.
+
+**Patient:** Alright, I’ll see Dr. Ahmed then.
+
+**Doctor:** I’m also ordering blood tests to check your kidney function, including creatinine and blood urea nitrogen (BUN) levels. Plus, we’ll do an ultrasound of your kidneys and bladder to rule out any structural abnormalities or stones.
+
+**Patient:** That sounds thorough. Thank you.
+
+**Doctor:** It’s important to adhere to the prescribed antibiotic regimen and follow the lifestyle modifications we discussed. Do you have any questions about the plan?
+
+**Patient:** No, I think I understand everything. Just to confirm, I need to take the antibiotics, drink more water, and follow up in 2 weeks while also seeing Dr. Ahmed?
+
+**Doctor:** Exactly. You've got it. If you have any more questions or if your symptoms worsen before the follow-up, don't hesitate to call us.
+
+**Patient:** Thank you, Doctor. I appreciate it.
+
+**Doctor:** You're welcome. Take care, and I'll see you in two weeks.
+
+**Patient:** Will do. Goodbye.
+
+**Doctor:** Goodbye."|"[doctor]: Good morning! How are you doing today?
+
+[patient]: Good morning, doctor. I'm doing okay. I'm here for a follow-up on my urinary issues.
+
+[doctor]: Alright, let's go over your symptoms. Can you tell me about the issues you've been experiencing?
+
+[patient]: Sure. For the past three months, I've had these symptoms that come and go. I often feel the need to urinate frequently, and my urine sometimes looks cloudy. I also get lower back pain every now and then.
+
+[doctor]: I see. How often do these symptoms appear?
+
+[patient]: It happens about once a month. When it does, it makes me pretty uncomfortable and disrupts my daily activities.
+
+[doctor]: Okay, that sounds troublesome. Have you experienced any fever, chills, or weight loss during this time?
+
+[patient]: No, none of those.
+
+[doctor]: Hmm, how about any burning sensation when you urinate or blood in your urine?
+
+[patient]: No, I haven't noticed any burning or blood.
+
+[doctor]: Any nausea, vomiting, or abdominal pain?
+
+[patient]: No, none of that either.
+
+[doctor]: And the lower back pain you mentioned, how often does it occur?
+
+[patient]: It happens occasionally, not all the time.
+
+[doctor]: Okay, that's helpful. Let me review your vital signs. Your blood pressure is 138/82 mmHg, heart rate is 72 bpm, your temperature is 98.6°F, and your respiratory rate is 16 breaths per minute. Everything looks within normal ranges.
+
+[patient]: That's good to hear.
+
+[doctor]: Now, I'll perform a quick physical exam. Please lie down so I can check your abdomen and lower back.
+
+[patient]: Okay.
+
+[doctor]: (Examining) Your abdomen looks normal, with no tenderness, masses, or organ enlargement. There is some mild tenderness in your lower back. No external abnormalities in the genitourinary area. Your range of motion is normal, and there’s no spinal tenderness, but I do notice some mild discomfort in the lumbar region.
+
+[patient]: Ouch, yes, that spot is a bit tender.
+
+[doctor]: Alright. We're still waiting on the results for your current urine culture and sensitivity test. Let's go over the plan. I’ll be prescribing you Ciprofloxacin 500 mg, to be taken orally twice a day for 10 days. That’s 20 tablets in total.
+
+[patient]: Sounds good. Anything else I should do?
+
+[doctor]: Yes, I recommend increasing your water intake to at least 8 glasses per day. This can help flush your urinary system and might reduce the recurrence of infections.
+
+[patient]: Okay, I’ll do that.
+
+[doctor]: We’ll also schedule a follow-up appointment in 2 weeks to reassess your symptoms and review your test results. Additionally, I’m referring you to Dr. Ahmed, a urologist, for further evaluation due to the recurrent nature of your urinary issues.
+
+[patient]: Alright, I’ll see Dr. Ahmed then.
+
+[doctor]: I’m also ordering blood tests to check your kidney function, including creatinine and blood urea nitrogen (BUN) levels. Plus, we’ll do an ultrasound of your kidneys and bladder to rule out any structural abnormalities or stones.
+
+[patient]: That sounds thorough. Thank you.
+
+[doctor]: It’s important to adhere to the prescribed antibiotic regimen and follow the lifestyle modifications we discussed. Do you have any questions about the plan?
+
+[patient]: No, I think I understand everything. Just to confirm, I need to take the antibiotics, drink more water, and follow up in 2 weeks while also seeing Dr. Ahmed?
+
+[doctor]: Exactly. You've got it. If you have any more questions or if your symptoms worsen before the follow-up, don't hesitate to call us.
+
+[patient]: Thank you, Doctor. I appreciate it.
+
+[doctor]: You're welcome. Take care, and I'll see you in two weeks.
+
+[patient]: Will do. Goodbye.
+
+[doctor]: Goodbye."
+OTHER ABNORMAL FINDINGS IN URINE|"ROLE: Family Medicine Physician
+
+Demographic Information: 
+- Age: 24
+- Gender: Male
+- Ethnicity: Hispanic
+- Socio-economic Status: Low-income
+- Education Level: College student
+- Health Literacy: Low
+- Job Status: Part-time retail worker
+
+Geographical Location:
+- Location: Urban
+- Neighborhood Type: Urban, high pollution, food desert
+
+Clinical Setting:
+- Setting: Community Health Clinic
+- Type of Encounter: Initial Consultation
+
+Medical History:
+- Previous Diagnoses: None
+- Family Medical History: Uncle with chronic kidney disease, mother with hypertension
+- Medication History: None
+- Allergies: None
+- Chronic Conditions: None
+
+Symptoms Description:
+- New Symptoms: Unusual urine color (dark) and strong odor
+- Severity: Moderate
+- Duration: 1 week
+- Associated Symptoms: Increased urinary frequency, mild lower abdominal discomfort
+- Frequency: Several times a day
+- Impact on Daily Activities: Noticeable, causing concern and distraction
+
+Patient’s self-reported habits and lifestyle:
+- Sleep: 4-5 hours per night (due to work and school)
+- Diet: Unbalanced, mostly fast food and high-sugar snacks
+- Exercise: Rarely exercises, no routine physical activity
+- Tobacco Use: Smokes 5-7 cigarettes a day
+- Alcohol Consumption: Drinks beer socially, 2-3 times a week
+- Drug Use: Occasionally uses recreational cannabis
+- Recreational Activities: Playing video games, watching TV
+
+Patient's Behavior:
+- Level of Cooperation: Initially hesitant but cooperative after understanding the need for tests
+
+Physical exams:
+- General appearance: Appears fatigued, underweight, alert
+- Vital signs: BP 130/75 mmHg, HR 70 bpm, Temp 99.1°F, RR 18
+- Abdominal Exam: Mild tenderness over lower abdomen, no masses detected
+- Genitourinary Exam: NA
+
+Investigations/Test results:
+- Urinalysis: Awaiting results
+- Blood Work: Order CBC (Complete Blood Count) and Renal Function Panel for biochemistry assessment
+- Imaging: NA
+
+Medical Outcome:
+- Diagnosis: Other abnormal findings in urine (ICD-10: R82.90)
+- Prescribed Treatment: Increase water intake to at least 10 glasses per day, improve diet, reduce tobacco use
+- Referral: Referral to a dietitian for dietary modification and to a smoking cessation program, Dr. Samantha Lee
+- Follow-up Recommendations: Return in 1 week to review urinalysis and blood work results, follow-up on lifestyle changes
+- Medication Adjustment: NA"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Unusual urine color and strong odor.
+
+**History of Present Illness (HPI):**
+Mr. Juan Rodríguez, a 24-year-old Hispanic male, presents to the community health clinic for an initial consultation concerning changes in urine color and smell. He reports that for the past week, his urine has been darker than usual with a strong odor. He also notes increased urinary frequency and mild lower abdominal discomfort, which he describes as moderate and distracting. These symptoms occur several times a day and have affected his daily activities, causing concern and distraction.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Endorses fatigue, denies fevers or chills.
+- **Gastrointestinal:** Endorses mild lower abdominal discomfort, denies nausea, vomiting, or diarrhea.
+- **Genitourinary:** Endorses changes in urine color and odor, increased urinary frequency. Denies dysuria or hematuria.
+- **Neurological:** Denies headaches or dizziness.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure (BP): 130/75 mmHg
+- Heart Rate (HR): 70 bpm
+- Temperature: 99.1°F
+- Respiratory Rate (RR): 18
+
+**Physical Examination:**
+- **General appearance:** Appears fatigued, underweight, but alert.
+- **Abdominal Exam:** Mild tenderness over lower abdomen, no masses detected.
+
+**Investigations/Test Results:**
+- Urinalysis: Awaiting results.
+- Blood Work: Order CBC (Complete Blood Count) and Renal Function Panel for biochemistry assessment.
+
+**3. Assessment:**
+
+Mr. Juan Rodríguez is a 24-year-old male presenting with abnormal findings in urine characterized by unusual color and strong odor, alongside increased urinary frequency and mild lower abdominal discomfort.
+
+**Differential Diagnosis:**
+1. Dehydration
+2. Urinary Tract Infection (UTI)
+3. Dietary factors leading to changes in urine
+4. Potential development of renal issues (family history context)
+
+**4. Plan:**
+
+**Treatment:**
+- Increase water intake to at least 10 glasses per day.
+
+**Lifestyle Modifications:**
+- Improve dietary habits by consuming more balanced meals, focusing on fresh fruits and vegetables.
+- Reduction in tobacco use with the aim to quit.
+
+**Referrals:**
+- Referral to a dietitian for dietary modification.
+- Referral to a smoking cessation program, Dr. Samantha Lee.
+
+**Follow-up Recommendations:**
+- Return in 1 week to review urinalysis and blood work results.
+- Evaluate adherence to increased water intake, dietary changes, and progress in smoking cessation.
+
+**Patient Education and Counseling:**
+- The patient was educated on the importance of hydration and its impact on urine color and odor.
+- Discussed the potential health risks associated with smoking and the benefits of cessation.
+- Encouraged to establish a regular sleep schedule and incorporate some physical activity into daily routine.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended treatment plan and follow-up strategies. He expresses motivation to improve his health and comply with the lifestyle modifications."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Unusual urine color and strong odor.
+
+**History of Present Illness (HPI):**
+Mr. Juan Rodríguez, a 24-year-old Hispanic male, presents to the community health clinic for an initial consultation concerning changes in urine color and smell. He reports that for the past week, his urine has been darker than usual with a strong odor. He also notes increased urinary frequency and mild lower abdominal discomfort, which he describes as moderate and distracting. These symptoms occur several times a day and have affected his daily activities, causing concern and distraction.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Endorses fatigue, denies fevers or chills.
+- **Gastrointestinal:** Endorses mild lower abdominal discomfort, denies nausea, vomiting, or diarrhea.
+- **Genitourinary:** Endorses changes in urine color and odor, increased urinary frequency. Denies dysuria or hematuria.
+- **Neurological:** Denies headaches or dizziness.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure (BP): 130/75 mmHg
+- Heart Rate (HR): 70 bpm
+- Temperature: 99.1°F
+- Respiratory Rate (RR): 18
+
+**Physical Examination:**
+- **General appearance:** Appears fatigued, underweight, but alert.
+- **Abdominal Exam:** Mild tenderness over lower abdomen, no masses detected.
+
+**3. Assessment:**
+
+Mr. Juan Rodríguez is a 24-year-old male presenting with abnormal findings in urine characterized by unusual color and strong odor, alongside increased urinary frequency and mild lower abdominal discomfort.
+
+**Differential Diagnosis:**
+1. Dehydration
+2. Urinary Tract Infection (UTI)
+3. Dietary factors leading to changes in urine
+4. Potential development of renal issues (family history context)
+
+**4. Plan:**
+
+**Investigations:**
+- Urinalysis: Awaiting results.
+- Blood Work: Order CBC (Complete Blood Count) and Renal Function Panel for biochemistry assessment.
+
+**Treatment:**
+- Increase water intake to at least 10 glasses per day.
+
+**Lifestyle Modifications:**
+- Improve dietary habits by consuming more balanced meals, focusing on fresh fruits and vegetables.
+- Reduction in tobacco use with the aim to quit.
+
+**Referrals:**
+- Referral to a dietitian for dietary modification.
+- Referral to a smoking cessation program, Dr. Samantha Lee.
+
+**Follow-up Recommendations:**
+- Return in 1 week to review urinalysis and blood work results.
+- Evaluate adherence to increased water intake, dietary changes, and progress in smoking cessation.
+
+**Patient Education and Counseling:**
+- The patient was educated on the importance of hydration and its impact on urine color and odor.
+- Discussed the potential health risks associated with smoking and the benefits of cessation.
+- Encouraged to establish a regular sleep schedule and incorporate some physical activity into daily routine.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended treatment plan and follow-up strategies. He expresses motivation to improve his health and comply with the lifestyle modifications."|"#####
+**1. Subjective:**
+
+**CC:**
+Unusual urine color and strong odor.
+
+**HPI:**
+Mr. Juan Rodríguez, a 24 y/o Hispanic male, presents to the community health clinic for an initial consult concerning changes in urine color and smell. He reports that for the past week, his urine has been darker than usual with a strong odor. He also notes increased urinary frequency and mild lower abdominal discomfort, which he describes as moderate and distracting. These symptoms occur several times a day and have affected his daily activities, causing concern and distraction.
+
+**ROS:**
+- **Constitutional:** Endorses fatigue, denies fevers or chills.
+- **GI:** Endorses mild lower abdominal discomfort, denies N/V/D.
+- **GU:** Endorses changes in urine color and odor, increased urinary frequency. Denies dysuria or hematuria.
+- **Neuro:** Denies HA or dizziness.
+
+**2. Objective:**
+
+**VS:**
+- BP: 130/75 mmHg
+- HR: 70 bpm
+- Temp: 99.1°F
+- RR: 18
+
+**PE:**
+- **General appearance:** Appears fatigued, underweight, but alert.
+- **Abd Exam:** Mild tenderness over lower abdomen, no masses detected.
+
+**3. Assessment:**
+
+Mr. Juan Rodríguez is a 24 y/o male presenting with abnormal findings in urine characterized by unusual color and strong odor, alongside increased urinary frequency and mild lower abdominal discomfort.
+
+**DDx:**
+1. Dehydration
+2. UTI
+3. Dietary factors leading to changes in urine
+4. Potential development of renal issues (FH context)
+
+**4. Plan:**
+
+**Investigations:**
+- UA: Awaiting results.
+- Blood Work: Order CBC and Renal Function Panel for biochem assessment.
+
+**Tx:**
+- Increase H2O intake to at least 10 glasses per day.
+
+**Lifestyle Modifications:**
+- Improve dietary habits by consuming more balanced meals, focusing on fresh fruits and vegetables.
+- Reduction in tobacco use with the aim to quit.
+
+**Referrals:**
+- Referral to a dietitian for dietary modification.
+- Referral to a smoking cessation program, Dr. Samantha Lee.
+
+**F/U Recommendations:**
+- Return in 1 week to review UA and blood work results.
+- Evaluate adherence to increased H2O intake, dietary changes, and progress in smoking cessation.
+
+**Pt Education and Counseling:**
+- The pt was educated on the importance of hydration and its impact on urine color and odor.
+- Discussed the potential health risks associated with smoking and the benefits of cessation.
+- Encouraged to establish a regular sleep schedule and incorporate some physical activity into daily routine.
+
+**Pt Agreements:**
+The pt understands and agrees with the recommended Tx plan and F/U strategies. He expresses motivation to improve his health and comply with the lifestyle modifications."|Family Medicine Physician|"**Doctor:** Good morning, Mr. Rodríguez. How are you doing today?
+
+**Patient:** Good morning, doctor. I've been better. I'm here because I've noticed some changes in my urine, and it's worrying me.
+
+**Doctor:** I see. Can you tell me more about these changes?
+
+**Patient:** Sure. For the past week, my urine has been darker than usual, and it has a strong odor. It's been happening every day.
+
+**Doctor:** Hmm, that sounds concerning. Have you noticed any other symptoms?
+
+**Patient:** Yes, I've been going to the bathroom more frequently, and I've had some mild discomfort in my lower abdomen. It's not very painful, but it's distracting.
+
+**Doctor:** I understand. How would you describe this discomfort? Is it constant or does it come and go?
+
+**Patient:** It comes and goes, but it happens several times a day. It's moderate and definitely distracting.
+
+**Doctor:** Alright. Have you experienced any fatigue, fevers, or chills?
+
+**Patient:** I've been feeling pretty tired lately, but no fevers or chills.
+
+**Doctor:** Okay. What about any gastrointestinal issues like nausea, vomiting, or diarrhea?
+
+**Patient:** No, none of those. Just the mild lower abdominal discomfort.
+
+**Doctor:** Got it. Have you noticed any burning sensation when you urinate or any blood in your urine?
+
+**Patient:** No, no burning or blood.
+
+**Doctor:** How about headaches or dizziness?
+
+**Patient:** No, I haven't experienced any headaches or dizziness.
+
+**Doctor:** Thank you for sharing all that information. Let me check your vital signs. Your blood pressure is 130/75 mmHg, heart rate is 70 beats per minute, temperature is 99.1°F, and respiratory rate is 18. Everything seems within normal limits, but you do have a slight fever.
+
+**Patient:** Okay, is that bad?
+
+**Doctor:** Not necessarily, but it could be related to your symptoms. Let me perform a quick physical examination. I see you appear fatigued and somewhat underweight. Let me check your abdomen. There's some mild tenderness over the lower abdomen, but I don't detect any masses.
+
+**Patient:** What do you think it could be, doctor?
+
+**Doctor:** Based on your symptoms, there are a few possibilities. It could be dehydration, a urinary tract infection, dietary factors, or potentially the development of renal issues.
+
+**Patient:** Wow, that sounds serious. What should we do next?
+
+**Doctor:** We need to run some tests to get a clearer picture. I've ordered a urinalysis and some blood work, including a complete blood count and a renal function panel. We're waiting for the urinalysis results, but we can start making some changes right away.
+
+**Patient:** Okay, what kind of changes?
+
+**Doctor:** First, I want you to increase your water intake to at least 10 glasses per day. Staying hydrated can significantly impact your urine color and odor.
+
+**Patient:** I can do that. Anything else?
+
+**Doctor:** Yes, improving your dietary habits is crucial. Try to eat more balanced meals with plenty of fresh fruits and vegetables. Also, I noticed you mentioned you smoke. Reducing or quitting smoking can have significant health benefits.
+
+**Patient:** Yeah, I know I should quit smoking. It's just hard.
+
+**Doctor:** I understand. I'll refer you to Dr. Samantha Lee, who runs a smoking cessation program that can help you with this. Additionally, I'll refer you to a dietitian for further guidance on your diet.
+
+**Patient:** That sounds good. When should I come back for a follow-up?
+
+**Doctor:** Let's schedule a follow-up appointment in one week to review your urinalysis and blood work results. We'll also see how you're doing with the increased water intake, dietary changes, and progress in smoking cessation.
+
+**Patient:** Alright, I can do that.
+
+**Doctor:** Great. Before you go, I want to educate you on the importance of hydration and its impact on your urine. It's also important to establish a regular sleep schedule and incorporate some physical activity into your daily routine.
+
+**Patient:** I understand. I'll try my best to follow these recommendations.
+
+**Doctor:** Excellent. Do you have any questions for me?
+
+**Patient:** No, I think you've covered everything. Thanks, doctor.
+
+**Doctor:** You're welcome, Mr. Rodríguez. Remember, I'm here to help you every step of the way. See you next week.
+
+**Patient:** Thank you, doctor. See you next week.
+
+**Doctor:** Take care."|"[doctor]: Good morning, Mr. Rodríguez. How are you doing today?
+
+[patient]: Good morning, doctor. I've been better. I'm here because I've noticed some changes in my urine, and it's worrying me.
+
+[doctor]: I see. Can you tell me more about these changes?
+
+[patient]: Sure. For the past week, my urine has been darker than usual, and it has a strong odor. It's been happening every day.
+
+[doctor]: Hmm, that sounds concerning. Have you noticed any other symptoms?
+
+[patient]: Yes, I've been going to the bathroom more frequently, and I've had some mild discomfort in my lower abdomen. It's not very painful, but it's distracting.
+
+[doctor]: I understand. How would you describe this discomfort? Is it constant or does it come and go?
+
+[patient]: It comes and goes, but it happens several times a day. It's moderate and definitely distracting.
+
+[doctor]: Alright. Have you experienced any fatigue, fevers, or chills?
+
+[patient]: I've been feeling pretty tired lately, but no fevers or chills.
+
+[doctor]: Okay. What about any gastrointestinal issues like nausea, vomiting, or diarrhea?
+
+[patient]: No, none of those. Just the mild lower abdominal discomfort.
+
+[doctor]: Got it. Have you noticed any burning sensation when you urinate or any blood in your urine?
+
+[patient]: No, no burning or blood.
+
+[doctor]: How about headaches or dizziness?
+
+[patient]: No, I haven't experienced any headaches or dizziness.
+
+[doctor]: Thank you for sharing all that information. Let me check your vital signs. Your blood pressure is 130/75 mmHg, heart rate is 70 beats per minute, temperature is 99.1°F, and respiratory rate is 18. Everything seems within normal limits, but you do have a slight fever.
+
+[patient]: Okay, is that bad?
+
+[doctor]: Not necessarily, but it could be related to your symptoms. Let me perform a quick physical examination. I see you appear fatigued and somewhat underweight. Let me check your abdomen. There's some mild tenderness over the lower abdomen, but I don't detect any masses.
+
+[patient]: What do you think it could be, doctor?
+
+[doctor]: Based on your symptoms, there are a few possibilities. It could be dehydration, a urinary tract infection, dietary factors, or potentially the development of renal issues.
+
+[patient]: Wow, that sounds serious. What should we do next?
+
+[doctor]: We need to run some tests to get a clearer picture. I've ordered a urinalysis and some blood work, including a complete blood count and a renal function panel. We're waiting for the urinalysis results, but we can start making some changes right away.
+
+[patient]: Okay, what kind of changes?
+
+[doctor]: First, I want you to increase your water intake to at least 10 glasses per day. Staying hydrated can significantly impact your urine color and odor.
+
+[patient]: I can do that. Anything else?
+
+[doctor]: Yes, improving your dietary habits is crucial. Try to eat more balanced meals with plenty of fresh fruits and vegetables. Also, I noticed you mentioned you smoke. Reducing or quitting smoking can have significant health benefits.
+
+[patient]: Yeah, I know I should quit smoking. It's just hard.
+
+[doctor]: I understand. I'll refer you to Dr. Samantha Lee, who runs a smoking cessation program that can help you with this. Additionally, I'll refer you to a dietitian for further guidance on your diet.
+
+[patient]: That sounds good. When should I come back for a follow-up?
+
+[doctor]: Let's schedule a follow-up appointment in one week to review your urinalysis and blood work results. We'll also see how you're doing with the increased water intake, dietary changes, and progress in smoking cessation.
+
+[patient]: Alright, I can do that.
+
+[doctor]: Great. Before you go, I want to educate you on the importance of hydration and its impact on your urine. It's also important to establish a regular sleep schedule and incorporate some physical activity into your daily routine.
+
+[patient]: I understand. I'll try my best to follow these recommendations.
+
+[doctor]: Excellent. Do you have any questions for me?
+
+[patient]: No, I think you've covered everything. Thanks, doctor.
+
+[doctor]: You're welcome, Mr. Rodríguez. Remember, I'm here to help you every step of the way. See you next week.
+
+[patient]: Thank you, doctor. See you next week.
+
+[doctor]: Take care."
+OTHER ABNORMAL FINDINGS IN URINE|"ROLE: Family Medicine Physician
+
+**1) Medical Outcome:** 
+- Diagnosis: Other abnormal findings in urine (ICD-10 R82.90)
+- Prescribed Treatment: Hydration advice, cranberry supplements, and monitoring.
+- Follow-up Recommendations: Follow-up in 2 days to monitor symptoms and another urinalysis.
+- Referral to Specialists: None at this stage.
+- Order for Blood Work: Complete Blood Count (CBC), basic metabolic panel, and urinalysis.
+- Order for Imaging: NA
+
+**2) Medical History:** 
+- Previous Diagnoses: Anxiety, Hypothyroidism
+- Family Medical History: Mother with breast cancer, uncle with schizophrenia
+- Medication History: Levothyroxine 75 mcg daily, occasional use of Diazepam for anxiety
+- Allergies: None
+
+**3) Symptom Description:** 
+- Severity: Mild
+- Duration: 1 day
+- Associated Symptoms: Frequent urination without pain or blood, mild fatigue
+- Frequency: Every 2-3 hours
+- Impact on Daily Activities: Slight discomfort but manageable
+
+**4) Patient’s Self-Reported Habits and Lifestyle:** 
+- Sleep: Regular, 8 hours per night
+- Diet: Balanced, vegetarian
+- Exercise: Yoga every morning, walking 10,000 steps daily
+- Tobacco Use: None
+- Alcohol Consumption: None
+- Drug Use: None
+- Recreational Activities: Reading, gardening
+
+**5) Demographic Information:** 
+- Age: 25
+- Gender: Female
+- Ethnicity: Asian
+- Socio-economic Status: Student, financially dependent on parents
+- Education Level: Currently pursuing a Master's degree
+- Health Literacy: High
+- Job Status: Full-time student
+
+**6) Patient's Behavior:** 
+- Very compliant with medical advice, actively participates in self-care.
+
+**7) Geographical Location:** 
+- Big city, Urban, low pollution, affluent neighborhood, well-served by transit
+
+**8) Clinical Setting:** 
+- Telemedicine
+
+**9) Type of Encounter:** 
+- Initial Consultation
+
+**10) Treatment Disparities:** 
+- None; patient has comprehensive health insurance coverage.
+
+**11) Native or Non-Native English Speaking Patient:** 
+- Native English-speaking
+
+**12) Physical Exams:** 
+- NA (Telemedicine setting)
+
+**13) Investigation/Test results:** 
+- Urinalysis: Awaiting results
+- Awaiting Blood Work: CBC and basic metabolic panel"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Frequent urination.
+
+**History of Present Illness (HPI):**
+A 25-year-old Asian female, currently pursuing a Master's degree, presents with symptoms of frequent urination. The symptoms started 1 day ago with a frequency of every 2-3 hours. There is no associated pain, blood, or significant discomfort, but she reports mild fatigue. Symptoms have had a slight impact on her daily activities but remain manageable.
+
+**Review of Systems (ROS):**
+- Constitutional: Mild fatigue.
+- Genitourinary: Frequent urination without dysuria or hematuria.
+- Endocrine: Hypothyroidism, managed with Levothyroxine.
+- Psychiatric: History of anxiety, managed with occasional Diazepam.
+
+**2. Objective:**
+- Physical examination: Not performed due to telemedicine setting.
+- Pending investigations: Urinalysis, CBC, and basic metabolic panel.
+
+**3. Assessment:**
+1. Other abnormal findings in urine (ICD-10 R82.90)
+   - Medical Reasoning: The patient presents with frequent urination, which may indicate a possible urinary tract issue. Considering her compliant nature and good lifestyle habits, dietary factors or mild transient irritation could be considered. Awaiting urinalysis and blood work results for further evaluation.
+
+2. Hypothyroidism
+   - Medical Reasoning: Stable with current medication.
+   
+3. History of anxiety
+   - Medical Reasoning: Managed with occasional Diazepam use.
+
+**4. Plan:**
+1. Abnormal urine findings.
+   - Medical Treatment: Advised patient to increase hydration and to consider taking cranberry supplements.
+   - Patient Education and Counseling: Explained the importance of hydration and possible dietary irritants. Instructed to monitor for any new symptoms like pain or blood in urine.
+   - Follow-up: Scheduled a follow-up in 2 days to review symptoms and urinalysis results.
+   - Investigations: Ordered CBC and basic metabolic panel to evaluate overall health and rule out any systemic issues.
+
+2. Hypothyroidism.
+   - Medical Treatment: Continue current dosage of Levothyroxine.
+   - Follow-up: Routine follow-up to monitor thyroid function as previously scheduled.
+
+3. Anxiety.
+   - Medical Treatment: Continue occasional use of Diazepam as needed.
+   - Patient Education and Counseling: Encouraged the continuation of yoga and other stress-reducing activities.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment and follow-up plan.
+
+**Instructions:**
+- Ensure adequate hydration daily.
+- Take cranberry supplements as discussed.
+- Monitor for any changes in symptoms, particularly new pain or blood in urine, and report immediately.
+- Follow up in 2 days for review and new urinalysis results.
+- Continue prescribed medications and lifestyle practices.
+
+Follow-up Appointment: Scheduled for 2 days from today via telemedicine."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Frequent urination.
+
+**History of Present Illness (HPI):**
+A 25-year-old Asian female, currently pursuing a Master's degree, presents with symptoms of frequent urination. The symptoms started 1 day ago with a frequency of every 2-3 hours. There is no associated pain, blood, or significant discomfort, but she reports mild fatigue. Symptoms have had a slight impact on her daily activities but remain manageable.
+
+**Review of Systems (ROS):**
+- Constitutional: Mild fatigue.
+- Genitourinary: Frequent urination without dysuria or hematuria.
+- Endocrine: Hypothyroidism, managed with Levothyroxine.
+- Psychiatric: History of anxiety, managed with occasional Diazepam.
+
+**2. Objective:**
+- Physical examination: Not performed due to telemedicine setting.
+
+**3. Assessment:**
+1. Other abnormal findings in urine (ICD-10 R82.90)
+   - Medical Reasoning: The patient presents with frequent urination, which may indicate a possible urinary tract issue. Considering her compliant nature and good lifestyle habits, dietary factors or mild transient irritation could be considered. Awaiting urinalysis and blood work results for further evaluation.
+
+2. Hypothyroidism
+   - Medical Reasoning: Stable with current medication.
+   
+3. History of anxiety
+   - Medical Reasoning: Managed with occasional Diazepam use.
+
+**4. Plan:**
+1. Abnormal urine findings.
+   - Medical Treatment: Advised patient to increase hydration and to consider taking cranberry supplements.
+   - Patient Education and Counseling: Explained the importance of hydration and possible dietary irritants. Instructed to monitor for any new symptoms like pain or blood in urine.
+   - Follow-up: Scheduled a follow-up in 2 days to review symptoms and urinalysis results.
+   - Investigations: Ordered urinalysis, CBC, and basic metabolic panel to evaluate overall health and rule out any systemic issues.
+
+2. Hypothyroidism.
+   - Medical Treatment: Continue current dosage of Levothyroxine.
+   - Follow-up: Routine follow-up to monitor thyroid function as previously scheduled.
+
+3. Anxiety.
+   - Medical Treatment: Continue occasional use of Diazepam as needed.
+   - Patient Education and Counseling: Encouraged the continuation of yoga and other stress-reducing activities.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment and follow-up plan.
+
+**Instructions:**
+- Ensure adequate hydration daily.
+- Take cranberry supplements as discussed.
+- Monitor for any changes in symptoms, particularly new pain or blood in urine, and report immediately.
+- Follow up in 2 days for review and new urinalysis results.
+- Continue prescribed medications and lifestyle practices.
+
+Follow-up Appointment: Scheduled for 2 days from today via telemedicine."|"**1. Subjective:**
+
+**CC:**
+Frequent urination.
+
+**HPI:**
+A 25-year-old Asian female, currently pursuing a Master's degree, presents with sx of frequent urination. The sx started 1 day ago with a frequency of every 2-3 hrs. There is no associated pain, blood, or significant discomfort, but she reports mild fatigue. Sx have had a slight impact on her ADLs but remain manageable.
+
+**ROS:**
+- Constitutional: Mild fatigue.
+- GU: Frequent urination without dysuria or hematuria.
+- Endo: Hypothyroidism, managed with Levothyroxine.
+- Psych: Hx of anxiety, managed with occasional Diazepam.
+
+**2. Objective:**
+- PE: Not performed due to telemedicine setting.
+
+**3. Assessment:**
+1. Other abnormal findings in urine (ICD-10 R82.90)
+   - Medical Reasoning: The pt presents with frequent urination, which may indicate a possible urinary tract issue. Considering her compliant nature and good lifestyle habits, dietary factors or mild transient irritation could be considered. Awaiting UA and blood work results for further eval.
+
+2. Hypothyroidism
+   - Medical Reasoning: Stable with current med.
+
+3. Hx of anxiety
+   - Medical Reasoning: Managed with occasional Diazepam use.
+
+**4. Plan:**
+1. Abnormal urine findings.
+   - Medical Tx: Advised pt to increase hydration and to consider taking cranberry supplements.
+   - Pt Ed and Counseling: Explained the importance of hydration and possible dietary irritants. Instructed to monitor for any new sx like pain or blood in urine.
+   - F/U: Scheduled a f/u in 2 days to review sx and UA results.
+   - Investigations: Ordered UA, CBC, and BMP to eval overall health and r/o any systemic issues.
+
+2. Hypothyroidism.
+   - Medical Tx: Continue current dosage of Levothyroxine.
+   - F/U: Routine f/u to monitor thyroid function as previously scheduled.
+
+3. Anxiety.
+   - Medical Tx: Continue occasional use of Diazepam PRN.
+   - Pt Ed and Counseling: Encouraged the continuation of yoga and other stress-reducing activities.
+
+Pt Agreements: The pt understands and agrees with the recommended medical tx and f/u plan.
+
+**Instructions:**
+- Ensure adequate hydration daily.
+- Take cranberry supplements as discussed.
+- Monitor for any changes in sx, particularly new pain or blood in urine, and report immediately.
+- F/U in 2 days for review and new UA results.
+- Continue prescribed meds and lifestyle practices.
+
+F/U Appointment: Scheduled for 2 days from today via telemedicine."|Family Medicine Physician|"**Chief Complaint**
+
+Frequent urination.
+
+**History of Present Illness**
+
+Doctor: Hello, how are you doing today?
+
+Patient: Hi doctor, I'm alright, but I've been experiencing frequent urination.
+
+Doctor: I see. How often have you been needing to go to the bathroom?
+
+Patient: It started yesterday, and I've been going every 2-3 hours.
+
+Doctor: Every 2-3 hours, got it. Is there any pain or discomfort when you urinate?
+
+Patient: No, no pain or discomfort. 
+
+Doctor: Any blood in your urine?
+
+Patient: No, nothing like that.
+
+Doctor: Alright. Have you been feeling tired or fatigued lately?
+
+Patient: Yes, a little bit. I'm feeling mildly fatigued.
+
+Doctor: Okay, has this frequent urination affected your daily activities at all?
+
+Patient: Slightly, but it's still manageable.
+
+Doctor: Alright. Can you tell me about your medical history?
+
+Patient: Sure. I have hypothyroidism and anxiety.
+
+Doctor: Okay, are you on any medications for those conditions?
+
+Patient: Yes, I take Levothyroxine for my thyroid and occasionally Diazepam for my anxiety.
+
+Doctor: Got it. How has your hypothyroidism been lately?
+
+Patient: It seems stable with my current medication.
+
+Doctor: Okay, good. And how about your anxiety?
+
+Patient: It's been manageable with the occasional use of Diazepam.
+
+Doctor: Alright, let's move on to your review of systems. Besides the frequent urination and mild fatigue, have you noticed any other issues?
+
+Patient: No, just those.
+
+Doctor: Any changes in your appetite or weight?
+
+Patient: No.
+
+Doctor: Any fever or chills?
+
+Patient: No.
+
+Doctor: Any headaches or dizziness?
+
+Patient: No.
+
+Doctor: Good to know. Alright, since we're doing this consultation via telemedicine, we won't be able to perform a physical examination right now. But I will order some investigations. We'll do a urinalysis, a complete blood count, and a basic metabolic panel.
+
+Patient: Okay, that sounds good.
+
+Doctor: Based on your symptoms, it might be a urinary tract issue, but it could also be something related to your diet or a mild transient irritation. We'll know more once we get the results from the urinalysis and blood work.
+
+Patient: Alright.
+
+Doctor: In the meantime, make sure to increase your hydration. Drink plenty of water and consider taking cranberry supplements. They can help with urinary health.
+
+Patient: Okay, I'll do that.
+
+Doctor: Also, please monitor for any new symptoms like pain or blood in your urine. If you notice anything new or concerning, let us know immediately.
+
+Patient: I will, doctor.
+
+Doctor: We'll schedule a follow-up in 2 days to review your symptoms and the results of your urinalysis and blood work. 
+
+Patient: Okay, sounds good.
+
+Doctor: For your hypothyroidism, continue your current dosage of Levothyroxine. We'll keep monitoring your thyroid function as we have been.
+
+Patient: Alright.
+
+Doctor: And for your anxiety, continue using Diazepam as needed. I also encourage you to continue with yoga and other stress-reducing activities.
+
+Patient: I'll keep doing that.
+
+Doctor: Great. Do you have any questions or concerns?
+
+Patient: No, I think that covers everything.
+
+Doctor: Excellent. Just to summarize, ensure adequate hydration daily, consider taking cranberry supplements, and monitor for any changes in symptoms. We'll follow up in 2 days via telemedicine to review your results and symptoms.
+
+Patient: Okay, thank you, doctor.
+
+Doctor: You're welcome. Take care and we'll talk soon.
+
+Patient: Thank you, bye."|"[doctor]: Hello, how are you doing today?
+
+[patient]: Hi doctor, I'm alright, but I've been experiencing frequent urination.
+
+[doctor]: Hmm, I see. How often have you been needing to go to the bathroom?
+
+[patient]: It started yesterday, and I've been going every 2-3 hours.
+
+[doctor]: Every 2-3 hours, got it. Is there any pain or discomfort when you urinate?
+
+[patient]: No, no pain or discomfort.
+
+[doctor]: Any blood in your urine?
+
+[patient]: No, nothing like that.
+
+[doctor]: Alright. Have you been feeling tired or fatigued lately?
+
+[patient]: Yes, a little bit. I'm feeling mildly fatigued.
+
+[doctor]: Okay, has this frequent urination affected your daily activities at all?
+
+[patient]: Slightly, but it's still manageable.
+
+[doctor]: Alright. Can you tell me about your medical history?
+
+[patient]: Sure. I have hypothyroidism and anxiety.
+
+[doctor]: Okay, are you on any medications for those conditions?
+
+[patient]: Yes, I take Levothyroxine for my thyroid and occasionally Diazepam for my anxiety.
+
+[doctor]: Got it. How has your hypothyroidism been lately?
+
+[patient]: It seems stable with my current medication.
+
+[doctor]: Okay, good. And how about your anxiety?
+
+[patient]: It's been manageable with the occasional use of Diazepam.
+
+[doctor]: Alright, let's move on to your review of systems. Besides the frequent urination and mild fatigue, have you noticed any other issues?
+
+[patient]: No, just those.
+
+[doctor]: Any changes in your appetite or weight?
+
+[patient]: No.
+
+[doctor]: Any fever or chills?
+
+[patient]: No.
+
+[doctor]: Any headaches or dizziness?
+
+[patient]: No.
+
+[doctor]: Good to know. Alright, since we're doing this consultation via telemedicine, we won't be able to perform a physical examination right now. But I will order some investigations. We'll do a urinalysis, a complete blood count, and a basic metabolic panel.
+
+[patient]: Okay, that sounds good.
+
+[doctor]: Based on your symptoms, it might be a urinary tract issue, but it could also be something related to your diet or a mild transient irritation. We'll know more once we get the results from the urinalysis and blood work.
+
+[patient]: Alright.
+
+[doctor]: In the meantime, make sure to increase your hydration. Drink plenty of water and consider taking cranberry supplements. They can help with urinary health.
+
+[patient]: Okay, I'll do that.
+
+[doctor]: Also, please monitor for any new symptoms like pain or blood in your urine. If you notice anything new or concerning, let us know immediately.
+
+[patient]: I will, doctor.
+
+[doctor]: We'll schedule a follow-up in 2 days to review your symptoms and the results of your urinalysis and blood work.
+
+[patient]: Okay, sounds good.
+
+[doctor]: For your hypothyroidism, continue your current dosage of Levothyroxine. We'll keep monitoring your thyroid function as we have been.
+
+[patient]: Alright.
+
+[doctor]: And for your anxiety, continue using Diazepam as needed. I also encourage you to continue with yoga and other stress-reducing activities.
+
+[patient]: I'll keep doing that.
+
+[doctor]: Great. Do you have any questions or concerns?
+
+[patient]: No, I think that covers everything.
+
+[doctor]: Excellent. Just to summarize, ensure adequate hydration daily, consider taking cranberry supplements, and monitor for any changes in symptoms. We'll follow up in 2 days via telemedicine to review your results and symptoms.
+
+[patient]: Okay, thank you, doctor.
+
+[doctor]: You're welcome. Take care and we'll talk soon.
+
+[patient]: Thank you, bye."
+OTHER ABNORMAL FINDINGS IN URINE|"**ROLE: Family Medicine Physician**
+
+**Scenario:**
+
+- **Medical Outcome:** 
+    - Diagnosis: Other abnormal findings in urine.
+    - Prescribed Treatment: Antibiotics for possible urinary tract infection.
+        - Medication details: Ciprofloxacin 500 mg tablets, oral, twice daily for 7 days, total quantity 14 tablets.
+    - Follow-up Recommendations: Follow-up appointment in 1 week to review symptoms and urine culture results.
+    - Order for Tests:
+        - Blood Work: Biochemistry panel to check kidney function.
+        - Imaging: Ultrasound of the Kidneys and Urinary Bladder to rule out anatomical abnormalities or obstructions.
+        
+- **Medical History:** 
+    - Previous Diagnoses: Recurrent urinary tract infections, hypertension.
+    - Family Medical History: Mother with chronic kidney disease, father with hypertension.
+    - Medication History: Currently taking Lisinopril 10 mg once daily for hypertension.
+    - Allergies: Penicillin.
+
+- **Symptom Description:** 
+    - Severity: Moderate.
+    - Duration: 5 days.
+    - Associated Symptoms: Frequent urination, urgency, burning sensation during urination, lower abdominal pain.
+    - Frequency: Occurs every time she urinates.
+    - Impact on Daily Activities: Difficulty concentrating at work due to discomfort and frequent bathroom trips.
+
+- **Patient’s Self-Reported Habits and Lifestyle:** 
+    - Sleep: 6-7 hours per night, disrupted due to frequent urination.
+    - Diet: Balanced diet, drinks coffee and soda regularly.
+    - Exercise: Walks 3 times a week.
+    - Tobacco Use: None.
+    - Alcohol Consumption: Social drinker, 1-2 drinks per week.
+    - Drug Use: None.
+    - Recreational Activities: Enjoys reading and gardening.
+
+- **Demographic Information:** 
+    - Age: 34.
+    - Gender: Female.
+    - Ethnicity: Caucasian.
+    - Socio-economic Status: Middle class.
+    - Education Level: Bachelor's degree.
+    - Health Literacy: High.
+    - Job Status: Full-time administrative assistant.
+
+- **Patient's Behavior:** 
+    - Cooperative with medical advice and treatment plans.
+
+- **Geographical Location:** 
+    - Type: Urban.
+    - Location: Well-served by transit and healthcare facilities.
+
+- **Clinical Setting:** 
+    - Private Practice.
+
+- **Type of Encounter:** 
+    - Initial Consultation.
+
+- **Treatment Disparities:** 
+    - N/A.
+
+- **Native or Non-Native English Speaking Patient:** 
+    - Native English speaking.
+
+- **Physical Exam:**
+    - Abdomen: Mild tenderness in the suprapubic area.
+    - Genitourinary: No visible lesions or discharge.
+
+- **Investigation/Test results:** 
+    - Awaiting urine culture results.
+    - Awaiting results of ordered biochemistry panel.
+    - Awaiting ultrasound of the kidneys and urinary bladder."|"**1. Subjective:**
+
+- **Chief Complaint (CC):** The patient, a 34-year-old Caucasian female, presents with symptoms of frequent urination, urgency, burning sensation during urination, and lower abdominal pain for the past 5 days.
+
+- **History of Present Illness (HPI):** 
+    - Duration: 5 days.
+    - Severity: Moderate.
+    - Associated Symptoms: She reports frequent urination, urgency, burning sensation during urination, and moderate lower abdominal pain. These symptoms occur every time she urinates.
+    - Impact: These symptoms have caused difficulty in concentrating at work due to discomfort and frequent bathroom trips.
+    - Past Medical History: The patient has a history of recurrent urinary tract infections and hypertension. Currently taking Lisinopril 10 mg daily for hypertension.
+    - Family History: Mother with chronic kidney disease, father with hypertension.
+    - Allergies: Penicillin.
+   
+- **Review of Systems (ROS):**
+    - Constitutional: Negative for fever, weight loss, or fatigue.
+    - Genitourinary: Positive for frequent urination, urgency, burning during urination, and lower abdominal pain. No visible lesions or discharge.
+    - Gastrointestinal: Negative for nausea, vomiting, diarrhea, or constipation.
+    - Cardiovascular: Negative for chest pain or palpitations.
+    - Respiratory: Negative for cough or shortness of breath.
+
+**2. Objective:**
+
+- **Vital Signs:**
+    - Blood Pressure: 132/80 mmHg
+    - Heart Rate: 72 bpm
+    - Temperature: 37°C (98.6°F)
+    - Respiratory Rate: 16 breaths/min
+
+- **Physical Examination:**
+    - General: No acute distress. Cooperative and alert.
+    - Abdomen: Mild tenderness in the suprapubic area. No rebound or guarding.
+    - Genitourinary: No visible lesions or discharge.
+    - Cardiovascular: Heart sounds normal, no murmurs or extra sounds.
+    - Respiratory: Clear breath sounds bilaterally.
+    - Extremities: No edema.
+    
+- **Investigations:**
+    - Awaiting urine culture results.
+    - Awaiting results of the biochemistry panel.
+    - Awaiting ultrasound of the kidneys and urinary bladder.
+
+**3. Assessment:**
+
+- Other abnormal findings in urine, likely due to urinary tract infection.
+
+**4. Plan:**
+
+- **Medications:**
+    - Prescribed Ciprofloxacin 500 mg tablets, oral, twice daily for 7 days, total quantity 14 tablets.
+  
+- **Tests Ordered:**
+    - Blood Work: Biochemistry panel to check kidney function.
+    - Imaging: Ultrasound of the kidneys and urinary bladder to rule out anatomical abnormalities or obstructions.
+
+- **Follow-Up:**
+    - Schedule a follow-up appointment in 1 week to review symptoms and urine culture results.
+
+- **Patient Education and Recommendations:**
+    - Advised to complete the full course of antibiotics even if symptoms improve.
+    - Increase fluid intake to help flush out the urinary tract.
+    - Avoid caffeine and soda as they may irritate the bladder.
+    - Monitor for any signs of worsening symptoms such as fever, increased pain, or blood in urine and seek medical attention if these occur.
+    - Continue current medication for hypertension (Lisinopril 10 mg daily) and monitor blood pressure regularly.
+
+**INSTRUCTIONS:**
+- Follow up in 1 week.
+- Return to clinic or emergency department if symptoms worsen or new symptoms arise."|"**1. Subjective:**
+
+- **Chief Complaint (CC):** The patient, a 34-year-old Caucasian female, presents with symptoms of frequent urination, urgency, burning sensation during urination, and lower abdominal pain for the past 5 days.
+
+- **History of Present Illness (HPI):** 
+    - Duration: 5 days.
+    - Severity: Moderate.
+    - Associated Symptoms: She reports frequent urination, urgency, burning sensation during urination, and moderate lower abdominal pain. These symptoms occur every time she urinates.
+    - Impact: These symptoms have caused difficulty in concentrating at work due to discomfort and frequent bathroom trips.
+    - Past Medical History: The patient has a history of recurrent urinary tract infections and hypertension. Currently taking Lisinopril 10 mg daily for hypertension.
+    - Family History: Mother with chronic kidney disease, father with hypertension.
+    - Allergies: Penicillin.
+   
+- **Review of Systems (ROS):**
+    - Constitutional: Negative for fever, weight loss, or fatigue.
+    - Genitourinary: Positive for frequent urination, urgency, burning during urination, and lower abdominal pain. No visible lesions or discharge.
+    - Gastrointestinal: Negative for nausea, vomiting, diarrhea, or constipation.
+    - Cardiovascular: Negative for chest pain or palpitations.
+    - Respiratory: Negative for cough or shortness of breath.
+
+**2. Objective:**
+
+- **Vital Signs:**
+    - Blood Pressure: 132/80 mmHg
+    - Heart Rate: 72 bpm
+    - Temperature: 37°C (98.6°F)
+    - Respiratory Rate: 16 breaths/min
+
+- **Physical Examination:**
+    - General: No acute distress. Cooperative and alert.
+    - Abdomen: Mild tenderness in the suprapubic area. No rebound or guarding.
+    - Genitourinary: No visible lesions or discharge.
+    - Cardiovascular: Heart sounds normal, no murmurs or extra sounds.
+    - Respiratory: Clear breath sounds bilaterally.
+    - Extremities: No edema.
+
+**3. Assessment:**
+
+- Urinary tract infection (UTI) likely based on symptoms and physical examination findings.
+
+**4. Plan:**
+
+- **Medications:**
+    - Prescribed Ciprofloxacin 500 mg tablets, oral, twice daily for 7 days, total quantity 14 tablets.
+  
+- **Tests Ordered:**
+    - Blood Work: Biochemistry panel to check kidney function.
+    - Imaging: Ultrasound of the kidneys and urinary bladder to rule out anatomical abnormalities or obstructions.
+
+- **Follow-Up:**
+    - Schedule a follow-up appointment in 1 week to review symptoms and urine culture results.
+
+- **Patient Education and Recommendations:**
+    - Advised to complete the full course of antibiotics even if symptoms improve.
+    - Increase fluid intake to help flush out the urinary tract.
+    - Avoid caffeine and soda as they may irritate the bladder.
+    - Monitor for any signs of worsening symptoms such as fever, increased pain, or blood in urine and seek medical attention if these occur.
+    - Continue current medication for hypertension (Lisinopril 10 mg daily) and monitor blood pressure regularly."|"**1. Subjective:**
+
+- **CC:** The pt, a 34 y/o Caucasian F, presents with sx of freq urination, urgency, dysuria, and lower abd pain for the past 5 days.
+
+- **HPI:** 
+    - Duration: 5 days.
+    - Severity: Mod.
+    - Assoc Sx: Reports freq urination, urgency, dysuria, and mod lower abd pain. These sx occur every time she urinates.
+    - Impact: These sx have caused difficulty in concentrating at work due to discomfort and freq bathroom trips.
+    - PMH: Hx of recurrent UTIs and HTN. Currently taking Lisinopril 10 mg daily for HTN.
+    - FHx: Mother with CKD, father with HTN.
+    - Allergies: PCN.
+   
+- **ROS:**
+    - Constitutional: Neg for fever, weight loss, or fatigue.
+    - GU: Pos for freq urination, urgency, dysuria, and lower abd pain. No visible lesions or discharge.
+    - GI: Neg for nausea, vomiting, diarrhea, or constipation.
+    - CV: Neg for chest pain or palpitations.
+    - Resp: Neg for cough or SOB.
+
+**2. Objective:**
+
+- **VS:**
+    - BP: 132/80 mmHg
+    - HR: 72 bpm
+    - Temp: 37°C (98.6°F)
+    - RR: 16 breaths/min
+
+- **PE:**
+    - General: No acute distress. Cooperative and alert.
+    - Abd: Mild tenderness in the suprapubic area. No rebound or guarding.
+    - GU: No visible lesions or discharge.
+    - CV: Heart sounds normal, no murmurs or extra sounds.
+    - Resp: Clear breath sounds bilaterally.
+    - Extremities: No edema.
+
+**3. Assessment:**
+
+- UTI likely based on sx and PE findings.
+
+**4. Plan:**
+
+- **Meds:**
+    - Rx'ed Ciprofloxacin 500 mg tabs, PO BID for 7 days, total qty 14 tabs.
+  
+- **Tests Ordered:**
+    - Blood Work: BMP to check kidney function.
+    - Imaging: US of the kidneys and urinary bladder to r/o anatomical abnormalities or obstructions.
+
+- **Follow-Up:**
+    - Schedule f/u appt in 1 week to review sx and urine culture results.
+
+- **Pt Education and Recommendations:**
+    - Advised to complete the full course of abx even if sx improve.
+    - Increase fluid intake to help flush out the urinary tract.
+    - Avoid caffeine and soda as they may irritate the bladder.
+    - Monitor for any signs of worsening sx such as fever, increased pain, or hematuria and seek medical attention if these occur.
+    - Continue current med for HTN (Lisinopril 10 mg daily) and monitor BP regularly."|Family Medicine Physician**|"```
+[doctor] Hi there, how are you today?
+
+[patient] Hi, I'm not feeling too great actually. I've been having some issues.
+
+[doctor] I'm sorry to hear that. Can you tell me more about what's been going on?
+
+[patient] Sure. For the past 5 days, I've been having to go to the bathroom a lot. It feels urgent, and it burns when I pee. I've also been having some pain in my lower abdomen.
+
+[doctor] Hmm, I see. So, the symptoms started 5 days ago?
+
+[patient] Yes, that's right.
+
+[doctor] And how would you describe the severity of these symptoms?
+
+[patient] I’d say they’re moderate. It's really uncomfortable and it's making it hard to concentrate at work because I keep having to go to the bathroom.
+
+[doctor] That sounds very inconvenient. Do these symptoms occur every time you urinate?
+
+[patient] Yes, every single time.
+
+[doctor] Okay, I understand. Have you had any other symptoms like fever, weight loss, or fatigue?
+
+[patient] No, none of those.
+
+[doctor] Alright. How about nausea, vomiting, diarrhea, or constipation?
+
+[patient] No, none of that either.
+
+[doctor] Any chest pain or palpitations?
+
+[patient] No, not at all.
+
+[doctor] And what about any cough or shortness of breath?
+
+[patient] No, my breathing is fine.
+
+[doctor] Got it. Now, I see from your medical history that you have recurrent urinary tract infections and hypertension. Is that correct?
+
+[patient] Yes, that's right. I've had UTIs several times before.
+
+[doctor] Are you currently taking any medication for your hypertension?
+
+[patient] Yes, I take Lisinopril 10 mg daily.
+
+[doctor] Okay, and have you had any recent changes in your medication or any new medications?
+
+[patient] No, just the Lisinopril.
+
+[doctor] Alright. Do you have any allergies to medications?
+
+[patient] Yes, I'm allergic to penicillin.
+
+[doctor] Thanks for letting me know. What about your family history? Any significant medical conditions?
+
+[patient] My mother has chronic kidney disease, and my father has hypertension.
+
+[doctor] Okay, thank you. Now, let me perform a quick physical examination. I’ll be calling out my findings as we go along. 
+
+[patient] Okay.
+
+[doctor] Your blood pressure is 132 over 80 millimeters of mercury, heart rate is 72 beats per minute, temperature is 37 degrees Celsius, and respiratory rate is 16 breaths per minute. 
+
+[doctor] On general examination, you appear to be in no acute distress and are cooperative and alert. Your abdomen shows mild tenderness in the suprapubic area, but there is no rebound or guarding. Genitourinary exam shows no visible lesions or discharge. Heart sounds are normal with no murmurs or extra sounds. Your breath sounds are clear bilaterally and there is no edema in your extremities.
+
+[patient] So, what does all that mean?
+
+[doctor] Based on your symptoms and the physical exam, it sounds like you might have a urinary tract infection. We’re currently awaiting your urine culture results, as well as a biochemistry panel and an ultrasound of your kidneys and urinary bladder.
+
+[patient] Okay. What should I do in the meantime?
+
+[doctor] For now, I’m going to prescribe you Ciprofloxacin 500 mg tablets. You’ll need to take one tablet orally twice a day for 7 days.
+
+[patient] Alright, I’ll do that. Is there anything else I should do?
+
+[doctor] Yes, I recommend increasing your fluid intake to help flush out the urinary tract. Avoid caffeine and soda as they can irritate your bladder. Also, make sure to complete the full course of antibiotics even if you start feeling better.
+
+[patient] Got it. Is there anything I should watch out for?
+
+[doctor] Yes, if you notice any signs of worsening symptoms such as fever, increased pain, or blood in your urine, seek medical attention immediately. Continue taking your Lisinopril 10 mg daily for hypertension and monitor your blood pressure regularly.
+
+[patient] Okay, I’ll keep an eye on that.
+
+[doctor] We’ll need to schedule a follow-up appointment in 1 week to review your symptoms and the urine culture results.
+
+[patient] Alright, I’ll make sure to come back in a week.
+
+[doctor] Great. Do you have any questions or concerns?
+
+[patient] No, I think that covers everything. Thank you, doctor.
+
+[doctor] You're welcome. Take care and see you next week.
+
+[patient] Thanks, goodbye.
+
+[doctor] Goodbye.
+```"|"[doctor]: Hi there, how are you today?
+
+[patient]: Hi, I'm not feeling too great actually. I've been having some issues.
+
+[doctor]: I'm sorry to hear that. Can you tell me more about what's been going on?
+
+[patient]: Sure. For the past 5 days, I've been having to go to the bathroom a lot. It feels urgent, and it burns when I pee. I've also been having some pain in my lower abdomen.
+
+[doctor]: Hmm, I see. So, the symptoms started 5 days ago?
+
+[patient]: Yes, that's right.
+
+[doctor]: And how would you describe the severity of these symptoms?
+
+[patient]: I’d say they’re moderate. It's really uncomfortable and it's making it hard to concentrate at work because I keep having to go to the bathroom.
+
+[doctor]: That sounds very inconvenient. Do these symptoms occur every time you urinate?
+
+[patient]: Yes, every single time.
+
+[doctor]: Okay, I understand. Have you had any other symptoms like fever, weight loss, or fatigue?
+
+[patient]: No, none of those.
+
+[doctor]: Alright. How about nausea, vomiting, diarrhea, or constipation?
+
+[patient]: No, none of that either.
+
+[doctor]: Any chest pain or palpitations?
+
+[patient]: No, not at all.
+
+[doctor]: And what about any cough or shortness of breath?
+
+[patient]: No, my breathing is fine.
+
+[doctor]: Got it. Now, I see from your medical history that you have recurrent urinary tract infections and hypertension. Is that correct?
+
+[patient]: Yes, that's right. I've had UTIs several times before.
+
+[doctor]: Are you currently taking any medication for your hypertension?
+
+[patient]: Yes, I take Lisinopril 10 mg daily.
+
+[doctor]: Okay, and have you had any recent changes in your medication or any new medications?
+
+[patient]: No, just the Lisinopril.
+
+[doctor]: Alright. Do you have any allergies to medications?
+
+[patient]: Yes, I'm allergic to penicillin.
+
+[doctor]: Thanks for letting me know. What about your family history? Any significant medical conditions?
+
+[patient]: My mother has chronic kidney disease, and my father has hypertension.
+
+[doctor]: Okay, thank you. Now, let me perform a quick physical examination. I’ll be calling out my findings as we go along. 
+
+[patient]: Okay.
+
+[doctor]: Your blood pressure is 132 over 80 millimeters of mercury, heart rate is 72 beats per minute, temperature is 37 degrees Celsius, and respiratory rate is 16 breaths per minute. 
+
+[patient]: Okay, sounds good.
+
+[doctor]: On general examination, you appear to be in no acute distress and are cooperative and alert. Your abdomen shows mild tenderness in the suprapubic area, but there is no rebound or guarding. Genitourinary exam shows no visible lesions or discharge. Heart sounds are normal with no murmurs or extra sounds. Your breath sounds are clear bilaterally and there is no edema in your extremities.
+
+[patient]: So, what does all that mean?
+
+[doctor]: Based on your symptoms and the physical exam, it sounds like you might have a urinary tract infection. We’re currently awaiting your urine culture results, as well as a biochemistry panel and an ultrasound of your kidneys and urinary bladder.
+
+[patient]: Okay. What should I do in the meantime?
+
+[doctor]: For now, I’m going to prescribe you Ciprofloxacin 500 mg tablets. You’ll need to take one tablet orally twice a day for 7 days.
+
+[patient]: Alright, I’ll do that. Is there anything else I should do?
+
+[doctor]: Yes, I recommend increasing your fluid intake to help flush out the urinary tract. Avoid caffeine and soda as they can irritate your bladder. Also, make sure to complete the full course of antibiotics even if you start feeling better.
+
+[patient]: Got it. Is there anything I should watch out for?
+
+[doctor]: Yes, if you notice any signs of worsening symptoms such as fever, increased pain, or blood in your urine, seek medical attention immediately. Continue taking your Lisinopril 10 mg daily for hypertension and monitor your blood pressure regularly.
+
+[patient]: Okay, I’ll keep an eye on that.
+
+[doctor]: We’ll need to schedule a follow-up appointment in 1 week to review your symptoms and the urine culture results.
+
+[patient]: Alright, I’ll make sure to come back in a week.
+
+[doctor]: Great. Do you have any questions or concerns?
+
+[patient]: No, I think that covers everything. Thank you, doctor.
+
+[doctor]: You're welcome. Take care and see you next week.
+
+[patient]: Thanks, goodbye.
+
+[doctor]: Goodbye."
+OTHER ABNORMAL FINDINGS IN URINE|"ROLE: Family Medicine Physician
+
+Demographic Information: 
+- Age: 55
+- Gender: Female
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle-class
+- Education Level: High school diploma
+- Health Literacy: Moderate
+- Job Status: Part-time administrative assistant
+
+Geographical Location:
+- Location: Small City
+- Neighborhood Type: Suburban, well-served by transit
+
+Clinical Setting:
+- Setting: Private Practice
+- Type of Encounter: Routine Check-up
+
+Medical History:
+- Previous Diagnoses: Hypertension, Type 2 Diabetes Mellitus
+- Family Medical History: Mother had chronic kidney disease, father had myocardial infarction
+- Medication History: Losartan 50 mg once daily, Metformin 500 mg twice daily
+- Allergies: None
+- Chronic Conditions: Hypertension, Type 2 Diabetes Mellitus
+
+Symptoms Description:
+- New Symptoms: Unusual urine color and odor
+- Severity: Mild
+- Duration: 2 weeks
+- Associated Symptoms: Increased urinary frequency, no pain or burning
+- Frequency: Several times a day
+- Impact on Daily Activities: Minimal, but patient is concerned
+
+Patient’s self-reported habits and lifestyle:
+- Sleep: 7-8 hours per night
+- Diet: Moderately healthy, follows diabetic diet guidelines, occasional high-sodium foods
+- Exercise: Walks 3 times a week
+- Tobacco Use: Non-smoker
+- Alcohol Consumption: Occasional wine on weekends
+- Drug Use: None
+- Recreational Activities: Gardening, reading
+
+Patient's Behavior:
+- Level of Cooperation: Highly cooperative
+
+Physical exams:
+- General appearance: Well-nourished, alert, not in acute distress
+- Vital signs: BP 135/80 mmHg, HR 72 bpm, Temp 98.6°F, RR 16
+- Abdominal Exam: Soft, non-tender, no masses
+- Genitourinary Exam: NA
+
+Investigations/Test results:
+- Urinalysis: Awaiting results
+- Blood Work: Order CMP (Comprehensive Metabolic Panel) for biochemistry assessment, HbA1c for diabetes management
+- Imaging: NA
+
+Medical Outcome:
+- Diagnosis: Other abnormal findings in urine (ICD-10: R82.90)
+- Prescribed Treatment: Increase water intake to at least 8 glasses per day
+- Referral: NA
+- Follow-up Recommendations: Return in 2 weeks to review urinalysis and blood work results
+- Medication Adjustment: Continue current medications"|Rejected|Rejected|Rejected|Rejected||
+OTHER ABNORMAL FINDINGS IN URINE|"ROLE: Family Medicine Physician
+
+**1) Medical Outcome:** 
+- Diagnosis: Other abnormal findings in urine (ICD-10 R82.90)
+- Prescribed Treatment: Cephalexin 500 mg, oral, twice daily for 7 days, 14 tablets.
+- Follow-up Recommendations: Follow-up in 1 week to review symptoms and repeat urinalysis.
+- Referral to Specialists: Nephrologist, Dr. Emily Zhang, for further evaluation of persistent abnormalities.
+- Order for Blood Work: Renal function panel (creatinine, BUN, electrolytes).
+- Order for Imaging: Ultrasound, Renal, to evaluate any structural abnormalities.
+
+**2) Medical History:** 
+- Previous Diagnoses: Recurrent urinary tract infections (UTIs)
+- Family Medical History: Mother with chronic kidney disease
+- Medication History: Intermittent use of antibiotics for UTIs
+- Allergies: Penicillin
+
+**3) Symptom Description:** 
+- Severity: Moderate dysuria and hematuria
+- Duration: 3 days
+- Associated Symptoms: Lower back pain, mild fever (100.4°F)
+- Frequency: Symptoms occurred multiple times throughout the day
+- Impact on Daily Activities: Difficulty concentrating at work due to discomfort
+
+**4) Patient’s Self-Reported Habits and Lifestyle:** 
+- Sleep: Averages 6 hours per night, reports disturbed sleep due to discomfort
+- Diet: Balanced diet, increased fluid intake recently
+- Exercise: Infrequent due to recent discomfort
+- Tobacco Use: None
+- Alcohol Consumption: 1-2 drinks per week occasionally
+- Drug Use: None
+- Recreational Activities: Enjoys gardening
+
+**5) Demographic Information:** 
+- Age: 35
+- Gender: Female
+- Ethnicity: Hispanic
+- Socio-economic Status: Middle class
+- Education Level: College graduate
+- Health Literacy: Moderately high
+- Job Status: Marketing Manager
+
+**6) Patient's Behavior:** 
+- Generally cooperative with medical advice, apprehensive about frequent health issues
+
+**7) Geographical Location:** 
+- Big City, Urban, moderate pollution, easily accessible healthcare facilities
+
+**8) Clinical Setting:** 
+- Clinic
+
+**9) Type of Encounter:** 
+- Initial Consultation
+
+**10) Treatment Disparities:** 
+- None noted; patient has insurance coverage and good access to healthcare.
+
+**11) Native or Non-Native English Speaking Patient:** 
+- Native English-speaking
+
+**12) Physical Exams:** 
+- Abdominal exam: Mild tenderness in lower abdomen
+- CVA tenderness: Positive on right side
+- Vital Signs: BP 120/80 mmHg, HR 78 bpm, Temp 100.4°F
+
+**13) Investigation/Test results:** 
+- Urinalysis: Awaiting results
+- Awaiting Blood Work: Renal function panel
+- Awaiting Imaging: Ultrasound, Renal"|Rejected|Rejected|Rejected|Rejected||
+OTHER ABNORMAL FINDINGS IN URINE|"ROLE: Family Medicine Physician
+
+**1) Medical Outcome:** 
+- Diagnosis: Other abnormal findings in urine (ICD-10 R82.90)
+- Prescribed Treatment: Nitrofurantoin 100 mg, oral, twice daily for 5 days, 10 capsules.
+- Follow-up Recommendations: Follow-up in 1 week to review symptoms and repeat urinalysis.
+- Referral to Specialists: None at this stage.
+- Order for Blood Work: Complete Blood Count (CBC) and basic metabolic panel.
+- Order for Imaging: Ultrasound, G.U. Tract - Kidneys-Bladder(Prostate), to investigate possible anatomical causes.
+
+**2) Medical History:** 
+- Previous Diagnoses: Hypertension, Hyperlipidemia
+- Family Medical History: Father with diabetes, maternal uncle with prostate cancer
+- Medication History: Takes Lisinopril 10 mg daily, Atorvastatin 20 mg daily
+- Allergies: Sulfa drugs
+
+**3) Symptom Description:** 
+- Severity: Mild discomfort
+- Duration: 1 week
+- Associated Symptoms: Frequent urination, nocturia, fatigue
+- Frequency: Multiple times throughout the day and night
+- Impact on Daily Activities: Slightly disruptive, causing tiredness at work
+
+**4) Patient’s Self-Reported Habits and Lifestyle:** 
+- Sleep: Disturbed due to nocturia, averaging 5 hours per night
+- Diet: High-protein diet with low carbohydrates, drinks a lot of caffeinated beverages
+- Exercise: Regular exercise, jogging 3 times a week
+- Tobacco Use: None
+- Alcohol Consumption: None
+- Drug Use: None
+- Recreational Activities: Enjoys hiking and outdoor activities
+
+**5) Demographic Information:** 
+- Age: 60
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Upper middle class
+- Education Level: College graduate
+- Health Literacy: High
+- Job Status: Retired engineer
+
+**6) Patient's Behavior:** 
+- Very compliant with medical advice and keen on understanding his condition.
+
+**7) Geographical Location:** 
+- Small city, Suburban, low pollution, good healthcare facilities but limited specialist availability
+
+**8) Clinical Setting:** 
+- Private Practice
+
+**9) Type of Encounter:** 
+- Follow-up
+
+**10) Treatment Disparities:** 
+- None noted; patient has sufficient resources for healthcare.
+
+**11) Native or Non-Native English Speaking Patient:** 
+- Native English-speaking
+
+**12) Physical Exams:** 
+- Abdominal exam: Non-tender, no palpable masses
+- Digital rectal exam: Prostate slightly enlarged, non-tender
+- Vital Signs: BP 130/85 mmHg, HR 72 bpm, Temp 98.6°F
+
+**13) Investigation/Test results:**
+- Urinalysis: Awaiting results
+- Awaiting Blood Work: CBC and basic metabolic panel
+- Awaiting Imaging: Ultrasound, G.U. Tract - Kidneys-Bladder(Prostate)"|Rejected|Rejected|Rejected|Rejected||
+OTHER ABNORMAL FINDINGS IN URINE|"ROLE: Family Medicine Physician
+
+**1) Medical Outcome:** 
+- Diagnosis: Other abnormal findings in urine (ICD-10 R82.90)
+- Prescribed Treatment: Fosfomycin 3 g, oral, single dose packet, 1 packet.
+- Follow-up Recommendations: Follow-up in 3 days to review symptoms and repeat urinalysis.
+- Referral to Specialists: Urologist, Dr. David Lee, for further workup if no improvement.
+- Order for Blood Work: Urine culture and sensitivity.
+- Order for Imaging: CT scan, Abdomen and Pelvis, with contrast, to investigate potential underlying causes.
+
+**2) Medical History:** 
+- Previous Diagnoses: Type 2 Diabetes, Asthma
+- Family Medical History: Sister with lupus, father with hypertension
+- Medication History: Metformin 500 mg twice daily, Inhaler as needed for asthma
+- Allergies: None
+
+**3) Symptom Description:** 
+- Severity: Moderate
+- Duration: 5 days
+- Associated Symptoms: Increased urinary frequency, urgency, mild lower abdominal pain
+- Frequency: Frequent urination every 1-2 hours
+- Impact on Daily Activities: Disrupting work due to frequent bathroom visits
+
+**4) Patient’s Self-Reported Habits and Lifestyle:** 
+- Sleep: Generally good, 7 hours per night, but recently interrupted due to symptoms
+- Diet: Balanced but high carbohydrate intake for energy due to physically demanding job
+- Exercise: Moderately active, walks for 30 minutes daily
+- Tobacco Use: Smokes 5-6 cigarettes per day
+- Alcohol Consumption: Social drinker, 3-4 drinks per month
+- Drug Use: None
+- Recreational Activities: Enjoys playing soccer on weekends
+
+**5) Demographic Information:** 
+- Age: 48
+- Gender: Female
+- Ethnicity: African American
+- Socio-economic Status: Working class
+- Education Level: High school diploma
+- Health Literacy: Average
+- Job Status: Manual laborer in a warehouse
+
+**6) Patient's Behavior:** 
+- Moderately compliant, but finds it hard to follow dietary recommendations for diabetes control
+
+**7) Geographical Location:** 
+- Rural, Impoverished area, limited access to healthcare specialists, moderate pollution
+
+**8) Clinical Setting:** 
+- Community Health Services
+
+**9) Type of Encounter:** 
+- Emergency Visit
+
+**10) Treatment Disparities:** 
+- Less aggressive treatments considered initially due to patient's financial constraints and limited access to healthcare.
+
+**11) Native or Non-Native English Speaking Patient:** 
+- Non-Native English-speaking
+
+**12) Physical Exams:** 
+- Abdominal exam: Mild tenderness in suprapubic region
+- Lung exam: Clear to auscultation, no wheezes
+- Vital Signs: BP 135/90 mmHg, HR 88 bpm, Temp 99.1°F
+
+**13) Investigation/Test results:** 
+- Urinalysis: Awaiting results
+- Awaiting Blood Work: Urine culture and sensitivity
+- Awaiting Imaging: CT scan, Abdomen and Pelvis, with contrast"|Rejected|Rejected|Rejected|Rejected||

@@ -29,7 +29,7 @@ def file_exists(disease_description, path_to_save_notes):
 
 def main():
     ###### Edit this for each phase #############
-    path_to_save_notes= "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/phase_8_1.5k"
+    path_to_save_notes= "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/phase_12_35_remaining"
     ##############################################
     counter= 1
     openai_client= note_generation_functions.initialize_openai_client()
@@ -40,16 +40,22 @@ def main():
     #next_50_icd10_desc = df['ICD10_desc'].iloc[350:400].tolist()
     #next_100_icd10_desc = df['ICD10_desc'].iloc[400:500].tolist()
     #next_300_icd10_desc = df['ICD10_desc'].iloc[500:800].tolist()
-    next_300_icd10_desc = df['ICD10_desc'].iloc[800:1100].tolist()  ##### HAS NOT BEEN GENERATED YET######
+    #next_300_icd10_desc = df['ICD10_desc'].iloc[800:1100].tolist()  
+    #next_300_icd10_desc = df['ICD10_desc'].iloc[1100:1400].tolist()  
+    #next_300_icd10_desc = df['ICD10_desc'].iloc[1400:1700].tolist()  
+    #next_300_icd10_desc = df['ICD10_desc'].iloc[1700:2000].tolist()  
+    #next_7_icd10_desc = df['ICD10_desc'].iloc[2000:2007].tolist()
+    remained= ["HEART DISEASE, UNSPECIFIED"]  
 
-    for disease in next_300_icd10_desc:
+
+    for disease in remained:
             print(f"counter is: {counter}")
             print(disease)
             if not file_exists(disease, path_to_save_notes):
                 note_generation_functions.generate_and_save_medical_notes(disease_description= disease, 
                                                               notes_count= 5, 
                                                               openai_client= openai_client,
-                                                              path_to_save_notes= path_to_save_notes) #gen_constants.PATH_TO_SAVE_NOTES
+                                                              path_to_save_notes= path_to_save_notes) 
             counter += 1
 
 if __name__ == '__main__':
@@ -60,33 +66,3 @@ if __name__ == '__main__':
 
 
 
-
-    ''' 
-    disease_list= ['LONG TERM (CURRENT) USE OF AROMATASE INHIBITORS',
-                    'OSTEOPHYTE, VERTEBRAE',
-                    'PERSONAL HISTORY OF NON-HODGKIN LYMPHOMAS',
-                    'WEDGE COMPRESSION FRACTURE OF FIRST LUMBAR VERTEBRA, INITIAL ENCOUNTER FOR CLOSED FRACTURE',
-                    'CUTANEOUS ABSCESS OF GROIN']
-    """
-                        'ACQUIRED KERATOSIS [KERATODERMA] PALMARIS ET PLANTARIS',
-                    'HEART DISEASE, UNSPECIFIED',
-                    'SECONDARY AND UNSPECIFIED MALIGNANT NEOPLASM OF LYMPH NODE, UNSPECIFIED',
-                    'GESTATIONAL DIABETES MELLITUS IN CHILDBIRTH, UNSPECIFIED CONTROL',
-                    'INCOMPLETE ROTATOR CUFF TEAR OR RUPTURE OF RIGHT SHOULDER, NOT SPECIFIED AS TRAUMATIC',
-                    'CERVICOBRACHIAL SYNDROME',
-                    'GANGRENE, NOT ELSEWHERE CLASSIFIED',
-                    'OTHER ABNORMAL FINDINGS ON DIAGNOSTIC IMAGING OF CENTRAL NERVOUS SYSTEM',
-                    'DRY EYE SYNDROME OF BILATERAL LACRIMAL GLANDS',
-                    'DISEASE OF INTESTINE, UNSPECIFIED'
-    """
-    
-    
-    [
-                   "ENCOUNTER FOR GENERAL ADULT MEDICAL EXAMINATION WITHOUT ABNORMAL FINDINGS",
-                   "ENCOUNTER FOR ROUTINE CHILD HEALTH EXAMINATION WITHOUT ABNORMAL FINDINGS",
-                   "ENCOUNTER FOR IMMUNIZATION"]
-    
-   "ESSENTIAL (PRIMARY) HYPERTENSION", "TYPE 2 DIABETES MELLITUS WITHOUT COMPLICATIONS",
-                   "END STAGE RENAL DISEASE", " HYPERLIPIDEMIA, UNSPECIFIED", "LOW BACK PAIN",
-                   "OBSTRUCTIVE SLEEP APNEA (ADULT) (PEDIATRIC)", " ILLNESS, UNSPECIFIED"
-    '''

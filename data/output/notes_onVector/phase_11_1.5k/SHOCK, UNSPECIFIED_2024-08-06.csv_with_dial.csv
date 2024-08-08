@@ -1,0 +1,2632 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+SHOCK, UNSPECIFIED|"ROLE: Emergency Medicine Physician
+
+1) Medical Outcome: 
+   - Diagnosis: Shock, unspecified (ICD-10: R57.9)
+   - Prescribed treatment: IV fluids (Normal saline 0.9%, 1 liter bolus, then 150 mL/hr maintenance) administered through peripheral IV line.
+   - Further tests: Complete blood count (CBC), Basic metabolic panel (BMP), Lactate levels.
+   - Imaging: Chest X-ray to rule out any potential pulmonary causes.
+   - Referral: If no improvement, transfer to Critical Care for further management, Dr. Smith, Critical Care Specialist.
+   - Follow-up recommendations: Monitoring in ICU, reassessment in 1 hour, daily check-ups after stabilization.
+
+2) Medical History: 
+   - Previous Diagnoses: Hypertension, Type 2 Diabetes Mellitus
+   - Family Medical History: Father with coronary artery disease, Mother with rheumatoid arthritis
+   - Medication History: Metformin 500 mg BID, Lisinopril 10 mg QD
+   - Allergies: Penicillin (rash)
+   - Chronic Conditions: Hypertension, Type 2 Diabetes Mellitus
+
+3) Symptom Description:
+   - Severity: Severe
+   - Duration: Last 2 hours
+   - Associated Symptoms: Lightheadedness, sweating, confusion
+   - Frequency: Acute onset
+   - Impact on Daily Activities: Unable to stand, difficulty in speaking
+
+4) Patient’s Self-Reported Habits and Lifestyle:
+   - Sleep: 6-7 hours per night, poor sleep quality
+   - Diet: Unbalanced diet, high in processed foods, low in vegetables
+   - Exercise: Rarely exercises
+   - Tobacco Use: Smoker, 1 pack/day for 20 years
+   - Alcohol Consumption: Social drinker, 2-3 drinks/week
+   - Drug Use: Denies use
+   - Recreational Activities: None reported
+
+5) Demographic Information: 
+   - Age: 55
+   - Gender: Male
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Middle-class
+   - Education Level: High school diploma
+   - Health Literacy: Moderate
+   - Job Status: Factory worker
+
+6) Patient's Behavior:
+   - Cooperation: Initially confused but cooperative once IV fluids started
+
+7) Geographical Location: 
+   - Urban
+   - Neighborhood Type: Working-class, some access to healthcare facilities
+   
+8) Clinical Setting:
+   - Emergency Department in an urban hospital
+
+9) Type of Encounter:
+   - Emergency Visit
+
+10) Treatment Disparities:
+    - None reported
+
+11) Native or Non-Native English Speaking Patient:
+    - Non-Native English Speaking (Speaks Spanish, requires an interpreter)
+
+12) Physical exams:
+    - General appearance: Pale, diaphoretic
+    - Cardiovascular: Tachycardia, weak pulses
+    - Respiratory: Rapid, shallow breathing, clear to auscultation 
+    - Abdomen: Soft, non-tender
+    - Neurological: Alert but confused
+
+13) Investigation/Test results:
+    - Awaiting: CBC, BMP, Lactate levels
+    - Imaging: Chest X-ray pending interpretation"|"#####
+1. Subjective:
+   **Chief Complaint (CC):**
+   Patient presents with severe lightheadedness, sweating, and confusion.
+
+   **History of Present Illness (HPI):**
+   Mario Lopez, a 55-year-old Hispanic male with a past medical history of hypertension and type 2 diabetes mellitus, arrived at the emergency department after experiencing acute onset of severe symptoms approximately 2 hours ago. He describes feeling extremely lightheaded, sweating profusely, and having difficulty speaking and standing. The patient reports that he has not been adhering to his prescribed medications and acknowledges poor dietary habits and lack of exercise.
+
+   **Review of Systems (ROS):**
+   - **Constitutional:** Reports severe lightheadedness and sweating. Denies recent fever or chills.
+   - **Cardiovascular:** Denies chest pain but notes tachycardia.
+   - **Respiratory:** Denies shortness of breath, no cough or wheezing.
+   - **Neurological:** Reports confusion; no recent history of seizures or focal neurological deficits.
+   - **Gastrointestinal:** No nausea, vomiting, or abdominal pain.
+
+2. Objective:
+   **Physical Examination:**
+   - **General appearance:** Pale, diaphoretic, and visibly distressed.
+   - **Vital Signs:** Heart rate: 110 bpm, Respiratory rate: 24 breaths/min, Blood pressure: 90/60 mmHg, Temperature: 98.6°F, Oxygen saturation: 96% on room air.
+   - **Cardiovascular:** Tachycardia, weak pulses.
+   - **Respiratory:** Rapid, shallow breathing, clear to auscultation bilaterally.
+   - **Abdomen:** Soft, non-tender.
+   - **Neurological:** Alert but confused.
+
+   **Results:**
+   - Awaiting: CBC, BMP, Lactate levels.
+   - Imaging: Chest X-ray pending interpretation.
+
+3. Assessment:
+   Mario Lopez is a 55-year-old male with a history of hypertension and type 2 diabetes mellitus, presenting with signs and symptoms consistent with unspecified shock (ICD-10: R57.9).
+
+   - **Medical Reasoning:** The patient’s symptoms of severe lightheadedness, sweating, and confusion, coupled with tachycardia and hypotension, suggest a shock state. Differential diagnosis includes hypovolemic, cardiogenic, septic, or distributive shock.
+
+4. Plan:
+   **Immediate Management:**
+   - Initiate IV fluids (Normal saline 0.9%, 1 liter bolus, then 150 mL/hr maintenance) through a peripheral IV line.
+   
+   **Further Investigations:**
+   - Complete blood count (CBC).
+   - Basic metabolic panel (BMP).
+   - Lactate levels.
+   - Chest X-ray to rule out potential pulmonary causes.
+
+   **Referral and Monitoring:**
+   - If no improvement, transfer to Critical Care for further management under Dr. Smith, Critical Care Specialist.
+   - Continuous monitoring in ICU with reassessment in 1 hour.
+   - Daily check-ups after stabilization.
+
+   **Patient Agreements:**
+   - The patient, with assistance from an interpreter, understands and agrees with the recommended medical treatment plan. He is cooperative and will be closely monitored.
+
+#####
+
+**Note:** Ensure the patient receives language-appropriate educational materials and discharge instructions."|"#####
+1. Subjective:
+   **Chief Complaint (CC):**
+   Patient presents with severe lightheadedness, sweating, and confusion.
+
+   **History of Present Illness (HPI):**
+   Mario Lopez, a 55-year-old Hispanic male with a past medical history of hypertension and type 2 diabetes mellitus, arrived at the emergency department after experiencing acute onset of severe symptoms approximately 2 hours ago. He describes feeling extremely lightheaded, sweating profusely, and having difficulty speaking and standing. The patient reports that he has not been adhering to his prescribed medications and acknowledges poor dietary habits and lack of exercise.
+
+   **Review of Systems (ROS):**
+   - **Constitutional:** Reports severe lightheadedness and sweating. Denies recent fever or chills.
+   - **Cardiovascular:** Denies chest pain but notes tachycardia.
+   - **Respiratory:** Denies shortness of breath, no cough or wheezing.
+   - **Neurological:** Reports confusion; no recent history of seizures or focal neurological deficits.
+   - **Gastrointestinal:** No nausea, vomiting, or abdominal pain.
+
+2. Objective:
+   **Physical Examination:**
+   - **General appearance:** Pale, diaphoretic, and visibly distressed.
+   - **Vital Signs:** Heart rate: 110 bpm, Respiratory rate: 24 breaths/min, Blood pressure: 90/60 mmHg, Temperature: 98.6°F, Oxygen saturation: 96% on room air.
+   - **Cardiovascular:** Tachycardia, weak pulses.
+   - **Respiratory:** Rapid, shallow breathing, clear to auscultation bilaterally.
+   - **Abdomen:** Soft, non-tender.
+   - **Neurological:** Alert but confused.
+
+3. Assessment:
+   Mario Lopez is a 55-year-old male with a history of hypertension and type 2 diabetes mellitus, presenting with signs and symptoms consistent with unspecified shock (ICD-10: R57.9).
+
+   - **Medical Reasoning:** The patient’s symptoms of severe lightheadedness, sweating, and confusion, coupled with tachycardia and hypotension, suggest a shock state. Differential diagnosis includes hypovolemic, cardiogenic, septic, or distributive shock.
+
+4. Plan:
+   **Immediate Management:**
+   - Initiate IV fluids (Normal saline 0.9%, 1 liter bolus, then 150 mL/hr maintenance) through a peripheral IV line.
+   
+   **Further Investigations:**
+   - Complete blood count (CBC).
+   - Basic metabolic panel (BMP).
+   - Lactate levels.
+   - Chest X-ray to rule out potential pulmonary causes.
+
+   **Referral and Monitoring:**
+   - If no improvement, transfer to Critical Care for further management under Dr. John Smith, Critical Care Specialist, for potential shock management.
+   - Continuous monitoring in ICU with reassessment in 1 hour.
+   - Daily check-ups after stabilization.
+
+   **Patient Agreements:**
+   - The patient, with assistance from an interpreter, understands and agrees with the recommended medical treatment plan. He is cooperative and will be closely monitored.
+
+#####
+"|"#####
+1. Subjective:
+   **CC:**
+   Pt presents with severe lightheadedness, sweating, and confusion.
+
+   **HPI:**
+   Mario Lopez, a 55 y/o Hispanic M with PMH of HTN and T2DM, arrived at the ED after experiencing acute onset of severe sx approx 2 hrs ago. He describes feeling extremely lightheaded, sweating profusely, and having difficulty speaking and standing. The pt reports non-adherence to Rx'ed meds and acknowledges poor dietary habits and lack of exercise.
+
+   **ROS:**
+   - **Constitutional:** Reports severe lightheadedness and sweating. Denies recent fever or chills.
+   - **CV:** Denies CP but notes tachycardia.
+   - **Resp:** Denies SOB, no cough or wheezing.
+   - **Neuro:** Reports confusion; no recent hx of seizures or focal neuro deficits.
+   - **GI:** No N/V or abdominal pain.
+
+2. Objective:
+   **PE:**
+   - **General appearance:** Pale, diaphoretic, and visibly distressed.
+   - **VS:** HR: 110 bpm, RR: 24 breaths/min, BP: 90/60 mmHg, Temp: 98.6°F, O2 sat: 96% on RA.
+   - **CV:** Tachycardia, weak pulses.
+   - **Resp:** Rapid, shallow breathing, clear to auscultation bilaterally.
+   - **Abd:** Soft, non-tender.
+   - **Neuro:** Alert but confused.
+
+3. Assessment:
+   Mario Lopez is a 55 y/o M with a hx of HTN and T2DM, presenting with signs and sx consistent with unspecified shock (ICD-10: R57.9).
+
+   - **Medical Reasoning:** The pt’s sx of severe lightheadedness, sweating, and confusion, coupled with tachycardia and hypotension, suggest a shock state. Differential dx includes hypovolemic, cardiogenic, septic, or distributive shock.
+
+4. Plan:
+   **Immediate Mgmt:**
+   - Initiate IV fluids (NS 0.9%, 1L bolus, then 150 mL/hr maintenance) through a peripheral IV line.
+   
+   **Further Investigations:**
+   - CBC.
+   - BMP.
+   - Lactate levels.
+   - CXR to r/o potential pulmonary causes.
+
+   **Referral and Monitoring:**
+   - If no improvement, transfer to CCU for further mgmt under Dr. John Smith, Critical Care Specialist, for potential shock mgmt.
+   - Continuous monitoring in ICU with reassessment in 1 hr.
+   - Daily check-ups after stabilization.
+
+   **Patient Agreements:**
+   - The pt, with assistance from an interpreter, understands and agrees with the recommended medical tx plan. He is cooperative and will be closely monitored.
+
+#####
+"|Emergency Medicine Physician|"[doctor] Hello, Mr. Lopez. I'm Dr. Thompson. How are you feeling right now?
+
+[patient] Hello, doctor. I'm not feeling well at all. I feel extremely lightheaded, I'm sweating a lot, and it's hard to think straight.
+
+[doctor] Hmm, I see. When did these symptoms start?
+
+[patient] About two hours ago. It came on very suddenly.
+
+[doctor] Okay, and have you experienced anything like this before?
+
+[patient] No, this is the first time.
+
+[doctor] Have you had any chest pain or trouble breathing?
+
+[patient] No chest pain, and I can breathe okay, but my heart feels like it's racing.
+
+[doctor] Alright. Have you been keeping up with your medications for hypertension and diabetes?
+
+[patient] No, I haven't been taking them regularly. My diet has been pretty bad, and I haven't been exercising.
+
+[doctor] I understand. Let’s go over some more details. Have you had any fever or chills recently?
+
+[patient] No, no fever or chills.
+
+[doctor] Any issues with nausea, vomiting, or abdominal pain?
+
+[patient] No, none of that.
+
+[doctor] How about any recent seizures or specific problems with your speech or movement?
+
+[patient] No seizures, but it's hard to talk right now, and I feel really weak.
+
+[doctor] Okay. Let’s move on to a physical examination. I see you're looking quite pale and sweaty. Let's check your vital signs. Your heart rate is 110 beats per minute, respiratory rate is 24 breaths per minute, blood pressure is 90/60 mmHg, temperature is 98.6°F, and oxygen saturation is 96% on room air.
+
+[patient] Okay...
+
+[doctor] Listening to your lungs now... They sound clear. Your heart is beating fast, but no abnormal sounds. Your abdomen feels soft and not tender. Now, can you follow my finger with your eyes?
+
+[patient] Yes, I think so.
+
+[doctor] Good, you're able to follow the movement. You seem alert but confused. I’m going to order some tests now. We need a complete blood count, a basic metabolic panel, and lactate levels. We’ll also take a chest X-ray to rule out any lung issues.
+
+[patient] Alright...
+
+[doctor] In the meantime, we're going to start you on IV fluids to stabilize your blood pressure. We'll give you a one-liter bolus of normal saline and then continue with 150 mL per hour.
+
+[patient] Okay, thank you.
+
+[doctor] We’ll be monitoring you closely. If there’s no improvement, we may need to transfer you to the Critical Care Unit under Dr. Smith’s supervision. You’ll be continuously monitored in the ICU, and we’ll reassess you in an hour. We’ll also do daily check-ups once you’re stabilized.
+
+[patient] Alright, I understand.
+
+[doctor] Do you have any questions or concerns right now?
+
+[patient] No, just want to feel better.
+
+[doctor] We’re doing everything we can to help you. We’ll keep you informed every step of the way. An interpreter will assist you with any language-specific needs and materials. 
+
+[patient] Thank you, doctor.
+
+[doctor] You’re welcome. We’ll check on you shortly. 
+
+[patient] Okay, thanks.
+
+[doctor] Take care, Mr. Lopez. We’ll be back soon with updates."|"[doctor] Hello, Mr. Lopez. I'm Dr. Thompson. How are you feeling right now?
+
+[patient] Hello, doctor. I'm not feeling well at all. I feel extremely lightheaded, I'm sweating a lot, and it's hard to think straight.
+
+[doctor] Hmm, I see. When did these symptoms start?
+
+[patient] About two hours ago. It came on very suddenly.
+
+[doctor] Okay, and have you experienced anything like this before?
+
+[patient] No, this is the first time.
+
+[doctor] Have you had any chest pain or trouble breathing?
+
+[patient] No chest pain, and I can breathe okay, but my heart feels like it's racing.
+
+[doctor] Alright. Have you been keeping up with your medications for hypertension and diabetes?
+
+[patient] No, I haven't been taking them regularly. My diet has been pretty bad, and I haven't been exercising.
+
+[doctor] I understand. Let’s go over some more details. Have you had any fever or chills recently?
+
+[patient] No, no fever or chills.
+
+[doctor] Any issues with nausea, vomiting, or abdominal pain?
+
+[patient] No, none of that.
+
+[doctor] How about any recent seizures or specific problems with your speech or movement?
+
+[patient] No seizures, but it's hard to talk right now, and I feel really weak.
+
+[doctor] Okay. Let’s move on to a physical examination. I see you're looking quite pale and sweaty. Let's check your vital signs. Your heart rate is 110 beats per minute, respiratory rate is 24 breaths per minute, blood pressure is 90/60 mmHg, temperature is 98.6°F, and oxygen saturation is 96% on room air.
+
+[patient] Okay...
+
+[doctor] Listening to your lungs now... They sound clear. Your heart is beating fast, but no abnormal sounds. Your abdomen feels soft and not tender. Now, can you follow my finger with your eyes?
+
+[patient] Yes, I think so.
+
+[doctor] Good, you're able to follow the movement. You seem alert but confused. I’m going to order some tests now. We need a complete blood count, a basic metabolic panel, and lactate levels. We’ll also take a chest X-ray to rule out any lung issues.
+
+[patient] Alright...
+
+[doctor] In the meantime, we're going to start you on IV fluids to stabilize your blood pressure. We'll give you a one-liter bolus of normal saline and then continue with 150 mL per hour.
+
+[patient] Okay, thank you.
+
+[doctor] We’ll be monitoring you closely. If there’s no improvement, we may need to transfer you to the Critical Care Unit under Dr. Smith’s supervision. You’ll be continuously monitored in the ICU, and we’ll reassess you in an hour. We’ll also do daily check-ups once you’re stabilized.
+
+[patient] Alright, I understand.
+
+[doctor] Do you have any questions or concerns right now?
+
+[patient] No, just want to feel better.
+
+[doctor] We’re doing everything we can to help you. We’ll keep you informed every step of the way. An interpreter will assist you with any language-specific needs and materials. 
+
+[patient] Thank you, doctor.
+
+[doctor] You’re welcome. We’ll check on you shortly. 
+
+[patient] Okay, thanks.
+
+[doctor] Take care, Mr. Lopez. We’ll be back soon with updates."
+SHOCK, UNSPECIFIED|"ROLE: General Physician
+
+- Medical Outcome:
+    - Diagnosis: SHOCK, UNSPECIFIED
+    - Prescribed Treatment: Immediate administration of IV fluids (0.9% Normal Saline) at 1000 ml over 1 hour.
+    - Follow-up Recommendations: Daily monitoring of vitals, and frequent reassessment.
+    - Referral: Referral to nephrologist (Dr. Robert Anders, Renal Specialist) for evaluation of possible renal shock due to underlying kidney disease.
+    - Blood Work: CBC, BMP, Coagulation profile, Serum Creatinine, Blood cultures.
+    - Imaging: Abdominal ultrasound to assess kidney function and rule out any acute renal issues.
+    
+- Medical History:
+    - Previous Diagnoses: End-Stage Renal Disease (ESRD), Hypertension, Hyperlipidemia.
+    - Family Medical History: Father had renal disease; mother had diabetes.
+    - Medication History: Hemodialysis thrice a week, Amlodipine 10 mg daily, Atorvastatin 20 mg daily.
+    - Allergies: Allergic to sulfa drugs (causes rash).
+    - Chronic Conditions: End-Stage Renal Disease, Hypertension, Hyperlipidemia.
+
+- Symptom Description:
+    - Severity: Severe (patient is hypotensive, tachypneic, and oliguric).
+    - Duration: Symptoms began 8 hours ago.
+    - Associated Symptoms: Severe headache, nausea, vomiting, confusion.
+    - Frequency: Acute onset.
+    - Impact on Daily Activities: Unable to perform any daily activities, wheelchair-bound due to weakness.
+
+- Patient’s Self-Reported Habits and Lifestyle:
+    - Sleep: Reports 4 hours of disrupted sleep per night.
+    - Diet: Low-protein diet recommended for renal disease.
+    - Exercise: Limited due to chronic illness.
+    - Tobacco Use: Never smoked.
+    - Alcohol Consumption: Denies.
+    - Drug Use: Denies.
+    - Recreational Activities: Listening to music.
+
+- Demographic Information:
+    - Age: 55
+    - Gender: Female
+    - Ethnicity: Asian
+    - Socio-economic Status: Low-income
+    - Education Level: College graduate
+    - Health Literacy: Moderate understanding of her condition
+    - Job Status: Unemployed due to medical disability
+
+- Patient's Behavior: Highly cooperative and follows medical advice diligently.
+
+- Geographical Location:
+    - Rural area
+    - Poor access to specialized healthcare services
+    - Neighborhood: Agriculturally dense, moderate pollution
+
+- Clinical Setting: Community health clinic in a rural setting.
+
+- Type of Encounter: Follow-up visit initiated due to acute symptoms.
+
+- Treatment Disparities: Limited access to advanced care due to rural setting. Seek to stabilize before possible transfer to a tertiary care center if required.
+
+- Native or Non-Native English Speaking Patient: Non-Native English speaking patient, primary language is Tagalog.
+
+- Physical exams:
+    - Vital Signs: BP 90/60 mmHg, HR 112 bpm, RR 26 breaths/min, Temp 38.3°C, SpO2 92% on room air.
+    - General: Patient appears pale and in distress.
+    - Cardiovascular: Rapid heart rate, weak pulse.
+    - Respiratory: Tachypneic without rales or wheezing.
+    - Abdomen: Soft, non-tender, with a dialysis catheter in place.
+    - Extremities: Cool, delayed capillary refill, mild edema in both lower extremities.
+
+- Investigation/Test results: Awaiting results from CBC, BMP, Coagulation profile, Serum Creatinine, Blood cultures, and Abdominal ultrasound."|"#####
+**1. Subjective:**
+   
+**Chief Complaint (CC):**  
+Severe headache, nausea, vomiting, and confusion.
+
+**History of Present Illness (HPI):**  
+The patient, a 55-year-old Asian female with a known history of End-Stage Renal Disease (ESRD), Hypertension, and Hyperlipidemia, presents with severe headache, nausea, vomiting, and confusion that began approximately 8 hours ago. She reports feeling severely weak and is currently wheelchair-bound. Additionally, she is experiencing hypotension, tachypnea, and oliguria. 
+
+**Review of Systems (ROS):**  
+- **Constitutional:** Reports extreme fatigue and weakness.
+- **HEENT:** Severe headache, no visual disturbances.
+- **Respiratory:** No shortness of breath, but tachypneic.
+- **Cardiovascular:** Palpitations, no chest pain.
+- **Gastrointestinal:** Nausea, vomiting.
+- **Genitourinary:** Oliguria.
+- **Neurologic:** Confusion, no focal deficits.
+- **Skin:** No rashes or lesions.
+
+**2. Objective:**
+
+**Physical Examination:**  
+- **Vital Signs:** BP 90/60 mmHg, HR 112 bpm, RR 26 breaths/min, Temp 38.3°C, SpO2 92% on room air.
+- **General:** Patient appears pale and in distress.
+- **Cardiovascular:** Rapid heart rate, weak pulse.
+- **Respiratory:** Tachypneic without rales or wheezing.
+- **Abdomen:** Soft, non-tender, with a dialysis catheter in place.
+- **Extremities:** Cool, delayed capillary refill, mild edema in both lower extremities.
+
+**Investigation/Test results:**  
+- Awaiting results from CBC, BMP, Coagulation profile, Serum Creatinine, Blood cultures, and Abdominal ultrasound.
+
+**3. Assessment:**
+
+- **Primary Diagnosis:** Shock, Unspecified.
+- **Differential Diagnosis:**
+  - Septic Shock
+  - Hypovolemic Shock
+  - Cardiogenic Shock
+  - Renal Shock due to underlying kidney disease
+
+**4. Plan:**
+
+- **Treatment:**
+  - Immediate administration of IV fluids (0.9% Normal Saline) at 1000 ml over 1 hour.
+  
+- **Follow-Up Recommendations:**
+  - Daily monitoring of vital signs, and frequent reassessment.
+  
+- **Referral:**
+  - Referral to nephrologist (Dr. Robert Anders, Renal Specialist) for evaluation of possible renal shock due to underlying kidney disease.
+  
+- **Further Investigations:**
+  - Blood Work: CBC, BMP, Coagulation profile, Serum Creatinine, Blood cultures.
+  - Imaging: Abdominal ultrasound to assess kidney function and rule out any acute renal issues.
+  
+- **Instructions:**
+  - Continue current medications (Amlodipine, Atorvastatin).
+  - Maintain low-protein diet as recommended.
+  - Ensure effective communication despite language barriers; use a Tagalog-speaking interpreter if necessary.
+  - Monitor closely for any deterioration that may require transfer to a tertiary care center.
+  
+This plan was discussed in detail with the patient who is in agreement."|"#####
+**1. Subjective:**
+   
+**Chief Complaint (CC):**  
+Severe headache, nausea, vomiting, and confusion.
+
+**History of Present Illness (HPI):**  
+The patient, a 55-year-old Asian female with a known history of End-Stage Renal Disease (ESRD), Hypertension, and Hyperlipidemia, presents with severe headache, nausea, vomiting, and confusion that began approximately 8 hours ago. She reports feeling severely weak and is currently wheelchair-bound. Additionally, she is experiencing hypotension, tachypnea, and oliguria. 
+
+**Review of Systems (ROS):**  
+- **Constitutional:** Reports extreme fatigue and weakness.
+- **HEENT:** Severe headache, no visual disturbances.
+- **Respiratory:** No shortness of breath, but tachypneic.
+- **Cardiovascular:** Palpitations, no chest pain.
+- **Gastrointestinal:** Nausea, vomiting.
+- **Genitourinary:** Oliguria.
+- **Neurologic:** Confusion, no focal deficits.
+- **Skin:** No rashes or lesions.
+
+**2. Objective:**
+
+**Physical Examination:**  
+- **Vital Signs:** BP 90/60 mmHg, HR 112 bpm, RR 26 breaths/min, Temp 38.3°C, SpO2 92% on room air.
+- **General:** Patient appears pale and in distress.
+- **Cardiovascular:** Rapid heart rate, weak pulse.
+- **Respiratory:** Tachypneic without rales or wheezing.
+- **Abdomen:** Soft, non-tender, with a dialysis catheter in place.
+- **Extremities:** Cool, delayed capillary refill, mild edema in both lower extremities.
+
+**3. Assessment:**
+
+- **Primary Diagnosis:** Shock, Unspecified.
+- **Differential Diagnosis:**
+  - Septic Shock
+  - Hypovolemic Shock
+  - Cardiogenic Shock
+  - Renal Shock due to underlying kidney disease
+
+**4. Plan:**
+
+- **Treatment:**
+  - Immediate administration of IV fluids (0.9% Normal Saline) at 1000 ml over 1 hour.
+  
+- **Follow-Up Recommendations:**
+  - Daily monitoring of vital signs, and frequent reassessment.
+  
+- **Referral:**
+  - Referral to nephrologist (Dr. Robert Anders, Renal Specialist) for evaluation of possible renal shock due to underlying kidney disease.
+  
+- **Further Investigations:**
+  - Blood Work: CBC, BMP, Coagulation profile, Serum Creatinine, Blood cultures.
+  - Imaging: Abdominal ultrasound to assess kidney function and rule out any acute renal issues.
+  
+- **Instructions:**
+  - Continue current medications (Amlodipine, Atorvastatin).
+  - Maintain low-protein diet as recommended.
+  - Ensure effective communication despite language barriers; use a Tagalog-speaking interpreter if necessary.
+  - Monitor closely for any deterioration that may require transfer to a tertiary care center.
+  
+This plan was discussed in detail with the patient who is in agreement."|"#####
+**1. Subjective:**
+   
+**CC:**  
+Severe HA, N/V, and confusion.
+
+**HPI:**  
+The pt, a 55 y/o Asian F with a known hx of ESRD, HTN, and HLD, presents with severe HA, N/V, and confusion that began ~8 hrs ago. She reports feeling severely weak and is currently wheelchair-bound. Additionally, she is experiencing hypotension, tachypnea, and oliguria. 
+
+**ROS:**  
+- **Constitutional:** Reports extreme fatigue and weakness.
+- **HEENT:** Severe HA, no visual disturbances.
+- **Respiratory:** No SOB, but tachypneic.
+- **Cardiovascular:** Palpitations, no CP.
+- **GI:** N/V.
+- **GU:** Oliguria.
+- **Neuro:** Confusion, no focal deficits.
+- **Skin:** No rashes or lesions.
+
+**2. Objective:**
+
+**Physical Exam:**  
+- **VS:** BP 90/60 mmHg, HR 112 bpm, RR 26, Temp 38.3°C, SpO2 92% RA.
+- **General:** Pt appears pale and in distress.
+- **CV:** Rapid HR, weak pulse.
+- **Resp:** Tachypneic without rales or wheezing.
+- **Abd:** Soft, non-tender, with a dialysis catheter in place.
+- **Ext:** Cool, delayed cap refill, mild edema in BLE.
+
+**3. Assessment:**
+
+- **Primary Dx:** Shock, Unspecified.
+- **DDx:**
+  - Septic Shock
+  - Hypovolemic Shock
+  - Cardiogenic Shock
+  - Renal Shock due to underlying kidney disease
+
+**4. Plan:**
+
+- **Tx:**
+  - Immediate administration of IV fluids (0.9% NS) at 1000 ml over 1 hr.
+  
+- **F/U Recommendations:**
+  - Daily monitoring of VS, and frequent reassessment.
+  
+- **Referral:**
+  - Referral to nephro (Dr. Robert Anders, Renal Specialist) for eval of possible renal shock due to underlying kidney disease.
+  
+- **Further Investigations:**
+  - Blood Work: CBC, BMP, Coag profile, Serum Cr, Blood cx.
+  - Imaging: Abdominal US to assess kidney function and r/o any acute renal issues.
+  
+- **Instructions:**
+  - Continue current meds (Amlodipine, Atorvastatin).
+  - Maintain low-protein diet as recommended.
+  - Ensure effective communication despite language barriers; use a Tagalog-speaking interpreter if necessary.
+  - Monitor closely for any deterioration that may require transfer to a tertiary care center.
+  
+This plan was discussed in detail with the pt who is in agreement."|General Physician|"[doctor] Good morning. How are you feeling today?
+
+[patient] Not well at all, doctor. I have a severe headache, and I feel nauseous and confused.
+
+[doctor] I see. How long have you been experiencing these symptoms?
+
+[patient] It started about 8 hours ago. I’ve been feeling very weak, and I’m in a wheelchair because I can’t stand up.
+
+[doctor] I understand. Do you have any other symptoms?
+
+[patient] Yes, I feel extremely fatigued and weak.
+
+[doctor] Any visual disturbances with your headache?
+
+[patient] No, no visual disturbances.
+
+[doctor] How about your breathing? Any shortness of breath?
+
+[patient] No shortness of breath, but I feel like I’m breathing faster than usual.
+
+[doctor] Okay. Have you felt any palpitations or chest pain?
+
+[patient] I have felt some palpitations, but no chest pain.
+
+[doctor] Have you experienced any nausea or vomiting?
+
+[patient] Yes, both. I’ve been vomiting quite a bit.
+
+[doctor] How about your urine output? Are you urinating normally?
+
+[patient] No, I’m urinating very little.
+
+[doctor] Do you feel confused or have any trouble remembering things?
+
+[patient] Yes, I feel very confused.
+
+[doctor] Alright, let’s go over your medical history. I see that you have End-Stage Renal Disease (ESRD), Hypertension, and Hyperlipidemia. Is that correct?
+
+[patient] Yes, that’s correct.
+
+[doctor] And are you currently taking any medications for these conditions?
+
+[patient] Yes, I’m taking Amlodipine and Atorvastatin.
+
+[doctor] Thank you. Now, I’ll need to perform a physical examination. Let’s start with your vital signs.
+
+[patient] Okay.
+
+[doctor] Your blood pressure is 90/60 mmHg, heart rate is 112 beats per minute, respiratory rate is 26 breaths per minute, temperature is 38.3°C, and oxygen saturation is 92% on room air.
+
+[patient] Is that bad?
+
+[doctor] Your blood pressure is low, and your heart rate and breathing rate are elevated. You also have a fever. 
+
+[patient] Oh, that doesn’t sound good.
+
+[doctor] Let's proceed with the rest of the examination. You look pale and distressed. Your heart rate is rapid, and I can feel a weak pulse. 
+
+[patient] I feel really weak.
+
+[doctor] Yes, and you’re tachypneic, but I don’t hear any rales or wheezing in your lungs. Your abdomen is soft and non-tender, and I see that you have a dialysis catheter in place.
+
+[patient] Yes, I do.
+
+[doctor] Your extremities are cool, and there’s a delayed capillary refill. I also notice mild edema in both of your lower extremities.
+
+[patient] What does that mean?
+
+[doctor] It suggests that your circulation is not as good as it should be, likely due to low blood pressure.
+
+[patient] Is that serious?
+
+[doctor] It can be. We need to stabilize your condition. I’m going to order some blood work and an abdominal ultrasound to assess your kidney function and rule out any acute issues.
+
+[patient] Alright.
+
+[doctor] We’ll check your CBC, BMP, Coagulation profile, Serum Creatinine, and Blood cultures. We need to understand what’s causing these symptoms.
+
+[patient] Okay.
+
+[doctor] In the meantime, we’ll start you on IV fluids. You’ll receive 1000 ml of 0.9% Normal Saline over the next hour.
+
+[patient] Will that help?
+
+[doctor] Yes, it should help improve your blood pressure and hydration.
+
+[patient] Okay, doctor.
+
+[doctor] I’ll also refer you to a nephrologist, Dr. Robert Anders, for further evaluation of possible renal shock due to your underlying kidney disease.
+
+[patient] Will I need more tests?
+
+[doctor] Yes, we’ll continue monitoring your vital signs and reassessing you frequently. If necessary, we may need to transfer you to a tertiary care center for more specialized care.
+
+[patient] I understand.
+
+[doctor] Please continue taking your current medications, Amlodipine and Atorvastatin. Also, maintain your low-protein diet as recommended.
+
+[patient] I will.
+
+[doctor] Given that there’s a language barrier, we’ll ensure we have a Tagalog-speaking interpreter available to assist you.
+
+[patient] Thank you, that would help a lot.
+
+[doctor] Do you have any questions for me right now?
+
+[patient] No, I think I understand everything.
+
+[doctor] Excellent. We’ll keep a close eye on you and adjust your treatment as needed. Let’s see how you respond to the fluids and the medications.
+
+[patient] Thank you, doctor.
+
+[doctor] You’re welcome. We’re here to help you get better."|"[doctor] Good morning. How are you feeling today?
+
+[patient] Not well at all, doctor. I have a severe headache, and I feel nauseous and confused.
+
+[doctor] Hmm, I see. How long have you been experiencing these symptoms?
+
+[patient] It started about 8 hours ago. I’ve been feeling very weak, and I’m in a wheelchair because I can’t stand up.
+
+[doctor] I understand. That must be tough. Do you have any other symptoms?
+
+[patient] Yes, I feel extremely fatigued and weak.
+
+[doctor] Any visual disturbances with your headache?
+
+[patient] No, no visual disturbances.
+
+[doctor] How about your breathing? Any shortness of breath?
+
+[patient] No shortness of breath, but I feel like I’m breathing faster than usual.
+
+[doctor] Okay. Have you felt any palpitations or chest pain?
+
+[patient] I have felt some palpitations, but no chest pain.
+
+[doctor] Have you experienced any nausea or vomiting?
+
+[patient] Yes, both. I’ve been vomiting quite a bit.
+
+[doctor] Hmm, I see. How about your urine output? Are you urinating normally?
+
+[patient] No, I’m urinating very little.
+
+[doctor] Do you feel confused or have any trouble remembering things?
+
+[patient] Yes, I feel very confused.
+
+[doctor] Alright, let’s go over your medical history. I see that you have End-Stage Renal Disease (ESRD), Hypertension, and Hyperlipidemia. Is that correct?
+
+[patient] Yes, that’s correct.
+
+[doctor] And are you currently taking any medications for these conditions?
+
+[patient] Yes, I’m taking Amlodipine and Atorvastatin.
+
+[doctor] Thank you. Now, I’ll need to perform a physical examination. Let’s start with your vital signs.
+
+[patient] Okay.
+
+[doctor] Your blood pressure is 90/60 mmHg, heart rate is 112 beats per minute, respiratory rate is 26 breaths per minute, temperature is 38.3°C, and oxygen saturation is 92% on room air.
+
+[patient] Is that bad?
+
+[doctor] Your blood pressure is low, and your heart rate and breathing rate are elevated. You also have a fever. 
+
+[patient] Oh, that doesn’t sound good.
+
+[doctor] Let's proceed with the rest of the examination. You look pale and distressed. Your heart rate is rapid, and I can feel a weak pulse. 
+
+[patient] I feel really weak.
+
+[doctor] Yes, and you’re tachypneic, but I don’t hear any rales or wheezing in your lungs. Your abdomen is soft and non-tender, and I see that you have a dialysis catheter in place.
+
+[patient] Yes, I do.
+
+[doctor] Your extremities are cool, and there’s a delayed capillary refill. I also notice mild edema in both of your lower extremities.
+
+[patient] What does that mean?
+
+[doctor] It suggests that your circulation is not as good as it should be, likely due to low blood pressure.
+
+[patient] Is that serious?
+
+[doctor] It can be. We need to stabilize your condition. I’m going to order some blood work and an abdominal ultrasound to assess your kidney function and rule out any acute issues.
+
+[patient] Alright.
+
+[doctor] We’ll check your CBC, BMP, Coagulation profile, Serum Creatinine, and Blood cultures. We need to understand what’s causing these symptoms.
+
+[patient] Okay.
+
+[doctor] In the meantime, we’ll start you on IV fluids. You’ll receive 1000 ml of 0.9% Normal Saline over the next hour.
+
+[patient] Will that help?
+
+[doctor] Yes, it should help improve your blood pressure and hydration.
+
+[patient] Okay, doctor.
+
+[doctor] I’ll also refer you to a nephrologist, Dr. Robert Anders, for further evaluation of possible renal shock due to your underlying kidney disease.
+
+[patient] Will I need more tests?
+
+[doctor] Yes, we’ll continue monitoring your vital signs and reassessing you frequently. If necessary, we may need to transfer you to a tertiary care center for more specialized care.
+
+[patient] I understand.
+
+[doctor] Please continue taking your current medications, Amlodipine and Atorvastatin. Also, maintain your low-protein diet as recommended.
+
+[patient] I will.
+
+[doctor] Given that there’s a language barrier, we’ll ensure we have a Tagalog-speaking interpreter available to assist you.
+
+[patient] Thank you, that would help a lot.
+
+[doctor] Do you have any questions for me right now?
+
+[patient] No, I think I understand everything.
+
+[doctor] Excellent. We’ll keep a close eye on you and adjust your treatment as needed. Let’s see how you respond to the fluids and the medications.
+
+[patient] Thank you, doctor.
+
+[doctor] You’re welcome. We’re here to help you get better."
+SHOCK, UNSPECIFIED|"ROLE: Emergency Medicine Physician
+
+**Scenario:**
+
+**1) Medical Outcome:**
+- Diagnosis: Shock, unspecified
+- Immediate Treatment: Initiate IV fluids, 2 liters of normal saline bolus
+- Medication: Administer norepinephrine, initial dose 0.05 mcg/kg/min, intravenous, titrate up to maintain mean arterial pressure (MAP) > 65 mmHg
+- Further Tests: 
+  - Blood work: Complete Blood Count (CBC), Basic Metabolic Panel (BMP), Lactate level, Blood cultures 
+  - Imaging: Chest X-ray to evaluate for possible underlying cause (e.g., pulmonary source of infection)
+- Referral: Refer to Intensive Care Unit (ICU) for continuous monitoring and advanced care
+- Follow-up: Intensive Care Team led by Dr. Emily Carter for further management and evaluation.
+
+**2) Medical History:**
+- Previous Diagnoses: Hypertension, Type 2 Diabetes Mellitus, Hyperlipidemia
+- Medication History: Metformin 1000 mg BID, Lisinopril 10 mg daily, Atorvastatin 20 mg daily
+- Allergies: No known drug allergies
+- Chronic Conditions: Hypertension, Type 2 Diabetes Mellitus
+
+**3) Symptom Description:**
+- Severity: Severe
+- Duration: Presented 1 hour ago
+- Associated Symptoms: Altered mental status, cold and clammy skin, hypotension (BP 80/40 mmHg), tachycardia (HR 120 bpm)
+- Frequency: Acute episode
+- Impact on Daily Activities: Unable to engage in daily activities, bedridden due to severity of symptoms
+
+**4) Patient’s Self-reported Habits and Lifestyle:**
+- Sleep: Reports poor sleep quality, approximately 4-5 hours per night
+- Diet: High carbohydrate intake, inconsistent meal patterns
+- Exercise: Sedentary lifestyle, no regular exercise
+- Tobacco Use: Smokes 1 pack per day for the past 20 years
+- Alcohol Consumption: Occasional, approximately 2-3 drinks per week
+- Drug Use: Denies illicit drug use
+- Recreational Activities: Watches TV predominantly, minimal physical activity
+
+**5) Demographic Information:**
+- Age: 65
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle-class
+- Education Level: High school diploma
+- Health Literacy: Limited understanding of medical jargon
+- Job Status: Retired
+
+**6) Patient's Behavior:**
+- Cooperation: Initially appeared confused and uncooperative due to altered mental status, improved after initial stabilizing measures
+
+**7) Geographical Location:**
+- Big City vs Small City: Big City
+- Rural vs Urban: Urban
+- Pollution and Environmental Health Risks: Moderate urban pollution
+- Neighborhood Type: Middle-income, not a food desert, well-served by transit
+
+**8) Clinical Setting:**
+- Hospitals: Evaluated in the Emergency Department of a major city hospital
+
+**9) Type of Encounter:**
+- Initial Consultation: Emergency visit for acute presentation of shock
+
+**10) Treatment Disparities:**
+- No apparent treatment disparities noted
+
+**11) Native or Non-Native English Speaking Patient:**
+- Native English speaker
+
+**12) Physical exams:**
+- General: Appears acutely ill, lethargic
+- Cardiovascular: Tachycardia, weak peripheral pulses, cold extremities
+- Respiratory: Tachypneic, breath sounds clear bilaterally
+- Abdomen: Soft, non-tender, no organomegaly
+- Neurologic: Altered mental status, oriented to person only
+
+**13) Investigation/Test results:**
+- Blood work: CBC, BMP, Lactate level, Blood cultures ordered, results pending
+- Imaging: Chest X-ray ordered and awaiting results"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe, sudden onset of symptoms including altered mental status, cold and clammy skin, hypotension, and tachycardia.
+
+**History of Present Illness (HPI):**
+Mr. John Doe is a 65-year-old male with a history of hypertension, Type 2 Diabetes Mellitus, and hyperlipidemia who presented to the Emergency Department one hour ago. The patient was found at home by his wife, who noted his altered mental status and lethargy. She reported rapid symptom onset with severe weakness, confusion, and inability to engage in daily activities. Mr. Doe has experienced poor sleep (4-5 hours per night), maintains a high-carbohydrate diet with inconsistent meal patterns, and leads a sedentary lifestyle. He smokes one pack of cigarettes a day and occasionally consumes alcohol. He denies illicit drug use.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports severe weakness and lethargy.
+- **Cardiovascular:** No chest pain; reports severe hypotension.
+- **Respiratory:** Tachypnea; denies shortness of breath.
+- **Gastrointestinal:** Denies abdominal pain, nausea, or vomiting.
+- **Neurological:** Reports confusion and altered mental status.
+- **Endocrine:** Denies polyuria or polydipsia.
+- **Musculoskeletal:** Weakness; no specific joint or muscle pain.
+- **Skin:** Cold and clammy.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 80/40 mmHg
+- Heart Rate: 120 bpm
+- Respiratory Rate: 24 breaths per minute
+- Temperature: 36.5°C
+- Oxygen Saturation: 98% on room air
+
+**Physical Exam:**
+- **General:** Appears acutely ill, lethargic
+- **Cardiovascular:** Tachycardia, weak peripheral pulses, cold extremities
+- **Respiratory:** Tachypneic, breath sounds clear bilaterally
+- **Abdomen:** Soft, non-tender, no organomegaly
+- **Neurologic:** Altered mental status, oriented to person only
+- **Skin:** Cold and clammy
+
+**Investigations:** 
+- Blood work: CBC, BMP, Lactate level, Blood cultures ordered; results pending
+- Imaging: Chest X-ray ordered; awaiting results
+
+**3. Assessment:**
+The patient is diagnosed with unspecified shock, likely secondary to a yet unidentified cause. Differential diagnosis includes septic shock, cardiogenic shock, and hypovolemic shock.
+
+**4. Plan:**
+
+**Immediate Treatment:**
+- Initiate IV fluids, 2 liters of normal saline bolus.
+- Administer norepinephrine, initial dose 0.05 mcg/kg/min, intravenous, titrate to maintain mean arterial pressure (MAP) > 65 mmHg.
+
+**Further Tests and Monitoring:**
+- Continuous cardiac monitoring and frequent blood pressure checks.
+- Blood work (CBC, BMP, Lactate level, Blood cultures).
+- Chest X-ray to evaluate for possible pulmonary source of infection.
+
+**Referral:**
+- Refer to the Intensive Care Unit (ICU) for continuous monitoring and advanced care led by Dr. Emily Carter.
+
+**Follow-up:**
+- Intensive Care Team to follow up for further management and evaluation.
+- Reassess patient’s response to initial interventions and adjust treatment as necessary.
+
+**Instructions for Nursing:**
+- Monitor vital signs every 15 minutes until stable.
+- Ensure norepinephrine infusion is titrated appropriately.
+- Prepare the patient for ICU transfer urgently.
+
+**Patient and Family Education:**
+- Explained the critical nature of the patient’s condition to his wife.
+- Discussed the importance of close monitoring and intensive care management.
+  
+Mr. John Doe will be transferred to the ICU once stabilized in the Emergency Department."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe, sudden onset of symptoms including altered mental status, cold and clammy skin, hypotension, and tachycardia.
+
+**History of Present Illness (HPI):**
+Mr. John Doe is a 65-year-old male with a history of hypertension, Type 2 Diabetes Mellitus, and hyperlipidemia who presented to the Emergency Department one hour ago. The patient was found at home by his wife, who noted his altered mental status and lethargy. She reported rapid symptom onset with severe weakness, confusion, and inability to engage in daily activities. Mr. Doe has experienced poor sleep (4-5 hours per night), maintains a high-carbohydrate diet with inconsistent meal patterns, and leads a sedentary lifestyle. He smokes one pack of cigarettes a day and occasionally consumes alcohol. He denies illicit drug use.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports severe weakness and lethargy.
+- **Cardiovascular:** No chest pain; reports severe hypotension.
+- **Respiratory:** Tachypnea; denies shortness of breath.
+- **Gastrointestinal:** Denies abdominal pain, nausea, or vomiting.
+- **Neurological:** Reports confusion and altered mental status.
+- **Endocrine:** Denies polyuria or polydipsia.
+- **Musculoskeletal:** Weakness; no specific joint or muscle pain.
+- **Skin:** Cold and clammy.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 80/40 mmHg
+- Heart Rate: 120 bpm
+- Respiratory Rate: 24 breaths per minute
+- Temperature: 36.5°C
+- Oxygen Saturation: 98% on room air
+
+**Physical Exam:**
+- **General:** Appears acutely ill, lethargic
+- **Cardiovascular:** Tachycardia, weak peripheral pulses, cold extremities
+- **Respiratory:** Tachypneic, breath sounds clear bilaterally
+- **Abdomen:** Soft, non-tender, no organomegaly
+- **Neurologic:** Altered mental status, oriented to person only
+- **Skin:** Cold and clammy
+
+**Investigations:** 
+- Blood work: CBC, BMP, Lactate level, Blood cultures ordered; results pending
+- Imaging: Chest X-ray ordered; awaiting results
+
+**3. Assessment:**
+The patient is diagnosed with unspecified shock, likely secondary to a yet unidentified cause. Differential diagnosis includes septic shock, cardiogenic shock, and hypovolemic shock.
+
+**4. Plan:**
+
+**Immediate Treatment:**
+- Initiate IV fluids, 2 liters of normal saline bolus.
+- Administer norepinephrine, initial dose 0.05 mcg/kg/min, intravenous, titrate to maintain mean arterial pressure (MAP) > 65 mmHg.
+
+**Further Tests and Monitoring:**
+- Continuous cardiac monitoring and frequent blood pressure checks.
+- Blood work (CBC, BMP, Lactate level, Blood cultures).
+- Chest X-ray to evaluate for possible pulmonary source of infection.
+
+**Referral:**
+- Refer to the Intensive Care Unit (ICU) for continuous monitoring and advanced care led by Dr. Emily Carter.
+
+**Follow-up:**
+- Intensive Care Team to follow up for further management and evaluation.
+- Reassess patient’s response to initial interventions and adjust treatment as necessary.
+
+**Instructions for Nursing:**
+- Monitor vital signs every 15 minutes until stable.
+- Ensure norepinephrine infusion is titrated appropriately.
+- Prepare the patient for ICU transfer urgently.
+
+**Patient and Family Education:**
+- Explained the critical nature of the patient’s condition to his wife.
+- Discussed the importance of close monitoring and intensive care management.
+  
+Mr. John Doe will be transferred to the ICU once stabilized in the Emergency Department."|"**1. Subjective:**
+
+**CC:**
+Severe, sudden onset of sx including AMS, cold and clammy skin, hypotension, and tachycardia.
+
+**HPI:**
+Mr. John Doe is a 65 y/o M with a hx of HTN, T2DM, and HLD who presented to the ED 1 hour ago. The pt was found at home by his wife, who noted his AMS and lethargy. She reported rapid sx onset with severe weakness, confusion, and inability to engage in ADLs. Mr. Doe has experienced poor sleep (4-5 hrs/night), maintains a high-carb diet with inconsistent meal patterns, and leads a sedentary lifestyle. He smokes 1 PPD and occasionally consumes ETOH. He denies illicit drug use.
+
+**ROS:**
+- **Constitutional:** Reports severe weakness and lethargy.
+- **CV:** No CP; reports severe hypotension.
+- **Resp:** Tachypnea; denies SOB.
+- **GI:** Denies abd pain, N/V.
+- **Neuro:** Reports confusion and AMS.
+- **Endo:** Denies polyuria or polydipsia.
+- **MSK:** Weakness; no specific joint or muscle pain.
+- **Skin:** Cold and clammy.
+
+**2. Objective:**
+
+**VS:**
+- BP: 80/40 mmHg
+- HR: 120 bpm
+- RR: 24 bpm
+- Temp: 36.5°C
+- O2 Sat: 98% on RA
+
+**PE:**
+- **General:** Appears acutely ill, lethargic
+- **CV:** Tachycardia, weak peripheral pulses, cold extremities
+- **Resp:** Tachypneic, breath sounds clear bilaterally
+- **Abd:** Soft, non-tender, no organomegaly
+- **Neuro:** AMS, oriented to person only
+- **Skin:** Cold and clammy
+
+**Investigations:** 
+- Blood work: CBC, BMP, Lactate level, Blood cx ordered; results pending
+- Imaging: CXR ordered; awaiting results
+
+**3. Assessment:**
+The pt is dx with unspecified shock, likely secondary to a yet unidentified cause. Differential dx includes septic shock, cardiogenic shock, and hypovolemic shock.
+
+**4. Plan:**
+
+**Immediate Tx:**
+- Initiate IV fluids, 2L NS bolus.
+- Admin norepinephrine, initial dose 0.05 mcg/kg/min IV, titrate to maintain MAP > 65 mmHg.
+
+**Further Tests and Monitoring:**
+- Continuous cardiac monitoring and frequent BP checks.
+- Blood work (CBC, BMP, Lactate level, Blood cx).
+- CXR to evaluate for possible pulmonary source of infection.
+
+**Referral:**
+- Refer to ICU for continuous monitoring and advanced care led by Dr. Emily Carter.
+
+**Follow-up:**
+- ICU team to follow up for further mgmt and evaluation.
+- Reassess pt’s response to initial interventions and adjust tx as necessary.
+
+**Instructions for Nursing:**
+- Monitor VS q15min until stable.
+- Ensure norepinephrine infusion is titrated appropriately.
+- Prepare the pt for ICU transfer urgently.
+
+**Pt and Family Education:**
+- Explained the critical nature of the pt’s condition to his wife.
+- Discussed the importance of close monitoring and intensive care mgmt.
+  
+Mr. John Doe will be transferred to the ICU once stabilized in the ED."|Emergency Medicine Physician|"**Doctor:** Okay, let's start recording. Hello, Mr. Doe. I'm Dr. Smith. How are you feeling today?
+
+**Patient:** I don't feel well at all, doctor. I feel very weak and confused.
+
+**Doctor:** I understand. I'm sorry you're feeling this way. Can you tell me when these symptoms started?
+
+**Patient:** It started very suddenly, about an hour ago. I just felt extremely weak and confused.
+
+**Doctor:** Okay, and was there anything that seemed to trigger these symptoms?
+
+**Patient:** No, it just came out of nowhere. One moment I was fine, and the next, I wasn't.
+
+**Doctor:** I see. Your wife mentioned that you were found at home in this condition. Is that correct?
+
+**Patient:** Yes, I was at home. My wife found me.
+
+**Doctor:** Alright. Have you experienced any similar episodes in the past?
+
+**Patient:** No, this is the first time something like this has happened.
+
+**Doctor:** Okay. Let's go over your medical history. I see you have hypertension, Type 2 Diabetes Mellitus, and hyperlipidemia. Is that correct?
+
+**Patient:** Yes, that's right.
+
+**Doctor:** Are you taking any medications for these conditions?
+
+**Patient:** Yes, I take medication for my blood pressure, diabetes, and cholesterol.
+
+**Doctor:** Do you remember the names of these medications?
+
+**Patient:** I think it's Lisinopril for my blood pressure, Metformin for diabetes, and Atorvastatin for cholesterol.
+
+**Doctor:** Great, thank you. Have you been taking your medications as prescribed?
+
+**Patient:** Yes, I take them every day.
+
+**Doctor:** Have you had any issues with your medications, like side effects or missed doses?
+
+**Patient:** No, I've been taking them regularly without any problems.
+
+**Doctor:** Good to know. How has your sleep been recently?
+
+**Patient:** Not great. I only get about 4-5 hours of sleep a night.
+
+**Doctor:** That can definitely affect how you're feeling. What about your diet? Can you describe it for me?
+
+**Patient:** I usually eat a lot of carbs, and my meals are pretty inconsistent. Sometimes I skip meals altogether.
+
+**Doctor:** I understand. And how active are you on a daily basis?
+
+**Patient:** Not very active. I lead a pretty sedentary lifestyle.
+
+**Doctor:** Do you smoke or consume alcohol?
+
+**Patient:** I smoke about a pack of cigarettes a day and drink occasionally.
+
+**Doctor:** Do you use any illicit drugs?
+
+**Patient:** No, I don't use any drugs.
+
+**Doctor:** Thank you for sharing that. Let's go over some specific symptoms. Have you noticed any weakness or lethargy?
+
+**Patient:** Yes, I feel extremely weak and lethargic.
+
+**Doctor:** Have you experienced any chest pain?
+
+**Patient:** No, no chest pain.
+
+**Doctor:** How about shortness of breath?
+
+**Patient:** No, I haven't had any shortness of breath.
+
+**Doctor:** Any abdominal pain, nausea, or vomiting?
+
+**Patient:** No, none of that.
+
+**Doctor:** Have you noticed any changes in your urination, like increased frequency or thirst?
+
+**Patient:** No, nothing unusual.
+
+**Doctor:** What about any joint or muscle pain?
+
+**Patient:** No, no specific pain in my joints or muscles.
+
+**Doctor:** Have you noticed your skin feeling cold or clammy?
+
+**Patient:** Yes, my skin feels cold and clammy.
+
+**Doctor:** Thank you for that information. Let's take a look at your vital signs. Your blood pressure is 80/40 mmHg, heart rate is 120 beats per minute, respiratory rate is 24 breaths per minute, temperature is 36.5°C, and oxygen saturation is 98% on room air.
+
+**Patient:** Okay.
+
+**Doctor:** I'm going to perform a physical exam now. I'll let you know what I'm finding as I go along.
+
+**Patient:** Alright.
+
+**Doctor:** You appear acutely ill and lethargic. Your heart rate is fast, and your peripheral pulses are weak. Your extremities feel cold. You're breathing quickly, but your breath sounds are clear. Your abdomen is soft and non-tender, and there's no organomegaly. Neurologically, you're oriented to person only. Your skin is cold and clammy.
+
+**Patient:** Okay.
+
+**Doctor:** We're going to run some tests to get more information. We'll do some blood work, including a complete blood count, basic metabolic panel, lactate level, and blood cultures. We'll also get a chest X-ray.
+
+**Patient:** Okay.
+
+**Doctor:** Based on what I'm seeing, you might be in shock, but we need to identify the cause. It could be septic shock, cardiogenic shock, or hypovolemic shock. We'll start by giving you IV fluids and some medication to help support your blood pressure.
+
+**Patient:** Alright.
+
+**Doctor:** We'll start with 2 liters of normal saline as a bolus. We'll also give you norepinephrine to help maintain your blood pressure. We'll monitor your heart continuously and check your blood pressure frequently.
+
+**Patient:** Okay.
+
+**Doctor:** We're going to transfer you to the Intensive Care Unit for close monitoring and advanced care. Dr. Emily Carter will be leading your care in the ICU.
+
+**Patient:** Alright.
+
+**Doctor:** The nursing team will monitor your vital signs every 15 minutes until you're stable. If you have any questions or concerns, please let us know.
+
+**Patient:** Thank you, doctor.
+
+**Doctor:** You're welcome. We'll do everything we can to help you feel better. We're going to explain everything to your wife as well.
+
+**Patient:** Okay, I appreciate that.
+
+**Doctor:** Mrs. Doe, your husband is in a critical condition, and we need to monitor him closely in the ICU. We're doing everything we can to stabilize him and find out what's causing these symptoms.
+
+**Wife:** Thank you, doctor. Please take good care of him.
+
+**Doctor:** We will. If you have any questions, please don't hesitate to ask. We’ll keep you updated on his condition regularly.
+
+**Wife:** I appreciate that. Thank you.
+
+**Doctor:** You're welcome. Let's get Mr. Doe stabilized and transferred to the ICU. We'll reassess his condition and adjust the treatment as needed. 
+
+**Patient:** Thank you, doctor.
+
+**Doctor:** You're welcome. Hang in there, Mr. Doe. We’re here for you.
+
+**Patient:** Okay, I will.
+
+**Doctor:** We'll be right here if you need anything. Let's move quickly to get you the care you need. "|"[doctor]: Okay, let's start recording. Hello, Mr. Doe. I'm Dr. Smith. How are you feeling today?
+
+[patient]: I don't feel well at all, doctor. I feel very weak and confused.
+
+[doctor]: Hmm, I understand. I'm sorry you're feeling this way. Can you tell me when these symptoms started?
+
+[patient]: It started very suddenly, about an hour ago. I just felt extremely weak and confused.
+
+[doctor]: Okay, and was there anything that seemed to trigger these symptoms?
+
+[patient]: No, it just came out of nowhere. One moment I was fine, and the next, I wasn't.
+
+[doctor]: I see. Your wife mentioned that you were found at home in this condition. Is that correct?
+
+[patient]: Yes, I was at home. My wife found me.
+
+[doctor]: Alright. Have you experienced any similar episodes in the past?
+
+[patient]: No, this is the first time something like this has happened.
+
+[doctor]: Okay. Let's go over your medical history. I see you have hypertension, Type 2 Diabetes Mellitus, and hyperlipidemia. Is that correct?
+
+[patient]: Yes, that's right.
+
+[doctor]: Are you taking any medications for these conditions?
+
+[patient]: Yes, I take medication for my blood pressure, diabetes, and cholesterol.
+
+[doctor]: Do you remember the names of these medications?
+
+[patient]: I think it's Lisinopril for my blood pressure, Metformin for diabetes, and Atorvastatin for cholesterol.
+
+[doctor]: Great, thank you. Have you been taking your medications as prescribed?
+
+[patient]: Yes, I take them every day.
+
+[doctor]: Have you had any issues with your medications, like side effects or missed doses?
+
+[patient]: No, I've been taking them regularly without any problems.
+
+[doctor]: Good to know. How has your sleep been recently?
+
+[patient]: Not great. I only get about 4-5 hours of sleep a night.
+
+[doctor]: Hmm, that can definitely affect how you're feeling. What about your diet? Can you describe it for me?
+
+[patient]: I usually eat a lot of carbs, and my meals are pretty inconsistent. Sometimes I skip meals altogether.
+
+[doctor]: I understand. And how active are you on a daily basis?
+
+[patient]: Not very active. I lead a pretty sedentary lifestyle.
+
+[doctor]: Do you smoke or consume alcohol?
+
+[patient]: I smoke about a pack of cigarettes a day and drink occasionally.
+
+[doctor]: Do you use any illicit drugs?
+
+[patient]: No, I don't use any drugs.
+
+[doctor]: Thank you for sharing that. Let's go over some specific symptoms. Have you noticed any weakness or lethargy?
+
+[patient]: Yes, I feel extremely weak and lethargic.
+
+[doctor]: Have you experienced any chest pain?
+
+[patient]: No, no chest pain.
+
+[doctor]: How about shortness of breath?
+
+[patient]: No, I haven't had any shortness of breath.
+
+[doctor]: Any abdominal pain, nausea, or vomiting?
+
+[patient]: No, none of that.
+
+[doctor]: Have you noticed any changes in your urination, like increased frequency or thirst?
+
+[patient]: No, nothing unusual.
+
+[doctor]: What about any joint or muscle pain?
+
+[patient]: No, no specific pain in my joints or muscles.
+
+[doctor]: Have you noticed your skin feeling cold or clammy?
+
+[patient]: Yes, my skin feels cold and clammy.
+
+[doctor]: Thank you for that information. Let's take a look at your vital signs. Your blood pressure is 80/40 mmHg, heart rate is 120 beats per minute, respiratory rate is 24 breaths per minute, temperature is 36.5°C, and oxygen saturation is 98% on room air.
+
+[patient]: Okay.
+
+[doctor]: I'm going to perform a physical exam now. I'll let you know what I'm finding as I go along.
+
+[patient]: Alright.
+
+[doctor]: You appear acutely ill and lethargic. Your heart rate is fast, and your peripheral pulses are weak. Your extremities feel cold. You're breathing quickly, but your breath sounds are clear. Your abdomen is soft and non-tender, and there's no organomegaly. Neurologically, you're oriented to person only. Your skin is cold and clammy.
+
+[patient]: Okay.
+
+[doctor]: We're going to run some tests to get more information. We'll do some blood work, including a complete blood count, basic metabolic panel, lactate level, and blood cultures. We'll also get a chest X-ray.
+
+[patient]: Okay.
+
+[doctor]: Based on what I'm seeing, you might be in shock, but we need to identify the cause. It could be septic shock, cardiogenic shock, or hypovolemic shock. We'll start by giving you IV fluids and some medication to help support your blood pressure.
+
+[patient]: Alright.
+
+[doctor]: We'll start with 2 liters of normal saline as a bolus. We'll also give you norepinephrine to help maintain your blood pressure. We'll monitor your heart continuously and check your blood pressure frequently.
+
+[patient]: Okay.
+
+[doctor]: We're going to transfer you to the Intensive Care Unit for close monitoring and advanced care. Dr. Emily Carter will be leading your care in the ICU.
+
+[patient]: Alright.
+
+[doctor]: The nursing team will monitor your vital signs every 15 minutes until you're stable. If you have any questions or concerns, please let us know.
+
+[patient]: Thank you, doctor.
+
+[doctor]: You're welcome. We'll do everything we can to help you feel better. We're going to explain everything to your wife as well.
+
+[patient]: Okay, I appreciate that.
+
+[doctor]: Mrs. Doe, your husband is in a critical condition, and we need to monitor him closely in the ICU. We're doing everything we can to stabilize him and find out what's causing these symptoms.
+
+[wife]: Thank you, doctor. Please take good care of him.
+
+[doctor]: We will. If you have any questions, please don't hesitate to ask. We’ll keep you updated on his condition regularly.
+
+[wife]: I appreciate that. Thank you.
+
+[doctor]: You're welcome. Let's get Mr. Doe stabilized and transferred to the ICU. We'll reassess his condition and adjust the treatment as needed. 
+
+[patient]: Thank you, doctor.
+
+[doctor]: You're welcome. Hang in there, Mr. Doe. We’re here for you.
+
+[patient]: Okay, I will.
+
+[doctor]: We'll be right here if you need anything. Let's move quickly to get you the care you need."
+SHOCK, UNSPECIFIED|"ROLE: General Physician
+
+1) Medical Outcome:
+- Diagnosis: Shock, unspecified (ICD-10)
+- Treatment: Immediate IV fluids (Ringer's lactate, 500ml bolus), initiate norepinephrine drip if hypotension persists after fluids
+- Referral: Transfer to ICU for continuous monitoring and advanced management
+- Imaging: Order for an Echocardiogram (to assess cardiac function), CT Abdomen (to rule out intra-abdominal causes)
+- Blood Work: CBC, CMP, lactate, blood cultures, coagulation profile, cardiac enzymes (troponins, CK-MB), thyroid function tests
+
+2) Medical History:
+- Previous Diagnoses: Chronic Kidney Disease, Osteoarthritis
+- Family Medical History: Brother with pancreatic cancer, father with coronary artery disease
+- Medication History: Losartan 50 mg daily, Acetaminophen 500 mg PRN for pain
+- Allergies: Sulfa drugs
+- Chronic Conditions: Chronic Kidney Disease, Osteoarthritis
+
+3) Symptom Description:
+- Severity: Very severe
+- Duration: Sudden onset, lasted for 1 hour
+- Associated Symptoms: Profound weakness, clammy skin, fainting, palpitations
+- Frequency: First episode
+- Impact on Daily Activities: Complete inability to perform any activities, required assistance to reach clinic
+
+4) Patient’s self-reported habits and lifestyle:
+- Sleep: Generally sleeps well, 7-8 hours per night
+- Diet: Predominantly plant-based diet, low sodium due to kidney disease
+- Exercise: Gentle yoga and stretching exercises due to osteoarthritis
+- Tobacco Use: Never smoked
+- Alcohol Consumption: Rare, once every few months
+- Drug Use: Denies
+- Recreational Activities: Enjoys knitting and volunteering at the neighborhood library
+
+5) Demographic Information:
+- Age: 72
+- Gender: Female
+- Ethnicity: Hispanic
+- Socio-economic Status: Low-income, supported by social security and part-time job at a local store
+- Education Level: Some college education
+- Health Literacy: High, due to volunteering at the library
+- Job Status: Part-time
+
+6) Patient's Behavior:
+- Level of patient's cooperation with medical advice: Highly compliant, adheres to all medication schedules and advises
+
+7) Geographical Location:
+- Big City vs Small City: Rural area
+- Rural vs Urban: Rural
+- Pollution and Environmental Health Risks: Low pollution levels, some exposure to pesticides from nearby farms
+- Neighborhood Type: Impoverished, food desert, limited access to fresh produce
+
+8) Clinical Setting:
+- Location: Community Health Center
+
+9) Type of Encounter:
+- Type: First time visit
+
+10) Treatment Disparities: Potential delay in aggressive treatment due to insurance coverage limitations
+
+11) Native or Non-Native English Speaking Patient: Native English Speaking
+
+12) Physical exams:
+- General: Pale, diaphoretic, appears acutely distressed
+- Vital signs: Hypotensive (BP 75/45 mmHg), Tachycardic (HR 130 bpm), RR 28/min, SpO2 90% on room air
+- Cardiovascular: Tachycardia, weak peripheral pulses, no jugular venous distension
+- Respiratory: Tachypneic, clear breath sounds
+- Abdomen: Soft, non-tender, non-distended
+- Neurological: Alert but lethargic, responsive to questions
+
+13) Investigation/Test results:
+- Awaiting: CBC, CMP, lactate, blood cultures, coagulation profile, cardiac enzymes (troponins, CK-MB), thyroid function tests
+- Imaging: Awaiting Echocardiogram and CT Abdomen
+"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Profound weakness, clammy skin, fainting, and palpitations.
+
+**History of Present Illness (HPI):**
+Ms. Lopez is a 72 y.o. Hispanic female presenting with a sudden onset of profound weakness, clammy skin, fainting, and palpitations lasting for 1 hour. She reports it as the first episode of such symptoms. Symptoms were severe enough to render her completely immobile, requiring assistance to reach the clinic. 
+
+**Review of Systems (ROS):**
+- **Constitutional:** Positive for profound weakness and fainting.
+- **Cardiovascular:** Positive for palpitations.
+- **Respiratory:** Denies shortness of breath or chest pain.
+- **Gastrointestinal:** Denies nausea or vomiting.
+- **Neurological:** Positive for weakness and lethargy, denies headache or dizziness.
+
+**2. Objective:**
+
+**General:**
+- Pale, diaphoretic, appears acutely distressed.
+
+**Vital Signs:**
+- BP: 75/45 mmHg (hypotensive)
+- HR: 130 bpm (tachycardic)
+- RR: 28/min (tachypneic)
+- SpO2: 90% on room air
+
+**Cardiovascular:**
+- Tachycardia, weak peripheral pulses, no jugular venous distension.
+
+**Respiratory:**
+- Tachypneic, clear breath sounds.
+
+**Abdomen:**
+- Soft, non-tender, non-distended.
+
+**Neurological:**
+- Alert but lethargic, responsive to questions.
+
+**3. Assessment:**
+
+**Diagnosis:**
+Shock, unspecified (ICD-10: R57.9)
+
+**Differential Diagnosis:**
+1. Hypovolemic shock
+2. Cardiogenic shock
+3. Septic shock
+4. Anaphylactic shock
+5. Endocrine shock (e.g., adrenal crisis)
+
+**4. Plan:**
+
+**Immediate Interventions:**
+1. Administer immediate IV fluids: Ringer's lactate, 500ml bolus.
+2. Initiate norepinephrine drip if hypotension persists after fluids.
+
+**Investigations:**
+1. Echocardiogram: To assess cardiac function.
+2. CT Abdomen: To rule out intra-abdominal causes of shock.
+3. Blood Work: CBC, CMP, lactate, blood cultures, coagulation profile, cardiac enzymes (troponins, CK-MB), thyroid function tests.
+
+**Referral:**
+Transfer to ICU for continuous monitoring and advanced management.
+
+**Follow-Up:**
+- Reassess patient’s vitals and response to initial treatment every 15 minutes.
+- Await and review lab and imaging results to refine diagnosis and treatment plan.
+
+**Patient Education:**
+Discuss the potential severity of the condition and the importance of ICU care for continuous monitoring.
+
+**Medications:**
+1. Continue Losartan 50 mg daily.
+2. Acetaminophen 500 mg PRN for pain.
+
+**Lifestyle Recommendations:**
+- Continue predominantly plant-based diet, ensure adequate hydration.
+- Gentle yoga and stretching exercises as tolerated.
+
+**Monitoring:**
+- Continuous cardiac and respiratory monitoring in ICU.
+  
+**Social and Environmental Considerations:**
+- Address potential treatment delays due to insurance coverage limitations.
+- Notify social worker for potential assistance programs related to her socio-economic status.
+  
+**Next Steps:**
+Update family members regarding the patient's condition and prognosis."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Profound weakness, clammy skin, fainting, and palpitations.
+
+**History of Present Illness (HPI):**
+Ms. Lopez is a 72 y.o. Hispanic female presenting with a sudden onset of profound weakness, clammy skin, fainting, and palpitations lasting for 1 hour. She reports it as the first episode of such symptoms. Symptoms were severe enough to render her completely immobile, requiring assistance to reach the clinic. 
+
+**Review of Systems (ROS):**
+- **Constitutional:** Positive for profound weakness and fainting.
+- **Cardiovascular:** Positive for palpitations.
+- **Respiratory:** Denies shortness of breath or chest pain.
+- **Gastrointestinal:** Denies nausea or vomiting.
+- **Neurological:** Positive for weakness and lethargy, denies headache or dizziness.
+
+**2. Objective:**
+
+**General:**
+- Pale, diaphoretic, appears acutely distressed.
+
+**Vital Signs:**
+- BP: 75/45 mmHg (hypotensive)
+- HR: 130 bpm (tachycardic)
+- RR: 28/min (tachypneic)
+- SpO2: 90% on room air
+
+**Cardiovascular:**
+- Tachycardia, weak peripheral pulses, no jugular venous distension.
+
+**Respiratory:**
+- Tachypneic, clear breath sounds.
+
+**Abdomen:**
+- Soft, non-tender, non-distended.
+
+**Neurological:**
+- Alert but lethargic, responsive to questions.
+
+**3. Assessment:**
+
+**Diagnosis:**
+Shock, unspecified (ICD-10: R57.9)
+
+**Differential Diagnosis:**
+1. Hypovolemic shock
+2. Cardiogenic shock
+3. Septic shock
+4. Anaphylactic shock
+5. Endocrine shock (e.g., adrenal crisis)
+
+**4. Plan:**
+
+**Immediate Interventions:**
+1. Administer immediate IV fluids: Ringer's lactate, 500ml bolus.
+2. Initiate norepinephrine drip if hypotension persists after fluids.
+
+**Investigations:**
+1. Echocardiogram: To assess cardiac function.
+2. CT Abdomen: To rule out intra-abdominal causes of shock.
+3. Blood Work: CBC, CMP, lactate, blood cultures, coagulation profile, cardiac enzymes (troponins, CK-MB), thyroid function tests.
+
+**Referral:**
+Transfer to ICU for continuous monitoring and advanced management. 
+
+**Follow-Up:**
+- Reassess patient’s vitals and response to initial treatment every 15 minutes.
+- Await and review lab and imaging results to refine diagnosis and treatment plan.
+
+**Patient Education:**
+Discuss the potential severity of the condition and the importance of ICU care for continuous monitoring.
+
+**Medications:**
+1. Continue Losartan 50 mg daily.
+2. Acetaminophen 500 mg PRN for pain.
+
+**Lifestyle Recommendations:**
+- Continue predominantly plant-based diet, ensure adequate hydration.
+- Gentle yoga and stretching exercises as tolerated.
+
+**Monitoring:**
+- Continuous cardiac and respiratory monitoring in ICU.
+
+**Social and Environmental Considerations:**
+- Address potential treatment delays due to insurance coverage limitations.
+- Notify social worker for potential assistance programs related to her socio-economic status.
+
+**Next Steps:**
+Update family members regarding the patient's condition and prognosis."|"**1. Subjective:**
+
+**CC:**
+Profound weakness, clammy skin, syncope, and palpitations.
+
+**HPI:**
+Ms. Lopez is a 72 y.o. Hispanic F presenting with a sudden onset of profound weakness, clammy skin, syncope, and palpitations lasting for 1 hr. She reports it as the first episode of such sx. Sx were severe enough to render her completely immobile, requiring assistance to reach the clinic.
+
+**ROS:**
+- **Constitutional:** +profound weakness, +syncope.
+- **CV:** +palpitations.
+- **Resp:** -SOB, -CP.
+- **GI:** -N/V.
+- **Neuro:** +weakness, +lethargy, -HA, -dizziness.
+
+**2. Objective:**
+
+**General:**
+- Pale, diaphoretic, appears acutely distressed.
+
+**VS:**
+- BP: 75/45 mmHg (hypotensive)
+- HR: 130 bpm (tachy)
+- RR: 28/min (tachypneic)
+- SpO2: 90% on RA
+
+**CV:**
+- Tachy, weak peripheral pulses, no JVD.
+
+**Resp:**
+- Tachypneic, clear breath sounds.
+
+**Abd:**
+- Soft, NT, ND.
+
+**Neuro:**
+- Alert but lethargic, responsive to questions.
+
+**3. Assessment:**
+
+**Dx:**
+Shock, unspecified (ICD-10: R57.9)
+
+**DDx:**
+1. Hypovolemic shock
+2. Cardiogenic shock
+3. Septic shock
+4. Anaphylactic shock
+5. Endocrine shock (e.g., adrenal crisis)
+
+**4. Plan:**
+
+**Immediate Interventions:**
+1. Administer immediate IV fluids: Ringer's lactate, 500ml bolus.
+2. Initiate norepi drip if hypotension persists after fluids.
+
+**Investigations:**
+1. Echo: To assess cardiac function.
+2. CT Abd: To r/o intra-abdominal causes of shock.
+3. Blood Work: CBC, CMP, lactate, blood cultures, coag profile, cardiac enzymes (troponins, CK-MB), TFTs.
+
+**Referral:**
+Transfer to ICU for continuous monitoring and advanced mgmt.
+
+**Follow-Up:**
+- Reassess pt’s vitals and response to initial tx every 15 min.
+- Await and review lab and imaging results to refine dx and tx plan.
+
+**Patient Education:**
+Discuss the potential severity of the condition and the importance of ICU care for continuous monitoring.
+
+**Meds:**
+1. Continue Losartan 50 mg daily.
+2. Acetaminophen 500 mg PRN for pain.
+
+**Lifestyle Recommendations:**
+- Continue predominantly plant-based diet, ensure adequate hydration.
+- Gentle yoga and stretching exercises as tolerated.
+
+**Monitoring:**
+- Continuous cardiac and resp monitoring in ICU.
+
+**Social and Environmental Considerations:**
+- Address potential tx delays due to insurance coverage limitations.
+- Notify SW for potential assistance programs related to her socio-economic status.
+
+**Next Steps:**
+Update family members regarding the pt’s condition and prognosis."|General Physician|"**Doctor:** Good afternoon, Ms. Lopez. How are you feeling today?
+
+**Patient:** Not good, doctor. I feel very weak and faint.
+
+**Doctor:** I’m sorry to hear that. Can you tell me more about what happened?
+
+**Patient:** It started about an hour ago. I suddenly felt very weak and clammy. I fainted and had to be helped to get here.
+
+**Doctor:** Hmm, that sounds concerning. Is this the first time you've experienced these symptoms?
+
+**Patient:** Yes, it's never happened before.
+
+**Doctor:** Okay, let’s go over your symptoms in detail. You mentioned profound weakness and fainting. Did you notice any palpitations or a racing heart?
+
+**Patient:** Yes, my heart was beating very fast.
+
+**Doctor:** I see. Did you experience any shortness of breath or chest pain?
+
+**Patient:** No, I didn’t have any chest pain or trouble breathing.
+
+**Doctor:** How about nausea or vomiting?
+
+**Patient:** No, none of that.
+
+**Doctor:** Any headaches or dizziness?
+
+**Patient:** No headaches, but I felt very lethargic.
+
+**Doctor:** Thank you for sharing that. Now, let me take a look at your vital signs and perform a quick physical examination.
+
+**Doctor:** Your blood pressure is quite low at 75/45 mmHg, and your heart rate is high at 130 beats per minute. You’re also breathing a bit fast at 28 breaths per minute, and your oxygen level is 90%. You appear pale and sweaty. How are you feeling right now?
+
+**Patient:** I’m still feeling very weak and out of breath.
+
+**Doctor:** I understand. Your symptoms and vital signs suggest that you may be in a state of shock. We need to act quickly. I’m going to start by giving you some fluids through an IV to help raise your blood pressure.
+
+**Patient:** Okay, doctor.
+
+**Doctor:** Nurse, please administer 500ml of Ringer’s lactate as a bolus.
+
+**Nurse:** Yes, doctor.
+
+**Doctor:** Ms. Lopez, we’ll also need to run some tests to understand what’s causing this. We’re going to do an echocardiogram to check your heart, a CT scan of your abdomen, and some blood tests.
+
+**Patient:** Alright. How serious is this, doctor?
+
+**Doctor:** It can be quite serious, but we’re doing everything we can to stabilize you. We might need to transfer you to the Intensive Care Unit (ICU) for closer monitoring.
+
+**Patient:** Do whatever you need to, doctor.
+
+**Doctor:** We’ll also start you on a medication called norepinephrine if your blood pressure doesn’t improve with fluids. This will help maintain your blood pressure.
+
+**Patient:** Okay, I trust you.
+
+**Doctor:** Thank you, Ms. Lopez. While we wait for the tests, can you tell me if you have any medical conditions or medications that you’re currently taking?
+
+**Patient:** I take Losartan for my high blood pressure and sometimes acetaminophen for pain.
+
+**Doctor:** Got it. You said you’ve never had symptoms like this before. Have you been feeling well otherwise?
+
+**Patient:** Yes, I’ve been fine until today.
+
+**Doctor:** Alright. We’ll keep you on your Losartan and acetaminophen for now. Do you have any allergies that we should be aware of?
+
+**Patient:** No, I don’t have any known allergies.
+
+**Doctor:** Okay, that’s good to know. We’ll also make sure you’re staying hydrated and continue with your plant-based diet. Gentle yoga and stretching exercises are fine as long as you feel up to it.
+
+**Patient:** Thank you, doctor.
+
+**Doctor:** We’ll keep a close eye on your vitals and reassess you every 15 minutes. The nurse will also notify the ICU team for your transfer.
+
+**Patient:** What about my family? Can you let them know what’s happening?
+
+**Doctor:** Absolutely. We’ll update your family about your condition and the steps we’re taking. Do you have any concerns about insurance or other social needs?
+
+**Patient:** I’m worried about the cost. My insurance isn’t very good.
+
+**Doctor:** We’ll notify the social worker to discuss potential assistance programs. We’ll make sure you get the care you need.
+
+**Patient:** Thank you. I appreciate it.
+
+**Doctor:** You’re welcome, Ms. Lopez. We’re here to help you. We’ll review the test results as soon as they come in and refine your treatment plan. Do you have any other questions for me right now?
+
+**Patient:** No, I think that covers everything. Thank you, doctor.
+
+**Doctor:** Alright, we’ll take good care of you. Let’s get started with the fluids and tests. I’ll check on you shortly.
+
+**Patient:** Okay, doctor. Thank you.
+
+**Doctor:** Nurse, please proceed with the IV fluids and notify the ICU. We’ll also get the echocardiogram and CT scan started.
+
+**Nurse:** On it, doctor.
+
+**Doctor:** Ms. Lopez, I’ll be back soon to update you on your progress. If you need anything, just let the nurse know.
+
+**Patient:** Will do. Thank you again.
+
+**Doctor:** You’re welcome. Hang in there, Ms. Lopez. We’ll get to the bottom of this.
+
+---
+
+**Doctor:** Ms. Lopez, we’ve started your IV fluids, and we’re preparing for the echocardiogram and CT scan. How are you feeling now?
+
+**Patient:** Still weak, but maybe a little better.
+
+**Doctor:** That’s a good sign. We’ll keep monitoring you closely. The fluids should help improve your blood pressure. Do you have any pain or discomfort right now?
+
+**Patient:** No, just very tired.
+
+**Doctor:** Understood. Rest as much as you can. We’ll be here to check on you frequently.
+
+**Patient:** Thank you, doctor.
+
+**Doctor:** You’re welcome, Ms. Lopez. We’ll take good care of you. If anything changes or you feel worse, let us know immediately.
+
+**Patient:** I will. Thank you.
+
+**Doctor:** Alright, we’ll continue with the plan and keep you updated every step of the way."|"[doctor]: Good afternoon, Ms. Lopez. How are you feeling today?
+
+[patient]: Not good, doctor. I feel very weak and faint.
+
+[doctor]: I’m sorry to hear that. Can you tell me more about what happened?
+
+[patient]: It started about an hour ago. I suddenly felt very weak and clammy. I fainted and had to be helped to get here.
+
+[doctor]: Hmm, that sounds concerning. Is this the first time you've experienced these symptoms?
+
+[patient]: Yes, it's never happened before.
+
+[doctor]: Okay, let’s go over your symptoms in detail. You mentioned profound weakness and fainting. Did you notice any palpitations or a racing heart?
+
+[patient]: Yes, my heart was beating very fast.
+
+[doctor]: I see. Did you experience any shortness of breath or chest pain?
+
+[patient]: No, I didn’t have any chest pain or trouble breathing.
+
+[doctor]: How about nausea or vomiting?
+
+[patient]: No, none of that.
+
+[doctor]: Any headaches or dizziness?
+
+[patient]: No headaches, but I felt very lethargic.
+
+[doctor]: Thank you for sharing that. Now, let me take a look at your vital signs and perform a quick physical examination.
+
+[doctor]: Your blood pressure is quite low at 75/45 mmHg, and your heart rate is high at 130 beats per minute. You’re also breathing a bit fast at 28 breaths per minute, and your oxygen level is 90%. You appear pale and sweaty. How are you feeling right now?
+
+[patient]: I’m still feeling very weak and out of breath.
+
+[doctor]: I understand. Your symptoms and vital signs suggest that you may be in a state of shock. We need to act quickly. I’m going to start by giving you some fluids through an IV to help raise your blood pressure.
+
+[patient]: Okay, doctor.
+
+[doctor]: Nurse, please administer 500ml of Ringer’s lactate as a bolus.
+
+[nurse]: Yes, doctor.
+
+[doctor]: Ms. Lopez, we’ll also need to run some tests to understand what’s causing this. We’re going to do an echocardiogram to check your heart, a CT scan of your abdomen, and some blood tests.
+
+[patient]: Alright. How serious is this, doctor?
+
+[doctor]: It can be quite serious, but we’re doing everything we can to stabilize you. We might need to transfer you to the Intensive Care Unit (ICU) for closer monitoring.
+
+[patient]: Do whatever you need to, doctor.
+
+[doctor]: We’ll also start you on a medication called norepinephrine if your blood pressure doesn’t improve with fluids. This will help maintain your blood pressure.
+
+[patient]: Okay, I trust you.
+
+[doctor]: Thank you, Ms. Lopez. While we wait for the tests, can you tell me if you have any medical conditions or medications that you’re currently taking?
+
+[patient]: I take Losartan for my high blood pressure and sometimes acetaminophen for pain.
+
+[doctor]: Got it. You said you’ve never had symptoms like this before. Have you been feeling well otherwise?
+
+[patient]: Yes, I’ve been fine until today.
+
+[doctor]: Alright. We’ll keep you on your Losartan and acetaminophen for now. Do you have any allergies that we should be aware of?
+
+[patient]: No, I don’t have any known allergies.
+
+[doctor]: Okay, that’s good to know. We’ll also make sure you’re staying hydrated and continue with your plant-based diet. Gentle yoga and stretching exercises are fine as long as you feel up to it.
+
+[patient]: Thank you, doctor.
+
+[doctor]: We’ll keep a close eye on your vitals and reassess you every 15 minutes. The nurse will also notify the ICU team for your transfer.
+
+[patient]: What about my family? Can you let them know what’s happening?
+
+[doctor]: Absolutely. We’ll update your family about your condition and the steps we’re taking. Do you have any concerns about insurance or other social needs?
+
+[patient]: I’m worried about the cost. My insurance isn’t very good.
+
+[doctor]: We’ll notify the social worker to discuss potential assistance programs. We’ll make sure you get the care you need.
+
+[patient]: Thank you. I appreciate it.
+
+[doctor]: You’re welcome, Ms. Lopez. We’re here to help you. We’ll review the test results as soon as they come in and refine your treatment plan. Do you have any other questions for me right now?
+
+[patient]: No, I think that covers everything. Thank you, doctor.
+
+[doctor]: Alright, we’ll take good care of you. Let’s get started with the fluids and tests. I’ll check on you shortly.
+
+[patient]: Okay, doctor. Thank you.
+
+[doctor]: Nurse, please proceed with the IV fluids and notify the ICU. We’ll also get the echocardiogram and CT scan started.
+
+[nurse]: On it, doctor.
+
+[doctor]: Ms. Lopez, I’ll be back soon to update you on your progress. If you need anything, just let the nurse know.
+
+[patient]: Will do. Thank you again.
+
+[doctor]: You’re welcome. Hang in there, Ms. Lopez. We’ll get to the bottom of this.
+
+---
+
+[doctor]: Ms. Lopez, we’ve started your IV fluids, and we’re preparing for the echocardiogram and CT scan. How are you feeling now?
+
+[patient]: Still weak, but maybe a little better.
+
+[doctor]: That’s a good sign. We’ll keep monitoring you closely. The fluids should help improve your blood pressure. Do you have any pain or discomfort right now?
+
+[patient]: No, just very tired.
+
+[doctor]: Understood. Rest as much as you can. We’ll be here to check on you frequently.
+
+[patient]: Thank you, doctor.
+
+[doctor]: You’re welcome, Ms. Lopez. We’ll take good care of you. If anything changes or you feel worse, let us know immediately.
+
+[patient]: I will. Thank you.
+
+[doctor]: Alright, we’ll continue with the plan and keep you updated every step of the way."
+SHOCK, UNSPECIFIED|"ROLE: Emergency Medicine Physician
+
+** 1) Medical Outcome: ** 
+- Diagnosis: Shock, unspecified (ICD-10 Code R57.9)
+- Prescribed Treatment: Intravenous fluids, broad-spectrum antibiotics
+  - Medication: Ceftriaxone 1g IV every 12 hours
+- Follow-up recommendations: Monitor vital signs every 15 minutes, re-evaluate in 1 hour
+- Referral: Intensive Care Unit for continuous monitoring and management, Dr. Sarah Thompson
+
+** 2) Medical History: ** 
+- Previous Diagnoses: Hypertension, Type 2 Diabetes Mellitus
+- Family Medical History: Father had a history of myocardial infarction at age 60
+- Medication History: Metformin 500mg orally twice daily, Lisinopril 20mg orally once daily
+- Allergies: Penicillin
+
+** 3) Symptom Description: ** 
+- Severity: Severe
+- Duration: 2 hours
+- Associated Symptoms: Rapid heart rate, low blood pressure, cold and clammy skin, altered mental status
+- Frequency: N/A (acute presentation)
+- Impact on Daily Activities: Unable to perform any daily activities; very weak and disoriented
+
+** 4) Patient’s self-reported habits and lifestyle: **
+- Sleep: Reports poor sleep, often feels fatigued
+- Diet: High carbohydrate diet
+- Exercise: Sedentary lifestyle
+- Tobacco Use: Smokes 1 pack per day for 20 years
+- Alcohol Consumption: Drinks socially, about 2-3 drinks per week
+- Drug Use: Denies any recreational drug use
+- Recreational Activities: Likes fishing but rarely goes due to fatigue
+
+** 5) Demographic Information: ** 
+- Age: 65
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle class
+- Education Level: High school diploma
+- Health Literacy: Moderate understanding of his medical conditions
+- Job Status: Retired factory worker
+
+** 6) Patient's Behavior: ** 
+- Cooperates but appears confused and disoriented
+
+** 7) Geographical Location: ** 
+- Big City: Urban area, lives in an apartment
+- Pollution and Environmental Health Risks: Lives in an area with moderate air pollution, near busy roads
+
+** 8) Clinical Setting: ** 
+- Hospital Emergency Department
+
+** 9) Type of Encounter: ** 
+- Emergency Visit
+
+** 10) Treatment Disparities: ** 
+- None noted, patient presented to emergency care
+
+** 11) Native or Non-Native English Speaking Patient: ** 
+- Native English Speaking Patient
+
+** 12) Physical exams: ** 
+- Cardiovascular: Rapid and weak pulse, hypotensive (BP 80/50 mmHg)
+- Respiratory: Tachypnea, no wheezing or crackles on auscultation
+- Neurological: Altered mental status, GCS 13
+- Skin: Cold, clammy, cyanotic extremities
+
+** 13) Investigation/Test results: ** 
+- Blood Work: Ordered for complete blood count (CBC), blood cultures, lactate level, arterial blood gas (ABG)
+- Imaging: Chest X-ray ordered to rule out any thoracic causes for the shock (awaiting results)"|"#####
+**SUBJECTIVE**
+
+CHIEF COMPLAINT
+Severe weakness and altered mental status.
+
+HISTORY OF PRESENT ILLNESS
+The patient, a 65-year-old Caucasian male with a history of hypertension and type 2 diabetes mellitus, presented to the emergency department two hours ago. He reports severe weakness, dizziness, and confusion. He was found by his spouse in a disoriented state with cold and clammy skin. The patient experienced a rapid heart rate and low blood pressure. He denies chest pain, but he feels unable to perform any daily activities due to extreme weakness and disorientation.
+
+REVIEW OF SYSTEMS
+- Constitutional: Severe weakness, fatigue.
+- Cardiovascular: Rapid heart rate, hypotension.
+- Respiratory: Tachypnea, no respiratory distress.
+- Neurological: Confusion, altered mental status.
+- Skin: Cold, clammy, cyanotic extremities.
+
+**OBJECTIVE**
+
+VITAL SIGNS
+- Blood Pressure: 80/50 mmHg
+- Heart Rate: 110 bpm
+- Respiratory Rate: 24 breaths per minute
+- Pulse Oximetry: 94% on room air
+
+PHYSICAL EXAMINATION
+- Cardiovascular: Rapid and weak pulse.
+- Respiratory: Tachypnea, clear lung fields with no wheezing or crackles.
+- Neurological: Altered mental status, Glasgow Coma Scale (GCS) of 13.
+- Skin: Cold, clammy, cyanotic extremities.
+
+RESULTS
+- Blood Work: Complete blood count (CBC) pending, blood cultures drawn, elevated lactate level.
+- Arterial Blood Gas (ABG): Awaiting results.
+- Imaging: Chest X-ray ordered to rule out thoracic causes of the shock, results pending.
+
+**ASSESSMENT**
+- Shock, unspecified (ICD-10 Code R57.9)
+  
+  Given the patient's presentation of hypotension, tachycardia, altered mental status, and cyanotic extremities, the most likely diagnosis is shock of an undetermined cause. Differential diagnoses include septic shock, cardiogenic shock, and hypovolemic shock among others.
+
+**PLAN**
+1. **Immediate Management:**
+   - Initiate intravenous fluids with normal saline bolus to stabilize blood pressure.
+   - Administer broad-spectrum antibiotics: Ceftriaxone 1g IV every 12 hours to cover for potential sepsis.
+   
+2. **Monitoring:**
+   - Monitor vital signs every 15 minutes.
+   - Re-evaluate the patient’s clinical status in 1 hour.
+   
+3. **Referral:**
+   - Transfer to the Intensive Care Unit (ICU) for continuous monitoring and management.
+   - Consult Dr. Sarah Thompson for further specialist care.
+
+4. **Further Workup:**
+   - Await results of CBC, blood cultures, lactate level, and ABG to refine the diagnosis and guide further treatment.
+   
+5. **Patient and Family Education:** 
+   - Provide information to the patient's spouse regarding the critical nature of the condition.
+   - Discuss the potential need for intensive care and possible interventions.
+
+**Patient Agreements:**
+Patient is currently confused and unable to fully comprehend the medical plan. Spouse is informed and agrees with the recommended treatment and transfer to ICU.
+#####"|"#####
+**1. Subjective:**
+
+**CHIEF COMPLAINT**
+Severe weakness and altered mental status.
+
+**HISTORY OF PRESENT ILLNESS**
+The patient, a 65-year-old Caucasian male named John Smith with a history of hypertension and type 2 diabetes mellitus, presented to the emergency department two hours ago. He reports severe weakness, dizziness, and confusion. He was found by his spouse in a disoriented state with cold and clammy skin. The patient experienced a rapid heart rate and low blood pressure. He denies chest pain, but he feels unable to perform any daily activities due to extreme weakness and disorientation.
+
+**REVIEW OF SYSTEMS**
+- Constitutional: Severe weakness, fatigue.
+- Cardiovascular: Rapid heart rate, hypotension.
+- Respiratory: Tachypnea, no respiratory distress.
+- Neurological: Confusion, altered mental status.
+- Skin: Cold, clammy, cyanotic extremities.
+
+**2. Objective:**
+
+**VITAL SIGNS**
+- Blood Pressure: 80/50 mmHg
+- Heart Rate: 110 bpm
+- Respiratory Rate: 24 breaths per minute
+- Pulse Oximetry: 94% on room air
+
+**PHYSICAL EXAMINATION**
+- Cardiovascular: Rapid and weak pulse.
+- Respiratory: Tachypnea, clear lung fields with no wheezing or crackles.
+- Neurological: Altered mental status, Glasgow Coma Scale (GCS) of 13.
+- Skin: Cold, clammy, cyanotic extremities.
+
+**RESULTS**
+- Blood Work: Complete blood count (CBC) pending, blood cultures drawn, elevated lactate level.
+- Arterial Blood Gas (ABG): Awaiting results.
+- Imaging: Chest X-ray ordered to rule out thoracic causes of the shock, results pending.
+
+**3. Assessment:**
+- Shock, unspecified (ICD-10 Code R57.9)
+
+Given the patient's presentation of hypotension, tachycardia, altered mental status, and cyanotic extremities, the most likely diagnosis is shock of an undetermined cause. Differential diagnoses include septic shock, cardiogenic shock, and hypovolemic shock among others.
+
+**4. Plan:**
+1. **Immediate Management:**
+   - Initiate intravenous fluids with normal saline bolus to stabilize blood pressure.
+   - Administer broad-spectrum antibiotics: Ceftriaxone 1g IV every 12 hours to cover for potential sepsis.
+   
+2. **Monitoring:**
+   - Monitor vital signs every 15 minutes.
+   - Re-evaluate the patient’s clinical status in 1 hour.
+   
+3. **Referral:**
+   - Transfer to the Intensive Care Unit (ICU) for continuous monitoring and management.
+   - Consult Dr. Sarah Thompson, an intensivist, for further specialist care.
+
+4. **Further Workup:**
+   - Await results of CBC, blood cultures, lactate level, and ABG to refine the diagnosis and guide further treatment.
+   
+5. **Patient and Family Education:** 
+   - Provide information to the patient's spouse regarding the critical nature of the condition.
+   - Discuss the potential need for intensive care and possible interventions.
+
+**Patient Agreements:**
+Patient is currently confused and unable to fully comprehend the medical plan. Spouse is informed and agrees with the recommended treatment and transfer to ICU.
+#####"|"#####
+**1. Subjective:**
+
+**CC**
+Severe weakness and AMS.
+
+**HPI**
+The pt, a 65 y/o Caucasian male named John Smith with a hx of HTN and T2DM, presented to the ED 2 hrs ago. He reports severe weakness, dizziness, and confusion. He was found by his spouse in a disoriented state with cold and clammy skin. The pt experienced a rapid HR and low BP. He denies CP, but he feels unable to perform any ADLs due to extreme weakness and disorientation.
+
+**ROS**
+- Constitutional: Severe weakness, fatigue.
+- CV: Rapid HR, hypotension.
+- Resp: Tachypnea, no resp distress.
+- Neuro: Confusion, AMS.
+- Skin: Cold, clammy, cyanotic extremities.
+
+**2. Objective:**
+
+**VS**
+- BP: 80/50 mmHg
+- HR: 110 bpm
+- RR: 24 bpm
+- SpO2: 94% on RA
+
+**PE**
+- CV: Rapid and weak pulse.
+- Resp: Tachypnea, clear lung fields with no wheezing or crackles.
+- Neuro: AMS, GCS of 13.
+- Skin: Cold, clammy, cyanotic extremities.
+
+**RESULTS**
+- Blood Work: CBC pending, blood cultures drawn, elevated lactate level.
+- ABG: Awaiting results.
+- Imaging: CXR ordered to r/o thoracic causes of the shock, results pending.
+
+**3. Assessment:**
+- Shock, unspecified (ICD-10 Code R57.9)
+
+Given the pt's presentation of hypotension, tachycardia, AMS, and cyanotic extremities, the most likely dx is shock of an undetermined cause. Differential dx includes septic shock, cardiogenic shock, and hypovolemic shock among others.
+
+**4. Plan:**
+1. **Immediate Mgmt:**
+   - Initiate IV fluids with NS bolus to stabilize BP.
+   - Administer broad-spectrum abx: Ceftriaxone 1g IV q12h to cover for potential sepsis.
+   
+2. **Monitoring:**
+   - Monitor VS q15min.
+   - Re-evaluate the pt’s clinical status in 1 hr.
+   
+3. **Referral:**
+   - Transfer to the ICU for continuous monitoring and mgmt.
+   - Consult Dr. Sarah Thompson, an intensivist, for further specialist care.
+
+4. **Further Workup:**
+   - Await results of CBC, blood cultures, lactate level, and ABG to refine the dx and guide further tx.
+   
+5. **Pt and Family Education:** 
+   - Provide info to the pt's spouse regarding the critical nature of the condition.
+   - Discuss the potential need for intensive care and possible interventions.
+
+**Pt Agreements:**
+Pt is currently confused and unable to fully comprehend the medical plan. Spouse is informed and agrees with the recommended tx and transfer to ICU.
+#####"|Emergency Medicine Physician|"```
+[doctor] Hi there, I'm Dr. Smith. How are you feeling today?
+[patient] I'm feeling very weak and confused, doctor.
+[doctor] I understand. Can you tell me more about what happened before you came here?
+[patient] I was at home and suddenly felt very dizzy and weak. My spouse found me disoriented and with cold, clammy skin.
+[doctor] Hmm, I see. Did you experience any chest pain at that time?
+[patient] No, no chest pain. Just extreme weakness and confusion.
+[doctor] Okay. Have you had any similar episodes before?
+[patient] No, this is the first time.
+[doctor] Alright. Do you remember if you felt your heart racing or noticed any rapid heartbeats?
+[patient] Yes, my heart was beating very fast.
+[doctor] Got it. Can you tell me if you've been able to perform your daily activities recently?
+[patient] No, not at all. I've been too weak and disoriented to do anything.
+[doctor] Okay, thank you. Now let's go through your medical history. Do you have any chronic conditions?
+[patient] Yes, I have hypertension and type 2 diabetes.
+[doctor] Understood. Are you taking any medications for these conditions?
+[patient] Yes, I take medications for both.
+[doctor] Do you remember the names of these medications?
+[patient] I take lisinopril for my blood pressure and metformin for my diabetes.
+[doctor] Thank you. Now, based on your symptoms, such as severe weakness and altered mental status, we need to do a quick examination. Your blood pressure is 80/50 mmHg, heart rate is 110 bpm, respiratory rate is 24 breaths per minute, and your oxygen saturation is 94% on room air.
+[patient] Okay.
+[doctor] During the physical examination, I found that you have a rapid and weak pulse, and you're breathing quickly but with clear lung fields. Your skin is cold, clammy, and cyanotic. 
+[patient] What does that mean?
+[doctor] It means your skin is showing a bluish color, which can happen when there's not enough oxygen in your blood. Your mental status is altered, and your Glasgow Coma Scale score is 13, indicating mild confusion.
+[patient] Alright.
+[doctor] We've also drawn blood for a complete blood count and blood cultures. Your lactate level is elevated, and we're waiting for the results of your arterial blood gas and chest X-ray.
+[patient] What does that mean, doctor?
+[doctor] Elevated lactate levels can indicate that your body is not getting enough oxygen and is producing more lactate as a result. It can be a sign of shock or severe infection.
+[patient] Oh, I see.
+[doctor] Based on your symptoms and test results, it looks like you might be experiencing shock, but we still need to determine the exact cause. Possible causes include septic shock, cardiogenic shock, or hypovolemic shock.
+[patient] That sounds serious.
+[doctor] Yes, it is. To manage this, we're starting you on intravenous fluids with a normal saline bolus to stabilize your blood pressure. We're also administering broad-spectrum antibiotics, specifically ceftriaxone 1g every 12 hours, to cover for potential sepsis.
+[patient] Okay, doctor.
+[doctor] We'll be monitoring your vital signs every 15 minutes and re-evaluating your clinical status in an hour.
+[patient] Alright.
+[doctor] Given your condition, we're transferring you to the Intensive Care Unit for continuous monitoring and management. We've also consulted Dr. Sarah Thompson for further specialist care.
+[patient] What will happen there?
+[doctor] In the ICU, you'll receive close monitoring and immediate interventions if needed. We'll await the results of your blood tests and imaging to refine the diagnosis and guide further treatment.
+[patient] Okay.
+[doctor] I've already discussed the situation with your spouse, who understands the critical nature of your condition and agrees with the recommended treatment and transfer to the ICU.
+[patient] Thank you, doctor.
+[doctor] You're welcome. Do you have any other questions or concerns right now?
+[patient] Not at the moment, doctor.
+[doctor] Alright, we'll take good care of you. Let’s get you transferred to the ICU now.
+[patient] Thank you.
+```"|"[doctor]: Hi there, I'm Dr. Smith. How are you feeling today?
+[patient]: I'm feeling very weak and confused, doctor.
+[doctor]: Hmm, I understand. Can you tell me more about what happened before you came here?
+[patient]: I was at home and suddenly felt very dizzy and weak. My spouse found me disoriented and with cold, clammy skin.
+[doctor]: I see. Did you experience any chest pain at that time?
+[patient]: No, no chest pain. Just extreme weakness and confusion.
+[doctor]: Okay. Have you had any similar episodes before?
+[patient]: No, this is the first time.
+[doctor]: Alright. Do you remember if you felt your heart racing or noticed any rapid heartbeats?
+[patient]: Yes, my heart was beating very fast.
+[doctor]: Got it. Can you tell me if you've been able to perform your daily activities recently?
+[patient]: No, not at all. I've been too weak and disoriented to do anything.
+[doctor]: Okay, thank you. Now let's go through your medical history. Do you have any chronic conditions?
+[patient]: Yes, I have hypertension and type 2 diabetes.
+[doctor]: Understood. Are you taking any medications for these conditions?
+[patient]: Yes, I take medications for both.
+[doctor]: Do you remember the names of these medications?
+[patient]: I take lisinopril for my blood pressure and metformin for my diabetes.
+[doctor]: Thank you. Now, based on your symptoms, such as severe weakness and altered mental status, we need to do a quick examination. Your blood pressure is 80/50 mmHg, heart rate is 110 bpm, respiratory rate is 24 breaths per minute, and your oxygen saturation is 94% on room air.
+[patient]: Okay.
+[doctor]: During the physical examination, I found that you have a rapid and weak pulse, and you're breathing quickly but with clear lung fields. Your skin is cold, clammy, and cyanotic.
+[patient]: What does that mean?
+[doctor]: It means your skin is showing a bluish color, which can happen when there's not enough oxygen in your blood. Your mental status is altered, and your Glasgow Coma Scale score is 13, indicating mild confusion.
+[patient]: Alright.
+[doctor]: We've also drawn blood for a complete blood count and blood cultures. Your lactate level is elevated, and we're waiting for the results of your arterial blood gas and chest X-ray.
+[patient]: What does that mean, doctor?
+[doctor]: Elevated lactate levels can indicate that your body is not getting enough oxygen and is producing more lactate as a result. It can be a sign of shock or severe infection.
+[patient]: Oh, I see.
+[doctor]: Based on your symptoms and test results, it looks like you might be experiencing shock, but we still need to determine the exact cause. Possible causes include septic shock, cardiogenic shock, or hypovolemic shock.
+[patient]: That sounds serious.
+[doctor]: Yes, it is. To manage this, we're starting you on intravenous fluids with a normal saline bolus to stabilize your blood pressure. We're also administering broad-spectrum antibiotics, specifically ceftriaxone 1g every 12 hours, to cover for potential sepsis.
+[patient]: Okay, doctor.
+[doctor]: We'll be monitoring your vital signs every 15 minutes and re-evaluating your clinical status in an hour.
+[patient]: Alright.
+[doctor]: Given your condition, we're transferring you to the Intensive Care Unit for continuous monitoring and management. We've also consulted Dr. Sarah Thompson for further specialist care.
+[patient]: What will happen there?
+[doctor]: In the ICU, you'll receive close monitoring and immediate interventions if needed. We'll await the results of your blood tests and imaging to refine the diagnosis and guide further treatment.
+[patient]: Okay.
+[doctor]: I've already discussed the situation with your spouse, who understands the critical nature of your condition and agrees with the recommended treatment and transfer to the ICU.
+[patient]: Thank you, doctor.
+[doctor]: You're welcome. Do you have any other questions or concerns right now?
+[patient]: Not at the moment, doctor.
+[doctor]: Alright, we'll take good care of you. Let’s get you transferred to the ICU now.
+[patient]: Thank you."
+SHOCK, UNSPECIFIED|"ROLE: Emergency Medicine Physician
+
+- Medical Outcome:
+    - Diagnosis: SHOCK, UNSPECIFIED
+    - Prescribed Treatment: IV fluids (0.9% Normal Saline) at 125 ml/hr.
+    - Follow-up Recommendations: Monitor vitals every 15 minutes, admission to ICU for further management.
+    - Referral: Referral to ICU for close monitoring (Dr. John Smith, ICU Specialist).
+    - Blood Work: Complete Blood Count (CBC), Basic Metabolic Panel (BMP), Lactate, Blood cultures.
+    - Imaging: CT scan of the abdomen and pelvis with contrast to identify potential source of infection or internal bleeding.
+    
+- Medical History:
+    - Previous Diagnoses: Hypertension, Type 2 Diabetes Mellitus.
+    - Family Medical History: Father had coronary artery disease; mother had hypertension.
+    - Medication History: Metformin 500 mg BID, Lisinopril 20 mg OD.
+    - Allergies: No known drug allergies.
+    - Chronic Conditions: Hypertension, Type 2 Diabetes Mellitus.
+
+- Symptom Description:
+    - Severity: Severe (patient is hypotensive and tachycardic).
+    - Duration: Symptoms started 4 hours ago.
+    - Associated Symptoms: Dizziness, confusion, cool and clammy skin.
+    - Frequency: Acute episode.
+    - Impact on Daily Activities: Unable to perform any activities, difficulty standing.
+
+- Patient’s self-reported habits and lifestyle:
+    - Sleep: Reports 6 hours of interrupted sleep per night.
+    - Diet: High-carbohydrate diet.
+    - Exercise: Sedentary lifestyle.
+    - Tobacco Use: Denies.
+    - Alcohol Consumption: Occasionally (social drinking).
+    - Drug Use: Denies.
+    - Recreational Activities: None reported.
+
+- Demographic Information:
+    - Age: 65
+    - Gender: Male
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: High school diploma
+    - Health Literacy: Basic understanding of health conditions
+    - Job Status: Retired
+
+- Patient's Behavior: Cooperative with medical advice, anxious about condition.
+
+- Geographical Location:
+    - Urban area
+    - Well-served by transit
+    - Neighborhood: Middle class, highly polluted area
+
+- Clinical Setting: Emergency Room in a hospital.
+
+- Type of Encounter: Emergency Visit.
+
+- Treatment Disparities: No observed disparities, providing aggressive treatment as required.
+
+- Native or Non-Native English Speaking Patient: Native English-speaking patient.
+
+- Physical exams:
+    - Vital Signs: BP 80/50 mmHg, HR 120 bpm, RR 24 breaths/min, Temp 36.5°C, SpO2 95% on room air.
+    - General: Patient appears pale, diaphoretic, and lethargic.
+    - Cardiovascular: Rapid heart rate, weak pulse.
+    - Respiratory: Tachypnea without rales or wheezing.
+    - Abdomen: Soft, non-tender, bowel sounds present.
+    - Extremities: Cool and clammy skin, capillary refill >3 seconds.
+
+- Investigation/Test results: Awaiting results from CBC, BMP, Lactate, Blood cultures, and CT scan of the abdomen and pelvis with contrast."|Rejected|Rejected|Rejected|Rejected||
+SHOCK, UNSPECIFIED|"ROLE: Emergency Medicine Physician
+
+- Medical Outcome:
+    - Diagnosis: SHOCK, UNSPECIFIED
+    - Prescribed Treatment: IV fluids (Lactated Ringer's) at 150 ml/hr.
+    - Follow-up Recommendations: ICU admission for further management.
+    - Referral: Referral to ICU for close monitoring (Dr. Sarah Miller, ICU Specialist).
+    - Blood Work: Complete Blood Count (CBC), Basic Metabolic Panel (BMP), Blood cultures, Troponin.
+    - Imaging: Chest X-ray to evaluate lung status and possible cardiogenic shock.
+    
+- Medical History:
+    - Previous Diagnoses: Asthma, Chronic Kidney Disease Stage 3.
+    - Family Medical History: Mother had asthma; father had chronic kidney disease.
+    - Medication History: Inhaler (Albuterol) as needed, Lisinopril 10 mg daily.
+    - Allergies: Allergic to penicillin (causes rash).
+    - Chronic Conditions: Asthma, Chronic Kidney Disease Stage 3.
+
+- Symptom Description:
+    - Severity: Critical (patient is hypotensive and gasping for breath).
+    - Duration: Symptoms started 6 hours ago.
+    - Associated Symptoms: Shortness of breath, chest tightness, confusion, syncope.
+    - Frequency: Sudden onset.
+    - Impact on Daily Activities: Unable to engage in any activities, bedridden currently.
+
+- Patient’s self-reported habits and lifestyle:
+    - Sleep: Reports 5 hours of disrupted sleep per night.
+    - Diet: High-sodium diet, frequently eats processed foods.
+    - Exercise: No regular physical activity.
+    - Tobacco Use: Former smoker, quit 10 years ago.
+    - Alcohol Consumption: Regular consumption (2-3 drinks per day).
+    - Drug Use: Denies.
+    - Recreational Activities: Occasionally participates in community card games.
+
+- Demographic Information:
+    - Age: 70
+    - Gender: Female
+    - Ethnicity: African American
+    - Socio-economic Status: Low-income
+    - Education Level: Some college education
+    - Health Literacy: Low health literacy
+    - Job Status: Retired, reliant on social security
+
+- Patient's Behavior: Somewhat cooperative but visibly distressed and anxious.
+
+- Geographical Location:
+    - Small City
+    - Limited access to public transportation
+    - Neighborhood: Low-income, moderate pollution
+
+- Clinical Setting: Emergency Room in a small-city hospital.
+
+- Type of Encounter: Emergency Visit.
+
+- Treatment Disparities: Patient expresses concern about the cost of treatment and hospitalization. Efforts made to provide cost-effective care without compromising quality.
+
+- Native or Non-Native English Speaking Patient: Native English-speaking patient.
+
+- Physical exams:
+    - Vital Signs: BP 70/40 mmHg, HR 130 bpm, RR 28 breaths/min, Temp 37.1°C, SpO2 89% on room air.
+    - General: Patient appears pale, diaphoretic, and in acute distress.
+    - Cardiovascular: Rapid heart rate, weak and thready pulse.
+    - Respiratory: Tachypnea with diffuse wheezing and use of accessory muscles for breathing.
+    - Abdomen: Soft, non-distended, non-tender.
+    - Extremities: Cold, clammy skin, delayed capillary refill.
+
+- Investigation/Test results: Awaiting results from CBC, BMP, Blood cultures, Troponin, and Chest X-ray."|Rejected|Rejected|Rejected|Rejected||
+SHOCK, UNSPECIFIED|"ROLE: Family Medicine Physician
+
+- Medical Outcome:
+    - Diagnosis: SHOCK, UNSPECIFIED
+    - Prescribed Treatment: Immediate administration of IV fluids (0.9% Normal Saline) at 1000 ml bolus, followed by 250 ml/hr.
+    - Follow-up Recommendations: Daily monitoring of vitals, repeat CBC and BMP after 24 hours.
+    - Referral: Referral to a cardiologist (Dr. Emma Lin) for possible cardiogenic shock assessment.
+    - Imaging: Echocardiogram to evaluate cardiac function.
+
+- Medical History:
+    - Previous Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), Atrial Fibrillation.
+    - Family Medical History: Mother had COPD; father had congestive heart failure.
+    - Medication History: Warfarin 5 mg OD, Albuterol inhaler as needed.
+    - Allergies: Allergic to aspirin (causes gastric upset).
+    - Chronic Conditions: COPD, Atrial Fibrillation.
+
+- Symptom Description:
+    - Severity: Severe (patient is hypotensive and experiencing acute shortness of breath).
+    - Duration: Symptoms started 2 hours ago.
+    - Associated Symptoms: Severe chest pain, sweating, dizziness, fainting.
+    - Frequency: Acute episode.
+    - Impact on Daily Activities: Unable to perform any activities, bedridden.
+
+- Patient’s Self-Reported Habits and Lifestyle:
+    - Sleep: Reports 4-5 hours of poor-quality sleep per night.
+    - Diet: High-fat diet, frequent fast-food consumption.
+    - Exercise: No regular physical activity, mostly sedentary.
+    - Tobacco Use: Smokes 1 pack per day.
+    - Alcohol Consumption: Denies.
+    - Drug Use: Denies.
+    - Recreational Activities: None reported.
+
+- Demographic Information:
+    - Age: 72
+    - Gender: Male
+    - Ethnicity: Hispanic
+    - Socio-economic Status: Low-income
+    - Education Level: High school dropout
+    - Health Literacy: Low health literacy
+    - Job Status: Unemployed, reliant on social assistance
+
+- Patient's Behavior: Cooperative but visibly distressed and anxious.
+
+- Geographical Location:
+    - Rural area
+    - Limited access to healthcare facilities
+    - Neighborhood: Impoverished, limited access to healthy food options
+
+- Clinical Setting: Rural community health clinic.
+
+- Type of Encounter: Initial Consultation.
+
+- Treatment Disparities: Limited access to specialized care due to rural location.
+
+- Native or Non-Native English Speaking Patient: Non-Native English speaking patient, primary language is Spanish.
+
+- Physical exams:
+    - Vital Signs: BP 85/55 mmHg, HR 110 bpm, RR 30 breaths/min, Temp 37.7°C, SpO2 90% on room air.
+    - General: Appears pale, diaphoretic, and in acute distress.
+    - Cardiovascular: Rapid irregular heart rate, weak pulse.
+    - Respiratory: Tachypnea with diffuse wheezing.
+    - Abdomen: Soft, non-tender, non-distended.
+    - Extremities: Cool, clammy skin, delayed capillary refill.
+
+- Investigation/Test results: Awaiting results from CBC, BMP, and Echocardiogram."|Rejected|Rejected|Rejected|Rejected||
+SHOCK, UNSPECIFIED|"ROLE: General Physician
+
+1) Medical Outcome: 
+- Diagnosis: Shock, unspecified (ICD-10)
+- Treatment: Immediate stabilization with IV fluids (Normal saline, 1 liter bolus to begin, then titrate based on response)
+- Referral: Urgent transfer to Emergency Department for further evaluation and management
+- Imaging: Order for a Chest X-ray (to assess for potential underlying causes), Ultrasound Abdomen (to rule out abdominal aortic aneurysm or other abdominal pathology)
+- Blood Work: CBC, BMP, lactate, blood cultures, coagulation profile, and arterial blood gas (ABG)
+
+2) Medical History:
+- Previous Diagnoses: Hypertension, Type 2 Diabetes Mellitus
+- Family Medical History: Father with history of myocardial infarction, Mother with history of stroke
+- Medication History: Metformin 500 mg BID, Lisinopril 10 mg daily
+- Allergies: NKA
+- Chronic Conditions: Hypertension, Type 2 Diabetes Mellitus
+
+3) Symptom Description:
+- Severity: Severe
+- Duration: Sudden onset, lasted for 30 minutes
+- Associated Symptoms: Dizziness, shortness of breath, sweating, confusion
+- Frequency: First episode
+- Impact on Daily Activities: Unable to perform any activities, barely able to stand
+
+4) Patient’s self-reported habits and lifestyle:
+- Sleep: Reports poor sleep quality
+- Diet: Uncontrolled, high in processed foods
+- Exercise: Minimal, mostly sedentary
+- Tobacco Use: Smokes 1 pack/day for the last 20 years
+- Alcohol Consumption: Occasional, weekends only
+- Drug Use: Denies
+- Recreational Activities: Rare, mostly watches TV
+
+5) Demographic Information:
+- Age: 58
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Moderate income, employed as a construction worker
+- Education Level: High school diploma
+- Health Literacy: Moderate
+- Job Status: Full-time
+
+6) Patient's Behavior:
+- Level of patient's cooperation with medical advice: Generally non-compliant with dietary recommendations, moderate compliance with medication
+
+7) Geographical Location:
+- Big City vs Small City: Small City
+- Rural vs Urban: Urban
+- Pollution and Environmental Health Risks: Minimal pollution, moderate environmental health risks from construction job
+- Neighborhood Type: Moderate income, well-served by public transit, local grocery stores available
+
+8) Clinical Setting:
+- Location: Urgent Care Center
+
+9) Type of Encounter:
+- Emergency Visit
+
+10) Treatment Disparities: None noted in this scenario
+
+11) Native or Non-Native English Speaking Patient: Native English Speaking
+
+12) Physical exams:
+- General: Pallor, sweating, appears acutely ill
+- Vital signs: Hypotensive (BP 90/60 mmHg), Tachycardic (HR 120 bpm), RR 24/min, SpO2 92% on room air
+- Cardiovascular: Tachycardia, faint peripheral pulses
+- Respiratory: Mildly tachypneic, no obvious respiratory distress
+- Abdomen: Soft, non-tender, no organomegaly
+- Neurological: Confusion, drowsiness but arousable
+
+13) Investigation/Test results:
+- Awaiting: CBC, BMP, lactate, blood cultures, coagulation profile, and arterial blood gas (ABG)
+- Imaging: Awaiting Chest X-ray and Ultrasound Abdomen"|Rejected|Rejected|Rejected|Rejected||
+SHOCK, UNSPECIFIED|"ROLE: General Physician
+
+1) Medical Outcome: 
+- Diagnosis: Shock, unspecified (ICD-10)
+- Treatment: Immediate stabilization with IV fluids (Normal saline, 1 liter bolus to begin, then titrate based on response)
+- Referral: Urgent transfer to Emergency Department for further evaluation and management
+- Imaging: Order for a Chest X-ray (to assess for potential underlying causes), CT Head (to rule out intracranial causes of shock)
+- Blood Work: CBC, BMP, lactate, blood cultures, coagulation profile, arterial blood gas (ABG), hepatic panel, and cardiac enzymes (troponins, CK-MB)
+
+2) Medical History:
+- Previous Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), Gastroesophageal Reflux Disease (GERD)
+- Family Medical History: Sister with history of breast cancer, mother with rheumatoid arthritis
+- Medication History: Albuterol MDI 2 puffs as needed, Omeprazole 20 mg daily
+- Allergies: Penicillin
+- Chronic Conditions: COPD, GERD
+
+3) Symptom Description:
+- Severity: Severe
+- Duration: Sudden onset, lasted for 15 minutes
+- Associated Symptoms: Shortness of breath, chest tightness, rapid heartbeat, nausea
+- Frequency: First episode
+- Impact on Daily Activities: Unable to perform any activities, collapsed at home
+
+4) Patient’s self-reported habits and lifestyle:
+- Sleep: Reports poor sleep quality due to GERD symptoms
+- Diet: Mixed, avoids spicy foods due to GERD
+- Exercise: Light walking, limited due to COPD
+- Tobacco Use: Smoked for 30 years, quit 2 years ago
+- Alcohol Consumption: Social drinker, 2-3 times a month
+- Drug Use: Denies
+- Recreational Activities: Enjoys reading and gardening
+
+5) Demographic Information:
+- Age: 67
+- Gender: Female
+- Ethnicity: African American
+- Socio-economic Status: Retired, living on social security and savings
+- Education Level: College graduate
+- Health Literacy: High
+- Job Status: Retired teacher
+
+6) Patient's Behavior:
+- Level of patient's cooperation with medical advice: Generally compliant, attends regular check-ups and follows medication regimen
+
+7) Geographical Location:
+- Big City vs Small City: Big City
+- Rural vs Urban: Urban
+- Pollution and Environmental Health Risks: High pollution levels, exacerbates COPD
+- Neighborhood Type: Impoverished, limited access to health food options, well-served by public transit
+
+8) Clinical Setting:
+- Location: Community Clinic
+
+9) Type of Encounter:
+- Emergency Visit
+
+10) Treatment Disparities: May receive less aggressive treatment due to reliance on social security and perceived ability to pay
+
+11) Native or Non-Native English Speaking Patient: Native English Speaking
+
+12) Physical exams:
+- General: Pale, diaphoretic, appears acutely ill
+- Vital signs: Hypotensive (BP 85/55 mmHg), Tachycardic (HR 110 bpm), RR 22/min, SpO2 88% on room air
+- Cardiovascular: Tachycardia, weak peripheral pulses
+- Respiratory: Tachypneic, decreased breath sounds bilaterally, expiratory wheezes
+- Abdomen: Soft, non-tender, mild epigastric tenderness
+- Neurological: Conscious, but drowsy and confused
+
+13) Investigation/Test results:
+- Awaiting: CBC, BMP, lactate, blood cultures, coagulation profile, arterial blood gas (ABG), hepatic panel, and cardiac enzymes (troponins, CK-MB)
+- Imaging: Awaiting Chest X-ray and CT Head"|Rejected|Rejected|Rejected|Rejected||

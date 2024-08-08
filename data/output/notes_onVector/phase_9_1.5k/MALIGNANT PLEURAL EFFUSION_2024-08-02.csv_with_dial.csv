@@ -1,0 +1,2764 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+MALIGNANT PLEURAL EFFUSION|"ROLE: Pulmonologist
+
+**Scenario**
+
+- **Medical Outcome**: 
+  - Diagnosis: Malignant Pleural Effusion
+  - Prescribed Treatment: Thoracentesis (to remove excess fluid)
+  - Follow-up Recommendations: Chest CT scan in 1 month to evaluate any recurrence
+  - Referral: Oncologist, Dr. Amanda Zhang, for further cancer evaluation and treatment
+  - Medication: Furosemide 40 mg, oral, once daily, for 14 days, quantity 14 tablets
+  - Blood Work Orders:
+    - Biochemistry panel (to evaluate liver and kidney function)
+    - Hematology panel (to assess hematocrit and hemoglobin levels)
+- **Medical History**:
+  - Previous Diagnoses: Non-Small Cell Lung Cancer (diagnosed 6 months ago)
+  - Chronic Conditions: Hypertension, Hyperlipidemia
+  - Allergies: Penicillin
+- **Symptom Description**:
+  - Severity: Severe shortness of breath
+  - Duration: Last 3 weeks
+  - Associated Symptoms: Chest pain, non-productive cough, fatigue
+  - Frequency: Continuous, worsening over the last week
+  - Impact on Daily Activities: Unable to perform daily activities without assistance
+- **Patient’s self-reported habits and lifestyle**:
+  - Sleep: Difficulty lying flat due to breathlessness
+  - Diet: Reduced appetite
+  - Exercise: Unable to exercise due to shortness of breath
+  - Tobacco Use: Former smoker, quit 1 year ago
+  - Alcohol Consumption: Occasional, social drinker
+  - Recreational Activities: None due to physical limitations
+- **Demographic Information**:
+  - Age: 65
+  - Gender: Male
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Retired, middle-class
+  - Education Level: High school
+  - Health Literacy: Moderate understanding of medical terms and conditions
+  - Job Status: Retired construction worker
+- **Patient's Behavior**:
+  - Cooperation Level: Highly cooperative, follows medical advice diligently
+- **Geographical Location**:
+  - Urban
+  - Affluent neighborhood with good access to healthcare facilities
+- **Clinical Setting**:
+  - Hospital
+- **Type of Encounter**:
+  - Emergency Visit
+- **Treatment Disparities**: NA
+- **Native or Non-Native English Speaking Patient**:
+  - Native English Speaker
+- **Physical exams**:
+  - Respiratory: Decreased breath sounds on the right side, dullness to percussion, and reduced chest expansion
+  - Cardiovascular: Normal heart sounds, no murmurs
+- **Investigation/Test results**:
+  - Chest X-ray: Large, right-sided pleural effusion confirmed
+  - Awaiting Results: Biochemistry panel, Hematology panel"|"#####
+
+**1. Subjective:**
+
+**Chief Complaint (CC)**
+Severe shortness of breath.
+
+**History of Present Illness (HPI)**
+John Smith is a 65-year-old Caucasian male who presents to the emergency department with severe shortness of breath. He reports that the breathlessness has been ongoing for the past three weeks, and has progressively worsened, especially in the past week. The patient notes substantial chest pain on the right side, a non-productive cough, and significant fatigue. He is unable to perform his daily activities without assistance. Mr. Smith also mentions difficulty sleeping, as he is unable to lie flat due to increased breathlessness. His appetite has decreased, and he is unable to exercise. 
+
+The patient was diagnosed with Non-Small Cell Lung Cancer (NSCLC) six months ago and has a history of hypertension and hyperlipidemia. He is a former smoker who quit one year ago and is an occasional social drinker. Mr. Smith is retired and lives in an urban, affluent neighborhood with good access to healthcare facilities.
+
+**Review of Systems (ROS)**
+- Respiratory: Severe shortness of breath, non-productive cough.
+- Cardiovascular: No chest palpitations or dizziness.
+- Gastrointestinal: Reduced appetite.
+- Neurological: Fatigue, no headaches or dizziness.
+- Musculoskeletal: No muscle or joint pain.
+- General: Unable to perform daily activities, fatigue, weight loss over the past month.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood pressure: 130/85 mmHg
+- Pulse: 90 bpm
+- Respiratory rate: 24 breaths per minute
+- Temperature: 98.7°F (37.1°C)
+- Oxygen saturation: 88% on room air
+
+**Physical Examination:**
+- Respiratory: Decreased breath sounds on the right side, dullness to percussion on the right side, reduced chest expansion on the right.
+- Cardiovascular: Normal heart sounds, no murmurs.
+- Abdomen: Soft, non-tender.
+- Extremities: No edema, normal capillary refill.
+
+**Investigation/Test Results:**
+- Chest X-ray: Large, right-sided pleural effusion confirmed.
+- Awaiting Results: Biochemistry panel, Hematology panel.
+
+**3. Assessment:**
+
+Malignant Pleural Effusion secondary to Non-Small Cell Lung Cancer (NSCLC).
+
+**4. Plan:**
+1. **Immediate Treatment:**
+   - Thoracentesis to remove excess pleural fluid and alleviate symptoms of breathlessness.
+2. **Medications:**
+   - Furosemide 40 mg, oral, once daily for 14 days, quantity 14 tablets.
+3. **Blood Work Orders:**
+   - Biochemistry panel to evaluate liver and kidney function.
+   - Hematology panel to assess hematocrit and hemoglobin levels.
+4. **Referral:**
+   - Oncology referral to Dr. Amanda Zhang for further cancer evaluation and treatment.
+5. **Follow-up:**
+   - Schedule a Chest CT scan in 1 month to evaluate any recurrence.
+6. **Patient Education and Lifestyle Recommendations:**
+   - Educate the patient on the importance of follow-up.
+   - Encourage maintaining a balanced diet to improve nutritional status.
+   - Advise gradual physical activity as tolerated to maintain mobility.
+
+**Instructions:**
+- Mr. Smith is to undergo thoracentesis today and will be monitored for any immediate complications post-procedure.
+- He should follow up with the oncologist, Dr. Amanda Zhang, and get a Chest CT scan in 1 month.
+- Discharge medications and instructions will be provided before leaving the hospital.
+
+**Follow-Up Appointments:**
+- Thoracentesis procedure and immediate post-procedure monitoring.
+- Oncologist appointment with Dr. Amanda Zhang.
+- Chest CT scan in 1 month.
+
+#####"|"**1. Subjective:**
+
+**Chief Complaint (CC)**
+Severe shortness of breath.
+
+**History of Present Illness (HPI)**
+John Smith is a 65-year-old Caucasian male who presents to the emergency department with severe shortness of breath. He reports that the breathlessness has been ongoing for the past three weeks, and has progressively worsened, especially in the past week. The patient notes substantial chest pain on the right side, a non-productive cough, and significant fatigue. He is unable to perform his daily activities without assistance. Mr. Smith also mentions difficulty sleeping, as he is unable to lie flat due to increased breathlessness. His appetite has decreased, and he is unable to exercise. 
+
+The patient was diagnosed with Non-Small Cell Lung Cancer (NSCLC) six months ago and has a history of hypertension and hyperlipidemia. He is a former smoker who quit one year ago and is an occasional social drinker. Mr. Smith is retired and lives in an urban, affluent neighborhood with good access to healthcare facilities.
+
+**Review of Systems (ROS)**
+- Respiratory: Severe shortness of breath, non-productive cough.
+- Cardiovascular: No chest palpitations or dizziness.
+- Gastrointestinal: Reduced appetite.
+- Neurological: Fatigue, no headaches or dizziness.
+- Musculoskeletal: No muscle or joint pain.
+- General: Unable to perform daily activities, fatigue, weight loss over the past month.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood pressure: 130/85 mmHg
+- Pulse: 90 bpm
+- Respiratory rate: 24 breaths per minute
+- Temperature: 98.7°F (37.1°C)
+- Oxygen saturation: 88% on room air
+
+**Physical Examination:**
+- Respiratory: Decreased breath sounds on the right side, dullness to percussion on the right side, reduced chest expansion on the right.
+- Cardiovascular: Normal heart sounds, no murmurs.
+- Abdomen: Soft, non-tender.
+- Extremities: No edema, normal capillary refill.
+
+**Investigation/Test Results:**
+- Chest X-ray: Large, right-sided pleural effusion confirmed.
+
+**3. Assessment:**
+
+Malignant Pleural Effusion secondary to Non-Small Cell Lung Cancer (NSCLC).
+
+**4. Plan:**
+1. **Immediate Treatment:**
+   - Thoracentesis to remove excess pleural fluid and alleviate symptoms of breathlessness.
+2. **Medications:**
+   - Furosemide 40 mg, oral, once daily for 14 days, quantity 14 tablets.
+3. **Blood Work Orders:**
+   - Biochemistry panel to evaluate liver and kidney function.
+   - Hematology panel to assess hematocrit and hemoglobin levels.
+4. **Referral:**
+   - Oncology referral to Dr. Amanda Zhang for further cancer evaluation and treatment.
+5. **Follow-up:**
+   - Schedule a Chest CT scan in 1 month to evaluate any recurrence.
+6. **Patient Education and Lifestyle Recommendations:**
+   - Educate the patient on the importance of follow-up.
+   - Encourage maintaining a balanced diet to improve nutritional status.
+   - Advise gradual physical activity as tolerated to maintain mobility.
+
+**Instructions:**
+- Mr. Smith is to undergo thoracentesis today and will be monitored for any immediate complications post-procedure.
+- He should follow up with the oncologist, Dr. Amanda Zhang, and get a Chest CT scan in 1 month.
+- Discharge medications and instructions will be provided before leaving the hospital.
+
+**Follow-Up Appointments:**
+- Thoracentesis procedure and immediate post-procedure monitoring.
+- Oncologist appointment with Dr. Amanda Zhang.
+- Chest CT scan in 1 month."|"**1. Subjective:**
+
+**CC**
+Severe SOB.
+
+**HPI**
+John Smith is a 65 y/o Caucasian M who presents to the ED with severe SOB. He reports that the breathlessness has been ongoing for the past 3 weeks and has progressively worsened, especially in the past week. The pt notes substantial R-sided CP, a non-productive cough, and significant fatigue. He is unable to perform his ADLs without assistance. Mr. Smith also mentions difficulty sleeping, as he is unable to lie flat due to increased SOB. His appetite has decreased, and he is unable to exercise.
+
+The pt was dx'ed with NSCLC 6 months ago and has a hx of HTN and HLD. He is a former smoker who quit 1 year ago and is an occasional social drinker. Mr. Smith is retired and lives in an urban, affluent neighborhood with good access to healthcare facilities.
+
+**ROS**
+- Respiratory: Severe SOB, non-productive cough.
+- Cardiovascular: No palpitations or dizziness.
+- Gastrointestinal: Reduced appetite.
+- Neurological: Fatigue, no HA or dizziness.
+- Musculoskeletal: No muscle or joint pain.
+- General: Unable to perform ADLs, fatigue, weight loss over the past month.
+
+**2. Objective:**
+
+**VS:**
+- BP: 130/85 mmHg
+- HR: 90 bpm
+- RR: 24 bpm
+- Temp: 98.7°F (37.1°C)
+- O2 Sat: 88% on RA
+
+**PE:**
+- Respiratory: Decreased breath sounds on the R side, dullness to percussion on the R side, reduced chest expansion on the R.
+- Cardiovascular: Normal heart sounds, no murmurs.
+- Abdomen: Soft, non-tender.
+- Extremities: No edema, normal cap refill.
+
+**Investigation/Test Results:**
+- CXR: Large, R-sided pleural effusion confirmed.
+
+**3. Assessment:**
+
+Malignant Pleural Effusion 2° to NSCLC.
+
+**4. Plan:**
+1. **Immediate Tx:**
+   - Thoracentesis to remove excess pleural fluid and alleviate symptoms of SOB.
+2. **Meds:**
+   - Furosemide 40 mg PO QD for 14 days, qty 14 tabs.
+3. **Labs:**
+   - BMP to evaluate liver and kidney function.
+   - CBC to assess Hct and Hgb levels.
+4. **Referral:**
+   - Oncology referral to Dr. Amanda Zhang for further cancer evaluation and tx.
+5. **F/U:**
+   - Schedule a Chest CT in 1 month to evaluate any recurrence.
+6. **Pt Education and Lifestyle Recommendations:**
+   - Educate the pt on the importance of F/U.
+   - Encourage maintaining a balanced diet to improve nutritional status.
+   - Advise gradual physical activity as tolerated to maintain mobility.
+
+**Instructions:**
+- Mr. Smith is to undergo thoracentesis today and will be monitored for any immediate complications post-procedure.
+- He should F/U with the oncologist, Dr. Amanda Zhang, and get a Chest CT in 1 month.
+- Discharge meds and instructions will be provided before leaving the hospital.
+
+**F/U Appointments:**
+- Thoracentesis procedure and immediate post-procedure monitoring.
+- Oncologist appointment with Dr. Amanda Zhang.
+- Chest CT in 1 month."|Pulmonologist|"[doctor] Good morning, Mr. Smith. How are you feeling today?
+
+[patient] Not too good, Doctor. I’ve been having a lot of trouble breathing.
+
+[doctor] I see. Can you tell me more about this breathlessness? How long has it been going on?
+
+[patient] It’s been about three weeks now, but it's gotten really bad in the past week.
+
+[doctor] I’m sorry to hear that. Have you noticed anything else, like chest pain or a cough?
+
+[patient] Yes, I have chest pain on the right side and a dry cough. I’m also very tired all the time.
+
+[doctor] I understand. How has this affected your daily activities?
+
+[patient] I can’t do much on my own. I need help with almost everything now.
+
+[doctor] Have you had any trouble sleeping?
+
+[patient] Yes, it’s hard to lie flat because it makes the breathlessness worse.
+
+[doctor] Hmm, and how’s your appetite been?
+
+[patient] I don’t feel like eating much these days.
+
+[doctor] Alright. Have you been able to exercise at all?
+
+[patient] No, I can’t exercise. Just moving around is difficult.
+
+[doctor] Okay, let’s talk a bit about your medical history. I see here that you were diagnosed with Non-Small Cell Lung Cancer six months ago. Is that correct?
+
+[patient] Yes, that’s right.
+
+[doctor] Do you have any other medical conditions?
+
+[patient] I have hypertension and high cholesterol.
+
+[doctor] And you were a smoker?
+
+[patient] Yes, but I quit a year ago.
+
+[doctor] Good for you. Do you drink alcohol?
+
+[patient] Just socially, now and then.
+
+[doctor] Alright. Do you live alone?
+
+[patient] No, I live in the city with my wife. We have good healthcare facilities nearby.
+
+[doctor] That’s good to hear. Now, let’s review your symptoms systematically. Any palpitations or dizziness?
+
+[patient] No, none.
+
+[doctor] Any headaches or dizziness?
+
+[patient] No.
+
+[doctor] Any muscle or joint pain?
+
+[patient] No, just very fatigued.
+
+[doctor] Okay, let’s move on to your physical exam. I’m going to check your vital signs first. Your blood pressure is 130/85 mmHg, pulse is 90 bpm, respiratory rate is 24 breaths per minute, temperature is 98.7°F, and oxygen saturation is 88% on room air.
+
+[patient] Is that bad?
+
+[doctor] Your oxygen saturation is a bit low. Let me listen to your lungs. Could you take a deep breath for me?
+
+[patient] Sure.
+
+[doctor] I hear decreased breath sounds on the right side, and there’s dullness to percussion on the right. Your chest expansion is also reduced on that side. Have you noticed any swelling in your legs?
+
+[patient] No, my legs are fine.
+
+[doctor] Your heart sounds are normal, and I don’t hear any murmurs. Your abdomen is soft and non-tender. Now, let me check your capillary refill. It’s normal. I’m going to review your chest X-ray now. It shows a large, right-sided pleural effusion. This means there’s a lot of fluid in the space around your lungs.
+
+[patient] What does that mean?
+
+[doctor] It means there’s fluid buildup, likely related to your lung cancer. We need to remove it to help you breathe better.
+
+[patient] How do you do that?
+
+[doctor] We’ll perform a procedure called thoracentesis where we’ll use a needle to remove the fluid. This should relieve your breathlessness. Do you have any questions about that?
+
+[patient] No, I just want to be able to breathe better.
+
+[doctor] We’ll get that done for you today. We’ll also start you on Furosemide, which is a medication to help prevent fluid buildup. You’ll take 40 mg orally once daily for 14 days.
+
+[patient] Okay.
+
+[doctor] We’ll also do some blood work, including a biochemistry panel to check your liver and kidney function, and a hematology panel to look at your red blood cells.
+
+[patient] Alright.
+
+[doctor] I’ll refer you to Dr. Amanda Zhang, an oncologist, for further evaluation and treatment of your lung cancer. We’ll also schedule a Chest CT scan in one month to check for any recurrence of the fluid.
+
+[patient] Okay, I understand.
+
+[doctor] It’s important that you follow up with the oncologist and get the CT scan as scheduled. Try to maintain a balanced diet to improve your nutritional status and engage in gradual physical activity as tolerated.
+
+[patient] I’ll do my best.
+
+[doctor] Great. After the thoracentesis, we’ll monitor you for any immediate complications. You’ll also get discharge instructions before leaving the hospital.
+
+[patient] Thank you, Doctor.
+
+[doctor] You’re welcome, Mr. Smith. Do you have any other questions?
+
+[patient] No, that’s everything for now.
+
+[doctor] Alright, let’s get started with the thoracentesis."|"[doctor] Good morning, Mr. Smith. How are you feeling today?
+
+[patient] Not too good, Doctor. I’ve been having a lot of trouble breathing.
+
+[doctor] I see. Can you tell me more about this breathlessness? How long has it been going on?
+
+[patient] It’s been about three weeks now, but it's gotten really bad in the past week.
+
+[doctor] I’m sorry to hear that. Have you noticed anything else, like chest pain or a cough?
+
+[patient] Yes, I have chest pain on the right side and a dry cough. I’m also very tired all the time.
+
+[doctor] I understand. How has this affected your daily activities?
+
+[patient] I can’t do much on my own. I need help with almost everything now.
+
+[doctor] Have you had any trouble sleeping?
+
+[patient] Yes, it’s hard to lie flat because it makes the breathlessness worse.
+
+[doctor] Hmm, and how’s your appetite been?
+
+[patient] I don’t feel like eating much these days.
+
+[doctor] Alright. Have you been able to exercise at all?
+
+[patient] No, I can’t exercise. Just moving around is difficult.
+
+[doctor] Okay, let’s talk a bit about your medical history. I see here that you were diagnosed with Non-Small Cell Lung Cancer six months ago. Is that correct?
+
+[patient] Yes, that’s right.
+
+[doctor] Do you have any other medical conditions?
+
+[patient] I have hypertension and high cholesterol.
+
+[doctor] And you were a smoker?
+
+[patient] Yes, but I quit a year ago.
+
+[doctor] Good for you. Do you drink alcohol?
+
+[patient] Just socially, now and then.
+
+[doctor] Alright. Do you live alone?
+
+[patient] No, I live in the city with my wife. We have good healthcare facilities nearby.
+
+[doctor] That’s good to hear. Now, let’s review your symptoms systematically. Any palpitations or dizziness?
+
+[patient] No, none.
+
+[doctor] Any headaches or dizziness?
+
+[patient] No.
+
+[doctor] Any muscle or joint pain?
+
+[patient] No, just very fatigued.
+
+[doctor] Okay, let’s move on to your physical exam. I’m going to check your vital signs first. Your blood pressure is 130/85 mmHg, pulse is 90 bpm, respiratory rate is 24 breaths per minute, temperature is 98.7°F, and oxygen saturation is 88% on room air.
+
+[patient] Is that bad?
+
+[doctor] Your oxygen saturation is a bit low. Let me listen to your lungs. Could you take a deep breath for me?
+
+[patient] Sure.
+
+[doctor] I hear decreased breath sounds on the right side, and there’s dullness to percussion on the right. Your chest expansion is also reduced on that side. Have you noticed any swelling in your legs?
+
+[patient] No, my legs are fine.
+
+[doctor] Your heart sounds are normal, and I don’t hear any murmurs. Your abdomen is soft and non-tender. Now, let me check your capillary refill. It’s normal. I’m going to review your chest X-ray now. It shows a large, right-sided pleural effusion. This means there’s a lot of fluid in the space around your lungs.
+
+[patient] What does that mean?
+
+[doctor] It means there’s fluid buildup, likely related to your lung cancer. We need to remove it to help you breathe better.
+
+[patient] How do you do that?
+
+[doctor] We’ll perform a procedure called thoracentesis where we’ll use a needle to remove the fluid. This should relieve your breathlessness. Do you have any questions about that?
+
+[patient] No, I just want to be able to breathe better.
+
+[doctor] We’ll get that done for you today. We’ll also start you on Furosemide, which is a medication to help prevent fluid buildup. You’ll take 40 mg orally once daily for 14 days.
+
+[patient] Okay.
+
+[doctor] We’ll also do some blood work, including a biochemistry panel to check your liver and kidney function, and a hematology panel to look at your red blood cells.
+
+[patient] Alright.
+
+[doctor] I’ll refer you to Dr. Amanda Zhang, an oncologist, for further evaluation and treatment of your lung cancer. We’ll also schedule a Chest CT scan in one month to check for any recurrence of the fluid.
+
+[patient] Okay, I understand.
+
+[doctor] It’s important that you follow up with the oncologist and get the CT scan as scheduled. Try to maintain a balanced diet to improve your nutritional status and engage in gradual physical activity as tolerated.
+
+[patient] I’ll do my best.
+
+[doctor] Great. After the thoracentesis, we’ll monitor you for any immediate complications. You’ll also get discharge instructions before leaving the hospital.
+
+[patient] Thank you, Doctor.
+
+[doctor] You’re welcome, Mr. Smith. Do you have any other questions?
+
+[patient] No, that’s everything for now.
+
+[doctor] Alright, let’s get started with the thoracentesis."
+MALIGNANT PLEURAL EFFUSION|"ROLE: Pulmonologist
+
+SCENARIO:
+1) Medical Outcome:
+   - Diagnosis: Malignant Pleural Effusion (ICD-10: J91.0)
+   - Prescribed Treatment: Thoracentesis, indwelling pleural catheter for long-term drainage
+   - Medication: Prescribe Fentanyl Patch 25 mcg/hr, change every 72 hours, for pain management
+   - Follow-up Recommendations: Weekly follow-up for catheter management and symptom assessment
+   - Referral to Specialists: Medical Oncology Specialist, Dr. Sarah Ahmed, for further cancer treatment planning
+   - Referral to Further Tests:
+     - Imaging: PET-CT scan to assess for metastatic spread
+     - Blood Work: Complete Blood Count (CBC), Comprehensive Metabolic Panel (CMP), Tumor markers (CA 19-9)
+
+2) Medical History:
+   - Previous Diagnoses: Stage IV Pancreatic Cancer, Chronic Obstructive Pulmonary Disease (COPD)
+   - Family Medical History: Sister had colon cancer, Father had heart disease
+   - Medication History: Currently on Omeprazole 20mg daily for GERD
+   - Allergies: No known drug allergies
+   - Chronic Conditions: COPD, Diabetes Mellitus Type 2
+
+3) Symptom Description:
+   - Severity: Moderate to Severe
+   - Duration: 2 months
+   - Associated Symptoms: Chronic cough, chest pain, severe weight loss, fatigue, mild cyanosis
+   - Frequency: Constant
+   - Impact on Daily Activities: Severe limitation, requires help with most tasks, bedridden for most of the day
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Poor quality sleep due to discomfort and cough
+   - Diet: Poor intake, tries to maintain nutrients through high-calorie supplements
+   - Exercise: None due to severe symptoms
+   - Tobacco Use: Current smoker, 40 pack-year history
+   - Alcohol Consumption: Consumes alcohol occasionally (1-2 times per month)
+   - Drug Use: None
+   - Recreational Activities: Used to enjoy gardening and fishing
+
+5) Demographic Information:
+   - Age: 65
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Low-income, Medicare beneficiary
+   - Education Level: Some college, did not graduate
+   - Health Literacy: Moderate
+   - Job Status: Retired, previously a construction worker
+
+6) Patient's Behavior:
+   - Somewhat cooperative, often expresses frustration and anxiety about ongoing health issues, occasional missed appointments
+
+7) Geographical Location:
+   - Rural
+   - Neighborhood Type: Low-income area, high pollution from nearby industrial plants, limited medical facilities
+
+8) Clinical Setting:
+   - Telemedicine Consultation due to travel limitations and severe symptoms
+
+9) Type of Encounter:
+   - Chronic Disease Management
+
+10) Treatment Disparities:
+   - Limited access to certain advanced treatments due to socio-economic status and geographic location
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English Speaking 
+
+12) Physical exams:
+   - Respiratory: Decreased breath sounds on the right side, crackles heard bilaterally, moderate cyanosis of lips and fingers, accessory muscle use noted
+
+13) Investigation/Test results:
+   - Awaiting results:
+     - PET-CT scan
+     - Complete Blood Count (CBC)
+     - Comprehensive Metabolic Panel (CMP)
+     - Tumor markers (CA 19-9)"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+The patient, Mr. John Doe, a 65-year-old Caucasian male, presents for a telemedicine consultation due to worsening respiratory symptoms and management of his chronic conditions.
+
+**History of Present Illness (HPI):**
+Mr. Doe has a history of Stage IV Pancreatic Cancer and COPD. Over the past 2 months, he has experienced moderate to severe symptoms, including chronic cough, chest pain, significant weight loss, and fatigue. He reports poor sleep quality due to discomfort and coughing. The patient is bedridden most of the day and requires assistance with daily activities. 
+
+**Review of Systems (ROS):**
+- **Constitutional:** Severe weight loss, fatigue.
+- **Respiratory:** Chronic cough, chest pain, mild cyanosis, shortness of breath.
+- **Gastrointestinal:** Poor appetite, maintained on high-calorie supplements. Currently on Omeprazole 20mg daily for GERD.
+- **Musculoskeletal:** Weakness due to severe symptoms, no recent physical activities.
+- **Psychiatric:** Expresses frustration and anxiety about ongoing health issues, occasional missed appointments due to limitations.
+
+**2. Objective:**
+**Physical Examination:**
+- **Respiratory:** Decreased breath sounds on the right side, crackles heard bilaterally, moderate cyanosis of lips and fingers, accessory muscle use noted.
+- **General Appearance:** Appears fatigued, in mild distress.
+- **Vital Signs:** Not available due to telemedicine consultation.
+
+**Investigation/Test results:**
+- Awaiting results for PET-CT scan, Complete Blood Count (CBC), Comprehensive Metabolic Panel (CMP), and Tumor markers (CA 19-9).
+
+**3. Assessment:**
+**Primary Diagnosis:** Malignant Pleural Effusion (ICD-10: J91.0)
+- **Medical Reasoning:** The patient’s severe respiratory symptoms, including cough, chest pain, and cyanosis, are consistent with a pleural effusion secondary to metastatic spread from Stage IV Pancreatic Cancer.
+
+**4. Plan:**
+**Treatment:**
+1. **Procedures:**
+   - Thoracentesis to relieve symptoms of pleural effusion.
+   - Indwelling pleural catheter for long-term drainage.
+
+2. **Medications:**
+   - Prescribed Fentanyl Patch 25 mcg/hr, to be changed every 72 hours for pain management.
+
+**Follow-up Recommendations:**
+- Weekly follow-up appointments for catheter management and symptom assessment.
+
+**Referrals:**
+1. **Medical Oncology Specialist:** Referral to Dr. Sarah Ahmed for further cancer treatment planning.
+2. **Further Tests:**
+   - Imaging: PET-CT scan to assess for metastatic spread.
+   - Blood Work: Complete Blood Count (CBC), Comprehensive Metabolic Panel (CMP), Tumor markers (CA 19-9).
+
+**Patient Agreements:**
+The patient understands the treatment plan and agrees to the prescribed procedures and medications. He is also aware of the importance of follow-ups and referrals to specialty care."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+The patient, Mr. John Doe, a 65-year-old Caucasian male, presents for a telemedicine consultation due to worsening respiratory symptoms and management of his chronic conditions.
+
+**History of Present Illness (HPI):**
+Mr. Doe has a history of Stage IV Pancreatic Cancer and COPD. Over the past 2 months, he has experienced moderate to severe symptoms, including chronic cough, chest pain, significant weight loss, and fatigue. He reports poor sleep quality due to discomfort and coughing. The patient is bedridden most of the day and requires assistance with daily activities. 
+
+**Review of Systems (ROS):**
+- **Constitutional:** Severe weight loss, fatigue.
+- **Respiratory:** Chronic cough, chest pain, mild cyanosis, shortness of breath.
+- **Gastrointestinal:** Poor appetite, maintained on high-calorie supplements. Currently on Omeprazole 20mg daily for GERD.
+- **Musculoskeletal:** Weakness due to severe symptoms, no recent physical activities.
+- **Psychiatric:** Expresses frustration and anxiety about ongoing health issues, occasional missed appointments due to limitations.
+
+**2. Objective:**
+**Physical Examination:**
+- **Respiratory:** Decreased breath sounds on the right side, crackles heard bilaterally, moderate cyanosis of lips and fingers, accessory muscle use noted.
+- **General Appearance:** Appears fatigued, in mild distress.
+- **Vital Signs:** Not available due to telemedicine consultation.
+
+**Investigation/Test results:**
+- Awaiting results for PET-CT scan, Complete Blood Count (CBC), Comprehensive Metabolic Panel (CMP), and Tumor markers (CA 19-9).
+
+**3. Assessment:**
+**Primary Diagnosis:** Malignant Pleural Effusion (ICD-10: J91.0)
+- **Medical Reasoning:** The patient’s severe respiratory symptoms, including cough, chest pain, and cyanosis, are consistent with a pleural effusion secondary to metastatic spread from Stage IV Pancreatic Cancer.
+
+**4. Plan:**
+**Treatment:**
+1. **Procedures:**
+   - Thoracentesis to relieve symptoms of pleural effusion.
+   - Indwelling pleural catheter for long-term drainage.
+
+2. **Medications:**
+   - Prescribed Fentanyl Patch 25 mcg/hr, to be changed every 72 hours for pain management.
+
+**Follow-up Recommendations:**
+- Weekly follow-up appointments for catheter management and symptom assessment.
+
+**Referrals:**
+1. **Medical Oncology Specialist:** Referral to Dr. Sarah Ahmed for further cancer treatment planning.
+
+**Further Tests:**
+- Imaging: PET-CT scan to assess for metastatic spread.
+- Blood Work: Complete Blood Count (CBC), Comprehensive Metabolic Panel (CMP), Tumor markers (CA 19-9).
+
+**Patient Agreements:**
+The patient understands the treatment plan and agrees to the prescribed procedures and medications. He is also aware of the importance of follow-ups and referrals to specialty care."|"#####
+**1. Subjective:**
+
+**CC:**
+The patient, Mr. John Doe, a 65-year-old Caucasian male, presents for a telemed consult due to worsening resp sx and mgmt of his chronic conditions.
+
+**HPI:**
+Mr. Doe has a hx of Stage IV Pancreatic CA and COPD. Over the past 2 mos, he has experienced mod to severe sx, including chronic cough, CP, significant wt loss, and fatigue. He reports poor sleep quality due to discomfort and coughing. The patient is bedridden most of the day and requires assistance with ADLs.
+
+**ROS:**
+- **Constitutional:** Severe wt loss, fatigue.
+- **Respiratory:** Chronic cough, CP, mild cyanosis, SOB.
+- **GI:** Poor appetite, maintained on high-calorie supplements. Currently on Omeprazole 20mg daily for GERD.
+- **MSK:** Weakness due to severe sx, no recent physical activities.
+- **Psych:** Expresses frustration and anxiety about ongoing health issues, occasional missed appts due to limitations.
+
+**2. Objective:**
+**PE:**
+- **Resp:** Decreased breath sounds on the right side, crackles heard bilaterally, moderate cyanosis of lips and fingers, accessory muscle use noted.
+- **General Appearance:** Appears fatigued, in mild distress.
+- **VS:** Not available due to telemed consult.
+
+**Investigation/Test results:**
+- Awaiting results for PET-CT, CBC, CMP, and Tumor markers (CA 19-9).
+
+**3. Assessment:**
+**Primary Dx:** Malignant Pleural Effusion (ICD-10: J91.0)
+- **Medical Reasoning:** The patient’s severe resp sx, including cough, CP, and cyanosis, are consistent with a pleural effusion secondary to metastatic spread from Stage IV Pancreatic CA.
+
+**4. Plan:**
+**Tx:**
+1. **Procedures:**
+   - Thoracentesis to relieve sx of pleural effusion.
+   - Indwelling pleural catheter for long-term drainage.
+
+2. **Meds:**
+   - Rx Fentanyl Patch 25 mcg/hr, to be changed q72h for pain mgmt.
+
+**Follow-up Recommendations:**
+- Weekly follow-up appts for catheter mgmt and sx assessment.
+
+**Referrals:**
+1. **Medical Oncology Specialist:** Referral to Dr. Sarah Ahmed for further CA tx planning.
+
+**Further Tests:**
+- Imaging: PET-CT to assess for metastatic spread.
+- Blood Work: CBC, CMP, Tumor markers (CA 19-9).
+
+**Patient Agreements:**
+The patient understands the tx plan and agrees to the prescribed procedures and meds. He is also aware of the importance of follow-ups and referrals to specialty care."|Pulmonologist|"[doctor] Good morning, Mr. Doe. How are you feeling today?
+[patient] Good morning, Doctor. Not so good, to be honest.
+[doctor] I'm sorry to hear that. Can you tell me a bit more about what's been going on?
+[patient] Well, over the past couple of months, my symptoms have gotten worse. I'm coughing a lot, my chest hurts, I've lost quite a bit of weight, and I'm always tired.
+[doctor] That sounds really tough. How's your sleep been?
+[patient] It's pretty bad. I wake up a lot because of the coughing and the discomfort.
+[doctor] I see. Are you able to get out of bed at all?
+[patient] Not really. I'm bedridden most of the day and need help with almost everything.
+[doctor] Alright, let's go through your symptoms systematically. Have you noticed any weight loss recently?
+[patient] Yes, I've lost a lot of weight.
+[doctor] What about fatigue?
+[patient] I'm always tired.
+[doctor] And how about your respiratory symptoms? Can you describe your cough and chest pain?
+[patient] The cough is chronic and doesn't seem to get better. The chest pain is constant and gets worse when I cough.
+[doctor] Are you experiencing any shortness of breath or cyanosis?
+[patient] Yes, I get short of breath easily, and sometimes my lips and fingers turn a bit blue.
+[doctor] What about your appetite? How's that been?
+[patient] I don't have much of an appetite. I'm on high-calorie supplements to try and keep my weight up.
+[doctor] Are you taking any medications for your gastrointestinal issues?
+[patient] Yes, I'm on Omeprazole 20mg daily for GERD.
+[doctor] And how are you doing with physical activities?
+[patient] I haven't been able to do any physical activities because of the weakness.
+[doctor] I understand. How are you feeling mentally and emotionally?
+[patient] I'm frustrated and anxious about my health. I sometimes miss appointments because it's hard to get around.
+[doctor] Thank you for sharing that with me. Let's move on to your physical symptoms. You mentioned a chronic cough and chest pain. Have you noticed any changes in your breath sounds or any cyanosis?
+[patient] Yes, my breath sounds are worse on the right side, and my lips and fingers sometimes turn blue.
+[doctor] I see. I wish I could examine you in person, but since this is a telemedicine consultation, we'll have to rely on your descriptions. Have you had any recent tests or scans done?
+[patient] Yes, I'm waiting for the results of a PET-CT scan, a Complete Blood Count, a Comprehensive Metabolic Panel, and some tumor markers.
+[doctor] Got it. Based on what you've told me, it sounds like you might have a malignant pleural effusion. This is likely secondary to the metastatic spread from your Stage IV Pancreatic Cancer.
+[patient] What does that mean?
+[doctor] It means that fluid has accumulated in the space around your lungs, making it hard for you to breathe. This fluid is likely due to the spread of your cancer.
+[patient] So what can we do about it?
+[doctor] We can perform a procedure called thoracentesis to remove the fluid and relieve your symptoms. For long-term management, we might consider placing an indwelling pleural catheter to help with drainage.
+[patient] Will that help with my pain and breathing?
+[doctor] Yes, it should help alleviate some of the chest pain and make it easier for you to breathe.
+[patient] Okay, what else can we do?
+[doctor] I'm going to prescribe a Fentanyl Patch 25 mcg/hr, which you'll need to change every 72 hours. This will help manage your pain.
+[patient] Alright, anything else I need to know?
+[doctor] We'll need to have weekly follow-up appointments to manage the catheter and assess your symptoms. I'm also referring you to Dr. Sarah Ahmed, a Medical Oncology Specialist, for further cancer treatment planning.
+[patient] Okay, I understand.
+[doctor] We also need to follow up on your PET-CT scan, Complete Blood Count, Comprehensive Metabolic Panel, and tumor markers. These tests will help us monitor your condition and make any necessary adjustments to your treatment plan.
+[patient] I'll make sure to follow up on those.
+[doctor] Great. Do you have any questions or concerns about the treatment plan?
+[patient] No, it all makes sense. Thank you for explaining everything.
+[doctor] You're welcome. Remember, it's important to follow up with all your appointments and keep us updated on any changes in your condition.
+[patient] I will. Thanks, Doctor.
+[doctor] Take care, Mr. Doe. We'll talk again soon.
+[patient] Thank you. Goodbye.
+[doctor] Goodbye."|"[doctor] Good morning, Mr. Doe. How are you feeling today?
+
+[patient] Good morning, Doctor. Not so good, to be honest.
+
+[doctor] I'm sorry to hear that. Can you tell me a bit more about what's been going on?
+
+[patient] Well, over the past couple of months, my symptoms have gotten worse. I'm coughing a lot, my chest hurts, I've lost quite a bit of weight, and I'm always tired.
+
+[doctor] That sounds really tough. How's your sleep been?
+
+[patient] It's pretty bad. I wake up a lot because of the coughing and the discomfort.
+
+[doctor] I see. Are you able to get out of bed at all?
+
+[patient] Not really. I'm bedridden most of the day and need help with almost everything.
+
+[doctor] Alright, let's go through your symptoms systematically. Have you noticed any weight loss recently?
+
+[patient] Yes, I've lost a lot of weight.
+
+[doctor] What about fatigue?
+
+[patient] I'm always tired.
+
+[doctor] And how about your respiratory symptoms? Can you describe your cough and chest pain?
+
+[patient] The cough is chronic and doesn't seem to get better. The chest pain is constant and gets worse when I cough.
+
+[doctor] Are you experiencing any shortness of breath or cyanosis?
+
+[patient] Yes, I get short of breath easily, and sometimes my lips and fingers turn a bit blue.
+
+[doctor] What about your appetite? How's that been?
+
+[patient] I don't have much of an appetite. I'm on high-calorie supplements to try and keep my weight up.
+
+[doctor] Are you taking any medications for your gastrointestinal issues?
+
+[patient] Yes, I'm on Omeprazole 20mg daily for GERD.
+
+[doctor] And how are you doing with physical activities?
+
+[patient] I haven't been able to do any physical activities because of the weakness.
+
+[doctor] I understand. How are you feeling mentally and emotionally?
+
+[patient] I'm frustrated and anxious about my health. I sometimes miss appointments because it's hard to get around.
+
+[doctor] Thank you for sharing that with me. Let's move on to your physical symptoms. You mentioned a chronic cough and chest pain. Have you noticed any changes in your breath sounds or any cyanosis?
+
+[patient] Yes, my breath sounds are worse on the right side, and my lips and fingers sometimes turn blue.
+
+[doctor] I see. I wish I could examine you in person, but since this is a telemedicine consultation, we'll have to rely on your descriptions. Have you had any recent tests or scans done?
+
+[patient] Yes, I'm waiting for the results of a PET-CT scan, a Complete Blood Count, a Comprehensive Metabolic Panel, and some tumor markers.
+
+[doctor] Got it. Based on what you've told me, it sounds like you might have a malignant pleural effusion. This is likely secondary to the metastatic spread from your Stage IV Pancreatic Cancer.
+
+[patient] What does that mean?
+
+[doctor] It means that fluid has accumulated in the space around your lungs, making it hard for you to breathe. This fluid is likely due to the spread of your cancer.
+
+[patient] So what can we do about it?
+
+[doctor] We can perform a procedure called thoracentesis to remove the fluid and relieve your symptoms. For long-term management, we might consider placing an indwelling pleural catheter to help with drainage.
+
+[patient] Will that help with my pain and breathing?
+
+[doctor] Yes, it should help alleviate some of the chest pain and make it easier for you to breathe.
+
+[patient] Okay, what else can we do?
+
+[doctor] I'm going to prescribe a Fentanyl Patch 25 mcg/hr, which you'll need to change every 72 hours. This will help manage your pain.
+
+[patient] Alright, anything else I need to know?
+
+[doctor] We'll need to have weekly follow-up appointments to manage the catheter and assess your symptoms. I'm also referring you to Dr. Sarah Ahmed, a Medical Oncology Specialist, for further cancer treatment planning.
+
+[patient] Okay, I understand.
+
+[doctor] We also need to follow up on your PET-CT scan, Complete Blood Count, Comprehensive Metabolic Panel, and tumor markers. These tests will help us monitor your condition and make any necessary adjustments to your treatment plan.
+
+[patient] I'll make sure to follow up on those.
+
+[doctor] Great. Do you have any questions or concerns about the treatment plan?
+
+[patient] No, it all makes sense. Thank you for explaining everything.
+
+[doctor] You're welcome. Remember, it's important to follow up with all your appointments and keep us updated on any changes in your condition.
+
+[patient] I will. Thanks, Doctor.
+
+[doctor] Take care, Mr. Doe. We'll talk again soon.
+
+[patient] Thank you. Goodbye.
+
+[doctor] Goodbye."
+MALIGNANT PLEURAL EFFUSION|"**ROLE:** Pulmonologist
+
+**Variables:**
+
+1. **Medical Outcome:**
+    - Diagnosis: Pulmonary Embolism (ICD-10 Description: Pulmonary Embolism)
+    - Prescribed treatment: Initiate anticoagulation therapy with Enoxaparin 1 mg/kg, subcutaneous, twice daily for 7 days, and prescribe Warfarin 5 mg, oral, daily, quantity: 30 tablets.
+    - Follow-up recommendations: Close monitoring of INR, follow-up in 1 week to adjust Warfarin dosage
+    - Referral to specialists: Referral to Dr. Anita Sharma, Cardiologist, for evaluation of cardiac function post-embolism
+    - Imaging: Order a CT Pulmonary Angiography to confirm the presence and extent of the embolism
+
+2. **Medical History:**
+    - Previous Diagnoses: Deep Vein Thrombosis (DVT), Hyperthyroidism
+    - Family Medical History: Mother had atrial fibrillation, father had myocardial infarction
+    - Medication History: Currently on Levothyroxine 50 mcg daily for hyperthyroidism
+    - Allergies: No known drug allergies
+    - Chronic Conditions: None
+
+3. **Symptom Description:**
+    - Severity: Severe sudden onset of shortness of breath and chest pain
+    - Duration: 2 days
+    - Associated Symptoms: Tachycardia, light-headedness, and hemoptysis
+    - Frequency: Constant since the onset of symptoms
+    - Impact on Daily Activities: Significant, unable to perform daily tasks such as walking or climbing stairs without severe discomfort
+
+4. **Patient’s self-reported habits and lifestyle:**
+    - Sleep: Poor sleep due to chest discomfort
+    - Diet: Balanced diet, moderate appetite
+    - Exercise: Recently reduced due to leg swelling and pain
+    - Tobacco Use: Never smoked
+    - Alcohol Consumption: Occasional, 1-2 drinks per month
+    - Drug Use: No recreational drug use
+    - Recreational Activities: Enjoys reading and gardening
+
+5. **Demographic Information:**
+    - Age: 58
+    - Gender: Female
+    - Ethnicity: Hispanic
+    - Socio-economic Status: Middle class
+    - Education Level: College graduate
+    - Health Literacy: High
+    - Job Status: Office manager
+
+6. **Patient's Behavior:**
+    - Cooperation: Very anxious about health but compliant with medical advice
+
+7. **Geographical Location:**
+    - Suburban
+    - Pollution and Environmental Health Risks: Low pollution, clean environment
+    - Neighborhood Type: Affluent, well-served by transit, access to healthy food options
+
+8. **Clinical Setting:**
+    - Hospital Emergency Room
+
+9. **Type of Encounter:**
+    - Emergency Visit
+
+10. **Treatment Disparities:**
+    - None noted; patient has good access to healthcare services
+
+11. **Native or Non-Native English Speaking Patient:**
+    - Non-Native English speaking, primary language Spanish but fluent in English
+
+12. **Physical exams:**
+    - Respiratory: Clear to auscultation but with noted tachypnea
+    - Cardiovascular: Tachycardia, regular rhythm without murmurs
+    - Other: Moderate swelling and tenderness of the left calf suggestive of DVT
+
+13. **Investigation/Test results:**
+    - Awaiting results: 
+        - CT Pulmonary Angiography: To confirm the presence and extent of the pulmonary embolism
+        - D-dimer test: To assess for clotting abnormalities
+        - Complete blood count (CBC): Routine evaluation prior to anticoagulation therapy"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe sudden onset of shortness of breath and chest pain.
+
+**History of Present Illness (HPI):**
+A 58-year-old Hispanic female presents to the emergency room with a 2-day history of severe, sudden onset shortness of breath and chest pain. She reports associated symptoms of tachycardia, light-headedness, and hemoptysis. The symptoms have been constant since the onset and have significantly impacted her daily activities, making it difficult for her to walk or climb stairs without severe discomfort. She denies any tobacco or recreational drug use, has a balanced diet, and consumes alcohol occasionally (1-2 drinks per month). She notes poor sleep recently due to the chest discomfort. 
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports significant fatigue and weakness.
+- **Respiratory:** Severe shortness of breath, hemoptysis.
+- **Cardiovascular:** Tachycardia, chest pain.
+- **Musculoskeletal:** Moderate swelling and tenderness of left calf.
+- **Neurological:** Reports light-headedness, denies syncope or seizures.
+- **Gastrointestinal:** Denies abdominal pain, nausea, or vomiting.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 98.6°F
+- Blood Pressure: 140/90 mmHg
+- Heart Rate: 120 bpm (tachycardic)
+- Respiratory Rate: 24 breaths per minute (tachypneic)
+- Oxygen Saturation: 92% on room air
+
+**Physical Exam:**
+- **General:** Patient appears anxious, in moderate distress.
+- **Respiratory:** Clear to auscultation bilaterally but with noted tachypnea.
+- **Cardiovascular:** Tachycardia, regular rhythm without murmurs.
+- **Musculoskeletal:** Moderate swelling and tenderness of the left calf, suggestive of DVT.
+- **Other Findings:** No cyanosis, clubbing, or edema of the extremities beyond the left calf.
+
+**3. Assessment:**
+
+**Diagnosis:**
+Pulmonary Embolism (ICD-10: I26.99)
+
+- **Medical Reasoning:** The patient's presentation of sudden severe shortness of breath, chest pain, tachycardia, and hemoptysis, along with the history of deep vein thrombosis (DVT), strongly suggests pulmonary embolism. The physical examination findings of tachypnea, tachycardia, and left calf tenderness further support this diagnosis.
+
+**4. Plan:**
+
+**Medical Treatment:**
+- Initiate anticoagulation therapy with Enoxaparin 1 mg/kg subcutaneously twice daily for 7 days.
+- Prescribe Warfarin 5 mg orally daily, quantity: 30 tablets. Close monitoring of INR is essential to adjust Warfarin dosage.
+
+**Imaging:**
+- Order a CT Pulmonary Angiography to confirm the presence and extent of the embolism.
+
+**Laboratory Tests:**
+- D-dimer test to assess for clotting abnormalities.
+- Complete blood count (CBC) for routine evaluation prior to anticoagulation therapy.
+
+**Referral:**
+- Refer to Dr. Anita Sharma, Cardiologist, for evaluation of cardiac function post-embolism.
+
+**Patient Education and Counseling:**
+- Educated the patient about the significance of pulmonary embolism and the necessity of immediate treatment.
+- Explained the importance of medication compliance and monitoring, and potential side effects of anticoagulants.
+- Discussed lifestyle modifications and the need to avoid prolonged immobility.
+
+**Follow-up:**
+- Schedule a follow-up appointment in 1 week to adjust Warfarin dosage based on INR levels.
+- Instruct the patient to seek immediate medical attention if experiencing worsening symptoms such as increased chest pain, shortness of breath, or signs of bleeding.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended medical treatment plan.
+
+**INSTRUCTIONS:**
+- The patient will follow up in 1 week with the primary care physician or earlier if symptoms worsen. Patient will also follow up with Dr. Anita Sharma, Cardiologist, as scheduled.
+#####"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe sudden onset of shortness of breath and chest pain.
+
+**History of Present Illness (HPI):**
+A 58-year-old Hispanic female presents to the emergency room with a 2-day history of severe, sudden onset shortness of breath and chest pain. She reports associated symptoms of tachycardia, light-headedness, and hemoptysis. The symptoms have been constant since the onset and have significantly impacted her daily activities, making it difficult for her to walk or climb stairs without severe discomfort. She denies any tobacco or recreational drug use, has a balanced diet, and consumes alcohol occasionally (1-2 drinks per month). She notes poor sleep recently due to the chest discomfort. 
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports significant fatigue and weakness.
+- **Respiratory:** Severe shortness of breath, hemoptysis.
+- **Cardiovascular:** Tachycardia, chest pain.
+- **Musculoskeletal:** Moderate swelling and tenderness of left calf.
+- **Neurological:** Reports light-headedness, denies syncope or seizures.
+- **Gastrointestinal:** Denies abdominal pain, nausea, or vomiting.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 98.6°F
+- Blood Pressure: 140/90 mmHg
+- Heart Rate: 120 bpm (tachycardic)
+- Respiratory Rate: 24 breaths per minute (tachypneic)
+- Oxygen Saturation: 92% on room air
+
+**Physical Exam:**
+- **General:** Patient appears anxious, in moderate distress.
+- **Respiratory:** Clear to auscultation bilaterally but with noted tachypnea.
+- **Cardiovascular:** Tachycardia, regular rhythm without murmurs.
+- **Musculoskeletal:** Moderate swelling and tenderness of the left calf, suggestive of DVT.
+- **Other Findings:** No cyanosis, clubbing, or edema of the extremities beyond the left calf.
+
+**3. Assessment:**
+
+**Diagnosis:**
+Pulmonary Embolism (ICD-10: I26.99)
+
+- **Medical Reasoning:** The patient's presentation of sudden severe shortness of breath, chest pain, tachycardia, and hemoptysis, along with the history of deep vein thrombosis (DVT), strongly suggests pulmonary embolism. The physical examination findings of tachypnea, tachycardia, and left calf tenderness further support this diagnosis.
+
+**4. Plan:**
+
+**Medical Treatment:**
+- Initiate anticoagulation therapy with Enoxaparin 1 mg/kg subcutaneously twice daily for 7 days.
+- Prescribe Warfarin 5 mg orally daily, quantity: 30 tablets. Close monitoring of INR is essential to adjust Warfarin dosage.
+
+**Imaging:**
+- Order a CT Pulmonary Angiography to confirm the presence and extent of the embolism.
+
+**Laboratory Tests:**
+- D-dimer test to assess for clotting abnormalities.
+- Complete blood count (CBC) for routine evaluation prior to anticoagulation therapy.
+
+**Referral:**
+- Refer to Dr. Anita Sharma, Cardiologist, for evaluation of cardiac function post-embolism.
+
+**Patient Education and Counseling:**
+- Educated the patient about the significance of pulmonary embolism and the necessity of immediate treatment.
+- Explained the importance of medication compliance and monitoring, and potential side effects of anticoagulants.
+- Discussed lifestyle modifications and the need to avoid prolonged immobility.
+
+**Follow-up:**
+- Schedule a follow-up appointment in 1 week to adjust Warfarin dosage based on INR levels.
+- Instruct the patient to seek immediate medical attention if experiencing worsening symptoms such as increased chest pain, shortness of breath, or signs of bleeding.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended medical treatment plan.
+
+**INSTRUCTIONS:**
+- The patient will follow up in 1 week with the primary care physician or earlier if symptoms worsen. Patient will also follow up with Dr. Anita Sharma, Cardiologist, as scheduled.
+#####"|"#####
+**1. Subjective:**
+
+**CC:**
+Severe sudden onset of SOB and CP.
+
+**HPI:**
+A 58-year-old Hispanic F presents to the ER with a 2-day hx of severe, sudden onset SOB and CP. She reports associated sx of tachycardia, light-headedness, and hemoptysis. The sx have been constant since the onset and have significantly impacted her ADLs, making it difficult for her to walk or climb stairs without severe discomfort. She denies any tobacco or recreational drug use, has a balanced diet, and consumes ETOH occasionally (1-2 drinks per month). She notes poor sleep recently due to the CP.
+
+**ROS:**
+- **Constitutional:** Reports significant fatigue and weakness.
+- **Respiratory:** Severe SOB, hemoptysis.
+- **Cardiovascular:** Tachycardia, CP.
+- **Musculoskeletal:** Moderate swelling and tenderness of L calf.
+- **Neurological:** Reports light-headedness, denies syncope or seizures.
+- **Gastrointestinal:** Denies abdominal pain, nausea, or vomiting.
+
+**2. Objective:**
+
+**VS:**
+- Temp: 98.6°F
+- BP: 140/90 mmHg
+- HR: 120 bpm (tachycardic)
+- RR: 24 breaths per minute (tachypneic)
+- O2 Sat: 92% on RA
+
+**PE:**
+- **General:** Patient appears anxious, in moderate distress.
+- **Respiratory:** Clear to auscultation bilaterally but with noted tachypnea.
+- **Cardiovascular:** Tachycardia, regular rhythm without murmurs.
+- **Musculoskeletal:** Moderate swelling and tenderness of the L calf, suggestive of DVT.
+- **Other Findings:** No cyanosis, clubbing, or edema of the extremities beyond the L calf.
+
+**3. Assessment:**
+
+**Dx:**
+PE (ICD-10: I26.99)
+
+- **Medical Reasoning:** The patient's presentation of sudden severe SOB, CP, tachycardia, and hemoptysis, along with the hx of DVT, strongly suggests PE. The PE findings of tachypnea, tachycardia, and L calf tenderness further support this dx.
+
+**4. Plan:**
+
+**Medical Tx:**
+- Initiate anticoagulation therapy with Enoxaparin 1 mg/kg SC BID for 7 days.
+- Rx Warfarin 5 mg PO daily, qty: 30 tabs. Close monitoring of INR is essential to adjust Warfarin dosage.
+
+**Imaging:**
+- Order a CTPA to confirm the presence and extent of the embolism.
+
+**Lab Tests:**
+- D-dimer to assess for clotting abnormalities.
+- CBC for routine evaluation prior to anticoagulation therapy.
+
+**Referral:**
+- Refer to Dr. Anita Sharma, Cardiology, for eval of cardiac function post-embolism.
+
+**Patient Education and Counseling:**
+- Educated the patient about the significance of PE and the necessity of immediate tx.
+- Explained the importance of med compliance and monitoring, and potential side effects of anticoagulants.
+- Discussed lifestyle modifications and the need to avoid prolonged immobility.
+
+**Follow-up:**
+- Schedule a follow-up appt in 1 week to adjust Warfarin dosage based on INR levels.
+- Instruct the patient to seek immediate medical attention if experiencing worsening sx such as increased CP, SOB, or signs of bleeding.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended medical tx plan.
+
+**INSTRUCTIONS:**
+- The patient will follow up in 1 week with the PCP or earlier if sx worsen. Patient will also follow up with Dr. Anita Sharma, Cardiology, as scheduled.
+#####"|Role not found in the first 5 lines.|"**Conversations:**
+
+[Doctor] Good morning. How are you feeling today?
+
+[Patient] I'm not doing too well, doctor. I've been having severe shortness of breath and chest pain for the past two days.
+
+[Doctor] I see. Can you describe the onset of these symptoms?
+
+[Patient] The shortness of breath and chest pain started suddenly and have been constant since then. It's been really difficult for me to walk or climb stairs.
+
+[Doctor] Have you noticed any other symptoms along with the shortness of breath and chest pain?
+
+[Patient] Yes, I've been feeling light-headed and my heart has been racing. I've also coughed up some blood.
+
+[Doctor] I see. Have you experienced any swelling or tenderness in your legs?
+
+[Patient] Yes, my left calf is swollen and tender.
+
+[Doctor] Hmm, that could be significant. Have you had any recent injuries or surgeries?
+
+[Patient] No, nothing like that.
+
+[Doctor] Do you smoke or use any recreational drugs?
+
+[Patient] No, I don't smoke or use drugs. 
+
+[Doctor] How about alcohol? Do you drink?
+
+[Patient] Occasionally, maybe 1-2 drinks a month.
+
+[Doctor] Okay. How has your sleep been recently?
+
+[Patient] Poor. The chest discomfort has made it hard to sleep.
+
+[Doctor] I understand. Can you tell me about your diet?
+
+[Patient] I have a balanced diet, I think.
+
+[Doctor] Have you had any significant fatigue or weakness?
+
+[Patient] Yes, I've been feeling very tired and weak.
+
+[Doctor] Any abdominal pain, nausea, or vomiting?
+
+[Patient] No, none of that.
+
+[Doctor] Any episodes of fainting or seizures?
+
+[Patient] No.
+
+[Doctor] Alright, let's take a look at your vitals. Your temperature is 98.6°F, blood pressure is 140/90 mmHg, heart rate is 120 bpm, respiratory rate is 24 breaths per minute, and oxygen saturation is 92% on room air.
+
+[Patient] Is that bad?
+
+[Doctor] Your heart rate and respiratory rate are elevated, and your oxygen saturation is slightly low. Let me perform a physical examination now. 
+
+[Patient] Okay.
+
+[Doctor] You appear anxious and in moderate distress. Your lungs are clear to auscultation bilaterally, but you are breathing rapidly. Your heart is racing but has a regular rhythm, and I don't hear any murmurs. Your left calf is moderately swollen and tender, which is suggestive of a deep vein thrombosis (DVT).
+
+[Patient] What does that mean?
+
+[Doctor] It means you might have a blood clot in your leg, which could have traveled to your lungs, causing a pulmonary embolism.
+
+[Patient] That sounds serious.
+
+[Doctor] It is, but we can treat it. I'll need to order a CT Pulmonary Angiography to confirm the presence and extent of the embolism. We'll also do a D-dimer test and a complete blood count (CBC).
+
+[Patient] What happens next?
+
+[Doctor] We'll start you on anticoagulation therapy immediately. You'll receive Enoxaparin 1 mg/kg subcutaneously twice daily for 7 days. I'll also prescribe Warfarin 5 mg orally daily. We'll need to closely monitor your INR levels to adjust the Warfarin dosage.
+
+[Patient] Will I need to stay in the hospital?
+
+[Doctor] You might need to stay for observation initially, but we can often manage this as an outpatient with close follow-up.
+
+[Patient] What should I do at home?
+
+[Doctor] Avoid prolonged immobility, keep active but within limits, and follow the medication regimen strictly. Also, seek immediate medical attention if your symptoms worsen or you notice signs of bleeding.
+
+[Patient] Okay, I understand.
+
+[Doctor] I'll refer you to Dr. Anita Sharma, a cardiologist, for evaluation of your cardiac function after the embolism. We'll also schedule a follow-up appointment in one week to adjust your Warfarin dosage based on your INR levels.
+
+[Patient] Do I need to do anything else?
+
+[Doctor] Continue taking your medications as prescribed, and keep your leg elevated when you're seated. We'll provide you with detailed instructions before you leave.
+
+[Patient] Thank you, doctor.
+
+[Doctor] You're welcome. Do you have any questions or concerns?
+
+[Patient] How long will it take to feel better?
+
+[Doctor] Your symptoms should significantly improve over the next few weeks with treatment. We'll monitor your progress closely.
+
+[Patient] Alright.
+
+[Doctor] If you follow the treatment plan and make the necessary lifestyle modifications, you should recover well. We'll see you again in one week, and make sure to follow up with Dr. Sharma as scheduled.
+
+[Patient] Thank you for everything.
+
+[Doctor] You're welcome. Take care and follow the instructions. If you have any questions or concerns before your next appointment, don't hesitate to call.
+
+[Patient] I will. Thank you, doctor.
+
+[Doctor] Take care. Goodbye.
+
+[Patient] Goodbye."|"[Doctor] Good morning. How are you feeling today?
+
+[Patient] I'm not doing too well, doctor. I've been having severe shortness of breath and chest pain for the past two days.
+
+[Doctor] I see. Can you describe the onset of these symptoms?
+
+[Patient] The shortness of breath and chest pain started suddenly and have been constant since then. It's been really difficult for me to walk or climb stairs.
+
+[Doctor] Hmm, that sounds quite uncomfortable. Have you noticed any other symptoms along with the shortness of breath and chest pain?
+
+[Patient] Yes, I've been feeling light-headed and my heart has been racing. I've also coughed up some blood.
+
+[Doctor] I see. Have you experienced any swelling or tenderness in your legs?
+
+[Patient] Yes, my left calf is swollen and tender.
+
+[Doctor] Hmm, that could be significant. Have you had any recent injuries or surgeries?
+
+[Patient] No, nothing like that.
+
+[Doctor] Do you smoke or use any recreational drugs?
+
+[Patient] No, I don't smoke or use drugs. 
+
+[Doctor] How about alcohol? Do you drink?
+
+[Patient] Occasionally, maybe 1-2 drinks a month.
+
+[Doctor] Okay. How has your sleep been recently?
+
+[Patient] Poor. The chest discomfort has made it hard to sleep.
+
+[Doctor] I understand. Can you tell me about your diet?
+
+[Patient] I have a balanced diet, I think.
+
+[Doctor] Have you had any significant fatigue or weakness?
+
+[Patient] Yes, I've been feeling very tired and weak.
+
+[Doctor] Any abdominal pain, nausea, or vomiting?
+
+[Patient] No, none of that.
+
+[Doctor] Any episodes of fainting or seizures?
+
+[Patient] No.
+
+[Doctor] Alright, let's take a look at your vitals. Your temperature is 98.6°F, blood pressure is 140/90 mmHg, heart rate is 120 bpm, respiratory rate is 24 breaths per minute, and oxygen saturation is 92% on room air.
+
+[Patient] Is that bad?
+
+[Doctor] Your heart rate and respiratory rate are elevated, and your oxygen saturation is slightly low. Let me perform a physical examination now. 
+
+[Patient] Okay.
+
+[Doctor] You appear anxious and in moderate distress. Your lungs are clear to auscultation bilaterally, but you are breathing rapidly. Your heart is racing but has a regular rhythm, and I don't hear any murmurs. Your left calf is moderately swollen and tender, which is suggestive of a deep vein thrombosis (DVT).
+
+[Patient] What does that mean?
+
+[Doctor] It means you might have a blood clot in your leg, which could have traveled to your lungs, causing a pulmonary embolism.
+
+[Patient] That sounds serious.
+
+[Doctor] It is, but we can treat it. I'll need to order a CT Pulmonary Angiography to confirm the presence and extent of the embolism. We'll also do a D-dimer test and a complete blood count (CBC).
+
+[Patient] What happens next?
+
+[Doctor] We'll start you on anticoagulation therapy immediately. You'll receive Enoxaparin 1 mg/kg subcutaneously twice daily for 7 days. I'll also prescribe Warfarin 5 mg orally daily. We'll need to closely monitor your INR levels to adjust the Warfarin dosage.
+
+[Patient] Will I need to stay in the hospital?
+
+[Doctor] You might need to stay for observation initially, but we can often manage this as an outpatient with close follow-up.
+
+[Patient] What should I do at home?
+
+[Doctor] Avoid prolonged immobility, keep active but within limits, and follow the medication regimen strictly. Also, seek immediate medical attention if your symptoms worsen or you notice signs of bleeding.
+
+[Patient] Okay, I understand.
+
+[Doctor] I'll refer you to Dr. Anita Sharma, a cardiologist, for evaluation of your cardiac function after the embolism. We'll also schedule a follow-up appointment in one week to adjust your Warfarin dosage based on your INR levels.
+
+[Patient] Do I need to do anything else?
+
+[Doctor] Continue taking your medications as prescribed, and keep your leg elevated when you're seated. We'll provide you with detailed instructions before you leave.
+
+[Patient] Thank you, doctor.
+
+[Doctor] You're welcome. Do you have any questions or concerns?
+
+[Patient] How long will it take to feel better?
+
+[Doctor] Your symptoms should significantly improve over the next few weeks with treatment. We'll monitor your progress closely.
+
+[Patient] Alright.
+
+[Doctor] If you follow the treatment plan and make the necessary lifestyle modifications, you should recover well. We'll see you again in one week, and make sure to follow up with Dr. Sharma as scheduled.
+
+[Patient] Thank you for everything.
+
+[Doctor] You're welcome. Take care and follow the instructions. If you have any questions or concerns before your next appointment, don't hesitate to call.
+
+[Patient] I will. Thank you, doctor.
+
+[Doctor] Take care. Goodbye.
+
+[Patient] Goodbye."
+MALIGNANT PLEURAL EFFUSION|"ROLE: Pulmonologist
+
+**Medical Outcome:**
+- Diagnosis: Sarcoidosis
+- Prescribed Treatment: Prednisone 40 mg
+    - Dose: 40 mg
+    - Route: Oral
+    - Frequency: Daily
+    - Duration: 6 weeks
+    - Quantity: 42 tablets
+- Follow-up recommendations: Follow-up consultation in 6 weeks to monitor response and adjust dosage
+- Referral: Referral to Ophthalmology for evaluation of potential ocular involvement (Dr. Emily Carter, Ophthalmologist)
+- Blood work: Complete Blood Count (CBC) and Serum Angiotensin-Converting Enzyme (ACE)
+- Imaging: Chest X-ray to assess lung and lymph node involvement
+
+**Medical History:**
+- Previous Diagnoses: Hypertension, type 2 diabetes
+- Medications: Metformin (500 mg twice daily), Lisinopril (10 mg once daily)
+- Allergies: Sulfa drugs
+
+**Symptom Description:**
+- Severity: Moderate shortness of breath
+- Duration: Symptoms present for 6 months with gradual worsening
+- Associated Symptoms: Persistent dry cough, night sweats, fatigue, joint pain
+- Frequency: Daily symptoms with intermittent flares
+- Impact on Daily Activities: Difficulty performing daily tasks, including walking and handling groceries
+
+**Patient’s self-reported habits and lifestyle:**
+- Sleep: Poor, with frequent interruptions due to coughing and night sweats
+- Diet: Balanced diet but with reduced portion sizes due to loss of appetite
+- Exercise: Minimal, mostly due to fatigue and breathlessness
+- Tobacco Use: Non-smoker
+- Alcohol Consumption: Occasional, 1-2 drinks per month
+- Recreational Activities: Used to be active in community gardening but no longer participates due to symptoms
+
+**Demographic Information:**
+- Age: 45
+- Gender: Male
+- Ethnicity: African American
+- Socio-economic Status: Lower class
+- Education Level: Some college
+- Health Literacy: Moderate, understands most medical instructions but occasionally needs clarification
+- Job Status: Unemployed, recently laid off due to ongoing health issues
+
+**Patient's Behavior:**
+- High level of cooperation with medical advice, adheres to medication regimens and follows up on referrals promptly
+
+**Geographical Location:**
+- Urban: Lives in an urban area with high access to medical facilities but high pollution levels
+- Pollution and Environmental Health Risks: High pollution, lives close to an industrial area
+- Neighborhood Type: Low-income neighborhood, well-served by public transit, moderate food desert
+
+**Clinical Setting:**
+- Community Health Services: Seen at a community health clinic with multidisciplinary care
+
+**Type of Encounter:**
+- Initial Consultation for suspected sarcoidosis based on symptoms and initial imaging
+
+**Native or Non-Native English Speaking Patient:**
+- Native English speaking patient
+
+**Physical exams:**
+- Respiratory Examination: Bilateral crackles heard on lung auscultation, mild lymphadenopathy noted in the neck
+
+**Investigation/Test results:**
+- Awaiting Chest X-ray results to evaluate lung involvement
+- Blood work: CBC and Serum ACE pending analysis"|"### Medical Note
+
+**1. Subjective:**
+
+**Chief Complaint (CC):** Moderate shortness of breath.
+
+**History of Present Illness (HPI):**
+The patient is a 45-year-old African American male who presents for an initial consultation due to suspected sarcoidosis. He reports experiencing moderate shortness of breath for the past six months, which has gradually worsened. His symptoms include a persistent dry cough, night sweats, fatigue, and joint pain. These symptoms occur daily with intermittent flares. The patient notes significant difficulty performing daily tasks, such as walking and handling groceries, due to breathlessness and fatigue.
+
+**Review of Systems (ROS):**
+- Respiratory: Persistent dry cough, moderate shortness of breath.
+- General: Night sweats, fatigue.
+- Musculoskeletal: Joint pain.
+- Neurological: No numbness or tingling.
+- Cardiovascular: No chest pain, palpitations, or syncope.
+- Gastrointestinal: Loss of appetite, no nausea or vomiting.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 132/78 mmHg
+- Heart Rate: 84 bpm
+- Respiratory Rate: 20 breaths/min
+- Temperature: Afebrile
+- Oxygen Saturation: 96% on room air
+
+**Physical Examination:**
+- **General:** Patient appears tired and is in mild respiratory distress.
+- **Respiratory:** Bilateral crackles heard on lung auscultation, mild lymphadenopathy noted in the neck.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs or gallops.
+- **Abdomen:** Soft, non-tender, no hepatosplenomegaly.
+- **Extremities:** No edema, mild joint tenderness noted in the knees and wrists.
+
+**3. Assessment:**
+- Sarcoidosis, suspected based on clinical presentation and initial imaging.
+- Comorbidities: Hypertension, type 2 diabetes.
+
+**4. Plan:**
+
+- **Medications:**
+  - Prescribed Prednisone 40 mg, to be taken orally once daily for 6 weeks. Quantity: 42 tablets.
+  - Continue current medications: Metformin 500 mg twice daily, Lisinopril 10 mg once daily.
+
+- **Follow-up:**
+  - Schedule follow-up consultation in 6 weeks to monitor response to treatment and adjust dosage as needed.
+
+- **Referrals:**
+  - Referral to Ophthalmology for evaluation of potential ocular involvement. Appointment with Dr. Emily Carter, Ophthalmologist.
+
+- **Investigations:**
+  - Ordered Complete Blood Count (CBC) and Serum Angiotensin-Converting Enzyme (ACE) to be conducted immediately.
+  - Chest X-ray to assess lung and lymph node involvement—awaiting results.
+
+- **Lifestyle and Support:**
+  - Advised patient to avoid exposure to high pollution areas as much as possible.
+  - Suggested joining a support group for sarcoidosis patients for emotional and community support.
+
+- **Education:**
+  - Explained the nature of sarcoidosis and the importance of medication adherence.
+  - Discussed potential side effects of Prednisone and emphasized the importance of follow-up appointments and lab work.
+
+- **Next Visit:**
+  - Patient scheduled to return in 6 weeks for re-evaluation and review of test results.
+
+**Instructions:**
+- The patient was instructed to start Prednisone immediately and maintain adherence to his current medication regimen for hypertension and diabetes. He was also advised to monitor symptoms and report any acute worsening immediately.
+
+**Clinical Setting:**
+- Patient was seen today at a community health clinic with multidisciplinary care.
+
+**Physical exams:**
+- Respiratory Examination: Bilateral crackles heard on lung auscultation, mild lymphadenopathy noted in the neck.
+
+**Investigation/Test results:**
+- Awaiting Chest X-ray results to evaluate lung involvement.
+- Blood work: CBC and Serum ACE pending analysis."|"### Medical Note
+
+**1. Subjective:**
+
+**Chief Complaint (CC):** Moderate shortness of breath.
+
+**History of Present Illness (HPI):**
+The patient is a 45-year-old African American male who presents for an initial consultation due to suspected sarcoidosis. He reports experiencing moderate shortness of breath for the past six months, which has gradually worsened. His symptoms include a persistent dry cough, night sweats, fatigue, and joint pain. These symptoms occur daily with intermittent flares. The patient notes significant difficulty performing daily tasks, such as walking and handling groceries, due to breathlessness and fatigue.
+
+**Review of Systems (ROS):**
+- Respiratory: Persistent dry cough, moderate shortness of breath.
+- General: Night sweats, fatigue.
+- Musculoskeletal: Joint pain.
+- Neurological: No numbness or tingling.
+- Cardiovascular: No chest pain, palpitations, or syncope.
+- Gastrointestinal: Loss of appetite, no nausea or vomiting.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 132/78 mmHg
+- Heart Rate: 84 bpm
+- Respiratory Rate: 20 breaths/min
+- Temperature: Afebrile
+- Oxygen Saturation: 96% on room air
+
+**Physical Examination:**
+- **General:** Patient appears tired and is in mild respiratory distress.
+- **Respiratory:** Bilateral crackles heard on lung auscultation, mild lymphadenopathy noted in the neck.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs or gallops.
+- **Abdomen:** Soft, non-tender, no hepatosplenomegaly.
+- **Extremities:** No edema, mild joint tenderness noted in the knees and wrists.
+
+**3. Assessment:**
+- Sarcoidosis, suspected based on clinical presentation and initial imaging.
+- Comorbidities: Hypertension, type 2 diabetes.
+
+**4. Plan:**
+
+- **Medications:**
+  - Prescribed Prednisone 40 mg, to be taken orally once daily for 6 weeks. Quantity: 42 tablets.
+  - Continue current medications: Metformin 500 mg twice daily, Lisinopril 10 mg once daily.
+
+- **Follow-up:**
+  - Schedule follow-up consultation in 6 weeks to monitor response to treatment and adjust dosage as needed.
+
+- **Referrals:**
+  - Referral to Ophthalmology for evaluation of potential ocular involvement. Appointment with Dr. Emily Carter, Ophthalmologist.
+
+- **Investigations:**
+  - Ordered Complete Blood Count (CBC) and Serum Angiotensin-Converting Enzyme (ACE) to be conducted immediately.
+  - Chest X-ray to assess lung and lymph node involvement—awaiting results.
+
+- **Lifestyle and Support:**
+  - Advised patient to avoid exposure to high pollution areas as much as possible.
+  - Suggested joining a support group for sarcoidosis patients for emotional and community support.
+
+- **Education:**
+  - Explained the nature of sarcoidosis and the importance of medication adherence.
+  - Discussed potential side effects of Prednisone and emphasized the importance of follow-up appointments and lab work.
+
+- **Next Visit:**
+  - Patient scheduled to return in 6 weeks for re-evaluation and review of test results.
+
+**Instructions:**
+- The patient was instructed to start Prednisone immediately and maintain adherence to his current medication regimen for hypertension and diabetes. He was also advised to monitor symptoms and report any acute worsening immediately.
+
+**Clinical Setting:**
+- Patient was seen today at a community health clinic with multidisciplinary care."|"### Medical Note
+
+**1. Subjective:**
+
+**CC:** Moderate SOB.
+
+**HPI:**
+The pt is a 45 y/o African American male who presents for an initial consult due to suspected sarcoidosis. He reports experiencing moderate SOB for the past 6 months, which has gradually worsened. His sx include a persistent dry cough, night sweats, fatigue, and joint pain. These sx occur daily with intermittent flares. The pt notes significant difficulty performing ADLs, such as walking and handling groceries, due to breathlessness and fatigue.
+
+**ROS:**
+- Resp: Persistent dry cough, moderate SOB.
+- General: Night sweats, fatigue.
+- MSK: Joint pain.
+- Neuro: No numbness or tingling.
+- CV: No CP, palpitations, or syncope.
+- GI: Loss of appetite, no N/V.
+
+**2. Objective:**
+
+**VS:**
+- BP: 132/78 mmHg
+- HR: 84 bpm
+- RR: 20 breaths/min
+- Temp: Afebrile
+- O2 Sat: 96% on RA
+
+**PE:**
+- **General:** Pt appears tired and is in mild resp distress.
+- **Resp:** Bilateral crackles heard on lung auscultation, mild lymphadenopathy noted in the neck.
+- **CV:** RRR, no murmurs or gallops.
+- **Abd:** Soft, non-tender, no HSM.
+- **Ext:** No edema, mild joint tenderness noted in the knees and wrists.
+
+**3. Assessment:**
+- Sarcoidosis, suspected based on clinical presentation and initial imaging.
+- Comorbidities: HTN, T2DM.
+
+**4. Plan:**
+
+- **Meds:**
+  - Rx Prednisone 40 mg PO QD for 6 weeks. Qty: 42 tabs.
+  - Continue current meds: Metformin 500 mg BID, Lisinopril 10 mg QD.
+
+- **F/U:**
+  - Schedule F/U consult in 6 weeks to monitor response to tx and adjust dosage as needed.
+
+- **Referrals:**
+  - Referral to Ophtho for eval of potential ocular involvement. Appt with Dr. Emily Carter, Ophthalmologist.
+
+- **Investigations:**
+  - Ordered CBC and Serum ACE to be conducted STAT.
+  - CXR to assess lung and lymph node involvement—awaiting results.
+
+- **Lifestyle and Support:**
+  - Advised pt to avoid exposure to high pollution areas as much as possible.
+  - Suggested joining a support group for sarcoidosis pts for emotional and community support.
+
+- **Education:**
+  - Explained the nature of sarcoidosis and the importance of med adherence.
+  - Discussed potential SEs of Prednisone and emphasized the importance of F/U appts and lab work.
+
+- **Next Visit:**
+  - Pt scheduled to return in 6 weeks for re-eval and review of test results.
+
+**Instructions:**
+- The pt was instructed to start Prednisone immediately and maintain adherence to his current med regimen for HTN and T2DM. He was also advised to monitor sx and report any acute worsening immediately.
+
+**Clinical Setting:**
+- Pt was seen today at a community health clinic with multidisciplinary care."|Pulmonologist|"### Dialogue
+
+#### Initial Consultation
+
+**Doctor:** Good afternoon. How are you doing today?
+
+**Patient:** Good afternoon, Doctor. I've been better, to be honest. I'm really struggling with my breathing.
+
+**Doctor:** I'm sorry to hear that. Can you tell me more about your symptoms?
+
+**Patient:** Sure. I've had moderate shortness of breath for about six months now. It's been getting worse gradually. I also have a persistent dry cough, night sweats, fatigue, and joint pain.
+
+**Doctor:** I see. Do these symptoms occur every day, or do they come and go?
+
+**Patient:** They happen every day, but sometimes they're worse than other days. I have intermittent flares, you know?
+
+**Doctor:** Understood. How has this affected your daily life?
+
+**Patient:** It's been really tough. Simple things like walking or handling groceries leave me out of breath and exhausted.
+
+**Doctor:** That sounds challenging. Have you noticed any numbness or tingling in your body?
+
+**Patient:** No, nothing like that.
+
+**Doctor:** Any chest pain, palpitations, or fainting spells?
+
+**Patient:** No, I haven't experienced any of those.
+
+**Doctor:** How about your appetite? Any nausea or vomiting?
+
+**Patient:** I've lost my appetite, but I haven't felt nauseous or vomited.
+
+**Doctor:** Got it. Let's talk a bit about your medical history. Do you have any chronic conditions?
+
+**Patient:** Yes, I have hypertension and type 2 diabetes.
+
+**Doctor:** Okay. Are you currently taking any medications for those conditions?
+
+**Patient:** Yes, I'm taking Metformin 500 mg twice daily for diabetes and Lisinopril 10 mg once daily for hypertension.
+
+**Doctor:** Thank you for sharing that. Let's proceed with your physical examination. Your blood pressure is 132/78 mmHg, your heart rate is 84 beats per minute, your respiratory rate is 20 breaths per minute, your temperature is normal, and your oxygen saturation is 96% on room air.
+
+**Patient:** Alright.
+
+**Doctor:** During the respiratory examination, I noticed bilateral crackles in your lungs and mild lymphadenopathy in your neck. Cardiovascular examination showed a regular rate and rhythm with no murmurs or gallops. Your abdomen is soft and non-tender with no hepatosplenomegaly, and there's no edema in your extremities. However, I did find mild joint tenderness in your knees and wrists.
+
+**Patient:** Okay, what does all this mean?
+
+**Doctor:** Based on your symptoms and examination findings, we suspect sarcoidosis. It's an inflammatory disease that usually affects the lungs and lymph nodes. We need to confirm this with further tests.
+
+**Patient:** That sounds serious.
+
+**Doctor:** It can be, but let's take it one step at a time. I'm prescribing Prednisone 40 mg once daily for six weeks to reduce inflammation. We'll be giving you 42 tablets in total. You should start this medication immediately.
+
+**Patient:** Alright, I will.
+
+**Doctor:** Continue taking your Metformin and Lisinopril as prescribed. I'll also order a Complete Blood Count (CBC) and Serum Angiotensin-Converting Enzyme (ACE) test for you today. Additionally, we need a chest X-ray to assess lung and lymph node involvement. We're awaiting those results.
+
+**Patient:** Understood.
+
+**Doctor:** I also recommend a referral to Ophthalmology to check for any eye involvement, which can sometimes occur with sarcoidosis. You'll have an appointment with Dr. Emily Carter, an ophthalmologist.
+
+**Patient:** Okay, I'll make sure to go.
+
+**Doctor:** Try to avoid exposure to high pollution areas as much as possible, as this can worsen your symptoms. Joining a support group for sarcoidosis patients may also provide emotional and community support.
+
+**Patient:** That sounds like a good idea. I'll look into it.
+
+**Doctor:** It's important to adhere to your medication regimen. Prednisone can have side effects, so if you notice anything unusual, please report it immediately. Also, make sure to attend all follow-up appointments and complete your lab work on time.
+
+**Patient:** I will. What kind of side effects should I be looking out for?
+
+**Doctor:** You might experience increased appetite, mood swings, or trouble sleeping. More serious side effects include signs of infection, high blood sugar, or gastrointestinal issues. If you notice any of these, contact us right away.
+
+**Patient:** Got it. What's the next step?
+
+**Doctor:** We'll see you again in six weeks to evaluate your response to the treatment and adjust the dosage if needed. During this time, monitor your symptoms and let us know if there are any significant changes.
+
+**Patient:** Alright, Doctor. Thank you for your help.
+
+**Doctor:** You're welcome. Take care and see you in six weeks."|"#### Follow-Up Consultation (6 Weeks Later)
+
+[doctor]: Hi there! How have you been feeling since you started the Prednisone?
+
+[patient]: Hey, Doctor. I've been feeling a bit better, but still having some trouble with my breathing and fatigue.
+
+[doctor]: Hmm, I see. Have you noticed any improvement in the dry cough, night sweats, or joint pain?
+
+[patient]: The cough is a little better, and the night sweats aren't as bad. My joints still hurt, though.
+
+[doctor]: Okay, that's helpful to know. Have you experienced any side effects from the Prednisone?
+
+[patient]: Yeah, I've been feeling hungrier, and my sleep's been kinda off. No serious issues, though.
+
+[doctor]: Alright, those are common side effects. Let's review your test results. Your CBC and Serum ACE levels came back. The ACE levels are elevated, which supports our suspicion of sarcoidosis. The chest X-ray showed some lung involvement, but nothing too severe at this point.
+
+[patient]: Got it. So, what's the plan now?
+
+[doctor]: We'll continue with the Prednisone for now but at a lower dose. I'll prescribe 20 mg daily for the next six weeks. We need to taper it gradually to avoid any sudden withdrawal symptoms.
+
+[patient]: Okay, I can do that.
+
+[doctor]: How was your appointment with Dr. Emily Carter, the ophthalmologist?
+
+[patient]: It went well. She didn't find any issues with my eyes.
+
+[doctor]: That's good to hear. Continue to avoid high pollution areas and consider joining a support group for additional help. 
+
+[patient]: Will do. Anything else I should keep in mind?
+
+[doctor]: Just continue taking your Metformin and Lisinopril as prescribed. Keep monitoring your symptoms and report any new or worsening issues right away. We'll schedule another follow-up in six weeks to reassess your condition.
+
+[patient]: Alright, Doctor. Thanks for everything.
+
+[doctor]: You're welcome. Take care, and see you in six weeks."
+MALIGNANT PLEURAL EFFUSION|"ROLE: Pulmonologist
+
+**Clinical Setting:** Hospital
+**Type of Encounter:** Initial Consultation
+**Demographic Information:** 
+- Age: 67
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle class
+- Education Level: High school graduate
+- Health Literacy: Moderate
+- Job Status: Retired factory worker
+
+**Medical History:**
+- Previous Diagnoses: History of lung cancer diagnosed 3 years ago, chronic obstructive pulmonary disease (COPD), hypertension
+- Family Medical History: Father had lung cancer, mother had hypertension
+- Medication History: Currently taking Lisinopril 20 mg once daily, Albuterol inhaler as needed, Omeprazole 20 mg once daily
+- Allergies: Penicillin
+- Chronic Conditions: COPD, hypertension
+
+**Symptom Description:**
+- Severity: Severe shortness of breath
+- Duration: 2 weeks
+- Associated Symptoms: Chest pain, non-productive cough, fatigue
+- Frequency: Constant shortness of breath, intermittent chest pain
+- Impact on Daily Activities: Unable to perform routine daily activities, requires assistance with mobility
+
+**Patient’s self-reported habits and lifestyle:**
+- Sleep: Poor, frequently wakes up due to breathing difficulty
+- Diet: Average, balanced diet but reduced appetite recently
+- Exercise: Minimal due to shortness of breath
+- Tobacco Use: Smoked 1 pack/day for 40 years, quit 5 years ago
+- Alcohol Consumption: Occasional, about 2-3 beers per week
+- Drug Use: Denies
+- Recreational Activities: Enjoys watching television, limited due to physical state
+
+**Patient's Behavior:** Generally cooperative with medical advice but shows anxiety about his condition
+
+**Geographical Location:**
+- Urban area
+- Affluent neighborhood
+- Well-served by transit
+- Close to a major hospital
+
+**Physical exams:**
+- General Appearance: Appears in distress, sitting up and leaning forward to ease breathing
+- Respiratory: Decreased breath sounds and dullness to percussion on the left lower lung field
+- Cardiovascular: Heart rate regular, no murmurs detected
+- Abdomen: Soft, non-tender
+- Extremities: No edema
+
+**Investigation/Test results:**
+- Chest X-ray - Shows large pleural effusion on the left side
+- Thoracentesis performed, cytology results pending
+- Awaiting CT scan of the chest to evaluate underlying etiology and extent of disease
+
+**Medical Outcome:**
+- Diagnosis: Malignant pleural effusion
+- Prescribed Treatment: 
+   - Drainage of pleural effusion
+   - Start Dexamethasone 4 mg orally twice daily for 5 days 
+   - Increase Albuterol inhaler use to every 4 hours as needed
+- Follow-up and Recommendations:
+   - Referral to oncology for further management of lung cancer, Dr. Alice Green
+   - Palliative care consultation for symptom management, Dr. Robert Smith
+- Blood Work Ordered:
+   - Biochemistry: CBC, CMP
+   - Tumor Markers: CEA, CA 19-9
+- Imaging Ordered: 
+   - Chest CT with contrast to assess the full extent of effusion and underlying pathology."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe shortness of breath.
+
+**History of Present Illness (HPI):**
+The patient, a 67-year-old Caucasian male, presents with a 2-week history of severe shortness of breath. He reports that the dyspnea is constant and significantly impairs his ability to perform routine daily activities. Associated symptoms include intermittent chest pain, a non-productive cough, and fatigue. The chest pain is described as a dull, intermittent pain that he rates as moderate in severity. He denies any fever or weight loss but states he has reduced appetite and poor sleep due to breathing difficulties.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports fatigue, reduced appetite, and poor sleep.
+- **Respiratory:** Severe shortness of breath, non-productive cough, intermittent chest pain.
+- **Cardiovascular:** No palpitations or lower extremity edema.
+- **Gastrointestinal:** No nausea, vomiting, or abdominal pain.
+- **Genitourinary:** No dysuria or hematuria.
+- **Neurological:** No headaches or dizziness.
+- **Psychiatric:** Reports anxiety about his condition.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 98.6°F
+- Heart Rate: 88 beats per minute
+- Respiratory Rate: 24 breaths per minute
+- Blood Pressure: 145/85 mmHg
+- Oxygen Saturation: 88% on room air
+
+**Physical Exam:**
+- **General Appearance:** Patient appears in distress, sitting up and leaning forward to ease breathing.
+- **Respiratory:** Decreased breath sounds and dullness to percussion on the left lower lung field.
+- **Cardiovascular:** Heart rate regular, no murmurs detected.
+- **Abdomen:** Soft, non-tender.
+- **Extremities:** No edema.
+
+**Investigations:**
+- **Chest X-ray:** Shows large pleural effusion on the left side.
+- **Thoracentesis performed:** Cytology results pending.
+- **Awaiting:** CT scan of the chest to evaluate underlying etiology and extent of disease.
+
+**3. Assessment:**
+
+**Primary Diagnosis:**
+- Malignant pleural effusion secondary to suspected recurrent lung cancer.
+
+**Differential Diagnosis:**
+1. Malignant pleural effusion.
+2. Exacerbation of chronic obstructive pulmonary disease (COPD).
+3. Cardiogenic pleural effusion.
+
+**4. Plan:**
+
+**Medical Treatment:**
+- **Drainage of Pleural Effusion:** Performed thoracentesis, awaiting cytology results.
+- **Medication:** 
+   - Start Dexamethasone 4 mg orally twice daily for 5 days to reduce inflammation.
+   - Increase Albuterol inhaler use to every 4 hours as needed for shortness of breath.
+
+**Further Investigations:**
+- **Blood Work Ordered:** CBC, CMP, tumor markers including CEA and CA 19-9.
+- **Imaging Ordered:** Chest CT with contrast to assess the full extent of effusion and underlying pathology.
+
+**Follow-up and Recommendations:**
+- **Oncology Referral:** Referral to Dr. Alice Green for further management of lung cancer.
+- **Palliative Care Consultation:** Referral to Dr. Robert Smith for symptom management and palliative care support.
+- **Patient Education and Counseling:** Discussed the nature of malignant pleural effusion and the importance of follow-up with oncology. Explained the purpose of the prescribed medications and the need for ongoing symptom management.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan. He has expressed anxiety regarding his condition, and we have provided reassurance and support.
+
+**INSTRUCTIONS:**
+The patient will follow up with oncology in one week and palliative care within the next few days. He will also return for a follow-up visit in two weeks for re-evaluation."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe shortness of breath.
+
+**History of Present Illness (HPI):**
+The patient, a 67-year-old Caucasian male, presents with a 2-week history of severe shortness of breath. He reports that the dyspnea is constant and significantly impairs his ability to perform routine daily activities. Associated symptoms include intermittent chest pain, a non-productive cough, and fatigue. The chest pain is described as a dull, intermittent pain that he rates as moderate in severity. He denies any fever or weight loss but states he has reduced appetite and poor sleep due to breathing difficulties.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports fatigue, reduced appetite, and poor sleep.
+- **Respiratory:** Severe shortness of breath, non-productive cough, intermittent chest pain.
+- **Cardiovascular:** No palpitations or lower extremity edema.
+- **Gastrointestinal:** No nausea, vomiting, or abdominal pain.
+- **Genitourinary:** No dysuria or hematuria.
+- **Neurological:** No headaches or dizziness.
+- **Psychiatric:** Reports anxiety about his condition.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 98.6°F
+- Heart Rate: 88 beats per minute
+- Respiratory Rate: 24 breaths per minute
+- Blood Pressure: 145/85 mmHg
+- Oxygen Saturation: 88% on room air
+
+**Physical Exam:**
+- **General Appearance:** Patient appears in distress, sitting up and leaning forward to ease breathing.
+- **Respiratory:** Decreased breath sounds and dullness to percussion on the left lower lung field.
+- **Cardiovascular:** Heart rate regular, no murmurs detected.
+- **Abdomen:** Soft, non-tender.
+- **Extremities:** No edema.
+
+**Investigations:**
+- **Chest X-ray:** Shows large pleural effusion on the left side.
+- **Thoracentesis performed:** Cytology results pending.
+- **Awaiting:** CT scan of the chest to evaluate underlying etiology and extent of disease.
+
+**3. Assessment:**
+
+**Primary Diagnosis:**
+- Malignant pleural effusion secondary to suspected recurrent lung cancer.
+
+**Differential Diagnosis:**
+1. Malignant pleural effusion.
+2. Exacerbation of chronic obstructive pulmonary disease (COPD).
+3. Cardiogenic pleural effusion.
+
+**4. Plan:**
+
+**Medical Treatment:**
+- **Drainage of Pleural Effusion:** Performed thoracentesis, awaiting cytology results.
+- **Medication:** 
+   - Start Dexamethasone 4 mg orally twice daily for 5 days to reduce inflammation.
+   - Increase Albuterol inhaler use to every 4 hours as needed for shortness of breath.
+
+**Further Investigations:**
+- **Blood Work Ordered:** CBC, CMP, tumor markers including CEA and CA 19-9.
+- **Imaging Ordered:** Chest CT with contrast to assess the full extent of effusion and underlying pathology.
+
+**Follow-up and Recommendations:**
+- **Oncology Referral:** Referral to Dr. Alice Green for further management of lung cancer.
+- **Palliative Care Consultation:** Referral to Dr. Robert Smith for symptom management and palliative care support.
+- **Patient Education and Counseling:** Discussed the nature of malignant pleural effusion and the importance of follow-up with oncology. Explained the purpose of the prescribed medications and the need for ongoing symptom management.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan. He has expressed anxiety regarding his condition, and we have provided reassurance and support.
+
+**INSTRUCTIONS:**
+The patient will follow up with oncology in one week and palliative care within the next few days. He will also return for a follow-up visit in two weeks for re-evaluation."|"#####
+**1. Subjective:**
+
+**CC:**
+Severe SOB.
+
+**HPI:**
+The pt, a 67 y/o Caucasian male, presents with a 2-week hx of severe SOB. He reports that the dyspnea is constant and significantly impairs his ability to perform ADLs. Associated sx include intermittent CP, a non-productive cough, and fatigue. The CP is described as a dull, intermittent pain that he rates as moderate in severity. He denies any fever or weight loss but states he has reduced appetite and poor sleep due to breathing difficulties.
+
+**ROS:**
+- **Constitutional:** Reports fatigue, reduced appetite, and poor sleep.
+- **Respiratory:** Severe SOB, non-productive cough, intermittent CP.
+- **Cardiovascular:** No palpitations or LE edema.
+- **Gastrointestinal:** No N/V or abdominal pain.
+- **Genitourinary:** No dysuria or hematuria.
+- **Neurological:** No headaches or dizziness.
+- **Psychiatric:** Reports anxiety about his condition.
+
+**2. Objective:**
+
+**VS:**
+- Temp: 98.6°F
+- HR: 88 bpm
+- RR: 24 bpm
+- BP: 145/85 mmHg
+- O2 Sat: 88% on RA
+
+**PE:**
+- **General Appearance:** Pt appears in distress, sitting up and leaning forward to ease breathing.
+- **Respiratory:** Decreased breath sounds and dullness to percussion on the LLL.
+- **Cardiovascular:** HR regular, no murmurs detected.
+- **Abdomen:** Soft, non-tender.
+- **Extremities:** No edema.
+
+**Investigations:**
+- **CXR:** Shows large pleural effusion on the left side.
+- **Thoracentesis performed:** Cytology results pending.
+- **Awaiting:** CT chest to evaluate underlying etiology and extent of disease.
+
+**3. Assessment:**
+
+**Primary Dx:**
+- Malignant pleural effusion 2° to suspected recurrent lung CA.
+
+**Differential Dx:**
+1. Malignant pleural effusion.
+2. Exacerbation of COPD.
+3. Cardiogenic pleural effusion.
+
+**4. Plan:**
+
+**Medical Tx:**
+- **Drainage of Pleural Effusion:** Thoracentesis performed, awaiting cytology results.
+- **Meds:** 
+   - Start Dexamethasone 4 mg PO BID x 5 days to reduce inflammation.
+   - Increase Albuterol inhaler use to q4h PRN for SOB.
+
+**Further Investigations:**
+- **Blood Work Ordered:** CBC, CMP, tumor markers including CEA and CA 19-9.
+- **Imaging Ordered:** Chest CT with contrast to assess the full extent of effusion and underlying pathology.
+
+**Follow-up and Recommendations:**
+- **Oncology Referral:** Referral to Dr. Alice Green for further mgmt of lung CA.
+- **Palliative Care Consultation:** Referral to Dr. Robert Smith for sx mgmt and palliative care support.
+- **Pt Education and Counseling:** Discussed the nature of malignant pleural effusion and the importance of follow-up with oncology. Explained the purpose of the prescribed meds and the need for ongoing sx mgmt.
+
+**Pt Agreements:**
+The pt understands and agrees with the recommended medical tx plan. He has expressed anxiety regarding his condition, and we have provided reassurance and support.
+
+**INSTRUCTIONS:**
+The pt will follow up with oncology in one week and palliative care within the next few days. He will also return for a follow-up visit in two weeks for re-evaluation."|Pulmonologist|"```plaintext
+[doctor] Hi there, how are you feeling today?
+
+[patient] Not so good, Doc. I've been having a really hard time breathing for the past two weeks.
+
+[doctor] I see. Can you describe your shortness of breath a bit more for me? Is it constant, or does it come and go?
+
+[patient] It's pretty constant. It's been really bad, and I can't do much around the house because of it.
+
+[doctor] That sounds tough. Have you noticed any other symptoms along with the shortness of breath?
+
+[patient] Yeah, I've had some chest pain off and on, and I'm really tired all the time. My appetite isn't great either, and I can't sleep well because I can't breathe properly.
+
+[doctor] Okay. How would you describe the chest pain? Is it sharp, dull, or something else?
+
+[patient] It's a dull pain, and it comes and goes. I'd say it's moderate, about a 5 or 6 out of 10.
+
+[doctor] Alright. Have you had any fever or weight loss recently?
+
+[patient] No, no fever or weight loss, but like I said, I haven't been eating much.
+
+[doctor] Understood. Any cough?
+
+[patient] Yeah, but it's not productive. Just a dry cough.
+
+[doctor] Have you noticed any palpitations or swelling in your legs?
+
+[patient] No palpitations or swelling.
+
+[doctor] How about nausea, vomiting, or abdominal pain?
+
+[patient] No, none of those.
+
+[doctor] Any trouble with urination, like pain or blood in your urine?
+
+[patient] No, everything's normal there.
+
+[doctor] Have you had any headaches or dizziness?
+
+[patient] No headaches or dizziness.
+
+[doctor] Alright, and how are you feeling mentally? Any anxiety or stress because of this?
+
+[patient] Yeah, I'm pretty anxious about not being able to breathe properly. It's really worrying me.
+
+[doctor] That's completely understandable. Let's take a look at your vital signs. Your temperature is 98.6°F, heart rate is 88 beats per minute, respiratory rate is 24 breaths per minute, blood pressure is 145/85 mmHg, and oxygen saturation is 88% on room air. 
+
+[patient] Is that bad?
+
+[doctor] Your oxygen saturation is a bit low, which explains the shortness of breath. Let's go ahead with a physical exam now. I'm going to check your breathing. 
+
+[doctor] *listening to lungs* I notice decreased breath sounds and dullness to percussion on your left lower lung field.
+
+[patient] What does that mean?
+
+[doctor] It suggests there might be fluid in your lung, which could be causing your symptoms. Let's check your heart now. Your heart rate is regular, and I don't hear any murmurs. 
+
+[doctor] *pressing on the abdomen* Does this hurt?
+
+[patient] No, it feels okay.
+
+[doctor] Alright, your abdomen is soft and non-tender. And your extremities don't show any signs of swelling. We did a chest X-ray earlier, and it shows a large pleural effusion on the left side. 
+
+[patient] What's a pleural effusion?
+
+[doctor] It's when fluid accumulates between the layers of tissue that line the lungs and chest cavity. We also performed a thoracentesis to drain some of that fluid, and we're waiting on the cytology results to see if there are cancer cells present.
+
+[patient] That sounds serious. 
+
+[doctor] It can be, yes. We're also waiting for a CT scan of your chest to get a better look at what's going on. Based on what we know so far, it looks like you might have a malignant pleural effusion, possibly related to recurrent lung cancer. 
+
+[patient] Lung cancer? I was treated for that a few years ago.
+
+[doctor] Yes, we'll need to confirm it with further tests. For now, we're going to start you on some medications to help with your symptoms. We'll start you on Dexamethasone 4 mg twice daily for 5 days to reduce inflammation and increase your Albuterol inhaler use to every 4 hours as needed for shortness of breath.
+
+[patient] Okay, anything else?
+
+[doctor] We'll also do some blood work, including a complete blood count, comprehensive metabolic panel, and tumor markers like CEA and CA 19-9. And we'll get that chest CT with contrast to assess the full extent of the effusion and any underlying pathology.
+
+[patient] That sounds like a lot.
+
+[doctor] It is, but it's necessary to get a full picture of what's happening. We'll also refer you to Dr. Alice Green, an oncologist, for further management of your lung cancer. And, I'll be referring you to Dr. Robert Smith for palliative care to help manage your symptoms and provide additional support.
+
+[patient] I appreciate that. It's been really tough.
+
+[doctor] I understand. We also talked about the importance of staying hydrated and eating as much as you can, even if your appetite is low. Do you have any questions about the medications or the plan?
+
+[patient] No, I think I understand.
+
+[doctor] Great. We'll follow up with oncology in a week and with palliative care in the next few days. I also want to see you back here in two weeks to re-evaluate your condition. If you have any concerns in the meantime, please don't hesitate to call.
+
+[patient] Okay, I'll do that.
+
+[doctor] You're doing great. It's important to keep a positive outlook, and we'll be here to support you every step of the way.
+
+[patient] Thank you, Doc. I really appreciate it.
+
+[doctor] You're welcome. Take care, and we'll see you soon.
+
+```"|"```plaintext
+[doctor] Hi there, how are you feeling today?
+
+[patient] Not so good, Doc. I've been having a really hard time breathing for the past two weeks.
+
+[doctor] Hmm, I see. Can you describe your shortness of breath a bit more for me? Is it constant, or does it come and go?
+
+[patient] It's pretty constant. It's been really bad, and I can't do much around the house because of it.
+
+[doctor] That sounds tough. Have you noticed any other symptoms along with the shortness of breath?
+
+[patient] Yeah, I've had some chest pain off and on, and I'm really tired all the time. My appetite isn't great either, and I can't sleep well because I can't breathe properly.
+
+[doctor] Okay. How would you describe the chest pain? Is it sharp, dull, or something else?
+
+[patient] It's a dull pain, and it comes and goes. I'd say it's moderate, about a 5 or 6 out of 10.
+
+[doctor] Alright. Have you had any fever or weight loss recently?
+
+[patient] No, no fever or weight loss, but like I said, I haven't been eating much.
+
+[doctor] Understood. Any cough?
+
+[patient] Yeah, but it's not productive. Just a dry cough.
+
+[doctor] Have you noticed any palpitations or swelling in your legs?
+
+[patient] No palpitations or swelling.
+
+[doctor] How about nausea, vomiting, or abdominal pain?
+
+[patient] No, none of those.
+
+[doctor] Any trouble with urination, like pain or blood in your urine?
+
+[patient] No, everything's normal there.
+
+[doctor] Have you had any headaches or dizziness?
+
+[patient] No headaches or dizziness.
+
+[doctor] Alright, and how are you feeling mentally? Any anxiety or stress because of this?
+
+[patient] Yeah, I'm pretty anxious about not being able to breathe properly. It's really worrying me.
+
+[doctor] That's completely understandable. Let's take a look at your vital signs. Your temperature is 98.6°F, heart rate is 88 beats per minute, respiratory rate is 24 breaths per minute, blood pressure is 145/85 mmHg, and oxygen saturation is 88% on room air. 
+
+[patient] Is that bad?
+
+[doctor] Well, your oxygen saturation is a bit low, which explains the shortness of breath. Let's go ahead with a physical exam now. I'm going to check your breathing. 
+
+[doctor] *listening to lungs* I notice decreased breath sounds and dullness to percussion on your left lower lung field.
+
+[patient] What does that mean?
+
+[doctor] It suggests there might be fluid in your lung, which could be causing your symptoms. Let's check your heart now. Your heart rate is regular, and I don't hear any murmurs. 
+
+[doctor] *pressing on the abdomen* Does this hurt?
+
+[patient] No, it feels okay.
+
+[doctor] Alright, your abdomen is soft and non-tender. And your extremities don't show any signs of swelling. We did a chest X-ray earlier, and it shows a large pleural effusion on the left side. 
+
+[patient] What's a pleural effusion?
+
+[doctor] It's when fluid accumulates between the layers of tissue that line the lungs and chest cavity. We also performed a thoracentesis to drain some of that fluid, and we're waiting on the cytology results to see if there are cancer cells present.
+
+[patient] That sounds serious. 
+
+[doctor] It can be, yes. We're also waiting for a CT scan of your chest to get a better look at what's going on. Based on what we know so far, it looks like you might have a malignant pleural effusion, possibly related to recurrent lung cancer. 
+
+[patient] Lung cancer? I was treated for that a few years ago.
+
+[doctor] Yes, we'll need to confirm it with further tests. For now, we're going to start you on some medications to help with your symptoms. We'll start you on Dexamethasone 4 mg twice daily for 5 days to reduce inflammation and increase your Albuterol inhaler use to every 4 hours as needed for shortness of breath.
+
+[patient] Okay, anything else?
+
+[doctor] We'll also do some blood work, including a complete blood count, comprehensive metabolic panel, and tumor markers like CEA and CA 19-9. And we'll get that chest CT with contrast to assess the full extent of the effusion and any underlying pathology.
+
+[patient] That sounds like a lot.
+
+[doctor] It is, but it's necessary to get a full picture of what's happening. We'll also refer you to Dr. Alice Green, an oncologist, for further management of your lung cancer. And, I'll be referring you to Dr. Robert Smith for palliative care to help manage your symptoms and provide additional support.
+
+[patient] I appreciate that. It's been really tough.
+
+[doctor] I understand. We also talked about the importance of staying hydrated and eating as much as you can, even if your appetite is low. Do you have any questions about the medications or the plan?
+
+[patient] No, I think I understand.
+
+[doctor] Great. We'll follow up with oncology in a week and with palliative care in the next few days. I also want to see you back here in two weeks to re-evaluate your condition. If you have any concerns in the meantime, please don't hesitate to call.
+
+[patient] Okay, I'll do that.
+
+[doctor] You're doing great. It's important to keep a positive outlook, and we'll be here to support you every step of the way.
+
+[patient] Thank you, Doc. I really appreciate it.
+
+[doctor] You're welcome. Take care, and we'll see you soon.
+```"
+MALIGNANT PLEURAL EFFUSION|"ROLE: Pulmonologist
+
+SCENARIO:
+1) Medical Outcome:
+   - Diagnosis: Malignant Pleural Effusion (ICD-10: J91.0)
+   - Prescribed Treatment: Thoracentesis
+   - Follow-up Recommendations: Weekly follow-up visits
+   - Referral to Specialists: Oncology Specialist, Dr. Jane Smith, for further cancer management
+   - Referral to Further Tests: 
+     - Imaging: CT Thorax to assess extent of disease spread
+     - Blood Work: Complete Blood Count (CBC), Biochemistry panel, LDH levels, and fluid cytology for malignant cells
+   
+2) Medical History:
+   - Previous Diagnoses: Lung Cancer, Hypertension
+   - Family Medical History: Father had lung cancer, Mother had coronary artery disease
+   - Medication History: Currently on Losartan 50mg once daily for hypertension
+   - Allergies: No known drug allergies
+   - Chronic Conditions: Hypertension, COPD
+
+3) Symptom Description:
+   - Severity: Severe
+   - Duration: 3 weeks
+   - Associated Symptoms: Dyspnea, chest pain, cough
+   - Frequency: Persistent
+   - Impact on Daily Activities: Difficulty performing daily tasks, reduced physical activity
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Poor quality sleep due to dyspnea
+   - Diet: Balanced diet, difficulty in eating due to nausea
+   - Exercise: Sedentary due to breathlessness
+   - Tobacco Use: Former smoker (quit 5 years ago, 20 pack-year history)
+   - Alcohol Consumption: Occasional social drinker
+   - Drug Use: None
+   - Recreational Activities: Limited due to health issues
+
+5) Demographic Information:
+   - Age: 68
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Retired, on Medicare
+   - Education Level: High school diploma
+   - Health Literacy: Moderate
+   - Job Status: Retired
+
+6) Patient's Behavior:
+   - Generally cooperative with medical advice, concerned about diagnosis and prognosis
+
+7) Geographical Location:
+   - Urban
+   - Neighborhood Type: Moderate-income area, well-served by public transit, near a major hospital
+
+8) Clinical Setting:
+   - Hospital (Outpatient Pulmonology Clinic)
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - None noted for current scenario
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English Speaking 
+
+12) Physical exams:
+   - Respiratory: Decreased breath sounds on the right side, dullness to percussion, decreased tactile fremitus, no wheezing or stridor
+
+13) Investigation/Test results:
+   - Awaiting results: 
+     - CT Thorax
+     - Complete Blood Count (CBC)
+     - Biochemistry panel
+     - LDH levels
+     - Fluid cytology for malignant cells"|Rejected|Rejected|Rejected|Rejected||
+MALIGNANT PLEURAL EFFUSION|"ROLE: Pulmonologist
+
+SCENARIO:
+1) Medical Outcome:
+   - Diagnosis: Malignant Pleural Effusion (ICD-10: J91.0)
+   - Prescribed Treatment: Thoracentesis, pleurodesis
+   - Medication: Prescribe Morphine 5mg, oral, 4 times daily, 30 tablets for pain management
+   - Follow-up Recommendations: Bi-weekly follow-up visits
+   - Referral to Specialists: Oncology Specialist, Dr. Ravi Patel, for further cancer treatment planning
+   - Referral to Further Tests: 
+     - Imaging: PET scan to assess metastatic spread
+     - Blood Work: Tumor markers (CEA, CA-125), Complete Blood Count (CBC), Biochemistry panel, and fluid cytology for malignant cells
+
+2) Medical History:
+   - Previous Diagnoses: Breast Cancer with metastasis, Chronic Kidney Disease (Stage 3)
+   - Family Medical History: Mother had breast cancer, Brother had gastrointestinal cancer
+   - Medication History: Currently on Tamoxifen 20mg daily for breast cancer, Lisinopril 10mg daily for hypertension
+   - Allergies: Allergic to penicillin
+   - Chronic Conditions: Hypertension, Chronic Kidney Disease, Diabetes Mellitus Type 2
+
+3) Symptom Description:
+   - Severity: Moderate to Severe
+   - Duration: 1 month
+   - Associated Symptoms: Progressive dyspnea, orthopnea, significant weight loss, and fatigue
+   - Frequency: Persistent
+   - Impact on Daily Activities: Limited mobility, dependence on others for daily tasks
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Insomnia due to pain and breathlessness
+   - Diet: Poor appetite, unintentional weight loss, focusing on high-protein diet
+   - Exercise: Minimal due to weakness and breathlessness
+   - Tobacco Use: Never smoked
+   - Alcohol Consumption: Does not drink alcohol
+   - Drug Use: None
+   - Recreational Activities: Enjoys reading and knitting when possible
+
+5) Demographic Information:
+   - Age: 53
+   - Gender: Female
+   - Ethnicity: African American
+   - Socio-economic Status: Middle-class, has health insurance
+   - Education Level: Bachelor's degree
+   - Health Literacy: High
+   - Job Status: Part-time work from home
+
+6) Patient's Behavior:
+   - Highly cooperative, motivated to follow medical advice, but anxious about prognosis
+
+7) Geographical Location:
+   - Suburban
+   - Neighborhood Type: Middle-income community, moderate pollution, well-served by healthcare facilities
+
+8) Clinical Setting:
+   - Specialty Clinic (Oncology and Pulmonology)
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - None noted for current scenario
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English Speaking 
+
+12) Physical exams:
+   - Respiratory: Decreased breath sounds bilaterally, dullness to percussion in lower lung fields, no wheezing or stridor, use of accessory muscles of respiration
+
+13) Investigation/Test results:
+   - Awaiting results: 
+     - PET scan
+     - Tumor markers (CEA, CA-125)
+     - Complete Blood Count (CBC)
+     - Biochemistry panel
+     - Fluid cytology for malignant cells"|Rejected|Rejected|Rejected|Rejected||
+MALIGNANT PLEURAL EFFUSION|"ROLE: Pulmonologist 
+
+SCENARIO:
+1) Medical Outcome:
+   - Diagnosis: Malignant Pleural Effusion (ICD-10: J91.0)
+   - Prescribed Treatment: Thoracentesis and pleurodesis
+   - Medication: Prescribe Oxycodone 10mg, oral, twice daily, 20 tablets for pain management
+   - Follow-up Recommendations: Monthly follow-up visits
+   - Referral to Specialists: Cardiothoracic Surgeon, Dr. Amy Chang, for potential pleurectomy
+   - Referral to Further Tests:
+     - Imaging: MRI Thorax to assess extent and nature of effusion
+     - Blood Work: CBC, Renal function tests, Calcium levels, Lactate Dehydrogenase (LDH), and fluid cytology for malignant cells
+
+2) Medical History:
+   - Previous Diagnoses: Ovarian Cancer with metastasis, Hyperthyroidism
+   - Family Medical History: Mother had breast cancer, Father had diabetes
+   - Medication History: Currently on Methimazole 5mg once daily for hyperthyroidism
+   - Allergies: Shellfish
+   - Chronic Conditions: Hyperthyroidism, Type 2 Diabetes Mellitus
+
+3) Symptom Description:
+   - Severity: Severe
+   - Duration: 6 weeks
+   - Associated Symptoms: Chest tightness, weight loss, fatigue
+   - Frequency: Persistent, worsening over time
+   - Impact on Daily Activities: Requires assistance for most activities, unable to work
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Frequently disturbed due to discomfort
+   - Diet: Low appetite, attempts to maintain balanced diet
+   - Exercise: None due to severe symptoms
+   - Tobacco Use: Never smoked
+   - Alcohol Consumption: Used to drink socially, now avoids alcohol
+   - Drug Use: None
+   - Recreational Activities: Enjoyed gardening and reading, now limited
+
+5) Demographic Information:
+   - Age: 44
+   - Gender: Female
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Low-income, Medicaid beneficiary
+   - Education Level: High school dropout
+   - Health Literacy: Low
+   - Job Status: Unemployed due to illness
+
+6) Patient's Behavior:
+   - Highly motivated to adhere to treatment despite severe anxiety about prognosis
+
+7) Geographical Location:
+   - Urban
+   - Neighborhood Type: Low-income, high pollution, food desert, limited access to healthcare apart from local clinic
+
+8) Clinical Setting:
+   - Community Health Services
+
+9) Type of Encounter:
+   - Chronic Disease Management
+
+10) Treatment Disparities:
+   - Limited access to some advanced treatments due to insurance
+
+11) Native or Non-Native English Speaking Patient:
+   - Non-Native English Speaking (Spanish-speaking)
+
+12) Physical exams:
+   - Respiratory: Diminished breath sounds, dullness to percussion, pronounced intercostal retractions, use of accessory muscles
+
+13) Investigation/Test results:
+   - Awaiting results:
+     - MRI Thorax
+     - CBC
+     - Renal function tests
+     - Calcium levels
+     - Lactate Dehydrogenase (LDH)
+     - Fluid cytology for malignant cells"|Rejected|Rejected|Rejected|Rejected||
+MALIGNANT PLEURAL EFFUSION|"**ROLE:** Pulmonologist
+
+**Variables:**
+
+1. **Medical Outcome:**
+    - Diagnosis: Malignant Pleural Effusion (ICD-10 Description: Malignant Pleural Effusion)
+    - Prescribed treatment: Thoracentesis procedure
+    - Follow-up recommendations: Follow-up with oncology for cancer treatment
+    - Referral to specialists: Referral to Dr. Emily Roberts, Oncology
+    - Medication adjustment: Prescribe Furosemide 40 mg, oral, once daily, quantity: 30 tablets, for managing fluid build-up
+  
+2. **Medical History:**
+    - Previous Diagnoses: Non-small cell lung cancer
+    - Family Medical History: Mother had breast cancer, father had hypertension
+    - Medication History: Currently on Carboplatin and Paclitaxel chemotherapy regimen
+    - Allergies: No known drug allergies
+    - Chronic Conditions: Hypertension
+
+3. **Symptom Description:**
+    - Severity: Severe shortness of breath
+    - Duration: 2 weeks
+    - Associated Symptoms: Chest pain, cough, fatigue
+    - Frequency: Constant
+    - Impact on Daily Activities: Difficulty in performing daily activities, such as walking short distances or climbing stairs
+
+4. **Patient’s self-reported habits and lifestyle:**
+    - Sleep: Poor sleep due to respiratory discomfort
+    - Diet: Low appetite, mostly liquid diet
+    - Exercise: Minimal physical activity due to fatigue and breathlessness
+    - Tobacco Use: Former smoker, quit 10 years ago
+    - Alcohol Consumption: Social drinker, one glass of wine per week
+    - Drug Use: No recreational drug use
+    - Recreational Activities: Retired, spends most time at home with family
+    
+5. **Demographic Information:**
+    - Age: 67
+    - Gender: Female
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: Bachelor's degree
+    - Health Literacy: Moderate
+    - Job Status: Retired school teacher
+
+6. **Patient's Behavior:**
+    - Cooperation: Highly cooperative and adherent to medical advice
+
+7. **Geographical Location:**
+    - Urban
+    - Pollution and Environmental Health Risks: Moderate pollution
+    - Neighborhood Type: Well-served by transit
+    - Food Desert: No
+
+8. **Clinical Setting:**
+    - Private Practice
+
+9. **Type of Encounter:**
+    - Initial Consultation
+
+10. **Treatment Disparities:**
+    - None
+
+11. **Native or Non-Native English Speaking Patient:**
+    - Native English speaking
+
+12. **Physical exams:**
+    - Respiratory: Diminished breath sounds on the right side, dullness to percussion suggestive of fluid in the pleural space
+
+13. **Investigation/Test results:**
+    - Awaiting results: 
+        - Chest X-ray: To confirm the presence of pleural effusion
+        - CT Scan Thorax: Detailed imaging for extent and cause of effusion
+        - Pleural fluid analysis: Cytology examination to check for malignant cells"|Rejected|Rejected|Rejected|Rejected||
+MALIGNANT PLEURAL EFFUSION|"**ROLE:** Pulmonologist
+
+**Variables:**
+
+1. **Medical Outcome:**
+    - Diagnosis: Chronic Obstructive Pulmonary Disease (COPD) with acute exacerbation (ICD-10 Description: Chronic Obstructive Pulmonary Disease)
+    - Prescribed treatment: Increased dosage of Albuterol inhaler to 2 puffs every 4 hours as needed, and prescribe Prednisone 40 mg, oral, once daily, for 5 days (quantity: 5 tablets)
+    - Follow-up recommendations: Scheduled follow-up appointment in 1 week to assess response to treatment
+    - Referral to specialists: Referral to Dr. John Carter, Pulmonology, for ongoing management of COPD
+    - Other recommendations: Initiate pulmonary rehabilitation exercise program
+    - Blood work: Order complete blood count (CBC) to check for any signs of infection
+
+2. **Medical History:**
+    - Previous Diagnoses: Hypertension, Hyperlipidemia
+    - Family Medical History: Father had COPD, mother had Alzheimer's disease
+    - Medication History: Currently on Lisinopril 10 mg daily, Atorvastatin 20 mg daily
+    - Allergies: No known drug allergies
+    - Chronic Conditions: COPD, Hypertension, Hyperlipidemia
+
+3. **Symptom Description:**
+    - Severity: Severe shortness of breath and wheezing
+    - Duration: 1 week, worsening in the last 2 days
+    - Associated Symptoms: Fatigue, increased sputum production, chest tightness
+    - Frequency: Constant
+    - Impact on Daily Activities: Unable to walk more than a few steps without resting
+
+4. **Patient’s self-reported habits and lifestyle:**
+    - Sleep: Interruptions in sleep due to shortness of breath
+    - Diet: Regular diet, but low appetite due to condition
+    - Exercise: Limited physical activity, previously walked daily but now unable to do so
+    - Tobacco Use: Smoked 1 pack per day for 30 years, quit 5 years ago
+    - Alcohol Consumption: None
+    - Drug Use: No recreational drug use
+    - Recreational Activities: Limited due to respiratory symptoms
+
+5. **Demographic Information:**
+    - Age: 72
+    - Gender: Male
+    - Ethnicity: African-American
+    - Socio-economic Status: Lower-middle class
+    - Education Level: High school graduate
+    - Health Literacy: Low
+    - Job Status: Retired factory worker
+
+6. **Patient's Behavior:**
+    - Cooperation: Generally cooperative but expresses frustration with frequent exacerbations
+
+7. **Geographical Location:**
+    - Small City
+    - Pollution and Environmental Health Risks: High pollution area due to nearby factories
+    - Neighborhood Type: Impoverished, limited access to healthy food options, food desert
+
+8. **Clinical Setting:**
+    - Community Health Center
+
+9. **Type of Encounter:**
+    - Acute Care Visit
+
+10. **Treatment Disparities:**
+    - Limited access to advanced treatment options and specialists due to socio-economic status
+
+11. **Native or Non-Native English Speaking Patient:**
+    - Native English speaking
+
+12. **Physical exams:**
+    - Respiratory: Diffuse wheezes heard bilaterally, use of accessory muscles, prolonged expiratory phase
+    - Cardiovascular: Tachycardia, regular rhythm
+    - Other: Cyanosis of the lips and nail beds, indicating hypoxia
+
+13. **Investigation/Test results:**
+    - Awaiting results: 
+        - Chest X-ray: To rule out pneumonia or other pulmonary complications
+        - Complete blood count (CBC): To check for any signs of infection
+
+"|Rejected|Rejected|Rejected|Rejected||
+MALIGNANT PLEURAL EFFUSION|"ROLE: Pulmonologist
+
+**Medical Outcome:** 
+- Diagnosis: Malignant Pleural Effusion
+- Prescribed Treatment: Thoracentesis, possible pleurodesis
+- Follow-up recommendations: Follow-up consultation in 1 week to assess the effectiveness of thoracentesis and consider pleurodesis or further treatments
+- Referral: Referral to Oncology for assessment and management of underlying malignancy (Dr. Susan Miller, Medical Oncologist)
+- Imaging: Chest X-ray
+- Further tests: Cytological analysis of pleural fluid
+
+**Medical History:** 
+- Previous Diagnoses: Lung cancer diagnosed 6 months ago
+- Medications: Currently on chemotherapy (Cisplatin and Pemetrexed)
+- Allergies: Penicillin allergy
+
+**Symptom Description:** 
+- Severity: Severe shortness of breath
+- Duration: Worsening over the last 2 weeks
+- Associated Symptoms: Chest pain, cough, fatigue
+- Frequency: Constant
+- Impact on Daily Activities: Unable to perform routine activities, considerable impact on quality of life
+
+**Patient’s self-reported habits and lifestyle:** 
+- Sleep: Poor, wakes up multiple times during the night due to shortness of breath and coughing
+- Diet: Balanced, but reduced appetite due to chemotherapy
+- Exercise: Minimal, limited by physical symptoms
+- Tobacco Use: Quit smoking 8 years ago, previously 20 pack-year history
+- Alcohol Consumption: Occasional, 1-2 drinks per week
+- Recreational Activities: Likes gardening but has not been able to engage due to health issues
+
+**Demographic Information:** 
+- Age: 67
+- Gender: Female
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle class
+- Education Level: Bachelor’s Degree in Literature
+- Health Literacy: Moderate, understands the basics of her condition
+- Job Status: Retired high school teacher
+
+**Patient's Behavior:** 
+- Cooperative with medical advice, punctual for appointments, and adheres to prescribed treatments
+
+**Geographical Location:**
+- Big City: Lives in an urban area
+- Pollution and Environmental Health Risks: Moderate, lives near a busy traffic intersection
+- Neighborhood Type: Well-served by transit, accessible to three different hospitals, not a food desert
+
+**Clinical Setting:** 
+- Hospitals: Currently being seen at the University Hospital’s Pulmonology clinic
+
+**Type of Encounter:** 
+- Initial Consultation for the new complaint of worsening symptoms related to known malignancy
+
+**Native or Non-Native English Speaking Patient:** 
+- Native English speaking patient
+
+**Physical exams:**
+- Respiratory Examination: Decreased breath sounds over the right lower lung field, dullness to percussion
+
+**Investigation/Test results:** 
+- Awaiting Chest X-ray to assess the extent of pleural effusion
+- Pleural Fluid Analysis: To be done post-thoracentesis for cytology, biochemistry, and microbiology analysis"|Rejected|Rejected|Rejected|Rejected||
+MALIGNANT PLEURAL EFFUSION|"ROLE: Pulmonologist
+
+**Medical Outcome:**
+- Diagnosis: Chronic Obstructive Pulmonary Disease (COPD)
+- Prescribed Treatment: Inhaler prescription (Advair Diskus 250/50 mcg)
+    - Dose: 250/50 mcg
+    - Route: Inhaled
+    - Frequency: Twice daily
+    - Duration: Long-term
+    - Quantity: 1 inhaler per month
+- Follow-up recommendations: Follow-up consultation in 1 month to reassess symptoms and lung function
+- Referral: Pulmonary rehabilitation program for exercise training and education (Dr. John Adams, Pulmonary Rehab Specialist)
+- Blood work: Arterial Blood Gas (ABG) test to assess levels of oxygen and carbon dioxide in the blood
+
+**Medical History:**
+- Previous Diagnoses: Hypertension, history of pneumonia 1 year ago
+- Medications: Lisinopril 10 mg once daily
+- Allergies: Shellfish
+
+**Symptom Description:**
+- Severity: Moderate shortness of breath
+- Duration: Symptoms present for 5 years, with recent worsening over the last 6 months
+- Associated Symptoms: Chronic cough, increased sputum production, wheezing
+- Frequency: Daily, worse in the mornings
+- Impact on Daily Activities: Difficulty walking long distances, climbing stairs, and performing household chores
+
+**Patient’s self-reported habits and lifestyle:**
+- Sleep: Wakes up periodically at night due to coughing and wheezing
+- Diet: Eats a balanced diet, includes fruits and vegetables
+- Exercise: Rare, limited by symptoms
+- Tobacco Use: Smokes 1 pack of cigarettes daily for 40 years
+- Alcohol Consumption: Rare, 1-2 drinks per month
+- Recreational Activities: Enjoys fishing but has limited participation recently due to breathing difficulties
+
+**Demographic Information:**
+- Age: 55
+- Gender: Male
+- Ethnicity: African American
+- Socio-economic Status: Working class
+- Education Level: High school diploma
+- Health Literacy: Low, requires detailed explanations of medical terms and treatment plans
+- Job Status: Employed as a construction worker
+
+**Patient's Behavior:**
+- Moderate cooperation with medical advice, has struggled with adherence to smoking cessation programs
+
+**Geographical Location:**
+- Small City: Lives in a small urban area
+- Pollution and Environmental Health Risks: High, lives near an industrial area with poor air quality
+- Neighborhood Type: Accessible to local clinics, moderate public transit, few green spaces
+
+**Clinical Setting:**
+- Community Health Services: Being seen at a local clinic specializing in respiratory care
+
+**Type of Encounter:**
+- Chronic Disease Management for ongoing COPD symptoms
+
+**Native or Non-Native English Speaking Patient:**
+- Native English speaking patient
+
+**Physical exams:**
+- Respiratory Examination: Prolonged expiration, wheezing on auscultation, decreased breath sounds bilaterally
+
+**Investigation/Test results:**
+- Arterial Blood Gas (ABG): To be done during the visit to check for hypoxia and hypercapnia
+
+"|Rejected|Rejected|Rejected|Rejected||
+MALIGNANT PLEURAL EFFUSION|"ROLE: Pulmonologist
+
+**Medical Outcome:**
+- Diagnosis: Interstitial Lung Disease (ILD)
+- Prescribed Treatment: Prednisone 20 mg
+    - Dose: 20 mg
+    - Route: Oral
+    - Frequency: Once daily
+    - Duration: 4 weeks
+    - Quantity: 28 tablets
+- Follow-up recommendations: Follow-up consultation in 2 weeks to monitor response to treatment
+- Imaging: High-Resolution CT scan of the chest
+
+**Medical History:**
+- Previous Diagnoses: Rheumatoid arthritis, gastroesophageal reflux disease (GERD)
+- Medications: Methotrexate (15 mg weekly), Omeprazole (20 mg daily)
+- Allergies: No known drug allergies
+
+**Symptom Description:**
+- Severity: Moderate to severe breathlessness
+- Duration: Symptoms present for 1 year, with acute worsening over the last 3 months
+- Associated Symptoms: Dry cough, fatigue, unintentional weight loss
+- Frequency: Persistent, with episodes of severe breathlessness occuring daily
+- Impact on Daily Activities: Experiences significant limitations, including inability to walk more than a block and difficulty climbing stairs
+
+**Patient’s self-reported habits and lifestyle:**
+- Sleep: Complains of interrupted sleep due to bouts of coughing
+- Diet: Reduced appetite, manages to eat small, frequent meals
+- Exercise: Minimal, primarily due to physical limitations from breathlessness
+- Tobacco Use: Non-smoker
+- Alcohol Consumption: Does not drink
+- Recreational Activities: Previously enjoyed painting, now rarely able to participate
+
+**Demographic Information:**
+- Age: 68
+- Gender: Female
+- Ethnicity: Hispanic
+- Socio-economic Status: Lower-middle class
+- Education Level: Vocational training in clerical work
+- Health Literacy: Low, requires significant help from her daughter to understand medical instructions
+- Job Status: Retired clerical worker
+
+**Patient's Behavior:**
+- High level of cooperation with medical advice, brings her daughter to appointments for assistance
+
+**Geographical Location:**
+- Rural: Lives in a rural area with limited access to specialized medical care
+- Pollution and Environmental Health Risks: Low, no significant environmental health risks
+- Neighborhood Type: Poorly served by public transit, needs to rely on family for transportation to medical appointments
+
+**Clinical Setting:**
+- Telemedicine: Initial consultation via a telemedicine platform due to remote location and mobility issues
+
+**Type of Encounter:**
+- Chronic Disease Management for newly diagnosed Interstitial Lung Disease
+
+**Native or Non-Native English Speaking Patient:**
+- Non-Native English speaking patient, primary language is Spanish
+
+**Physical exams:**
+- NA (initial consultation via telemedicine)
+
+**Investigation/Test results:**
+- Awaiting High-Resolution CT scan results to assess the extent of lung fibrosis and guide further treatment decisions"|Rejected|Rejected|Rejected|Rejected||

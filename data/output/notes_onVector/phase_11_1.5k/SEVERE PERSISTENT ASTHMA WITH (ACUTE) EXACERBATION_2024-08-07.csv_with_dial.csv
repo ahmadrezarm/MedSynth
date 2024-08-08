@@ -1,0 +1,2050 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+SEVERE PERSISTENT ASTHMA WITH (ACUTE) EXACERBATION|"ROLE: Pulmonologist
+
+**Scenario Variables:**
+
+1) Medical Outcome: 
+   - Diagnosis: Severe persistent asthma with (acute) exacerbation.
+   - Prescribed Treatment: 
+     - Prednisone 50 mg, oral, once daily for 7 days, 10 tablets.
+     - Albuterol inhaler: 90 mcg per actuation, 2 puffs every 4-6 hours as needed.
+     - Referral to allergist (Dr. Samantha Lee) for possible allergic triggers contributing to asthma exacerbation.
+   - Follow-up Recommendations:
+     - Follow-up appointment in 2 weeks to reassess asthma control.
+     - Spirometry test during follow-up to assess lung function.
+   - Blood Work: CBC with differential to rule out infection.
+   - Imaging: Chest X-ray to rule out pneumonia or other lung pathology.
+
+2) Medical History:
+   - Previous Diagnoses: Severe persistent asthma, Allergic Rhinitis.
+   - Family Medical History: Mother had Asthma, father had Hypertension.
+   - Medication History: Regular use of Fluticasone-Salmeterol inhaler.
+   - Allergies: Allergic to dust mites and pollen.
+   - Chronic Conditions: Asthma, Allergic Rhinitis.
+
+3) Symptom Description:
+   - Severity: Severe
+   - Duration: Symptoms worsened over the past 5 days.
+   - Associated Symptoms: Wheezing, Shortness of breath, Chest tightness, Increased sputum production.
+   - Frequency: Continuous, with multiple exacerbations in the past month.
+   - Impact on Daily Activities: Unable to perform daily tasks, frequent absenteeism from work.
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Reports poor sleep due to nighttime asthma symptoms.
+   - Diet: Balanced diet but high in dairy products.
+   - Exercise: Limited due to breathlessness.
+   - Tobacco Use: Non-smoker.
+   - Alcohol Consumption: Rare (once or twice a month).
+   - Drug Use: No illicit drug use.
+   - Recreational Activities: Enjoys gardening, but symptoms have limited this activity recently.
+
+5) Demographic Information:
+   - Age: 35
+   - Gender: Female
+   - Ethnicity: African-American
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: Moderate understanding of medical terms and conditions.
+   - Job Status: Employed as a school teacher.
+
+6) Patient's Behavior: Generally cooperative with medical advice but requires frequent reminders regarding inhaler technique and medication adherence.
+
+7) Geographical Location:
+   - Urban setting with high air pollution levels.
+   - Lives in a moderate-income neighborhood.
+   - Well-served by public transit but limited access to fresh produce.
+
+8) Clinical Setting:
+   - Private Practice, specialist pulmonology clinic.
+
+9) Type of Encounter:
+   - Emergency Visit due to severe exacerbation of asthma.
+
+10) Treatment Disparities:
+   - No evidence of treatment disparities. Patient has insurance and access to regular healthcare.
+
+11) Native or Non-Native English Speaking Patient: 
+   - Native English speaking.
+
+12) Physical exams: 
+   - Respiratory: Decreased breath sounds with bilateral wheezing, accessory muscle use noted.
+   - Cardiovascular: Regular rate and rhythm, no murmurs.
+   - General: Appears in moderate distress, anxious.
+
+13) Investigation/Test results:
+   - Awaiting results: CBC with differential.
+   - Chest X-ray: Ordered to rule out pneumonia, awaiting results."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe asthma exacerbation.
+
+**History of Present Illness (HPI):**
+The patient is a 35-year-old African-American female presenting with severe exacerbation of her asthma. She reports that her symptoms have been worsening over the past 5 days. These include significant wheezing, shortness of breath, chest tightness, and increased sputum production. The patient has had multiple exacerbations in the past month, leading to significant impairment in her daily activities and frequent absenteeism from work.
+
+**Review of Systems (ROS):**
+- *Constitutional*: Reports moderate distress and anxiety. Denies fever or chills.
+- *Respiratory*: Severe wheezing, shortness of breath, chest tightness, and increased sputum production. Poor sleep due to nighttime asthma symptoms.
+- *Cardiovascular*: Denies chest pain or palpitations.
+- *Gastrointestinal*: Denies nausea, vomiting, or diarrhea.
+- *Neurological*: Denies headache or dizziness.
+- *Musculoskeletal*: Denies muscle pain or weakness.
+- *Allergies*: History of dust mites and pollen allergies.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 130/82 mmHg
+- Pulse: 98 beats per minute
+- Respiratory Rate: 24 breaths per minute
+- Temperature: 98.2°F
+- SpO2: 92% on room air
+
+**Physical Examination:**
+- *General*: Appears in moderate distress, anxious.
+- *Respiratory*: Decreased breath sounds with bilateral wheezing, accessory muscle use noted.
+- *Cardiovascular*: Regular rate and rhythm, no murmurs.
+- *HEENT*: Nasal congestion noted, no oropharyngeal erythema.
+- *Abdomen*: Soft, non-tender, no hepatosplenomegaly.
+- *Extremities*: No cyanosis, clubbing, or edema.
+
+**Pending Investigations:**
+- CBC with differential: Awaiting results.
+- Chest X-ray: Ordered to rule out pneumonia, awaiting results.
+
+**3. Assessment:**
+
+**Diagnosis:**
+- Severe persistent asthma with acute exacerbation.
+- Allergic Rhinitis, contributing to asthma symptoms.
+
+**4. Plan:**
+
+**Medical Treatment:**
+1. Prednisone 50 mg, oral, once daily for 7 days (10 tablets).
+2. Albuterol inhaler: 90 mcg per actuation, 2 puffs every 4-6 hours as needed.
+
+**Referral:**
+- Referral to allergist, Dr. Samantha Lee, for evaluation of potential allergic triggers contributing to asthma exacerbation.
+
+**Follow-up Recommendations:**
+1. Follow-up appointment in 2 weeks to reassess asthma control.
+2. Spirometry test during follow-up to assess lung function.
+3. Await results of CBC with differential to rule out infection.
+4. Await results of Chest X-ray to rule out pneumonia or other lung pathology.
+
+**Patient Education and Counseling:**
+- Reviewed the importance of adherence to the medication regimen, including the proper use of inhalers.
+- Advised avoidance of known allergens, particularly dust mites and pollen.
+- Encouraged minimizing dairy products as these may contribute to mucus production.
+- Discussed the impact of high air pollution levels in the urban setting and recommended staying indoors on days with poor air quality.
+- Emphasized the need for improved sleep hygiene and stress management techniques.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended treatment plan and follow-up schedule. All questions were answered, and the patient demonstrated proper inhaler technique before leaving the clinic."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe asthma exacerbation.
+
+**History of Present Illness (HPI):**
+The patient, a 35-year-old African-American female named Angela Johnson, presents with a severe exacerbation of her asthma. She reports that her symptoms have been worsening over the past 5 days. These include significant wheezing, shortness of breath, chest tightness, and increased sputum production. Angela has had multiple exacerbations in the past month, leading to significant impairment in her daily activities and frequent absenteeism from work.
+
+**Review of Systems (ROS):**
+- *Constitutional*: Reports moderate distress and anxiety. Denies fever or chills.
+- *Respiratory*: Severe wheezing, shortness of breath, chest tightness, and increased sputum production. Poor sleep due to nighttime asthma symptoms.
+- *Cardiovascular*: Denies chest pain or palpitations.
+- *Gastrointestinal*: Denies nausea, vomiting, or diarrhea.
+- *Neurological*: Denies headache or dizziness.
+- *Musculoskeletal*: Denies muscle pain or weakness.
+- *Allergies*: History of dust mites and pollen allergies.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 130/82 mmHg
+- Pulse: 98 beats per minute
+- Respiratory Rate: 24 breaths per minute
+- Temperature: 98.2°F
+- SpO2: 92% on room air
+
+**Physical Examination:**
+- *General*: Appears in moderate distress, anxious.
+- *Respiratory*: Decreased breath sounds with bilateral wheezing, accessory muscle use noted.
+- *Cardiovascular*: Regular rate and rhythm, no murmurs.
+- *HEENT*: Nasal congestion noted, no oropharyngeal erythema.
+- *Abdomen*: Soft, non-tender, no hepatosplenomegaly.
+- *Extremities*: No cyanosis, clubbing, or edema.
+
+**Pending Investigations:**
+- CBC with differential: Awaiting results.
+- Chest X-ray: Ordered to rule out pneumonia, awaiting results.
+
+**3. Assessment:**
+
+**Diagnosis:**
+- Severe persistent asthma with acute exacerbation.
+- Allergic Rhinitis, contributing to asthma symptoms.
+
+**4. Plan:**
+
+**Medical Treatment:**
+1. Prednisone 50 mg, oral, once daily for 7 days (10 tablets).
+2. Albuterol inhaler: 90 mcg per actuation, 2 puffs every 4-6 hours as needed.
+
+**Referral:**
+- Referral to allergist, Dr. Samantha Lee, for evaluation of potential allergic triggers contributing to asthma exacerbation.
+
+**Follow-up Recommendations:**
+1. Follow-up appointment in 2 weeks to reassess asthma control.
+2. Spirometry test during follow-up to assess lung function.
+3. Await results of CBC with differential to rule out infection.
+4. Await results of Chest X-ray to rule out pneumonia or other lung pathology.
+
+**Patient Education and Counseling:**
+- Reviewed the importance of adherence to the medication regimen, including the proper use of inhalers.
+- Advised avoidance of known allergens, particularly dust mites and pollen.
+- Encouraged minimizing dairy products as these may contribute to mucus production.
+- Discussed the impact of high air pollution levels in the urban setting and recommended staying indoors on days with poor air quality.
+- Emphasized the need for improved sleep hygiene and stress management techniques.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended treatment plan and follow-up schedule. All questions were answered, and the patient demonstrated proper inhaler technique before leaving the clinic."|"**1. Subjective:**
+
+**CC:**
+Severe asthma exacerbation.
+
+**HPI:**
+The pt, a 35 y/o African-American F named Angela Johnson, presents with a severe exacerbation of her asthma. She reports that her sx have been worsening over the past 5 days. These include significant wheezing, SOB, chest tightness, and increased sputum production. Angela has had multiple exacerbations in the past month, leading to significant impairment in her daily activities and frequent absenteeism from work.
+
+**ROS:**
+- *Constitutional*: Reports moderate distress and anxiety. Denies fever or chills.
+- *Respiratory*: Severe wheezing, SOB, chest tightness, and increased sputum production. Poor sleep due to nighttime asthma sx.
+- *Cardiovascular*: Denies chest pain or palpitations.
+- *GI*: Denies N/V/D.
+- *Neuro*: Denies HA or dizziness.
+- *MSK*: Denies muscle pain or weakness.
+- *Allergies*: Hx of dust mites and pollen allergies.
+
+**2. Objective:**
+
+**VS:**
+- BP: 130/82 mmHg
+- HR: 98 bpm
+- RR: 24 bpm
+- Temp: 98.2°F
+- SpO2: 92% on RA
+
+**PE:**
+- *General*: Appears in moderate distress, anxious.
+- *Respiratory*: Decreased breath sounds with bilateral wheezing, accessory muscle use noted.
+- *CV*: Regular rate and rhythm, no murmurs.
+- *HEENT*: Nasal congestion noted, no oropharyngeal erythema.
+- *Abd*: Soft, non-tender, no HSM.
+- *Ext*: No cyanosis, clubbing, or edema.
+
+**Pending Investigations:**
+- CBC w/ diff: Awaiting results.
+- CXR: Ordered to R/O PNA, awaiting results.
+
+**3. Assessment:**
+
+**Dx:**
+- Severe persistent asthma with acute exacerbation.
+- Allergic Rhinitis, contributing to asthma sx.
+
+**4. Plan:**
+
+**Medical Tx:**
+1. Prednisone 50 mg PO QD x7 days (10 tabs).
+2. Albuterol inhaler: 90 mcg per actuation, 2 puffs q4-6h PRN.
+
+**Referral:**
+- Referral to allergist, Dr. Samantha Lee, for eval of potential allergic triggers contributing to asthma exacerbation.
+
+**Follow-up Recommendations:**
+1. F/U in 2 weeks to reassess asthma control.
+2. Spirometry test during F/U to assess lung function.
+3. Await results of CBC w/ diff to R/O infection.
+4. Await results of CXR to R/O PNA or other lung pathology.
+
+**Patient Education and Counseling:**
+- Reviewed the importance of adherence to the med regimen, including the proper use of inhalers.
+- Advised avoidance of known allergens, particularly dust mites and pollen.
+- Encouraged minimizing dairy products as these may contribute to mucus production.
+- Discussed the impact of high air pollution levels in the urban setting and recommended staying indoors on days with poor air quality.
+- Emphasized the need for improved sleep hygiene and stress mgmt techniques.
+
+**Patient Agreements:**
+The pt understands and agrees with the recommended tx plan and F/U schedule. All questions were answered, and the pt demonstrated proper inhaler technique before leaving the clinic."|Pulmonologist|"**Doctor:** Hey there, how are you doing today?
+
+**Patient:** Not too great, to be honest. My asthma has been really bad.
+
+**Doctor:** I'm sorry to hear that. Can you tell me more about your symptoms?
+
+**Patient:** Sure, over the past 5 days, my asthma has been getting worse. I've been wheezing a lot, feeling short of breath, and my chest feels tight. I've also had more sputum than usual.
+
+**Doctor:** How severe would you say your symptoms are right now?
+
+**Patient:** They're pretty bad. I can barely do anything without feeling out of breath.
+
+**Doctor:** I'm sorry to hear that. Have you had multiple exacerbations recently?
+
+**Patient:** Yes, I've had several in the past month. It's really affecting my daily life and I'm missing a lot of work.
+
+**Doctor:** That sounds very challenging. Let's go through some details. Have you experienced any fever or chills?
+
+**Patient:** No, no fever or chills.
+
+**Doctor:** How about your sleep? Have you been sleeping well?
+
+**Patient:** Not really, my asthma symptoms keep waking me up at night.
+
+**Doctor:** I see. Any chest pain or palpitations?
+
+**Patient:** No, I haven't had any chest pain or palpitations.
+
+**Doctor:** What about nausea, vomiting, or diarrhea?
+
+**Patient:** No, none of those.
+
+**Doctor:** Any headaches or dizziness?
+
+**Patient:** No, I haven't had any headaches or dizziness.
+
+**Doctor:** How about muscle pain or weakness?
+
+**Patient:** No, my muscles feel fine.
+
+**Doctor:** Do you have any allergies?
+
+**Patient:** Yes, I'm allergic to dust mites and pollen.
+
+**Doctor:** Alright, let's go over your vital signs. Your blood pressure is 130/82 mmHg, pulse is 98 beats per minute, respiratory rate is 24 breaths per minute, temperature is 98.2°F, and your SpO2 is 92% on room air.
+
+**Patient:** Okay.
+
+**Doctor:** Now, let me perform a quick physical examination. When I listen to your lungs, I can hear decreased breath sounds with bilateral wheezing. You're also using your accessory muscles to breathe. Your cardiovascular exam shows a regular rate and rhythm, no murmurs. You have nasal congestion, but no oropharyngeal erythema. Your abdomen is soft and non-tender, and there is no hepatosplenomegaly. Your extremities show no cyanosis, clubbing, or edema.
+
+**Patient:** Alright.
+
+**Doctor:** We have ordered a CBC with differential and a chest X-ray to rule out pneumonia. We're still waiting for those results.
+
+**Patient:** Got it.
+
+**Doctor:** Based on your symptoms and examination, it seems like you have a severe persistent asthma exacerbation, possibly contributed to by your allergic rhinitis.
+
+**Patient:** What should I do?
+
+**Doctor:** For now, we'll start you on Prednisone 50 mg, orally, once daily for 7 days. I'll also prescribe an Albuterol inhaler, 90 mcg per actuation, 2 puffs every 4-6 hours as needed.
+
+**Patient:** Okay.
+
+**Doctor:** I'm also going to refer you to Dr. Samantha Lee, an allergist, to evaluate potential triggers contributing to your asthma exacerbation.
+
+**Patient:** That sounds good.
+
+**Doctor:** We need to follow up in 2 weeks to reassess your asthma control. We'll also perform a spirometry test during the follow-up to assess your lung function.
+
+**Patient:** Alright.
+
+**Doctor:** We'll await the results of your CBC with differential to rule out any infection, and the chest X-ray results to rule out pneumonia or other lung pathology.
+
+**Patient:** Okay.
+
+**Doctor:** It's very important that you adhere to the medication regimen, especially the proper use of inhalers. Avoid known allergens like dust mites and pollen as much as possible.
+
+**Patient:** I'll do my best.
+
+**Doctor:** Try to minimize dairy products as they can contribute to mucus production. Also, stay indoors on days with high air pollution levels.
+
+**Patient:** That makes sense.
+
+**Doctor:** Finally, work on improving your sleep hygiene and stress management techniques.
+
+**Patient:** I'll try.
+
+**Doctor:** Do you have any questions about the treatment plan?
+
+**Patient:** No, I think I understand everything.
+
+**Doctor:** Great. Please demonstrate your inhaler technique for me.
+
+**Patient:** (Demonstrates inhaler technique)
+
+**Doctor:** That looks good. The patient understands and agrees with the recommended treatment plan and follow-up schedule. If you have any more questions or concerns, feel free to reach out.
+
+**Patient:** Thank you so much.
+
+**Doctor:** You're welcome. Take care and see you in 2 weeks."|"[doctor]: Hey there, how are you doing today?
+
+[patient]: Not too great, to be honest. My asthma has been really bad.
+
+[doctor]: I'm sorry to hear that. Can you tell me more about your symptoms?
+
+[patient]: Sure, over the past 5 days, my asthma has been getting worse. I've been wheezing a lot, feeling short of breath, and my chest feels tight. I've also had more sputum than usual.
+
+[doctor]: Hmm, how severe would you say your symptoms are right now?
+
+[patient]: They're pretty bad. I can barely do anything without feeling out of breath.
+
+[doctor]: I'm sorry to hear that. Have you had multiple exacerbations recently?
+
+[patient]: Yes, I've had several in the past month. It's really affecting my daily life and I'm missing a lot of work.
+
+[doctor]: That sounds very challenging. Let's go through some details. Have you experienced any fever or chills?
+
+[patient]: No, no fever or chills.
+
+[doctor]: How about your sleep? Have you been sleeping well?
+
+[patient]: Not really, my asthma symptoms keep waking me up at night.
+
+[doctor]: I see. Any chest pain or palpitations?
+
+[patient]: No, I haven't had any chest pain or palpitations.
+
+[doctor]: What about nausea, vomiting, or diarrhea?
+
+[patient]: No, none of those.
+
+[doctor]: Any headaches or dizziness?
+
+[patient]: No, I haven't had any headaches or dizziness.
+
+[doctor]: How about muscle pain or weakness?
+
+[patient]: No, my muscles feel fine.
+
+[doctor]: Do you have any allergies?
+
+[patient]: Yes, I'm allergic to dust mites and pollen.
+
+[doctor]: Alright, let's go over your vital signs. Your blood pressure is 130/82 mmHg, pulse is 98 beats per minute, respiratory rate is 24 breaths per minute, temperature is 98.2°F, and your SpO2 is 92% on room air.
+
+[patient]: Okay.
+
+[doctor]: Now, let me perform a quick physical examination. When I listen to your lungs, I can hear decreased breath sounds with bilateral wheezing. You're also using your accessory muscles to breathe. Your cardiovascular exam shows a regular rate and rhythm, no murmurs. You have nasal congestion, but no oropharyngeal erythema. Your abdomen is soft and non-tender, and there is no hepatosplenomegaly. Your extremities show no cyanosis, clubbing, or edema.
+
+[patient]: Alright.
+
+[doctor]: We have ordered a CBC with differential and a chest X-ray to rule out pneumonia. We're still waiting for those results.
+
+[patient]: Got it.
+
+[doctor]: Based on your symptoms and examination, it seems like you have a severe persistent asthma exacerbation, possibly contributed to by your allergic rhinitis.
+
+[patient]: What should I do?
+
+[doctor]: For now, we'll start you on Prednisone 50 mg, orally, once daily for 7 days. I'll also prescribe an Albuterol inhaler, 90 mcg per actuation, 2 puffs every 4-6 hours as needed.
+
+[patient]: Okay.
+
+[doctor]: I'm also going to refer you to Dr. Samantha Lee, an allergist, to evaluate potential triggers contributing to your asthma exacerbation.
+
+[patient]: That sounds good.
+
+[doctor]: We need to follow up in 2 weeks to reassess your asthma control. We'll also perform a spirometry test during the follow-up to assess your lung function.
+
+[patient]: Alright.
+
+[doctor]: We'll await the results of your CBC with differential to rule out any infection, and the chest X-ray results to rule out pneumonia or other lung pathology.
+
+[patient]: Okay.
+
+[doctor]: It's very important that you adhere to the medication regimen, especially the proper use of inhalers. Avoid known allergens like dust mites and pollen as much as possible.
+
+[patient]: I'll do my best.
+
+[doctor]: Try to minimize dairy products as they can contribute to mucus production. Also, stay indoors on days with high air pollution levels.
+
+[patient]: That makes sense.
+
+[doctor]: Finally, work on improving your sleep hygiene and stress management techniques.
+
+[patient]: I'll try.
+
+[doctor]: Do you have any questions about the treatment plan?
+
+[patient]: No, I think I understand everything.
+
+[doctor]: Great. Please demonstrate your inhaler technique for me.
+
+[patient]: (Demonstrates inhaler technique)
+
+[doctor]: That looks good. The patient understands and agrees with the recommended treatment plan and follow-up schedule. If you have any more questions or concerns, feel free to reach out.
+
+[patient]: Thank you so much.
+
+[doctor]: You're welcome. Take care and see you in 2 weeks."
+SEVERE PERSISTENT ASTHMA WITH (ACUTE) EXACERBATION|"ROLE: Pulmonologist
+
+**1) Medical Outcome:** 
+   - **Diagnosis:** Severe persistent asthma with (acute) exacerbation
+   - **Prescribed Treatment:** Prednisone 50 mg oral once daily for 5 days. Salbutamol (Albuterol) inhaler, 2 puffs every 4-6 hours as needed. Fluticasone/Salmeterol inhaler, 1 puff twice daily.
+   - **Follow-up Recommendations:** Follow-up appointment in 1 week to reassess asthma control.
+   - **Referral to specialists:** Referral to Allergist Dr. Smith for further evaluation of potential allergens triggering asthma.
+   - **Order for blood work:** Complete Blood Count (CBC), Immunoglobulin E (IgE) levels.
+   - **Order for imaging:** Chest X-ray to rule out secondary infection or complications.
+
+**2) Medical History:** 
+   - **Previous Diagnoses:** Asthma, Allergic rhinitis.
+   - **Family Medical History:** Father with a history of asthma.
+   - **Mediction History:** Fluticasone/Salmeterol inhaler, Cetirizine 10 mg once daily for allergies.
+   - **Allergies:** Allergic to dust mites and pollen.
+   - **Chronic Conditions:** Asthma, Allergic rhinitis.
+
+**3) Symptom Description:** 
+   - **Severity:** Severe
+   - **Duration:** Worsening over the past 3 days
+   - **Associated Symptoms:** Wheezing, shortness of breath, chest tightness
+   - **Frequency:** Daily, with multiple exacerbations in the past week
+   - **Impact on Daily Activities:** Significant difficulty in performing daily activities, especially physical exertion.
+
+**4) Patient’s self-reported habits and lifestyle:** 
+   - **Sleep:** Poor sleep quality due to nocturnal asthma symptoms.
+   - **Diet:** Balanced diet, avoids known allergens
+   - **Exercise:** Limited due to asthma symptoms
+   - **Tobacco Use:** None
+   - **Alcohol Consumption:** 1-2 drinks per week
+   - **Drug Use:** None
+   - **Recreational Activities:** Limited due to asthma
+
+**5) Demographic Information:** 
+   - **Age:** 28
+   - **Gender:** Female
+   - **Ethnicity:** Hispanic
+   - **Socio-economic Status:** Middle class
+   - **Education Level:** College graduate
+   - **Health Literacy:** High 
+   - **Job Status:** Office worker
+
+**6) Patient's Behavior:** 
+   - Patient is compliant with medication but has missed a few inhaler doses in the past week due to stress.
+
+**7) Geographical Location:** 
+   - **Big City vs Small City:** Urban
+   - **Pollution and Environmental Health Risks:** High pollution index, reported increased pollen count
+   - **Neighborhood Type:** Affluent
+
+**8) Clinical Setting:** 
+   - Specialty Clinic
+
+**9) Type of Encounter:** 
+   - Emergency Visit
+
+**10) Treatment Disparities:**
+   - Patient has adequate health insurance and does not face treatment disparities.
+
+**11) Native or Non-Native English Speaking Patient:** 
+   - Native English speaking
+
+**12) Physical exams:**
+   - Auscultation revealing diffuse wheezing bilaterally, use of accessory muscles noted, respiratory rate elevated.
+
+**13) Investigation/Test results:**
+   - Pending: Chest X-ray and blood work (CBC, IgE levels)"|"#####
+**SUBJECTIVE**
+
+**CHIEF COMPLAINT**
+Worsening asthma symptoms.
+
+**HISTORY OF PRESENT ILLNESS**
+Maria Gonzalez is a 28-year-old Hispanic female who presents to the clinic today for worsening asthma symptoms. She reports an increase in wheezing, shortness of breath, and chest tightness over the past 3 days. The symptoms have been severe, significantly interfering with her daily activities and compromising her sleep. Maria has a history of asthma and allergic rhinitis and is allergic to dust mites and pollen. She mentions that she has been compliant with her medication regimen but missed a few doses of her inhaler in the past week due to stress. She denies any recent upper respiratory infections or new exposures.
+
+**REVIEW OF SYSTEMS**
+Constitutional: Reports poor sleep quality.
+Respiratory: Reports severe wheezing, shortness of breath, and chest tightness.
+ENT: No recent upper respiratory infections.
+Allergic/Immunologic: Known allergies to dust mites and pollen.
+
+**OBJECTIVE**
+
+**VITAL SIGNS**
+BP: 120/78 mmHg.
+HR: 96 bpm.
+Temperature: 98.6°F.
+SpO2: 94% on room air.
+Respiratory Rate: 24 breaths/min.
+
+**PHYSICAL EXAM**
+GENERAL: Alert and oriented, appears in mild respiratory distress.
+RESPIRATORY: Diffuse wheezing bilaterally, use of accessory muscles noted during respiration.
+CARDIOVASCULAR: Heart sounds normal, no murmurs, rubs, or gallops.
+SKIN: No rashes or lesions.
+
+**RESULTS**
+Pending: Chest X-ray, Complete Blood Count (CBC), Immunoglobulin E (IgE) levels.
+
+**ASSESSMENT**
+Severe persistent asthma with acute exacerbation.
+
+**PLAN**
+1. Initiate Prednisone 50 mg orally once daily for 5 days.
+2. Continue current use of Salbutamol (Albuterol) inhaler, 2 puffs every 4-6 hours as needed.
+3. Maintain Fluticasone/Salmeterol inhaler, 1 puff twice daily.
+4. Referral to Allergist Dr. Smith for further evaluation of potential allergens triggering asthma.
+5. Order a complete blood count (CBC) and Immunoglobulin E (IgE) levels for further diagnostic insight.
+6. Order a chest X-ray to rule out secondary infection or complications.
+7. Educate the patient on the importance of adherence to prescribed medication regimen.
+8. Schedule a follow-up appointment in 1 week to reassess asthma control and review test results.
+
+**INSTRUCTIONS**
+Maria will follow up with the clinic in 1 week to reassess asthma symptoms and review the results of ordered tests and the chest X-ray. She will also follow up with the allergist for further evaluation of potential allergens triggering her asthma. All questions were answered, and she was advised to seek immediate medical attention if her symptoms worsen.
+#####"|"#####
+**SUBJECTIVE**
+
+**CHIEF COMPLAINT**
+Worsening asthma symptoms.
+
+**HISTORY OF PRESENT ILLNESS**
+Maria Gonzalez is a 28-year-old Hispanic female who presents to the clinic today for worsening asthma symptoms. She reports an increase in wheezing, shortness of breath, and chest tightness over the past 3 days. The symptoms have been severe, significantly interfering with her daily activities and compromising her sleep. Maria has a history of asthma and allergic rhinitis and is allergic to dust mites and pollen. She mentions that she has been compliant with her medication regimen but missed a few doses of her inhaler in the past week due to stress. She denies any recent upper respiratory infections or new exposures.
+
+**REVIEW OF SYSTEMS**
+Constitutional: Reports poor sleep quality.
+Respiratory: Reports severe wheezing, shortness of breath, and chest tightness.
+ENT: No recent upper respiratory infections.
+Allergic/Immunologic: Known allergies to dust mites and pollen.
+
+**OBJECTIVE**
+
+**VITAL SIGNS**
+BP: 120/78 mmHg.
+HR: 96 bpm.
+Temperature: 98.6°F.
+SpO2: 94% on room air.
+Respiratory Rate: 24 breaths/min.
+
+**PHYSICAL EXAM**
+GENERAL: Alert and oriented, appears in mild respiratory distress.
+RESPIRATORY: Diffuse wheezing bilaterally, use of accessory muscles noted during respiration.
+CARDIOVASCULAR: Heart sounds normal, no murmurs, rubs, or gallops.
+SKIN: No rashes or lesions.
+
+**ASSESSMENT**
+Severe persistent asthma with acute exacerbation.
+
+**PLAN**
+1. Initiate Prednisone 50 mg orally once daily for 5 days.
+2. Continue current use of Salbutamol (Albuterol) inhaler, 2 puffs every 4-6 hours as needed.
+3. Maintain Fluticasone/Salmeterol inhaler, 1 puff twice daily.
+4. Referral to Allergist Dr. Smith for further evaluation of potential allergens triggering asthma.
+5. Order a complete blood count (CBC) and Immunoglobulin E (IgE) levels for further diagnostic insight.
+6. Order a chest X-ray to rule out secondary infection or complications.
+7. Educate the patient on the importance of adherence to prescribed medication regimen.
+8. Schedule a follow-up appointment in 1 week to reassess asthma control and review test results.
+
+**INSTRUCTIONS**
+Maria will follow up with the clinic in 1 week to reassess asthma symptoms and review the results of ordered tests and the chest X-ray. She will also follow up with the allergist for further evaluation of potential allergens triggering her asthma. All questions were answered, and she was advised to seek immediate medical attention if her symptoms worsen.
+#####"|"#####
+**SUBJECTIVE**
+
+**CC**
+Worsening asthma sx.
+
+**HPI**
+Maria Gonzalez is a 28 y/o Hispanic F who presents to the clinic today for worsening asthma sx. She reports an increase in wheezing, SOB, and chest tightness over the past 3 days. The sx have been severe, significantly interfering with her ADLs and compromising her sleep. Maria has a hx of asthma and allergic rhinitis and is allergic to dust mites and pollen. She mentions that she has been compliant with her med regimen but missed a few doses of her inhaler in the past week due to stress. She denies any recent URIs or new exposures.
+
+**ROS**
+Constitutional: Reports poor sleep quality.
+Respiratory: Reports severe wheezing, SOB, and chest tightness.
+ENT: No recent URIs.
+Allergic/Immunologic: Known allergies to dust mites and pollen.
+
+**OBJECTIVE**
+
+**VITAL SIGNS**
+BP: 120/78 mmHg.
+HR: 96 bpm.
+Temp: 98.6°F.
+SpO2: 94% on RA.
+RR: 24 breaths/min.
+
+**PHYSICAL EXAM**
+GENERAL: Alert and oriented, appears in mild respiratory distress.
+RESPIRATORY: Diffuse wheezing bilaterally, use of accessory muscles noted during respiration.
+CV: Heart sounds normal, no murmurs, rubs, or gallops.
+SKIN: No rashes or lesions.
+
+**ASSESSMENT**
+Severe persistent asthma with acute exacerbation.
+
+**PLAN**
+1. Initiate Prednisone 50 mg PO QD for 5 days.
+2. Continue current use of Salbutamol (Albuterol) inhaler, 2 puffs q4-6h PRN.
+3. Maintain Fluticasone/Salmeterol inhaler, 1 puff BID.
+4. Referral to Allergist Dr. Smith for further eval of potential allergens triggering asthma.
+5. Order a CBC and IgE levels for further diagnostic insight.
+6. Order a CXR to r/o secondary infection or complications.
+7. Educate the patient on the importance of adherence to prescribed med regimen.
+8. Schedule a f/u appointment in 1 week to reassess asthma control and review test results.
+
+**INSTRUCTIONS**
+Maria will f/u with the clinic in 1 week to reassess asthma sx and review the results of ordered tests and the CXR. She will also f/u with the allergist for further eval of potential allergens triggering her asthma. All questions were answered, and she was advised to seek immediate medical attention if her sx worsen.
+#####"|Pulmonologist|"[doctor] Hi Maria, how are you doing today?
+
+[patient] Hi, Doctor. I'm not doing so great. My asthma symptoms have been getting worse.
+
+[doctor] Oh no, I'm sorry to hear that. Can you tell me more about what's been going on?
+
+[patient] Sure. Over the past three days, I've had a lot more wheezing, shortness of breath, and chest tightness. It's been really bad, and it's making it hard to do my daily activities and even sleep.
+
+[doctor] That sounds really difficult. Have you had any recent upper respiratory infections or new exposures that you think might have triggered this?
+
+[patient] No, I haven't had any recent infections or new exposures.
+
+[doctor] And you're taking your medications as prescribed?
+
+[patient] Well, I've been trying, but I missed a few doses of my inhaler last week because of stress.
+
+[doctor] Okay, that can definitely make things worse. Do you have any known allergies?
+
+[patient] Yes, I'm allergic to dust mites and pollen.
+
+[doctor] Alright. Let me review your current symptoms and medical history. So, you're experiencing severe wheezing, shortness of breath, and chest tightness. You've mentioned poor sleep quality and a history of asthma and allergic rhinitis. Correct?
+
+[patient] Yes, that's right.
+
+[doctor] Okay, now let's review your vitals. Your blood pressure is 120/78 mmHg, heart rate is 96 beats per minute, respiratory rate is 24 breaths per minute, and your oxygen saturation is 94% on room air. Your temperature is normal at 98.6°F.
+
+[patient] Okay.
+
+[doctor] I'm going to perform a physical exam now. Just let me know if you have any questions along the way.
+
+[patient] Alright.
+
+[doctor] You appear alert and oriented, but I can see you're in mild respiratory distress. I hear diffuse wheezing in both lungs, and you're using your accessory muscles to breathe. Your heart sounds are normal, with no murmurs, rubs, or gallops. And your skin looks fine, no rashes or lesions.
+
+[patient] Okay.
+
+[doctor] Based on what we've discussed and your exam, I believe you're having a severe persistent asthma exacerbation. We're going to take some steps to get this under control.
+
+[patient] What do you recommend?
+
+[doctor] First, I'm going to prescribe Prednisone 50 mg orally once daily for 5 days to help reduce the inflammation in your airways. Continue using your Salbutamol (Albuterol) inhaler, 2 puffs every 4-6 hours as needed for relief.
+
+[patient] Alright.
+
+[doctor] Also, keep up with your Fluticasone/Salmeterol inhaler, 1 puff twice daily. It's important to stay consistent with this medication to help manage your symptoms.
+
+[patient] I will.
+
+[doctor] I'm also going to refer you to Allergist Dr. Smith for further evaluation of potential allergens that might be triggering your asthma. 
+
+[patient] Okay, that sounds good.
+
+[doctor] We'll order a complete blood count (CBC) and Immunoglobulin E (IgE) levels to get more diagnostic insight. And we'll also do a chest X-ray to rule out any secondary infections or complications.
+
+[patient] Alright.
+
+[doctor] Lastly, it's crucial that you adhere to your prescribed medication regimen. Missing doses can really exacerbate your symptoms.
+
+[patient] I understand. I'll do my best to stay on track.
+
+[doctor] Great. We'll schedule a follow-up appointment in 1 week to reassess your asthma control and review your test results. If your symptoms worsen before then, seek immediate medical attention.
+
+[patient] Thank you, Doctor. I'll make sure to follow everything you said.
+
+[doctor] You're welcome, Maria. Take care, and we'll see you in a week for your follow-up.
+
+[patient] Thank you. See you then."|"[doctor] Hi Maria, how are you doing today?
+
+[patient] Hi, Doctor. I'm not doing so great. My asthma symptoms have been getting worse.
+
+[doctor] Oh no, I'm sorry to hear that. Can you tell me more about what's been going on?
+
+[patient] Sure. Over the past three days, I've had a lot more wheezing, shortness of breath, and chest tightness. It's been really bad, and it's making it hard to do my daily activities and even sleep.
+
+[doctor] That sounds really difficult. Have you had any recent upper respiratory infections or new exposures that you think might have triggered this?
+
+[patient] No, I haven't had any recent infections or new exposures.
+
+[doctor] And you're taking your medications as prescribed?
+
+[patient] Well, I've been trying, but I missed a few doses of my inhaler last week because of stress.
+
+[doctor] Okay, that can definitely make things worse. Do you have any known allergies?
+
+[patient] Yes, I'm allergic to dust mites and pollen.
+
+[doctor] Alright. Let me review your current symptoms and medical history. So, you're experiencing severe wheezing, shortness of breath, and chest tightness. You've mentioned poor sleep quality and a history of asthma and allergic rhinitis. Correct?
+
+[patient] Yes, that's right.
+
+[doctor] Okay, now let's review your vitals. Your blood pressure is 120/78 mmHg, heart rate is 96 beats per minute, respiratory rate is 24 breaths per minute, and your oxygen saturation is 94% on room air. Your temperature is normal at 98.6°F.
+
+[patient] Okay.
+
+[doctor] I'm going to perform a physical exam now. Just let me know if you have any questions along the way.
+
+[patient] Alright.
+
+[doctor] You appear alert and oriented, but I can see you're in mild respiratory distress. I hear diffuse wheezing in both lungs, and you're using your accessory muscles to breathe. Your heart sounds are normal, with no murmurs, rubs, or gallops. And your skin looks fine, no rashes or lesions.
+
+[patient] Okay.
+
+[doctor] Based on what we've discussed and your exam, I believe you're having a severe persistent asthma exacerbation. We're going to take some steps to get this under control.
+
+[patient] What do you recommend?
+
+[doctor] First, I'm going to prescribe Prednisone 50 mg orally once daily for 5 days to help reduce the inflammation in your airways. Continue using your Salbutamol (Albuterol) inhaler, 2 puffs every 4-6 hours as needed for relief.
+
+[patient] Alright.
+
+[doctor] Also, keep up with your Fluticasone/Salmeterol inhaler, 1 puff twice daily. It's important to stay consistent with this medication to help manage your symptoms.
+
+[patient] I will.
+
+[doctor] I'm also going to refer you to Allergist Dr. Smith for further evaluation of potential allergens that might be triggering your asthma. 
+
+[patient] Okay, that sounds good.
+
+[doctor] We'll order a complete blood count (CBC) and Immunoglobulin E (IgE) levels to get more diagnostic insight. And we'll also do a chest X-ray to rule out any secondary infections or complications.
+
+[patient] Alright.
+
+[doctor] Lastly, it's crucial that you adhere to your prescribed medication regimen. Missing doses can really exacerbate your symptoms.
+
+[patient] I understand. I'll do my best to stay on track.
+
+[doctor] Great. We'll schedule a follow-up appointment in 1 week to reassess your asthma control and review your test results. If your symptoms worsen before then, seek immediate medical attention.
+
+[patient] Thank you, Doctor. I'll make sure to follow everything you said.
+
+[doctor] You're welcome, Maria. Take care, and we'll see you in a week for your follow-up.
+
+[patient] Thank you. See you then."
+SEVERE PERSISTENT ASTHMA WITH (ACUTE) EXACERBATION|"ROLE: Pulmonologist
+
+**Clinical Setting:**
+    - Specialty Clinics
+
+**Type of Encounter:**
+    - Emergency Visit
+
+**Demographic Information:**
+    - Age: 35
+    - Gender: Female
+    - Ethnicity: Hispanic
+    - Socio-economic Status: Middle class
+    - Education Level: High school graduate
+    - Health Literacy: Moderate
+    - Job Status: Waitress
+
+**Symptom Description:**
+    - Severity: Severe
+    - Duration: 5 days
+    - Associated Symptoms: Shortness of breath, wheezing, chest tightness, coughing 
+    - Frequency: Multiple times daily
+    - Impact on Daily Activities: Unable to perform job duties, limited activity due to shortness of breath
+
+**Patient’s self-reported habits and lifestyle:**
+    - Sleep: Average 5 hours per night
+    - Diet: Mixed, frequent fast food
+    - Exercise: Rare, due to asthma limitations
+    - Tobacco Use: Smokes 10 cigarettes a day
+    - Alcohol Consumption: Occasional, 1-2 drinks per week
+    - Drug Use: Denies
+    - Recreational Activities: Rarely goes outside due to asthma triggers
+
+**Medical History:**
+    - Previous Diagnoses: Asthma, Anxiety
+    - Family Medical History: Mother has asthma, father has hypertension
+    - Medication History: Albuterol inhaler (as needed), Fluticasone/Salmeterol inhaler (twice daily)
+    - Allergies: Allergic to penicillin
+    - Chronic Conditions: Asthma, Anxiety
+
+**Patient's Behavior:**
+    - Moderately cooperative with medical advice, sometimes misses doses of maintenance inhalers
+
+**Physical exams:**
+    - Respiratory: Audible wheezing, use of accessory muscles for breathing
+    - Cardiovascular: Heart rate at 110 beats per minute, no murmurs or gallops
+    - General: Patient appears anxious and is in respiratory distress
+   
+**Geographical Location:**
+    - Urban
+    - Well-served by Transit
+    - Moderate pollution levels
+
+**Investigation/Test results:**
+    - Spirometry: Decreased FEV1/FVC ratio, indicating obstructive lung disease
+    - Chest X-ray: Awaiting results
+
+**Medical Outcome:**
+    - Diagnosis: Severe Persistent Asthma with Acute Exacerbation
+    - Prescribed Medication: 
+        - Albuterol nebulizer solution, 2.5 mg/3 mL, every 4-6 hours as needed for wheezing
+        - Oral Prednisone, 40 mg once daily for 7 days
+        - Continue Fluticasone/Salmeterol inhaler, 250/50 mcg, twice daily 
+    - Follow-up Recommendations: Follow-up visit in 1 week
+    - Referral to Specialists: Referral to allergy/immunology clinic for further evaluation of asthma triggers
+    - Order for Imaging: Awaiting Chest X-ray results
+    - Lifestyle Change: Urged to quit smoking, provided resources for smoking cessation programs
+    - Patient Education: Advised on the importance of medication adherence and avoiding asthma triggers"|"#####
+**Subjective:**
+
+**Chief Complaint:**
+Severe shortness of breath, wheezing, chest tightness, and coughing for 5 days.
+
+**History of Present Illness:**
+The patient is a 35-year-old Hispanic female, who is a waitress, presenting to the emergency clinic with severe shortness of breath, wheezing, chest tightness, and coughing. Symptoms have been persistent for the past 5 days and occur multiple times daily, significantly impacting her ability to perform her job duties and limiting her physical activities. She reports moderate health literacy and adherence to her asthma maintenance inhalers, though she occasionally misses doses.
+
+**Review of Systems:**
+
+- **Respiratory:** Positive for shortness of breath, wheezing, chest tightness, and cough.
+- **General:** Reports feeling anxious.
+- **Cardiovascular:** No chest pain, palpitations, or syncope.
+
+**Objective:**
+
+**Vitals:**
+- HR: 110 beats per minute
+- Respiratory Rate: Increased; using accessory muscles for breathing
+- Pulse Oximetry: 92% on room air
+
+**Physical Examination:**
+
+- **General:** Patient appears anxious and in respiratory distress.
+- **Respiratory:** Audible wheezing, prolonged expiratory phase, use of accessory muscles noted.
+- **Cardiovascular:** Tachycardia without murmurs, rubs, or gallops.
+
+**Investigations:**
+- **Spirometry:** Decreased FEV1/FVC ratio, indicating obstructive lung disease.
+- **Chest X-ray:** Awaiting results.
+
+**Assessment:**
+
+Severe Persistent Asthma with Acute Exacerbation.
+
+**Plan:**
+
+1. **Medications:**
+   - Initiate Albuterol nebulizer solution, 2.5 mg/3 mL, every 4-6 hours as needed for wheezing.
+   - Start Oral Prednisone, 40 mg once daily for 7 days.
+   - Continue Fluticasone/Salmeterol inhaler, 250/50 mcg, twice daily.
+
+2. **Follow-up:**
+   - Schedule follow-up visit in 1 week to assess response to treatment and review chest X-ray results.
+
+3. **Referral:**
+   - Refer to allergy/immunology clinic for further evaluation of potential asthma triggers.
+
+4. **Imaging:**
+   - Review chest X-ray results once available.
+
+5. **Lifestyle Modifications:**
+   - Strongly advised to quit smoking and provided with resources for smoking cessation programs.
+
+6. **Patient Education:**
+   - Educated the patient on the importance of medication adherence to prevent exacerbations.
+   - Discussed strategies to avoid known asthma triggers.
+   - Advised on recognizing early signs of asthma exacerbation and seeking immediate medical attention if symptoms worsen.
+
+**Instructions:**
+
+- If symptoms do not significantly improve within 48 hours or if they worsen, the patient should return to the emergency clinic immediately.
+- Continue to monitor Peak Expiratory Flow Rate (PEFR) at home if available and bring logs to follow-up appointment.
+
+#####
+"|"**1. Subjective:**
+
+**Chief Complaint:**
+Severe shortness of breath, wheezing, chest tightness, and coughing for 5 days.
+
+**History of Present Illness:**
+The patient is a 35-year-old Hispanic female, Maria Gonzalez, who is a waitress, presenting to the emergency clinic with severe shortness of breath, wheezing, chest tightness, and coughing. Symptoms have been persistent for the past 5 days and occur multiple times daily, significantly impacting her ability to perform her job duties and limiting her physical activities. She reports moderate health literacy and adherence to her asthma maintenance inhalers, though she occasionally misses doses.
+
+**Review of Systems:**
+
+- **Respiratory:** Positive for shortness of breath, wheezing, chest tightness, and cough.
+- **General:** Reports feeling anxious.
+- **Cardiovascular:** No chest pain, palpitations, or syncope.
+
+**2. Objective:**
+
+**Vitals:**
+- HR: 110 beats per minute
+- Respiratory Rate: Increased; using accessory muscles for breathing
+- Pulse Oximetry: 92% on room air
+
+**Physical Examination:**
+
+- **General:** Patient appears anxious and in respiratory distress.
+- **Respiratory:** Audible wheezing, prolonged expiratory phase, use of accessory muscles noted.
+- **Cardiovascular:** Tachycardia without murmurs, rubs, or gallops.
+
+**Investigations:**
+- **Spirometry:** Decreased FEV1/FVC ratio, indicating obstructive lung disease.
+
+**3. Assessment:**
+
+Severe Persistent Asthma with Acute Exacerbation.
+
+**4. Plan:**
+
+1. **Medications:**
+   - Initiate Albuterol nebulizer solution, 2.5 mg/3 mL, every 4-6 hours as needed for wheezing.
+   - Start Oral Prednisone, 40 mg once daily for 7 days.
+   - Continue Fluticasone/Salmeterol inhaler, 250/50 mcg, twice daily.
+
+2. **Follow-up:**
+   - Schedule follow-up visit in 1 week to assess response to treatment and review chest X-ray results.
+
+3. **Referral:**
+   - Refer to allergy/immunology clinic for further evaluation of potential asthma triggers. Dr. Emily Carter, Allergy/Immunology.
+
+4. **Imaging:**
+   - Review chest X-ray results once available.
+
+5. **Lifestyle Modifications:**
+   - Strongly advised to quit smoking and provided with resources for smoking cessation programs.
+
+6. **Patient Education:**
+   - Educated the patient on the importance of medication adherence to prevent exacerbations.
+   - Discussed strategies to avoid known asthma triggers.
+   - Advised on recognizing early signs of asthma exacerbation and seeking immediate medical attention if symptoms worsen.
+
+**Instructions:**
+
+- If symptoms do not significantly improve within 48 hours or if they worsen, the patient should return to the emergency clinic immediately.
+- Continue to monitor Peak Expiratory Flow Rate (PEFR) at home if available and bring logs to follow-up appointment."|"**1. Subjective:**
+
+**CC:**
+Severe SOB, wheezing, chest tightness, and coughing for 5 days.
+
+**HPI:**
+The pt is a 35 y/o Hispanic F, Maria Gonzalez, who is a waitress, presenting to the ED with severe SOB, wheezing, chest tightness, and coughing. Sx have been persistent for the past 5 days and occur multiple times daily, significantly impacting her ability to perform her job duties and limiting her physical activities. She reports moderate health literacy and adherence to her asthma maintenance inhalers, though she occasionally misses doses.
+
+**ROS:**
+
+- **Resp:** +SOB, wheezing, chest tightness, and cough.
+- **General:** Reports feeling anxious.
+- **CV:** No CP, palpitations, or syncope.
+
+**2. Objective:**
+
+**Vitals:**
+- HR: 110 bpm
+- RR: Increased; using accessory muscles for breathing
+- SpO2: 92% on RA
+
+**PE:**
+
+- **General:** Pt appears anxious and in respiratory distress.
+- **Resp:** Audible wheezing, prolonged expiratory phase, use of accessory muscles noted.
+- **CV:** Tachycardia without murmurs, rubs, or gallops.
+
+**Investigations:**
+- **Spirometry:** Decreased FEV1/FVC ratio, indicating obstructive lung disease.
+
+**3. Assessment:**
+
+Severe Persistent Asthma with Acute Exacerbation.
+
+**4. Plan:**
+
+1. **Meds:**
+   - Initiate Albuterol neb sol, 2.5 mg/3 mL, q4-6h PRN wheezing.
+   - Start PO Prednisone, 40 mg QD for 7 days.
+   - Continue Fluticasone/Salmeterol inhaler, 250/50 mcg, BID.
+
+2. **F/U:**
+   - Schedule F/U visit in 1 week to assess response to tx and review CXR results.
+
+3. **Referral:**
+   - Refer to allergy/immunology clinic for further eval of potential asthma triggers. Dr. Emily Carter, Allergy/Immunology.
+
+4. **Imaging:**
+   - Review CXR results once available.
+
+5. **Lifestyle Mods:**
+   - Strongly advised to quit smoking and provided with resources for smoking cessation programs.
+
+6. **Pt Ed:**
+   - Educated the pt on the importance of med adherence to prevent exacerbations.
+   - Discussed strategies to avoid known asthma triggers.
+   - Advised on recognizing early signs of asthma exacerbation and seeking immediate medical attention if sx worsen.
+
+**Instructions:**
+
+- If sx do not significantly improve within 48 hours or if they worsen, the pt should return to the ED immediately.
+- Continue to monitor PEFR at home if available and bring logs to F/U appointment."|Pulmonologist|"[doctor] Hi there, how are you today? What brings you into the clinic?
+
+[patient] Hi, I'm really not doing well. I've been having severe shortness of breath, wheezing, chest tightness, and coughing for the past 5 days.
+
+[doctor] I'm sorry to hear that. Can you describe when these symptoms started and how they've been affecting you?
+
+[patient] It started about 5 days ago, and it's been really bad. I can't do my job properly, and I feel like I can't breathe most of the time.
+
+[doctor] That sounds very uncomfortable. Are these symptoms occurring multiple times daily?
+
+[patient] Yes, all day long, multiple times.
+
+[doctor] Alright. Now, you mentioned you're a waitress, correct?
+
+[patient] Yes, that's right.
+
+[doctor] Have you noticed these symptoms affecting your ability to perform your job duties?
+
+[patient] Definitely. It's hard to move around, and I get tired so easily. I also get really anxious because I can't catch my breath.
+
+[doctor] I understand. Let's review your medications. Are you currently using any asthma inhalers?
+
+[patient] Yes, I use my maintenance inhalers, but I sometimes miss doses.
+
+[doctor] It's important to be consistent with your inhalers. Which inhalers are you using?
+
+[patient] I use Fluticasone/Salmeterol, two puffs twice a day.
+
+[doctor] Got it. Other than the shortness of breath and wheezing, do you have any chest pain, palpitations, or have you fainted at all?
+
+[patient] No, no chest pain or palpitations, and I haven't fainted.
+
+[doctor] Okay, that's good to hear. Do you feel anxious because of your breathing issues?
+
+[patient] Yes, I do. It's really scary when I can't breathe.
+
+[doctor] Understandable. Now, let's move on to your physical exam. I'm going to check your vitals first. Your heart rate is 110 beats per minute. Your respiratory rate is increased, and you're using your accessory muscles to breathe. Your oxygen saturation is 92% on room air. How have you been feeling generally?
+
+[patient] Just really anxious and tired from all the breathing trouble.
+
+[doctor] Alright, let's listen to your lungs. I hear audible wheezing and a prolonged expiratory phase, and I can see you're using your accessory muscles to breathe. 
+
+[patient] Yeah, it feels like I'm working really hard just to get air.
+
+[doctor] I also noticed tachycardia, but there are no murmurs, rubs, or gallops. Now, I have your spirometry results here. They show a decreased FEV1/FVC ratio, indicating obstructive lung disease.
+
+[patient] What does that mean?
+
+[doctor] It means your lungs are having trouble expelling air, which is common in asthma. We're still waiting on your chest X-ray results, but we need to start treatment right away.
+
+[patient] Okay, what do I need to do?
+
+[doctor] We'll start you on an Albuterol nebulizer solution, 2.5 mg/3 mL, every 4-6 hours as needed for your wheezing. We'll also begin Oral Prednisone, 40 mg once daily for 7 days.
+
+[patient] Okay, and should I keep using my Fluticasone/Salmeterol?
+
+[doctor] Yes, continue using your Fluticasone/Salmeterol inhaler, 250/50 mcg, twice daily. It's important to stick to this regimen to prevent further exacerbations.
+
+[patient] Alright, I’ll do my best.
+
+[doctor] In addition, I recommend scheduling a follow-up visit in 1 week to assess your response to treatment and review your chest X-ray results.
+
+[patient] Okay, I can do that.
+
+[doctor] We also need to refer you to an allergy/immunology clinic for further evaluation of potential asthma triggers.
+
+[patient] That sounds good. I want to know what's causing this.
+
+[doctor] We'll review your chest X-ray results once they're available. In the meantime, I strongly advise you to quit smoking if you do smoke. We can provide resources for smoking cessation programs.
+
+[patient] I don’t smoke, thankfully.
+
+[doctor] That's good to hear. Also, it's crucial to understand the importance of medication adherence to prevent exacerbations. We discussed strategies to avoid known asthma triggers. Do you know what typically triggers your asthma?
+
+[patient] Usually, it's dust and sometimes strong smells.
+
+[doctor] Good to know. Make sure to avoid these triggers as much as possible. Recognize early signs of asthma exacerbation and seek immediate medical attention if symptoms worsen.
+
+[patient] I will. What if my symptoms don’t improve?
+
+[doctor] If your symptoms do not significantly improve within 48 hours or if they worsen, come back to the emergency clinic immediately.
+
+[patient] Alright, I'll keep an eye on it.
+
+[doctor] Also, if you have a Peak Expiratory Flow Rate (PEFR) meter at home, continue to monitor your PEFR and bring the logs to your follow-up appointment.
+
+[patient] I have one. I’ll make sure to use it and bring the logs.
+
+[doctor] Excellent. Any other questions or concerns?
+
+[patient] No, I think that's clear. Thank you for helping me.
+
+[doctor] You're welcome. We'll get you feeling better soon. Take care and remember to follow up in a week.
+
+[patient] Thank you, doctor. I appreciate it.
+
+[doctor] You're welcome. Take care and see you soon.
+
+[patient] Bye.
+
+[doctor] Bye."|"[doctor] Hi there, how are you today? What brings you into the clinic?
+
+[patient] Hi, I'm really not doing well. I've been having severe shortness of breath, wheezing, chest tightness, and coughing for the past 5 days.
+
+[doctor] I'm sorry to hear that. Can you describe when these symptoms started and how they've been affecting you?
+
+[patient] It started about 5 days ago, and it's been really bad. I can't do my job properly, and I feel like I can't breathe most of the time.
+
+[doctor] That sounds very uncomfortable. Are these symptoms occurring multiple times daily?
+
+[patient] Yes, all day long, multiple times.
+
+[doctor] Alright. Now, you mentioned you're a waitress, correct?
+
+[patient] Yes, that's right.
+
+[doctor] Have you noticed these symptoms affecting your ability to perform your job duties?
+
+[patient] Definitely. It's hard to move around, and I get tired so easily. I also get really anxious because I can't catch my breath.
+
+[doctor] I understand. Let's review your medications. Are you currently using any asthma inhalers?
+
+[patient] Yes, I use my maintenance inhalers, but I sometimes miss doses.
+
+[doctor] It's important to be consistent with your inhalers. Which inhalers are you using?
+
+[patient] I use Fluticasone/Salmeterol, two puffs twice a day.
+
+[doctor] Got it. Other than the shortness of breath and wheezing, do you have any chest pain, palpitations, or have you fainted at all?
+
+[patient] No, no chest pain or palpitations, and I haven't fainted.
+
+[doctor] Okay, that's good to hear. Do you feel anxious because of your breathing issues?
+
+[patient] Yes, I do. It's really scary when I can't breathe.
+
+[doctor] Understandable. Now, let's move on to your physical exam. I'm going to check your vitals first. Your heart rate is 110 beats per minute. Your respiratory rate is increased, and you're using your accessory muscles to breathe. Your oxygen saturation is 92% on room air. How have you been feeling generally?
+
+[patient] Just really anxious and tired from all the breathing trouble.
+
+[doctor] Alright, let's listen to your lungs. I hear audible wheezing and a prolonged expiratory phase, and I can see you're using your accessory muscles to breathe. 
+
+[patient] Yeah, it feels like I'm working really hard just to get air.
+
+[doctor] I also noticed tachycardia, but there are no murmurs, rubs, or gallops. Now, I have your spirometry results here. They show a decreased FEV1/FVC ratio, indicating obstructive lung disease.
+
+[patient] What does that mean?
+
+[doctor] It means your lungs are having trouble expelling air, which is common in asthma. We're still waiting on your chest X-ray results, but we need to start treatment right away.
+
+[patient] Okay, what do I need to do?
+
+[doctor] We'll start you on an Albuterol nebulizer solution, 2.5 mg/3 mL, every 4-6 hours as needed for your wheezing. We'll also begin Oral Prednisone, 40 mg once daily for 7 days.
+
+[patient] Okay, and should I keep using my Fluticasone/Salmeterol?
+
+[doctor] Yes, continue using your Fluticasone/Salmeterol inhaler, 250/50 mcg, twice daily. It's important to stick to this regimen to prevent further exacerbations.
+
+[patient] Alright, I’ll do my best.
+
+[doctor] In addition, I recommend scheduling a follow-up visit in 1 week to assess your response to treatment and review your chest X-ray results.
+
+[patient] Okay, I can do that.
+
+[doctor] We also need to refer you to an allergy/immunology clinic for further evaluation of potential asthma triggers.
+
+[patient] That sounds good. I want to know what's causing this.
+
+[doctor] We'll review your chest X-ray results once they're available. In the meantime, I strongly advise you to quit smoking if you do smoke. We can provide resources for smoking cessation programs.
+
+[patient] I don’t smoke, thankfully.
+
+[doctor] That's good to hear. Also, it's crucial to understand the importance of medication adherence to prevent exacerbations. We discussed strategies to avoid known asthma triggers. Do you know what typically triggers your asthma?
+
+[patient] Usually, it's dust and sometimes strong smells.
+
+[doctor] Good to know. Make sure to avoid these triggers as much as possible. Recognize early signs of asthma exacerbation and seek immediate medical attention if symptoms worsen.
+
+[patient] I will. What if my symptoms don’t improve?
+
+[doctor] If your symptoms do not significantly improve within 48 hours or if they worsen, come back to the emergency clinic immediately.
+
+[patient] Alright, I'll keep an eye on it.
+
+[doctor] Also, if you have a Peak Expiratory Flow Rate (PEFR) meter at home, continue to monitor your PEFR and bring the logs to your follow-up appointment.
+
+[patient] I have one. I’ll make sure to use it and bring the logs.
+
+[doctor] Excellent. Any other questions or concerns?
+
+[patient] No, I think that's clear. Thank you for helping me.
+
+[doctor] You're welcome. We'll get you feeling better soon. Take care and remember to follow up in a week.
+
+[patient] Thank you, doctor. I appreciate it.
+
+[doctor] You're welcome. Take care and see you soon.
+
+[patient] Bye.
+
+[doctor] Bye."
+SEVERE PERSISTENT ASTHMA WITH (ACUTE) EXACERBATION|"**ROLE:** Pulmonologist
+
+1. **Medical Outcome:**
+   - **Diagnosis:** Severe Persistent Asthma with (Acute) Exacerbation
+   - **Prescribed Treatment:**
+     - **Medications:**
+       - Albuterol Inhaler, 90 mcg, 2 puffs every 4 hours as needed for wheezing, quantity: 2 inhalers.
+       - Fluticasone/Salmeterol Inhaler, 250/50 mcg, 1 puff twice daily, quantity: 1 inhaler.
+       - Prednisone 40 mg orally once daily for 5 days.
+     - **Blood Work:**
+       - Biochemistry panel
+       - Complete Blood Count (CBC)
+       - Immunology panel including IgE levels
+     - **Imaging:**
+       - Chest X-ray to rule out pneumonia or other complications
+   - **Follow-up Recommendations:** Return in 1 week for a follow-up visit.
+   - **Referral:** Referral to an allergist, Dr. Jane Smith, for comprehensive allergy testing and management.
+   
+2. **Medical History:**
+   - Previous Diagnoses: Allergic rhinitis, Eczema 
+   - Family Medical History: Mother with asthma, Father with hay fever
+   - Medication History: Uses Albuterol PRN, on a fluticasone inhaler
+   - Allergies: Dust mites, pet dander
+   - Chronic Conditions: Severe Persistent Asthma
+
+3. **Symptom Description:**
+   - Severity: Severe
+   - Duration: Exacerbation for the past 3 days
+   - Associated Symptoms: Shortness of breath, chest tightness, wheezing
+   - Frequency: Symptoms have been constant for 3 days
+   - Impact on Daily Activities: Unable to perform daily activities, missed work
+
+4. **Patient’s Self-Reported Habits and Lifestyle:**
+   - Sleep: Poor, disrupted by coughing and wheezing
+   - Diet: Balanced diet, no specific restrictions
+   - Exercise: Limited due to asthma
+   - Tobacco Use: Non-smoker
+   - Alcohol Consumption: Social drinking, occasional
+   - Drug Use: Denies recreational drug use
+   - Recreational Activities: Avoids outdoor activities due to pollen exposure
+
+5. **Demographic Information:**
+   - Age: 35
+   - Gender: Female
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: High
+   - Job Status: Full-time employee at an IT firm
+
+6. **Patient's Behavior:**
+   - Generally cooperative, sometimes misses follow-ups due to work commitments
+
+7. **Geographical Location:**
+   - Big City, urban
+   - Environmental Health Risks: High pollen count, seasonal air pollution
+   - Neighborhood Type: Affluent, well-served by public transit
+
+8. **Clinical Setting:**
+   - Specialty Clinic
+
+9. **Type of Encounter:**
+   - Emergency Visit
+
+10. **Treatment Disparities:**
+   - N/A
+
+11. **Native or Non-Native English Speaking Patient:**
+   - Native English Speaking
+
+12. **Physical Exams:**
+   - Respiratory Rate: 28 breaths per minute
+   - Use of Accessory Muscles: Noted
+   - Lung Auscultation: Diffuse wheezing, decreased air movement in all lung fields
+
+13. **Investigation/Test Results:**
+   - Awaiting results for biochemistry, CBC, and Immunology panel including IgE levels
+   - Chest X-ray ordered"|"### Medical Note
+
+**1. Subjective:**
+   - **Chief Complaint (CC):** Shortness of breath and wheezing.
+   - **History of Present Illness (HPI):** 
+     - Jane Doe is a 35-year-old Caucasian female who presents to the pulmonology specialty clinic for an emergency visit due to a severe exacerbation of her asthma over the past 3 days. The patient reports severe shortness of breath, chest tightness, and constant wheezing. She indicates that these symptoms have significantly impacted her daily activities, causing her to miss work.
+   - **Review of Systems (ROS):**
+     - **Respiratory:** Positive for shortness of breath, wheezing.
+     - **General:** No fever or chills.
+     - **Cardiovascular:** No palpitations or chest pain.
+     - **Musculoskeletal:** No muscle pain or weakness reported.
+     - **Gastrointestinal:** No nausea or vomiting.
+     - **Neurological:** No dizziness or headaches.
+
+**2. Objective:**
+   - **Vital Signs:**
+     - Respiratory Rate: 28 breaths per minute.
+     - Oxygen Saturation: 92% on room air.
+   - **Physical Examination:**
+     - **General:** Patient in moderate respiratory distress.
+     - **Respiratory:** Use of accessory muscles noted. Diffuse wheezing and decreased air movement in all lung fields.
+     - **Cardiovascular:** Normal heart sounds, no murmurs.
+   - **Investigations:**
+     - **Blood Work:** Awaiting results for biochemistry panel, Complete Blood Count (CBC), and Immunology panel including IgE levels.
+     - **Imaging:** Chest X-ray ordered to rule out pneumonia or other complications.
+
+**3. Assessment:**
+   - **Primary Diagnosis:** Severe Persistent Asthma with (Acute) Exacerbation.
+   - **Differential Diagnosis:** 
+     - Pneumonia
+     - Chronic Obstructive Pulmonary Disease (COPD) exacerbation
+     - Pulmonary Embolism (PE)
+
+**4. Plan:**
+   - **Medications:**
+     - Albuterol Inhaler, 90 mcg, 2 puffs every 4 hours as needed for wheezing, quantity: 2 inhalers.
+     - Fluticasone/Salmeterol Inhaler, 250/50 mcg, 1 puff twice daily, quantity: 1 inhaler.
+     - Prednisone 40 mg orally once daily for 5 days.
+   - **Laboratory Tests:**
+     - Biochemistry panel.
+     - Complete Blood Count (CBC).
+     - Immunology panel including IgE levels.
+   - **Imaging:**
+     - Chest X-ray to rule out pneumonia or other complications.
+   - **Follow-up Recommendations:**
+     - Return in 1 week for a follow-up visit.
+   - **Referral:**
+     - Referral to an allergist, Dr. Jane Smith, for comprehensive allergy testing and management.
+   - **Patient Education:**
+     - Advised to avoid known allergens such as dust mites and pet dander.
+     - Reviewed proper use of inhalers.
+     - Patient was advised on the importance of medication adherence and follow-up appointments.
+
+**INSTRUCTIONS:**
+   - The patient should monitor symptoms and seek immediate medical attention if shortness of breath worsens or if there is no improvement with the current treatment plan. Return for a follow-up visit in one week for reassessment and further management."|"### Medical Note
+
+**1. Subjective:**
+   - **Chief Complaint (CC):** Shortness of breath and wheezing.
+   - **History of Present Illness (HPI):** 
+     - Jane Doe is a 35-year-old Caucasian female who presents to the pulmonology specialty clinic for an emergency visit due to a severe exacerbation of her asthma over the past 3 days. The patient reports severe shortness of breath, chest tightness, and constant wheezing. She indicates that these symptoms have significantly impacted her daily activities, causing her to miss work.
+   - **Review of Systems (ROS):**
+     - **Respiratory:** Positive for shortness of breath, wheezing.
+     - **General:** No fever or chills.
+     - **Cardiovascular:** No palpitations or chest pain.
+     - **Musculoskeletal:** No muscle pain or weakness reported.
+     - **Gastrointestinal:** No nausea or vomiting.
+     - **Neurological:** No dizziness or headaches.
+
+**2. Objective:**
+   - **Vital Signs:**
+     - Respiratory Rate: 28 breaths per minute.
+     - Oxygen Saturation: 92% on room air.
+   - **Physical Examination:**
+     - **General:** Patient in moderate respiratory distress.
+     - **Respiratory:** Use of accessory muscles noted. Diffuse wheezing and decreased air movement in all lung fields.
+     - **Cardiovascular:** Normal heart sounds, no murmurs.
+
+**3. Assessment:**
+   - **Primary Diagnosis:** Severe Persistent Asthma with (Acute) Exacerbation.
+   - **Differential Diagnosis:** 
+     - Pneumonia
+     - Chronic Obstructive Pulmonary Disease (COPD) exacerbation
+     - Pulmonary Embolism (PE)
+
+**4. Plan:**
+   - **Medications:**
+     - Albuterol Inhaler, 90 mcg, 2 puffs every 4 hours as needed for wheezing, quantity: 2 inhalers.
+     - Fluticasone/Salmeterol Inhaler, 250/50 mcg, 1 puff twice daily, quantity: 1 inhaler.
+     - Prednisone 40 mg orally once daily for 5 days.
+   - **Laboratory Tests:**
+     - Biochemistry panel.
+     - Complete Blood Count (CBC).
+     - Immunology panel including IgE levels.
+   - **Imaging:**
+     - Chest X-ray to rule out pneumonia or other complications.
+   - **Follow-up Recommendations:**
+     - Return in 1 week for a follow-up visit.
+   - **Referral:**
+     - Referral to an allergist, Dr. Jane Smith, for comprehensive allergy testing and management.
+   - **Patient Education:**
+     - Advised to avoid known allergens such as dust mites and pet dander.
+     - Reviewed proper use of inhalers.
+     - Patient was advised on the importance of medication adherence and follow-up appointments."|"### Medical Note
+
+**1. Subjective:**
+   - **CC:** SOB and wheezing.
+   - **HPI:** 
+     - Jane Doe is a 35 y/o Caucasian F who presents to the pulm specialty clinic for an emerg visit due to a severe exacerbation of her asthma over the past 3 days. Pt reports severe SOB, chest tightness, and constant wheezing. She indicates that these sx have significantly impacted her ADLs, causing her to miss work.
+   - **ROS:**
+     - **Resp:** +SOB, wheezing.
+     - **Gen:** No fever or chills.
+     - **CV:** No palpitations or chest pain.
+     - **MSK:** No muscle pain or weakness reported.
+     - **GI:** No nausea or vomiting.
+     - **Neuro:** No dizziness or headaches.
+
+**2. Objective:**
+   - **VS:**
+     - RR: 28 bpm.
+     - O2 Sat: 92% on RA.
+   - **PE:**
+     - **Gen:** Pt in moderate resp distress.
+     - **Resp:** Use of accessory muscles noted. Diffuse wheezing and decreased air movement in all lung fields.
+     - **CV:** Normal heart sounds, no murmurs.
+
+**3. Assessment:**
+   - **Primary Dx:** Severe Persistent Asthma with (Acute) Exacerbation.
+   - **DDx:** 
+     - PNA
+     - COPD exacerbation
+     - PE
+
+**4. Plan:**
+   - **Meds:**
+     - Albuterol MDI, 90 mcg, 2 puffs q4h PRN wheezing, qty: 2 inhalers.
+     - Fluticasone/Salmeterol MDI, 250/50 mcg, 1 puff BID, qty: 1 inhaler.
+     - Prednisone 40 mg PO QD for 5 days.
+   - **Labs:**
+     - BMP.
+     - CBC.
+     - Immunology panel including IgE levels.
+   - **Imaging:**
+     - CXR to r/o PNA or other complications.
+   - **F/U Recommendations:**
+     - Return in 1 week for a f/u visit.
+   - **Referral:**
+     - Referral to an allergist, Dr. Jane Smith, for comprehensive allergy testing and mgmt.
+   - **Pt Education:**
+     - Advised to avoid known allergens such as dust mites and pet dander.
+     - Reviewed proper use of inhalers.
+     - Pt was advised on the importance of med adherence and f/u appointments."|Role not found in the first 5 lines.|"```
+[doctor] Hi Jane, how are you today?
+
+[patient] Hi doctor, I've been better. I'm having a really hard time with my breathing.
+
+[doctor] I see here that you're experiencing shortness of breath and wheezing. Can you tell me a bit more about what's been going on?
+
+[patient] Sure. Over the past three days, my asthma has gotten a lot worse. I'm having severe shortness of breath, my chest feels tight, and I'm constantly wheezing. It's been really tough, and I've had to miss work because of it.
+
+[doctor] That sounds very difficult. Have you noticed any other symptoms like fever or chills?
+
+[patient] No, no fever or chills.
+
+[doctor] Any palpitations or chest pain?
+
+[patient] No, none of that.
+
+[doctor] How about muscle pain or weakness?
+
+[patient] No, I haven't experienced any muscle pain or weakness.
+
+[doctor] Any nausea or vomiting?
+
+[patient] No, nothing like that.
+
+[doctor] And have you had any dizziness or headaches?
+
+[patient] No, no dizziness or headaches either.
+
+[doctor] Alright, thank you for that information. I'm going to take a look at your vital signs now. Your respiratory rate is 28 breaths per minute and your oxygen saturation is 92% on room air. I'm also going to perform a physical examination. 
+
+[patient] Okay.
+
+[doctor] I can see you're in moderate respiratory distress. I'm noting the use of accessory muscles for breathing and I hear diffuse wheezing with decreased air movement in all lung fields. Your heart sounds are normal and I don't hear any murmurs. 
+
+[patient] That's what it feels like, it's been really hard to breathe.
+
+[doctor] I've ordered some blood work, including a biochemistry panel, Complete Blood Count (CBC), and an immunology panel including IgE levels. We're also going to get a chest X-ray to rule out pneumonia or other complications.
+
+[patient] Okay, that sounds good.
+
+[doctor] Based on what we've discussed and my examination, it seems like you're having a severe exacerbation of your asthma. We'll also consider other possibilities, such as pneumonia, Chronic Obstructive Pulmonary Disease (COPD) exacerbation, and pulmonary embolism.
+
+[patient] I hope it's just my asthma acting up.
+
+[doctor] To manage your symptoms, I'm prescribing you an albuterol inhaler, 90 mcg, with instructions to take 2 puffs every 4 hours as needed for wheezing. You will receive two inhalers. I'm also prescribing a Fluticasone/Salmeterol inhaler, 250/50 mcg, to be taken as 1 puff twice daily. Additionally, you'll take Prednisone 40 mg orally once daily for 5 days.
+
+[patient] Thank you, doctor. I really need some relief.
+
+[doctor] You're welcome. We'll also complete the blood work and chest X-ray today. 
+
+[patient] Alright.
+
+[doctor] I recommend you return for a follow-up visit in one week so we can reassess and further manage your condition. Additionally, I'm referring you to an allergist, Dr. Jane Smith, for comprehensive allergy testing and management.
+
+[patient] That sounds good. I'll make sure to follow up.
+
+[doctor] Great. It's important to avoid known allergens such as dust mites and pet dander. Have you been able to identify any triggers?
+
+[patient] Yes, I'm pretty sure dust mites and pet dander are major triggers for me.
+
+[doctor] Good to know. Make sure to avoid those as much as possible. Also, let's review the proper use of your inhalers to ensure you're using them correctly.
+
+[patient] Yes, please. I want to make sure I'm doing it right.
+
+[doctor] For the albuterol inhaler, shake it well before each use. Breathe out fully, place the mouthpiece in your mouth, and close your lips around it. As you start to breathe in slowly, press down on the inhaler to release the medication. Breathe in deeply and hold your breath for about 10 seconds, then breathe out slowly. For the Fluticasone/Salmeterol inhaler, follow the same steps but remember to use it twice daily.
+
+[patient] Got it. Shake, breathe out, press and breathe in, hold, and then breathe out. Twice daily for the Fluticasone/Salmeterol.
+
+[doctor] Exactly. It's crucial to adhere to your medication regimen and attend your follow-up appointments. If your shortness of breath worsens or you don't see any improvement with the current treatment plan, seek immediate medical attention.
+
+[patient] I will. Thank you so much for your help, doctor.
+
+[doctor] You're welcome, Jane. Take care and I'll see you in a week.
+
+[patient] Thank you, doctor. See you then.
+```"|"[doctor]: Hi Jane, how are you today?
+
+[patient]: Hi doctor, I've been better. I'm having a really hard time with my breathing.
+
+[doctor]: Hmm, I see here that you're experiencing shortness of breath and wheezing. Can you tell me a bit more about what's been going on?
+
+[patient]: Sure. Over the past three days, my asthma has gotten a lot worse. I'm having severe shortness of breath, my chest feels tight, and I'm constantly wheezing. It's been really tough, and I've had to miss work because of it.
+
+[doctor]: That sounds very difficult. Have you noticed any other symptoms like fever or chills?
+
+[patient]: No, no fever or chills.
+
+[doctor]: Any palpitations or chest pain?
+
+[patient]: No, none of that.
+
+[doctor]: How about muscle pain or weakness?
+
+[patient]: No, I haven't experienced any muscle pain or weakness.
+
+[doctor]: Any nausea or vomiting?
+
+[patient]: No, nothing like that.
+
+[doctor]: And have you had any dizziness or headaches?
+
+[patient]: No, no dizziness or headaches either.
+
+[doctor]: Alright, thank you for that information. I'm going to take a look at your vital signs now. Your respiratory rate is 28 breaths per minute and your oxygen saturation is 92% on room air. I'm also going to perform a physical examination.
+
+[patient]: Okay.
+
+[doctor]: I can see you're in moderate respiratory distress. I'm noting the use of accessory muscles for breathing and I hear diffuse wheezing with decreased air movement in all lung fields. Your heart sounds are normal and I don't hear any murmurs.
+
+[patient]: That's what it feels like, it's been really hard to breathe.
+
+[doctor]: I've ordered some blood work, including a biochemistry panel, Complete Blood Count (CBC), and an immunology panel including IgE levels. We're also going to get a chest X-ray to rule out pneumonia or other complications.
+
+[patient]: Okay, that sounds good.
+
+[doctor]: Based on what we've discussed and my examination, it seems like you're having a severe exacerbation of your asthma. We'll also consider other possibilities, such as pneumonia, Chronic Obstructive Pulmonary Disease (COPD) exacerbation, and pulmonary embolism.
+
+[patient]: I hope it's just my asthma acting up.
+
+[doctor]: To manage your symptoms, I'm prescribing you an albuterol inhaler, 90 mcg, with instructions to take 2 puffs every 4 hours as needed for wheezing. You will receive two inhalers. I'm also prescribing a Fluticasone/Salmeterol inhaler, 250/50 mcg, to be taken as 1 puff twice daily. Additionally, you'll take Prednisone 40 mg orally once daily for 5 days.
+
+[patient]: Thank you, doctor. I really need some relief.
+
+[doctor]: You're welcome. We'll also complete the blood work and chest X-ray today.
+
+[patient]: Alright.
+
+[doctor]: I recommend you return for a follow-up visit in one week so we can reassess and further manage your condition. Additionally, I'm referring you to an allergist, Dr. Jane Smith, for comprehensive allergy testing and management.
+
+[patient]: That sounds good. I'll make sure to follow up.
+
+[doctor]: Great. It's important to avoid known allergens such as dust mites and pet dander. Have you been able to identify any triggers?
+
+[patient]: Yes, I'm pretty sure dust mites and pet dander are major triggers for me.
+
+[doctor]: Good to know. Make sure to avoid those as much as possible. Also, let's review the proper use of your inhalers to ensure you're using them correctly.
+
+[patient]: Yes, please. I want to make sure I'm doing it right.
+
+[doctor]: For the albuterol inhaler, shake it well before each use. Breathe out fully, place the mouthpiece in your mouth, and close your lips around it. As you start to breathe in slowly, press down on the inhaler to release the medication. Breathe in deeply and hold your breath for about 10 seconds, then breathe out slowly. For the Fluticasone/Salmeterol inhaler, follow the same steps but remember to use it twice daily.
+
+[patient]: Got it. Shake, breathe out, press and breathe in, hold, and then breathe out. Twice daily for the Fluticasone/Salmeterol.
+
+[doctor]: Exactly. It's crucial to adhere to your medication regimen and attend your follow-up appointments. If your shortness of breath worsens or you don't see any improvement with the current treatment plan, seek immediate medical attention.
+
+[patient]: I will. Thank you so much for your help, doctor.
+
+[doctor]: You're welcome, Jane. Take care and I'll see you in a week.
+
+[patient]: Thank you, doctor. See you then."
+SEVERE PERSISTENT ASTHMA WITH (ACUTE) EXACERBATION|"ROLE: Pulmonologist
+
+Patient Demographics:
+- Age: 45 
+- Gender: Male 
+- Ethnicity: Hispanic 
+- Socio-economic Status: Middle-class
+- Education Level: High school diploma
+- Health Literacy: Moderate
+- Job Status: Works as a mechanic
+- Geographical Location: Urban area in a large city with moderate pollution levels 
+- Neighborhood Type: Mixed-income neighborhood, not well-served by transit, with limited access to fresh produce
+
+Clinical Setting:
+- Hospital Outpatient Clinic
+
+Type of Encounter:
+- Emergency Visit
+
+Medical History:
+- Previously Diagnosed with Severe Persistent Asthma
+- Family Medical History: Father had Asthma, Mother has Diabetes
+- Medication History: Uses beclomethasone (40 mcg, 1 inhalation BID) and salbutamol (90 mcg, 1-2 inhalations PRN for rescue)
+- Allergies: Allergic to pollen and pet dander
+- Chronic Conditions: Hypertension (controlled with medication)
+
+Symptom Description:
+- Severity: Severe shortness of breath, wheezing, and chest tightness
+- Duration: Symptoms intensified over the last 3 days
+- Associated Symptoms: Cough, fatigue, and slight fever
+- Frequency: Daily, especially in the morning and late evening
+- Impact on Daily Activities: Unable to perform job duties and daily activities due to breathlessness
+
+Patient’s Self-reported Habits and Lifestyle:
+- Sleep: Poor, wakes up frequently due to breathlessness
+- Diet: High in fast foods, low in fruits and vegetables
+- Exercise: Limited due to asthma
+- Tobacco Use: Smoked for 10 years, quit 5 years ago
+- Alcohol Consumption: Drinks occasionally, about once a week
+- Drug Use: Denies use of recreational drugs
+- Recreational Activities: Occasionally watches movies or reads
+
+Patient's Behavior:
+- Generally complies with prescribed medications but does not always follow lifestyle modification recommendations
+
+Physical Exam:
+- Respiratory Rate: Increased
+- CV: Normal heart sounds, no murmurs
+- Lungs: Expiratory wheezes heard throughout all lung fields
+- NEURO: No focal neurological deficits
+- MSK: No abnormalities
+
+Investigation/Test Results:
+- Ordered Chest X-ray: Awaiting results to rule out pneumonia (Modality: X-ray, Area: Chest)
+- Ordered Blood Work: Complete Blood Count (CBC), Biochemistry panel to assess inflammation markers and possible infection
+- Peak Expiratory Flow: 50% of personal best
+
+Medical Outcome:
+- Diagnosis: Severe persistent asthma with acute exacerbation (ICD-10)
+- Prescribed Treatment: Increase beclomethasone dosage to 80 mcg, 2 inhalations BID, and add prednisone 40 mg orally daily for 5 days. Increase salbutamol usage to 2-4 inhalations every 4-6 hours PRN.
+- Follow-up Recommendations: Follow up in 1 week or sooner if symptoms do not improve
+- Referral to Specialist: Refer to an allergy specialist, Dr. Maria Hernandez, for further evaluation of environmental triggers
+
+Instructions to Patient:
+- Continue using prescribed medication regimen
+- Avoid known allergens
+- Improve diet with more fruits and vegetables, and stay hydrated
+- Educate on proper inhaler technique"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe shortness of breath, wheezing, and chest tightness.
+
+**History of Present Illness (HPI):**
+Julio Martinez is a 45-year-old Hispanic male with a known history of severe persistent asthma who presents to the outpatient clinic with worsening symptoms over the past 3 days. He reports severe shortness of breath, wheezing, and chest tightness, which have significantly intensified. Associated symptoms include a persistent cough, fatigue, and a slight fever. The symptoms are most pronounced in the morning and late evening, severely limiting his ability to perform his job as a mechanic and carry out daily activities.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports fatigue, slight fever.
+- **Respiratory:** Severe shortness of breath, wheezing, chest tightness, and persistent cough.
+- **Cardiovascular:** Denies chest pain or palpitations.
+- **Gastrointestinal:** Denies nausea or vomiting.
+- **Musculoskeletal:** Denies muscle aches or joint pain.
+- **Neurological:** Denies headaches, dizziness, or focal neurological deficits.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Respiratory Rate: Increased
+- Pulse: 90 bpm
+- BP: 130/85 mmHg
+- Temperature: 99.1°F
+
+**Physical Examination:**
+- **General:** Alert, in moderate respiratory distress.
+- **Respiratory:** Expiratory wheezes heard throughout all lung fields.
+- **Cardiovascular:** Normal S1 and S2, no murmurs, gallops, or rubs.
+- **Neurological:** No focal neurological deficits.
+- **Musculoskeletal:** No abnormalities noted.
+
+**Results:**
+- **Peak Expiratory Flow:** 50% of personal best.
+- **Chest X-ray:** Awaiting results to rule out pneumonia.
+- **Blood Work:** Awaiting CBC and biochemistry panel for inflammation markers and possible infection.
+
+**3. Assessment:**
+
+Julio Martinez is a 45-year-old male with a known history of severe persistent asthma, presenting with an acute exacerbation of his condition. Symptoms are severe, including increased shortness of breath, wheezing, chest tightness, fatigue, and slight fever. Physical exam indicates expiratory wheezes, and his peak expiratory flow is significantly reduced at 50% of his personal best.
+
+- **Primary Diagnosis:** Severe persistent asthma with acute exacerbation.
+- **Differential Diagnosis:** Potential underlying infection such as pneumonia (pending chest X-ray and blood work results).
+
+**4. Plan:**
+
+**Medical Management:**
+- **Asthma Exacerbation:**
+  - Increase beclomethasone dosage to 80 mcg, 2 inhalations BID.
+  - Add prednisone 40 mg orally daily for 5 days.
+  - Increase salbutamol usage to 2-4 inhalations every 4-6 hours PRN.
+
+**Follow-up Recommendations:**
+- Follow-up visit in 1 week or sooner if symptoms do not improve.
+
+**Referral:**
+- Refer to Dr. Maria Hernandez, an allergy specialist, for further evaluation of environmental triggers.
+
+**Patient Education and Counseling:**
+- Continue using prescribed medication regimen strictly as instructed.
+- Avoid known allergens such as pollen and pet dander.
+- Improve diet by incorporating more fruits and vegetables, and ensure adequate hydration.
+- Educate on proper inhaler technique, ensuring correct usage.
+
+** Patient Agreements:**
+- The patient understands and agrees with the proposed treatment plan and recommendations.
+#####"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe shortness of breath, wheezing, and chest tightness.
+
+**History of Present Illness (HPI):**
+Julio Martinez is a 45-year-old Hispanic male with a known history of severe persistent asthma who presents to the outpatient clinic with worsening symptoms over the past 3 days. He reports severe shortness of breath, wheezing, and chest tightness, which have significantly intensified. Associated symptoms include a persistent cough, fatigue, and a slight fever. The symptoms are most pronounced in the morning and late evening, severely limiting his ability to perform his job as a mechanic and carry out daily activities.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports fatigue, slight fever.
+- **Respiratory:** Severe shortness of breath, wheezing, chest tightness, and persistent cough.
+- **Cardiovascular:** Denies chest pain or palpitations.
+- **Gastrointestinal:** Denies nausea or vomiting.
+- **Musculoskeletal:** Denies muscle aches or joint pain.
+- **Neurological:** Denies headaches, dizziness, or focal neurological deficits.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Respiratory Rate: Increased
+- Pulse: 90 bpm
+- BP: 130/85 mmHg
+- Temperature: 99.1°F
+
+**Physical Examination:**
+- **General:** Alert, in moderate respiratory distress.
+- **Respiratory:** Expiratory wheezes heard throughout all lung fields.
+- **Cardiovascular:** Normal S1 and S2, no murmurs, gallops, or rubs.
+- **Neurological:** No focal neurological deficits.
+- **Musculoskeletal:** No abnormalities noted.
+
+**Results:**
+- **Peak Expiratory Flow:** 50% of personal best.
+
+**3. Assessment:**
+
+Julio Martinez is a 45-year-old male with a known history of severe persistent asthma, presenting with an acute exacerbation of his condition. Symptoms are severe, including increased shortness of breath, wheezing, chest tightness, fatigue, and slight fever. Physical exam indicates expiratory wheezes, and his peak expiratory flow is significantly reduced at 50% of his personal best.
+
+- **Primary Diagnosis:** Severe persistent asthma with acute exacerbation.
+- **Differential Diagnosis:** Potential underlying infection such as pneumonia (pending chest X-ray and blood work results).
+
+**4. Plan:**
+
+**Medical Management:**
+- **Asthma Exacerbation:**
+  - Increase beclomethasone dosage to 80 mcg, 2 inhalations BID.
+  - Add prednisone 40 mg orally daily for 5 days.
+  - Increase salbutamol usage to 2-4 inhalations every 4-6 hours PRN.
+
+**Follow-up Recommendations:**
+- Follow-up visit in 1 week or sooner if symptoms do not improve.
+
+**Referral:**
+- Refer to Dr. Maria Hernandez, an allergy specialist, for further evaluation of environmental triggers.
+
+**Patient Education and Counseling:**
+- Continue using prescribed medication regimen strictly as instructed.
+- Avoid known allergens such as pollen and pet dander.
+- Improve diet by incorporating more fruits and vegetables, and ensure adequate hydration.
+- Educate on proper inhaler technique, ensuring correct usage.
+
+**Pending Results:**
+- **Chest X-ray:** Awaiting results to rule out pneumonia.
+- **Blood Work:** Awaiting CBC and biochemistry panel for inflammation markers and possible infection.
+
+**Patient Agreements:**
+- The patient understands and agrees with the proposed treatment plan and recommendations.
+#####"|"#####
+**1. Subjective:**
+
+**CC:**
+Severe SOB, wheezing, and chest tightness.
+
+**HPI:**
+Julio Martinez is a 45 y/o Hispanic M with a known hx of severe persistent asthma who presents to the OP clinic with worsening sx over the past 3 days. He reports severe SOB, wheezing, and chest tightness, which have significantly intensified. Associated sx include a persistent cough, fatigue, and a slight fever. The sx are most pronounced in the AM and late PM, severely limiting his ability to perform his job as a mechanic and carry out ADLs.
+
+**ROS:**
+- **Constitutional:** Reports fatigue, slight fever.
+- **Respiratory:** Severe SOB, wheezing, chest tightness, and persistent cough.
+- **Cardiovascular:** Denies CP or palpitations.
+- **GI:** Denies N/V.
+- **MSK:** Denies muscle aches or joint pain.
+- **Neuro:** Denies HA, dizziness, or focal neuro deficits.
+
+**2. Objective:**
+
+**VS:**
+- RR: Increased
+- Pulse: 90 bpm
+- BP: 130/85 mmHg
+- Temp: 99.1°F
+
+**PE:**
+- **General:** Alert, in moderate respiratory distress.
+- **Respiratory:** Expiratory wheezes heard throughout all lung fields.
+- **CV:** Normal S1 and S2, no murmurs, gallops, or rubs.
+- **Neuro:** No focal neuro deficits.
+- **MSK:** No abnormalities noted.
+
+**Results:**
+- **PEF:** 50% of personal best.
+
+**3. Assessment:**
+
+Julio Martinez is a 45 y/o M with a known hx of severe persistent asthma, presenting with an acute exacerbation of his condition. Sx are severe, including increased SOB, wheezing, chest tightness, fatigue, and slight fever. PE indicates expiratory wheezes, and his PEF is significantly reduced at 50% of his personal best.
+
+- **Primary Dx:** Severe persistent asthma with acute exacerbation.
+- **DDx:** Potential underlying infection such as PNA (pending CXR and blood work results).
+
+**4. Plan:**
+
+**Medical Mgmt:**
+- **Asthma Exacerbation:**
+  - Increase beclomethasone dosage to 80 mcg, 2 inhalations BID.
+  - Add prednisone 40 mg PO daily for 5 days.
+  - Increase salbutamol usage to 2-4 inhalations q4-6h PRN.
+
+**Follow-up Recommendations:**
+- F/U visit in 1 week or sooner if sx do not improve.
+
+**Referral:**
+- Refer to Dr. Maria Hernandez, an allergy specialist, for further evaluation of environmental triggers.
+
+**Patient Education and Counseling:**
+- Continue using prescribed med regimen strictly as instructed.
+- Avoid known allergens such as pollen and pet dander.
+- Improve diet by incorporating more fruits and vegetables, and ensure adequate hydration.
+- Educate on proper inhaler technique, ensuring correct usage.
+
+**Pending Results:**
+- **CXR:** Awaiting results to r/o PNA.
+- **Blood Work:** Awaiting CBC and biochemistry panel for inflammation markers and possible infection.
+
+**Patient Agreements:**
+- The patient understands and agrees with the proposed tx plan and recommendations.
+#####"|Pulmonologist|"[doctor] Hi Julio, how are you doing today?
+[patient] Not too well, doc. I've been having really bad shortness of breath and wheezing.
+[doctor] I see. How long have you been experiencing these symptoms?
+[patient] It's been getting worse over the past three days. The chest tightness is almost unbearable.
+[doctor] I'm sorry to hear that. Besides shortness of breath, wheezing, and chest tightness, have you noticed any other symptoms?
+[patient] Yes, I've got a persistent cough and I've been feeling really tired. I also had a slight fever.
+[doctor] When do you find these symptoms to be the most severe?
+[patient] They are the worst in the morning and late evening. It's really affecting my job and daily activities.
+[doctor] Alright, let me just go through a few more questions with you. Do you have any history of chest pain or palpitations?
+[patient] No, no chest pain or palpitations.
+[doctor] Any nausea or vomiting?
+[patient] No, none of that.
+[doctor] How about muscle aches or joint pain?
+[patient] No, no muscle aches or joint pain either.
+[doctor] Any headaches, dizziness, or any other neurological symptoms?
+[patient] No, none of those.
+[doctor] Okay, thanks for that information. I see in your records that you have a history of severe persistent asthma. How have you been managing it recently?
+[patient] I've been taking my medications as prescribed, but they don't seem to be working as well right now.
+[doctor] Hmm, let's take a look at your vital signs. Your respiratory rate is increased, your pulse is 90 bpm, blood pressure is 130/85 mmHg, and your temperature is 99.1°F.
+[doctor] I'm going to perform a physical examination now. Let's start by listening to your lungs. Take a deep breath for me.
+[patient] Okay.
+[doctor] I can hear expiratory wheezes throughout all lung fields. Your heart sounds are normal—no murmurs, gallops, or rubs. Neurologically, everything seems fine, and there are no musculoskeletal abnormalities.
+[patient] What does that mean, doc?
+[doctor] Well, it indicates that your asthma is currently exacerbated. Your peak expiratory flow is at 50% of your personal best, which is concerning.
+[patient] That doesn't sound good.
+[doctor] No, it isn't. We're also waiting on your chest X-ray results to rule out pneumonia and your blood work to check for inflammation markers and possible infection.
+[patient] What should I do now?
+[doctor] For now, we'll need to adjust your treatment plan. We'll increase your beclomethasone dosage to 80 mcg, 2 inhalations twice a day.
+[patient] Okay.
+[doctor] I'm also going to prescribe prednisone 40 mg orally daily for 5 days.
+[patient] Prednisone? I've taken that before.
+[doctor] Yes, it's a corticosteroid that can help reduce the inflammation in your airways. Additionally, you'll need to increase your salbutamol usage to 2-4 inhalations every 4-6 hours as needed.
+[patient] Got it. Anything else?
+[doctor] You should follow up with me in a week or sooner if your symptoms do not improve. I'm also going to refer you to Dr. Maria Hernandez, an allergy specialist, to evaluate environmental triggers that might be worsening your asthma.
+[patient] Alright, I'll do that.
+[doctor] It's important that you continue using your prescribed medication regimen strictly as instructed. Try to avoid known allergens such as pollen and pet dander.
+[patient] I will. Is there anything else I can do to help?
+[doctor] Improving your diet by incorporating more fruits and vegetables and ensuring adequate hydration can also help. And make sure you are using your inhaler correctly.
+[patient] I'll make sure to do that. Thank you, doctor.
+[doctor] You're welcome, Julio. Do you have any questions about the plan we've discussed?
+[patient] No, I think I understand everything. I just want to get better.
+[doctor] That's good to hear. Remember, if your symptoms get worse or you have any concerns, don't hesitate to contact us.
+[patient] I will. Thanks again.
+[doctor] Okay, take care, Julio. I'll see you in a week.
+[patient] See you then, doc."|"[doctor] Hi Julio, how are you doing today?
+
+[patient] Not too well, doc. I've been having really bad shortness of breath and wheezing.
+
+[doctor] Oh no, I'm sorry to hear that. How long have you been experiencing these symptoms?
+
+[patient] It's been getting worse over the past three days. The chest tightness is almost unbearable.
+
+[doctor] I see. Besides shortness of breath, wheezing, and chest tightness, have you noticed any other symptoms?
+
+[patient] Yeah, I've got a persistent cough and I've been feeling really tired. I also had a slight fever.
+
+[doctor] Hmm, when do you find these symptoms to be the most severe?
+
+[patient] They are the worst in the morning and late evening. It's really affecting my job and daily activities.
+
+[doctor] That sounds tough. Let's go through a few more questions. Do you have any history of chest pain or palpitations?
+
+[patient] No, no chest pain or palpitations.
+
+[doctor] Any nausea or vomiting?
+
+[patient] No, none of that.
+
+[doctor] How about muscle aches or joint pain?
+
+[patient] No, no muscle aches or joint pain either.
+
+[doctor] Any headaches, dizziness, or any other neurological symptoms?
+
+[patient] No, none of those.
+
+[doctor] Okay, thanks for that information. I see in your records that you have a history of severe persistent asthma. How have you been managing it recently?
+
+[patient] I've been taking my medications as prescribed, but they don't seem to be working as well right now.
+
+[doctor] Hmm, let's take a look at your vital signs. Your respiratory rate is increased, your pulse is 90 bpm, blood pressure is 130/85 mmHg, and your temperature is 99.1°F.
+
+[doctor] I'm going to perform a physical examination now. Let's start by listening to your lungs. Take a deep breath for me.
+
+[patient] Okay.
+
+[doctor] I can hear expiratory wheezes throughout all lung fields. Your heart sounds are normal—no murmurs, gallops, or rubs. Neurologically, everything seems fine, and there are no musculoskeletal abnormalities.
+
+[patient] What does that mean, doc?
+
+[doctor] Well, it indicates that your asthma is currently exacerbated. Your peak expiratory flow is at 50% of your personal best, which is concerning.
+
+[patient] That doesn't sound good.
+
+[doctor] No, it isn't. We're also waiting on your chest X-ray results to rule out pneumonia and your blood work to check for inflammation markers and possible infection.
+
+[patient] What should I do now?
+
+[doctor] For now, we'll need to adjust your treatment plan. We'll increase your beclomethasone dosage to 80 mcg, 2 inhalations twice a day.
+
+[patient] Okay.
+
+[doctor] I'm also going to prescribe prednisone 40 mg orally daily for 5 days.
+
+[patient] Prednisone? I've taken that before.
+
+[doctor] Yes, it's a corticosteroid that can help reduce the inflammation in your airways. Additionally, you'll need to increase your salbutamol usage to 2-4 inhalations every 4-6 hours as needed.
+
+[patient] Got it. Anything else?
+
+[doctor] You should follow up with me in a week or sooner if your symptoms do not improve. I'm also going to refer you to Dr. Maria Hernandez, an allergy specialist, to evaluate environmental triggers that might be worsening your asthma.
+
+[patient] Alright, I'll do that.
+
+[doctor] It's important that you continue using your prescribed medication regimen strictly as instructed. Try to avoid known allergens such as pollen and pet dander.
+
+[patient] I will. Is there anything else I can do to help?
+
+[doctor] Improving your diet by incorporating more fruits and vegetables and ensuring adequate hydration can also help. And make sure you are using your inhaler correctly.
+
+[patient] I'll make sure to do that. Thank you, doctor.
+
+[doctor] You're welcome, Julio. Do you have any questions about the plan we've discussed?
+
+[patient] No, I think I understand everything. I just want to get better.
+
+[doctor] That's good to hear. Remember, if your symptoms get worse or you have any concerns, don't hesitate to contact us.
+
+[patient] I will. Thanks again.
+
+[doctor] Okay, take care, Julio. I'll see you in a week.
+
+[patient] See you then, doc."
