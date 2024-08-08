@@ -1,0 +1,2340 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+ABRASION OF OTHER PART OF HEAD, INITIAL ENCOUNTER|"ROLE: Family Medicine Physician
+
+**Variables for the scenario:**
+
+1. **Medical Outcome:** Clean and dress the wound, Tetanus booster shot, Prescribe topical antibiotic (Mupirocin 2%, apply to the affected area three times a day for 7 days).
+2. **Medical History:** No chronic conditions, No significant family medical history, No medication history, No known allergies.
+3. **Symptom Description:**  Mild to moderate pain, Onset 1 day ago, Associated with redness and minor swelling, Initially bled but has since scabbed, Patient reports difficulty sleeping on the affected side.
+4. **Patient’s self-reported habits and lifestyle:** Gets 6-7 hours of sleep per night, Balanced diet, Regular exercise (runs 3 times a week), No tobacco use, Occasional alcohol consumption (social drinking), No drug use, Enjoys hiking and outdoor activities.
+5. **Demographic Information:** 25-year-old, Male, Caucasian, Middle-class, College-educated, Health literate, Works as a software engineer.
+6. **Patient's Behavior:** Highly cooperative, Follows medical advice diligently.
+7. **Geographical Location:** Lives in an urban area of a large city, Moderate pollution levels, Access to good healthcare facilities, Resides in an affluent neighborhood.
+8. **Clinical Setting:** Private Practice.
+9. **Type of Encounter:** Initial Consultation.
+10. **Treatment Disparities:** None noted.
+11. **Native or Non-Native English Speaking Patient:** Native English speaker.
+12. **Physical exams:** Inspection of the wound, Palpation for tenderness and signs of infection.
+13. **Investigation/Test results:** NA."|"### Subjective:
+#### CC:
+Mild to moderate pain in the upper arm.
+
+#### HPI:
+Mr. Johnson is a 25-year-old male who presents today with a complaint of mild to moderate pain in his upper arm. He reports the pain began one day ago after he scraped his arm while hiking. The wound initially bled but has since scabbed over. He has noticed some redness and minor swelling around the wound site. Mr. Johnson states that the pain has made it difficult for him to sleep on the affected side.
+
+#### ROS:
+- Integumentary: Redness and minor swelling around the wound site.
+- Musculoskeletal: No joint pain or stiffness.
+- General: Otherwise feels well.
+
+### Objective:
+- **Vital Signs:** Blood pressure 120/80 mmHg, heart rate 72 bpm, respiratory rate 16 breaths per minute, temperature 98.6°F.
+- **Physical Examination:**
+  - Inspection: The wound is located on the upper arm with a scabbed-over area approximately 3 cm in diameter, surrounded by erythema and mild edema.
+  - Palpation: Mild tenderness noted with no fluctuance or crepitus. No lymphadenopathy noted in the axillary region.
+
+### Assessment:
+- Superficial abrasion of the upper arm with signs of minor local inflammation, likely secondary to a hiking injury.
+
+### Plan:
+1. **Wound Care:**
+   - Clean and dress the wound.
+   - Apply a sterile dressing.
+2. **Medications:**
+   - Prescribe Mupirocin 2% ointment, apply to the affected area three times a day for 7 days.
+   - Administer a Tetanus booster shot.
+3. **Patient Education:**
+   - Discuss the importance of keeping the wound clean and dry.
+   - Advise on monitoring for signs of infection such as increased redness, swelling, or pus discharge.
+4. **Follow-up:**
+   - Schedule a follow-up visit in one week to assess wound healing.
+   - Mr. Johnson should return to the clinic sooner if he notices any signs of systemic infection or if the wound worsens.
+
+Mr. Johnson has been cooperative and clearly understands the instructions provided. He is diligent in following medical advice and has good access to healthcare facilities. He will continue his usual activities while avoiding direct trauma to the wound area."|"### Subjective:
+#### CC:
+Mild to moderate pain in the upper arm.
+
+#### HPI:
+Mr. Johnson is a 25-year-old male who presents today with a complaint of mild to moderate pain in his upper arm. He reports the pain began one day ago after he scraped his arm while hiking. The wound initially bled but has since scabbed over. He has noticed some redness and minor swelling around the wound site. Mr. Johnson states that the pain has made it difficult for him to sleep on the affected side.
+
+#### ROS:
+- Integumentary: Redness and minor swelling around the wound site.
+- Musculoskeletal: No joint pain or stiffness.
+- General: Otherwise feels well.
+
+### Objective:
+- **Vital Signs:** Blood pressure 120/80 mmHg, heart rate 72 bpm, respiratory rate 16 breaths per minute, temperature 98.6°F.
+- **Physical Examination:**
+  - Inspection: The wound is located on the upper arm with a scabbed-over area approximately 3 cm in diameter, surrounded by erythema and mild edema.
+  - Palpation: Mild tenderness noted with no fluctuance or crepitus. No lymphadenopathy noted in the axillary region.
+
+### Assessment:
+- Superficial abrasion of the upper arm with signs of minor local inflammation, likely secondary to a hiking injury.
+
+### Plan:
+1. **Wound Care:**
+   - Clean and dress the wound.
+   - Apply a sterile dressing.
+2. **Medications:**
+   - Prescribe Mupirocin 2% ointment, apply to the affected area three times a day for 7 days.
+   - Administer a Tetanus booster shot.
+3. **Patient Education:**
+   - Discuss the importance of keeping the wound clean and dry.
+   - Advise on monitoring for signs of infection such as increased redness, swelling, or pus discharge.
+4. **Follow-up:**
+   - Schedule a follow-up visit in one week to assess wound healing.
+   - Mr. Johnson should return to the clinic sooner if he notices any signs of systemic infection or if the wound worsens.
+
+Mr. Johnson has been cooperative and clearly understands the instructions provided. He is diligent in following medical advice and has good access to healthcare facilities. He will continue his usual activities while avoiding direct trauma to the wound area."|"### Subjective:
+#### CC:
+Mild to moderate pain in the upper arm.
+
+#### HPI:
+Mr. Johnson is a 25 y/o M who presents today with a c/o mild to moderate pain in his upper arm. He reports the pain began 1 day ago after he scraped his arm while hiking. The wound initially bled but has since scabbed over. He has noticed some erythema and minor swelling around the wound site. Mr. Johnson states that the pain has made it difficult for him to sleep on the affected side.
+
+#### ROS:
+- Integumentary: Erythema and minor swelling around the wound site.
+- MSK: No joint pain or stiffness.
+- General: Otherwise feels well.
+
+### Objective:
+- **VS:** BP 120/80 mmHg, HR 72 bpm, RR 16, Temp 98.6°F.
+- **PE:**
+  - Inspection: The wound is located on the upper arm with a scabbed-over area approx 3 cm in diameter, surrounded by erythema and mild edema.
+  - Palpation: Mild tenderness noted with no fluctuance or crepitus. No LAD noted in the axillary region.
+
+### Assessment:
+- Superficial abrasion of the upper arm with signs of minor local inflammation, likely 2° to a hiking injury.
+
+### Plan:
+1. **Wound Care:**
+   - Clean and dress the wound.
+   - Apply a sterile dressing.
+2. **Medications:**
+   - Rx Mupirocin 2% ointment, apply to the affected area TID for 7 days.
+   - Administer a Tdap booster.
+3. **Patient Education:**
+   - Discuss the importance of keeping the wound clean and dry.
+   - Advise on monitoring for signs of infection such as increased erythema, swelling, or purulent discharge.
+4. **Follow-up:**
+   - Schedule a f/u visit in 1 week to assess wound healing.
+   - Mr. Johnson should return to the clinic sooner if he notices any signs of systemic infection or if the wound worsens.
+
+Mr. Johnson has been cooperative and clearly understands the instructions provided. He is diligent in following medical advice and has good access to healthcare facilities. He will continue his usual activities while avoiding direct trauma to the wound area."|Family Medicine Physician|"[doctor] Hi Mr. Johnson, how are you doing today?
+
+[patient] Hi doctor, I'm alright, but I've got some pain in my upper arm.
+
+[doctor] I see. Can you tell me more about the pain? When did it start?
+
+[patient] It started yesterday. I scraped my arm while hiking. It bled a bit at first but has since scabbed over. 
+
+[doctor] Where exactly on your arm is the pain?
+
+[patient] It's on my upper arm, right around where the scrape is.
+
+[doctor] Okay, and how would you describe the pain? Is it mild, moderate, or severe?
+
+[patient] I would say it's mild to moderate.
+
+[doctor] Have you noticed any other symptoms like redness or swelling around the wound?
+
+[patient] Yes, there's some redness and minor swelling around the wound site.
+
+[doctor] Does the pain make it difficult for you to sleep?
+
+[patient] Yes, it's hard to sleep on the affected side.
+
+[doctor] Alright. Have you had any joint pain or stiffness?
+
+[patient] No, no joint pain or stiffness.
+
+[doctor] And overall, how have you been feeling otherwise?
+
+[patient] I feel well other than the pain in my arm.
+
+[doctor] Good to hear. Let’s take a look at your vital signs. Your blood pressure is 120/80 mmHg, heart rate is 72 bpm, respiratory rate is 16 breaths per minute, and your temperature is 98.6°F, which are all within normal ranges. 
+
+[doctor] Now, let me examine the wound. I see a scabbed-over area about 3 cm in diameter with some erythema and mild edema. 
+
+[patient] Yeah, that sounds right.
+
+[doctor] I'm going to gently palpate the area. Let me know if it hurts too much. 
+
+[patient] Okay.
+
+[doctor] There is mild tenderness but no signs of fluctuance or crepitus. I also don’t feel any swollen lymph nodes in the axillary region. 
+
+[patient] That's good to know.
+
+[doctor] Based on your symptoms and my examination, it looks like you have a superficial abrasion with some minor local inflammation, likely from the hiking injury.
+
+[patient] Is it serious?
+
+[doctor] It doesn't seem to be serious, but we need to take care of it to prevent any possible infection. Here’s the plan: First, we’ll clean and dress the wound. Then, we will apply a sterile dressing.
+
+[patient] Sounds good.
+
+[doctor] I will also prescribe Mupirocin 2% ointment for you to apply to the affected area three times a day for 7 days.
+
+[patient] Okay, I can do that.
+
+[doctor] Since you had a scrape, it's a good idea to get a Tetanus booster shot if you haven't had one recently. Have you had a Tetanus shot in the past 10 years?
+
+[patient] I’m not sure. It’s been a while.
+
+[doctor] Just to be safe, we’ll administer a Tetanus booster shot today.
+
+[patient] Alright.
+
+[doctor] It's important to keep the wound clean and dry. Avoid getting it wet when you shower.
+
+[patient] Will do.
+
+[doctor] Also, keep an eye out for any signs of infection such as increased redness, swelling, or pus discharge. If you notice any of these signs, come back to the clinic immediately.
+
+[patient] I’ll definitely watch out for those signs.
+
+[doctor] We’ll schedule a follow-up visit in one week to check on the wound healing. 
+
+[patient] Okay, I can come back next week.
+
+[doctor] And if you notice any signs of systemic infection like fever or if the wound worsens, return to the clinic sooner.
+
+[patient] Got it.
+
+[doctor] Is there anything else you’d like to discuss or any questions you have?
+
+[patient] No, I think that covers it.
+
+[doctor] Great. You’ve been very cooperative and seem to understand the instructions well. Just continue your usual activities but avoid direct trauma to the wound area.
+
+[patient] I will, thanks.
+
+[doctor] I’ll have the nurse come in to administer the Tetanus booster and give you the prescription for the ointment. Take care, and I’ll see you next week.
+
+[patient] Thank you, doctor. See you next week."|"[doctor] Hi Mr. Johnson, how are you doing today?
+
+[patient] Hi doctor, I'm alright, but I've got some pain in my upper arm.
+
+[doctor] I see. Can you tell me more about the pain? When did it start?
+
+[patient] It started yesterday. I scraped my arm while hiking. It bled a bit at first but has since scabbed over. 
+
+[doctor] Where exactly on your arm is the pain?
+
+[patient] It's on my upper arm, right around where the scrape is.
+
+[doctor] Okay, and how would you describe the pain? Is it mild, moderate, or severe?
+
+[patient] I would say it's mild to moderate.
+
+[doctor] Have you noticed any other symptoms like redness or swelling around the wound?
+
+[patient] Yes, there's some redness and minor swelling around the wound site.
+
+[doctor] Does the pain make it difficult for you to sleep?
+
+[patient] Yes, it's hard to sleep on the affected side.
+
+[doctor] Alright. Have you had any joint pain or stiffness?
+
+[patient] No, no joint pain or stiffness.
+
+[doctor] And overall, how have you been feeling otherwise?
+
+[patient] I feel well other than the pain in my arm.
+
+[doctor] Good to hear. Let’s take a look at your vital signs. Your blood pressure is 120/80 mmHg, heart rate is 72 bpm, respiratory rate is 16 breaths per minute, and your temperature is 98.6°F, which are all within normal ranges. 
+
+[doctor] Now, let me examine the wound. I see a scabbed-over area about 3 cm in diameter with some erythema and mild edema. 
+
+[patient] Yeah, that sounds right.
+
+[doctor] I'm going to gently palpate the area. Let me know if it hurts too much. 
+
+[patient] Okay.
+
+[doctor] There is mild tenderness but no signs of fluctuance or crepitus. I also don’t feel any swollen lymph nodes in the axillary region. 
+
+[patient] That's good to know.
+
+[doctor] Based on your symptoms and my examination, it looks like you have a superficial abrasion with some minor local inflammation, likely from the hiking injury.
+
+[patient] Is it serious?
+
+[doctor] It doesn't seem to be serious, but we need to take care of it to prevent any possible infection. Here’s the plan: First, we’ll clean and dress the wound. Then, we will apply a sterile dressing.
+
+[patient] Sounds good.
+
+[doctor] I will also prescribe Mupirocin 2% ointment for you to apply to the affected area three times a day for 7 days.
+
+[patient] Okay, I can do that.
+
+[doctor] Since you had a scrape, it's a good idea to get a Tetanus booster shot if you haven't had one recently. Have you had a Tetanus shot in the past 10 years?
+
+[patient] I’m not sure. It’s been a while.
+
+[doctor] Just to be safe, we’ll administer a Tetanus booster shot today.
+
+[patient] Alright.
+
+[doctor] It's important to keep the wound clean and dry. Avoid getting it wet when you shower.
+
+[patient] Will do.
+
+[doctor] Also, keep an eye out for any signs of infection such as increased redness, swelling, or pus discharge. If you notice any of these signs, come back to the clinic immediately.
+
+[patient] I’ll definitely watch out for those signs.
+
+[doctor] We’ll schedule a follow-up visit in one week to check on the wound healing. 
+
+[patient] Okay, I can come back next week.
+
+[doctor] And if you notice any signs of systemic infection like fever or if the wound worsens, return to the clinic sooner.
+
+[patient] Got it.
+
+[doctor] Is there anything else you’d like to discuss or any questions you have?
+
+[patient] No, I think that covers it.
+
+[doctor] Great. You’ve been very cooperative and seem to understand the instructions well. Just continue your usual activities but avoid direct trauma to the wound area.
+
+[patient] I will, thanks.
+
+[doctor] I’ll have the nurse come in to administer the Tetanus booster and give you the prescription for the ointment. Take care, and I’ll see you next week.
+
+[patient] Thank you, doctor. See you next week."
+ABRASION OF OTHER PART OF HEAD, INITIAL ENCOUNTER|"ROLE: General Physician
+
+**Scenario:**
+
+- **Medical Outcome:**
+  - Diagnosis: Abrasion of other part of head, initial encounter
+  - Prescribed Treatment: Clean wound with saline solution, apply topical antibiotic ointment (Neosporin), cover with a sterile dressing
+  - Follow-up Recommendations: Check wound healing in 7 days
+  - Referral to Further Tests: N/A
+  - Medication Adjustment: N/A
+  - Lifestyle Change: N/A
+
+- **Medical History:**
+  - Previous Diagnoses: Hypertension, Type 2 Diabetes
+  - Family Medical History: Father had a stroke at age 60, mother with osteoporosis
+  - Medication History: Metformin 500 mg PO daily, Lisinopril 10 mg PO daily
+  - Allergies: Penicillin
+  - Chronic Conditions: N/A
+
+- **Symptom Description:**
+  - Severity: Moderate
+  - Duration: 1 day
+  - Associated Symptoms: Mild headache, redness around the abrasion
+  - Frequency: Continuous since injury
+  - Impact on Daily Activities: Limited ability to concentrate at work
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: 6-7 hours per night, often disrupted
+  - Diet: High-carb diet, enjoys fast food
+  - Exercise: Rarely exercises, sedentary lifestyle
+  - Tobacco Use: Smokes half a pack/day for 10 years
+  - Alcohol Consumption: Occasional (social gatherings)
+  - Drug Use: None
+  - Recreational Activities: Enjoys watching TV and playing video games
+
+- **Demographic Information:**
+  - Age: 45
+  - Gender: Male
+  - Ethnicity: African American
+  - Socio-economic Status: Lower-middle class
+  - Education Level: High school graduate
+  - Health Literacy: Limited understanding of health-related information
+  - Job Status: Works as a delivery driver
+
+- **Patient's Behavior:**
+  - Level of Patient's Cooperation with Medical Advice: Varied, sometimes forgets to take medications
+
+- **Geographical Location:**
+  - Big City vs Small City: Small City
+  - Rural vs Urban: Urban
+  - Pollution and Environmental Health Risks: Low pollution but high risk of road accidents
+  - Neighborhood Type: Impoverished neighborhood
+  - Well-served by Transit: Limited public transit
+  - Food Desert: Yes
+
+- **Clinical Setting:**
+  - Clinical Setting: Community Health Center
+
+- **Type of Encounter:**
+  - Initial Consultation
+
+- **Treatment Disparities:**
+  - Possible delay in accessing specialist care due to socio-economic status
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English Speaker
+
+- **Physical exams:**
+  - General Appearance: Mild to moderate distress due to headache
+  - Head: 2 cm abrasion on the right temporal area, no signs of severe trauma such as deep lacerations or fractures
+  - Neck: Supple, no lymphadenopathy
+
+- **Investigation/Test results:**
+  - Blood Pressure: 150/90 mmHg
+  - Blood Glucose: 180 mg/dL
+  - Pending: CBC to rule out infection, A1C to monitor diabetes control"|"**1. Subjective:**
+
+   **CC:**
+   
+   Head abrasion and mild headache.
+
+   **HPI:**
+
+   Mr. Johnson is a 45-year-old African American male who presents to the clinic today for evaluation of a head abrasion and mild headache. He states the abrasion occurred yesterday after he accidentally hit his head against a door frame while at work. The headache has been continuous since the injury, and he reports redness around the abrasion. His discomfort is moderate and has impacted his ability to concentrate at work.
+
+   **ROS:**
+   
+   - **General:** Complains of mild to moderate headache.
+   - **HEENT:** Reports redness around the abrasion, denies vision changes or hearing loss.
+   - **Cardiovascular:** No chest pain or palpitations.
+   - **Respiratory:** No shortness of breath or cough.
+   - **Gastrointestinal:** No nausea, vomiting, or abdominal pain.
+   - **Neurological:** No loss of consciousness or dizziness.
+
+**2. Objective:**
+
+   **General Appearance:**
+   
+   Mild to moderate distress due to headache.
+
+   **Vital Signs:**
+   
+   - Blood Pressure: 150/90 mmHg
+   - Heart Rate: 76 bpm
+   - Respiratory Rate: 16 breaths/min
+   - Temperature: 98.4°F
+   - Blood Glucose: 180 mg/dL
+
+   **Physical Examination:**
+   
+   - **Head:** 2 cm abrasion on the right temporal area. No signs of severe trauma such as deep lacerations or fractures.
+   - **Eyes, Ears, Nose, and Throat (HEENT):** No abnormalities noted.
+   - **Neck:** Supple, no lymphadenopathy.
+   - **Cardiovascular:** Normal S1, S2; no murmurs or rubs.
+   - **Respiratory:** Clear to auscultation bilaterally.
+   - **Gastrointestinal:** Soft, non-tender, no organomegaly.
+   - **Neurological:** No focal deficits, cranial nerves II-XII intact.
+
+**3. Assessment:**
+
+   - **Primary Diagnosis: Abrasion of other part of head, initial encounter**
+   - **Secondary Diagnoses:**
+     - Hypertension
+     - Type 2 Diabetes
+
+**4. Plan:**
+
+   - **Wound Care:** Clean wound with saline solution, apply topical antibiotic ointment (Neosporin), cover with a sterile dressing.
+   - **Medications:** Continue current medications—Metformin 500 mg PO daily, Lisinopril 10 mg PO daily. Avoid penicillin due to allergy.
+   - **Monitoring:**
+     - Check wound healing in 7 days.
+     - Follow up on pending tests: CBC to rule out infection, A1C to monitor diabetes control.
+   - **Lifestyle Recommendations:**
+     - Address lifestyle habits in follow-up, emphasizing smoking cessation, dietary changes, and the importance of regular exercise.
+   - **Education:**
+     - Educate the patient on wound care and signs of infection to watch for, such as increased redness, swelling, or discharge.
+     - Reinforce the importance of medication adherence and regular follow-ups for chronic conditions.
+   - **Follow-Up:** Schedule a follow-up appointment in 7 days to assess wound healing and review pending test results.
+
+"|"**1. Subjective:**
+
+   **CC:**
+   
+   Head abrasion and mild headache.
+
+   **HPI:**
+
+   Mr. Johnson is a 45-year-old African American male who presents to the clinic today for evaluation of a head abrasion and mild headache. He states the abrasion occurred yesterday after he accidentally hit his head against a door frame while at work. The headache has been continuous since the injury, and he reports redness around the abrasion. His discomfort is moderate and has impacted his ability to concentrate at work.
+
+   **ROS:**
+   
+   - **General:** Complains of mild to moderate headache.
+   - **HEENT:** Reports redness around the abrasion, denies vision changes or hearing loss.
+   - **Cardiovascular:** No chest pain or palpitations.
+   - **Respiratory:** No shortness of breath or cough.
+   - **Gastrointestinal:** No nausea, vomiting, or abdominal pain.
+   - **Neurological:** No loss of consciousness or dizziness.
+
+**2. Objective:**
+
+   **General Appearance:**
+   
+   Mild to moderate distress due to headache.
+
+   **Vital Signs:**
+   
+   - Blood Pressure: 150/90 mmHg
+   - Heart Rate: 76 bpm
+   - Respiratory Rate: 16 breaths/min
+   - Temperature: 98.4°F
+   - Blood Glucose: 180 mg/dL
+
+   **Physical Examination:**
+   
+   - **Head:** 2 cm abrasion on the right temporal area. No signs of severe trauma such as deep lacerations or fractures.
+   - **Eyes, Ears, Nose, and Throat (HEENT):** No abnormalities noted.
+   - **Neck:** Supple, no lymphadenopathy.
+   - **Cardiovascular:** Normal S1, S2; no murmurs or rubs.
+   - **Respiratory:** Clear to auscultation bilaterally.
+   - **Gastrointestinal:** Soft, non-tender, no organomegaly.
+   - **Neurological:** No focal deficits, cranial nerves II-XII intact.
+
+**3. Assessment:**
+
+   - **Primary Diagnosis: Abrasion of other part of head, initial encounter**
+   - **Secondary Diagnoses:**
+     - Hypertension
+     - Type 2 Diabetes
+
+**4. Plan:**
+
+   - **Wound Care:** Clean wound with saline solution, apply topical antibiotic ointment (Neosporin), cover with a sterile dressing.
+   - **Medications:** Continue current medications—Metformin 500 mg PO daily, Lisinopril 10 mg PO daily. Avoid penicillin due to allergy.
+   - **Monitoring:**
+     - Check wound healing in 7 days.
+     - Follow up on pending tests: CBC to rule out infection, A1C to monitor diabetes control.
+   - **Lifestyle Recommendations:**
+     - Address lifestyle habits in follow-up, emphasizing smoking cessation, dietary changes, and the importance of regular exercise.
+   - **Education:**
+     - Educate the patient on wound care and signs of infection to watch for, such as increased redness, swelling, or discharge.
+     - Reinforce the importance of medication adherence and regular follow-ups for chronic conditions.
+   - **Follow-Up:** Schedule a follow-up appointment in 7 days to assess wound healing and review pending test results."|"**1. Subjective:**
+
+   **CC:**
+   
+   Head abrasion and mild headache.
+
+   **HPI:**
+
+   Mr. Johnson is a 45-year-old African American male who presents to the clinic today for eval of a head abrasion and mild HA. He states the abrasion occurred yesterday after he accidentally hit his head against a door frame while at work. The HA has been continuous since the injury, and he reports erythema around the abrasion. His discomfort is moderate and has impacted his ability to concentrate at work.
+
+   **ROS:**
+   
+   - **General:** Complains of mild to moderate HA.
+   - **HEENT:** Reports erythema around the abrasion, denies vision changes or hearing loss.
+   - **CV:** No CP or palpitations.
+   - **Resp:** No SOB or cough.
+   - **GI:** No N/V or abdominal pain.
+   - **Neuro:** No LOC or dizziness.
+
+**2. Objective:**
+
+   **General Appearance:**
+   
+   Mild to moderate distress due to HA.
+
+   **VS:**
+   
+   - BP: 150/90 mmHg
+   - HR: 76 bpm
+   - RR: 16 breaths/min
+   - Temp: 98.4°F
+   - BG: 180 mg/dL
+
+   **PE:**
+   
+   - **Head:** 2 cm abrasion on the right temporal area. No signs of severe trauma such as deep lacerations or fractures.
+   - **HEENT:** No abnormalities noted.
+   - **Neck:** Supple, no LAD.
+   - **CV:** Normal S1, S2; no murmurs or rubs.
+   - **Resp:** CTA bilaterally.
+   - **GI:** Soft, non-tender, no organomegaly.
+   - **Neuro:** No focal deficits, CN II-XII intact.
+
+**3. Assessment:**
+
+   - **Primary Dx:** Abrasion of other part of head, initial encounter
+   - **Secondary Dx:**
+     - HTN
+     - T2DM
+
+**4. Plan:**
+
+   - **Wound Care:** Clean wound with NS, apply topical abx ointment (Neosporin), cover with a sterile dressing.
+   - **Meds:** Continue current meds—Metformin 500 mg PO daily, Lisinopril 10 mg PO daily. Avoid PCN due to allergy.
+   - **Monitoring:**
+     - Check wound healing in 7 days.
+     - Follow up on pending tests: CBC to r/o infection, A1C to monitor DM control.
+   - **Lifestyle Recommendations:**
+     - Address lifestyle habits in follow-up, emphasizing smoking cessation, dietary changes, and the importance of regular exercise.
+   - **Education:**
+     - Educate the patient on wound care and signs of infection to watch for, such as increased erythema, swelling, or discharge.
+     - Reinforce the importance of med adherence and regular follow-ups for chronic conditions.
+   - **Follow-Up:** Schedule a follow-up appointment in 7 days to assess wound healing and review pending test results."|General Physician|"[doctor] Hi Mr. Johnson, how are you doing today? What brings you in?
+
+[patient] Hi, Doctor. I'm alright, but I have this head abrasion and a mild headache. It happened yesterday at work.
+
+[doctor] Oh, I'm sorry to hear that. Can you tell me how it happened?
+
+[patient] Yeah, I accidentally hit my head against a door frame while at work. It’s been hurting since then, and there's some redness around the abrasion.
+
+[doctor] I see. How has the headache been since then?
+
+[patient] It's been continuous since the injury. It’s not too severe but it's definitely there. It’s making it hard for me to concentrate at work.
+
+[doctor] Okay, I understand. Any other symptoms you’ve noticed?
+
+[patient] Just the headache and the redness around the abrasion. No vision changes or hearing loss, though.
+
+[doctor] Got it. Any chest pain or palpitations?
+
+[patient] No, none at all.
+
+[doctor] How about shortness of breath or cough?
+
+[patient] Nope, no issues there either.
+
+[doctor] Any nausea, vomiting, or abdominal pain?
+
+[patient] No, my stomach is fine.
+
+[doctor] Any dizziness or loss of consciousness when the injury happened?
+
+[patient] No, I didn’t lose consciousness and I haven't felt dizzy.
+
+[doctor] Okay, that’s good to know. Let’s take a look at your vital signs. Your blood pressure is 150/90 mmHg, heart rate is 76 bpm, respiratory rate is 16 breaths per minute, and your temperature is 98.4°F. Your blood glucose is 180 mg/dL. 
+
+[patient] Hmm, alright. 
+
+[doctor] Let’s move on to the physical exam. I see a 2 cm abrasion on the right temporal area. There are no signs of severe trauma like deep lacerations or fractures. 
+
+[patient] Yeah, that's the spot. 
+
+[doctor] Your eyes, ears, nose, and throat all look normal. Your neck is supple, and there’s no lymphadenopathy.
+
+[patient] Okay, that's good to hear.
+
+[doctor] Your cardiovascular exam shows normal S1, S2 heart sounds, and no murmurs or rubs. Clear to auscultation bilaterally in the lungs, and your abdomen is soft and non-tender with no organomegaly.
+
+[patient] Alright.
+
+[doctor] Neurologically, you have no focal deficits, and your cranial nerves II-XII are intact.
+
+[patient] Great.
+
+[doctor] Based on your symptoms and the exam, I think you have an abrasion on your head, and we'll need to manage your headache and monitor your chronic conditions. Your blood pressure is a bit high, and your blood glucose also needs monitoring.
+
+[patient] Okay, so what should I do next?
+
+[doctor] First, for the wound care, we will clean it with saline solution, apply a topical antibiotic ointment like Neosporin, and cover it with a sterile dressing.
+
+[patient] Sounds good.
+
+[doctor] For your medications, continue taking your current medications—Metformin 500 mg once daily and Lisinopril 10 mg once daily. I see you are allergic to penicillin, so we will avoid that.
+
+[patient] Yes, that's right.
+
+[doctor] We will also need to check your wound healing in 7 days. I’ll order a CBC to rule out any infection and an A1C test to monitor your diabetes control.
+
+[patient] Okay, when should I come back for that?
+
+[doctor] We’ll schedule a follow-up appointment in 7 days to assess the wound healing and review the pending test results.
+
+[patient] Alright, I'll make sure to come back.
+
+[doctor] In the meantime, I want to address some lifestyle habits in our follow-up. We need to emphasize smoking cessation, dietary changes, and the importance of regular exercise.
+
+[patient] I know, I really need to work on that.
+
+[doctor] We’ll educate you on wound care and signs of infection to watch for, such as increased redness, swelling, or discharge.
+
+[patient] Got it, I’ll keep an eye on it.
+
+[doctor] And please, make sure to take your medications as prescribed and come for regular follow-ups for your chronic conditions.
+
+[patient] I will, Doctor.
+
+[doctor] Do you have any other questions or concerns?
+
+[patient] No, I think that's it for now.
+
+[doctor] Alright, Mr. Johnson. We’ll take good care of you. See you in a week.
+
+[patient] Thank you, Doctor. See you next week.
+
+[doctor] Take care."|"[doctor] Hi Mr. Johnson, how are you doing today? What brings you in?
+
+[patient] Hi, Doctor. I'm alright, but I have this head abrasion and a mild headache. It happened yesterday at work.
+
+[doctor] Oh, I'm sorry to hear that. Can you tell me how it happened?
+
+[patient] Yeah, I accidentally hit my head against a door frame while at work. It’s been hurting since then, and there's some redness around the abrasion.
+
+[doctor] I see. How has the headache been since then?
+
+[patient] It's been continuous since the injury. It’s not too severe but it's definitely there. It’s making it hard for me to concentrate at work.
+
+[doctor] Okay, I understand. Any other symptoms you’ve noticed?
+
+[patient] Just the headache and the redness around the abrasion. No vision changes or hearing loss, though.
+
+[doctor] Got it. Any chest pain or palpitations?
+
+[patient] No, none at all.
+
+[doctor] How about shortness of breath or cough?
+
+[patient] Nope, no issues there either.
+
+[doctor] Any nausea, vomiting, or abdominal pain?
+
+[patient] No, my stomach is fine.
+
+[doctor] Any dizziness or loss of consciousness when the injury happened?
+
+[patient] No, I didn’t lose consciousness and I haven't felt dizzy.
+
+[doctor] Okay, that’s good to know. Let’s take a look at your vital signs. Your blood pressure is 150/90 mmHg, heart rate is 76 bpm, respiratory rate is 16 breaths per minute, and your temperature is 98.4°F. Your blood glucose is 180 mg/dL. 
+
+[patient] Hmm, alright. 
+
+[doctor] Let’s move on to the physical exam. I see a 2 cm abrasion on the right temporal area. There are no signs of severe trauma like deep lacerations or fractures. 
+
+[patient] Yeah, that's the spot. 
+
+[doctor] Your eyes, ears, nose, and throat all look normal. Your neck is supple, and there’s no lymphadenopathy.
+
+[patient] Okay, that's good to hear.
+
+[doctor] Your cardiovascular exam shows normal S1, S2 heart sounds, and no murmurs or rubs. Clear to auscultation bilaterally in the lungs, and your abdomen is soft and non-tender with no organomegaly.
+
+[patient] Alright.
+
+[doctor] Neurologically, you have no focal deficits, and your cranial nerves II-XII are intact.
+
+[patient] Great.
+
+[doctor] Based on your symptoms and the exam, I think you have an abrasion on your head, and we'll need to manage your headache and monitor your chronic conditions. Your blood pressure is a bit high, and your blood glucose also needs monitoring.
+
+[patient] Okay, so what should I do next?
+
+[doctor] First, for the wound care, we will clean it with saline solution, apply a topical antibiotic ointment like Neosporin, and cover it with a sterile dressing.
+
+[patient] Sounds good.
+
+[doctor] For your medications, continue taking your current medications—Metformin 500 mg once daily and Lisinopril 10 mg once daily. I see you are allergic to penicillin, so we will avoid that.
+
+[patient] Yes, that's right.
+
+[doctor] We will also need to check your wound healing in 7 days. I’ll order a CBC to rule out any infection and an A1C test to monitor your diabetes control.
+
+[patient] Okay, when should I come back for that?
+
+[doctor] We’ll schedule a follow-up appointment in 7 days to assess the wound healing and review the pending test results.
+
+[patient] Alright, I'll make sure to come back.
+
+[doctor] In the meantime, I want to address some lifestyle habits in our follow-up. We need to emphasize smoking cessation, dietary changes, and the importance of regular exercise.
+
+[patient] I know, I really need to work on that.
+
+[doctor] We’ll educate you on wound care and signs of infection to watch for, such as increased redness, swelling, or discharge.
+
+[patient] Got it, I’ll keep an eye on it.
+
+[doctor] And please, make sure to take your medications as prescribed and come for regular follow-ups for your chronic conditions.
+
+[patient] I will, Doctor.
+
+[doctor] Do you have any other questions or concerns?
+
+[patient] No, I think that's it for now.
+
+[doctor] Alright, Mr. Johnson. We’ll take good care of you. See you in a week.
+
+[patient] Thank you, Doctor. See you next week.
+
+[doctor] Take care."
+ABRASION OF OTHER PART OF HEAD, INITIAL ENCOUNTER|"ROLE: Pediatrician
+
+- **Medical Outcome:**
+  - Diagnosis: Abrasion of other part of head, initial encounter (ICD-10 Code: S00.83XA)
+  - Prescribed Treatment: Clean wound with saline, apply topical antibiotic ointment, and cover with a sterile bandage.
+  - Follow-up Recommendations: Return to pediatrician in 1 week to monitor healing.
+  - Referral to Specialists: Referral to Pediatric Dermatology with Dr. Jane Smith if signs of infection or abnormal healing occur.
+  - Lifestyle Change: Advice to avoid playground activities that may pose a risk to wound until fully healed.
+
+- **Medical History:**
+  - Previous Diagnoses: Atopic dermatitis.
+  - Family Medical History: Mother has eczema.
+  - Medication History: Occasional use of hydrocortisone cream for eczema; no other medications.
+  - Allergies: No known drug allergies (NKDA).
+  - Chronic Conditions: Atopic dermatitis.
+
+- **Symptom Description:**
+  - Severity: Mild pain, 3/10.
+  - Duration: Since this afternoon after a fall at the playground.
+  - Associated Symptoms: None.
+  - Frequency: Constant since injury.
+  - Impact on Daily Activities: Difficulty putting on a hat due to abrasion location on the scalp.
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: Sleeps 10 hours per night.
+  - Diet: Balanced diet with adequate fruits and vegetables intake.
+  - Exercise: Daily playtime and participates in soccer.
+  - Tobacco Use: N/A
+  - Alcohol Consumption: N/A
+  - Drug Use: N/A
+  - Recreational Activities: Enjoys playing outdoors, affected by current wound.
+
+- **Demographic Information:**
+  - Age: 7
+  - Gender: Male
+  - Ethnicity: African American
+  - Socio-economic Status: Middle-class
+  - Education Level: 2nd grade
+  - Health Literacy: Basic, aided by parents
+  - Job Status: N/A
+
+- **Patient's Behavior:**
+  - Cooperative but anxious about wound cleaning.
+
+- **Geographical Location:**
+  - Big City vs Small City: Suburban
+  - Pollution and Environmental Health Risks: Low pollution
+  - Neighborhood Type: Family-friendly, suburban area, well-served by transit, not a food desert.
+
+- **Clinical Setting:**
+  - Pediatric Clinic
+
+- **Type of Encounter:**
+  - Initial Consultation (Clinic visit due to head abrasion)
+
+- **Treatment Disparities:**
+  - None observed; patient received appropriate care irrespective of socio-economic status.
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English speaking family
+
+- **Physical exams:**
+  - Head: 1 cm abrasion on the left side of the scalp, minor swelling, no active bleeding.
+  - Neurological: Alert, cooperative, normal reflexes.
+
+- **Investigation/Test results:**
+  - NA"|"**1. Subjective:**
+
+**Chief Complaint (CC):** 
+Head abrasion from a fall.
+
+**History of Present Illness (HPI):**
+A 7-year-old African American male presents with a head abrasion sustained this afternoon following a fall at the playground. He reports mild pain rated at 3/10, which has been constant since the injury. He has difficulty putting on a hat due to the location of the abrasion on his scalp. There are no associated symptoms.
+
+**Review of Systems (ROS):**
+- **Constitutional:** No fever, chills, or weight loss.
+- **Integumentary:** Reports abrasion and mild pain, denies other skin complaints.
+- **Neurological:** Denies headache, dizziness, or loss of consciousness.
+
+**2. Objective:**
+
+**Physical Examination:**
+- **General:** Alert, cooperative, in no acute distress.
+- **Head:** 1 cm abrasion on the left side of the scalp, minor swelling, no active bleeding.
+- **Neurological:** Alert, oriented, normal reflexes, no focal deficits.
+
+**3. Assessment:**
+
+**Diagnosis:**
+Abrasion of other part of head, initial encounter (ICD-10 Code: S00.83XA).
+
+**4. Plan:**
+
+**Treatment:**
+- Clean the wound with saline.
+- Apply topical antibiotic ointment.
+- Cover with a sterile bandage.
+
+**Follow-up Recommendations:**
+- Return to pediatrician in 1 week to monitor healing.
+
+**Referral to Specialists:**
+- Referral to Pediatric Dermatology with Dr. Jane Smith if signs of infection or abnormal healing occur.
+
+**Lifestyle Change:**
+- Advise to avoid playground activities that may pose a risk to wound until fully healed.
+
+**Patient Education:**
+- Educated patient and parents on the importance of keeping the wound clean and watching for signs of infection, such as increased redness, swelling, or discharge.
+- Reviewed the avoidance of potentially harmful activities until the wound has healed.
+
+**Patient Agreements:**
+- Patient and parents understand and agree with the recommended treatment plan and follow-up.
+
+**Notes:**
+- Patient has a history of atopic dermatitis, occasionally treated with hydrocortisone cream.
+- No known drug allergies.
+- Family history of eczema (mother).
+
+---
+
+This medical note ensures all pertinent details about the patient's condition, treatment plan, and follow-up are clearly documented, facilitating effective continuity of care."|"**1. Subjective:**
+
+**Chief Complaint (CC):** 
+Head abrasion from a fall.
+
+**History of Present Illness (HPI):**
+A 7-year-old African American male named Jamal presents with a head abrasion sustained this afternoon following a fall at the playground. He reports mild pain rated at 3/10, which has been constant since the injury. He has difficulty putting on a hat due to the location of the abrasion on his scalp. There are no associated symptoms.
+
+**Review of Systems (ROS):**
+- **Constitutional:** No fever, chills, or weight loss.
+- **Integumentary:** Reports abrasion and mild pain, denies other skin complaints.
+- **Neurological:** Denies headache, dizziness, or loss of consciousness.
+
+**2. Objective:**
+
+**Physical Examination:**
+- **General:** Alert, cooperative, in no acute distress.
+- **Head:** 1 cm abrasion on the left side of the scalp, minor swelling, no active bleeding.
+- **Neurological:** Alert, oriented, normal reflexes, no focal deficits.
+
+**3. Assessment:**
+
+**Diagnosis:**
+Abrasion of other part of head, initial encounter (ICD-10 Code: S00.83XA).
+
+**4. Plan:**
+
+**Treatment:**
+- Clean the wound with saline.
+- Apply topical antibiotic ointment.
+- Cover with a sterile bandage.
+
+**Follow-up Recommendations:**
+- Return to pediatrician in 1 week to monitor healing.
+
+**Referral to Specialists:**
+- Referral to Pediatric Dermatology with Dr. Jane Smith if signs of infection or abnormal healing occur.
+
+**Lifestyle Change:**
+- Advise to avoid playground activities that may pose a risk to wound until fully healed.
+
+**Patient Education:**
+- Educated patient and parents on the importance of keeping the wound clean and watching for signs of infection, such as increased redness, swelling, or discharge.
+- Reviewed the avoidance of potentially harmful activities until the wound has healed.
+
+**Patient Agreements:**
+- Patient and parents understand and agree with the recommended treatment plan and follow-up.
+
+**Notes:**
+- Patient has a history of atopic dermatitis, occasionally treated with hydrocortisone cream.
+- No known drug allergies.
+- Family history of eczema (mother)."|"**1. Subjective:**
+
+**CC:** 
+Head abrasion from a fall.
+
+**HPI:**
+A 7-year-old AAM named Jamal presents with a head abrasion sustained this afternoon following a fall at the playground. He reports mild pain rated at 3/10, which has been constant since the injury. He has difficulty putting on a hat due to the location of the abrasion on his scalp. No assoc. sx.
+
+**ROS:**
+- **Constitutional:** No fever, chills, or weight loss.
+- **Integumentary:** Reports abrasion and mild pain, denies other skin complaints.
+- **Neuro:** Denies HA, dizziness, or LOC.
+
+**2. Objective:**
+
+**PE:**
+- **General:** Alert, cooperative, NAD.
+- **Head:** 1 cm abrasion on the left side of the scalp, minor swelling, no active bleeding.
+- **Neuro:** Alert, oriented, normal reflexes, no focal deficits.
+
+**3. Assessment:**
+
+**Dx:**
+Abrasion of other part of head, initial encounter (ICD-10 Code: S00.83XA).
+
+**4. Plan:**
+
+**Tx:**
+- Clean the wound with saline.
+- Apply topical abx ointment.
+- Cover with a sterile bandage.
+
+**F/U Recommendations:**
+- Return to peds in 1 week to monitor healing.
+
+**Referral to Specialists:**
+- Referral to Peds Derm with Dr. Jane Smith if signs of infection or abnormal healing occur.
+
+**Lifestyle Change:**
+- Advise to avoid playground activities that may pose a risk to wound until fully healed.
+
+**Pt Education:**
+- Educated pt and parents on the importance of keeping the wound clean and watching for signs of infection, such as increased redness, swelling, or discharge.
+- Reviewed the avoidance of potentially harmful activities until the wound has healed.
+
+**Pt Agreements:**
+- Pt and parents understand and agree with the recommended tx plan and f/u.
+
+**Notes:**
+- Pt has a hx of atopic dermatitis, occasionally treated with hydrocortisone cream.
+- NKDA.
+- FHx of eczema (mother)."|Pediatrician|"**Doctor:** Hi there, how are you doing today?
+
+**Patient:** Hi, I'm okay, but I hurt my head.
+
+**Doctor:** Oh no, I'm sorry to hear that. Can you tell me what happened?
+
+**Patient:** I fell on the playground this afternoon and scraped my head. It hurts a little.
+
+**Doctor:** I see. How bad is the pain on a scale from 1 to 10, with 10 being the worst pain ever?
+
+**Patient:** Umm, maybe a 3. It’s not too bad but it hurts when I try to put on my hat.
+
+**Doctor:** Okay, I understand. Has the pain been constant since the fall?
+
+**Patient:** Yes, it hasn't gone away.
+
+**Doctor:** Alright. Any other problems, like a headache, dizziness, or did you lose consciousness when you fell?
+
+**Patient:** No, I didn't hit my head that hard. I'm just worried about the scrape.
+
+**Doctor:** That’s good to hear. Did you notice any bleeding from the abrasion?
+
+**Patient:** There was a little bit but it stopped.
+
+**Doctor:** Have you had any fever, chills, or weight loss recently?
+
+**Patient:** No, none of that.
+
+**Doctor:** How about skin complaints other than the abrasion? Anything unusual?
+
+**Patient:** No, just the scrape and the pain from it.
+
+**Doctor:** Alright. Let me take a look at your scalp. Can you sit still for me?
+
+**Patient:** Okay.
+
+**Doctor:** I see a 1 cm abrasion on the left side of your scalp. There's a bit of swelling but no active bleeding, which is good. Now, let’s check your reflexes and make sure everything else is alright.
+
+**Patient:** Okay.
+
+**Doctor:** Everything looks normal neurologically. You’re alert, oriented, and your reflexes are normal. I don't see any focal deficits, which is reassuring.
+
+**Patient:** That’s good, right?
+
+**Doctor:** Yes, that’s very good. So, I’m going to clean the wound with some saline, apply a topical antibiotic ointment, and cover it with a sterile bandage. Does that sound okay?
+
+**Patient:** Yeah, that’s fine.
+
+**Doctor:** Great. We’ll also need you to follow up with your pediatrician in a week to see how the healing is going. If everything looks good, you won’t need any further treatment.
+
+**Patient:** Okay.
+
+**Doctor:** If you notice any signs of infection, like increased redness, swelling, or discharge, we may need to refer you to a pediatric dermatologist. Do you understand?
+
+**Patient's Parent:** Yes, we understand. We’ll keep an eye on it.
+
+**Doctor:** Good. Until the wound is fully healed, it’s best to avoid playground activities that might put your head at risk. Can you do that?
+
+**Patient:** Yes, I can.
+
+**Doctor:** Excellent. It's very important to keep the wound clean and watch for any signs of infection. Do you have any questions?
+
+**Patient's Parent:** No, I think we’re clear on everything. Thank you.
+
+**Doctor:** You’re welcome. Just one more thing, I see in your records that you have a history of atopic dermatitis and sometimes use hydrocortisone cream for it, correct?
+
+**Patient's Parent:** Yes, that’s right.
+
+**Doctor:** And no known drug allergies?
+
+**Patient's Parent:** Correct.
+
+**Doctor:** Great. Also, I see there's a family history of eczema on the maternal side. Thank you for confirming. 
+
+**Patient's Parent:** Yes, his mother has eczema.
+
+**Doctor:** Alright. If there’s nothing else, you’re all set. Please follow the care instructions closely and we’ll see you in a week. Take care!
+
+**Patient:** Okay, thank you!
+
+**Patient's Parent:** Thank you, Doctor.
+
+**Doctor:** You’re welcome. Have a good day!"|"[doctor]: Hi there, how are you doing today?
+
+[patient]: Hi, I'm okay, but I hurt my head.
+
+[doctor]: Oh no, I'm sorry to hear that. Can you tell me what happened?
+
+[patient]: I fell on the playground this afternoon and scraped my head. It hurts a little.
+
+[doctor]: I see. How bad is the pain on a scale from 1 to 10, with 10 being the worst pain ever?
+
+[patient]: Umm, maybe a 3. It’s not too bad but it hurts when I try to put on my hat.
+
+[doctor]: Okay, I understand. Has the pain been constant since the fall?
+
+[patient]: Yes, it hasn't gone away.
+
+[doctor]: Alright. Any other problems, like a headache, dizziness, or did you lose consciousness when you fell?
+
+[patient]: No, I didn't hit my head that hard. I'm just worried about the scrape.
+
+[doctor]: That’s good to hear. Did you notice any bleeding from the abrasion?
+
+[patient]: There was a little bit but it stopped.
+
+[doctor]: Have you had any fever, chills, or weight loss recently?
+
+[patient]: No, none of that.
+
+[doctor]: How about skin complaints other than the abrasion? Anything unusual?
+
+[patient]: No, just the scrape and the pain from it.
+
+[doctor]: Alright. Let me take a look at your scalp. Can you sit still for me?
+
+[patient]: Okay.
+
+[doctor]: I see a 1 cm abrasion on the left side of your scalp. There's a bit of swelling but no active bleeding, which is good. Now, let’s check your reflexes and make sure everything else is alright.
+
+[patient]: Okay.
+
+[doctor]: Everything looks normal neurologically. You’re alert, oriented, and your reflexes are normal. I don't see any focal deficits, which is reassuring.
+
+[patient]: That’s good, right?
+
+[doctor]: Yes, that’s very good. So, I’m going to clean the wound with some saline, apply a topical antibiotic ointment, and cover it with a sterile bandage. Does that sound okay?
+
+[patient]: Yeah, that’s fine.
+
+[doctor]: Great. We’ll also need you to follow up with your pediatrician in a week to see how the healing is going. If everything looks good, you won’t need any further treatment.
+
+[patient]: Okay.
+
+[doctor]: If you notice any signs of infection, like increased redness, swelling, or discharge, we may need to refer you to a pediatric dermatologist. Do you understand?
+
+[patient's parent]: Yes, we understand. We’ll keep an eye on it.
+
+[doctor]: Good. Until the wound is fully healed, it’s best to avoid playground activities that might put your head at risk. Can you do that?
+
+[patient]: Yes, I can.
+
+[doctor]: Excellent. It's very important to keep the wound clean and watch for any signs of infection. Do you have any questions?
+
+[patient's parent]: No, I think we’re clear on everything. Thank you.
+
+[doctor]: You’re welcome. Just one more thing, I see in your records that you have a history of atopic dermatitis and sometimes use hydrocortisone cream for it, correct?
+
+[patient's parent]: Yes, that’s right.
+
+[doctor]: And no known drug allergies?
+
+[patient's parent]: Correct.
+
+[doctor]: Great. Also, I see there's a family history of eczema on the maternal side. Thank you for confirming. 
+
+[patient's parent]: Yes, his mother has eczema.
+
+[doctor]: Alright. If there’s nothing else, you’re all set. Please follow the care instructions closely and we’ll see you in a week. Take care!
+
+[patient]: Okay, thank you!
+
+[patient's parent]: Thank you, Doctor.
+
+[doctor]: You’re welcome. Have a good day!"
+ABRASION OF OTHER PART OF HEAD, INITIAL ENCOUNTER|"ROLE: Family Medicine Physician
+
+** 1) Medical Outcome: **
+- Diagnosis: Abrasion of other part of head, initial encounter (ICD-10: S00.81XA)
+- Treatment: Clean and debride the wound, apply antibiotic ointment (Polysporin), and cover with a sterile dressing.
+- Medication: Polysporin ointment - apply topically to the affected area twice daily for 7 days.
+- Follow-up Recommendations: Return for a wound check in 5 days, sooner if signs of infection develop.
+- Referral: If no improvement at follow-up, refer to an infectious disease specialist (Dr. Alice Brown) for possible infection management.
+- Imaging: Head CT scan without contrast to rule out any underlying injury due to the severity of the impact.
+
+** 2) Medical History: **
+- Previous Diagnoses: Hypertension, hypothyroidism.
+- Family Medical History: Mother has breast cancer, father has hypertension.
+- Medication History: Losartan 50 mg daily for hypertension, Levothyroxine 75 mcg daily for hypothyroidism.
+- Allergies: No known drug allergies.
+
+** 3) Symptom Description: **
+- Severity: Severe pain and throbbing.
+- Duration: Abrasion occurred 1 hour ago.
+- Associated Symptoms: Significant bleeding initially, slight dizziness, mild headache.
+- Frequency: N/A, one-time incident.
+- Impact on Daily Activities: Difficulty concentrating and performing daily tasks due to pain and discomfort.
+
+** 4) Patient’s self-reported habits and lifestyle: **
+- Sleep: 8 hours per night, generally undisturbed.
+- Diet: High-protein diet, minimal processed foods.
+- Exercise: Regular gym-goer, exercises 5 times a week.
+- Tobacco Use: Smokes occasionally, around 5 cigarettes a week.
+- Alcohol Consumption: Moderate, 3-4 drinks per week.
+- Drug Use: Denies.
+- Recreational Activities: Passionate cyclist and hiker.
+
+** 5) Demographic Information: **
+- Age: 45
+- Gender: Male
+- Ethnicity: African-American
+- Socio-economic Status: Middle-class
+- Education Level: College graduate
+- Health Literacy: Moderate, understands basic medical information but needs clarification on specifics.
+- Job Status: IT consultant
+
+** 6) Patient's Behavior: **
+- Very cooperative and concerned about the wound due to past medical history of hypertension.
+
+** 7) Geographical Location: **
+- Urban area, medium-sized city with moderate pollution levels.
+
+** 8) Clinical Setting: **
+- Telemedicine consultation due to the patient's preference and current COVID-19 situation.
+
+** 9) Type of Encounter: **
+- Telemedicine Initial Consultation
+
+** 10) Treatment Disparities: **
+- N/A, patient has good access to healthcare and is compliant.
+
+** 11) Native or Non-Native English Speaking Patient: **
+- Native English Speaker
+
+** 12) Physical exams: **
+- NA, since the visit is through Telemedicine. A detailed visual inspection through video calls revealed the abrasion.
+
+** 13) Investigation/Test results: **
+- Referred for Head CT scan without contrast to rule out any underlying trauma.
+
+"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe head abrasion, initial encounter.
+
+**History of Present Illness (HPI):**
+John Smith is a 45-year-old African-American male presenting via telemedicine with a head abrasion sustained approximately one hour ago. The patient reports severe pain and throbbing in the affected area. He experienced significant bleeding initially, which has since subsided, but now he has mild dizziness and a slight headache. He finds it difficult to concentrate and perform daily tasks due to the pain and discomfort.
+
+**Review of Systems (ROS):**
+- Neurological: Mild headache, slight dizziness.
+- Cardiovascular: No chest pain or palpitations.
+- Respiratory: No shortness of breath.
+- Dermatological: Severe abrasion on the head, significant bleeding initially.
+- General: No fever or chills.
+
+**2. Objective:**
+
+**Physical Examination (via video call):**
+- General: Patient appears alert and in moderate distress due to pain.
+- Head: Visual inspection reveals a large abrasion on the forehead with some dried blood. No active bleeding observed.
+- Neurological: Patient is oriented to time, place, and person. Speech is clear.
+- Cardiovascular: Skin color appears normal, no visible cyanosis.
+
+**Vital Signs (reported by patient):**
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+
+**3. Assessment:**
+
+**Primary Diagnosis:**
+- Abrasion of other part of head, initial encounter (ICD-10: S00.81XA)
+
+**4. Plan:**
+
+**Treatment:**
+- Clean and debride the wound using antiseptic solutions.
+- Apply antibiotic ointment (Polysporin) topically to the affected area twice daily for 7 days.
+- Cover with a sterile dressing.
+
+**Medication:**
+- Polysporin ointment – apply topically to the affected area twice daily for 7 days.
+
+**Follow-up Recommendations:**
+- Return for a wound check in 5 days, sooner if signs of infection, such as increased redness, warmth, swelling, or pus, develop.
+
+**Referral:**
+- If no improvement or signs of infection at follow-up, refer to Dr. Alice Brown, an infectious disease specialist, for possible infection management.
+
+**Imaging:**
+- Head CT scan without contrast to rule out any underlying injury due to the severity of the impact.
+
+**Patient Education and Counseling:**
+- Advised to avoid strenuous activities that could exacerbate the head injury.
+- Educated about signs of infection and importance of follow-up.
+- Advised to maintain current medication regimen for hypertension and hypothyroidism and monitor blood pressure closely.
+
+The patient understands and agrees with the recommended medical treatment plan. Telemedicine follow-up scheduled in 5 days.
+
+**Patient Agreements:**
+- The patient verbalized understanding and agreement with the treatment plan and follow-up instructions. He is aware of the importance of monitoring the wound and seeking immediate care if symptoms worsen."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe head abrasion, initial encounter.
+
+**History of Present Illness (HPI):**
+John Smith is a 45-year-old African-American male presenting via telemedicine with a head abrasion sustained approximately one hour ago. The patient reports severe pain and throbbing in the affected area. He experienced significant bleeding initially, which has since subsided, but now he has mild dizziness and a slight headache. He finds it difficult to concentrate and perform daily tasks due to the pain and discomfort.
+
+**Review of Systems (ROS):**
+- Neurological: Mild headache, slight dizziness.
+- Cardiovascular: No chest pain or palpitations.
+- Respiratory: No shortness of breath.
+- Dermatological: Severe abrasion on the head, significant bleeding initially.
+- General: No fever or chills.
+
+**2. Objective:**
+
+**Physical Examination (via video call):**
+- General: Patient appears alert and in moderate distress due to pain.
+- Head: Visual inspection reveals a large abrasion on the forehead with some dried blood. No active bleeding observed.
+- Neurological: Patient is oriented to time, place, and person. Speech is clear.
+- Cardiovascular: Skin color appears normal, no visible cyanosis.
+
+**Vital Signs (reported by patient):**
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+
+**3. Assessment:**
+
+**Primary Diagnosis:**
+- Abrasion of other part of head, initial encounter (ICD-10: S00.81XA)
+
+**4. Plan:**
+
+**Treatment:**
+- Clean and debride the wound using antiseptic solutions.
+- Apply antibiotic ointment (Polysporin) topically to the affected area twice daily for 7 days.
+- Cover with a sterile dressing.
+
+**Medication:**
+- Polysporin ointment – apply topically to the affected area twice daily for 7 days.
+
+**Follow-up Recommendations:**
+- Return for a wound check in 5 days, sooner if signs of infection, such as increased redness, warmth, swelling, or pus, develop.
+
+**Referral:**
+- If no improvement or signs of infection at follow-up, refer to Dr. Alice Brown, an infectious disease specialist, for possible infection management.
+
+**Imaging:**
+- Head CT scan without contrast to rule out any underlying injury due to the severity of the impact.
+
+**Patient Education and Counseling:**
+- Advised to avoid strenuous activities that could exacerbate the head injury.
+- Educated about signs of infection and importance of follow-up.
+- Advised to maintain current medication regimen for hypertension and hypothyroidism and monitor blood pressure closely.
+
+The patient understands and agrees with the recommended medical treatment plan. Telemedicine follow-up scheduled in 5 days.
+
+**Patient Agreements:**
+- The patient verbalized understanding and agreement with the treatment plan and follow-up instructions. He is aware of the importance of monitoring the wound and seeking immediate care if symptoms worsen."|"#####
+**1. Subjective:**
+
+**CC:**
+Severe head abrasion, initial encounter.
+
+**HPI:**
+John Smith is a 45-year-old African-American male presenting via telemedicine with a head abrasion sustained ~1 hr ago. Pt reports severe pain and throbbing in the affected area. He experienced significant bleeding initially, which has since subsided, but now he has mild dizziness and a slight headache. He finds it difficult to concentrate and perform daily tasks due to the pain and discomfort.
+
+**ROS:**
+- Neuro: Mild HA, slight dizziness.
+- CV: No CP or palpitations.
+- Resp: No SOB.
+- Derm: Severe abrasion on the head, significant bleeding initially.
+- Gen: No fever or chills.
+
+**2. Objective:**
+
+**PE (via video call):**
+- Gen: Pt appears alert and in moderate distress due to pain.
+- Head: Visual inspection reveals a large abrasion on the forehead with some dried blood. No active bleeding observed.
+- Neuro: Pt is oriented to time, place, and person. Speech is clear.
+- CV: Skin color appears normal, no visible cyanosis.
+
+**VS (reported by pt):**
+- BP: 130/85 mmHg
+- HR: 78 bpm
+- RR: 16 bpm
+- Temp: 98.6°F
+
+**3. Assessment:**
+
+**Primary Dx:**
+- Abrasion of other part of head, initial encounter (ICD-10: S00.81XA)
+
+**4. Plan:**
+
+**Tx:**
+- Clean and debride the wound using antiseptic solutions.
+- Apply Polysporin topically to the affected area BID for 7 days.
+- Cover with a sterile dressing.
+
+**Meds:**
+- Polysporin ointment – apply topically to the affected area BID for 7 days.
+
+**F/U Recommendations:**
+- Return for a wound check in 5 days, sooner if signs of infection, such as increased redness, warmth, swelling, or pus, develop.
+
+**Referral:**
+- If no improvement or signs of infection at F/U, refer to Dr. Alice Brown, an ID specialist, for possible infection mgmt.
+
+**Imaging:**
+- Head CT w/o contrast to r/o any underlying injury due to the severity of the impact.
+
+**Pt Education and Counseling:**
+- Advised to avoid strenuous activities that could exacerbate the head injury.
+- Educated about signs of infection and importance of F/U.
+- Advised to maintain current med regimen for HTN and hypothyroidism and monitor BP closely.
+
+The pt understands and agrees with the recommended medical tx plan. Telemedicine F/U scheduled in 5 days.
+
+**Pt Agreements:**
+- The pt verbalized understanding and agreement with the tx plan and F/U instructions. He is aware of the importance of monitoring the wound and seeking immediate care if symptoms worsen."|Family Medicine Physician|"[doctor] Hello, John. How are you today?
+
+[patient] Hi, Doctor. I've been better. I'm in quite a bit of pain.
+
+[doctor] I understand. I see you have a severe head abrasion. Can you tell me what happened?
+
+[patient] Yeah, I was doing some work around the house and I slipped. I hit my head pretty hard about an hour ago.
+
+[doctor] I'm sorry to hear that. You mentioned severe pain and throbbing. How bad is the pain on a scale from 1 to 10?
+
+[patient] It's probably around an 8. It's really painful.
+
+[doctor] I see. Was there significant bleeding initially?
+
+[patient] Yes, it bled a lot at first, but it has stopped now.
+
+[doctor] That's good that the bleeding stopped. Are you experiencing any other symptoms besides the pain?
+
+[patient] Well, I have a slight headache and I'm feeling a bit dizzy. It's hard to concentrate on anything.
+
+[doctor] Hmm, I understand. Have you had any chest pain or heart palpitations?
+
+[patient] No, none of that.
+
+[doctor] Any shortness of breath?
+
+[patient] No, my breathing is fine.
+
+[doctor] Good to hear. Have you had any fever or chills since the injury?
+
+[patient] No, no fever or chills.
+
+[doctor] Alright. Let me take a closer look at the abrasion via the video call. Can you position your camera so I can see your forehead?
+
+[patient] Sure, here you go.
+
+[doctor] I can see the abrasion. It looks quite large with some dried blood but no active bleeding. Does it hurt when you touch it?
+
+[patient] Yes, it's very tender.
+
+[doctor] I can imagine. You seem alert and oriented, which is a good sign. How's your speech? Any difficulties?
+
+[patient] No, my speech is fine.
+
+[doctor] Great. Now, can you tell me your current vital signs?
+
+[patient] Sure. My blood pressure is 130 over 85, my heart rate is 78, respiratory rate is 16, and my temperature is 98.6.
+
+[doctor] Excellent. Your vitals are stable. Based on what you've told me and what I can see, I believe you have an abrasion of the head. I'll guide you through the next steps to treat it.
+
+[patient] Okay, what should I do?
+
+[doctor] First, you'll need to clean the wound with an antiseptic solution. Do you have any at home?
+
+[patient] Yes, I have some.
+
+[doctor] Great. After cleaning, apply Polysporin antibiotic ointment to the affected area twice daily for 7 days. Cover it with a sterile dressing.
+
+[patient] Okay, I can do that.
+
+[doctor] It's important to keep an eye on the wound for signs of infection, such as increased redness, warmth, swelling, or pus. If you notice any of these, you should seek medical care immediately.
+
+[patient] Understood. What about the dizziness and headache?
+
+[doctor] Given the impact, I recommend getting a head CT scan without contrast to rule out any underlying injury. I'll order that for you.
+
+[patient] Alright, sounds good.
+
+[doctor] Also, avoid any strenuous activities that could worsen your head injury. Take it easy for the next few days.
+
+[patient] Got it. Anything else I need to do?
+
+[doctor] Continue with your current medications for hypertension and hypothyroidism. Monitor your blood pressure closely.
+
+[patient] Will do.
+
+[doctor] We'll need to check the wound in 5 days. I'll schedule a telemedicine follow-up for that. If there are any signs of infection, we'll refer you to Dr. Alice Brown, an infectious disease specialist.
+
+[patient] Okay, I understand.
+
+[doctor] Do you have any questions or concerns about the treatment plan?
+
+[patient] No, I think I've got it. Thank you, Doctor.
+
+[doctor] You're welcome, John. Take care, and we'll talk again in 5 days for the follow-up.
+
+[patient] Alright, thank you. Bye.
+
+[doctor] Bye."|"[doctor] Hello, John. How are you today?
+
+[patient] Hi, Doctor. I've been better. I'm in quite a bit of pain.
+
+[doctor] I understand. I see you have a severe head abrasion. Can you tell me what happened?
+
+[patient] Yeah, I was doing some work around the house and I slipped. I hit my head pretty hard about an hour ago.
+
+[doctor] Oh no, that sounds painful. You mentioned severe pain and throbbing. How bad is the pain on a scale from 1 to 10?
+
+[patient] It's probably around an 8. It's really painful.
+
+[doctor] I see. Was there significant bleeding initially?
+
+[patient] Yes, it bled a lot at first, but it has stopped now.
+
+[doctor] That's good that the bleeding stopped. Are you experiencing any other symptoms besides the pain?
+
+[patient] Well, I have a slight headache and I'm feeling a bit dizzy. It's hard to concentrate on anything.
+
+[doctor] Hmm, I understand. Have you had any chest pain or heart palpitations?
+
+[patient] No, none of that.
+
+[doctor] Any shortness of breath?
+
+[patient] No, my breathing is fine.
+
+[doctor] Good to hear. Have you had any fever or chills since the injury?
+
+[patient] No, no fever or chills.
+
+[doctor] Alright. Let me take a closer look at the abrasion via the video call. Can you position your camera so I can see your forehead?
+
+[patient] Sure, here you go.
+
+[doctor] I can see the abrasion. It looks quite large with some dried blood but no active bleeding. Does it hurt when you touch it?
+
+[patient] Yes, it's very tender.
+
+[doctor] I can imagine. You seem alert and oriented, which is a good sign. How's your speech? Any difficulties?
+
+[patient] No, my speech is fine.
+
+[doctor] Great. Now, can you tell me your current vital signs?
+
+[patient] Sure. My blood pressure is 130 over 85, my heart rate is 78, respiratory rate is 16, and my temperature is 98.6.
+
+[doctor] Excellent. Your vitals are stable. Based on what you've told me and what I can see, I believe you have an abrasion of the head. I'll guide you through the next steps to treat it.
+
+[patient] Okay, what should I do?
+
+[doctor] First, you'll need to clean the wound with an antiseptic solution. Do you have any at home?
+
+[patient] Yes, I have some.
+
+[doctor] Great. After cleaning, apply Polysporin antibiotic ointment to the affected area twice daily for 7 days. Cover it with a sterile dressing.
+
+[patient] Okay, I can do that.
+
+[doctor] It's important to keep an eye on the wound for signs of infection, such as increased redness, warmth, swelling, or pus. If you notice any of these, you should seek medical care immediately.
+
+[patient] Understood. What about the dizziness and headache?
+
+[doctor] Given the impact, I recommend getting a head CT scan without contrast to rule out any underlying injury. I'll order that for you.
+
+[patient] Alright, sounds good.
+
+[doctor] Also, avoid any strenuous activities that could worsen your head injury. Take it easy for the next few days.
+
+[patient] Got it. Anything else I need to do?
+
+[doctor] Continue with your current medications for hypertension and hypothyroidism. Monitor your blood pressure closely.
+
+[patient] Will do.
+
+[doctor] We'll need to check the wound in 5 days. I'll schedule a telemedicine follow-up for that. If there are any signs of infection, we'll refer you to Dr. Alice Brown, an infectious disease specialist.
+
+[patient] Okay, I understand.
+
+[doctor] Do you have any questions or concerns about the treatment plan?
+
+[patient] No, I think I've got it. Thank you, Doctor.
+
+[doctor] You're welcome, John. Take care, and we'll talk again in 5 days for the follow-up.
+
+[patient] Alright, thank you. Bye.
+
+[doctor] Bye."
+ABRASION OF OTHER PART OF HEAD, INITIAL ENCOUNTER|"ROLE: Family Medicine Physician
+
+1. Medical Outcome:
+    - Diagnosis: Abrasion of other part of head
+    - Treatment: Apply antibiotic ointment twice daily (Neosporin ointment, 1 oz tube) and cover with sterile bandage for 7 days
+    - Referral: Not necessary at this time
+    - Follow-up Recommendations: Revisit in 1 week to assess healing
+    - Imaging: NA
+    - Blood Work: NA
+
+2. Medical History:
+    - Previous Diagnoses: Seasonal allergies (hay fever)
+    - Family Medical History: Mother has hypertension; Father has type 2 diabetes
+    - Medication History: Cetirizine for allergies (10 mg once daily)
+    - Allergies: No known drug allergies
+    - Chronic Conditions: None
+
+3. Symptom Description:
+    - Severity: Mild to moderate pain
+    - Duration: 2 days
+    - Associated Symptoms: Mild swelling, redness
+    - Frequency: Constant discomfort, especially when touching the area
+    - Impact on Daily Activities: Difficulty sleeping on the affected side
+    
+4. Patient’s Self-reported Habits and Lifestyle:
+    - Sleep: 6-7 hours per night, disturbed due to pain
+    - Diet: Balanced diet, includes fruits and vegetables
+    - Exercise: Moderately active, exercises 3 times a week
+    - Tobacco Use: Occasional social smoker, 1-2 cigarettes per week
+    - Alcohol Consumption: Moderate, 1-2 drinks per week
+    - Drug Use: None
+    - Recreational Activities: Enjoys hiking and playing soccer
+
+5. Demographic Information:
+    - Age: 30 years
+    - Gender: Male
+    - Ethnicity: Hispanic
+    - Socio-economic Status: Middle class
+    - Education Level: College graduate
+    - Health Literacy: High
+    - Job Status: Employed as a software developer
+
+6. Patient's Behavior:
+    - Cooperative and adherent to medical advice
+    
+7. Geographical Location:
+    - Big City vs Small City: Big city
+    - Rural vs Urban: Urban
+    - Pollution and Environmental Health Risks: Moderate pollution levels
+    - Neighborhood Type: Affluent, well-served by transit
+
+8. Clinical Setting:
+    - Private Practice
+
+9. Type of Encounter:
+    - Initial Consultation
+
+10. Treatment Disparities:
+    - None noted, patient has good insurance coverage
+
+11. Native or Non-Native English Speaking Patient:
+    - Native English speaker
+
+12. Physical exams:
+    - General: Patient appears well, in no acute distress
+    - Head: Presence of a superficial abrasion on the right temple, approximately 2 cm in diameter, mild erythema, no signs of infection
+    - Neurological: Cranial nerves II-XII intact, no neurological deficits noted
+
+13. Investigation/Test Results:
+    - NA"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Abrasion on the right temple.
+
+**History of Present Illness (HPI):**
+Javier Martinez is a 30-year-old Hispanic male who presents with an abrasion on his right temple. The patient reports that the abrasion occurred 2 days ago while playing soccer. He tripped and fell, scraping his head on the ground. Since then, he has experienced mild to moderate pain, mild swelling, and redness around the affected area. The pain is constant and worsens when he touches the area. He finds it difficult to sleep on the affected side due to discomfort.
+
+**Review of Systems (ROS):**
+- **Skin:** Reports mild swelling, redness, and pain at the abrasion site.
+- **General:** No fever, chills, or systemic symptoms.
+- **Neurological:** No headaches, dizziness, or vision changes.
+
+**2. Objective:**
+
+**Vitals:**
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.6°F
+
+**Physical Exam:**
+- **General:** Patient appears well, in no acute distress.
+- **Head:** Presence of a superficial abrasion on the right temple, approximately 2 cm in diameter. Mild erythema, no signs of infection.
+- **Neurological:** Cranial nerves II-XII intact, no neurological deficits noted.
+
+**3. Assessment:**
+- **Diagnosis:** Abrasion of the right temple.
+
+**4. Plan:**
+1. **Treatment:**
+   - Apply Neosporin ointment (1 oz tube) twice daily to the abrasion.
+   - Cover the abrasion with a sterile bandage for 7 days.
+   
+2. **Medications:**
+   - Continue Cetirizine 10 mg once daily for allergies.
+
+3. **Recommendations:**
+   - Keep the abrasion clean and dry.
+   - Avoid touching or scratching the affected area.
+   - Monitor for signs of infection such as increased redness, warmth, swelling, or pus.
+
+4. **Follow-Up:**
+   - Revisit in 1 week to assess the healing of the abrasion.
+
+5. **Additional Instructions:**
+   - The patient is advised to refrain from activities that may worsen the abrasion or delay healing.
+   
+**12. Physical exams:**
+   - General: Patient appears well, in no acute distress
+   - Head: Presence of a superficial abrasion on the right temple, approximately 2 cm in diameter, mild erythema, no signs of infection
+   - Neurological: Cranial nerves II-XII intact, no neurological deficits noted
+
+**Investigation/Test Results:**
+   - NA"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Abrasion on the right temple.
+
+**History of Present Illness (HPI):**
+Javier Martinez is a 30-year-old Hispanic male who presents with an abrasion on his right temple. The patient reports that the abrasion occurred 2 days ago while playing soccer. He tripped and fell, scraping his head on the ground. Since then, he has experienced mild to moderate pain, mild swelling, and redness around the affected area. The pain is constant and worsens when he touches the area. He finds it difficult to sleep on the affected side due to discomfort.
+
+**Review of Systems (ROS):**
+- **Skin:** Reports mild swelling, redness, and pain at the abrasion site.
+- **General:** No fever, chills, or systemic symptoms.
+- **Neurological:** No headaches, dizziness, or vision changes.
+
+**2. Objective:**
+
+**Vitals:**
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.6°F
+
+**Physical Exam:**
+- **General:** Patient appears well, in no acute distress.
+- **Head:** Presence of a superficial abrasion on the right temple, approximately 2 cm in diameter. Mild erythema, no signs of infection.
+- **Neurological:** Cranial nerves II-XII intact, no neurological deficits noted.
+
+**3. Assessment:**
+- **Diagnosis:** Abrasion of the right temple.
+
+**4. Plan:**
+1. **Treatment:**
+   - Apply Neosporin ointment (1 oz tube) twice daily to the abrasion.
+   - Cover the abrasion with a sterile bandage for 7 days.
+   
+2. **Medications:**
+   - Continue Cetirizine 10 mg once daily for allergies.
+
+3. **Recommendations:**
+   - Keep the abrasion clean and dry.
+   - Avoid touching or scratching the affected area.
+   - Monitor for signs of infection such as increased redness, warmth, swelling, or pus.
+
+4. **Follow-Up:**
+   - Revisit in 1 week to assess the healing of the abrasion.
+
+5. **Additional Instructions:**
+   - The patient is advised to refrain from activities that may worsen the abrasion or delay healing."|"#####
+**1. Subjective:**
+
+**CC:**
+Abrasion on the right temple.
+
+**HPI:**
+Javier Martinez is a 30 y/o Hispanic M who presents with an abrasion on his R temple. Pt reports that the abrasion occurred 2 days ago while playing soccer. He tripped and fell, scraping his head on the ground. Since then, he has experienced mild to moderate pain, mild swelling, and redness around the affected area. The pain is constant and worsens when he touches the area. He finds it difficult to sleep on the affected side due to discomfort.
+
+**ROS:**
+- **Skin:** Reports mild swelling, redness, and pain at the abrasion site.
+- **General:** No fever, chills, or systemic symptoms.
+- **Neuro:** No HA, dizziness, or vision changes.
+
+**2. Objective:**
+
+**Vitals:**
+- BP: 120/80 mmHg
+- HR: 72 bpm
+- RR: 16 breaths/min
+- Temp: 98.6°F
+
+**PE:**
+- **General:** Pt appears well, in no acute distress.
+- **Head:** Presence of a superficial abrasion on the R temple, approx 2 cm in diameter. Mild erythema, no signs of infection.
+- **Neuro:** CN II-XII intact, no neuro deficits noted.
+
+**3. Assessment:**
+- **Dx:** Abrasion of the R temple.
+
+**4. Plan:**
+1. **Tx:**
+   - Apply Neosporin ointment (1 oz tube) BID to the abrasion.
+   - Cover the abrasion with a sterile bandage for 7 days.
+   
+2. **Meds:**
+   - Continue Cetirizine 10 mg QD for allergies.
+
+3. **Recs:**
+   - Keep the abrasion clean and dry.
+   - Avoid touching or scratching the affected area.
+   - Monitor for signs of infection such as increased redness, warmth, swelling, or pus.
+
+4. **F/U:**
+   - Revisit in 1 week to assess the healing of the abrasion.
+
+5. **Additional Instructions:**
+   - Pt advised to refrain from activities that may worsen the abrasion or delay healing."|Family Medicine Physician|"**Doctor:** Hi Javier, how are you doing today?
+
+**Patient:** Hi doc, I've been better. I have this abrasion on my right temple that's bothering me.
+
+**Doctor:** Oh, I see. Can you tell me how it happened?
+
+**Patient:** Sure, I was playing soccer two days ago and I tripped and fell. I scraped my head on the ground.
+
+**Doctor:** Ouch, that sounds painful. How has it been since then?
+
+**Patient:** It's been pretty uncomfortable. There's mild to moderate pain, some swelling, and redness around the area. The pain gets worse when I touch it, and it's hard to sleep on that side.
+
+**Doctor:** I understand. Have you noticed any other symptoms like fever, chills, or any other systemic symptoms?
+
+**Patient:** No, nothing like that. Just the pain and discomfort in the area.
+
+**Doctor:** Okay, let's go over a few more things. Have you had any headaches, dizziness, or vision changes since the fall?
+
+**Patient:** No, none of that. Just the abrasion.
+
+**Doctor:** Got it. Do you have any allergies or are you currently taking any medications?
+
+**Patient:** Yes, I take Cetirizine 10 mg once daily for allergies.
+
+**Doctor:** Alright, let's take a look at your vital signs. Your blood pressure is 120/80 mmHg, heart rate is 72 bpm, respiratory rate is 16 breaths per minute, and your temperature is 98.6°F. Everything looks good there.
+
+**Patient:** Okay, that's good to hear.
+
+**Doctor:** Now, let me examine the abrasion. Please sit still for me. 
+
+**Patient:** Sure.
+
+**Doctor:** I see a superficial abrasion on your right temple. It's about 2 cm in diameter. There's mild erythema but no signs of infection. How does it feel when I press here?
+
+**Patient:** It's pretty tender, but it's not unbearable.
+
+**Doctor:** Alright, and your cranial nerves II-XII are intact. No neurological deficits noted, which is good.
+
+**Patient:** That's a relief.
+
+**Doctor:** Based on your symptoms and my examination, it looks like you have a superficial abrasion on your right temple. Let’s talk about how we can treat it.
+
+**Patient:** Okay, what do I need to do?
+
+**Doctor:** First, I recommend you apply Neosporin ointment twice daily to the abrasion. You should cover it with a sterile bandage for 7 days to keep it clean.
+
+**Patient:** Got it. Anything else?
+
+**Doctor:** Yes, continue taking your Cetirizine for your allergies. Also, keep the abrasion clean and dry. Avoid touching or scratching the area to prevent infection. 
+
+**Patient:** That makes sense.
+
+**Doctor:** Monitor for any signs of infection like increased redness, warmth, swelling, or pus. If you notice any of those, come back to see me immediately.
+
+**Patient:** Will do. How long should I avoid activities like soccer?
+
+**Doctor:** Refrain from activities that might worsen the abrasion or delay healing until it's fully healed. I’d suggest at least a week.
+
+**Patient:** Alright, I can do that.
+
+**Doctor:** I'd like you to come back in a week so we can assess how the abrasion is healing. Does that work for you?
+
+**Patient:** Yes, that works for me.
+
+**Doctor:** Great. Do you have any other questions or concerns?
+
+**Patient:** No, I think that covers everything. Thanks, doc.
+
+**Doctor:** You're welcome, Javier. Take care and follow those instructions. See you in a week.
+
+**Patient:** Will do. Thanks again, doc.
+
+**Doctor:** Bye for now."|"[doctor]: Hi Javier, how are you doing today?
+
+[patient]: Hi doc, I've been better. I have this abrasion on my right temple that's bothering me.
+
+[doctor]: Oh, I see. Can you tell me how it happened?
+
+[patient]: Sure, I was playing soccer two days ago and I tripped and fell. I scraped my head on the ground.
+
+[doctor]: Ouch, that sounds painful. How has it been since then?
+
+[patient]: It's been pretty uncomfortable. There's mild to moderate pain, some swelling, and redness around the area. The pain gets worse when I touch it, and it's hard to sleep on that side.
+
+[doctor]: I understand. Have you noticed any other symptoms like fever, chills, or any other systemic symptoms?
+
+[patient]: No, nothing like that. Just the pain and discomfort in the area.
+
+[doctor]: Okay, let's go over a few more things. Have you had any headaches, dizziness, or vision changes since the fall?
+
+[patient]: No, none of that. Just the abrasion.
+
+[doctor]: Got it. Do you have any allergies or are you currently taking any medications?
+
+[patient]: Yes, I take Cetirizine 10 mg once daily for allergies.
+
+[doctor]: Alright, let's take a look at your vital signs. Your blood pressure is 120/80 mmHg, heart rate is 72 bpm, respiratory rate is 16 breaths per minute, and your temperature is 98.6°F. Everything looks good there.
+
+[patient]: Okay, that's good to hear.
+
+[doctor]: Now, let me examine the abrasion. Please sit still for me. 
+
+[patient]: Sure.
+
+[doctor]: I see a superficial abrasion on your right temple. It's about 2 cm in diameter. There's mild erythema but no signs of infection. How does it feel when I press here?
+
+[patient]: It's pretty tender, but it's not unbearable.
+
+[doctor]: Alright, and your cranial nerves II-XII are intact. No neurological deficits noted, which is good.
+
+[patient]: That's a relief.
+
+[doctor]: Based on your symptoms and my examination, it looks like you have a superficial abrasion on your right temple. Let’s talk about how we can treat it.
+
+[patient]: Okay, what do I need to do?
+
+[doctor]: First, I recommend you apply Neosporin ointment twice daily to the abrasion. You should cover it with a sterile bandage for 7 days to keep it clean.
+
+[patient]: Got it. Anything else?
+
+[doctor]: Yes, continue taking your Cetirizine for your allergies. Also, keep the abrasion clean and dry. Avoid touching or scratching the area to prevent infection. 
+
+[patient]: That makes sense.
+
+[doctor]: Monitor for any signs of infection like increased redness, warmth, swelling, or pus. If you notice any of those, come back to see me immediately.
+
+[patient]: Will do. How long should I avoid activities like soccer?
+
+[doctor]: Refrain from activities that might worsen the abrasion or delay healing until it's fully healed. I’d suggest at least a week.
+
+[patient]: Alright, I can do that.
+
+[doctor]: I'd like you to come back in a week so we can assess how the abrasion is healing. Does that work for you?
+
+[patient]: Yes, that works for me.
+
+[doctor]: Great. Do you have any other questions or concerns?
+
+[patient]: No, I think that covers everything. Thanks, doc.
+
+[doctor]: You're welcome, Javier. Take care and follow those instructions. See you in a week.
+
+[patient]: Will do. Thanks again, doc.
+
+[doctor]: Bye for now."
+ABRASION OF OTHER PART OF HEAD, INITIAL ENCOUNTER|"ROLE: General Physician
+
+**Scenario:**
+
+- **Medical Outcome:**
+  - Diagnosis: Abrasion of other part of head, initial encounter
+  - Prescribed Treatment: Clean wound with saline solution, apply topical antibiotic ointment (Neosporin), cover with a sterile dressing
+  - Follow-up Recommendations: Check wound healing in 7 days
+  - Referral to Further Tests: N/A
+  - Medication Adjustment: N/A
+  - Lifestyle Change: Avoid strenuous activities, keep the wound clean, and dry until it heals
+
+- **Medical History:**
+  - Previous Diagnoses: No significant past medical history
+  - Family Medical History: No relevant family history
+  - Medication History: No regular medications
+  - Allergies: No known allergies
+  - Chronic Conditions: N/A
+
+- **Symptom Description:**
+  - Severity: Mild
+  - Duration: 2 days
+  - Associated Symptoms: Minor bleeding, slight swelling, minor pain
+  - Frequency: Continuous discomfort since the incident
+  - Impact on Daily Activities: Mild restriction in daily activities due to discomfort
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: Normal
+  - Diet: Balanced diet
+  - Exercise: Regular moderate exercise
+  - Tobacco Use: Non-smoker
+  - Alcohol Consumption: Occasional (social gatherings)
+  - Drug Use: None
+  - Recreational Activities: Enjoys bicycling and hiking
+
+- **Demographic Information:**
+  - Age: 25
+  - Gender: Male
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Middle-class
+  - Education Level: College graduate
+  - Health Literacy: Good understanding of health-related information
+  - Job Status: Employed as a software engineer
+
+- **Patient's Behavior:**
+  - Level of Patient's Cooperation with Medical Advice: Highly cooperative
+
+- **Geographical Location:**
+  - Big City vs Small City: Big City
+  - Rural vs Urban: Urban
+  - Pollution and Environmental Health Risks: Moderate pollution
+  - Neighborhood Type: Affluent neighborhood
+  - Well-served by Transit: Yes
+  - Food Desert: No
+
+- **Clinical Setting:**
+  - Clinical Setting: Urgent Care Center
+
+- **Type of Encounter:**
+  - Initial Consultation
+
+- **Treatment Disparities:**
+  - None
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English Speaker
+
+- **Physical exams:**
+  - General Appearance: Mildly distressed due to discomfort
+  - Head: Clean, minor abrasion on left side, no sign of infection
+  - Neck: Normal range of motion, no tenderness
+
+- **Investigation/Test results:**
+  - N/A"|Rejected|Rejected|Rejected|Rejected||
+ABRASION OF OTHER PART OF HEAD, INITIAL ENCOUNTER|"ROLE: Emergency Physician
+
+- **Medical Outcome:**
+  - Diagnosis: Abrasion of other part of head, initial encounter (ICD-10 Code: S00.83XA)
+  - Prescribed Treatment: Clean wound thoroughly with saline solution, apply topical antibiotic ointment, and cover with a sterile bandage.
+  - Follow-up Recommendations: Follow up in 1 week to monitor healing; sooner if signs of infection occur (increased redness, warmth, swelling, or pus).
+  - Referral to Specialists: None at this time.
+  - Medication Adjustment: None.
+  - Lifestyle Change: Advise patient to avoid contact sports and activities that could exacerbate the wound until fully healed.
+
+- **Medical History:**
+  - Previous Diagnoses: None significant.
+  - Family Medical History: Non-contributory.
+  - Medication History: Occasional use of over-the-counter pain relievers (e.g., ibuprofen).
+  - Allergies: No known drug allergies (NKDA).
+  - Chronic Conditions: None.
+
+- **Symptom Description:**
+  - Severity: Mild to moderate pain, 4/10.
+  - Duration: Since this morning.
+  - Associated Symptoms: Mild headache, no dizziness or loss of consciousness.
+  - Frequency: Continuous since the trauma.
+  - Impact on Daily Activities: Difficulties with wearing glasses due to abrasion near the temple area.
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: Reports good sleep quality.
+  - Diet: Balanced diet but consumes fast food 1-2 times per week.
+  - Exercise: Regular gym goer, 4 times a week.
+  - Tobacco Use: Non-smoker.
+  - Alcohol Consumption: Occasional social drinker, 2-3 times per month.
+  - Drug Use: Denies drug use.
+  - Recreational Activities: Plays basketball regularly, affected by current injury.
+
+- **Demographic Information:**
+  - Age: 27
+  - Gender: Male
+  - Ethnicity: Hispanic
+  - Socio-economic Status: Middle-class
+  - Education Level: College graduate
+  - Health Literacy: High
+  - Job Status: Employed as an IT Specialist
+
+- **Patient's Behavior:**
+  - Highly cooperative and attentive to medical advice.
+
+- **Geographical Location:**
+  - Big City vs Small City: Urban
+  - Pollution and Environmental Health Risks: Moderate air pollution
+  - Neighborhood Type: Affluent, well-served by transit, not a food desert.
+
+- **Clinical Setting:**
+  - Emergency Department in a large urban hospital
+
+- **Type of Encounter:**
+  - Initial Consultation (emergency visit due to head abrasion)
+
+- **Treatment Disparities:**
+  - None observed; patient received prompt care regardless of socio-economic status.
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English speaking patient
+
+- **Physical exams:**
+  - Head: Abrasion approximately 2 cm in diameter near the right temple, no signs of deeper laceration, mild swelling but no active bleeding.
+  - Neurological: Alert and oriented, no focal deficits.
+
+- **Investigation/Test results:**
+  - NA"|Rejected|Rejected|Rejected|Rejected||
+ABRASION OF OTHER PART OF HEAD, INITIAL ENCOUNTER|"ROLE: Emergency Physician
+
+- **Medical Outcome:**
+  - Diagnosis: Abrasion of other part of head, initial encounter (ICD-10 Code: S00.83XA)
+  - Prescribed Treatment: Clean wound thoroughly with saline solution, apply topical antibiotic ointment, cover with a sterile bandage, and a tetanus booster shot.
+  - Follow-up Recommendations: Follow up in 1 week with primary care physician to monitor wound healing.
+  - Referral to Specialists: Referral to Dermatology Dr. Sarah Lee for evaluation if signs of abnormal healing or scarring occur.
+
+- **Medical History:**
+  - Previous Diagnoses: Asthma, treated with albuterol as needed.
+  - Family Medical History: Father with hypertension.
+  - Medication History: Occasional use of albuterol inhaler for asthma, no other medications.
+  - Allergies: Allergic to penicillin.
+  - Chronic Conditions: Asthma.
+
+- **Symptom Description:**
+  - Severity: Moderate pain, 5/10.
+  - Duration: Started 2 hours ago after a fall.
+  - Associated Symptoms: Mild headache, no nausea or vomiting.
+  - Frequency: Persistent since trauma.
+  - Impact on Daily Activities: Difficulty focusing on tasks due to pain.
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: Poor sleep, around 5-6 hours per night.
+  - Diet: Predominantly fast food diet, minimal vegetable intake.
+  - Exercise: Sedentary lifestyle, no regular exercise.
+  - Tobacco Use: Non-smoker.
+  - Alcohol Consumption: Occasionally, about once a month.
+  - Drug Use: Denies drug use.
+  - Recreational Activities: Enjoys playing video games, affected by current injury due to headache.
+
+- **Demographic Information:**
+  - Age: 20
+  - Gender: Female
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Lower-middle class
+  - Education Level: Some college
+  - Health Literacy: Moderate
+  - Job Status: Part-time barista
+
+- **Patient's Behavior:**
+  - Somewhat anxious, but cooperative with medical staff.
+
+- **Geographical Location:**
+  - Big City vs Small City: Small City
+  - Pollution and Environmental Health Risks: Low pollution
+  - Neighborhood Type: Suburban, limited public transit, food desert.
+
+- **Clinical Setting:**
+  - Urgent Care Center in a small city
+
+- **Type of Encounter:**
+  - Initial Consultation (urgent care visit due to head abrasion)
+
+- **Treatment Disparities:**
+  - The patient’s socio-economic status indicated some constraints on follow-up care, patient was provided information on low-cost clinics in the area.
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English speaking patient
+
+- **Physical exams:**
+  - Head: Abrasion approximately 3 cm on the right forehead, no active bleeding, mild swelling.
+  - Neurological: Alert and oriented, normal reflexes, no signs of concussion.
+
+- **Investigation/Test results:**
+  - NA"|Rejected|Rejected|Rejected|Rejected||
+ABRASION OF OTHER PART OF HEAD, INITIAL ENCOUNTER|"ROLE: Family Medicine Physician
+
+** 1) Medical Outcome: **
+- Diagnosis: Abrasion of other part of head, initial encounter (ICD-10: S00.81XA)
+- Treatment: Clean and debride the wound, apply antibiotic ointment (Neosporin), and cover with a sterile dressing.
+- Medication: Neosporin ointment - apply topically to the affected area three times daily for 7 days.
+- Follow-up Recommendations: Return for a wound check in 1 week, sooner if signs of infection develop (e.g., increased redness, swelling, fever).
+- Imaging: None required at this stage.
+
+** 2) Medical History: **
+- Previous Diagnoses: History of asthma.
+- Family Medical History: Mother has hypertension, father has diabetes.
+- Medication History: Patient uses albuterol inhaler as needed.
+
+** 3) Symptom Description: **
+- Severity: Mild to moderate pain.
+- Duration: Abrasion occurred 2 hours ago.
+- Associated Symptoms: Mild bleeding, no signs of infection.
+- Frequency: N/A, one-time incident.
+- Impact on Daily Activities: Difficult to wear a hat or lay down on the affected side.
+
+** 4) Patient’s self-reported habits and lifestyle: **
+- Sleep: 7-8 hours per night.
+- Diet: Balanced, no specific restrictions.
+- Exercise: Regular physical activity, jogs twice a week.
+- Tobacco Use: Non-smoker.
+- Alcohol Consumption: Occasional, social drinking - 1-2 drinks per week.
+- Drug Use: Denies.
+- Recreational Activities: Participates in outdoor sports and social activities with friends.
+
+** 5) Demographic Information: **
+- Age: 25
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle-class
+- Education Level: College graduate
+- Health Literacy: High, understands medical information well.
+- Job Status: Marketing professional
+
+** 6) Patient's Behavior: **
+- Very cooperative and adherent to medical advice.
+
+** 7) Geographical Location: **
+- Urban area, big city with good access to healthcare facilities.
+
+** 8) Clinical Setting: **
+- Private Practice
+
+** 9) Type of Encounter: **
+- Initial Consultation
+
+** 10) Treatment Disparities: **
+- N/A, patient has good access to healthcare and is compliant.
+
+** 11) Native or Non-Native English Speaking Patient: **
+- Native English Speaker
+
+** 12) Physical exams: **
+- General Examination: Patient is alert and oriented, in no acute distress.
+- Head: Presence of a superficial abrasion measuring approximately 3 cm on the right parietal region with minor bleeding, no signs of deeper injury or skull fracture.
+- Neurological: Cranial nerves II-XII intact, no focal neurological deficits.
+
+** 13) Investigation/Test results: **
+- N/A, no tests required at this stage.
+
+"|Rejected|Rejected|Rejected|Rejected||
+ABRASION OF OTHER PART OF HEAD, INITIAL ENCOUNTER|"ROLE: Family Medicine Physician
+
+** 1) Medical Outcome: **
+- Diagnosis: Abrasion of other part of head, initial encounter (ICD-10: S00.81XA)
+- Treatment: Clean and debride the wound, apply antibiotic ointment (Neosporin), and cover with a sterile dressing.
+- Medication: Neosporin ointment - apply topically to the affected area three times daily for 7 days.
+- Follow-up Recommendations: Return for a wound check in 5 days, sooner if signs of infection develop (e.g., increased redness, swelling, fever).
+- Referral: If no improvement by follow-up, consider referral to a dermatologist for potential skin infection.
+- Blood work: None required at this stage.
+
+** 2) Medical History: **
+- Previous Diagnoses: History of eczema.
+- Family Medical History: No known family history of skin conditions.
+- Medication History: Occasional use of topical hydrocortisone for eczema flare-ups.
+- Allergies: No known drug allergies.
+
+** 3) Symptom Description: **
+- Severity: Moderate pain.
+- Duration: Abrasion occurred 4 hours ago.
+- Associated Symptoms: Moderate bleeding initially, no signs of infection.
+- Frequency: N/A, one-time incident.
+- Impact on Daily Activities: Difficulty focusing at work due to pain and discomfort.
+
+** 4) Patient’s self-reported habits and lifestyle: **
+- Sleep: 6-7 hours per night, sometimes disrupted due to stress.
+- Diet: Generally healthy, includes fruits and vegetables but high stress sometimes leads to skipping meals.
+- Exercise: Limited, sedentary lifestyle due to desk job.
+- Tobacco Use: Non-smoker.
+- Alcohol Consumption: Moderate, 1-3 drinks per week.
+- Drug Use: Denies.
+- Recreational Activities: Enjoys reading and occasional hiking.
+
+** 5) Demographic Information: **
+- Age: 35
+- Gender: Female
+- Ethnicity: Asian-American
+- Socio-economic Status: Upper-middle class
+- Education Level: Master’s degree
+- Health Literacy: High, well-informed about health care.
+- Job Status: Office worker, high-stress job in finance.
+
+** 6) Patient's Behavior: **
+- Generally cooperative, expresses concern about the abrasion potentially worsening.
+
+** 7) Geographical Location: **
+- Urban area, big city with high pollution levels, which may exacerbate skin conditions.
+
+** 8) Clinical Setting: **
+- Community Health Center
+
+** 9) Type of Encounter: **
+- Initial Consultation
+
+** 10) Treatment Disparities: **
+- N/A, patient has good access to healthcare and is compliant.
+
+** 11) Native or Non-Native English Speaking Patient: **
+- Non-Native English Speaker, proficient in English.
+
+** 12) Physical exams: **
+- General Examination: Patient is alert and oriented, in moderate distress due to pain.
+- Head: Presence of a superficial abrasion measuring approximately 4 cm on the right temporal region with moderate bleeding, no signs of deeper injury or skull fracture.
+- Neurological: Cranial nerves II-XII intact, no focal neurological deficits.
+
+** 13) Investigation/Test results: **
+- N/A, no tests required at this stage."|Rejected|Rejected|Rejected|Rejected||
+ABRASION OF OTHER PART OF HEAD, INITIAL ENCOUNTER|"ROLE: Family Medicine Physician
+
+** 1) Medical Outcome: **
+- Diagnosis: Abrasion of other part of head, initial encounter (ICD-10: S00.81XA)
+- Treatment: Clean and debride the wound, apply antibiotic ointment (Bacitracin), and dress with a sterile bandage.
+- Medication: Bacitracin ointment - apply topically to the affected area twice daily for 5 days.
+- Follow-up Recommendations: Return for a wound check in 4 days, sooner if signs of infection develop.
+- Referral: If no improvement at follow-up, refer to a wound care specialist (Dr. John Smith) for further management.
+- Imaging: None required at this stage.
+
+** 2) Medical History: **
+- Previous Diagnoses: Diabetes mellitus type 2.
+- Family Medical History: Father had a history of heart disease, no known history of skin conditions.
+- Medication History: Metformin 500 mg orally twice daily for diabetes.
+- Allergies: Penicillin (causes rash).
+
+** 3) Symptom Description: **
+- Severity: Moderate pain and discomfort.
+- Duration: Abrasion occurred 3 hours ago.
+- Associated Symptoms: Moderate bleeding initially, slight swelling, no signs of infection.
+- Frequency: N/A, one-time incident.
+- Impact on Daily Activities: Difficulty sleeping on the affected side, discomfort while wearing headgear.
+
+** 4) Patient’s self-reported habits and lifestyle: **
+- Sleep: 5-6 hours per night, occasionally disrupted due to stress and diabetes-related symptoms.
+- Diet: High in carbohydrates, often skips meals due to a busy work schedule.
+- Exercise: Minimal, due to desk job and busy lifestyle.
+- Tobacco Use: Non-smoker.
+- Alcohol Consumption: Occasionally, 1-2 drinks per month.
+- Drug Use: Denies.
+- Recreational Activities: Enjoys gardening and watching movies.
+
+** 5) Demographic Information: **
+- Age: 55
+- Gender: Female
+- Ethnicity: Hispanic
+- Socio-economic Status: Lower-middle class
+- Education Level: High school graduate
+- Health Literacy: Moderate, requires detailed explanations about her condition and treatments.
+- Job Status: Factory worker
+
+** 6) Patient's Behavior: **
+- Generally cooperative, but expresses anxiety about wound healing due to her diabetes.
+
+** 7) Geographical Location: **
+- Small town in a rural area, limited access to specialized healthcare services.
+
+** 8) Clinical Setting: **
+- Urgent Care Center
+
+** 9) Type of Encounter: **
+- Initial Consultation
+
+** 10) Treatment Disparities: **
+- Potential for disparities due to rural setting and lower socio-economic status, patient may have limited access to follow-up care.
+
+** 11) Native or Non-Native English Speaking Patient: **
+- Non-Native English Speaker, requires a translator for clear communication.
+
+** 12) Physical exams: **
+- General Examination: Patient is alert and oriented, in mild to moderate distress due to pain.
+- Head: Presence of a superficial abrasion measuring approximately 5 cm on the left parietal region with moderate bleeding, mild swelling, no signs of deeper injury or skull fracture.
+- Neurological: Cranial nerves II-XII intact, no focal neurological deficits.
+
+** 13) Investigation/Test results: **
+- N/A, no tests required at this stage."|Rejected|Rejected|Rejected|Rejected||

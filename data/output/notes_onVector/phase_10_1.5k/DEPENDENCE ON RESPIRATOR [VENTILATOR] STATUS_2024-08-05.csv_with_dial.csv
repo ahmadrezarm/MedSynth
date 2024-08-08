@@ -1,0 +1,2504 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+DEPENDENCE ON RESPIRATOR [VENTILATOR] STATUS|"ROLE: Pulmonologist
+
+**Scenario:**
+- **Medical Outcome:** Severe respiratory failure diagnosis. Recommend continuation of mechanical ventilation. Prescribe sedation medication - Propofol, 100 mg, IV, continuous infusion at 5 mcg/kg/min. Follow-up with respiratory therapist. Order for arterial blood gas (ABG) test and chest X-ray.
+- **Medical History:** 
+  - Previous Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), recurrent pneumonia.
+  - Family Medical History: Father with history of COPD, mother with asthma.
+  - Medication History: Albuterol inhaler, Tiotropium.
+  - Allergies: Penicillin.
+  - Chronic Conditions: Hypertension.
+- **Symptom Description:**
+  - Severe: Severe difficulty breathing, high respiratory rate.
+  - Duration: Worsening over the last 48 hours.
+  - Associated Symptoms: Cyanosis, confusion.
+  - Frequency: Continuous.
+  - Impact on Daily Activities: Completely dependent on ventilator.
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: Poor sleep due to difficulty breathing.
+  - Diet: Poor appetite recently.
+  - Exercise: None due to severe respiratory issues.
+  - Tobacco Use: Heavy smoker, 20 pack-year history.
+  - Alcohol Consumption: Occasional.
+  - Drug Use: Denies any use.
+  - Recreational Activities: None.
+- **Demographic Information:**
+  - Age: 65
+  - Gender: Male
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Lower-middle class
+  - Education Level: High school diploma
+  - Health Literacy: Limited
+  - Job Status: Retired
+- **Patient's Behavior:** Generally cooperative but currently confused due to hypoxemia.
+- **Geographical Location:** Urban
+  - Neighborhood Type: Impoverished
+  - Pollution and Environmental Health Risks: High pollution level.
+- **Clinical Setting:** Hospital ICU
+- **Type of Encounter:** Emergency Visit
+- **Treatment Disparities:** None observed.
+- **Native or Non-Native English Speaking Patient:** Native English speaking patient.
+- **Physical Exams:** 
+  - Lung examination showing bilateral coarse crackles.
+  - Use of accessory muscles for breathing.
+  - ABG pending review.
+- **Investigation/Test Results:**
+  - Arterial Blood Gas (ABG) test: Ordered, results pending.
+  - Chest X-ray: Ordered, results pending."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe difficulty breathing worsening over the last 48 hours.
+
+**History of Present Illness (HPI):**
+Mr. John Smith, a 65-year-old Caucasian male with a known history of Chronic Obstructive Pulmonary Disease (COPD) and recurrent pneumonia, presents to the ICU with severe respiratory failure. The patient reports marked worsening of his breathing difficulties over the past 48 hours, accompanied by cyanosis and episodes of confusion. He is entirely dependent on mechanical ventilation for respiration at this time.
+
+**Review of Systems (ROS):**
+- **General:** Poor appetite, no exercise due to respiratory issues, poor sleep quality.
+- **Respiratory:** Severe dyspnea, continuous high respiratory rate, use of accessory muscles, bilateral coarse crackles noted.
+- **Neurological:** Confusion, likely secondary to hypoxemia.
+- **Other Systems:** No other significant complaints reported.
+
+**Past Medical History:**
+- Chronic Obstructive Pulmonary Disease (COPD)
+- Recurrent pneumonia
+- Hypertension
+
+**Family History:**
+- Father with history of COPD
+- Mother with asthma
+
+**Social History:**
+- Heavy smoker with a 20 pack-year history
+- Occasional alcohol consumption
+- Denies drug use
+- Currently retired and living in an impoverished urban area with high pollution levels
+
+**Medications:**
+- Albuterol inhaler
+- Tiotropium
+
+**Allergies:**
+- Penicillin
+
+**2. Objective:**
+
+**Physical Exam:**
+- General: Cooperative but confused, cyanotic.
+- Respiratory: Bilateral coarse crackles, significant use of accessory muscles observed.
+- Cardiovascular: Stable, no murmurs or additional sounds noted.
+
+**Vital Signs:**
+- Blood Pressure: 145/90 mmHg
+- Heart Rate: 110 bpm
+- Respiratory Rate: 30 breaths per minute
+- SpO2: Dependent on mechanical ventilation settings
+
+**Investigations:**
+- Arterial Blood Gas (ABG): Ordered, results pending
+- Chest X-ray: Ordered, results pending
+
+**3. Assessment:**
+Severe respiratory failure likely secondary to an acute exacerbation of Chronic Obstructive Pulmonary Disease (COPD) compounded by recurrent pneumonia.
+
+**4. Plan:**
+1. **Mechanical Ventilation:**
+   - Continue mechanical ventilation to support respiratory function.
+   
+2. **Medications:**
+   - Initiate sedation with Propofol, 100 mg, IV, continuous infusion at 5 mcg/kg/min to ensure patient comfort and compliance with mechanical ventilation.
+   
+3. **Diagnostics:**
+   - Arterial Blood Gas (ABG) test to assess gas exchange and acid-base status. Results pending.
+   - Chest X-ray to evaluate lung fields and identify any new or worsening pathology. Results pending.
+   
+4. **Follow-Up:**
+   - Close monitoring and follow-up with a respiratory therapist to assess ventilator settings and evaluate patient’s respiratory status.
+   
+5. **Additional Management:**
+   - Continuous evaluation for signs of infection or other complications.
+   - Ensure nutritional support due to poor appetite.
+   - Address social and environmental factors contributing to respiratory issues, including heavy smoking history and high pollution exposure.
+
+**Instructions:**
+- Keep the patient's next of kin informed of his condition and ongoing treatment.
+- Reassess the patient frequently to monitor for any changes that may necessitate adjustments to the treatment plan.
+- Schedule a multidisciplinary team meeting if the patient’s condition allows, to discuss long-term management and potential disposition plans."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe difficulty breathing worsening over the last 48 hours.
+
+**History of Present Illness (HPI):**
+Mr. John Smith, a 65-year-old Caucasian male with a known history of Chronic Obstructive Pulmonary Disease (COPD) and recurrent pneumonia, presents to the ICU with severe respiratory failure. The patient reports marked worsening of his breathing difficulties over the past 48 hours, accompanied by cyanosis and episodes of confusion. He is entirely dependent on mechanical ventilation for respiration at this time.
+
+**Review of Systems (ROS):**
+- **General:** Poor appetite, no exercise due to respiratory issues, poor sleep quality.
+- **Respiratory:** Severe dyspnea, continuous high respiratory rate, use of accessory muscles, bilateral coarse crackles noted.
+- **Neurological:** Confusion, likely secondary to hypoxemia.
+- **Other Systems:** No other significant complaints reported.
+
+**Past Medical History:**
+- Chronic Obstructive Pulmonary Disease (COPD)
+- Recurrent pneumonia
+- Hypertension
+
+**Family History:**
+- Father with history of COPD
+- Mother with asthma
+
+**Social History:**
+- Heavy smoker with a 20 pack-year history
+- Occasional alcohol consumption
+- Denies drug use
+- Currently retired and living in an impoverished urban area with high pollution levels
+
+**Medications:**
+- Albuterol inhaler
+- Tiotropium
+
+**Allergies:**
+- Penicillin
+
+**2. Objective:**
+
+**Physical Exam:**
+- General: Cooperative but confused, cyanotic.
+- Respiratory: Bilateral coarse crackles, significant use of accessory muscles observed.
+- Cardiovascular: Stable, no murmurs or additional sounds noted.
+
+**Vital Signs:**
+- Blood Pressure: 145/90 mmHg
+- Heart Rate: 110 bpm
+- Respiratory Rate: 30 breaths per minute
+- SpO2: Dependent on mechanical ventilation settings
+
+**3. Assessment:**
+Severe respiratory failure likely secondary to an acute exacerbation of Chronic Obstructive Pulmonary Disease (COPD) compounded by recurrent pneumonia.
+
+**4. Plan:**
+1. **Mechanical Ventilation:**
+   - Continue mechanical ventilation to support respiratory function.
+   
+2. **Medications:**
+   - Initiate sedation with Propofol, 100 mg, IV, continuous infusion at 5 mcg/kg/min to ensure patient comfort and compliance with mechanical ventilation.
+   
+3. **Diagnostics:**
+   - Arterial Blood Gas (ABG) test to assess gas exchange and acid-base status. Results pending.
+   - Chest X-ray to evaluate lung fields and identify any new or worsening pathology. Results pending.
+   
+4. **Follow-Up:**
+   - Close monitoring and follow-up with a respiratory therapist to assess ventilator settings and evaluate patient’s respiratory status.
+   
+5. **Additional Management:**
+   - Continuous evaluation for signs of infection or other complications.
+   - Ensure nutritional support due to poor appetite.
+   - Address social and environmental factors contributing to respiratory issues, including heavy smoking history and high pollution exposure.
+
+**Instructions:**
+- Keep the patient's next of kin informed of his condition and ongoing treatment.
+- Reassess the patient frequently to monitor for any changes that may necessitate adjustments to the treatment plan.
+- Schedule a multidisciplinary team meeting if the patient’s condition allows, to discuss long-term management and potential disposition plans."|"#####
+**1. Subjective:**
+
+**CC:**
+Severe difficulty breathing worsening over the last 48 hours.
+
+**HPI:**
+Mr. John Smith, a 65 y/o Caucasian male with a known hx of COPD and recurrent PNA, presents to the ICU with severe respiratory failure. The pt reports marked worsening of his breathing difficulties over the past 48 hrs, accompanied by cyanosis and episodes of confusion. He is entirely dependent on mech vent for respiration at this time.
+
+**ROS:**
+- **General:** Poor appetite, no exercise due to respiratory issues, poor sleep quality.
+- **Respiratory:** Severe dyspnea, continuous high RR, use of accessory muscles, bilateral coarse crackles noted.
+- **Neuro:** Confusion, likely secondary to hypoxemia.
+- **Other Systems:** No other significant complaints reported.
+
+**PMH:**
+- COPD
+- Recurrent PNA
+- HTN
+
+**FH:**
+- Father with hx of COPD
+- Mother with asthma
+
+**SH:**
+- Heavy smoker with a 20 pack-year hx
+- Occasional ETOH consumption
+- Denies drug use
+- Currently retired and living in an impoverished urban area with high pollution levels
+
+**Meds:**
+- Albuterol inhaler
+- Tiotropium
+
+**Allergies:**
+- PCN
+
+**2. Objective:**
+
+**PE:**
+- General: Cooperative but confused, cyanotic.
+- Respiratory: Bilateral coarse crackles, significant use of accessory muscles observed.
+- CV: Stable, no murmurs or additional sounds noted.
+
+**VS:**
+- BP: 145/90 mmHg
+- HR: 110 bpm
+- RR: 30 breaths per min
+- SpO2: Dependent on mech vent settings
+
+**3. Assessment:**
+Severe respiratory failure likely 2/2 acute exacerbation of COPD compounded by recurrent PNA.
+
+**4. Plan:**
+1. **Mech Vent:**
+   - Continue mech vent to support respiratory function.
+   
+2. **Meds:**
+   - Initiate sedation with Propofol, 100 mg, IV, continuous infusion at 5 mcg/kg/min to ensure pt comfort and compliance with mech vent.
+   
+3. **Diagnostics:**
+   - ABG to assess gas exchange and acid-base status. Results pending.
+   - CXR to evaluate lung fields and identify any new or worsening pathology. Results pending.
+   
+4. **Follow-Up:**
+   - Close monitoring and follow-up with RT to assess vent settings and evaluate pt’s respiratory status.
+   
+5. **Additional Mgmt:**
+   - Continuous evaluation for signs of infection or other complications.
+   - Ensure nutritional support due to poor appetite.
+   - Address social and environmental factors contributing to respiratory issues, including heavy smoking hx and high pollution exposure.
+
+**Instructions:**
+- Keep the pt's NOK informed of his condition and ongoing tx.
+- Reassess the pt frequently to monitor for any changes that may necessitate adjustments to the tx plan.
+- Schedule a multidisciplinary team meeting if the pt’s condition allows, to discuss long-term mgmt and potential disposition plans."|Pulmonologist|"## Conversation:
+
+### Doctor and Patient:
+
+**Doctor:** Hello Mr. Smith, how are you feeling today?
+
+**Patient:** I’m struggling, Doctor. My breathing has been getting worse over the last two days.
+
+**Doctor:** I see. How severe would you say the difficulty breathing has been?
+
+**Patient:** It’s been really bad. I can barely catch my breath.
+
+**Doctor:** Okay, let's try to get a clear picture of what's happening. Have you noticed any other symptoms?
+
+**Patient:** Yes, I've been feeling confused at times, and I noticed my lips and fingers turning blue.
+
+**Doctor:** That's concerning. Have you had any changes in your appetite or sleep?
+
+**Patient:** I haven't had much of an appetite, and my sleep has been poor because of the breathing issues.
+
+**Doctor:** I understand. Let’s go through your history a bit. You have Chronic Obstructive Pulmonary Disease, correct?
+
+**Patient:** Yes, that's right. I’ve had it for years.
+
+**Doctor:** And you've had recurrent pneumonia in the past?
+
+**Patient:** Yes, pneumonia keeps coming back.
+
+**Doctor:** Do you have any other medical conditions?
+
+**Patient:** I have hypertension too.
+
+**Doctor:** Alright, and how about your family history?
+
+**Patient:** My father also had COPD, and my mother had asthma.
+
+**Doctor:** Thank you for sharing that. Now, can you tell me about your smoking and alcohol habits?
+
+**Patient:** I've been a heavy smoker for many years, around 20 pack-years. I drink occasionally but no drugs.
+
+**Doctor:** Got it. And what about your living situation?
+
+**Patient:** I’m retired and live in an urban area with high pollution.
+
+**Doctor:** I see. What medications are you currently taking?
+
+**Patient:** I use an Albuterol inhaler and Tiotropium.
+
+**Doctor:** Any allergies?
+
+**Patient:** Yes, I'm allergic to Penicillin.
+
+**Doctor:** Thanks for that information. Now, I’ll perform a quick physical exam. Let me know if you feel uncomfortable at any point.
+
+**Patient:** Okay.
+
+**Doctor:** You seem cooperative but a bit confused, and your skin looks cyanotic. I can hear bilateral coarse crackles in your lungs, and you’re using a lot of accessory muscles to breathe. Your cardiovascular system seems stable, no murmurs or additional sounds.
+
+**Patient:** *nods*
+
+**Doctor:** Your vital signs are as follows: Your blood pressure is 145/90 mmHg, your heart rate is 110 beats per minute, and your respiratory rate is 30 breaths per minute. Your oxygen saturation is currently maintained by the mechanical ventilation.
+
+**Patient:** *nods weakly*
+
+**Doctor:** We’ve ordered an Arterial Blood Gas test and a Chest X-ray to get a better understanding of your condition. The results are pending.
+
+**Patient:** Alright.
+
+**Doctor:** Based on what we have so far, it looks like you’re experiencing severe respiratory failure, likely due to an acute exacerbation of your COPD, compounded by recurrent pneumonia.
+
+**Patient:** That sounds serious.
+
+**Doctor:** It is, but we’re doing everything we can to manage it. We’ll continue with the mechanical ventilation to support your breathing.
+
+**Patient:** Okay.
+
+**Doctor:** We’re also starting sedation with Propofol, 100 mg, IV, continuous infusion at 5 mcg/kg/min to keep you comfortable and compliant with the mechanical ventilation.
+
+**Patient:** Understood.
+
+**Doctor:** We’ll keep a close eye on your gas exchange and acid-base status with the ABG test and evaluate your lung fields with the Chest X-ray.
+
+**Patient:** Alright.
+
+**Doctor:** We’ll have a respiratory therapist closely monitor your ventilator settings and assess your respiratory status frequently.
+
+**Patient:** Thank you.
+
+**Doctor:** We’ll also keep an eye out for any signs of infection or other complications and ensure you get nutritional support given your poor appetite.
+
+**Patient:** That’s good to hear.
+
+**Doctor:** We need to address the social and environmental factors contributing to your respiratory issues, including your smoking history and high pollution exposure.
+
+**Patient:** I know I need to quit smoking.
+
+**Doctor:** It's crucial for your recovery. We’ll also keep your next of kin informed of your condition and ongoing treatment.
+
+**Patient:** Please do.
+
+**Doctor:** We’ll reassess frequently to monitor for any changes that may need adjustments to your treatment plan.
+
+**Patient:** Okay.
+
+**Doctor:** If your condition allows, we’ll schedule a multidisciplinary team meeting to discuss long-term management and potential disposition plans.
+
+**Patient:** I appreciate that.
+
+**Doctor:** Do you have any questions or concerns right now?
+
+**Patient:** No, I think you covered everything.
+
+**Doctor:** Alright, we’ll continue to monitor you closely. If anything changes or if you have any questions, don't hesitate to let us know.
+
+**Patient:** Thank you, Doctor.
+
+**Doctor:** You're welcome. We'll do our best to get you feeling better soon."|"[doctor]: Hello Mr. Smith, how are you feeling today?
+
+[patient]: I’m struggling, Doctor. My breathing has been getting worse over the last two days.
+
+[doctor]: Hmm, I see. How severe would you say the difficulty breathing has been?
+
+[patient]: It’s been really bad. I can barely catch my breath.
+
+[doctor]: Okay, let's try to get a clear picture of what's happening. Have you noticed any other symptoms?
+
+[patient]: Yes, I've been feeling confused at times, and I noticed my lips and fingers turning blue.
+
+[doctor]: That's concerning. Have you had any changes in your appetite or sleep?
+
+[patient]: I haven't had much of an appetite, and my sleep has been poor because of the breathing issues.
+
+[doctor]: I understand. Let’s go through your history a bit. You have Chronic Obstructive Pulmonary Disease, correct?
+
+[patient]: Yes, that's right. I’ve had it for years.
+
+[doctor]: And you've had recurrent pneumonia in the past?
+
+[patient]: Yes, pneumonia keeps coming back.
+
+[doctor]: Do you have any other medical conditions?
+
+[patient]: I have hypertension too.
+
+[doctor]: Alright, and how about your family history?
+
+[patient]: My father also had COPD, and my mother had asthma.
+
+[doctor]: Thank you for sharing that. Now, can you tell me about your smoking and alcohol habits?
+
+[patient]: I've been a heavy smoker for many years, around 20 pack-years. I drink occasionally but no drugs.
+
+[doctor]: Got it. And what about your living situation?
+
+[patient]: I’m retired and live in an urban area with high pollution.
+
+[doctor]: I see. What medications are you currently taking?
+
+[patient]: I use an Albuterol inhaler and Tiotropium.
+
+[doctor]: Any allergies?
+
+[patient]: Yes, I'm allergic to Penicillin.
+
+[doctor]: Thanks for that information. Now, I’ll perform a quick physical exam. Let me know if you feel uncomfortable at any point.
+
+[patient]: Okay.
+
+[doctor]: You seem cooperative but a bit confused, and your skin looks cyanotic. I can hear bilateral coarse crackles in your lungs, and you’re using a lot of accessory muscles to breathe. Your cardiovascular system seems stable, no murmurs or additional sounds.
+
+[patient]: *nods*
+
+[doctor]: Your vital signs are as follows: Your blood pressure is 145/90 mmHg, your heart rate is 110 beats per minute, and your respiratory rate is 30 breaths per minute. Your oxygen saturation is currently maintained by the mechanical ventilation.
+
+[patient]: *nods weakly*
+
+[doctor]: We’ve ordered an Arterial Blood Gas test and a Chest X-ray to get a better understanding of your condition. The results are pending.
+
+[patient]: Alright.
+
+[doctor]: Based on what we have so far, it looks like you’re experiencing severe respiratory failure, likely due to an acute exacerbation of your COPD, compounded by recurrent pneumonia.
+
+[patient]: That sounds serious.
+
+[doctor]: It is, but we’re doing everything we can to manage it. We’ll continue with the mechanical ventilation to support your breathing.
+
+[patient]: Okay.
+
+[doctor]: We’re also starting sedation with Propofol, 100 mg, IV, continuous infusion at 5 mcg/kg/min to keep you comfortable and compliant with the mechanical ventilation.
+
+[patient]: Understood.
+
+[doctor]: We’ll keep a close eye on your gas exchange and acid-base status with the ABG test and evaluate your lung fields with the Chest X-ray.
+
+[patient]: Alright.
+
+[doctor]: We’ll have a respiratory therapist closely monitor your ventilator settings and assess your respiratory status frequently.
+
+[patient]: Thank you.
+
+[doctor]: We’ll also keep an eye out for any signs of infection or other complications and ensure you get nutritional support given your poor appetite.
+
+[patient]: That’s good to hear.
+
+[doctor]: We need to address the social and environmental factors contributing to your respiratory issues, including your smoking history and high pollution exposure.
+
+[patient]: I know I need to quit smoking.
+
+[doctor]: It's crucial for your recovery. We’ll also keep your next of kin informed of your condition and ongoing treatment.
+
+[patient]: Please do.
+
+[doctor]: We’ll reassess frequently to monitor for any changes that may need adjustments to your treatment plan.
+
+[patient]: Okay.
+
+[doctor]: If your condition allows, we’ll schedule a multidisciplinary team meeting to discuss long-term management and potential disposition plans.
+
+[patient]: I appreciate that.
+
+[doctor]: Do you have any questions or concerns right now?
+
+[patient]: No, I think you covered everything.
+
+[doctor]: Alright, we’ll continue to monitor you closely. If anything changes or if you have any questions, don't hesitate to let us know.
+
+[patient]: Thank you, Doctor.
+
+[doctor]: You're welcome. We'll do our best to get you feeling better soon."
+DEPENDENCE ON RESPIRATOR [VENTILATOR] STATUS|"ROLE: Pulmonologist
+
+**AGE**: 45
+**GENDER**: Male
+**ETHNICITY**: Asian
+**SOCIO-ECONOMIC STATUS**: Upper-middle class
+**EDUCATION LEVEL**: PhD in Computer Science
+**HEALTH LITERACY**: High
+**JOB STATUS**: College Professor
+
+**CLINICAL SETTING**: Pulmonology Clinic within a University Hospital
+**GEOGRAPHICAL LOCATION**: Urban, affluent neighborhood, well-served by transit
+
+**TYPE OF ENCOUNTER**: Follow-up
+
+**PREVIOUS DIAGNOSES**: Severe Chronic Obstructive Pulmonary Disease (COPD), Type 2 Diabetes Mellitus, Hypertension
+
+**SYMPTOM DESCRIPTION**: 
+   - **Severity**: Moderate worsening of respiratory symptoms
+   - **Duration**: 1 month
+   - **Associated Symptoms**: Increased shortness of breath, productive cough with greenish sputum, weight loss
+   - **Frequency**: Persistent symptoms, worsening over the past month
+   - **Impact on Daily Activities**: Reduced ability to perform routine tasks, missing work frequently
+
+**PATIENT'S SELF-REPORTED HABITS AND LIFESTYLE**:
+   - **Sleep**: Poor, requires CPAP machine for sleep apnea
+   - **Diet**: High-calorie diet, struggles with portion control
+   - **Exercise**: Minimal, occasional walking
+   - **Tobacco Use**: 20 years of smoking, quit 5 years ago
+   - **Alcohol Consumption**: Occasionally, moderate user
+   - **Drug Use**: Denies use
+   - **Recreational Activities**: Enjoys hiking but unable to do so due to current symptoms
+
+**PATIENT'S BEHAVIOR**: Cooperative, motivated to improve health
+
+**TREATMENT DISPARITIES**: None observed, receives high-quality care
+
+**NATIVE or NON-NATIVE ENGLISH-SPEAKING PATIENT**: Native English speaker
+
+**PHYSICAL EXAM**:
+   - General: Appears alert, in no acute distress
+   - Respiratory: Bilateral wheezing, decreased breath sounds in lower lobes
+   - Cardiovascular: Regular rate and rhythm, no murmurs
+   - Extremities: No edema or cyanosis
+   - Skin: Normal, no signs of infection
+
+**INVESTIGATION/TEST RESULTS**:
+   - **Recent Chest X-ray**: Hyperinflated lungs, no new infiltrates
+   - **Pulmonary Function Test**: FEV1/FVC ratio 45%, indicating severe obstruction; decreased over the past year
+   - **Blood Work**: HbA1c elevated at 8.2%, indicating poorly controlled diabetes
+
+**MEDICAL OUTCOME**:
+   - **Diagnosis**: Dependence on respirator [ventilator] status (ICD-10 Z99.11)
+   - **Prescribed Treatment**: 
+     - Bronchodilators: Tiotropium 18 mcg inhalation powder, once daily
+     - Steroids: Prednisone 40 mg orally once daily for 5 days
+     - Antibiotics: Azithromycin 500 mg orally once daily for 5 days due to suspected infection from greenish sputum
+     - Diabetes Management: Adjust insulin regimen, consult with endocrinologist
+   - **Follow-up Recommendations**: Return to clinic in 2 weeks for reassessment; consider pulmonary rehabilitation program
+   - **Referral to Specialists**: Endocrinologist Dr. Emily Wong for diabetes management
+
+**PATIENT AGREEMENTS**: Patient understands and agrees with the proposed treatment plan and the necessity for follow-up appointments. He expresses a strong desire to return to his recreational activities and improve his overall health."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Moderate worsening of respiratory symptoms.
+
+**History of Present Illness (HPI):**
+The patient, a 45-year-old Asian male with a known history of severe Chronic Obstructive Pulmonary Disease (COPD), Type 2 Diabetes Mellitus, and Hypertension, presents for a follow-up in the pulmonology clinic. Over the past month, he has experienced a moderate worsening of respiratory symptoms, including increased shortness of breath and a productive cough with greenish sputum. He also reports unintentional weight loss. The symptoms are persistent and have progressively worsened, significantly impacting his ability to perform routine tasks and causing frequent absences from his work as a college professor.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Weight loss.
+- **Respiratory:** Increased shortness of breath, productive cough with greenish sputum.
+- **Cardiovascular:** Denies chest pain, palpitations.
+- **Gastrointestinal:** Denies nausea, vomiting.
+- **Neurological:** Denies dizziness, syncope.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 140/85 mmHg
+- Pulse: 85 bpm
+- Respiratory Rate: 20 breaths per minute
+- SpO2: 90% on room air
+
+**Physical Exam:**
+- **General:** Appears alert, in no acute distress.
+- **Respiratory:** Bilateral wheezing, decreased breath sounds in lower lobes.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Extremities:** No edema or cyanosis.
+- **Skin:** Normal, no signs of infection.
+
+**Investigation/Tests:**
+- **Chest X-ray:** Hyperinflated lungs, no new infiltrates.
+- **Pulmonary Function Test:** FEV1/FVC ratio 45%, indicating severe obstruction; decreased over the past year.
+- **Blood Work:** HbA1c elevated at 8.2%, indicating poorly controlled diabetes.
+
+**3. Assessment:**
+- Severe Chronic Obstructive Pulmonary Disease (COPD) exacerbation with a secondary bacterial infection.
+- Poorly controlled Type 2 Diabetes Mellitus.
+- Hypertension.
+
+**4. Plan:**
+- **Medications:**
+  - **Bronchodilators:** Start Tiotropium 18 mcg inhalation powder, once daily.
+  - **Steroids:** Start Prednisone 40 mg orally once daily for 5 days.
+  - **Antibiotics:** Start Azithromycin 500 mg orally once daily for 5 days due to suspected infection from greenish sputum.
+  - **Diabetes Management:** Adjust insulin regimen, consult with an endocrinologist.
+- **Follow-up Recommendations:**
+  - Return to clinic in 2 weeks for reassessment.
+  - Consider enrolling in a pulmonary rehabilitation program.
+- **Referrals:**
+  - Endocrinologist Dr. Emily Wong for diabetes management.
+  
+**Patient Agreement:**
+The patient understands and agrees with the proposed treatment plan and follow-up appointments. He expresses a strong desire to return to his recreational activities and improve his overall health."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Moderate worsening of respiratory symptoms.
+
+**History of Present Illness (HPI):**
+The patient, Mr. John Lee, a 45-year-old Asian male with a known history of severe Chronic Obstructive Pulmonary Disease (COPD), Type 2 Diabetes Mellitus, and Hypertension, presents for a follow-up in the pulmonology clinic. Over the past month, he has experienced a moderate worsening of respiratory symptoms, including increased shortness of breath and a productive cough with greenish sputum. He also reports unintentional weight loss. The symptoms are persistent and have progressively worsened, significantly impacting his ability to perform routine tasks and causing frequent absences from his work as a college professor.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Weight loss.
+- **Respiratory:** Increased shortness of breath, productive cough with greenish sputum.
+- **Cardiovascular:** Denies chest pain, palpitations.
+- **Gastrointestinal:** Denies nausea, vomiting.
+- **Neurological:** Denies dizziness, syncope.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 140/85 mmHg
+- Pulse: 85 bpm
+- Respiratory Rate: 20 breaths per minute
+- SpO2: 90% on room air
+
+**Physical Exam:**
+- **General:** Appears alert, in no acute distress.
+- **Respiratory:** Bilateral wheezing, decreased breath sounds in lower lobes.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Extremities:** No edema or cyanosis.
+- **Skin:** Normal, no signs of infection.
+
+**Investigation/Tests:**
+- **Chest X-ray:** Hyperinflated lungs, no new infiltrates.
+- **Pulmonary Function Test:** FEV1/FVC ratio 45%, indicating severe obstruction; decreased over the past year.
+- **Blood Work:** HbA1c elevated at 8.2%, indicating poorly controlled diabetes.
+
+**3. Assessment:**
+- Severe Chronic Obstructive Pulmonary Disease (COPD) exacerbation with a secondary bacterial infection.
+- Poorly controlled Type 2 Diabetes Mellitus.
+- Hypertension.
+
+**4. Plan:**
+- **Medications:**
+  - **Bronchodilators:** Start Tiotropium 18 mcg inhalation powder, once daily.
+  - **Steroids:** Start Prednisone 40 mg orally once daily for 5 days.
+  - **Antibiotics:** Start Azithromycin 500 mg orally once daily for 5 days due to suspected infection from greenish sputum.
+  - **Diabetes Management:** Adjust insulin regimen, consult with an endocrinologist.
+- **Follow-up Recommendations:**
+  - Return to clinic in 2 weeks for reassessment.
+  - Consider enrolling in a pulmonary rehabilitation program.
+- **Referrals:**
+  - Endocrinologist Dr. Emily Wong for diabetes management.
+  
+**Patient Agreement:**
+The patient understands and agrees with the proposed treatment plan and follow-up appointments. He expresses a strong desire to return to his recreational activities and improve his overall health."|"#####
+**1. Subjective:**
+
+**CC:**
+Moderate worsening of respiratory symptoms.
+
+**HPI:**
+The patient, Mr. John Lee, a 45-year-old Asian male with a known hx of severe COPD, T2DM, and HTN, presents for a f/u in the pulm clinic. Over the past month, he has experienced a moderate worsening of respiratory symptoms, including increased SOB and a productive cough with greenish sputum. He also reports unintentional weight loss. The symptoms are persistent and have progressively worsened, significantly impacting his ability to perform routine tasks and causing frequent absences from his work as a college professor.
+
+**ROS:**
+- **Constitutional:** Weight loss.
+- **Respiratory:** Increased SOB, productive cough with greenish sputum.
+- **Cardiovascular:** Denies CP, palpitations.
+- **Gastrointestinal:** Denies N/V.
+- **Neurological:** Denies dizziness, syncope.
+
+**2. Objective:**
+
+**Vital Signs:**
+- BP: 140/85 mmHg
+- HR: 85 bpm
+- RR: 20 bpm
+- SpO2: 90% on RA
+
+**Physical Exam:**
+- **General:** Appears alert, in no acute distress.
+- **Respiratory:** Bilateral wheezing, decreased breath sounds in lower lobes.
+- **Cardiovascular:** RRR, no murmurs.
+- **Extremities:** No edema or cyanosis.
+- **Skin:** Normal, no signs of infection.
+
+**Investigation/Tests:**
+- **CXR:** Hyperinflated lungs, no new infiltrates.
+- **PFT:** FEV1/FVC ratio 45%, indicating severe obstruction; decreased over the past year.
+- **Blood Work:** HbA1c elevated at 8.2%, indicating poorly controlled DM.
+
+**3. Assessment:**
+- Severe COPD exacerbation with a secondary bacterial infection.
+- Poorly controlled T2DM.
+- HTN.
+
+**4. Plan:**
+- **Medications:**
+  - **Bronchodilators:** Start Tiotropium 18 mcg INH powder, QD.
+  - **Steroids:** Start Prednisone 40 mg PO QD for 5 days.
+  - **Antibiotics:** Start Azithromycin 500 mg PO QD for 5 days due to suspected infection from greenish sputum.
+  - **Diabetes Management:** Adjust insulin regimen, consult with an endo.
+- **Follow-up Recommendations:**
+  - Return to clinic in 2 weeks for reassessment.
+  - Consider enrolling in a pulm rehab program.
+- **Referrals:**
+  - Endo Dr. Emily Wong for DM management.
+  
+**Patient Agreement:**
+The patient understands and agrees with the proposed tx plan and f/u appointments. He expresses a strong desire to return to his recreational activities and improve his overall health."|Pulmonologist|"**Doctor:** Hi there, how are you today?
+
+**Patient:** Hi, Doctor. I've been better, to be honest.
+
+**Doctor:** I understand. I see you're here for a follow-up. Can you tell me what's been going on?
+
+**Patient:** Sure. Over the past month, I've noticed my breathing has gotten worse. I feel more short of breath and I'm coughing up greenish sputum. It's been really tough to get through my day, especially at work.
+
+**Doctor:** That sounds challenging. Have you noticed any other symptoms?
+
+**Patient:** Yes, I've also lost some weight without trying. It's been a bit worrying.
+
+**Doctor:** I see. Let's go through your symptoms one by one. You mentioned increased shortness of breath. How severe is it compared to before?
+
+**Patient:** It's definitely worse. I get winded just walking across the room.
+
+**Doctor:** And the cough, how often are you experiencing it and how much sputum are you producing?
+
+**Patient:** It's pretty frequent, especially in the mornings. I'm coughing up a lot of greenish phlegm.
+
+**Doctor:** Any chest pain or palpitations?
+
+**Patient:** No, none of that.
+
+**Doctor:** How about nausea or vomiting?
+
+**Patient:** No, I haven't had any issues with that.
+
+**Doctor:** Any dizziness or episodes of fainting?
+
+**Patient:** No, nothing like that.
+
+**Doctor:** Okay, thanks. Let's review your vitals. Your blood pressure is 140/85 mmHg, pulse is 85 bpm, respiratory rate is 20 breaths per minute, and your oxygen saturation is 90% on room air. Have you noticed your oxygen levels dropping before?
+
+**Patient:** Not really, but I do feel more breathless.
+
+**Doctor:** Alright, let's move on to the physical exam. I'll start by listening to your lungs. (Doctor examines the patient's lungs) I hear bilateral wheezing and decreased breath sounds in the lower lobes. Have you experienced this before?
+
+**Patient:** Yes, but it seems worse now.
+
+**Doctor:** And your cardiovascular exam is normal, no murmurs. Your extremities show no signs of edema or cyanosis, and your skin looks normal. No signs of infection there. 
+
+**Patient:** Okay.
+
+**Doctor:** We took a chest X-ray, which shows hyperinflated lungs but no new infiltrates. Your pulmonary function test indicates a severe obstruction with an FEV1/FVC ratio of 45%, which has decreased over the past year. Have you been following your COPD management plan closely?
+
+**Patient:** I thought I was, but maybe not as well as I should be.
+
+**Doctor:** Your blood work shows an elevated HbA1c at 8.2%, indicating poorly controlled diabetes. Have you been keeping up with your diabetes medications and diet?
+
+**Patient:** I've tried, but it's been hard with my breathing problems.
+
+**Doctor:** I understand. Based on all of this, it looks like you're experiencing a severe COPD exacerbation likely due to a bacterial infection, given the greenish sputum. We'll need to address this aggressively. I'll start you on Tiotropium 18 mcg inhalation powder, once daily, and Prednisone 40 mg orally once daily for 5 days to reduce inflammation.
+
+**Patient:** Alright, that sounds reasonable.
+
+**Doctor:** We'll also start you on Azithromycin 500 mg orally once daily for 5 days to tackle the suspected infection. 
+
+**Patient:** Okay.
+
+**Doctor:** For your diabetes, we need to adjust your insulin regimen. I'll refer you to Dr. Emily Wong, an endocrinologist, to help manage this. Is that alright?
+
+**Patient:** Yes, I really need to get my diabetes under control.
+
+**Doctor:** Good. I also recommend enrolling in a pulmonary rehabilitation program. It can significantly improve your lung function and overall health.
+
+**Patient:** I've heard about that. I'm definitely interested.
+
+**Doctor:** Great. Let's schedule a follow-up appointment in 2 weeks to reassess your condition. 
+
+**Patient:** Sounds good.
+
+**Doctor:** Any questions or concerns about the treatment plan?
+
+**Patient:** No, I just hope this helps. I want to get back to my normal activities, especially teaching.
+
+**Doctor:** I understand. Following this plan should help you feel better. Remember to take your medications as prescribed and keep up with your follow-up appointments.
+
+**Patient:** Will do. Thank you, Doctor.
+
+**Doctor:** You're welcome. Take care and we'll see you in 2 weeks.
+
+**Patient:** Thank you. Goodbye.
+
+**Doctor:** Goodbye."|"[doctor]: Hi there, how are you today?
+
+[patient]: Hi, Doctor. I've been better, to be honest.
+
+[doctor]: Hmm, I understand. I see you're here for a follow-up. Can you tell me what's been going on?
+
+[patient]: Sure. Over the past month, I've noticed my breathing has gotten worse. I feel more short of breath and I'm coughing up greenish sputum. It's been really tough to get through my day, especially at work.
+
+[doctor]: That sounds challenging. Have you noticed any other symptoms?
+
+[patient]: Yes, I've also lost some weight without trying. It's been a bit worrying.
+
+[doctor]: I see. Let's go through your symptoms one by one. You mentioned increased shortness of breath. How severe is it compared to before?
+
+[patient]: It's definitely worse. I get winded just walking across the room.
+
+[doctor]: And the cough, how often are you experiencing it and how much sputum are you producing?
+
+[patient]: It's pretty frequent, especially in the mornings. I'm coughing up a lot of greenish phlegm.
+
+[doctor]: Hmm, any chest pain or palpitations?
+
+[patient]: No, none of that.
+
+[doctor]: How about nausea or vomiting?
+
+[patient]: No, I haven't had any issues with that.
+
+[doctor]: Any dizziness or episodes of fainting?
+
+[patient]: No, nothing like that.
+
+[doctor]: Okay, thanks. Let's review your vitals. Your blood pressure is 140/85 mmHg, pulse is 85 bpm, respiratory rate is 20 breaths per minute, and your oxygen saturation is 90% on room air. Have you noticed your oxygen levels dropping before?
+
+[patient]: Not really, but I do feel more breathless.
+
+[doctor]: Alright, let's move on to the physical exam. I'll start by listening to your lungs. (Doctor examines the patient's lungs) I hear bilateral wheezing and decreased breath sounds in the lower lobes. Have you experienced this before?
+
+[patient]: Yes, but it seems worse now.
+
+[doctor]: And your cardiovascular exam is normal, no murmurs. Your extremities show no signs of edema or cyanosis, and your skin looks normal. No signs of infection there.
+
+[patient]: Okay.
+
+[doctor]: We took a chest X-ray, which shows hyperinflated lungs but no new infiltrates. Your pulmonary function test indicates a severe obstruction with an FEV1/FVC ratio of 45%, which has decreased over the past year. Have you been following your COPD management plan closely?
+
+[patient]: I thought I was, but maybe not as well as I should be.
+
+[doctor]: Your blood work shows an elevated HbA1c at 8.2%, indicating poorly controlled diabetes. Have you been keeping up with your diabetes medications and diet?
+
+[patient]: I've tried, but it's been hard with my breathing problems.
+
+[doctor]: I understand. Based on all of this, it looks like you're experiencing a severe COPD exacerbation likely due to a bacterial infection, given the greenish sputum. We'll need to address this aggressively. I'll start you on Tiotropium 18 mcg inhalation powder, once daily, and Prednisone 40 mg orally once daily for 5 days to reduce inflammation.
+
+[patient]: Alright, that sounds reasonable.
+
+[doctor]: We'll also start you on Azithromycin 500 mg orally once daily for 5 days to tackle the suspected infection. 
+
+[patient]: Okay.
+
+[doctor]: For your diabetes, we need to adjust your insulin regimen. I'll refer you to Dr. Emily Wong, an endocrinologist, to help manage this. Is that alright?
+
+[patient]: Yes, I really need to get my diabetes under control.
+
+[doctor]: Good. I also recommend enrolling in a pulmonary rehabilitation program. It can significantly improve your lung function and overall health.
+
+[patient]: I've heard about that. I'm definitely interested.
+
+[doctor]: Great. Let's schedule a follow-up appointment in 2 weeks to reassess your condition. 
+
+[patient]: Sounds good.
+
+[doctor]: Any questions or concerns about the treatment plan?
+
+[patient]: No, I just hope this helps. I want to get back to my normal activities, especially teaching.
+
+[doctor]: I understand. Following this plan should help you feel better. Remember to take your medications as prescribed and keep up with your follow-up appointments.
+
+[patient]: Will do. Thank you, Doctor.
+
+[doctor]: You're welcome. Take care and we'll see you in 2 weeks.
+
+[patient]: Thank you. Goodbye.
+
+[doctor]: Goodbye."
+DEPENDENCE ON RESPIRATOR [VENTILATOR] STATUS|"ROLE: Pulmonologist
+
+**1) Medical Outcome:**
+- Diagnosis: Dependence on respirator [ventilator] status
+- Treatment: Continue mechanical ventilation
+- Referral to specialists: Referral to a Pulmonary Rehabilitation Specialist and a Neurologist for underlying neuromuscular disorder diagnosis
+- Follow-up: Monthly follow-up with primary care provider and weekly with pulmonologist 
+- Order for blood work: Complete Blood Count (CBC) to monitor for infection and Comprehensive Metabolic Panel (CMP) to assess electrolytes and organ function
+- Imaging: MRI of the brain to evaluate for underlying neuromuscular disorders
+
+**2) Medical History:**
+- Previous Diagnoses: Guillain-Barré Syndrome, hypertension
+- Family Medical History: Father had hypertension and mother had type 2 diabetes
+- Medication History: Amlodipine for hypertension, IVIG treatment for Guillain-Barré Syndrome
+- Allergies: Latex
+- Chronic Conditions: Hypertension
+
+**3) Symptom Description:**
+- Severity: Complete reliance on ventilator
+- Duration: 1 month post-acute respiratory failure due to Guillain-Barré Syndrome
+- Associated Symptoms: Muscle weakness, inability to move limbs
+- Frequency: Continuous dependency on the ventilator
+- Impact on Daily Activities: Fully reliant on caregiver for all tasks; cannot walk or perform self-care
+
+**4) Patient’s self-reported habits and lifestyle:**
+- Sleep: Frequently interrupted due to ventilator and care needs
+- Diet: Soft diet through a feeding tube
+- Exercise: Passive range of motion exercises conducted by physical therapist
+- Tobacco Use: Never smoked
+- Alcohol Consumption: None
+- Drug Use: None
+- Recreational Activities: Enjoys listening to audiobooks and family visits, no active participation
+
+**5) Demographic Information:**
+- Age: 34
+- Gender: Female
+- Ethnicity: Asian American
+- Socio-economic Status: Middle-income, on disability benefits
+- Education Level: Bachelor's degree
+- Health Literacy: High
+- Job Status: Currently on medical leave from work as an IT specialist
+
+**6) Patient's Behavior:**
+- Level of cooperation: Highly cooperative but experiences occasional anxiety due to dependence
+
+**7) Geographical Location:**
+- Big City vs Small City: Big City
+- Rural vs Urban: Urban
+- Pollution and Environmental Health Risks: Moderate pollution
+- Neighborhood Type: Affluent neighborhood with good access to healthcare facilities and recreational areas
+
+**8) Clinical Setting:**
+- Rehab Facility with ongoing home care services and telemedicine follow-ups
+
+**9) Type of Encounter:**
+- Chronic Disease Management
+
+**10) Treatment Disparities:**
+- None noted; patient has comprehensive insurance coverage
+
+**11) Native or Non-Native English Speaking Patient:**
+- Non-Native English-speaking; primarily speaks Mandarin but fluent in English
+
+**12) Physical exams:**
+- Neurological: Deep tendon reflexes are absent, generalized muscle atrophy observed 
+- Respiratory: Auscultation shows decreased breath sounds bilaterally
+
+**13) Investigation/Test results:**
+- Complete Blood Count (CBC): Awaiting results
+- Comprehensive Metabolic Panel (CMP): Awaiting results
+- MRI of the brain: Awaiting imaging"|"#####
+
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Dependence on ventilator status.
+
+**History of Present Illness (HPI):**
+Ms. Li is a 34-year-old Asian American female with a past medical history significant for Guillain-Barré Syndrome and hypertension, who presents today for chronic disease management and ventilator dependence. The patient experienced acute respiratory failure secondary to Guillain-Barré Syndrome approximately one month ago, resulting in her complete reliance on mechanical ventilation. She reports muscle weakness and inability to move her limbs. She requires full-time caregiver assistance for all activities of daily living. Sleep is frequently interrupted due to ventilator needs. She is on a soft diet via a feeding tube and participates in passive range of motion exercises with a physical therapist. She has no history of tobacco, alcohol, or drug use. Her current medications include Amlodipine for hypertension and IVIG treatment for Guillain-Barré Syndrome.
+
+**Review of Systems (ROS):**
+
+- **Constitutional:** Denies fever, chills, or weight loss.
+- **Neurological:** Reports muscle weakness and inability to move limbs, denies headaches or seizures.
+- **Respiratory:** Relies on mechanical ventilation, denies cough or sputum production.
+- **Cardiovascular:** No chest pain or palpitations.
+- **Gastrointestinal:** Feeding tube in place, denies nausea or vomiting.
+- **Musculoskeletal:** Generalized muscle atrophy.
+- **Sleep:** Frequently interrupted due to ventilator needs.
+
+**2. Objective:**
+
+**Physical Examination:**
+
+- **General:** Alert, fully cooperative, in no acute distress.
+- **Neurological:** Deep tendon reflexes are absent, generalized muscle atrophy observed.
+- **Respiratory:** Decreased breath sounds bilaterally on auscultation.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, rubs, or gallops.
+- **Gastrointestinal:** Feeding tube in place, abdomen soft and non-tender.
+
+**Data/Results:**
+
+- **Complete Blood Count (CBC):** Awaiting results.
+- **Comprehensive Metabolic Panel (CMP):** Awaiting results.
+- **MRI of the brain:** Awaiting imaging.
+
+**3. Assessment:**
+
+- **Dependence on ventilator status:** Likely secondary to Guillain-Barré Syndrome.
+- **Guillain-Barré Syndrome:** History of acute respiratory failure one month ago.
+- **Hypertension:** Managed with Amlodipine.
+- **Generalized muscle atrophy:** Likely secondary to prolonged immobility due to Guillain-Barré Syndrome.
+
+**4. Plan:**
+
+- **Mechanical Ventilation:** Continue current mechanical ventilation support.
+- **Referrals:** Refer to a Pulmonary Rehabilitation Specialist for ventilatory weaning protocols and a Neurologist for further assessment and management of Guillain-Barré Syndrome and associated neuromuscular disorders.
+- **Follow-Up:** Monthly follow-up with the primary care provider and weekly follow-up with the pulmonologist.
+- **Blood Work:** Order Complete Blood Count (CBC) to monitor for infection and Comprehensive Metabolic Panel (CMP) to assess electrolytes and organ function.
+- **Imaging:** Proceed with MRI of the brain to evaluate for any underlying neuromuscular disorders.
+- **Medication Management:** Continue Amlodipine for hypertension.
+- **Patient Education:** Educate patient and family about the importance of passive range of motion exercises and the potential for long-term rehabilitation.
+- **Support Services:** Arrange ongoing home care services and telemedicine follow-ups to monitor progress and provide support.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan.
+
+**Instructions:**
+The patient will follow up with the primary care provider in one month and with the pulmonologist weekly. Await results of CBC, CMP, and MRI. 
+
+The patient is advised to contact the healthcare team if there are any signs of infection or other concerns."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Dependence on ventilator status.
+
+**History of Present Illness (HPI):**
+Ms. Li is a 34-year-old Asian American female with a past medical history significant for Guillain-Barré Syndrome and hypertension, who presents today for chronic disease management and ventilator dependence. The patient experienced acute respiratory failure secondary to Guillain-Barré Syndrome approximately one month ago, resulting in her complete reliance on mechanical ventilation. She reports muscle weakness and inability to move her limbs. She requires full-time caregiver assistance for all activities of daily living. Sleep is frequently interrupted due to ventilator needs. She is on a soft diet via a feeding tube and participates in passive range of motion exercises with a physical therapist. She has no history of tobacco, alcohol, or drug use. Her current medications include Amlodipine for hypertension and IVIG treatment for Guillain-Barré Syndrome.
+
+**Review of Systems (ROS):**
+
+- **Constitutional:** Denies fever, chills, or weight loss.
+- **Neurological:** Reports muscle weakness and inability to move limbs, denies headaches or seizures.
+- **Respiratory:** Relies on mechanical ventilation, denies cough or sputum production.
+- **Cardiovascular:** No chest pain or palpitations.
+- **Gastrointestinal:** Feeding tube in place, denies nausea or vomiting.
+- **Musculoskeletal:** Generalized muscle atrophy.
+- **Sleep:** Frequently interrupted due to ventilator needs.
+
+**2. Objective:**
+
+**Physical Examination:**
+
+- **General:** Alert, fully cooperative, in no acute distress.
+- **Neurological:** Deep tendon reflexes are absent, generalized muscle atrophy observed.
+- **Respiratory:** Decreased breath sounds bilaterally on auscultation.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, rubs, or gallops.
+- **Gastrointestinal:** Feeding tube in place, abdomen soft and non-tender.
+
+**3. Assessment:**
+
+- **Dependence on ventilator status:** Likely secondary to Guillain-Barré Syndrome.
+- **Guillain-Barré Syndrome:** History of acute respiratory failure one month ago.
+- **Hypertension:** Managed with Amlodipine.
+- **Generalized muscle atrophy:** Likely secondary to prolonged immobility due to Guillain-Barré Syndrome.
+
+**4. Plan:**
+
+- **Mechanical Ventilation:** Continue current mechanical ventilation support.
+- **Referrals:** 
+  - Refer to Dr. John Smith, Pulmonary Rehabilitation Specialist, for ventilatory weaning protocols.
+  - Refer to Dr. Emily Chen, Neurologist, for further assessment and management of Guillain-Barré Syndrome and associated neuromuscular disorders.
+- **Follow-Up:** Monthly follow-up with the primary care provider and weekly follow-up with the pulmonologist.
+- **Blood Work:** Order Complete Blood Count (CBC) to monitor for infection and Comprehensive Metabolic Panel (CMP) to assess electrolytes and organ function.
+- **Imaging:** Proceed with MRI of the brain to evaluate for any underlying neuromuscular disorders.
+- **Medication Management:** Continue Amlodipine for hypertension.
+- **Patient Education:** Educate patient and family about the importance of passive range of motion exercises and the potential for long-term rehabilitation.
+- **Support Services:** Arrange ongoing home care services and telemedicine follow-ups to monitor progress and provide support.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan.
+
+**Instructions:**
+The patient will follow up with the primary care provider in one month and with the pulmonologist weekly. Await results of CBC, CMP, and MRI. 
+
+The patient is advised to contact the healthcare team if there are any signs of infection or other concerns."|"**1. Subjective:**
+
+**CC:**
+Dependence on vent status.
+
+**HPI:**
+Ms. Li is a 34-year-old Asian American F with PMH significant for GBS and HTN, who presents today for chronic disease mgmt and vent dependence. The pt experienced ARF secondary to GBS approx one month ago, resulting in her complete reliance on mech vent. She reports muscle weakness and inability to move her limbs. She requires full-time caregiver assistance for all ADLs. Sleep is frequently interrupted due to vent needs. She is on a soft diet via a feeding tube and participates in PROM exercises with a PT. She has no hx of tobacco, ETOH, or drug use. Her current meds include Amlodipine for HTN and IVIG tx for GBS.
+
+**ROS:**
+
+- **Constitutional:** Denies fever, chills, or weight loss.
+- **Neuro:** Reports muscle weakness and inability to move limbs, denies HA or seizures.
+- **Resp:** Relies on mech vent, denies cough or sputum production.
+- **CV:** No CP or palpitations.
+- **GI:** Feeding tube in place, denies N/V.
+- **MSK:** Generalized muscle atrophy.
+- **Sleep:** Frequently interrupted due to vent needs.
+
+**2. Objective:**
+
+**PE:**
+
+- **General:** Alert, fully cooperative, in no acute distress.
+- **Neuro:** DTRs are absent, generalized muscle atrophy observed.
+- **Resp:** Decreased breath sounds bilaterally on auscultation.
+- **CV:** RRR, no murmurs, rubs, or gallops.
+- **GI:** Feeding tube in place, abdomen soft and non-tender.
+
+**3. Assessment:**
+
+- **Dependence on vent status:** Likely secondary to GBS.
+- **GBS:** Hx of ARF one month ago.
+- **HTN:** Managed with Amlodipine.
+- **Generalized muscle atrophy:** Likely secondary to prolonged immobility due to GBS.
+
+**4. Plan:**
+
+- **Mech Vent:** Continue current mech vent support.
+- **Referrals:** 
+  - Refer to Dr. John Smith, Pulm Rehab Specialist, for vent weaning protocols.
+  - Refer to Dr. Emily Chen, Neuro, for further assessment and mgmt of GBS and associated neuromuscular disorders.
+- **F/U:** Monthly f/u with PCP and weekly f/u with pulm.
+- **Labs:** Order CBC to monitor for infection and CMP to assess electrolytes and organ function.
+- **Imaging:** Proceed with MRI brain to eval for any underlying neuromuscular disorders.
+- **Meds:** Continue Amlodipine for HTN.
+- **Pt Ed:** Educate pt and family about the importance of PROM exercises and the potential for long-term rehab.
+- **Support Services:** Arrange ongoing home care services and telemedicine f/u to monitor progress and provide support.
+
+**Pt Agreements:**
+The pt understands and agrees with the recommended medical tx plan.
+
+**Instructions:**
+The pt will f/u with PCP in one month and with pulm weekly. Await results of CBC, CMP, and MRI. 
+
+The pt is advised to contact the healthcare team if there are any signs of infection or other concerns."|Pulmonologist|"[doctor] Hi Ms. Li, how are you doing today?
+
+[patient] Hello, Doctor. I'm managing, but it's been quite challenging.
+
+[doctor] I understand you’re here for chronic disease management and ventilator dependence. Can you tell me more about your condition?
+
+[patient] Well, I had Guillain-Barré Syndrome about a month ago, which led to acute respiratory failure. Since then, I've been completely reliant on mechanical ventilation.
+
+[doctor] I see. That must be very difficult. Are you experiencing any muscle weakness or difficulty moving your limbs?
+
+[patient] Yes, I can't move my limbs at all, and I feel very weak.
+
+[doctor] I understand. Do you have a full-time caregiver to help with your daily activities?
+
+[patient] Yes, I need full-time assistance for everything.
+
+[doctor] Okay. How are you sleeping at night? Is it interrupted due to the ventilator?
+
+[patient] Yes, my sleep is frequently interrupted because of the ventilator needs.
+
+[doctor] I see. Are you on any special diet?
+
+[patient] I'm on a soft diet through a feeding tube.
+
+[doctor] That makes sense given your condition. Are you participating in any physical therapy?
+
+[patient] Yes, I do passive range of motion exercises with a physical therapist.
+
+[doctor] That’s good to hear. Do you have any history of tobacco, alcohol, or drug use?
+
+[patient] No, I’ve never used tobacco, alcohol, or drugs.
+
+[doctor] Great. Let’s talk about your current medications. You’re taking Amlodipine for hypertension and receiving IVIG treatment for Guillain-Barré Syndrome, correct?
+
+[patient] Yes, that's right.
+
+[doctor] Excellent. Now, let's review your systems. Have you experienced any fever, chills, or weight loss recently?
+
+[patient] No, I haven't had any of those.
+
+[doctor] What about any headaches or seizures?
+
+[patient] No, I haven't had headaches or seizures either.
+
+[doctor] And how about cough or sputum production?
+
+[patient] No, nothing like that.
+
+[doctor] Any chest pain or palpitations?
+
+[patient] No, I haven't had any chest pain or palpitations.
+
+[doctor] Have you had any issues with nausea or vomiting?
+
+[patient] No, thankfully, I haven't had those issues.
+
+[doctor] Okay, good. Have you noticed any changes in muscle tone or strength?
+
+[patient] I do have generalized muscle atrophy.
+
+[doctor] That’s likely due to your prolonged immobility. Let me go over your physical exam results. You appear alert and fully cooperative with no acute distress. Your deep tendon reflexes are absent, and there is generalized muscle atrophy. Your breath sounds are decreased bilaterally, but your heart rate and rhythm are regular with no murmurs, rubs, or gallops. The feeding tube is in place, and your abdomen is soft and non-tender.
+
+[patient] Alright, Doctor.
+
+[doctor] We’re awaiting the results of your Complete Blood Count (CBC) and Comprehensive Metabolic Panel (CMP), and we’ll also proceed with an MRI of your brain to evaluate any underlying neuromuscular disorders.
+
+[patient] Okay, I understand.
+
+[doctor] For now, we’ll continue your current mechanical ventilation support. I’ll refer you to a Pulmonary Rehabilitation Specialist for ventilatory weaning protocols and a Neurologist for further assessment and management of Guillain-Barré Syndrome and associated neuromuscular disorders.
+
+[patient] That sounds good.
+
+[doctor] We’ll also schedule monthly follow-ups with me and weekly follow-ups with the pulmonologist. Additionally, we’ll order a Complete Blood Count (CBC) to monitor for infection and a Comprehensive Metabolic Panel (CMP) to assess electrolytes and organ function.
+
+[patient] Alright.
+
+[doctor] It’s important to continue taking Amlodipine for your hypertension. I’ll also educate you and your family about the importance of passive range of motion exercises and the potential for long-term rehabilitation.
+
+[patient] Yes, I understand.
+
+[doctor] We’ll arrange ongoing home care services and telemedicine follow-ups to monitor your progress and provide support. Do you have any questions or concerns?
+
+[patient] No, I think that covers everything for now.
+
+[doctor] Great. Make sure to follow up with me in one month and with the pulmonologist weekly. We’ll await the results of the CBC, CMP, and MRI. If you notice any signs of infection or have other concerns, please contact the healthcare team immediately.
+
+[patient] I will, Doctor. Thank you.
+
+[doctor] You’re welcome. Take care, Ms. Li. We’re here to support you every step of the way.
+
+[patient] Thank you. Goodbye.
+
+[doctor] Goodbye."|"[doctor] Hi Ms. Li, how are you doing today?
+
+[patient] Hello, Doctor. I'm managing, but it's been quite challenging.
+
+[doctor] I understand you’re here for chronic disease management and ventilator dependence. Can you tell me more about your condition?
+
+[patient] Well, I had Guillain-Barré Syndrome about a month ago, which led to acute respiratory failure. Since then, I've been completely reliant on mechanical ventilation.
+
+[doctor] I see. That must be very difficult. Are you experiencing any muscle weakness or difficulty moving your limbs?
+
+[patient] Yes, I can't move my limbs at all, and I feel very weak.
+
+[doctor] I understand. Do you have a full-time caregiver to help with your daily activities?
+
+[patient] Yes, I need full-time assistance for everything.
+
+[doctor] Okay. How are you sleeping at night? Is it interrupted due to the ventilator?
+
+[patient] Yes, my sleep is frequently interrupted because of the ventilator needs.
+
+[doctor] I see. Are you on any special diet?
+
+[patient] I'm on a soft diet through a feeding tube.
+
+[doctor] That makes sense given your condition. Are you participating in any physical therapy?
+
+[patient] Yes, I do passive range of motion exercises with a physical therapist.
+
+[doctor] That’s good to hear. Do you have any history of tobacco, alcohol, or drug use?
+
+[patient] No, I’ve never used tobacco, alcohol, or drugs.
+
+[doctor] Great. Let’s talk about your current medications. You’re taking Amlodipine for hypertension and receiving IVIG treatment for Guillain-Barré Syndrome, correct?
+
+[patient] Yes, that's right.
+
+[doctor] Excellent. Now, let's review your systems. Have you experienced any fever, chills, or weight loss recently?
+
+[patient] No, I haven't had any of those.
+
+[doctor] What about any headaches or seizures?
+
+[patient] No, I haven't had headaches or seizures either.
+
+[doctor] And how about cough or sputum production?
+
+[patient] No, nothing like that.
+
+[doctor] Any chest pain or palpitations?
+
+[patient] No, I haven't had any chest pain or palpitations.
+
+[doctor] Have you had any issues with nausea or vomiting?
+
+[patient] No, thankfully, I haven't had those issues.
+
+[doctor] Okay, good. Have you noticed any changes in muscle tone or strength?
+
+[patient] I do have generalized muscle atrophy.
+
+[doctor] That’s likely due to your prolonged immobility. Let me go over your physical exam results. You appear alert and fully cooperative with no acute distress. Your deep tendon reflexes are absent, and there is generalized muscle atrophy. Your breath sounds are decreased bilaterally, but your heart rate and rhythm are regular with no murmurs, rubs, or gallops. The feeding tube is in place, and your abdomen is soft and non-tender.
+
+[patient] Alright, Doctor.
+
+[doctor] We’re awaiting the results of your Complete Blood Count (CBC) and Comprehensive Metabolic Panel (CMP), and we’ll also proceed with an MRI of your brain to evaluate any underlying neuromuscular disorders.
+
+[patient] Okay, I understand.
+
+[doctor] For now, we’ll continue your current mechanical ventilation support. I’ll refer you to a Pulmonary Rehabilitation Specialist for ventilatory weaning protocols and a Neurologist for further assessment and management of Guillain-Barré Syndrome and associated neuromuscular disorders.
+
+[patient] That sounds good.
+
+[doctor] We’ll also schedule monthly follow-ups with me and weekly follow-ups with the pulmonologist. Additionally, we’ll order a Complete Blood Count (CBC) to monitor for infection and a Comprehensive Metabolic Panel (CMP) to assess electrolytes and organ function.
+
+[patient] Alright.
+
+[doctor] It’s important to continue taking Amlodipine for your hypertension. I’ll also educate you and your family about the importance of passive range of motion exercises and the potential for long-term rehabilitation.
+
+[patient] Yes, I understand.
+
+[doctor] We’ll arrange ongoing home care services and telemedicine follow-ups to monitor your progress and provide support. Do you have any questions or concerns?
+
+[patient] No, I think that covers everything for now.
+
+[doctor] Great. Make sure to follow up with me in one month and with the pulmonologist weekly. We’ll await the results of the CBC, CMP, and MRI. If you notice any signs of infection or have other concerns, please contact the healthcare team immediately.
+
+[patient] I will, Doctor. Thank you.
+
+[doctor] You’re welcome. Take care, Ms. Li. We’re here to support you every step of the way.
+
+[patient] Thank you. Goodbye.
+
+[doctor] Goodbye."
+DEPENDENCE ON RESPIRATOR [VENTILATOR] STATUS|"ROLE: Pulmonologist
+
+**1) Medical Outcome:**
+   - Diagnosis: Dependence on respirator [ventilator] status (ICD-10 code Z99.11)
+   - Prescribed Treatment: Home mechanical ventilation with portable non-invasive ventilator (pressure support of 20 cmH2O, PEEP 5 cmH2O, FiO2 35%)
+   - Follow-up recommendations: Telemedicine follow-up in 1 week to check adaptation to home ventilation
+   - Referral: Referral to a palliative care specialist for end-of-life care planning (Dr. Amanda Lee)
+   - Blood work: Monthly CBC and CMP to monitor general health and potential complications of long-term ventilation 
+
+**2) Medical History:**
+   - Previous Diagnoses: Amyotrophic Lateral Sclerosis (ALS), Diabetes Mellitus Type 2
+   - Family Medical History: Mother had ALS, father had diabetes
+   - Medication History: Insulin for diabetes, glycopyrrolate for drooling
+   - Allergies: None reported
+   - Chronic Conditions: ALS, Type 2 Diabetes
+
+**3) Symptom Description:**
+   - Severity: Severe, cannot breathe independently for more than a minute
+   - Duration: Ventilator dependence for 1 year
+   - Associated Symptoms: Severe muscle weakness, frequent respiratory infections
+   - Frequency: Persistent need for ventilatory support
+   - Impact on Daily Activities: Completely bed-bound, requires caregiver assistance for all daily activities
+
+**4) Patient’s self-reported habits and lifestyle:**
+   - Sleep: Sleep disturbances due to ventilation discomfort
+   - Diet: High-calorie liquid diet via feeding tube due to difficulty swallowing
+   - Exercise: None, performing passive physiotherapy
+   - Tobacco Use: None
+   - Alcohol Consumption: None
+   - Drug Use: None
+   - Recreational Activities: Enjoys listening to audiobooks and online interactions with friends
+
+**5) Demographic Information:**
+   - Age: 58
+   - Gender: Female
+   - Ethnicity: African American
+   - Socio-economic Status: Low-income
+   - Education Level: Some college
+   - Health Literacy: High understanding of medical terms and conditions
+   - Job Status: Unemployed due to disability, relies on disability benefits
+
+**6) Patient's Behavior:**
+   - Level of Cooperation: Highly cooperative, actively participates in care decisions
+
+**7) Geographical Location:**
+   - Big City vs Small City: Small city
+   - Rural vs Urban: Rural
+   - Pollution and Environmental Health Risks: Low pollution, clean air
+   - Neighborhood Type: Impoverished area with limited access to healthcare facilities
+   - Well-served by Transit: Poor transit system
+   - Food Desert: Yes, limited access to fresh and healthy foods
+
+**8) Clinical Setting:**
+   - Home Healthcare Services
+
+**9) Type of Encounter:**
+   - Preventive Health Screening for potential complications of long-term ventilator use
+
+**10) Treatment Disparities:**
+   - Difficulty accessing advanced medical equipment and specialized care due to socio-economic constraints
+
+**11) Native or Non-Native English Speaking Patient:**
+   - Native English speaking
+
+**12) Physical exams:**
+   - Respiratory: Breath sounds reduced bilaterally, occasional rhonchi
+   - Neurologic: Severe muscle wasting, reduced limb strength, but cognitive functions intact
+
+**13) Investigation/Test results:**
+   - Reviewed: CBC (WBC elevated, likely due to infection), CMP (elevated glucose due to diabetes)
+   - Awaiting: Next monthly CBC and CMP results to monitor health status"|"#####
+**1. Subjective:**
+##### Chief Complaint (CC)
+Dependence on ventilator for respiratory support.
+
+##### History of Present Illness (HPI)
+The patient is a 58-year-old African American female with a known diagnosis of amyotrophic lateral sclerosis (ALS) and type 2 diabetes mellitus, presenting for routine follow-up concerning home mechanical ventilation. The patient has been ventilator-dependent for the past year due to severe respiratory failure secondary to ALS. She is unable to breathe independently for more than one minute. Additionally, the patient reports experiencing severe muscle weakness and frequent respiratory infections.
+
+##### Review of Systems (ROS)
+- Respiratory: Severe dyspnea on minimal exertion, frequent respiratory infections
+- Neurologic: Severe muscle weakness, especially in the extremities; unable to perform daily activities independently
+- General: Sleep disturbances due to ventilator discomfort, completely bed-bound
+- Endocrine: Elevated blood glucose levels, managed with insulin therapy
+
+**2. Objective:**
+- Vital Signs: HR 80 bpm, BP 120/70 mmHg, SpO2 95% on mechanical ventilation with FiO2 35%
+- Respiratory: Breath sounds reduced bilaterally, occasional rhonchi
+- Neurologic: Severe muscle wasting and reduced limb strength, but cognitive functions are intact
+- Laboratory Results: 
+  - CBC: WBC elevated indicating possible infection
+  - CMP: Elevated glucose levels, consistent with diabetes management
+
+**3. Assessment:**
+- Primary diagnosis: Dependence on respirator [ventilator] status (ICD-10 code Z99.11)
+- Secondary conditions: Amyotrophic lateral sclerosis (ALS), Type 2 Diabetes Mellitus
+- Noted complications: Severe muscle weakness, frequent respiratory infections, and elevated WBC indicating infection
+
+**4. Plan:**
+- Prescribed home mechanical ventilation with a portable, non-invasive ventilator set to pressure support of 20 cmH2O, PEEP 5 cmH2O, FiO2 35%.
+- Telemedicine follow-up in one week to ensure adaptation to home ventilation settings.
+- Referral to Dr. Amanda Lee, a palliative care specialist, for end-of-life care planning and support.
+- Monthly monitoring of complete blood count (CBC) and comprehensive metabolic panel (CMP) to monitor general health and potential complications from long-term ventilator use.
+- Encouragement to continue passive physiotherapy to maintain muscle function as much as possible.
+- Dietician consultation to optimize high-calorie liquid diet via feeding tube to prevent further nutritional deficits.
+- Supportive care and emotional support to patient and family, given her high understanding of medical conditions and active involvement in care decisions. 
+
+#####
+
+This synthetic medical note captures the detailed scenario provided and follows the format outlined, focusing on subjective symptoms, objective findings, assessment, and planning for a patient managed by a pulmonologist."|"#####
+**1. Subjective:**
+##### Chief Complaint (CC)
+Dependence on ventilator for respiratory support.
+
+##### History of Present Illness (HPI)
+The patient is a 58-year-old African American female named Patricia Johnson with a known diagnosis of amyotrophic lateral sclerosis (ALS) and type 2 diabetes mellitus, presenting for routine follow-up concerning home mechanical ventilation. The patient has been ventilator-dependent for the past year due to severe respiratory failure secondary to ALS. She is unable to breathe independently for more than one minute. Additionally, the patient reports experiencing severe muscle weakness and frequent respiratory infections.
+
+##### Review of Systems (ROS)
+- Respiratory: Severe dyspnea on minimal exertion, frequent respiratory infections
+- Neurologic: Severe muscle weakness, especially in the extremities; unable to perform daily activities independently
+- General: Sleep disturbances due to ventilator discomfort, completely bed-bound
+- Endocrine: Elevated blood glucose levels, managed with insulin therapy
+
+**2. Objective:**
+- Vital Signs: HR 80 bpm, BP 120/70 mmHg, SpO2 95% on mechanical ventilation with FiO2 35%
+- Respiratory: Breath sounds reduced bilaterally, occasional rhonchi
+- Neurologic: Severe muscle wasting and reduced limb strength, but cognitive functions are intact
+- Laboratory Results: 
+  - CBC: WBC elevated indicating possible infection
+  - CMP: Elevated glucose levels, consistent with diabetes management
+
+**3. Assessment:**
+- Primary diagnosis: Dependence on respirator [ventilator] status (ICD-10 code Z99.11)
+- Secondary conditions: Amyotrophic lateral sclerosis (ALS), Type 2 Diabetes Mellitus
+- Noted complications: Severe muscle weakness, frequent respiratory infections, and elevated WBC indicating infection
+
+**4. Plan:**
+- Prescribed home mechanical ventilation with a portable, non-invasive ventilator set to pressure support of 20 cmH2O, PEEP 5 cmH2O, FiO2 35%.
+- Telemedicine follow-up in one week to ensure adaptation to home ventilation settings.
+- Referral to Dr. Amanda Lee, a palliative care specialist, for end-of-life care planning and support.
+- Monthly monitoring of complete blood count (CBC) and comprehensive metabolic panel (CMP) to monitor general health and potential complications from long-term ventilator use.
+- Encouragement to continue passive physiotherapy to maintain muscle function as much as possible.
+- Dietician consultation to optimize high-calorie liquid diet via feeding tube to prevent further nutritional deficits.
+- Supportive care and emotional support to patient and family, given her high understanding of medical conditions and active involvement in care decisions.
+#####"|"#####
+**1. Subjective:**
+##### CC
+Dependence on vent for resp support.
+
+##### HPI
+The pt is a 58 y/o African American F named Patricia Johnson with a known dx of ALS and T2DM, presenting for routine f/u concerning home mech vent. The pt has been vent-dependent for the past year due to severe resp failure 2° to ALS. She is unable to breathe independently for >1 min. Additionally, the pt reports experiencing severe muscle weakness and frequent resp infections.
+
+##### ROS
+- Resp: Severe dyspnea on minimal exertion, frequent resp infections
+- Neuro: Severe muscle weakness, especially in the extremities; unable to perform ADLs independently
+- General: Sleep disturbances due to vent discomfort, completely bed-bound
+- Endo: Elevated BG levels, managed with insulin therapy
+
+**2. Objective:**
+- Vitals: HR 80 bpm, BP 120/70 mmHg, SpO2 95% on mech vent with FiO2 35%
+- Resp: Breath sounds reduced bilaterally, occasional rhonchi
+- Neuro: Severe muscle wasting and reduced limb strength, but cognitive functions are intact
+- Labs: 
+  - CBC: WBC elevated indicating possible infection
+  - CMP: Elevated glucose levels, consistent with DM management
+
+**3. Assessment:**
+- Primary dx: Dependence on vent status (ICD-10 Z99.11)
+- Secondary conditions: ALS, T2DM
+- Noted complications: Severe muscle weakness, frequent resp infections, and elevated WBC indicating infection
+
+**4. Plan:**
+- Rx home mech vent with a portable, non-invasive vent set to PS 20 cmH2O, PEEP 5 cmH2O, FiO2 35%.
+- Telemed f/u in 1 week to ensure adaptation to home vent settings.
+- Referral to Dr. Amanda Lee, a palliative care specialist, for EOL care planning and support.
+- Monthly monitoring of CBC and CMP to monitor general health and potential complications from long-term vent use.
+- Encouragement to continue passive PT to maintain muscle function as much as possible.
+- Dietician consult to optimize high-cal liquid diet via feeding tube to prevent further nutritional deficits.
+- Supportive care and emotional support to pt and family, given her high understanding of medical conditions and active involvement in care decisions.
+#####"|Pulmonologist|"```markdown
+[doctor] Hello, how are you doing today?
+
+[patient] Hello, doctor. I'm managing, I guess. It's not easy though.
+
+[doctor] I can imagine. Let's start with some updates. How have you been feeling lately?
+
+[patient] Well, it's been tough. I still can't breathe on my own for more than a minute. The ventilator is my lifeline now.
+
+[doctor] I understand. You've been ventilator-dependent for a year now, correct?
+
+[patient] Yes, that's right. Ever since my ALS progressed to the point where my respiratory muscles couldn't work anymore.
+
+[doctor] I see. Have you been experiencing any other symptoms?
+
+[patient] Yes, I'm having severe muscle weakness. I can't do anything by myself, not even the simplest tasks. And I’ve been getting frequent respiratory infections.
+
+[doctor] That sounds quite challenging. Are you still experiencing severe dyspnea with minimal exertion?
+
+[patient] Yes, it's really bad. Even moving slightly makes me short of breath.
+
+[doctor] I'm sorry to hear that. How about your sleep? Are you able to rest well at night?
+
+[patient] Not really. The ventilator is uncomfortable, and it keeps me awake. I don't get much sleep.
+
+[doctor] I see. And how are your blood glucose levels?
+
+[patient] They're high. I'm managing them with insulin, but it's a struggle.
+
+[doctor] Thank you for sharing that. Now, let me take a look at your vitals and do a quick examination. Your heart rate is 80 beats per minute, and your blood pressure is 120/70 mmHg. Your oxygen saturation is 95% on mechanical ventilation with a fraction of inspired oxygen (FiO2) of 35%.
+
+[patient] Okay.
+
+[doctor] Your breath sounds are reduced bilaterally, and I can hear occasional rhonchi. You have severe muscle wasting and significantly reduced limb strength, but your cognitive functions seem to be intact. 
+
+[patient] Yes, my mind is still working fine, but my body isn't.
+
+[doctor] Understood. I reviewed your laboratory results as well. Your complete blood count (CBC) shows elevated white blood cells, which could indicate an infection. Your comprehensive metabolic panel (CMP) shows elevated glucose levels, which is consistent with your diabetes management.
+
+[patient] That sounds about right.
+
+[doctor] Based on all this, we have a few things to address. Your primary diagnosis is dependence on a respirator, which is secondary to amyotrophic lateral sclerosis (ALS) and type 2 diabetes mellitus. The complications include severe muscle weakness, frequent respiratory infections, and elevated white blood cells indicating a possible infection.
+
+[patient] So, what’s the plan?
+
+[doctor] We'll continue with your home mechanical ventilation using a portable, non-invasive ventilator. The settings will be pressure support of 20 cmH2O, positive end-expiratory pressure (PEEP) of 5 cmH2O, and FiO2 of 35%.
+
+[patient] Alright.
+
+[doctor] We'll have a telemedicine follow-up in one week to ensure you're adapting well to these settings. I'll also refer you to Dr. Amanda Lee, a palliative care specialist, for end-of-life care planning and support.
+
+[patient] That sounds good.
+
+[doctor] We'll also monitor your complete blood count (CBC) and comprehensive metabolic panel (CMP) monthly to keep an eye on your overall health and any potential complications from long-term ventilator use.
+
+[patient] Okay, what else?
+
+[doctor] I'd like you to continue with passive physiotherapy to maintain as much muscle function as possible. Additionally, I'll arrange a consultation with a dietician to optimize your high-calorie liquid diet via the feeding tube, to prevent further nutritional deficits.
+
+[patient] That would be helpful.
+
+[doctor] Lastly, I want to ensure you and your family receive the supportive care and emotional support you need. You're very knowledgeable about your medical conditions and actively involved in your care decisions, which is very important.
+
+[patient] Thank you, doctor. I appreciate all your help.
+
+[doctor] You're welcome. We'll take this step by step. Do you have any questions or concerns you’d like to discuss right now?
+
+[patient] No, I think you've covered everything.
+
+[doctor] Alright. We’ll proceed with the plan, and I'll check in with you through our telemedicine follow-up next week.
+
+[patient] Sounds good. Thank you.
+
+[doctor] Take care, and if anything urgent comes up, don't hesitate to reach out.
+
+[patient] I will. Thank you, doctor.
+
+[doctor] Goodbye for now.
+
+[patient] Goodbye.
+
+[doctor] (To self, noting in the chart) Follow-up plan includes home mechanical ventilation with specific settings, telemedicine check-in, referral to palliative care, monthly lab monitoring, passive physiotherapy, dietician consultation, and supportive care. 
+```"|"[doctor]: Hello, how are you doing today?
+
+[patient]: Hello, doctor. I'm managing, I guess. It's not easy though.
+
+[doctor]: Hmm, I can imagine. Let's start with some updates. How have you been feeling lately?
+
+[patient]: Well, it's been tough. I still can't breathe on my own for more than a minute. The ventilator is my lifeline now.
+
+[doctor]: Yes, I understand. You've been ventilator-dependent for a year now, correct?
+
+[patient]: Yep, that's right. Ever since my ALS got worse and my respiratory muscles stopped working.
+
+[doctor]: I see. Have you been experiencing any other symptoms?
+
+[patient]: Yeah, I'm super weak. I can't do anything myself, not even simple stuff. And I keep getting respiratory infections.
+
+[doctor]: That sounds quite challenging. Are you still experiencing severe dyspnea with minimal exertion?
+
+[patient]: Yes, it's really bad. Even moving slightly makes me short of breath.
+
+[doctor]: I'm sorry to hear that. How about your sleep? Are you able to rest well at night?
+
+[patient]: Not really. The ventilator is uncomfortable, and it keeps me awake. I don't get much sleep.
+
+[doctor]: I see. And how are your blood glucose levels?
+
+[patient]: They're high. I'm managing them with insulin, but it's a struggle.
+
+[doctor]: Thank you for sharing that. Now, let me take a look at your vitals and do a quick examination. Your heart rate is 80 beats per minute, and your blood pressure is 120/70 mmHg. Your oxygen saturation is 95% on mechanical ventilation with a fraction of inspired oxygen (FiO2) of 35%.
+
+[patient]: Okay.
+
+[doctor]: Your breath sounds are reduced bilaterally, and I can hear occasional rhonchi. You have severe muscle wasting and significantly reduced limb strength, but your cognitive functions seem to be intact.
+
+[patient]: Yes, my mind is still working fine, but my body isn't.
+
+[doctor]: Understood. I reviewed your laboratory results as well. Your complete blood count (CBC) shows elevated white blood cells, which could indicate an infection. Your comprehensive metabolic panel (CMP) shows elevated glucose levels, which is consistent with your diabetes management.
+
+[patient]: That sounds about right.
+
+[doctor]: Based on all this, we have a few things to address. Your primary diagnosis is dependence on a respirator, which is secondary to amyotrophic lateral sclerosis (ALS) and type 2 diabetes mellitus. The complications include severe muscle weakness, frequent respiratory infections, and elevated white blood cells indicating a possible infection.
+
+[patient]: So, what’s the plan?
+
+[doctor]: We'll continue with your home mechanical ventilation using a portable, non-invasive ventilator. The settings will be pressure support of 20 cmH2O, positive end-expiratory pressure (PEEP) of 5 cmH2O, and FiO2 of 35%.
+
+[patient]: Alright.
+
+[doctor]: We'll have a telemedicine follow-up in one week to ensure you're adapting well to these settings. I'll also refer you to Dr. Amanda Lee, a palliative care specialist, for end-of-life care planning and support.
+
+[patient]: That sounds good.
+
+[doctor]: We'll also monitor your complete blood count (CBC) and comprehensive metabolic panel (CMP) monthly to keep an eye on your overall health and any potential complications from long-term ventilator use.
+
+[patient]: Okay, what else?
+
+[doctor]: I'd like you to continue with passive physiotherapy to maintain as much muscle function as possible. Additionally, I'll arrange a consultation with a dietician to optimize your high-calorie liquid diet via the feeding tube, to prevent further nutritional deficits.
+
+[patient]: That would be helpful.
+
+[doctor]: Lastly, I want to ensure you and your family receive the supportive care and emotional support you need. You're very knowledgeable about your medical conditions and actively involved in your care decisions, which is very important.
+
+[patient]: Thank you, doctor. I appreciate all your help.
+
+[doctor]: You're welcome. We'll take this step by step. Do you have any questions or concerns you’d like to discuss right now?
+
+[patient]: No, I think you've covered everything.
+
+[doctor]: Alright. We’ll proceed with the plan, and I'll check in with you through our telemedicine follow-up next week.
+
+[patient]: Sounds good. Thank you.
+
+[doctor]: Take care, and if anything urgent comes up, don't hesitate to reach out.
+
+[patient]: I will. Thank you, doctor.
+
+[doctor]: Goodbye for now.
+
+[patient]: Goodbye."
+DEPENDENCE ON RESPIRATOR [VENTILATOR] STATUS|"ROLE: Pulmonologist
+
+** Scenario Variables **
+
+**Medical Outcome:**
+- Diagnosis: Dependence on respirator [ventilator] status
+- Treatment: Adjust ventilator settings, initiate physical therapy for respiratory rehabilitation, scheduled follow-up visit
+- Medication: Adjusted dose of Albuterol inhaler, 90 mcg, inhaled, 2 puffs every 4 to 6 hours as needed for shortness of breath
+- Referral: To Dr. Allen, Respiratory Therapist for continued respiratory therapy
+- Imaging: Chest X-ray to monitor lung status
+- Blood Work: Complete Blood Count (CBC) and Arterial Blood Gas (ABG) test
+
+**Medical History:**
+- Previous Diagnoses: Chronic obstructive pulmonary disease (COPD), Pneumonia
+- Family Medical History: Father with history of asthma
+- Medication History: Long-term use of corticosteroids and bronchodilators
+- Allergies: None
+- Chronic Conditions: COPD
+
+**Symptom Description:**
+- Severity: Severe
+- Duration: Dependent for the last 2 months
+- Associated Symptoms: Shortness of breath, fatigue, frequent respiratory infections
+- Frequency: Continuous
+- Impact on Daily Activities: Bed-bound, requiring constant medical support
+
+**Patient’s self-reported habits and lifestyle:**
+- Sleep: Poor, frequently interrupted by shortness of breath
+- Diet: Low calorie intake due to difficulty eating
+- Exercise: Unable to perform any physical activity
+- Tobacco Use: History of smoking for 30 years, quit 5 years ago
+- Alcohol Consumption: Rare, social occasions only
+- Drug Use: NA
+- Recreational Activities: NA
+
+**Demographic Information:**
+- Age: 68
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Retired, limited income
+- Education Level: High school diploma
+- Health Literacy: Basic understanding of condition and treatments
+- Job Status: Retired
+
+**Patient's Behavior:**
+- Cooperation level: Highly cooperative, adheres to medical advice and prescriptions
+
+**Geographical Location:**
+- Urban
+- Pollution and Environmental Health Risks: Moderate air pollution
+- Neighborhood Type: Middle-class residential area, well-served by public transit
+
+**Clinical Setting:**
+- Specialty Clinic
+
+**Type of Encounter:**
+- Follow-up
+
+**Treatment Disparities:**
+- None noted; patient receives appropriate level of care
+
+**Native or Non-Native English Speaking Patient:**
+- Native English speaker
+
+**Physical exams:**
+- Respiratory: Auscultation reveals diminished breath sounds bilaterally, crackles at lung bases
+
+**Investigation/Test results:**
+- Chest X-ray: Awaiting
+- Blood Work: Awaiting results of CBC and ABG"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up for ventilator dependence and respiratory status.
+
+**History of Present Illness (HPI):**
+John Anderson is a 68-year-old Caucasian male with a significant medical history that includes chronic obstructive pulmonary disease (COPD) and previous episodes of pneumonia. The patient has been dependent on a ventilator for the last 2 months. He presents today for a follow-up appointment concerning his continued ventilator dependence and associated respiratory symptoms. 
+
+Mr. Anderson reports severe shortness of breath and fatigue that has persisted over the past two months. He experiences continuous respiratory issues and has frequent respiratory infections. His quality of life has significantly deteriorated, leaving him bed-bound and requiring constant medical support. His sleep is frequently interrupted by episodes of shortness of breath, and he has a low-calorie intake due to difficulty eating. He quit smoking 5 years ago but has a 30-year history of smoking. He is retired with a limited income, and his health literacy is basic.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports severe fatigue, denies fever or weight loss.
+- **Respiratory:** Reports severe shortness of breath, frequent respiratory infections.
+- **Gastrointestinal:** Difficulty eating.
+- **Musculoskeletal:** Bed-bound, unable to perform physical activity.
+- **Psychosocial:** Highly cooperative, adheres to medical advice and prescriptions. 
+
+**2. Objective:**
+
+**Physical Examination:**
+- **Respiratory:** Auscultation reveals diminished breath sounds bilaterally, crackles at lung bases.
+- **Vital Signs:** 
+  - Temperature: 98.6°F
+  - Heart Rate: 92 bpm
+  - Blood Pressure: 130/85 mmHg
+  - Respiratory Rate: 20 breaths per minute
+  - Oxygen Saturation: 88% on 2L O2 via nasal cannula
+
+**Investigation/Test Results:**
+- **Chest X-ray:** Awaiting results.
+- **Blood Work:** Awaiting results of Complete Blood Count (CBC) and Arterial Blood Gas (ABG) test.
+
+**3. Assessment:**
+John Anderson is a 68-year-old male with a history of chronic obstructive pulmonary disease (COPD) and previous pneumonia, currently dependent on ventilator support for the last 2 months.
+
+- **Dependence on respirator [ventilator] status**: Severe ventilator dependence with associated shortness of breath and frequent respiratory infections.
+  - **Medical Reasoning:** The patient's severe COPD and history of pneumonia contribute to his dependence on the ventilator. ICU stay and prolonged ventilator use have likely caused respiratory muscle weakness.
+
+**4. Plan:**
+1. **Adjust Ventilator Settings:**
+   - Modify ventilator settings to optimize respiratory function and reduce dependency.
+ 
+2. **Initiate Physical Therapy:**
+     - Referral to Dr. Allen, Respiratory Therapist, for a structured respiratory rehabilitation program aimed at weaning off the ventilator.
+
+3. **Medication Adjustment:**
+     - Adjust the dose of Albuterol inhaler to 90 mcg, inhaled, 2 puffs every 4 to 6 hours as needed for shortness of breath.
+
+4. **Follow-Up Testing:**
+   - **Chest X-ray:** Monitor lung status.
+   - **Blood Work:** Complete Blood Count (CBC) and Arterial Blood Gas (ABG) test to monitor respiratory function and potential infections.
+
+5. **Scheduled Follow-Up Visit:**
+     - Schedule a follow-up visit in 2 weeks to assess progress and adjust treatment as needed.
+
+**Patient Education and Counseling:**
+- Instructed the patient on the importance of adhering to respiratory therapy sessions and medication regimen.
+- Discussed potential complications of long-term ventilator use and the importance of gradual weaning.
+- Encouraged the patient to follow a balanced diet to maintain nutritional status.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended medical treatment plan.
+
+#####
+"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up for ventilator dependence and respiratory status.
+
+**History of Present Illness (HPI):**
+John Anderson is a 68-year-old Caucasian male with a significant medical history that includes chronic obstructive pulmonary disease (COPD) and previous episodes of pneumonia. The patient has been dependent on a ventilator for the last 2 months. He presents today for a follow-up appointment concerning his continued ventilator dependence and associated respiratory symptoms. 
+
+Mr. Anderson reports severe shortness of breath and fatigue that has persisted over the past two months. He experiences continuous respiratory issues and has frequent respiratory infections. His quality of life has significantly deteriorated, leaving him bed-bound and requiring constant medical support. His sleep is frequently interrupted by episodes of shortness of breath, and he has a low-calorie intake due to difficulty eating. He quit smoking 5 years ago but has a 30-year history of smoking. He is retired with a limited income, and his health literacy is basic.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports severe fatigue, denies fever or weight loss.
+- **Respiratory:** Reports severe shortness of breath, frequent respiratory infections.
+- **Gastrointestinal:** Difficulty eating.
+- **Musculoskeletal:** Bed-bound, unable to perform physical activity.
+- **Psychosocial:** Highly cooperative, adheres to medical advice and prescriptions. 
+
+**2. Objective:**
+
+**Physical Examination:**
+- **Respiratory:** Auscultation reveals diminished breath sounds bilaterally, crackles at lung bases.
+- **Vital Signs:** 
+  - Temperature: 98.6°F
+  - Heart Rate: 92 bpm
+  - Blood Pressure: 130/85 mmHg
+  - Respiratory Rate: 20 breaths per minute
+  - Oxygen Saturation: 88% on 2L O2 via nasal cannula
+
+**3. Assessment:**
+John Anderson is a 68-year-old male with a history of chronic obstructive pulmonary disease (COPD) and previous pneumonia, currently dependent on ventilator support for the last 2 months.
+
+- **Dependence on respirator [ventilator] status**: Severe ventilator dependence with associated shortness of breath and frequent respiratory infections.
+  - **Medical Reasoning:** The patient's severe COPD and history of pneumonia contribute to his dependence on the ventilator. ICU stay and prolonged ventilator use have likely caused respiratory muscle weakness.
+
+**4. Plan:**
+1. **Adjust Ventilator Settings:**
+   - Modify ventilator settings to optimize respiratory function and reduce dependency.
+ 
+2. **Initiate Physical Therapy:**
+     - Referral to Dr. Allen, Respiratory Therapist, for a structured respiratory rehabilitation program aimed at weaning off the ventilator.
+
+3. **Medication Adjustment:**
+     - Adjust the dose of Albuterol inhaler to 90 mcg, inhaled, 2 puffs every 4 to 6 hours as needed for shortness of breath.
+
+4. **Follow-Up Testing:**
+   - **Chest X-ray:** Monitor lung status.
+   - **Blood Work:** Complete Blood Count (CBC) and Arterial Blood Gas (ABG) test to monitor respiratory function and potential infections.
+
+5. **Scheduled Follow-Up Visit:**
+     - Schedule a follow-up visit in 2 weeks to assess progress and adjust treatment as needed.
+
+**Patient Education and Counseling:**
+- Instructed the patient on the importance of adhering to respiratory therapy sessions and medication regimen.
+- Discussed potential complications of long-term ventilator use and the importance of gradual weaning.
+- Encouraged the patient to follow a balanced diet to maintain nutritional status.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended medical treatment plan."|"**1. Subjective:**
+
+**CC:**
+F/U for vent dependence and resp status.
+
+**HPI:**
+John Anderson is a 68 y/o Caucasian M with a PMH of COPD and prior PNA. Pt has been vent-dependent for the past 2 mos. He presents today for F/U concerning his continued vent dependence and associated resp sx.
+
+Mr. Anderson reports severe SOB and fatigue persisting over the past 2 mos. He experiences continuous resp issues and frequent resp infections. His QOL has significantly deteriorated, leaving him bed-bound and requiring constant medical support. His sleep is frequently interrupted by episodes of SOB, and he has a low-calorie intake due to difficulty eating. He quit smoking 5 yrs ago but has a 30-yr hx of smoking. He is retired with a limited income, and his health literacy is basic.
+
+**ROS:**
+- **Constitutional:** Reports severe fatigue, denies fever or wt loss.
+- **Respiratory:** Reports severe SOB, frequent resp infections.
+- **GI:** Difficulty eating.
+- **MSK:** Bed-bound, unable to perform physical activity.
+- **Psychosocial:** Highly cooperative, adheres to medical advice and Rx.
+
+**2. Objective:**
+
+**PE:**
+- **Resp:** Auscultation reveals diminished breath sounds bilaterally, crackles at lung bases.
+- **VS:** 
+  - Temp: 98.6°F
+  - HR: 92 bpm
+  - BP: 130/85 mmHg
+  - RR: 20 bpm
+  - SpO2: 88% on 2L O2 via NC
+
+**3. Assessment:**
+John Anderson is a 68 y/o M with a hx of COPD and prior PNA, currently vent-dependent for the past 2 mos.
+
+- **Dependence on vent status:** Severe vent dependence with associated SOB and frequent resp infections.
+  - **Medical Reasoning:** The pt's severe COPD and hx of PNA contribute to his vent dependence. ICU stay and prolonged vent use have likely caused resp muscle weakness.
+
+**4. Plan:**
+1. **Adjust Vent Settings:**
+   - Modify vent settings to optimize resp function and reduce dependency.
+ 
+2. **Initiate PT:**
+     - Referral to Dr. Allen, RT, for a structured resp rehab program aimed at weaning off the vent.
+
+3. **Med Adjustment:**
+     - Adjust the dose of Albuterol inhaler to 90 mcg, inhaled, 2 puffs q4-6h PRN for SOB.
+
+4. **F/U Testing:**
+   - **CXR:** Monitor lung status.
+   - **Labs:** CBC and ABG to monitor resp function and potential infections.
+
+5. **Scheduled F/U Visit:**
+     - Schedule a F/U visit in 2 wks to assess progress and adjust tx as needed.
+
+**Pt Education and Counseling:**
+- Instructed the pt on the importance of adhering to resp therapy sessions and med regimen.
+- Discussed potential complications of long-term vent use and the importance of gradual weaning.
+- Encouraged the pt to follow a balanced diet to maintain nutritional status.
+
+**Pt Agreements:**
+- The pt understands and agrees with the recommended med tx plan."|Pulmonologist|"```markdown
+[doctor] Good morning, John. How are you feeling today?
+[patient] Good morning, doctor. I'm really tired and struggling to breathe. It's been tough.
+[doctor] I'm sorry to hear that. Let’s go over what’s been happening. I see you've been dependent on a ventilator for the last 2 months. Can you tell me more about your symptoms?
+[patient] Yes, it's been about two months now. I'm always short of breath and extremely fatigued. I can't do anything on my own anymore.
+[doctor] That sounds very challenging. How often are you experiencing these respiratory issues?
+[patient] It's constant. I also get frequent respiratory infections.
+[doctor] I see. Has this affected your sleep?
+[patient] Yes, I wake up several times at night because I can't breathe.
+[doctor] And how has your eating been?
+[patient] Not good. I have trouble eating and my calorie intake is really low.
+[doctor] Okay. You mentioned you quit smoking five years ago. Can you tell me about your smoking history before that?
+[patient] I smoked for about 30 years before I finally quit.
+[doctor] That must have been tough to quit, but it's good that you did. How are you managing with your day-to-day activities?
+[patient] I’m bed-bound now. I can’t do much at all without help.
+[doctor] Alright, let's talk about your overall health. Are you experiencing any fever or weight loss?
+[patient] No fever, but I haven't lost any weight either.
+[doctor] Okay. Besides the shortness of breath, do you feel any other respiratory symptoms?
+[patient] Just the usual – difficulty breathing, and the infections.
+[doctor] Alright, let’s move on to your physical activity. Are you able to do any physical activity at all?
+[patient] No, not really. I can't perform any physical tasks.
+[doctor] I see. How has your mood been overall?
+[patient] I’m trying to stay positive and follow all the medical advice and prescriptions.
+[doctor] That’s good to hear. You’re doing a great job staying cooperative and adhering to your treatments.
+
+[doctor] Let's check your vitals and do a physical exam. Your temperature is 98.6°F, heart rate is 92 bpm, blood pressure is 130/85 mmHg, respiratory rate is 20 breaths per minute, and your oxygen saturation is 88% on 2L O2 via nasal cannula. I’ll also listen to your lungs.
+[patient] Okay.
+[doctor] Alright, I hear diminished breath sounds bilaterally and some crackles at the lung bases. We’re still waiting on the chest X-ray and blood work results, but we can discuss the plan moving forward.
+
+[doctor] Given your severe COPD and history of pneumonia, we need to address your ventilator dependence. We’ll start by adjusting your ventilator settings to optimize your respiratory function. I’ll also refer you to Dr. Allen, a respiratory therapist, for a structured respiratory rehabilitation program.
+[patient] That sounds good. What else can we do?
+[doctor] We’ll adjust your medication as well. I’ll increase the dose of your Albuterol inhaler to 90 mcg, inhaled, 2 puffs every 4 to 6 hours as needed for shortness of breath. We’ll also monitor your lung status with a chest X-ray and keep an eye on your blood work, including the Complete Blood Count (CBC) and Arterial Blood Gas (ABG) tests.
+[patient] Okay, I understand. When should I come back?
+[doctor] We’ll schedule a follow-up visit in 2 weeks to see how you’re progressing and make any necessary adjustments to your treatment. It’s important that you adhere to your respiratory therapy sessions and medication regimen.
+[patient] I will. What about my diet?
+[doctor] Maintaining good nutrition is essential. Try to follow a balanced diet to keep your energy levels up. We’ll discuss this further with your respiratory therapist as well.
+[patient] Alright, I’ll do my best.
+[doctor] Excellent. We’ll also talk about the potential complications of long-term ventilator use and the importance of gradually weaning off it. Do you have any questions for me?
+[patient] No, I think I understand everything. Thank you, doctor.
+[doctor] You’re welcome, John. We’re here to help you get better. Take care and see you in two weeks.
+[patient] Thanks, doctor. See you then.
+```"|"[doctor] Good morning, John. How are you feeling today?
+
+[patient] Good morning, doctor. I'm really tired and struggling to breathe. It's been tough.
+
+[doctor] I'm sorry to hear that. Let’s go over what’s been happening. I see you've been dependent on a ventilator for the last 2 months. Can you tell me more about your symptoms?
+
+[patient] Yes, it's been about two months now. I'm always short of breath and extremely fatigued. I can't do anything on my own anymore.
+
+[doctor] That sounds very challenging. How often are you experiencing these respiratory issues?
+
+[patient] It's constant. I also get frequent respiratory infections.
+
+[doctor] I see. Has this affected your sleep?
+
+[patient] Yes, I wake up several times at night because I can't breathe.
+
+[doctor] And how has your eating been?
+
+[patient] Not good. I have trouble eating and my calorie intake is really low.
+
+[doctor] Okay. You mentioned you quit smoking five years ago. Can you tell me about your smoking history before that?
+
+[patient] I smoked for about 30 years before I finally quit.
+
+[doctor] That must have been tough to quit, but it's good that you did. How are you managing with your day-to-day activities?
+
+[patient] I’m bed-bound now. I can’t do much at all without help.
+
+[doctor] Alright, let's talk about your overall health. Are you experiencing any fever or weight loss?
+
+[patient] No fever, but I haven't lost any weight either.
+
+[doctor] Okay. Besides the shortness of breath, do you feel any other respiratory symptoms?
+
+[patient] Just the usual – difficulty breathing, and the infections.
+
+[doctor] Alright, let’s move on to your physical activity. Are you able to do any physical activity at all?
+
+[patient] No, not really. I can't perform any physical tasks.
+
+[doctor] I see. How has your mood been overall?
+
+[patient] I’m trying to stay positive and follow all the medical advice and prescriptions.
+
+[doctor] That’s good to hear. You’re doing a great job staying cooperative and adhering to your treatments.
+
+[doctor] Let's check your vitals and do a physical exam. Your temperature is 98.6°F, heart rate is 92 bpm, blood pressure is 130/85 mmHg, respiratory rate is 20 breaths per minute, and your oxygen saturation is 88% on 2L O2 via nasal cannula. I’ll also listen to your lungs.
+
+[patient] Okay.
+
+[doctor] Alright, I hear diminished breath sounds bilaterally and some crackles at the lung bases. We’re still waiting on the chest X-ray and blood work results, but we can discuss the plan moving forward.
+
+[doctor] Given your severe COPD and history of pneumonia, we need to address your ventilator dependence. We’ll start by adjusting your ventilator settings to optimize your respiratory function. I’ll also refer you to Dr. Allen, a respiratory therapist, for a structured respiratory rehabilitation program.
+
+[patient] That sounds good. What else can we do?
+
+[doctor] We’ll adjust your medication as well. I’ll increase the dose of your Albuterol inhaler to 90 mcg, inhaled, 2 puffs every 4 to 6 hours as needed for shortness of breath. We’ll also monitor your lung status with a chest X-ray and keep an eye on your blood work, including the Complete Blood Count (CBC) and Arterial Blood Gas (ABG) tests.
+
+[patient] Okay, I understand. When should I come back?
+
+[doctor] We’ll schedule a follow-up visit in 2 weeks to see how you’re progressing and make any necessary adjustments to your treatment. It’s important that you adhere to your respiratory therapy sessions and medication regimen.
+
+[patient] I will. What about my diet?
+
+[doctor] Maintaining good nutrition is essential. Try to follow a balanced diet to keep your energy levels up. We’ll discuss this further with your respiratory therapist as well.
+
+[patient] Alright, I’ll do my best.
+
+[doctor] Excellent. We’ll also talk about the potential complications of long-term ventilator use and the importance of gradually weaning off it. Do you have any questions for me?
+
+[patient] No, I think I understand everything. Thank you, doctor.
+
+[doctor] You’re welcome, John. We’re here to help you get better. Take care and see you in two weeks.
+
+[patient] Thanks, doctor. See you then."
+DEPENDENCE ON RESPIRATOR [VENTILATOR] STATUS|"ROLE: Pulmonologist
+
+**AGE**: 78
+**GENDER**: Male
+**ETHNICITY**: Caucasian
+**SOCIO-ECONOMIC STATUS**: Middle class
+**EDUCATION LEVEL**: High school equivalent
+**HEALTH LITERACY**: Moderate
+**JOB STATUS**: Retired factory worker
+
+**CLINICAL SETTING**: ICU in a Urban Hospital
+**GEOGRAPHICAL LOCATION**: Urban, well-served by transit
+
+**TYPE OF ENCOUNTER**: Ongoing ICU management
+
+**PREVIOUS DIAGNOSES**: Chronic Obstructive Pulmonary Disease (COPD), Congestive Heart Failure (CHF), Hypertension
+
+**SYMPTOM DESCRIPTION**: 
+   - **Severity**: Severe respiratory distress
+   - **Duration**: 3 days, worsening
+   - **Associated Symptoms**: Persistent cough, wheezing, cyanosis, dyspnea
+   - **Impact on Daily Activities**: Unable to perform any activities, bedridden
+
+**PATIENT'S SELF-REPORTED HABITS AND LIFESTYLE**:
+   - **Sleep**: Poor, requires sedatives for rest
+   - **Diet**: Low appetite
+   - **Exercise**: None, due to severe illness
+   - **Tobacco Use**: 40 pack-year history, quit 10 years ago
+   - **Alcohol Consumption**: Social drinker, no regular use
+   - **Drug Use**: Denies use
+   - **Recreational Activities**: N/A due to health condition
+
+**PATIENT'S BEHAVIOR**: Cooperative but anxious
+
+**TREATMENT DISPARITIES**: NA
+
+**NATIVE or NON-NATIVE ENGLISH-SPEAKING PATIENT**: Native English speaker
+
+**PHYSICAL EXAM**:
+   - General: Patient appears in acute distress, using accessory muscles to breathe
+   - Respiratory: Bilateral wheezing, diminished breath sounds in lower lobes
+   - Cardiovascular: Tachycardia, normal heart sounds
+   - Neurological: Alert, though intermittent confusion noted
+
+**INVESTIGATION/TEST RESULTS**:
+   - **Recent Chest X-ray**: Showing bilateral infiltrates, consistent with acute respiratory distress syndrome (ARDS)
+   - **ABG**: Severe hypoxemia with respiratory acidosis; pH 7.29, pCO2 65 mmHg, pO2 55 mmHg, HCO3 24 mEq/L
+   - **Blood Work**: Elevated white cell count indicating possible infection: WBC 15,000/mm³
+
+**MEDICAL OUTCOME**:
+   - **Diagnosis**: Dependence on respirator [ventilator] status (ICD-10 Z99.11)
+   - **Prescribed Treatment**: 
+     - **Mechanical Ventilation**: Continuing current ventilator support, FiO2 at 60%, PEEP at 10 cmH2O
+     - **Medication**: 
+       - Sedation: Midazolam infusion 5 mg/hr IV
+       - Antibiotics: Vancomycin 1 g IV every 12 hours for empirical coverage pending culture results.
+       - Diuretics: Furosemide 40 mg IV once daily to manage fluid overload due to CHF.
+   - **Follow-up Recommendations**: Daily ABGs, monitoring ventilator parameters, and pending culture results.
+   - **Referral to Specialists**: Infectious Disease Specialist Dr. Karen Smith for suspected infection.
+ 
+**PATIENT AGREEMENTS**: The patient and family understand the necessity of ongoing ventilator support and have agreed to the planned course of treatment."|Rejected|Rejected|Rejected|Rejected||
+DEPENDENCE ON RESPIRATOR [VENTILATOR] STATUS|"ROLE: Pulmonologist
+
+**AGE**: 55
+**GENDER**: Female
+**ETHNICITY**: Hispanic
+**SOCIO-ECONOMIC STATUS**: Lower middle class
+**EDUCATION LEVEL**: College graduate
+**HEALTH LITERACY**: High
+**JOB STATUS**: Schoolteacher
+
+**CLINICAL SETTING**: Emergency Department in a Rural Hospital
+**GEOGRAPHICAL LOCATION**: Rural, limited access to specialized healthcare services
+
+**TYPE OF ENCOUNTER**: Emergency Visit
+
+**PREVIOUS DIAGNOSES**: Asthma, Obstructive Sleep Apnea (OSA)
+
+**SYMPTOM DESCRIPTION**: 
+   - **Severity**: Severe respiratory distress
+   - **Duration**: 1 day, sudden onset
+   - **Associated Symptoms**: Severe wheezing, chest tightness, cyanosis of lips and fingers, persistent cough
+   - **Impact on Daily Activities**: Requires assistance for basic activities
+
+**PATIENT'S SELF-REPORTED HABITS AND LIFESTYLE**:
+   - **Sleep**: Poor, disturbed due to breathing issues
+   - **Diet**: Balanced diet
+   - **Exercise**: Regular low-impact exercise, mostly walking
+   - **Tobacco Use**: Never
+   - **Alcohol Consumption**: Occasionally, 1-2 drinks per week
+   - **Drug Use**: None
+   - **Recreational Activities**: Enjoys reading and gardening
+
+**PATIENT'S BEHAVIOR**: Highly cooperative, anxious about symptoms
+
+**TREATMENT DISPARITIES**: Limited availability of specialized pulmonology care in the rural setting
+
+**NATIVE or NON-NATIVE ENGLISH-SPEAKING PATIENT**: Non-Native English speaker, fluent but has occasional difficulties with complex medical terminology
+
+**PHYSICAL EXAM**:
+   - General: Acute distress, appears anxious and unable to complete full sentences
+   - Respiratory: Diffuse bilateral wheezing, prolonged expiratory phase, accessory muscle use
+   - Cardiovascular: Tachycardia, no murmurs or gallops
+   - Skin: Cyanosis of lips and fingers
+   - Neurological: Alert but anxious and disoriented at times
+
+**INVESTIGATION/TEST RESULTS**:
+   - **Recent Chest X-ray**: No infiltrates, hyperinflated lungs typical of asthma exacerbation
+   - **ABG**: Severe hypoxemia; pH 7.33, pCO2 48 mmHg, pO2 58 mmHg, HCO3 23 mEq/L
+   - **Blood Work**: Normal white cell count, eosinophilia observed: WBC 9,000/mm³, Eosinophils 15%
+
+**MEDICAL OUTCOME**:
+   - **Diagnosis**: Dependence on respirator [ventilator] status (ICD-10 Z99.11)
+   - **Prescribed Treatment**: 
+     - **Mechanical Ventilation**: Initiation of ventilator support, FiO2 at 50%, PEEP at 5 cmH2O
+     - **Medication**:
+       - Bronchodilators: Albuterol sulfate 2.5 mg via nebulizer every 4 hours
+       - Steroids: Methylprednisolone 125 mg IV every 6 hours
+       - Antibiotics: Not prescribed due to lack of evidence of infection
+   - **Follow-up Recommendations**: Transfer to a specialized pulmonary facility if patient's condition stabilizes
+   - **Referral to Specialists**: Pulmonologist Dr. Juan Martínez for ongoing asthma management post-ICU discharge
+
+**PATIENT AGREEMENTS**: The patient and family understand the necessity of ventilator support and are in agreement with the proposed treatment plan."|Rejected|Rejected|Rejected|Rejected||
+DEPENDENCE ON RESPIRATOR [VENTILATOR] STATUS|"ROLE: Pulmonologist
+
+**1) Medical Outcome:**
+- Diagnosis: Dependence on respirator [ventilator] status
+- Treatment: Continue mechanical ventilation
+- Referral to specialists: Referral to a Respiratory Therapist for ventilator management and physical therapy for rehabilitation
+- Follow-up: Weekly follow-up for ventilator settings adjustment and progress monitoring
+- Order for blood work: Arterial Blood Gas (ABG) analysis to monitor oxygenation and CO2 levels
+- Imaging: Chest X-ray to monitor lung status
+
+**2) Medical History:**
+- Previous Diagnoses: Chronic obstructive pulmonary disease (COPD), respiratory failure
+- Family Medical History: Father had COPD, no other significant family history
+- Medication History: Albuterol, Prednisone, Atrovent, Azithromycin
+- Allergies: Penicillin
+- Chronic Conditions: COPD, Hypertension
+
+**3) Symptom Description:**
+- Severity: Severe difficulty in breathing without mechanical support
+- Duration: Hospitalized and intubated for 10 days
+- Associated Symptoms: Fatigue, morning headaches
+- Frequency: Continuous dependency on ventilator
+- Impact on Daily Activities: Unable to perform any activities of daily living independently
+
+**4) Patient’s self-reported habits and lifestyle:**
+- Sleep: Poor sleep quality due to mechanical ventilation
+- Diet: Currently on a liquid diet through a feeding tube
+- Exercise: No physical activity, bedridden
+- Tobacco Use: Smoked one pack per day for 40 years, quit 5 years ago
+- Alcohol Consumption: Occasional social drinking
+- Drug Use: Denies illicit drug use
+- Recreational Activities: None currently
+
+**5) Demographic Information:**
+- Age: 68
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Retired, on Medicare
+- Education Level: High school diploma
+- Health Literacy: Basic understanding of medical terms
+- Job Status: Retired factory worker
+
+**6) Patient's Behavior:**
+- Level of cooperation: Cooperative but anxious about long-term dependence on ventilator
+
+**7) Geographical Location:**
+- Big City vs Small City: Small City
+- Rural vs Urban: Urban
+- Pollution and Environmental Health Risks: Moderate pollution
+- Neighborhood Type: Middle-class neighborhood, well-served by public transit, no significant food deserts
+
+**8) Clinical Setting:**
+- Hospitals
+
+**9) Type of Encounter:**
+- Chronic Disease Management
+
+**10) Treatment Disparities:**
+- None noted; patient has adequate insurance coverage
+
+**11) Native or Non-Native English Speaking Patient:**
+- Native English speaking
+
+**12) Physical exams:**
+- NA
+
+**13) Investigation/Test results:**
+- Arterial Blood Gas (ABG): Awaiting results
+- Chest X-ray: Awaiting imaging
+
+"|Rejected|Rejected|Rejected|Rejected||
+DEPENDENCE ON RESPIRATOR [VENTILATOR] STATUS|"ROLE: Pulmonologist
+
+**1) Medical Outcome:**
+- Diagnosis: Dependence on respirator [ventilator] status
+- Treatment: Continue mechanical ventilation
+- Referral to specialists: Referral to a Respiratory Therapist for ventilator management and speech therapist for evaluation of swallowing function
+- Follow-up: Weekly follow-up for ventilator settings adjustment and progress monitoring
+- Order for blood work: Complete Blood Count (CBC) to monitor for infection and electrolyte panel
+- Imaging: Chest X-ray to monitor lung status
+
+**2) Medical History:**
+- Previous Diagnoses: Amyotrophic lateral sclerosis (ALS), pneumonia
+- Family Medical History: No significant family history
+- Medication History: Riluzole for ALS, Azithromycin for recent pneumonia
+- Allergies: No known drug allergies
+- Chronic Conditions: ALS, hypertension
+
+**3) Symptom Description:**
+- Severity: Complete reliance on ventilator
+- Duration: 2 weeks post-acute respiratory failure
+- Associated Symptoms: Muscle weakness, difficulty swallowing
+- Frequency: Continuous dependency on ventilator
+- Impact on Daily Activities: Totally dependent on caregiver for all activities
+
+**4) Patient’s self-reported habits and lifestyle:**
+- Sleep: Fragmented sleep due to ventilation
+- Diet: Feeding via percutaneous endoscopic gastrostomy (PEG) tube
+- Exercise: Physical therapy to maintain muscle function
+- Tobacco Use: Non-smoker
+- Alcohol Consumption: None
+- Drug Use: None
+- Recreational Activities: Enjoys listening to music and family visits but unable to participate actively
+
+**5) Demographic Information:**
+- Age: 52
+- Gender: Female
+- Ethnicity: African American
+- Socio-economic Status: Middle class, on disability benefits
+- Education Level: College graduate
+- Health Literacy: High medical literacy but limited physical capacity to communicate
+- Job Status: Former teacher, now on disability
+
+**6) Patient's Behavior:**
+- Level of cooperation: Highly cooperative and understands medical advice but has communication challenges due to disease progression
+
+**7) Geographical Location:**
+- Big City vs Small City: Big City
+- Rural vs Urban: Urban
+- Pollution and Environmental Health Risks: High pollution, lives near an industrial area
+- Neighborhood Type: Middle-class neighborhood, good access to healthcare facilities, well-served by transit
+
+**8) Clinical Setting:**
+- Hospitals
+
+**9) Type of Encounter:**
+- Follow-up
+
+**10) Treatment Disparities:**
+- None noted; patient has adequate insurance coverage
+
+**11) Native or Non-Native English Speaking Patient:**
+- Native English-speaking
+
+**12) Physical exams:**
+- Muscle strength: Significant muscle atrophy observed
+- Respiratory: Regular lung auscultation to assess any adventitious sounds
+- Neurological: Signs of upper motor neuron disease such as brisk reflexes and spasticity
+
+**13) Investigation/Test results:**
+- Complete Blood Count (CBC): Awaiting results
+- Chest X-ray: Clear with no signs of new infection"|Rejected|Rejected|Rejected|Rejected||
+DEPENDENCE ON RESPIRATOR [VENTILATOR] STATUS|"ROLE: Pulmonologist
+
+**1) Medical Outcome:**
+- Diagnosis: Dependence on respirator [ventilator] status
+- Treatment: Continue mechanical ventilation
+- Referral to specialists: Referral to a Dietitian for nutritional support and a speech therapist for evaluation of swallowing function
+- Follow-up: Bi-weekly follow-up for ventilator settings adjustment and progress monitoring
+- Order for blood work: Arterial Blood Gas (ABG) analysis to monitor oxygenation and CO2 levels
+- Imaging: CT scan of the chest to monitor lung structure and any underlying pathology
+
+**2) Medical History:**
+- Previous Diagnoses: Acute respiratory distress syndrome (ARDS), myocardial infarction in the past, diabetes mellitus type 2
+- Family Medical History: Mother had type 2 diabetes and hypertension
+- Medication History: Metformin, Lisinopril, Insulin, Albuterol
+- Allergies: Sulfa drugs
+- Chronic Conditions: Diabetes mellitus type 2, Hypertension, Chronic heart failure
+
+**3) Symptom Description:**
+- Severity: Critical
+- Duration: 3 weeks since intubation due to ARDS
+- Associated Symptoms: Extreme fatigue, occasional chest pain
+- Frequency: Continuous dependency on ventilator
+- Impact on Daily Activities: Fully reliant on medical staff for all activities
+
+**4) Patient’s self-reported habits and lifestyle:**
+- Sleep: Requires sedation to maintain sleep due to machine discomfort
+- Diet: Enteral feeding via nasogastric tube
+- Exercise: Passive range of motion exercises conducted by physical therapist
+- Tobacco Use: Former smoker (1 pack/day for 20 years, quit 10 years ago)
+- Alcohol Consumption: None
+- Drug Use: None
+- Recreational Activities: Used to enjoy reading and watching movies before hospitalization
+
+**5) Demographic Information:**
+- Age: 76
+- Gender: Male
+- Ethnicity: Hispanic
+- Socio-economic Status: Low-income, dependent on Medicaid
+- Education Level: High school education
+- Health Literacy: Moderate understanding of medical concepts
+- Job Status: Retired janitor
+
+**6) Patient's Behavior:**
+- Level of cooperation: Cooperative but becomes occasionally anxious
+
+**7) Geographical Location:**
+- Big City vs Small City: Small City
+- Rural vs Urban: Rural
+- Pollution and Environmental Health Risks: Low pollution, high pollen levels
+- Neighborhood Type: Impoverished neighborhood, limited access to healthcare and recreational facilities
+
+**8) Clinical Setting:**
+- Home Care with support from visiting nurse service and telemedicine consultations
+
+**9) Type of Encounter:**
+- Chronic Disease Management
+
+**10) Treatment Disparities:**
+- Limited access to advanced healthcare resources due to rural setting and low socio-economic status
+
+**11) Native or Non-Native English Speaking Patient:**
+- Native English-speaking
+
+**12) Physical exams:**
+- NA
+
+**13) Investigation/Test results:**
+- Arterial Blood Gas (ABG): Awaiting results
+- CT scan of the chest: Awaiting imaging
+
+"|Rejected|Rejected|Rejected|Rejected||
+DEPENDENCE ON RESPIRATOR [VENTILATOR] STATUS|"ROLE: Pulmonologist
+
+**1) Medical Outcome:**
+   - Diagnosis: Dependence on respirator [ventilator] status (ICD-10 code Z99.11)
+   - Prescribed Treatment: Continuation of mechanical ventilation support at current settings (PEEP 5 cm H2O, FiO2 40%, tidal volume 500 mL)
+   - Follow-up recommendations: Follow-up in pulmonary clinic in 2 weeks
+   - Referral: Referral to speech therapist for evaluation of swallowing function due to prolonged intubation (Dr. Elizabeth Brown)
+   - Blood work: Arterial Blood Gas (ABG) analysis to monitor ventilation status 
+   - Imaging: Chest X-ray to evaluate lung status
+
+**2) Medical History:**
+   - Previous Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), Acute Respiratory Distress Syndrome (ARDS)
+   - Family Medical History: Father diagnosed with COPD, mother had a history of asthma
+   - Medication History: Regular use of albuterol and tiotropium
+   - Allergies: Penicillin
+   - Chronic Conditions: COPD, Hypertension
+
+**3) Symptom Description:**
+   - Severity: Severe respiratory distress when off the ventilator
+   - Duration: Mechanical ventilation required for the past 3 weeks
+   - Associated Symptoms: Dyspnea, fatigue, inability to speak
+   - Frequency: Continuous need for ventilatory support
+   - Impact on Daily Activities: Complete dependence on ventilator for breathing
+
+**4) Patient’s self-reported habits and lifestyle:**
+   - Sleep: Sleep disrupted due to ventilator alarms
+   - Diet: Currently on a liquid diet via a feeding tube
+   - Exercise: None, bed-bound
+   - Tobacco Use: Smoked 1 pack per day for 20 years, quit 5 years ago
+   - Alcohol Consumption: Social drinker, up to 2 drinks per week
+   - Drug Use: Denied
+   - Recreational Activities: Used to enjoy fishing and gardening, cannot participate currently
+
+**5) Demographic Information:**
+   - Age: 68
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle-class
+   - Education Level: High school diploma
+   - Health Literacy: Moderate understanding of medical terms
+   - Job Status: Retired factory worker
+
+**6) Patient's Behavior:**
+   - Level of Cooperation: Cooperative and follows medical advice
+
+**7) Geographical Location:**
+   - Big City vs Small City: Small city
+   - Rural vs Urban: Urban
+   - Pollution and Environmental Health Risks: Moderate pollution, factory nearby
+   - Neighborhood Type: Middle-class residential area
+   - Well-served by Transit: Yes
+   - Food Desert: No
+
+**8) Clinical Setting:**
+   - Community Health Services
+
+**9) Type of Encounter:**
+   - Chronic Disease Management
+
+**10) Treatment Disparities:**
+   - No treatment disparities noted
+
+**11) Native or Non-Native English Speaking Patient:**
+   - Native English speaking
+
+**12) Physical exams:**
+   - Chest: Bilateral diminished breath sounds, occasional wheezes, no crackles
+   - Cardiovascular: Normal S1, S2, no murmurs
+   - Neurologic: Alert, oriented, but unable to speak due to tracheostomy
+
+**13) Investigation/Test results:**
+   - Awaiting: Arterial Blood Gas (ABG) results for ventilation status
+   - Awaiting: Chest X-ray to evaluate lung status"|Rejected|Rejected|Rejected|Rejected||
+DEPENDENCE ON RESPIRATOR [VENTILATOR] STATUS|"ROLE: Pulmonologist
+
+**1) Medical Outcome:**
+   - Diagnosis: Dependence on respirator [ventilator] status (ICD-10 code Z99.11)
+   - Prescribed Treatment: Weaning protocol initiation
+   - Follow-up recommendations: Follow-up in pulmonary clinic in 1 week to evaluate weaning progress
+   - Referral: Referral to a physiotherapist for respiratory muscle training (Dr. Sarah Johnson)
+   - Blood work: Complete Blood Count (CBC) and Comprehensive Metabolic Panel (CMP) to assess overall health
+   - Imaging: CT scan of the chest to evaluate underlying lung pathology
+
+**2) Medical History:**
+   - Previous Diagnoses: Amyotrophic Lateral Sclerosis (ALS), Hypertension
+   - Family Medical History: No significant history
+   - Medication History: Riluzole for ALS, Lisinopril for hypertension
+   - Allergies: Sulfa drugs
+   - Chronic Conditions: ALS, Hypertension
+
+**3) Symptom Description:**
+   - Severity: Severe, inability to breathe without assistance
+   - Duration: Ventilator dependence for 6 months
+   - Associated Symptoms: Weakness, muscle atrophy, occasional headaches
+   - Frequency: Continuous need for ventilatory support
+   - Impact on Daily Activities: Complete inability to perform daily tasks without assistance
+
+**4) Patient’s self-reported habits and lifestyle:**
+   - Sleep: Fragmented due to ventilator alarms and discomfort
+   - Diet: Soft mechanical diet due to difficulty swallowing
+   - Exercise: Limited to passive range of motion exercises, bed-bound
+   - Tobacco Use: None
+   - Alcohol Consumption: None
+   - Drug Use: None
+   - Recreational Activities: Enjoys listening to music, used to enjoy reading
+
+**5) Demographic Information:**
+   - Age: 45
+   - Gender: Female
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Lower middle-class
+   - Education Level: College graduate
+   - Health Literacy: High understanding of medical terms
+   - Job Status: Former teacher, currently on disability
+
+**6) Patient's Behavior:**
+   - Level of Cooperation: Occasionally non-compliant with therapy and weaning efforts, experiencing anxiety about the process
+
+**7) Geographical Location:**
+   - Big City vs Small City: Big city
+   - Rural vs Urban: Urban
+   - Pollution and Environmental Health Risks: Moderate industrial pollution
+   - Neighborhood Type: Mixed-income neighborhood
+   - Well-served by Transit: Yes
+   - Food Desert: No
+
+**8) Clinical Setting:**
+   - Specialty Clinic
+
+**9) Type of Encounter:**
+   - Initial Weaning Consult
+
+**10) Treatment Disparities:**
+   - Some concerns about access to advanced rehabilitation facilities due to insurance coverage limitations
+
+**11) Native or Non-Native English Speaking Patient:**
+   - Non-Native English speaking, Spanish is the primary language
+
+**12) Physical exams:**
+   - Respiratory: Shallow, assisted breaths, decreased diaphragmatic movement
+   - Neurologic: Generalized muscle weakness, significant atrophy, normal cognitive status
+
+**13) Investigation/Test results:**
+   - Awaiting: Complete Blood Count (CBC) and Comprehensive Metabolic Panel (CMP) results for overall health assessment
+   - Awaiting: CT scan of the chest to evaluate underlying lung pathology"|Rejected|Rejected|Rejected|Rejected||

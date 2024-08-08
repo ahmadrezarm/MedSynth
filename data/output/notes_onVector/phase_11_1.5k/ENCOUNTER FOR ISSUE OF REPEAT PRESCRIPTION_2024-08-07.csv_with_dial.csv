@@ -1,0 +1,2332 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+ENCOUNTER FOR ISSUE OF REPEAT PRESCRIPTION|"**ROLE:** Family Medicine Physician
+
+**Scenario:**
+
+- **Medical Outcome:**
+  - Medication Adjustment: Continue metformin 500 mg, oral, twice daily, indefinite; Lisnopril 10mg, oral, once daily, indefinite.
+  - Follow-up Recommendations: Return in 3 months for routine check-up and HbA1c level recheck.
+
+- **Medical History:**
+  - Previous Diagnoses: Type 2 Diabetes Mellitus (E11.9), Hypertension (I10)
+  - Family Medical History: Father - Type 2 Diabetes, Mother - Hypertension
+  - Medication History: Metformin 500 mg oral, twice daily; Lisinopril 10 mg oral, once daily.
+  - Allergies: None
+  - Chronic Conditions: Type 2 Diabetes, Hypertension
+
+- **Symptom Description:**
+  - Severity: Controlled; No new symptoms reported.
+  - Duration: N/A
+  - Associated Symptoms: N/A
+  - Frequency: N/A
+  - Impact on Daily Activities: None reported
+
+- **Patient’s self-reported habits and lifestyle:**
+  - Sleep: 7-8 hours per night
+  - Diet: Balanced diet with focus on low carbohydrates
+  - Exercise: Regular exercise, 30 minutes of walking five times a week
+  - Tobacco Use: Non-smoker
+  - Alcohol Consumption: Occasional, 1-2 drinks per month
+  - Drug Use: None
+  - Recreational Activities: Gardening and walking with social group
+
+- **Demographic Information:**
+  - Age: 56
+  - Gender: Female
+  - Ethnicity: African-American
+  - Socio-economic Status: Middle class
+  - Education Level: High school diploma
+  - Health Literacy: Adequate
+  - Job Status: Retired
+
+- **Patient's Behavior:**
+  - The patient is cooperative with medical advice and adheres to prescribed medication and lifestyle recommendations.
+
+- **Geographical Location:**
+  - Big City, Urban
+  - Neighborhood Type: Middle-class, well-served by transit
+
+- **Clinical Setting:**
+  - Clinic
+
+- **Type of Encounter:**
+  - Routine Check-up
+
+- **Treatment Disparities:**
+  - None
+
+- **Native or Non-Native English Speaking Patient:**
+  - Native English Speaking Patient
+
+- **Physical exams:**
+  - Blood Pressure: 128/78 mm Hg
+  - Heart Rate: 72 bpm
+  - BMI: 28.4
+
+- **Investigation/Test results:**
+  - HbA1c: 6.7% (performed 3 months ago)
+  - Lipid Panel: LDL 90 mg/dL, HDL 55 mg/dL, Total Cholesterol 180 mg/dL (performed 3 months ago)"|"**1. Subjective:**
+
+- Chief Complaint (CC): Routine check-up
+
+- History of Present Illness (HPI):
+  - The patient is a 56-year-old African-American female with a history of Type 2 Diabetes Mellitus and hypertension. She reports adherence to her medication regimen (Metformin 500 mg twice daily and Lisinopril 10 mg once daily) and follows a balanced diet with regular exercise.
+  - No new symptoms or complications reported.
+
+- Review of Systems (ROS):
+  - Constitutional: Denies fever, weight loss, or fatigue.
+  - Cardiovascular: No chest pain or palpitations.
+  - Respiratory: No shortness of breath or cough.
+  - Gastrointestinal: No nausea, vomiting, or changes in bowel habits.
+  - Musculoskeletal: Denies joint pain or muscle weakness.
+  - Neurological: No headaches or dizziness.
+  - Endocrine: No hypoglycemic episodes noted.
+  - Skin: No rashes or lesions.
+  - Genitourinary: No dysuria or hematuria.
+
+**2. Objective:**
+
+- Vitals:
+  - BP: 128/78 mm Hg
+  - HR: 72 bpm
+  - BMI: 28.4
+
+- Physical Examination:
+  - General: Alert, oriented, and in no acute distress.
+  - Cardiovascular: Heart rate regular, no murmurs or gallops.
+  - Respiratory: Lungs clear to auscultation bilaterally.
+  - Abdomen: Soft, non-tender, no organomegaly.
+  - Extremities: No edema or cyanosis.
+  - Neurological: Grossly intact, no focal deficits.
+
+- Recent Lab Results:
+  - HbA1c: 6.7% (3 months ago)
+  - Lipid Panel (3 months ago):
+    - LDL: 90 mg/dL
+    - HDL: 55 mg/dL
+    - Total Cholesterol: 180 mg/dL
+
+**3. Assessment:**
+
+1. Type 2 Diabetes Mellitus (E11.9) - well-controlled.
+2. Hypertension (I10) - well-controlled.
+
+**4. Plan:**
+
+- Medical Treatment:
+  - Continue Metformin 500 mg, oral, twice daily.
+  - Continue Lisinopril 10 mg, oral, once daily.
+
+- Patient Education and Counseling:
+  - Reinforce the importance of maintaining a balanced diet with a focus on low carbohydrates.
+  - Encourage continuation of regular exercise (30 minutes of walking five times a week).
+  - Discuss the importance of routine monitoring of blood sugar levels and blood pressure.
+
+- Recommendations for Follow-Up:
+  - Return in 3 months for a routine check-up and recheck of HbA1c level.
+  - Schedule annual lipid panel and other necessary routine examinations.
+
+- Patient Agreements:
+  - The patient understands and agrees with the recommended medical treatment plan and follow-up schedule.
+
+**Instructions:**
+- The patient will follow-up in 3 months or sooner if any new symptoms or concerns arise."|"**1. Subjective:**
+
+- Chief Complaint (CC): Routine check-up
+
+- History of Present Illness (HPI):
+  - The patient, Ms. Angela Johnson, is a 56-year-old African-American female with a history of Type 2 Diabetes Mellitus and hypertension. She reports adherence to her medication regimen (Metformin 500 mg twice daily and Lisinopril 10 mg once daily) and follows a balanced diet with regular exercise.
+  - No new symptoms or complications reported.
+
+- Review of Systems (ROS):
+  - Constitutional: Denies fever, weight loss, or fatigue.
+  - Cardiovascular: No chest pain or palpitations.
+  - Respiratory: No shortness of breath or cough.
+  - Gastrointestinal: No nausea, vomiting, or changes in bowel habits.
+  - Musculoskeletal: Denies joint pain or muscle weakness.
+  - Neurological: No headaches or dizziness.
+  - Endocrine: No hypoglycemic episodes noted.
+  - Skin: No rashes or lesions.
+  - Genitourinary: No dysuria or hematuria.
+
+**2. Objective:**
+
+- Vitals:
+  - BP: 128/78 mm Hg
+  - HR: 72 bpm
+  - BMI: 28.4
+
+- Physical Examination:
+  - General: Alert, oriented, and in no acute distress.
+  - Cardiovascular: Heart rate regular, no murmurs or gallops.
+  - Respiratory: Lungs clear to auscultation bilaterally.
+  - Abdomen: Soft, non-tender, no organomegaly.
+  - Extremities: No edema or cyanosis.
+  - Neurological: Grossly intact, no focal deficits.
+
+- Recent Lab Results:
+  - HbA1c: 6.7% (3 months ago)
+  - Lipid Panel (3 months ago):
+    - LDL: 90 mg/dL
+    - HDL: 55 mg/dL
+    - Total Cholesterol: 180 mg/dL
+
+**3. Assessment:**
+
+1. Type 2 Diabetes Mellitus (E11.9) - well-controlled.
+2. Hypertension (I10) - well-controlled.
+
+**4. Plan:**
+
+- Medical Treatment:
+  - Continue Metformin 500 mg, oral, twice daily.
+  - Continue Lisinopril 10 mg, oral, once daily.
+
+- Patient Education and Counseling:
+  - Reinforce the importance of maintaining a balanced diet with a focus on low carbohydrates.
+  - Encourage continuation of regular exercise (30 minutes of walking five times a week).
+  - Discuss the importance of routine monitoring of blood sugar levels and blood pressure.
+
+- Recommendations for Follow-Up:
+  - Return in 3 months for a routine check-up and recheck of HbA1c level.
+  - Schedule annual lipid panel and other necessary routine examinations.
+
+- Patient Agreements:
+  - The patient understands and agrees with the recommended medical treatment plan and follow-up schedule.
+
+**Instructions:**
+- The patient will follow-up in 3 months or sooner if any new symptoms or concerns arise."|"**1. Subjective:**
+
+- CC: Routine check-up
+
+- HPI:
+  - The patient, Ms. Angela Johnson, is a 56-year-old African-American female with a hx of T2DM and HTN. She reports adherence to her med regimen (Metformin 500 mg BID and Lisinopril 10 mg QD) and follows a balanced diet with regular exercise.
+  - No new sx or complications reported.
+
+- ROS:
+  - Constitutional: Denies fever, weight loss, or fatigue.
+  - CV: No CP or palpitations.
+  - Resp: No SOB or cough.
+  - GI: No N/V or changes in bowel habits.
+  - MSK: Denies joint pain or muscle weakness.
+  - Neuro: No HA or dizziness.
+  - Endo: No hypoglycemic episodes noted.
+  - Skin: No rashes or lesions.
+  - GU: No dysuria or hematuria.
+
+**2. Objective:**
+
+- Vitals:
+  - BP: 128/78 mm Hg
+  - HR: 72 bpm
+  - BMI: 28.4
+
+- PE:
+  - General: Alert, oriented, and in no acute distress.
+  - CV: HR regular, no murmurs or gallops.
+  - Resp: Lungs clear to auscultation bilaterally.
+  - Abd: Soft, non-tender, no organomegaly.
+  - Ext: No edema or cyanosis.
+  - Neuro: Grossly intact, no focal deficits.
+
+- Recent Labs:
+  - HbA1c: 6.7% (3 months ago)
+  - Lipid Panel (3 months ago):
+    - LDL: 90 mg/dL
+    - HDL: 55 mg/dL
+    - Total Chol: 180 mg/dL
+
+**3. Assessment:**
+
+1. T2DM (E11.9) - well-controlled.
+2. HTN (I10) - well-controlled.
+
+**4. Plan:**
+
+- Medical Tx:
+  - Continue Metformin 500 mg PO BID.
+  - Continue Lisinopril 10 mg PO QD.
+
+- Pt Education and Counseling:
+  - Reinforce the importance of maintaining a balanced diet with a focus on low carbs.
+  - Encourage continuation of regular exercise (30 min of walking 5x/week).
+  - Discuss the importance of routine monitoring of BG levels and BP.
+
+- Recommendations for F/U:
+  - Return in 3 months for a routine check-up and recheck of HbA1c level.
+  - Schedule annual lipid panel and other necessary routine exams.
+
+- Pt Agreements:
+  - The pt understands and agrees with the recommended medical tx plan and F/U schedule.
+
+**Instructions:**
+- The pt will F/U in 3 months or sooner if any new sx or concerns arise."|Role not found in the first 5 lines.|"[doctor] Good morning, how are you doing today?
+
+[patient] Good morning, Doctor. I'm doing fine, thank you. How are you?
+
+[doctor] I'm doing well, thank you for asking. So, I see you're here for a routine check-up. How have you been feeling lately?
+
+[patient] I've been feeling pretty good. No new issues or complaints.
+
+[doctor] That's great to hear. Let's review your medical history quickly. You have a history of Type 2 Diabetes Mellitus and hypertension, correct?
+
+[patient] Yes, that's right.
+
+[doctor] And you're currently taking Metformin 500 mg twice daily and Lisinopril 10 mg once daily?
+
+[patient] Yes, I take them as prescribed.
+
+[doctor] Excellent. How's your diet and exercise routine going?
+
+[patient] I follow a balanced diet and make sure to get regular exercise. I walk for about 30 minutes five times a week.
+
+[doctor] That’s fantastic. Have you noticed any new symptoms or complications recently?
+
+[patient] No, I haven't. Everything seems to be under control.
+
+[doctor] Alright, let's go through a quick review of systems. Any fever, weight loss, or fatigue?
+
+[patient] No, none of those.
+
+[doctor] Any chest pain or palpitations?
+
+[patient] No, my heart feels fine.
+
+[doctor] How about shortness of breath or cough?
+
+[patient] No, no issues there either.
+
+[doctor] Any nausea, vomiting, or changes in your bowel habits?
+
+[patient] No, everything's been normal.
+
+[doctor] Any joint pain or muscle weakness?
+
+[patient] No, none at all.
+
+[doctor] Any headaches or dizziness?
+
+[patient] No, I haven't had any of those.
+
+[doctor] Have you experienced any hypoglycemic episodes?
+
+[patient] No, my blood sugar levels have been stable.
+
+[doctor] Any rashes or lesions on your skin?
+
+[patient] No, my skin is clear.
+
+[doctor] Any pain or difficulty with urination?
+
+[patient] No, everything's normal in that department too.
+
+[doctor] Excellent. Let's take a look at your vitals now. Your blood pressure is 128/78 mm Hg and your heart rate is 72 bpm, both of which are good. Your BMI is 28.4. 
+
+[patient] That sounds good.
+
+[doctor] Great. Now, let's do a quick physical examination. 
+
+[doctor] You look alert and oriented. Your heart rate is regular, with no murmurs or gallops. Your lungs are clear to auscultation bilaterally. Your abdomen is soft and non-tender with no organomegaly. Your extremities show no edema or cyanosis. Neurologically, everything appears grossly intact with no focal deficits.
+
+[patient] That's good to hear.
+
+[doctor] I see from your recent lab results that your HbA1c was 6.7% three months ago. Your lipid panel also looks good with LDL at 90 mg/dL, HDL at 55 mg/dL, and total cholesterol at 180 mg/dL.
+
+[patient] Yes, I remember those results.
+
+[doctor] So, based on everything we've discussed and your examination results, your Type 2 Diabetes Mellitus and hypertension are both well-controlled. 
+
+[patient] That's a relief to hear.
+
+[doctor] Let's continue with your current medication regimen. Keep taking Metformin 500 mg twice daily and Lisinopril 10 mg once daily.
+
+[patient] Okay, will do.
+
+[doctor] It's important to maintain your balanced diet, focusing on low carbohydrates, and continue with your regular exercise routine.
+
+[patient] I will. 
+
+[doctor] Also, keep monitoring your blood sugar levels and blood pressure regularly.
+
+[patient] Definitely, I already do that.
+
+[doctor] Excellent. Let's schedule your next routine check-up in 3 months. We'll also recheck your HbA1c level then.
+
+[patient] Sounds good.
+
+[doctor] We’ll also schedule your annual lipid panel and any other necessary routine examinations.
+
+[patient] Okay, I’ll make sure to come in for those.
+
+[doctor] Do you have any questions or concerns at this time?
+
+[patient] No, I think we've covered everything.
+
+[doctor] Great. If any new symptoms or concerns arise, don't hesitate to contact the office. Otherwise, we'll see you in 3 months.
+
+[patient] Thank you, Doctor. I appreciate it.
+
+[doctor] You're welcome. Have a great day!
+
+[patient] You too. Thanks again."|"[doctor] Good morning, how are you doing today?
+
+[patient] Good morning, Doctor. I'm doing fine, thank you. How are you?
+
+[doctor] I'm doing well, thank you for asking. So, I see you're here for a routine check-up. How have you been feeling lately?
+
+[patient] I've been feeling pretty good. No new issues or complaints.
+
+[doctor] That's great to hear. Let's review your medical history quickly. You have a history of Type 2 Diabetes Mellitus and hypertension, correct?
+
+[patient] Yes, that's right.
+
+[doctor] And you're currently taking Metformin 500 mg twice daily and Lisinopril 10 mg once daily?
+
+[patient] Yes, I take them as prescribed.
+
+[doctor] Excellent. How's your diet and exercise routine going?
+
+[patient] I follow a balanced diet and make sure to get regular exercise. I walk for about 30 minutes five times a week.
+
+[doctor] That’s fantastic. Have you noticed any new symptoms or complications recently?
+
+[patient] No, I haven't. Everything seems to be under control.
+
+[doctor] Alright, let's go through a quick review of systems. Any fever, weight loss, or fatigue?
+
+[patient] No, none of those.
+
+[doctor] Any chest pain or palpitations?
+
+[patient] No, my heart feels fine.
+
+[doctor] How about shortness of breath or cough?
+
+[patient] No, no issues there either.
+
+[doctor] Any nausea, vomiting, or changes in your bowel habits?
+
+[patient] No, everything's been normal.
+
+[doctor] Any joint pain or muscle weakness?
+
+[patient] No, none at all.
+
+[doctor] Any headaches or dizziness?
+
+[patient] No, I haven't had any of those.
+
+[doctor] Have you experienced any hypoglycemic episodes?
+
+[patient] No, my blood sugar levels have been stable.
+
+[doctor] Any rashes or lesions on your skin?
+
+[patient] No, my skin is clear.
+
+[doctor] Any pain or difficulty with urination?
+
+[patient] No, everything's normal in that department too.
+
+[doctor] Excellent. Let's take a look at your vitals now. Your blood pressure is 128/78 mm Hg and your heart rate is 72 bpm, both of which are good. Your BMI is 28.4. 
+
+[patient] That sounds good.
+
+[doctor] Great. Now, let's do a quick physical examination. 
+
+[doctor] You look alert and oriented. Your heart rate is regular, with no murmurs or gallops. Your lungs are clear to auscultation bilaterally. Your abdomen is soft and non-tender with no organomegaly. Your extremities show no edema or cyanosis. Neurologically, everything appears grossly intact with no focal deficits.
+
+[patient] That's good to hear.
+
+[doctor] I see from your recent lab results that your HbA1c was 6.7% three months ago. Your lipid panel also looks good with LDL at 90 mg/dL, HDL at 55 mg/dL, and total cholesterol at 180 mg/dL.
+
+[patient] Yes, I remember those results.
+
+[doctor] So, based on everything we've discussed and your examination results, your Type 2 Diabetes Mellitus and hypertension are both well-controlled. 
+
+[patient] That's a relief to hear.
+
+[doctor] Let's continue with your current medication regimen. Keep taking Metformin 500 mg twice daily and Lisinopril 10 mg once daily.
+
+[patient] Okay, will do.
+
+[doctor] It's important to maintain your balanced diet, focusing on low carbohydrates, and continue with your regular exercise routine.
+
+[patient] I will. 
+
+[doctor] Also, keep monitoring your blood sugar levels and blood pressure regularly.
+
+[patient] Definitely, I already do that.
+
+[doctor] Excellent. Let's schedule your next routine check-up in 3 months. We'll also recheck your HbA1c level then.
+
+[patient] Sounds good.
+
+[doctor] We’ll also schedule your annual lipid panel and any other necessary routine examinations.
+
+[patient] Okay, I’ll make sure to come in for those.
+
+[doctor] Do you have any questions or concerns at this time?
+
+[patient] No, I think we've covered everything.
+
+[doctor] Great. If any new symptoms or concerns arise, don't hesitate to contact the office. Otherwise, we'll see you in 3 months.
+
+[patient] Thank you, Doctor. I appreciate it.
+
+[doctor] You're welcome. Have a great day!
+
+[patient] You too. Thanks again."
+ENCOUNTER FOR ISSUE OF REPEAT PRESCRIPTION|"ROLE: Family Medicine Physician
+
+**Variables:**
+
+1) **Medical Outcome:**
+   - Medications: Metformin 500 mg, oral, twice daily, 30 tablets
+   - Follow-up Recommendations: Follow-up visit in 3 months for routine check-up and medication review
+   - Blood Work: Order Hemoglobin A1c test to monitor long-term glucose control
+
+2) **Medical History:**
+   - Previous Diagnoses: Type 2 Diabetes Mellitus (E11.9)
+   - Medication History: Currently on Metformin 500 mg, oral, twice daily
+   - Allergies: No known drug allergies
+   - Chronic Conditions: Hypertension
+
+3) **Symptom Description:**
+   - Severity: N/A (routine prescription refill)
+   - Duration: N/A (routine prescription refill)
+   - Associated Symptoms: N/A (routine prescription refill)
+   - Frequency: Daily medication 
+   - Impact on Daily Activities: N/A
+
+4) **Patient’s self-reported habits and lifestyle:**
+   - Sleep: Reports 6-7 hours of sleep per night
+   - Diet: Following a low-carb diet, moderate adherence
+   - Exercise: Walks for 30 minutes, 5 days a week
+   - Tobacco Use: Non-smoker
+   - Alcohol Consumption: Social drinker, 1-2 drinks per week
+   - Drug Use: Denies any drug use
+   - Recreational Activities: Enjoys gardening on weekends
+
+5) **Demographic Information:**
+   - Age: 55
+   - Gender: Male
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Middle-class
+   - Education Level: High school diploma
+   - Health Literacy: Moderate
+   - Job Status: Employed full-time as an office worker
+
+6) **Patient's Behavior:**
+   - Generally cooperative with medical advice, takes medication as prescribed
+
+7) **Geographical Location:**
+   - Urban
+   - Neighborhood Type: Middle-class neighborhood, well-served by public transit, not a food desert
+
+8) **Clinical Setting:**
+   - Private Practice
+
+9) **Type of Encounter:**
+   - Chronic Disease Management (routine prescription refill)
+
+10) **Treatment Disparities:**
+    - N/A, patient has insurance and has been compliant with treatment plan
+
+11) **Native or Non-Native English Speaking Patient:**
+    - Native English-speaking patient
+
+12) **Physical exams:**
+    - Not applicable for this encounter
+
+13) **Investigation/Test results:**
+    - Awaiting: Hemoglobin A1c test"|"### Medical Note
+
+**1. Subjective**
+
+**Chief Complaint (CC):**
+Routine prescription refill for Type 2 Diabetes Mellitus.
+
+**History of Present Illness (HPI):**
+John Rivera is a 55-year-old Hispanic male with a known history of Type 2 Diabetes Mellitus and Hypertension. He presents today for a routine prescription refill of Metformin 500 mg, taken orally twice daily. Mr. Rivera has been on this medication regimen for the past 2 years and reports good adherence to his treatment plan. He denies any new symptoms or complications related to his diabetes or hypertension.
+
+**Review of Systems (ROS):**
+- **General:** No recent weight loss or gain, no fever.
+- **Cardiovascular:** No chest pain, palpitations, or edema.
+- **Respiratory:** No shortness of breath or cough.
+- **Gastrointestinal:** No abdominal pain, nausea, or diarrhea.
+- **Endocrine:** No changes in urination or thirst.
+
+**Patient’s self-reported habits and lifestyle:**
+- **Sleep:** 6-7 hours per night.
+- **Diet:** Following a low-carb diet with moderate adherence.
+- **Exercise:** Walks for 30 minutes, 5 days a week.
+- **Tobacco Use:** Non-smoker.
+- **Alcohol Consumption:** Social drinker, 1-2 drinks per week.
+- **Drug Use:** Denies any drug use.
+- **Recreational Activities:** Enjoys gardening on weekends.
+
+**2. Objective**
+
+**Physical Exam:**
+- Not applicable for this encounter.
+
+**Vital Signs:** (from recent visit)
+- Blood Pressure: 128/78 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+
+**Blood Work:**
+- Awaiting Hemoglobin A1c test to monitor long-term glucose control.
+
+**3. Assessment**
+
+- **Type 2 Diabetes Mellitus (E11.9)**
+- **Hypertension**
+
+**4. Plan**
+
+- **Medications:**
+  - Continue Metformin 500 mg, oral, twice daily, 30 tablets.
+  
+- **Follow-up Recommendations:**
+  - Schedule a follow-up visit in 3 months for routine check-up and medication review.
+  
+- **Investigations:**
+  - Order a Hemoglobin A1c test to monitor long-term glucose control.
+  
+- **Lifestyle Recommendations:**
+  - Continue with low-carb diet and regular exercise routine.
+  - Encourage adherence to diet and medication plan.
+
+**Instructions:**
+- Patient to return to clinic in 3 months for routine follow-up and review of Hemoglobin A1c results.
+
+______
+John Rivera has demonstrated good compliance with his treatment regimen and maintains a healthy lifestyle with regular exercise and a balanced diet. He will continue on his current medication and follow up in 3 months for a routine check-up."|"### Medical Note
+
+**1. Subjective**
+
+**Chief Complaint (CC):**
+Routine prescription refill for Type 2 Diabetes Mellitus.
+
+**History of Present Illness (HPI):**
+John Rivera is a 55-year-old Hispanic male with a known history of Type 2 Diabetes Mellitus and Hypertension. He presents today for a routine prescription refill of Metformin 500 mg, taken orally twice daily. Mr. Rivera has been on this medication regimen for the past 2 years and reports good adherence to his treatment plan. He denies any new symptoms or complications related to his diabetes or hypertension.
+
+**Review of Systems (ROS):**
+- **General:** No recent weight loss or gain, no fever.
+- **Cardiovascular:** No chest pain, palpitations, or edema.
+- **Respiratory:** No shortness of breath or cough.
+- **Gastrointestinal:** No abdominal pain, nausea, or diarrhea.
+- **Endocrine:** No changes in urination or thirst.
+
+**Patient’s self-reported habits and lifestyle:**
+- **Sleep:** 6-7 hours per night.
+- **Diet:** Following a low-carb diet with moderate adherence.
+- **Exercise:** Walks for 30 minutes, 5 days a week.
+- **Tobacco Use:** Non-smoker.
+- **Alcohol Consumption:** Social drinker, 1-2 drinks per week.
+- **Drug Use:** Denies any drug use.
+- **Recreational Activities:** Enjoys gardening on weekends.
+
+**2. Objective**
+
+**Vital Signs:** (from recent visit)
+- Blood Pressure: 128/78 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+
+**3. Assessment**
+
+- **Type 2 Diabetes Mellitus (E11.9)**
+- **Hypertension**
+
+**4. Plan**
+
+- **Medications:**
+  - Continue Metformin 500 mg, oral, twice daily, 30 tablets.
+  
+- **Follow-up Recommendations:**
+  - Schedule a follow-up visit in 3 months for routine check-up and medication review.
+  
+- **Investigations:**
+  - Order a Hemoglobin A1c test to monitor long-term glucose control.
+  
+- **Lifestyle Recommendations:**
+  - Continue with low-carb diet and regular exercise routine.
+  - Encourage adherence to diet and medication plan.
+
+**Instructions:**
+- Patient to return to clinic in 3 months for routine follow-up and review of Hemoglobin A1c results."|"### Medical Note
+
+**1. Subjective**
+
+**CC:**
+Routine Rx refill for T2DM.
+
+**HPI:**
+John Rivera is a 55-year-old Hispanic male with a known hx of T2DM and HTN. He presents today for a routine Rx refill of Metformin 500 mg, PO BID. Mr. Rivera has been on this med regimen for the past 2 years and reports good adherence to his tx plan. He denies any new sx or complications related to his DM or HTN.
+
+**ROS:**
+- **General:** No recent wt loss or gain, no fever.
+- **CV:** No CP, palpitations, or edema.
+- **Resp:** No SOB or cough.
+- **GI:** No abd pain, nausea, or diarrhea.
+- **Endo:** No changes in urination or thirst.
+
+**Patient’s self-reported habits and lifestyle:**
+- **Sleep:** 6-7 hrs per night.
+- **Diet:** Following a low-carb diet with moderate adherence.
+- **Exercise:** Walks for 30 mins, 5 days a week.
+- **Tobacco Use:** Non-smoker.
+- **EtOH Consumption:** Social drinker, 1-2 drinks per week.
+- **Drug Use:** Denies any drug use.
+- **Recreational Activities:** Enjoys gardening on weekends.
+
+**2. Objective**
+
+**VS:** (from recent visit)
+- BP: 128/78 mmHg
+- HR: 72 bpm
+- RR: 16 bpm
+- Temp: 98.6°F
+
+**3. Assessment**
+
+- **T2DM (E11.9)**
+- **HTN**
+
+**4. Plan**
+
+- **Meds:**
+  - Continue Metformin 500 mg, PO BID, 30 tabs.
+  
+- **F/U Recommendations:**
+  - Schedule a F/U visit in 3 mos for routine check-up and med review.
+  
+- **Investigations:**
+  - Order HbA1c to monitor long-term glucose control.
+  
+- **Lifestyle Recommendations:**
+  - Continue with low-carb diet and regular exercise routine.
+  - Encourage adherence to diet and med plan.
+
+**Instructions:**
+- Pt to return to clinic in 3 mos for routine F/U and review of HbA1c results."|Family Medicine Physician|"[doctor] Hi Mr. Rivera, how are you today?
+
+[patient] Hi, I'm doing well, thank you.
+
+[doctor] Great to hear. So, what brings you in today?
+
+[patient] I'm here for a routine prescription refill for my Type 2 Diabetes Mellitus.
+
+[doctor] Okay, let's go over your current medications. You're currently on Metformin 500 mg, taken orally twice daily, correct?
+
+[patient] Yes, that's right.
+
+[doctor] And how long have you been on this medication regimen?
+
+[patient] For the past 2 years. I take it as prescribed.
+
+[doctor] That's good to know. Any new symptoms or complications related to your diabetes or hypertension?
+
+[patient] No, I haven't noticed any new symptoms or issues.
+
+[doctor] Excellent. Let’s do a quick review of systems to make sure we’re not missing anything. Have you had any recent weight loss or gain?
+
+[patient] No, my weight has been pretty stable.
+
+[doctor] Any fever?
+
+[patient] No, no fever.
+
+[doctor] Any chest pain, palpitations, or edema?
+
+[patient] No chest pain or palpitations, and I haven't noticed any swelling.
+
+[doctor] How about shortness of breath or cough?
+
+[patient] No, my breathing has been fine.
+
+[doctor] Any abdominal pain, nausea, or diarrhea?
+
+[patient] No, none of that.
+
+[doctor] Any changes in urination or thirst?
+
+[patient] No, everything is normal in that regard.
+
+[doctor] Alright, let's talk about your lifestyle. How many hours of sleep do you get per night?
+
+[patient] I usually get about 6-7 hours of sleep each night.
+
+[doctor] That sounds good. How’s your diet these days?
+
+[patient] I'm following a low-carb diet, but I could be a bit more consistent with it.
+
+[doctor] Understood. And how much exercise are you getting?
+
+[patient] I walk for 30 minutes, 5 days a week.
+
+[doctor] That’s excellent. Do you smoke or use any tobacco products?
+
+[patient] No, I'm a non-smoker.
+
+[doctor] How about alcohol? Do you drink?
+
+[patient] Yes, but only socially, about 1-2 drinks per week.
+
+[doctor] Any drug use?
+
+[patient] No, I don't use any drugs.
+
+[doctor] What do you do for fun or relaxation?
+
+[patient] I enjoy gardening on weekends.
+
+[doctor] That's a great hobby. I see that your vital signs from your recent visit were good. Your blood pressure was 128/78 mmHg, heart rate was 72 bpm, respiratory rate was 16 breaths per minute, and your temperature was 98.6°F.
+
+[patient] Yes, I remember those numbers.
+
+[doctor] We're still awaiting your Hemoglobin A1c test results to monitor your long-term glucose control. Have you had the test done yet?
+
+[patient] Yes, I had it done last week.
+
+[doctor] Perfect. We’ll review those results once they come in. For now, let's continue with your current medication. I'll refill your Metformin 500 mg, twice daily, for 30 tablets.
+
+[patient] Sounds good.
+
+[doctor] I recommend you schedule a follow-up visit in 3 months for a routine check-up and medication review. Is that okay with you?
+
+[patient] Yes, that's fine.
+
+[doctor] Great. We’ll also review your Hemoglobin A1c results at that time. In the meantime, please continue with your low-carb diet and regular exercise routine.
+
+[patient] I will, thank you.
+
+[doctor] It’s important to maintain adherence to your diet and medication plan. If you have any questions or concerns, don't hesitate to reach out.
+
+[patient] Will do. Thank you, doctor.
+
+[doctor] You're welcome. Take care and see you in 3 months.
+
+[patient] Alright, see you then. Goodbye."|"[doctor] Hi Mr. Rivera, how are you today?
+
+[patient] Hi, I'm doing well, thank you.
+
+[doctor] Great to hear. So, what brings you in today?
+
+[patient] I'm here for a routine prescription refill for my Type 2 Diabetes Mellitus.
+
+[doctor] Okay, let's go over your current medications. You're currently on Metformin 500 mg, taken orally twice daily, correct?
+
+[patient] Yes, that's right.
+
+[doctor] And how long have you been on this medication regimen?
+
+[patient] For the past 2 years. I take it as prescribed.
+
+[doctor] That's good to know. Any new symptoms or complications related to your diabetes or hypertension?
+
+[patient] No, I haven't noticed any new symptoms or issues.
+
+[doctor] Excellent. Let’s do a quick review of systems to make sure we’re not missing anything. Have you had any recent weight loss or gain?
+
+[patient] No, my weight has been pretty stable.
+
+[doctor] Any fever?
+
+[patient] No, no fever.
+
+[doctor] Any chest pain, palpitations, or edema?
+
+[patient] No chest pain or palpitations, and I haven't noticed any swelling.
+
+[doctor] How about shortness of breath or cough?
+
+[patient] No, my breathing has been fine.
+
+[doctor] Any abdominal pain, nausea, or diarrhea?
+
+[patient] No, none of that.
+
+[doctor] Any changes in urination or thirst?
+
+[patient] No, everything is normal in that regard.
+
+[doctor] Alright, let's talk about your lifestyle. How many hours of sleep do you get per night?
+
+[patient] I usually get about 6-7 hours of sleep each night.
+
+[doctor] That sounds good. How’s your diet these days?
+
+[patient] I'm following a low-carb diet, but I could be a bit more consistent with it.
+
+[doctor] Understood. And how much exercise are you getting?
+
+[patient] I walk for 30 minutes, 5 days a week.
+
+[doctor] That’s excellent. Do you smoke or use any tobacco products?
+
+[patient] No, I'm a non-smoker.
+
+[doctor] How about alcohol? Do you drink?
+
+[patient] Yes, but only socially, about 1-2 drinks per week.
+
+[doctor] Any drug use?
+
+[patient] No, I don't use any drugs.
+
+[doctor] What do you do for fun or relaxation?
+
+[patient] I enjoy gardening on weekends.
+
+[doctor] That's a great hobby. I see that your vital signs from your recent visit were good. Your blood pressure was 128/78 mmHg, heart rate was 72 bpm, respiratory rate was 16 breaths per minute, and your temperature was 98.6°F.
+
+[patient] Yes, I remember those numbers.
+
+[doctor] We're still awaiting your Hemoglobin A1c test results to monitor your long-term glucose control. Have you had the test done yet?
+
+[patient] Yes, I had it done last week.
+
+[doctor] Perfect. We’ll review those results once they come in. For now, let's continue with your current medication. I'll refill your Metformin 500 mg, twice daily, for 30 tablets.
+
+[patient] Sounds good.
+
+[doctor] I recommend you schedule a follow-up visit in 3 months for a routine check-up and medication review. Is that okay with you?
+
+[patient] Yes, that's fine.
+
+[doctor] Great. We’ll also review your Hemoglobin A1c results at that time. In the meantime, please continue with your low-carb diet and regular exercise routine.
+
+[patient] I will, thank you.
+
+[doctor] It’s important to maintain adherence to your diet and medication plan. If you have any questions or concerns, don't hesitate to reach out.
+
+[patient] Will do. Thank you, doctor.
+
+[doctor] You're welcome. Take care and see you in 3 months.
+
+[patient] Alright, see you then. Goodbye."
+ENCOUNTER FOR ISSUE OF REPEAT PRESCRIPTION|"ROLE: Family Medicine Physician
+
+**Scenario Details:**
+
+**Medical Outcome:** 
+- Prescribed Treatment: Refill of Lisinopril 10mg tablets, take 1 tablet orally once daily for hypertension
+- Follow-up Recommendations: Routine check-up in 3 months
+
+**Medical History:**
+- Previous Diagnoses: Hypertension, Hyperlipidemia
+- Medication History: Lisinopril 10mg daily, Atorvastatin 20mg
+- Allergies: Penicillin
+- Chronic Conditions: Hypertension
+
+**Symptom Description:** 
+- Severity: N/A
+- Duration: N/A
+- Associated Symptoms: N/A
+- Frequency: N/A
+- Impact on Daily Activities: N/A
+
+**Patient Self-reported Habits and Lifestyle:**
+- Sleep: Reports 7-8 hours per night, no issues
+- Diet: Balanced, avoids high-sodium foods
+- Exercise: Walks 30 minutes daily
+- Tobacco Use: None
+- Alcohol Consumption: Social drinker, 1-2 drinks/week
+- Drug Use: None
+- Recreational Activities: Gardening
+
+**Demographic Information:**
+- Age: 56
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle class
+- Education Level: College degree
+- Health Literacy: High
+- Job Status: Employed full-time as an accountant
+
+**Patient's Behavior:**
+- Level of Cooperation: Compliant with medical advice and medication regimen
+
+**Geographical Location:**
+- Urban
+- Neighborhood Type: Affluent
+- Well-served by Transit
+
+**Clinical Setting:**
+- Private Practice
+
+**Type of Encounter:**
+- Routine Check-up
+
+**Treatment Disparities:**
+- N/A
+
+**Native or Non-Native English Speaking Patient:**
+- Native English Speaking Patient
+
+**Physical exams:**
+- Blood pressure: 130/80 mmHg
+- Heart rate: 72 bpm
+- Weight: Stable
+
+**Investigation/Test results:**
+- NA"|"**Medical Note:**
+
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Routine check-up and request for a refill of current medication.
+
+**History of Present Illness (HPI):**
+The patient is a 56-year-old Caucasian male who presents for a routine check-up. He has a history of hypertension and hyperlipidemia, both of which are currently well-managed with medication. He reports no new symptoms or health concerns. He adheres strictly to his prescribed medications, Lisinopril 10 mg daily and Atorvastatin 20 mg. He denies any side effects from his medications and does not report any issues with blood pressure control.
+
+**Review of Systems (ROS):**
+- **Constitutional:** No fever, chills, or unintentional weight loss.
+- **Cardiovascular:** No chest pain, palpitations, or edema.
+- **Respiratory:** No cough, shortness of breath, or wheezing.
+- **Gastrointestinal:** No nausea, vomiting, or changes in bowel habits.
+- **Genitourinary:** No dysuria, frequency, or hematuria.
+- **Musculoskeletal:** No joint pain or muscle weakness.
+- **Neurological:** No headache, dizziness, or numbness.
+- **Psychiatric:** No depression or anxiety.
+
+**2. Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 130/80 mmHg
+  - Heart Rate: 72 bpm
+  - Weight: Stable at 180 lbs
+- **Physical Examination:**
+  - General: Well-nourished, well-groomed male, in no acute distress.
+  - Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+  - Respiratory: Clear to auscultation bilaterally, no wheezes or crackles.
+  - Abdominal: Soft, non-tender, no hepatosplenomegaly.
+  - Extremities: No edema, good capillary refill.
+
+**3. Assessment:**
+- **Hypertension:** The patient's blood pressure is well-controlled on his current regimen of Lisinopril 10 mg daily.
+- **Hyperlipidemia:** No new changes or concerns noted. The patient remains compliant with his Atorvastatin 20 mg daily.
+- **Penicillin Allergy:** Patient is aware and avoids medications containing penicillin.
+
+**4. Plan:**
+- **Medical Treatment:** Refill Lisinopril 10 mg tablets, one tablet orally once daily.
+- **Lifestyle Recommendations:** Continue current diet, exercise, and lifestyle habits. Monitor for any new symptoms and maintain a balanced diet avoiding high-sodium foods. Continue daily 30-minute walks.
+- **Follow-Up:** Routine check-up in 3 months.
+- **Patient Education:** Reinforced the importance of medication adherence and lifestyle modifications. Encouraged to monitor blood pressure at home.
+- **Agreements:** The patient agrees with the treatment plan and follow-up schedule.
+
+Patient was reminded to contact the office if any new symptoms arise or if there are any concerns before the next scheduled visit. All questions were answered during the visit."|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Routine check-up and request for a refill of current medication.
+
+**History of Present Illness (HPI):**
+The patient, John Smith, is a 56-year-old Caucasian male who presents for a routine check-up. He has a history of hypertension and hyperlipidemia, both of which are currently well-managed with medication. He reports no new symptoms or health concerns. He adheres strictly to his prescribed medications, Lisinopril 10 mg daily and Atorvastatin 20 mg. He denies any side effects from his medications and does not report any issues with blood pressure control.
+
+**Review of Systems (ROS):**
+- **Constitutional:** No fever, chills, or unintentional weight loss.
+- **Cardiovascular:** No chest pain, palpitations, or edema.
+- **Respiratory:** No cough, shortness of breath, or wheezing.
+- **Gastrointestinal:** No nausea, vomiting, or changes in bowel habits.
+- **Genitourinary:** No dysuria, frequency, or hematuria.
+- **Musculoskeletal:** No joint pain or muscle weakness.
+- **Neurological:** No headache, dizziness, or numbness.
+- **Psychiatric:** No depression or anxiety.
+
+**2. Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 130/80 mmHg
+  - Heart Rate: 72 bpm
+  - Weight: Stable at 180 lbs
+- **Physical Examination:**
+  - General: Well-nourished, well-groomed male, in no acute distress.
+  - Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+  - Respiratory: Clear to auscultation bilaterally, no wheezes or crackles.
+  - Abdominal: Soft, non-tender, no hepatosplenomegaly.
+  - Extremities: No edema, good capillary refill.
+
+**3. Assessment:**
+- **Hypertension:** The patient's blood pressure is well-controlled on his current regimen of Lisinopril 10 mg daily.
+- **Hyperlipidemia:** No new changes or concerns noted. The patient remains compliant with his Atorvastatin 20 mg daily.
+- **Penicillin Allergy:** Patient is aware and avoids medications containing penicillin.
+
+**4. Plan:**
+- **Medical Treatment:** Refill Lisinopril 10 mg tablets, one tablet orally once daily.
+- **Lifestyle Recommendations:** Continue current diet, exercise, and lifestyle habits. Monitor for any new symptoms and maintain a balanced diet avoiding high-sodium foods. Continue daily 30-minute walks.
+- **Follow-Up:** Routine check-up in 3 months.
+- **Patient Education:** Reinforced the importance of medication adherence and lifestyle modifications. Encouraged to monitor blood pressure at home.
+- **Agreements:** The patient agrees with the treatment plan and follow-up schedule.
+
+Patient was reminded to contact the office if any new symptoms arise or if there are any concerns before the next scheduled visit. All questions were answered during the visit."|"**1. Subjective:**
+
+**CC:**
+Routine check-up and request for a refill of current meds.
+
+**HPI:**
+The pt, John Smith, is a 56 y/o Caucasian male who presents for a routine check-up. He has a hx of HTN and HLD, both of which are currently well-managed with meds. He reports no new sx or health concerns. He adheres strictly to his prescribed meds, Lisinopril 10 mg daily and Atorvastatin 20 mg. He denies any SEs from his meds and does not report any issues with BP control.
+
+**ROS:**
+- **Constitutional:** No fever, chills, or unintentional wt loss.
+- **CV:** No CP, palpitations, or edema.
+- **Resp:** No cough, SOB, or wheezing.
+- **GI:** No N/V, or changes in bowel habits.
+- **GU:** No dysuria, frequency, or hematuria.
+- **MSK:** No joint pain or muscle weakness.
+- **Neuro:** No HA, dizziness, or numbness.
+- **Psych:** No depression or anxiety.
+
+**2. Objective:**
+- **VS:**
+  - BP: 130/80 mmHg
+  - HR: 72 bpm
+  - Wt: Stable at 180 lbs
+- **PE:**
+  - General: Well-nourished, well-groomed male, in no acute distress.
+  - CV: RRR, no murmurs, rubs, or gallops.
+  - Resp: CTA bilaterally, no wheezes or crackles.
+  - Abd: Soft, non-tender, no HSM.
+  - Ext: No edema, good cap refill.
+
+**3. Assessment:**
+- **HTN:** The pt's BP is well-controlled on his current regimen of Lisinopril 10 mg daily.
+- **HLD:** No new changes or concerns noted. The pt remains compliant with his Atorvastatin 20 mg daily.
+- **PCN Allergy:** Pt is aware and avoids meds containing PCN.
+
+**4. Plan:**
+- **Rx:** Refill Lisinopril 10 mg tabs, one tab PO QD.
+- **Lifestyle:** Continue current diet, exercise, and lifestyle habits. Monitor for any new sx and maintain a balanced diet avoiding high-sodium foods. Continue daily 30-min walks.
+- **F/U:** Routine check-up in 3 mos.
+- **Pt Ed:** Reinforced the importance of med adherence and lifestyle modifications. Encouraged to monitor BP at home.
+- **Agreements:** The pt agrees with the tx plan and F/U schedule.
+
+Pt was reminded to contact the office if any new sx arise or if there are any concerns before the next scheduled visit. All questions were answered during the visit."|Family Medicine Physician|"**Doctor:** Good morning, how are you doing today?
+
+**Patient:** I'm doing well, thank you. Just here for my routine check-up and to get a refill on my medications.
+
+**Doctor:** Great. Can you remind me which medications you're currently taking?
+
+**Patient:** Sure, I'm taking Lisinopril 10 mg daily for my hypertension and Atorvastatin 20 mg for my cholesterol.
+
+**Doctor:** Okay, and how have you been feeling overall? Any new symptoms or health concerns?
+
+**Patient:** No, I feel fine. No new symptoms or concerns.
+
+**Doctor:** Good to hear. Are you experiencing any side effects from your medications?
+
+**Patient:** No side effects at all. Everything seems to be working well.
+
+**Doctor:** Excellent. Let's go through a quick review of systems. Have you had any fever, chills, or unintentional weight loss?
+
+**Patient:** No, none of those.
+
+**Doctor:** Any chest pain, palpitations, or swelling in your legs?
+
+**Patient:** No, I haven't had any of those symptoms either.
+
+**Doctor:** How about your breathing? Any cough, shortness of breath, or wheezing?
+
+**Patient:** No, my breathing is fine.
+
+**Doctor:** Any issues with nausea, vomiting, or changes in your bowel habits?
+
+**Patient:** Nope, no problems there.
+
+**Doctor:** Any pain or discomfort when you urinate, or any changes in urinary frequency?
+
+**Patient:** No, everything is normal.
+
+**Doctor:** Good. Any joint pain or muscle weakness?
+
+**Patient:** No, no joint pain or muscle issues.
+
+**Doctor:** Have you experienced any headaches, dizziness, or numbness?
+
+**Patient:** No, none of that.
+
+**Doctor:** Lastly, how are you feeling mentally? Any depression or anxiety?
+
+**Patient:** No, I'm feeling good mentally. No depression or anxiety.
+
+**Doctor:** Great. Let's move on to your physical examination. Your vitals look good. Your blood pressure is 130/80 mmHg, heart rate is 72 bpm, and your weight is stable at 180 lbs.
+
+**Patient:** That's good to hear.
+
+**Doctor:** You look well-nourished and well-groomed. During the cardiovascular exam, your heart has a regular rate and rhythm with no murmurs, rubs, or gallops. Your lungs are clear to auscultation bilaterally with no wheezes or crackles.
+
+**Patient:** Okay, that's reassuring.
+
+**Doctor:** Your abdomen is soft and non-tender, with no enlargement of the liver or spleen. Your extremities show no edema, and you have good capillary refill.
+
+**Patient:** Sounds good.
+
+**Doctor:** Based on everything we've reviewed today, it looks like your hypertension is well-controlled on your current regimen of Lisinopril 10 mg daily.
+
+**Patient:** That's good to know.
+
+**Doctor:** Your hyperlipidemia also appears to be under control with the Atorvastatin 20 mg daily. No new changes or concerns noted.
+
+**Patient:** Excellent.
+
+**Doctor:** I also see that you have a penicillin allergy. Are you aware of that and avoiding medications containing penicillin?
+
+**Patient:** Yes, I'm aware and I avoid those medications.
+
+**Doctor:** Perfect. Let's talk about the plan moving forward. I'll go ahead and refill your Lisinopril 10 mg tablets, one tablet orally once daily.
+
+**Patient:** Thank you.
+
+**Doctor:** Please continue with your current diet, exercise, and lifestyle habits. Make sure to monitor for any new symptoms and maintain a balanced diet, avoiding high-sodium foods.
+
+**Patient:** Will do.
+
+**Doctor:** Keep up with your daily 30-minute walks as well.
+
+**Patient:** I definitely will.
+
+**Doctor:** We'll schedule a routine check-up in 3 months. In the meantime, if any new symptoms arise or if you have any concerns, please contact the office.
+
+**Patient:** Okay, I will.
+
+**Doctor:** It’s important to continue adhering to your medications and lifestyle modifications. Monitoring your blood pressure at home is also a good idea.
+
+**Patient:** I understand and will do that.
+
+**Doctor:** Do you have any questions or concerns about today's visit or the plan moving forward?
+
+**Patient:** No, everything seems clear. Thank you.
+
+**Doctor:** You're welcome. It was good seeing you today. Take care and I'll see you in three months.
+
+**Patient:** Thank you. See you then."|"[doctor]: Good morning, how are you doing today?
+
+[patient]: I'm doing well, thank you. Just here for my routine check-up and to get a refill on my medications.
+
+[doctor]: Great. Can you remind me which medications you're currently taking?
+
+[patient]: Sure, I'm taking Lisinopril 10 mg daily for my hypertension and Atorvastatin 20 mg for my cholesterol.
+
+[doctor]: Okay, and how have you been feeling overall? Any new symptoms or health concerns?
+
+[patient]: No, I feel fine. No new symptoms or concerns.
+
+[doctor]: Good to hear. Are you experiencing any side effects from your medications?
+
+[patient]: No side effects at all. Everything seems to be working well.
+
+[doctor]: Excellent. Let's go through a quick review of systems. Have you had any fever, chills, or unintentional weight loss?
+
+[patient]: No, none of those.
+
+[doctor]: Any chest pain, palpitations, or swelling in your legs?
+
+[patient]: No, I haven't had any of those symptoms either.
+
+[doctor]: How about your breathing? Any cough, shortness of breath, or wheezing?
+
+[patient]: No, my breathing is fine.
+
+[doctor]: Any issues with nausea, vomiting, or changes in your bowel habits?
+
+[patient]: Nope, no problems there.
+
+[doctor]: Any pain or discomfort when you urinate, or any changes in urinary frequency?
+
+[patient]: No, everything is normal.
+
+[doctor]: Good. Any joint pain or muscle weakness?
+
+[patient]: No, no joint pain or muscle issues.
+
+[doctor]: Have you experienced any headaches, dizziness, or numbness?
+
+[patient]: No, none of that.
+
+[doctor]: Lastly, how are you feeling mentally? Any depression or anxiety?
+
+[patient]: No, I'm feeling good mentally. No depression or anxiety.
+
+[doctor]: Great. Let's move on to your physical examination. Your vitals look good. Your blood pressure is 130/80 mmHg, heart rate is 72 bpm, and your weight is stable at 180 lbs.
+
+[patient]: That's good to hear.
+
+[doctor]: You look well-nourished and well-groomed. During the cardiovascular exam, your heart has a regular rate and rhythm with no murmurs, rubs, or gallops. Your lungs are clear to auscultation bilaterally with no wheezes or crackles.
+
+[patient]: Okay, that's reassuring.
+
+[doctor]: Your abdomen is soft and non-tender, with no enlargement of the liver or spleen. Your extremities show no edema, and you have good capillary refill.
+
+[patient]: Sounds good.
+
+[doctor]: Based on everything we've reviewed today, it looks like your hypertension is well-controlled on your current regimen of Lisinopril 10 mg daily.
+
+[patient]: That's good to know.
+
+[doctor]: Your hyperlipidemia also appears to be under control with the Atorvastatin 20 mg daily. No new changes or concerns noted.
+
+[patient]: Excellent.
+
+[doctor]: I also see that you have a penicillin allergy. Are you aware of that and avoiding medications containing penicillin?
+
+[patient]: Yes, I'm aware and I avoid those medications.
+
+[doctor]: Perfect. Let's talk about the plan moving forward. I'll go ahead and refill your Lisinopril 10 mg tablets, one tablet orally once daily.
+
+[patient]: Thank you.
+
+[doctor]: Please continue with your current diet, exercise, and lifestyle habits. Make sure to monitor for any new symptoms and maintain a balanced diet, avoiding high-sodium foods.
+
+[patient]: Will do.
+
+[doctor]: Keep up with your daily 30-minute walks as well.
+
+[patient]: I definitely will.
+
+[doctor]: We'll schedule a routine check-up in 3 months. In the meantime, if any new symptoms arise or if you have any concerns, please contact the office.
+
+[patient]: Okay, I will.
+
+[doctor]: It’s important to continue adhering to your medications and lifestyle modifications. Monitoring your blood pressure at home is also a good idea.
+
+[patient]: I understand and will do that.
+
+[doctor]: Do you have any questions or concerns about today's visit or the plan moving forward?
+
+[patient]: No, everything seems clear. Thank you.
+
+[doctor]: You're welcome. It was good seeing you today. Take care and I'll see you in three months.
+
+[patient]: Thank you. See you then."
+ENCOUNTER FOR ISSUE OF REPEAT PRESCRIPTION|"**ROLE:** Family Medicine Physician
+
+1. **Medical Outcome:**
+   - Medication Adjustment: Continue with the current medication but increase dose due to elevated blood glucose levels.
+   - Prescribed Medication: Metformin 1000 mg, oral, twice daily.
+   - Follow-up Recommendations: Return in 1 month for blood glucose check.
+   - Referral to Specialists: Referral to an endocrinologist, Dr. Robert Chambers, for diabetes management.
+
+2. **Medical History:**
+   - Previous Diagnoses: Type 2 Diabetes Mellitus, Hypertension
+   - Chronic Conditions: Type 2 Diabetes Mellitus
+   - Medication History: Metformin 500 mg daily for the past year
+   - Allergies: None reported
+
+3. **Symptom Description:**
+   - Severity: Elevated blood glucose levels noticed in recent home monitoring.
+   - Duration: Diagnosed 2 years ago
+   - Frequency: Daily monitoring shows frequent elevations in blood glucose.
+   - Impact on Daily Activities: Increased fatigue and occasional dizziness.
+
+4. **Patient’s Self-Reported Habits and Lifestyle:**
+   - Sleep: 6 hours per night
+   - Diet: High-carbohydrate diet, struggles with dietary restrictions
+   - Exercise: Irregular, exercises once a week
+   - Tobacco Use: None
+   - Alcohol Consumption: Frequently, 3-4 drinks per week
+   - Recreational Activities: Cooking, gardening
+
+5. **Demographic Information:**
+   - Age: 48
+   - Gender: Female
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Lower middle-class
+   - Education Level: High School Diploma
+   - Health Literacy: Moderate
+   - Job Status: Part-time retail worker
+
+6. **Patient's Behavior:**
+   - The patient is somewhat cooperative but struggles with adherence to dietary recommendations.
+
+7. **Geographical Location:**
+   - Urban
+   - Impoverished neighborhood
+   - Food desert
+
+8. **Clinical Setting:**
+   - Community Health Services
+
+9. **Type of Encounter:**
+   - Chronic Disease Management
+
+10. **Treatment Disparities:**
+    - Limited access to healthy food options impacting diabetes management.
+
+11. **Native or Non-Native English-Speaking Patient:**
+    - Non-Native English-Speaking
+
+12. **Physical Exam:**
+    - Blood Pressure: 135/85 mmHg
+    - Weight: 180 lbs
+    - BMI: 31 (Obese)
+
+13. **Investigation/Test Results:**
+    - Awaiting Hemoglobin A1c test for glycated hemoglobin."|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC)**
+Elevated blood glucose levels.
+
+**History of Present Illness (HPI)**
+A 48-year-old Hispanic female presents for chronic disease management of her Type 2 Diabetes Mellitus. The patient reports a history of elevated blood glucose levels, frequently observed during home monitoring, along with increased fatigue and occasional dizziness. She was diagnosed with Type 2 Diabetes Mellitus two years ago and has been on metformin 500 mg daily for the past year.
+
+**Review of Systems (ROS)**
+- **Constitutional:** Reports fatigue. Denies fever, chills.
+- **Cardiovascular:** Denies chest pain, palpitations.
+- **Respiratory:** Denies shortness of breath, cough.
+- **Gastrointestinal:** Denies abdominal pain, nausea, vomiting. 
+- **Genitourinary:** Denies dysuria, urinary frequency.
+- **Musculoskeletal:** No joint pain or swelling. 
+- **Neurological:** Reports occasional dizziness. Denies headaches, seizures.
+- **Endocrine:** Reports frequent elevations in blood glucose.
+- **Hematologic/Lymphatic:** Denies easy bruising, bleeding.
+- **Allergic/Immunologic:** No known allergies.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 135/85 mmHg
+- Weight: 180 lbs
+- BMI: 31 (Obese)
+
+**Physical Examination:**
+- **General Appearance:** Alert, oriented, no acute distress.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, gallops, or rubs.
+- **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Neurological:** Cranial nerves II-XII grossly intact, no focal deficits.
+
+**Test Results:**
+- Awaiting Hemoglobin A1c test for glycated hemoglobin.
+
+**3. Assessment:**
+
+- **Type 2 Diabetes Mellitus**
+  - Medical Reasoning: Patient has frequent blood glucose elevations and symptoms of increased fatigue and dizziness despite being on metformin 500 mg daily.
+  - Differential Diagnosis: Poor dietary habits, irregular exercise, possible non-adherence to medication.
+
+**4. Plan:**
+
+- **Medical Treatment:**
+  - Increase dose of metformin to 1000 mg, oral, twice daily.
+  - Referral to endocrinologist Dr. Robert Chambers for specialized diabetes management.
+
+- **Patient Education and Counseling:**
+  - Discussed the importance of strict adherence to a low-carbohydrate diet and regular exercise.
+  - Provided educational materials in both Spanish and English to improve health literacy.
+  - Discussed risks associated with alcohol consumption and advised limiting intake.
+
+- **Lifestyle Modifications:**
+  - Encourage increased physical activity, targeting at least 150 minutes of moderate exercise per week.
+  - Advised on portion control and healthier food options despite food desert limitations.
+  - Referral to community nutritionist for tailored dietary plan within the socio-economic constraints.
+
+- **Follow-Up:**
+  - Return in 1 month for blood glucose check and review of Hemoglobin A1c results.
+
+- **Treatment Disparities:**
+  - Considering the patient's geographical location and limited access to healthy food options, explored community resources such as local food banks and urban gardens.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan.
+
+#####"|"#####
+**1. Subjective:**
+
+**Chief Complaint (CC)**
+Elevated blood glucose levels.
+
+**History of Present Illness (HPI)**
+A 48-year-old Hispanic female presents for chronic disease management of her Type 2 Diabetes Mellitus. The patient reports a history of elevated blood glucose levels, frequently observed during home monitoring, along with increased fatigue and occasional dizziness. She was diagnosed with Type 2 Diabetes Mellitus two years ago and has been on metformin 500 mg daily for the past year.
+
+**Review of Systems (ROS)**
+- **Constitutional:** Reports fatigue. Denies fever, chills.
+- **Cardiovascular:** Denies chest pain, palpitations.
+- **Respiratory:** Denies shortness of breath, cough.
+- **Gastrointestinal:** Denies abdominal pain, nausea, vomiting. 
+- **Genitourinary:** Denies dysuria, urinary frequency.
+- **Musculoskeletal:** No joint pain or swelling. 
+- **Neurological:** Reports occasional dizziness. Denies headaches, seizures.
+- **Endocrine:** Reports frequent elevations in blood glucose.
+- **Hematologic/Lymphatic:** Denies easy bruising, bleeding.
+- **Allergic/Immunologic:** No known allergies.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 135/85 mmHg
+- Weight: 180 lbs
+- BMI: 31 (Obese)
+
+**Physical Examination:**
+- **General Appearance:** Alert, oriented, no acute distress.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, gallops, or rubs.
+- **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Neurological:** Cranial nerves II-XII grossly intact, no focal deficits.
+
+**Test Results:**
+- Awaiting Hemoglobin A1c test for glycated hemoglobin.
+
+**3. Assessment:**
+
+- **Type 2 Diabetes Mellitus**
+  - Medical Reasoning: Patient has frequent blood glucose elevations and symptoms of increased fatigue and dizziness despite being on metformin 500 mg daily.
+  - Differential Diagnosis: Poor dietary habits, irregular exercise, possible non-adherence to medication.
+
+**4. Plan:**
+
+- **Medical Treatment:**
+  - Increase dose of metformin to 1000 mg, oral, twice daily.
+  - Referral to endocrinologist Dr. Robert Chambers for specialized diabetes management.
+
+- **Patient Education and Counseling:**
+  - Discussed the importance of strict adherence to a low-carbohydrate diet and regular exercise.
+  - Provided educational materials in both Spanish and English to improve health literacy.
+  - Discussed risks associated with alcohol consumption and advised limiting intake.
+
+- **Lifestyle Modifications:**
+  - Encourage increased physical activity, targeting at least 150 minutes of moderate exercise per week.
+  - Advised on portion control and healthier food options despite food desert limitations.
+  - Referral to community nutritionist for tailored dietary plan within the socio-economic constraints.
+
+- **Follow-Up:**
+  - Return in 1 month for blood glucose check and review of Hemoglobin A1c results.
+
+- **Treatment Disparities:**
+  - Considering the patient's geographical location and limited access to healthy food options, explored community resources such as local food banks and urban gardens.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan."|"#####
+**1. Subjective:**
+
+**CC:**
+Elevated BG levels.
+
+**HPI:**
+A 48-year-old Hispanic F presents for chronic dz mgmt of her T2DM. Pt reports a hx of elevated BG levels, frequently observed during home monitoring, along with increased fatigue and occasional dizziness. She was dx'ed with T2DM two years ago and has been on metformin 500 mg daily for the past year.
+
+**ROS:**
+- **Constitutional:** Reports fatigue. Denies fever, chills.
+- **CV:** Denies CP, palpitations.
+- **Resp:** Denies SOB, cough.
+- **GI:** Denies abd pain, N/V.
+- **GU:** Denies dysuria, urinary frequency.
+- **MSK:** No joint pain or swelling.
+- **Neuro:** Reports occasional dizziness. Denies HA, seizures.
+- **Endo:** Reports frequent elevations in BG.
+- **Heme/Lymph:** Denies easy bruising, bleeding.
+- **Allergic/Immunologic:** NKA.
+
+**2. Objective:**
+
+**VS:**
+- BP: 135/85 mmHg
+- Weight: 180 lbs
+- BMI: 31 (Obese)
+
+**PE:**
+- **General:** Alert, oriented, NAD.
+- **CV:** RRR, no murmurs, gallops, or rubs.
+- **Resp:** CTA bilaterally, no wheezes, rales, or rhonchi.
+- **Abd:** Soft, non-tender, no organomegaly.
+- **Neuro:** CN II-XII grossly intact, no focal deficits.
+
+**Test Results:**
+- Awaiting HbA1c for glycated hemoglobin.
+
+**3. Assessment:**
+
+- **T2DM**
+  - Medical Reasoning: Pt has frequent BG elevations and symptoms of increased fatigue and dizziness despite being on metformin 500 mg daily.
+  - Differential Dx: Poor dietary habits, irregular exercise, possible non-adherence to medication.
+
+**4. Plan:**
+
+- **Medical Tx:**
+  - Increase dose of metformin to 1000 mg PO BID.
+  - Referral to endo Dr. Robert Chambers for specialized DM mgmt.
+
+- **Pt Education and Counseling:**
+  - Discussed the importance of strict adherence to a low-carb diet and regular exercise.
+  - Provided educational materials in both Spanish and English to improve health literacy.
+  - Discussed risks associated with EtOH consumption and advised limiting intake.
+
+- **Lifestyle Modifications:**
+  - Encourage increased physical activity, targeting at least 150 mins of moderate exercise per week.
+  - Advised on portion control and healthier food options despite food desert limitations.
+  - Referral to community nutritionist for tailored dietary plan within the socio-economic constraints.
+
+- **F/U:**
+  - Return in 1 month for BG check and review of HbA1c results.
+
+- **Tx Disparities:**
+  - Considering the pt's geographical location and limited access to healthy food options, explored community resources such as local food banks and urban gardens.
+
+**Pt Agreements:**
+The pt understands and agrees with the recommended medical tx plan."|Role not found in the first 5 lines.|"### Dialogue
+
+#### Chief Complaint
+
+Doctor: Hi there, how are you doing?
+
+Patient: Hello, Doctor. I'm okay, just feeling a bit tired lately.
+
+Doctor: I see. So, what brings you in today?
+
+Patient: My blood glucose levels have been high, and I'm feeling more tired than usual. Sometimes I even get dizzy.
+
+Doctor: Hmm, I understand. Can you tell me a little more about your blood glucose levels? How often are you monitoring them at home?
+
+Patient: I check them every day, and they've been higher than usual for a few weeks now.
+
+Doctor: Alright. And how long have you been diagnosed with Type 2 Diabetes Mellitus?
+
+Patient: It's been about two years now.
+
+Doctor: Okay. And you're on metformin, right?
+
+Patient: Yes, I take 500 mg every day for about a year now.
+
+#### History of Present Illness
+
+Doctor: Got it. Other than the elevated blood glucose levels, have you noticed any other symptoms?
+
+Patient: Just the fatigue and occasional dizziness.
+
+Doctor: Any fever or chills?
+
+Patient: No, none of that.
+
+Doctor: How about chest pain or palpitations?
+
+Patient: No, my heart feels fine.
+
+Doctor: Any shortness of breath or cough?
+
+Patient: No, I haven't had any issues with that.
+
+Doctor: What about abdominal pain, nausea, or vomiting?
+
+Patient: None of those either.
+
+Doctor: Any issues with urinating, like pain or increased frequency?
+
+Patient: No, everything's normal there.
+
+Doctor: Any joint pain or swelling?
+
+Patient: No, my joints are okay.
+
+Doctor: Have you experienced any headaches or seizures?
+
+Patient: No, none.
+
+Doctor: Do you have any known allergies?
+
+Patient: No, I don't have any allergies.
+
+Doctor: Alright, thanks for that. Let’s move on to the physical exam.
+
+#### Objective
+
+Doctor: Your blood pressure today is 135/85 mmHg. Your weight is 180 pounds, and your BMI is 31, which falls into the obese category.
+
+Patient: Okay.
+
+Doctor: Let's check your general appearance. You appear alert and oriented, and you're not in any acute distress.
+
+Patient: That's good to hear.
+
+Doctor: Your heart rate and rhythm are regular, and I don't hear any murmurs, gallops, or rubs.
+
+Patient: Okay, that's good.
+
+Doctor: Your lungs are clear to auscultation bilaterally, and there are no wheezes, rales, or rhonchi.
+
+Patient: Alright.
+
+Doctor: Your abdomen is soft and non-tender, and there's no organomegaly.
+
+Patient: Good.
+
+Doctor: Neurologically, your cranial nerves II-XII are grossly intact, and I don't see any focal deficits.
+
+Patient: Okay.
+
+Doctor: We're still waiting for the results of your Hemoglobin A1c test, which will give us a good indication of your long-term blood glucose control.
+
+Patient: When will those results be ready?
+
+Doctor: They should be ready by your next visit.
+
+#### Assessment
+
+Doctor: Based on your symptoms and the information you've provided, it seems like your Type 2 Diabetes Mellitus is not well controlled. Your frequent blood glucose elevations and symptoms of increased fatigue and dizziness suggest that we might need to adjust your treatment plan.
+
+Patient: What do you think is causing this?
+
+Doctor: It could be due to poor dietary habits, irregular exercise, or possible non-adherence to your medication. But we'll need to investigate further.
+
+#### Plan
+
+Doctor: For your medical treatment, we'll increase your metformin dose to 1000 mg, taken orally twice daily.
+
+Patient: Okay, I can do that.
+
+Doctor: I'd also like to refer you to an endocrinologist, Dr. Robert Chambers, for specialized diabetes management.
+
+Patient: Alright, that sounds good.
+
+Doctor: Let's talk about some lifestyle modifications. We need to stick to a strict low-carbohydrate diet and regular exercise. I'll provide you with educational materials in both Spanish and English to help you understand better.
+
+Patient: Thank you, that will help.
+
+Doctor: It's also important to limit your alcohol intake, as it can affect your blood glucose levels.
+
+Patient: I understand.
+
+Doctor: For physical activity, aim for at least 150 minutes of moderate exercise per week.
+
+Patient: I can try to do that.
+
+Doctor: Given that you live in a food desert, I'll refer you to a community nutritionist who can help you come up with a tailored dietary plan within your socio-economic constraints.
+
+Patient: That would be very helpful.
+
+Doctor: Lastly, I want you to follow up with me in one month for a blood glucose check and to review your Hemoglobin A1c results.
+
+Patient: Okay, I'll make sure to come back.
+
+Doctor: Considering your geographical location and limited access to healthy food options, we'll explore community resources like local food banks and urban gardens.
+
+Patient: Thank you, Doctor. That means a lot.
+
+Doctor: Do you have any other questions for me?
+
+Patient: No, I think I understand everything.
+
+Doctor: Great. You understand and agree with the treatment plan?
+
+Patient: Yes, I do.
+
+Doctor: Excellent. We'll see you in a month then. Take care.
+
+Patient: Thank you, Doctor. See you next month.
+
+"|"[doctor]: Hi there, how are you doing today?
+
+[patient]: Hello, Doctor. I'm okay, just feeling a bit tired lately.
+
+[doctor]: Hmm, I see. So, what brings you in today?
+
+[patient]: My blood glucose levels have been high, and I'm feeling more tired than usual. Sometimes I even get dizzy.
+
+[doctor]: Hmm, I understand. Can you tell me a little more about your blood glucose levels? How often are you monitoring them at home?
+
+[patient]: I check them every day, and they've been higher than usual for a few weeks now.
+
+[doctor]: Alright. And how long have you been diagnosed with Type 2 Diabetes Mellitus?
+
+[patient]: It's been about two years now.
+
+[doctor]: Okay. And you're on metformin, right?
+
+[patient]: Yes, I take 500 mg every day for about a year now.
+
+[doctor]: Got it. Other than the elevated blood glucose levels, have you noticed any other symptoms?
+
+[patient]: Just the fatigue and occasional dizziness.
+
+[doctor]: Any fever or chills?
+
+[patient]: No, none of that.
+
+[doctor]: How about chest pain or palpitations?
+
+[patient]: No, my heart feels fine.
+
+[doctor]: Any shortness of breath or cough?
+
+[patient]: No, I haven't had any issues with that.
+
+[doctor]: What about abdominal pain, nausea, or vomiting?
+
+[patient]: None of those either.
+
+[doctor]: Any issues with urinating, like pain or increased frequency?
+
+[patient]: No, everything's normal there.
+
+[doctor]: Any joint pain or swelling?
+
+[patient]: No, my joints are okay.
+
+[doctor]: Have you experienced any headaches or seizures?
+
+[patient]: No, none.
+
+[doctor]: Do you have any known allergies?
+
+[patient]: No, I don't have any allergies.
+
+[doctor]: Alright, thanks for that. Let’s move on to the physical exam.
+
+[doctor]: Your blood pressure today is 135/85 mmHg. Your weight is 180 pounds, and your BMI is 31, which falls into the obese category.
+
+[patient]: Okay.
+
+[doctor]: Let's check your general appearance. You appear alert and oriented, and you're not in any acute distress.
+
+[patient]: That's good to hear.
+
+[doctor]: Your heart rate and rhythm are regular, and I don't hear any murmurs, gallops, or rubs.
+
+[patient]: Okay, that's good.
+
+[doctor]: Your lungs are clear to auscultation bilaterally, and there are no wheezes, rales, or rhonchi.
+
+[patient]: Alright.
+
+[doctor]: Your abdomen is soft and non-tender, and there's no organomegaly.
+
+[patient]: Good.
+
+[doctor]: Neurologically, your cranial nerves II-XII are grossly intact, and I don't see any focal deficits.
+
+[patient]: Okay.
+
+[doctor]: We're still waiting for the results of your Hemoglobin A1c test, which will give us a good indication of your long-term blood glucose control.
+
+[patient]: When will those results be ready?
+
+[doctor]: They should be ready by your next visit.
+
+[doctor]: Based on your symptoms and the information you've provided, it seems like your Type 2 Diabetes Mellitus is not well controlled. Your frequent blood glucose elevations and symptoms of increased fatigue and dizziness suggest that we might need to adjust your treatment plan.
+
+[patient]: What do you think is causing this?
+
+[doctor]: It could be due to poor dietary habits, irregular exercise, or possible non-adherence to your medication. But we'll need to investigate further.
+
+[doctor]: For your medical treatment, we'll increase your metformin dose to 1000 mg, taken orally twice daily.
+
+[patient]: Okay, I can do that.
+
+[doctor]: I'd also like to refer you to an endocrinologist, Dr. Robert Chambers, for specialized diabetes management.
+
+[patient]: Alright, that sounds good.
+
+[doctor]: Let's talk about some lifestyle modifications. We need to stick to a strict low-carbohydrate diet and regular exercise. I'll provide you with educational materials in both Spanish and English to help you understand better.
+
+[patient]: Thank you, that will help.
+
+[doctor]: It's also important to limit your alcohol intake, as it can affect your blood glucose levels.
+
+[patient]: I understand.
+
+[doctor]: For physical activity, aim for at least 150 minutes of moderate exercise per week.
+
+[patient]: I can try to do that.
+
+[doctor]: Given that you live in a food desert, I'll refer you to a community nutritionist who can help you come up with a tailored dietary plan within your socio-economic constraints.
+
+[patient]: That would be very helpful.
+
+[doctor]: Lastly, I want you to follow up with me in one month for a blood glucose check and to review your Hemoglobin A1c results.
+
+[patient]: Okay, I'll make sure to come back.
+
+[doctor]: Considering your geographical location and limited access to healthy food options, we'll explore community resources like local food banks and urban gardens.
+
+[patient]: Thank you, Doctor. That means a lot.
+
+[doctor]: Do you have any other questions for me?
+
+[patient]: No, I think I understand everything.
+
+[doctor]: Great. You understand and agree with the treatment plan?
+
+[patient]: Yes, I do.
+
+[doctor]: Excellent. We'll see you in a month then. Take care.
+
+[patient]: Thank you, Doctor. See you next month."
+ENCOUNTER FOR ISSUE OF REPEAT PRESCRIPTION|"ROLE: Family Medicine Physician
+
+- Medical Outcome: Medication adjustment, including details of medication.
+- Medical History: Previous Diagnoses - Hypertension, Family Medical History - Father with hypertension and heart disease, Medication History - Currently on Lisinopril.
+- Symptom Description: Mild headaches, occasional dizziness, stabilized blood pressure with current medication.
+- Patient’s self-reported habits and lifestyle: Sleep - 7-8 hours per night, Diet - Balanced diet with limited salt intake, Exercise - Walks 30 minutes a day, Tobacco Use - None, Alcohol Consumption - 1-2 drinks per week, Drug Use - None.
+- Demographic Information: Age - 55, Gender - Male, Ethnicity - African American, Socio-economic Status - Middle class, Education Level - College graduate, Health Literacy - Good, Job Status - Accountant.
+- Patient's Behavior: Generally cooperative with medical advice, occasional lapses in taking medication.
+- Geographical Location: Urban area in a big city, Well-served by Transit.
+- Clinical Setting: Private Practice.
+- Type of Encounter: Follow-up.
+- Treatment Disparities: NA.
+- Native or Non-Native English Speaking Patient: Native English speaking patient.
+- Physical exams: Blood pressure check.
+- Investigation/Test results: Last blood pressure log showing readings in the range of 130/80 mmHg to 140/85 mmHg, awaiting lipid profile results.
+"|"**Subjective:**
+
+**Chief Complaint (CC):**  
+The patient, a 55-year-old African American male, presents for a follow-up appointment related to his hypertension management.
+
+**History of Present Illness (HPI):**  
+The patient reports experiencing mild headaches and occasional dizziness over the past few weeks. He notes that his blood pressure has been relatively stable with his current medication, Lisinopril. He acknowledges occasional lapses in taking his medication but generally adheres to the prescribed regimen.
+
+**Review of Systems (ROS):**  
+- **General:** Reports mild headaches and occasional dizziness.
+- **Cardiovascular:** No chest pain, palpitations, or shortness of breath.
+- **Neurological:** No other neurological symptoms reported.
+- **Gastrointestinal:** No changes in bowel or bladder function.
+- **Musculoskeletal:** No joint pain or swelling.
+
+**Lifestyle and Habits:**  
+- **Sleep:** Patient reports getting 7-8 hours of sleep per night.
+- **Diet:** Follows a balanced diet with limited salt intake.
+- **Exercise:** Walks 30 minutes daily.
+- **Tobacco Use:** None.
+- **Alcohol Consumption:** 1-2 drinks per week.
+- **Drug Use:** None.
+
+**Objective:**
+
+**Vital Signs:**  
+- Blood Pressure: 135/82 mmHg (measured in the office today)
+
+**Physical Examination:**  
+- **General:** Patient appears well and in no acute distress.
+- **Cardiovascular:** Heart sounds - Regular rate and rhythm, no murmurs.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Neurological:** No focal deficits.
+- **Musculoskeletal:** No joint swelling or deformities.
+
+**Investigation/Test Results:**  
+- **Blood Pressure Log:** Recent readings range between 130/80 mmHg and 140/85 mmHg.
+- **Lipid Profile:** Awaiting results.
+
+**Assessment:**
+
+The patient is a 55-year-old male with a history of hypertension, currently managed with Lisinopril but experiencing occasional mild headaches and dizziness. Blood pressure readings have been relatively stable but slightly elevated.
+
+1. **Hypertension:** 
+   - **Medical Reasoning:** Given the patient’s current blood pressure readings and symptoms, it is essential to optimize his blood pressure control to prevent long-term cardiovascular complications.
+   - **Family History:** Father with hypertension and heart disease, which underscores the importance of stringent blood pressure management in this patient.
+
+**Plan:**
+
+1. **Medication Adjustment:** 
+   - Increase Lisinopril dosage to 20 mg daily to achieve better control of blood pressure.
+   - Consider adding a low-dose diuretic if blood pressure readings do not improve in the next 4 weeks.
+
+2. **Lifestyle Recommendations:**
+   - Encourage continued adherence to a low-sodium diet.
+   - Reinforce the importance of regular exercise, and recommend increasing walking time to 45 minutes if tolerated.
+
+3. **Follow-Up:**
+   - Schedule a follow-up appointment in 4 weeks to reassess blood pressure and review lipid profile results.
+   - Advise the patient to keep a detailed blood pressure log and bring it to the next appointment.
+   - Discuss the significance of medication adherence and develop strategies to help the patient remember to take his medication regularly.
+
+4. **Patient Education:**
+   - Educate the patient about the potential complications of uncontrolled hypertension.
+   - Provide written material on dietary and lifestyle modifications for hypertension management.
+
+The patient understands and agrees with the recommended plan."|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+The patient, a 55-year-old African American male, presents for a follow-up appointment related to his hypertension management.
+
+**History of Present Illness (HPI):**  
+The patient reports experiencing mild headaches and occasional dizziness over the past few weeks. He notes that his blood pressure has been relatively stable with his current medication, Lisinopril. He acknowledges occasional lapses in taking his medication but generally adheres to the prescribed regimen.
+
+**Review of Systems (ROS):**  
+- **General:** Reports mild headaches and occasional dizziness.
+- **Cardiovascular:** No chest pain, palpitations, or shortness of breath.
+- **Neurological:** No other neurological symptoms reported.
+- **Gastrointestinal:** No changes in bowel or bladder function.
+- **Musculoskeletal:** No joint pain or swelling.
+
+**Lifestyle and Habits:**  
+- **Sleep:** Patient reports getting 7-8 hours of sleep per night.
+- **Diet:** Follows a balanced diet with limited salt intake.
+- **Exercise:** Walks 30 minutes daily.
+- **Tobacco Use:** None.
+- **Alcohol Consumption:** 1-2 drinks per week.
+- **Drug Use:** None.
+
+**2. Objective:**
+
+**Vital Signs:**  
+- Blood Pressure: 135/82 mmHg (measured in the office today)
+
+**Physical Examination:**  
+- **General:** Patient appears well and in no acute distress.
+- **Cardiovascular:** Heart sounds - Regular rate and rhythm, no murmurs.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Neurological:** No focal deficits.
+- **Musculoskeletal:** No joint swelling or deformities.
+
+**Investigation/Test Results:**  
+- **Blood Pressure Log:** Recent readings range between 130/80 mmHg and 140/85 mmHg.
+
+**3. Assessment:**
+
+The patient is a 55-year-old male with a history of hypertension, currently managed with Lisinopril but experiencing occasional mild headaches and dizziness. Blood pressure readings have been relatively stable but slightly elevated.
+
+1. **Hypertension:** 
+   - **Medical Reasoning:** Given the patient’s current blood pressure readings and symptoms, it is essential to optimize his blood pressure control to prevent long-term cardiovascular complications.
+   - **Family History:** Father with hypertension and heart disease, which underscores the importance of stringent blood pressure management in this patient.
+
+**4. Plan:**
+
+1. **Medication Adjustment:** 
+   - Increase Lisinopril dosage to 20 mg daily to achieve better control of blood pressure.
+   - Consider adding a low-dose diuretic if blood pressure readings do not improve in the next 4 weeks.
+
+2. **Lifestyle Recommendations:**
+   - Encourage continued adherence to a low-sodium diet.
+   - Reinforce the importance of regular exercise, and recommend increasing walking time to 45 minutes if tolerated.
+
+3. **Follow-Up:**
+   - Schedule a follow-up appointment in 4 weeks to reassess blood pressure and review lipid profile results.
+   - Advise the patient to keep a detailed blood pressure log and bring it to the next appointment.
+   - Discuss the significance of medication adherence and develop strategies to help the patient remember to take his medication regularly.
+
+4. **Patient Education:**
+   - Educate the patient about the potential complications of uncontrolled hypertension.
+   - Provide written material on dietary and lifestyle modifications for hypertension management.
+
+The patient understands and agrees with the recommended plan."|"**1. Subjective:**
+
+**CC:**  
+The pt, a 55 y/o AA male, presents for f/u appt related to his HTN mgmt.
+
+**HPI:**  
+The pt reports experiencing mild HA and occasional dizziness over the past few weeks. He notes that his BP has been relatively stable with his current med, Lisinopril. He acknowledges occasional lapses in taking his med but generally adheres to the prescribed regimen.
+
+**ROS:**  
+- **General:** Reports mild HA and occasional dizziness.
+- **CV:** No CP, palpitations, or SOB.
+- **Neuro:** No other neuro sx reported.
+- **GI:** No changes in bowel or bladder function.
+- **MSK:** No joint pain or swelling.
+
+**Lifestyle and Habits:**  
+- **Sleep:** Pt reports getting 7-8 hrs of sleep per night.
+- **Diet:** Follows a balanced diet with limited Na intake.
+- **Exercise:** Walks 30 mins daily.
+- **Tobacco Use:** None.
+- **EtOH Consumption:** 1-2 drinks per week.
+- **Drug Use:** None.
+
+**2. Objective:**
+
+**VS:**  
+- BP: 135/82 mmHg (measured in the office today)
+
+**PE:**  
+- **General:** Pt appears well and in no acute distress.
+- **CV:** Heart sounds - RRR, no murmurs.
+- **Resp:** Clear to ausc bilaterally.
+- **Abd:** Soft, non-tender, no organomegaly.
+- **Neuro:** No focal deficits.
+- **MSK:** No joint swelling or deformities.
+
+**Investigation/Test Results:**  
+- **BP Log:** Recent readings range between 130/80 mmHg and 140/85 mmHg.
+
+**3. Assessment:**
+
+The pt is a 55 y/o male with a hx of HTN, currently managed with Lisinopril but experiencing occasional mild HA and dizziness. BP readings have been relatively stable but slightly elevated.
+
+1. **HTN:** 
+   - **Medical Reasoning:** Given the pt’s current BP readings and sx, it is essential to optimize his BP control to prevent long-term CV complications.
+   - **FHx:** Father with HTN and heart disease, which underscores the importance of stringent BP mgmt in this pt.
+
+**4. Plan:**
+
+1. **Med Adjustment:** 
+   - Increase Lisinopril dosage to 20 mg daily to achieve better control of BP.
+   - Consider adding a low-dose diuretic if BP readings do not improve in the next 4 weeks.
+
+2. **Lifestyle Recommendations:**
+   - Encourage continued adherence to a low-Na diet.
+   - Reinforce the importance of regular exercise, and recommend increasing walking time to 45 mins if tolerated.
+
+3. **F/U:**
+   - Schedule a f/u appt in 4 weeks to reassess BP and review lipid profile results.
+   - Advise the pt to keep a detailed BP log and bring it to the next appt.
+   - Discuss the significance of med adherence and develop strategies to help the pt remember to take his med regularly.
+
+4. **Pt Education:**
+   - Educate the pt about the potential complications of uncontrolled HTN.
+   - Provide written material on dietary and lifestyle modifications for HTN mgmt.
+
+The pt understands and agrees with the recommended plan."|Family Medicine Physician|"[doctor] Hi there, how are you doing today?
+
+[patient] Hello, I'm doing alright, thank you.
+
+[doctor] Good to hear. I'm Dr. Smith. I see from your chart that you’re here for a follow-up on your hypertension management. How have you been feeling lately?
+
+[patient] Well, I've been having some mild headaches and occasional dizziness over the past few weeks.
+
+[doctor] Hmm, I see. Have you noticed any changes in your blood pressure readings at home?
+
+[patient] Not really, they've been fairly stable, I think. But sometimes I forget to take my medication.
+
+[doctor] I understand. Let’s talk more about your current symptoms. You mentioned mild headaches and occasional dizziness. How often have these been happening?
+
+[patient] The headaches come and go, maybe a few times a week. The dizziness isn't too frequent, but I notice it every now and then.
+
+[doctor] Okay, and is there anything that seems to trigger these symptoms, or any particular time of day when you notice them more?
+
+[patient] No, not really. They seem pretty random.
+
+[doctor] Alright. You’re currently taking Lisinopril for your hypertension, right?
+
+[patient] Yes, that's correct.
+
+[doctor] And how often do you forget to take your medication?
+
+[patient] Maybe once or twice a week. I try to remember, but sometimes it slips my mind.
+
+[doctor] I understand. Consistency is really key with blood pressure medication. Let’s also talk about your lifestyle. How’s your diet?
+
+[patient] I try to eat a balanced diet and limit my salt intake.
+
+[doctor] That’s good to hear. How about exercise? Are you able to get regular physical activity?
+
+[patient] Yes, I walk for about 30 minutes every day.
+
+[doctor] Excellent. And do you smoke or use any tobacco products?
+
+[patient] No, I don't smoke.
+
+[doctor] Good. How about alcohol? Do you drink?
+
+[patient] I have about 1-2 drinks per week.
+
+[doctor] Alright. And any drug use?
+
+[patient] No, none at all.
+
+[doctor] Great. Let’s discuss your sleep. Are you getting enough rest?
+
+[patient] Yes, I usually get about 7-8 hours of sleep per night.
+
+[doctor] That’s important. Let me take a look at your vital signs from today. Your blood pressure is 135/82 mmHg. Have your home readings been similar?
+
+[patient] Yes, they usually range between 130/80 and 140/85.
+
+[doctor] Okay. I see we've also ordered a lipid profile, but we're still waiting on those results. Have you had any chest pain, palpitations, or shortness of breath?
+
+[patient] No, none of that.
+
+[doctor] And any changes in your bowel or bladder function?
+
+[patient] No, everything’s normal there.
+
+[doctor] Any joint pain or swelling?
+
+[patient] No, none.
+
+[doctor] Alright, let me perform a quick physical examination. Your heart sounds are regular with no murmurs. Your lungs are clear, and your abdomen is soft and non-tender. No neurological deficits and no joint swelling or deformities. Everything looks good there.
+
+[patient] That’s a relief.
+
+[doctor] Given your current symptoms and blood pressure readings, I think we should make some adjustments to your medication. I’m going to increase your Lisinopril dosage to 20 mg daily. If your blood pressure readings don’t improve in the next four weeks, we might consider adding a low-dose diuretic.
+
+[patient] Okay, I can do that.
+
+[doctor] I also want to emphasize the importance of continuing your low-sodium diet and regular exercise. If you can, try to increase your walking time to 45 minutes daily.
+
+[patient] I’ll try my best.
+
+[doctor] Great. Let's schedule a follow-up appointment in four weeks to see how you’re doing and review your lipid profile results. I also need you to keep a detailed blood pressure log and bring it to your next appointment.
+
+[patient] Will do.
+
+[doctor] It’s crucial to take your medication consistently. Let’s discuss strategies to help you remember. Maybe setting a daily alarm or placing your medication in a visible spot could help.
+
+[patient] That sounds like a good idea.
+
+[doctor] Also, I’ll provide you with some written material on dietary and lifestyle modifications for hypertension management. It’s important to understand the potential complications of uncontrolled hypertension.
+
+[patient] I appreciate that.
+
+[doctor] Do you have any questions or concerns right now?
+
+[patient] No, I think you've covered everything.
+
+[doctor] Alright then. We’ll see you in four weeks. Remember to bring your blood pressure log. Take care and don’t hesitate to call if you have any concerns before your next appointment.
+
+[patient] Thank you, doctor. I’ll see you in four weeks.
+
+[doctor] You’re welcome. Take care."|"[doctor] Hi there, how are you doing today?
+
+[patient] Hey, I'm doing alright, thanks.
+
+[doctor] Good to hear. I'm Dr. Smith. I see from your chart that you’re here for a follow-up on your hypertension management. How have you been feeling lately?
+
+[patient] Well, I've been having some mild headaches and occasional dizziness over the past few weeks.
+
+[doctor] Hmm, I see. Have you noticed any changes in your blood pressure readings at home?
+
+[patient] Not really, they've been fairly stable, I think. But sometimes I forget to take my medication.
+
+[doctor] I understand. Let’s talk more about your current symptoms. You mentioned mild headaches and occasional dizziness. How often have these been happening?
+
+[patient] The headaches come and go, maybe a few times a week. The dizziness isn't too frequent, but I notice it every now and then.
+
+[doctor] Okay, and is there anything that seems to trigger these symptoms, or any particular time of day when you notice them more?
+
+[patient] No, not really. They seem pretty random.
+
+[doctor] Alright. You’re currently taking Lisinopril for your hypertension, right?
+
+[patient] Yes, that's correct.
+
+[doctor] And how often do you forget to take your medication?
+
+[patient] Maybe once or twice a week. I try to remember, but sometimes it slips my mind.
+
+[doctor] I understand. Consistency is really key with blood pressure medication. Let’s also talk about your lifestyle. How’s your diet?
+
+[patient] I try to eat a balanced diet and limit my salt intake.
+
+[doctor] That’s good to hear. How about exercise? Are you able to get regular physical activity?
+
+[patient] Yes, I walk for about 30 minutes every day.
+
+[doctor] Excellent. And do you smoke or use any tobacco products?
+
+[patient] No, I don't smoke.
+
+[doctor] Good. How about alcohol? Do you drink?
+
+[patient] I have about 1-2 drinks per week.
+
+[doctor] Alright. And any drug use?
+
+[patient] No, none at all.
+
+[doctor] Great. Let’s discuss your sleep. Are you getting enough rest?
+
+[patient] Yes, I usually get about 7-8 hours of sleep per night.
+
+[doctor] That’s important. Let me take a look at your vital signs from today. Your blood pressure is 135/82 mmHg. Have your home readings been similar?
+
+[patient] Yes, they usually range between 130/80 and 140/85.
+
+[doctor] Okay. I see we've also ordered a lipid profile, but we're still waiting on those results. Have you had any chest pain, palpitations, or shortness of breath?
+
+[patient] No, none of that.
+
+[doctor] And any changes in your bowel or bladder function?
+
+[patient] No, everything’s normal there.
+
+[doctor] Any joint pain or swelling?
+
+[patient] No, none.
+
+[doctor] Alright, let me perform a quick physical examination. Your heart sounds are regular with no murmurs. Your lungs are clear, and your abdomen is soft and non-tender. No neurological deficits and no joint swelling or deformities. Everything looks good there.
+
+[patient] That’s a relief.
+
+[doctor] Given your current symptoms and blood pressure readings, I think we should make some adjustments to your medication. I’m going to increase your Lisinopril dosage to 20 mg daily. If your blood pressure readings don’t improve in the next four weeks, we might consider adding a low-dose diuretic.
+
+[patient] Okay, I can do that.
+
+[doctor] I also want to emphasize the importance of continuing your low-sodium diet and regular exercise. If you can, try to increase your walking time to 45 minutes daily.
+
+[patient] I’ll try my best.
+
+[doctor] Great. Let's schedule a follow-up appointment in four weeks to see how you’re doing and review your lipid profile results. I also need you to keep a detailed blood pressure log and bring it to your next appointment.
+
+[patient] Will do.
+
+[doctor] It’s crucial to take your medication consistently. Let’s discuss strategies to help you remember. Maybe setting a daily alarm or placing your medication in a visible spot could help.
+
+[patient] That sounds like a good idea.
+
+[doctor] Also, I’ll provide you with some written material on dietary and lifestyle modifications for hypertension management. It’s important to understand the potential complications of uncontrolled hypertension.
+
+[patient] I appreciate that.
+
+[doctor] Do you have any questions or concerns right now?
+
+[patient] No, I think you've covered everything.
+
+[doctor] Alright then. We’ll see you in four weeks. Remember to bring your blood pressure log. Take care and don’t hesitate to call if you have any concerns before your next appointment.
+
+[patient] Thank you, doctor. I’ll see you in four weeks.
+
+[doctor] You’re welcome. Take care."
+ENCOUNTER FOR ISSUE OF REPEAT PRESCRIPTION|"**ROLE:** Family Medicine Physician
+
+1. **Medical Outcome:**
+   - Medication Adjustment: Continue with the current medication for hypertension.
+   - Prescribed Medication: Lisinopril 10 mg, 30 tablets, oral, once daily.
+   - Follow-up Recommendations: Return in 3 months for blood pressure check.
+   - Referral to Specialists: Referral to a cardiologist, Dr. Jane Smith, for routine cardiac assessment.
+
+2. **Medical History:**
+   - Previous Diagnoses: Hypertension
+   - Chronic Conditions: Hypertension
+   - Medication History: Lisinopril 10 mg daily for the past 6 months
+   - Allergies: None reported
+
+3. **Symptom Description:**
+   - Severity: Well-controlled
+   - Duration: Diagnosed 1 year ago
+   - Frequency: Daily medication adherence
+   - Impact on Daily Activities: No impact reported
+
+4. **Patient’s Self-Reported Habits and Lifestyle:**
+   - Sleep: 7 hours per night
+   - Diet: Balanced diet with low salt intake
+   - Exercise: 30 minutes of brisk walking, 5 times a week
+   - Tobacco Use: None
+   - Alcohol Consumption: Occasionally, 1-2 glasses of wine per week
+
+5. **Demographic Information:**
+   - Age: 57
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle-class
+   - Education Level: Bachelor's degree
+   - Health Literacy: High
+   - Job Status: Employed full-time as an accountant
+
+6. **Patient's Behavior:**
+   - The patient is cooperative and adheres to medical advice.
+
+7. **Geographical Location:**
+   - Urban
+   - Affluent neighborhood
+   - Well-served by transit
+
+8. **Clinical Setting:**
+   - Private Practice
+
+9. **Type of Encounter:**
+   - Chronic Disease Management
+
+10. **Treatment Disparities:**
+    - None reported
+
+11. **Native or Non-Native English-Speaking Patient:**
+    - Native English-Speaking
+
+12. **Physical Exam:**
+    - Blood Pressure: 128/78 mmHg
+
+13. **Investigation/Test Results:**
+    - NA"|Rejected|Rejected|Rejected|Rejected||

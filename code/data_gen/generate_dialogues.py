@@ -5,7 +5,7 @@ from gen_utils import dial_generation_functions
 #from .gen_utils import gen_constants
 
 
-path_to_input= "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/phase_9_1.5k/"
+path_to_input= "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/phase_11_1.5k/"
 
 def main():
     counter= 1
