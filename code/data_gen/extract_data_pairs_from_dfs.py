@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-directory = "/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector/phase_12_35_remaining/"
+directory = "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/phase_7_1.5k/"
 
 all_files = os.listdir(directory)
 
@@ -20,4 +20,4 @@ combined_df = pd.concat(df_list, ignore_index=True)
 combined_df= combined_df[combined_df["Polished Note"] != "Rejected"]
 
 
-combined_df.to_csv(f"{directory}_combined_with_dial.csv", sep="|", index=False)
+combined_df.to_csv(f"{directory}_combined_with_dial.csv", sep="~", index=False)

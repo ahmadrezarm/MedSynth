@@ -20,23 +20,19 @@ from huggingface_hub import HfFolder
 HfFolder.save_token(constants.HF_WRITE_TOKEN)
 
 REMOVE_COLUMNS = []
-RENAME_COLUMNS = {"Polished Note":"note", "polished_dial": "dialogue"} #
+RENAME_COLUMNS ={} #{"Polished Note":"note", "polished_dial": "dialogue", "Note": "unpolished_note", "dial": "unpolished_dialogue"} #
 INSTRUCTION = constants.summarizer_system_prompt
 
 # edit this whenevr you wanna make a new dataset
-#Notechat_sample_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/NoteChatSamples/note_chat_sample_2024-07-30_20-14.csv"
-Ahmad_data_phase_2_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/Phase_2_500/500_sample/_combined_with_dial.csv"
-Ahmad_data_phase_3_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/Phase_3_1k/with_dial/_combined_with_dial.csv"
-Ahmad_data_phase_4_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/phase_4_250/_combined_with_dial.csv"
-Ahmad_data_phase_5_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/phase_5_250/_combined_with_dial.csv"
-Ahmad_data_phase_6_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/phase_6_500/_combined_with_dial.csv"
-Ahmad_data_phase_7_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/phase_7_1.5k/_combined_with_dial.csv"
+#Notechat_sample_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/NoteChatSamples/note_chat_sample_2024-07-24_20-48.csv"
+#Ahmad_data_phase_2_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/Phase_2/500_sample/_combined_with_dial.csv"
+#Ahmad_data_phase_3_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/Phase_3/with_dial/_combined_with_dial.csv"
+#Ahmad_whole_data_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/phase_2_to_12_combined/total_data.csv"
 current_date= datetime.now().strftime("%Y-%m-%d_%H-%M")
 
-repo_name= f"SynthDataGen_llama3_Ahmad_4000_Sample_and_Aci_train_instruct_dataset{current_date}" #
+repo_name= f"SynthDataGen_llama3_Dial2Note_Aci_train_instruct_dataset{current_date}" #
 
-DATASETS_PATHS = [constants.Aci_train_path, Ahmad_data_phase_2_path, Ahmad_data_phase_3_path, 
-                  Ahmad_data_phase_4_path, Ahmad_data_phase_5_path,Ahmad_data_phase_6_path,  Ahmad_data_phase_7_path] #, 
+DATASETS_PATHS = [ constants.Aci_train_path, ] #, ,Ahmad_whole_data_path
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 

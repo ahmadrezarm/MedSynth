@@ -4,6 +4,8 @@ from abc import ABC, abstractmethod
 
 import pandas as pd
 
+from utils import constants
+
 
 class InstructDataset(ABC):
     """
@@ -24,12 +26,14 @@ class InstructDataset(ABC):
         :param dataset_path: The path to the dataset
         :return: None
         """
-        if dataset_path == "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/Phase_2/500_sample/_combined_with_dial.csv":
-                self.dataset = pd.read_csv(dataset_path, sep= "|")
-        elif dataset_path == "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/output/notes_onVector/Phase_3/with_dial/_combined_with_dial.csv":
-                self.dataset = pd.read_csv(dataset_path, sep= "|")
-        else:
+        if dataset_path == constants.Aci_train_path:
+                self.dataset = pd.read_csv(dataset_path)
+                
+        elif "NoteChat" in dataset_path:
             self.dataset = pd.read_csv(dataset_path)
+
+        else:
+            self.dataset = pd.read_csv(dataset_path, sep="|")
 
     def rename_columns(self, columns: dict[str, str]) -> None:
         """
