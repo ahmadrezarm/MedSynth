@@ -1,12 +1,12 @@
 #!/bin/bash
-#SBATCH --job-name=SynthDataGen_Dial2Note_llama-3-8b-Instruct_Ahmad_4000_samples_and_Aci
+#SBATCH --job-name=Ahmad_5.5k_tune
 #SBATCH --gres=gpu:a40:1
 #SBATCH --mail-user=ahmad.rm0067@gmail.com  # Email address for notifications
 #SBATCH --mail-type=ALL
 #SBATCH --qos=m2
-#SBATCH --time=6:00:00
+#SBATCH --time=8:00:00
 #SBATCH -c 30
-#SBATCH --mem=60G
+#SBATCH --mem=40G
 #SBATCH --output=slurm-%j.out
 #SBATCH --error=slurm-%j.err
 

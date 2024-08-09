@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=SynthDataGen_Dial2Note_llama-3-8b-Instruct_NoteChat_2500_samples_and_Aci_EVAL
+#SBATCH --job-name=NC_5.5k_Eval
 #SBATCH --gres=gpu:a40:1
 #SBATCH --mail-user=ahmad.rm0067@gmail.com  # Email address for notifications
 #SBATCH --mail-type=ALL
