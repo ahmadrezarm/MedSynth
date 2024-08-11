@@ -1,10 +1,10 @@
 #!/bin/bash
-#SBATCH --job-name=NC_7k_tune
+#SBATCH --job-name=AhmadData_10k_tune
 #SBATCH --gres=gpu:a40:1
 #SBATCH --mail-user=ahmad.rm0067@gmail.com  # Email address for notifications
 #SBATCH --mail-type=ALL
-#SBATCH --qos=m2
-#SBATCH --time=8:00:00
+#SBATCH --qos=normal
+#SBATCH --time=16:00:00
 #SBATCH -c 30
 #SBATCH --mem=40G
 #SBATCH --output=slurm-%j.out
