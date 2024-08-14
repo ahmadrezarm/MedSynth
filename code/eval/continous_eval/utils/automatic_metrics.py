@@ -26,7 +26,7 @@ class MetricsComputer:
     def compute_METEOR(self):
         meteor= evaluate.load('meteor')
         results = meteor.compute(predictions=self.pred_list, references=self.gt_list)
-        return results
+        return results["meteor"]
     
     
     # awaiting UML licence to install QuickUMLS

@@ -3,17 +3,20 @@
 
 import torch
 import os
-from huggingface_hub import HfFolder
+import sys
 import pandas as pd
 from datetime import datetime
 
-from unsloth import FastLanguageModel
+#from unsloth import FastLanguageModel
 import openai
 
 import constants 
-from utils.automatic_metrics import MetricsComputer ## add
 
-HfFolder.save_token(constants.HF_WRITE_TOKEN)
+module_path = '/Users/ahmadrezaie/2_My_papers/Synthetic_Data_Gen/code/eval/continous_eval/utils/'
+if module_path not in sys.path:
+    sys.path.append(module_path)
+
+from automatic_metrics import MetricsComputer 
 
 
 class ModelEvaluatorAutoMetrics:
@@ -33,16 +36,19 @@ class ModelEvaluatorAutoMetrics:
             self.results_df = pd.DataFrame()  # Initialize an empty DataFrame
 
         #self.model= model
-        self.test_dataset= pd.read_csv(test_dataset_path)
+        #self.test_dataset= pd.read_csv(test_dataset_path, sep= "|")
+        self.test_dataset = pd.read_csv(test_dataset_path, sep="|").sample(n=2, random_state=42)
+
 
         # Loading the fine-tuned model and the tokenizer for inference
-        self.model, self.tokenizer=  FastLanguageModel.from_pretrained(model_name = model,
-                                                                        max_seq_length = constants.tuning_config.get("model_config").get("max_seq_length"),
-                                                                        dtype = constants.tuning_config.get("model_config").get("dtype"),
-                                                                        load_in_4bit = constants.tuning_config.get("model_config").get("load_in_4bit"),)
+        if "gpt" not in model.lower():
+            self.model, self.tokenizer=  FastLanguageModel.from_pretrained(model_name = model,
+                                                                            max_seq_length = constants.tuning_config.get("model_config").get("max_seq_length"),
+                                                                            dtype = constants.tuning_config.get("model_config").get("dtype"),
+                                                                            load_in_4bit = constants.tuning_config.get("model_config").get("load_in_4bit"),)
 
-        # Using FastLanguageModel for fast inference
-        FastLanguageModel.for_inference(self.model)
+            # Using FastLanguageModel for fast inference
+            FastLanguageModel.for_inference(self.model)
 
 
     
@@ -128,7 +134,7 @@ class ModelEvaluatorAutoMetrics:
         dial_summary_pairs = {}
         for idx, conversation in enumerate (self.test_dataset["polished_dial"]):
             print(f"processing idx: {idx}")
-            summary = openai_client.chat.completions.create(
+            reponse = openai_client.chat.completions.create(
                 model= constants.gpt_config["model"],                 
                 temperature = constants.gpt_config["temperature"],           
                 max_tokens = constants.gpt_config["max_tokens"],
@@ -145,6 +151,8 @@ class ModelEvaluatorAutoMetrics:
                 ]
                 )
             
+            summary= reponse.choices[0].message.content
+            
             dial_summary_pairs[idx]= {"conversation": conversation, "summary": summary}
         
         return dial_summary_pairs
@@ -158,10 +166,11 @@ class ModelEvaluatorAutoMetrics:
 
     def get_automatic_eval_scores(self, dial_summary_pairs, model_name):
         dial_summary_pairs_df = pd.DataFrame.from_dict(dial_summary_pairs, orient='index')
+        print(dial_summary_pairs_df)
         metrics_computer = MetricsComputer(prediction_list= dial_summary_pairs_df["summary"],
-                                            gt_list= self.test_dataset["note"])
+                                            gt_list= self.test_dataset["Polished Note"])
         
-        
+        print("metrics compiter initialized sucessfuly!")
         eval_metrics= {
             'Model': model_name,
             'BLEU': metrics_computer.compute_BLEU(),
@@ -173,8 +182,10 @@ class ModelEvaluatorAutoMetrics:
             "METEOR": metrics_computer.compute_METEOR(),
             'EvaluationDate': datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             }
+        print(eval_metrics)
         # Append the current model's metrics to the results DataFrame
         self.results_df = self.results_df.append(eval_metrics, ignore_index=True)
+        print("result_df: ", self.results_df)
 
         return eval_metrics
 

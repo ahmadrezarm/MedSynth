@@ -1,8 +1,9 @@
 import os
 
-PATH_FOR_METRICS_DF= "/Users/ahmadrezaie/2_My_papers/Synthetic_Data_Gen/code/benchmarking/results/combined"
+PATH_FOR_METRICS_DF= '/Users/ahmadrezaie/2_My_papers/Synthetic_Data_Gen/code/benchmarking/results/combined/metrics.csv'
 
-TEST_DATA_PATH= ""
+
+TEST_DATA_PATH= "/Users/ahmadrezaie/2_My_papers/Synthetic_Data_Gen/code/benchmarking/dataset/test.csv"
 PATH_TO_SAVE_BENCHMARK_OUTPUT= "/Users/ahmadrezaie/2_My_papers/Synthetic_Data_Gen/code/benchmarking/results"
 
 HF_WRITE_TOKEN = os.getenv('MY_HF_WRITE_TOKEN')
