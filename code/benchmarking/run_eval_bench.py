@@ -1,5 +1,4 @@
-import model_evaluator
-import constants
+from bench_utils import model_evaluator, constants
 
 # change this whenever you have a new model.
 def main():

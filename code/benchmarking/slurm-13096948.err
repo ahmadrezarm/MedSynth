@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/benchmarking/run_eval.py", line 25, in <module>
+    main()
+  File "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/benchmarking/run_eval.py", line 6, in main
+    evaluator = model_evaluator.ModelEvaluatorAutoMetrics(
+  File "/fs01/home/ahmad/SynthDataGen/Synthetic_Data_Gen/code/benchmarking/model_evaluator.py", line 33, in __init__
+    self.results_df = pd.read_csv(self.metrics_file_path, sep="|")
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1898, in _make_engine
+    return mapping[engine](f, **self.options)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 93, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "parsers.pyx", line 581, in pandas._libs.parsers.TextReader.__cinit__
+pandas.errors.EmptyDataError: No columns to parse from file

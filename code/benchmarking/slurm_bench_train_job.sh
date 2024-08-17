@@ -1,12 +1,12 @@
 #!/bin/bash
-#SBATCH --job-name=Ahmad_10k_Eval
+#SBATCH --job-name=Bench_mistral_tune
 #SBATCH --gres=gpu:a40:1
 #SBATCH --mail-user=ahmad.rm0067@gmail.com  # Email address for notifications
 #SBATCH --mail-type=ALL
-#SBATCH --qos=long
-#SBATCH --time=4:00:00
-#SBATCH -c 30
-#SBATCH --mem=30G
+#SBATCH --qos=normal
+#SBATCH --time=16:00:00
+#SBATCH -c 20
+#SBATCH --mem=40G
 #SBATCH --output=slurm-%j.out
 #SBATCH --error=slurm-%j.err
 
@@ -18,6 +18,6 @@ source /pkgs/anaconda3/bin/activate /h/ahmad/.conda/envs/SynthDataGenEnv || cond
 
 
 # put your command here
-python /h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/run_eval.py
+python /h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/benchmarking/run_tuning_bench.py
 
 echo `date`: "Job $SLURM_JOB_ID finished running, exit code: $?"
