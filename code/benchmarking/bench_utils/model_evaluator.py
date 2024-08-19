@@ -9,7 +9,7 @@ from datetime import datetime
 from unsloth import FastLanguageModel
 import openai
 
-import Synthetic_Data_Gen.code.benchmarking.utils.constants as constants 
+from bench_utils import constants 
 
 module_path = '/h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/utils/'
 if module_path not in sys.path:

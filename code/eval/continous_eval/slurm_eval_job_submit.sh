@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=NC_10k_Only_Eval
+#SBATCH --job-name=Ahmad_10k_Only_Eval
 #SBATCH --gres=gpu:a40:1
 #SBATCH --mail-user=ahmad.rm0067@gmail.com  # Email address for notifications
 #SBATCH --mail-type=ALL

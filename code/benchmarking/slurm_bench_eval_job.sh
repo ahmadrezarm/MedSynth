@@ -1,13 +1,13 @@
 #!/bin/bash
-#SBATCH --job-name=GPT_Bench_eval
+#SBATCH --job-name=Mistral_Bench_eval
 
 #SBATCH --gres=gpu:a40:1
 ##SBATCH --gres=gpu:rtx6000:1
 
 #SBATCH --mail-user=ahmad.rm0067@gmail.com  # Email address for notifications
 #SBATCH --mail-type=ALL
-#SBATCH --qos=m
-#SBATCH --time=12:00:00
+#SBATCH --qos=long
+#SBATCH --time=2-00:00:00
 #SBATCH -c 30
 #SBATCH --mem=30G
 #SBATCH --output=slurm-%j.out
@@ -21,6 +21,6 @@ source /pkgs/anaconda3/bin/activate /h/ahmad/.conda/envs/SynthDataGenEnv || cond
 
 
 # put your command here
-python /h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/benchmarking/run_eval.py
+python /h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/benchmarking/run_eval_bench.py
 
 echo `date`: "Job $SLURM_JOB_ID finished running, exit code: $?"

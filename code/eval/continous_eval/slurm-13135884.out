@@ -1,0 +1,2494 @@
+Sat Aug 17 10:26:11 EDT 2024: Job 13135884 is allocated resource
+==((====))==  Unsloth: Fast Llama patching release 2024.4
+   \\   /|    GPU: NVIDIA A40. Max memory: 44.556 GB. Platform = Linux.
+O^O/ \_/ \    Pytorch: 2.3.0+cu121. CUDA = 8.6. CUDA Toolkit = 12.1.
+\        /    Bfloat16 = TRUE. Xformers = 0.0.26.post1. FA = True.
+ "-____-"     Free Apache license: http://github.com/unslothai/unsloth
+processing idx: 0
+len of response is: 8698
+len of summary is: 3481
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up of chronic conditions, primarily focusing on osteoarthritis flare-ups and management of gout.
+
+**History of Present Illness (HPI):**
+Carolyn is a 49-year-old African American female who presents for a follow-up visit. She has a history of gout and psoriasis. She reports mild to moderate joint pain, primarily in her elbows, which has been experiencing intermittent flare-ups. These flare-ups have been associated with occasional numbness in her hands, particularly after prolonged typing at her office desk job. She mentions that her symptoms have increased with prolonged immobility, suggesting a potential link with her sedentary lifestyle. She has been managing her symptoms with over-the-counter pain relief and has not sought any specialist consultations.
+
+**Review of Systems (ROS):**
+- **Musculoskeletal:** Reports joint pain and swelling in the elbows, especially after prolonged activity. Occasional numbness in hands.
+- **Neurological:** Denies any significant neurological deficits, only reports occasional numbness in hands.
+- **General:** No recent weight loss, fever, or fatigue reported.
+- **Skin:** History of psoriasis, currently managed with topical corticosteroids.
+
+**2. Objective:**
+
+**Physical Examination:**
+- **General:** Alert and oriented, no acute distress.
+- **Vital Signs:** Within normal limits.
+- **HEENT:** No cervical lymphadenopathy.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Musculoskeletal:** 
+  - Right elbow: Edema and inflammation of the right olecranon, tenderness on palpation of the olecranon bursa, pain with pronation and supination.
+  - Pain with flexion and extension of the right arm.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Extremities:** No lower extremity edema.
+
+**Investigation/Test Results:**
+- **Autoimmune Panel:** Elevated rheumatoid factor (RF) and antinuclear antibody (ANA).
+- **ESR:** Elevated.
+- **Uric Acid:** Normal.
+
+**3. Assessment:**
+
+1. **Gout, inpatient status.**
+   - The patient has a history of gout with a recent episode of inflammation of the toe 3 months ago. Current presentation with joint pain and swelling in the elbows is consistent with possible gouty arthritis. Elevated RF and ANA suggest a potential autoimmune component.
+2. **Osteoarthritis of the elbow.**
+   - The patient reports pain and swelling in the elbows, with tenderness on palpation and pain on movement, consistent with osteoarthritis.
+3. **Psoriasis.**
+   - Stable, currently managed with topical corticosteroids.
+
+**4. Plan:**
+
+1. **Gout Management:**
+   - **Medication:** Continue colchicine 0.6 mg twice a day as needed for flare-ups.
+   - **Imaging:** Order an X-ray of the right elbow to assess any joint involvement.
+   - **Referral:** Referral to Dr. John Smith, Rheumatologist, for further evaluation of potential autoimmune arthritis.
+
+2. **Osteoarthritis:**
+   - **Medication:** Prescribe meloxicam 15 mg once a day for pain and swelling.
+   - **Imaging:** Await results of the right elbow X-ray and follow up with a referral to physical therapy if necessary.
+
+3. **Psoriasis:**
+   - Continue current treatment with steroid cream for scalp psoriasis.
+
+**Follow-up Recommendations:**
+- Follow-up appointment in 2 weeks to review the results of the X-ray and blood work.
+- Referral to physical therapy for management of osteoarthritis, contingent on X-ray results. }}<|eot_id|>
+processing idx: 1
+len of response is: 9005
+len of summary is: 3371
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up for chronic disease management.
+
+**History of Present Illness (HPI):**
+Beverly Johnson is a 24-year-old African American female with a known history of type 2 diabetes and hypertension, presenting for her annual check-up. She reports that her blood sugars have been inconsistent and occasionally high over the past year. She attributes this to her diet, as she has been adherent to her medication regimen but struggles with dietary recommendations. She recently started working in a bakery, which she finds challenging to resist the temptation of sweets. She has not missed any doses of her medication but admits to snacking during her bakery shifts and consuming more desserts than before.
+
+**Review of Systems (ROS):**
+- **General:** Reports good sleep (8 hours per night), no suicidal ideation.
+- **Cardiovascular:** Hypertension, blood pressures have been normal.
+- **Endocrine:** Type 2 diabetes, inconsistent blood sugar levels.
+- **Gastrointestinal:** No abdominal pain, no changes in bowel habits.
+- **Neurological:** No focal deficits.
+- **Psychiatric:** No depression or anxiety, good coping skills.
+
+**2. Objective:**
+
+**Physical Exam:**
+- **Cardiovascular:** Regular rate and rhythm, grade 2/6 systolic ejection fraction murmur heard best at the right sternal border.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Musculoskeletal:** No edema, full range of motion.
+- **Neurological:** Grossly intact, no focal deficits.
+- **Endocrine:** No thyromegaly, no carotid bruits.
+
+**Vitals Reviewed:**
+- Blood Pressure: Normal
+- Heart Rate: Normal
+- Respiratory Rate: Normal
+- Temperature: Normal
+
+**Investigation/Test Results:**
+- Hemoglobin A1c: Elevated, indicative of poor blood sugar control.
+- Fasting Blood Sugar: Awaiting results.
+- Complete Blood Count: Normal.
+- Lipid Panel: Awaiting results.
+
+**3. Assessment:**
+
+1. **Type 2 Diabetes Mellitus:** Blood sugars have been elevated, likely due to dietary indiscretion. Hemoglobin A1c is elevated.
+2. **Hypertension:** Blood pressures have been normal.
+
+**4. Plan:**
+
+1. **Type 2 Diabetes Mellitus:**
+   - **Medical Reasoning:** Elevated hemoglobin A1c indicates poor glycemic control.
+   - **Patient Education and Counseling:** Discussed the importance of strict adherence to dietary recommendations, particularly reducing snacking and avoiding additional sweets.
+   - **Medical Treatment:** Continue current medication (Metformin 500 mg twice daily).
+   - **Follow-up:** Re-evaluate in 2 months to reassess blood sugar control and consider adding a second medication if no improvement.
+   - **Additional Testing:** Order fasting blood sugar and hemoglobin A1c.
+
+2. **Hypertension:**
+   - **Medical Reasoning:** Blood pressures have been normal.
+   - **Patient Education and Counseling:** Continue current medication regimen (Li- Lisinopril 10 mg once daily).
+   - **Medical Treatment:** No changes to current antihypertensive medication.
+
+**Patient Agreements:** The patient understands and agrees with the recommended medical treatment plan.
+
+**Instructions:**
+- The patient is advised to check her blood sugars in the morning and call them in for the first fasting blood sugar in about 2 weeks.
+- She will return for a follow-up in 2 months for a re-evaluation of her blood sugar levels and overall management.
+##### }}<|eot_id|>
+processing idx: 2
+len of response is: 10953
+len of summary is: 3594
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Joint pain, particularly in the left elbow.
+
+**History of Present Illness (HPI):**
+Anna Nguyen is a 26-year-old female with a past medical history significant for epilepsy, depression, and peptic ulcer disease, who presents with moderate joint pain in her left elbow. The patient reports that the pain has been ongoing for several months and is exacerbated by her job as a software engineer, which involves prolonged sitting and typing. She experiences daily stiffness and swelling at the elbow, making it difficult to open and close her left hand. She is right-handed but has been able to write with her left hand. She denies any numbness or tingling in her hands or weakness in her arm.
+
+**Review of Systems (ROS):**
+- **Musculoskeletal:** Endorses swelling and erythema of the left elbow.
+- **Neurological:** Denies numbness or tingling in hands, weakness in the arm.
+- **General:** Denies fever or chills.
+- **Psychiatric:** Endorses mild depressive symptoms, currently in therapy, previously diagnosed depression.
+- **Gastrointestinal:** History of peptic ulcer disease, currently managed with protonix.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 98.6°F
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths per minute
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **General:** Alert and oriented, well-nourished, no acute distress.
+- **Musculoskeletal:** Erythema and edema of the left elbow, pain with palpation of the olecranon, warm to palpation. Pain with flexion and extension of the left elbow. Palpable left radial pulse.
+- **Neurological:** No focal deficits observed.
+
+**Investigation/Test Results:**
+- **Left Arm X-ray:** No evidence of elbow fracture.
+- **Endoscopy:** Showed an episode of gastritis, consistent with patient's history of peptic ulcer disease.
+
+**3. Assessment:**
+1. **Left elbow pain (ICD-10 M25.521):**
+   - Olecranon bursitis, likely secondary to repetitive trauma from her job.
+2. **Epilepsy:**
+   - Well-managed with current medication.
+3. **Depression:**
+   - Mild depressive symptoms, managed with therapy and potential future medical intervention.
+4. **Peptic Ulcer Disease:**
+   - History of episodes, currently managed with protonix.
+
+**4. Plan:**
+1. **Left elbow pain:**
+   - **Medical Reasoning:** Likely olecranon bursitis.
+   - **Patient Education and Counseling:** Discussed the use of a pillow to support the elbow during work hours and the importance of taking breaks to avoid further strain.
+   - **Medical Treatment:** Prescribed melo- meloxicam 15 mg, oral, once daily, 30 tablets, 1 refill.
+   - **Additional Testing:** Referral to a physical therapist for a tailored exercise regimen.
+   - **Follow-up:** Follow-up in 2 weeks.
+
+2. **Epilepsy:**
+   - **Medical Reasoning:** Well-managed with current medication.
+   - **Medical Treatment:** Continue keppra 500 mg, oral, twice daily, 90 tablets, refill.
+
+3. **Depression:**
+   - **Medical Reasoning:** Mild depressive symptoms, previously diagnosed.
+   - **Patient Education and Counseling:** Discussed the benefits of continuing therapy and potential medical treatment options.
+   - **Medical Treatment:** Start lexapro 10 mg, oral, once daily, 30 tablets, 1 refill.
+
+4. **Peptic Ulcer Disease:**
+   - **Medical Reasoning:** History of episodes, currently managed.
+   - **Medical Treatment:** Continue protonix 40 mg, oral, once daily before meals, 30 tablets.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan. }}<|eot_id|>
+processing idx: 3
+len of response is: 7161
+len of summary is: 2913
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up for hypertension management.
+
+**History of Present Illness (HPI):**
+Susan is a 26-year-old African American female with a known history of hypertension and kidney transplant, presenting for a follow-up visit. She reports long-standing struggles with elevated blood pressure readings, particularly in recent months. Despite being on Amlodipine (Norvasc) 10 mg daily, her blood pressures have remained uncontrolled, frequently above 150/90 mmHg. She has experienced occasional headaches, which she attributes to stress related to her job as a part-time retail worker.
+
+**Review of Systems (ROS):**
+- Cardiovascular: Reports elevated blood pressure readings, occasional headaches.
+- Respiratory: No shortness of breath or chest pain.
+- Gastrointestinal: No nausea or abdominal pain.
+- Neurological: No dizziness or visual changes.
+- Genitourinary: No changes in urination patterns.
+- Musculoskeletal: No muscle or joint pain.
+- Dermatological: No rashes or lesions.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 160/100 mmHg
+- Heart Rate: Irregular
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- General: Patient appears in no acute distress.
+- Neck: Neck is supple.
+- Cardiovascular: Irregular heart rate and rhythm, S1 and S2 present, slight 2/6 systolic ejection murmur.
+- Respiratory: Clear to auscultation bilaterally.
+- Abdomen: Scar from kidney transplant on the left flank, healed.
+- Extremities: No lower extremity edema.
+
+**Investigations:**
+- Blood Work: Awaiting results for Creatinine, EKG: Normal sinus rhythm.
+
+**3. Assessment:**
+
+**1. Hypertension, Unspecified**
+- Medical Reasoning: Elevated blood pressure readings despite current medication (Amlodipine 10 mg daily). The patient has a history of kidney transplant and is on immunosuppressive therapy, which may contribute to her blood pressure issues.
+
+**2. Kidney Transplant Status**
+- Medical Reasoning: Stable kidney function as per recent creatinine levels.
+
+**4. Plan:**
+
+**1. Hypertension:**
+- Medical Treatment: Prescribe Carvedilol 25 mg, oral, twice a day, 30 tablets.
+- Additional Testing: Order lipid panel and complete metabolic panel.
+- Patient Education and Counseling: Discussed the importance of medication adherence and lifestyle modifications, including dietary changes and regular exercise. Advised to monitor blood pressure at home and keep a log.
+
+**2. Kidney Transplant Status:**
+- Medical Treatment: Continue current immunosuppressive regimen.
+- Additional Testing: Regular monitoring of kidney function (Creatinine).
+
+**Follow-up Recommendations:**
+- Schedule a follow-up appointment in 2 weeks to reassess blood pressure control and review test results.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan. }}<|eot_id|>
+processing idx: 4
+len of response is: 5789
+len of summary is: 1908
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Back pain following an injury.
+
+**History of Present Illness (HPI):**
+The patient, Mrs. Lee, is a 40-year-old Asian female who presents to the urgent care center with moderate pain in her lower back. The pain began approximately 2 hours ago after she injured her back while participating in a surprise birthday party. She describes the incident as involving a sudden twisting motion. The patient reports that the pain is continuous since the injury and is exacerbated by lying flat and any twisting motion. She denies any radiating pain to her legs.
+
+**Review of Systems (ROS):**
+- Musculoskeletal: Endorses moderate lower back pain, denies radiating pain to the legs.
+- Neurological: Denies numbness or weakness in the lower extremities.
+
+**2. Objective:**
+
+**Physical Examination:**
+- General: Alert and oriented, in no acute distress.
+- Musculoskeletal: Limited range of motion in the lower back with stiffness upon rotation. No tenderness on palpation of the lumbar spine. No signs of swelling or deformity. 
+- Neurological: Strength and sensation intact in lower extremities. No radicular symptoms noted.
+
+**Investigations:**
+- X-ray of the lumbar spine: Shows previous lumbar fusion at T4, no evidence of new fractures or significant abnormalities. 
+
+**3. Assessment:**
+
+**Diagnosis:**
+- Strain of muscle, fascia, and tendon of the lower back, initial encounter.
+
+**4. Plan:**
+
+**Medical Treatment:**
+- Ibuprofen 800mg, oral, 3 times a day, with food, as needed for pain, for 7 days. Quantity: 21 tablets.
+
+**Non-Pharmacological Treatment:**
+- Recommend alternating ice and heat application to the lower back.
+- Encourage walking to aid in recovery.
+
+**Follow-Up:**
+- Return visit in 1 week if symptoms persist or worsen.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended medical treatment plan.
+##### }}<|eot_id|>
+processing idx: 5
+len of response is: 9440
+len of summary is: 3594
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Knee pain during swimming.
+
+**History of Present Illness (HPI):**
+Rebecca, a 27-year-old female, presents with moderate pain in her right knee during and after swimming. The pain has been present for the past week and has increased over the course of the month. She describes the pain as starting after swimming a few laps, particularly with the breaststroke, and has noticed a reduction in her ability to perform this stroke. She denies any injury or trauma to the knee.
+
+**Review of Systems (ROS):**
+- Musculoskeletal: Reports moderate pain in the right knee during and after swimming, with a reduction in ability to perform breaststroke. No other joint pain or swelling noted.
+- Neurological: No radicular symptoms.
+- General: Good sleep, adequate diet, no concerns regarding suicidal or homicidal ideation.
+- Psychiatric: History of depression, currently on medication, reports good compliance and participation in therapy, and increased outdoor activities.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+
+**Physical Exam:**
+- **Musculoskeletal:**
+  - Right knee: Moderate tenderness with palpation around the patella, limited range of motion with pain on patellar inhibition test. No swelling observed in other joints.
+- **General:**
+  - Well-appearing, no acute distress.
+- **Cardiovascular:**
+  - Regular rate and rhythm, no murmurs.
+- **Respiratory:**
+  - Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Neurological:**
+  - Alert and oriented, cranial nerves II-XII intact.
+- **Endocrine:**
+  - No thyromegaly or lymphadenopathy.
+- **Psychiatric:**
+  - Mood and affect appropriate, no suicidal or homicidal ideation.
+
+**Results:**
+- **X-ray of the right knee:** Normal x-ray, no abnormalities detected.
+
+**3. Assessment:**
+
+1. **Chondromalacia of Patella, Right Knee**
+   - Medical Reasoning: Patient presents with moderate pain during and after swimming, with a reduction in ability to perform breaststroke. Physical exam findings of tenderness around the patella and pain with patellar inhibition suggest chondromalacia of the patella.
+   
+2. **Chronic Back Pain**
+   - Medical Reasoning: Chronic back pain, previously diagnosed, currently well-managed.
+
+3. **Depression**
+   - Medical Reasoning: Patient reports stable depression, currently on medication, with good compliance and participation in therapy.
+
+4. **Carpal Tunnel Syndrome (resolved)**
+   - Medical Reasoning: History of carpal tunnel release surgery, currently well.
+
+**4. Plan:**
+
+1. **Chondromalacia of Patella, Right Knee**
+   - Medical Treatment: 
+     - Ibuprofen 600 mg, oral, 4 times a day with food, 30 tablets.
+   - Physical Therapy:
+     - Recommend straight leg raising exercises to strengthen quadriceps.
+   - Patient Education and Counseling:
+     - Advised to avoid activities that exacerbate knee pain for the next 2 weeks.
+     - Encourage continuation of swimming but modify techniques to reduce stress on the knee.
+   - Follow-up Recommendations:
+     - Follow-up appointment in 2 weeks if no improvement.
+
+2. **Chronic Back Pain**
+   - Continue current management and lifestyle modifications as previously advised.
+
+3. **Depression**
+   - Continue current medication and therapy. No changes at this time.
+
+4. **Carpal Tunnel Syndrome (resolved)**
+   - Continue to avoid activities that exacerbate symptoms.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan. }}<|eot_id|>
+processing idx: 6
+len of response is: 10157
+len of summary is: 3283
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Patient presents with abnormal laboratory findings indicating Lyme disease.
+
+**History of Present Illness (HPI):**
+Michelle Johnson is a 31-year-old female with a past medical history of type 2 diabetes and hypertension who presents with a positive long-term Lyme titer. She reports moderate severity of symptoms including fatigue, lack of energy, and swollen joints in the elbows, which have persisted for the past 2 weeks. The patient notes that she recently had an insect bite while hiking in wooded areas, which she suspects may have led to the Lyme disease. She reports a bull's-eye rash that has since resolved. She has been experiencing a decreased appetite and mild nausea, which have impacted her ability to perform daily activities.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports fatigue and lack of energy.
+- **Musculoskeletal:** Reports swollen joints in the elbows.
+- **Integumentary:** Reports a bull's-eye rash on the abdomen.
+- **Gastrointestinal:** Reports mild nausea and decreased appetite.
+- **Endocrine:** Reports stable blood sugars but has had occasional highs and lows.
+- **General:** Denies fever or chills.
+
+**2. Objective:**
+
+**Physical Examination:**
+- **General:** Patient appears fatigued but in no acute distress.
+- **Vital Signs:** No fever noted.
+- **Musculoskeletal:** Swelling of the elbow joints bilaterally with pain to palpation.
+- **Skin:** Bull's-eye rash on the left abdomen, warm to palpation, non-tender to palpation.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Respiratory:** Clear to auscultation bilaterally.
+
+**Laboratory Results:**
+- **Lyme Titer:** Elevated
+- **CBC:** Normal white blood cell count
+
+**3. Assessment:**
+
+- **Primary Diagnosis:** Lyme Disease, confirmed by elevated Lyme titer.
+- **Secondary Diagnoses:**
+  - Type 2 Diabetes, well-managed on metformin.
+  - Hypertension, well-managed on lisinopril.
+
+**4. Plan:**
+
+- **Lyme Disease:**
+  - **Medical Reasoning:** Elevated Lyme titer confirms diagnosis of Lyme disease.
+  - **Medical Treatment:** Prescribe doxycycline 100mg BID for 3 weeks.
+  - **Patient Education and Counseling:** Educate the patient on the importance of completing the full course of antibiotics and monitoring for any worsening symptoms.
+  - **Referral:** Referral to an infectious disease specialist, Dr. Emily Carter, for further management of Lyme disease.
+  - **Follow-up:** Follow-up appointment in 1 week.
+
+- **Type 2 Diabetes:**
+  - **Medical Reasoning:** Blood sugars appear stable but monitoring is recommended.
+  - **Medical Treatment:** Order hemoglobin A1c.
+  - **Patient Education and Counseling:** Reinforce the importance of blood sugar monitoring and adherence to diet and medication regimen.
+
+- **Hypertension:**
+  - **Medical Reasoning:** Blood pressure is currently stable.
+  - **Medical Treatment:** Continue lisinopril 10mg daily.
+  - **Patient Education and Counseling:** Encourage continued monitoring of blood pressure at home and adherence to dietary recommendations.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan.
+
+**INSTRUCTIONS:**
+The patient will follow up in 1 week for re-evaluation of symptoms and lab results. }}<|eot_id|>
+processing idx: 7
+len of response is: 9744
+len of summary is: 3624
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+High blood sugar.
+
+**History of Present Illness (HPI):**
+Hannah Johnson is a 52-year-old African American female who presents for evaluation of high blood sugar. She was recently seen in the emergency room with a blood glucose level of 250 mg/dL. She reports consuming a high amount of sweets over the past two weeks, particularly during the holiday season. She has started to experience occasional lightheadedness and episodes of hypoglycemia. She is currently on medical leave from her job as a school teacher and is staying with her family, where she finds it challenging to maintain a balanced diet due to the presence of sweets.
+
+**Review of Systems (ROS):**
+- **Constitutional:** No fever or chills.
+- **Cardiovascular:** History of atrial fibrillation, occasional palpitations.
+- **Endocrine:** Reports high blood sugars, occasional lightheadedness.
+- **Gastrointestinal:** History of GERD, no abdominal pain, no dysphagia.
+- **Genitourinary:** No dysuria.
+- **Musculoskeletal:** Osteoarthritis, no recent joint pain or muscle aches.
+- **Neurological:** No headaches, no dizziness aside from reported episodes.
+
+**2. Objective:**
+
+**Physical Exam:**
+- **General:** Alert and oriented, appears in no distress.
+- **Neck:** Thyroid enlargement, non-tender.
+- **Cardiovascular:** Irregular heart rate and rhythm, no carotid bruits.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-tender, no hepatosplenomegaly.
+- **Extremities:** No edema in lower extremities.
+
+**Vital Signs:**
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 92 bpm, irregular
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F
+
+**Results:**
+- Blood Glucose: 250 mg/dL
+- Hemoglobin A1c: Elevated
+- Awaiting results for autoimmune panel including anti-GAD antibodies, anti-insulin antibodies, and thyroid function tests.
+
+**3. Assessment:**
+
+- **Type 2 Diabetes Mellitus with Hyperglycemia**
+  - **Medical Reasoning:** Patient has a new diagnosis of diabetes mellitus with elevated blood glucose levels and hemoglobin A1c. Given her family history of type 2 diabetes and her current lifestyle, this is most likely the diagnosis. However, autoimmune etiologies will be ruled out with pending lab results.
+- **Atrial Fibrillation**
+  - **Medical Reasoning:** Patient has a known history of atrial fibrillation, currently asymptomatic with no new concerns.
+- **GERD**
+  - **Medical Reasoning:** Patient is on protonix and reports compliance with the medication.
+
+**4. Plan:**
+
+- **Diabetes Management:**
+  - **Medical Treatment:** Initiate metformin 500 mg, oral, twice daily.
+  - **Additional Testing:** Complete metabolic panel, autoimmune panel including anti-GAD antibodies, anti-insulin antibodies, and thyroid function tests.
+  - **Patient Education and Counseling:** Educate the patient on the importance of blood sugar control, dietary modifications, and regular monitoring. Provide a glucometer and instructions on blood sugar testing.
+  - **Follow-Up:** Follow up in 1 month for blood sugar monitoring and review of lab results.
+- **Atrial Fibrillation:**
+  - **Medical Treatment:** Continue metoprolol 25 mg, oral, twice daily.
+  - **Patient Education and Counseling:** Continue monitoring for symptoms of atrial fibrillation, maintain regular follow-ups.
+- **GERD:**
+  - **Medical Treatment:** Continue protonix 40 mg, oral, once daily.
+  - **Patient Education and Counseling:** Continue dietary modifications and adherence to medication.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan. }}<|eot_id|>
+processing idx: 8
+len of response is: 8486
+len of summary is: 3226
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Moderate joint pain.
+
+**History of Present Illness (HPI):**
+Janet Lee is a 33-year-old Asian female presenting with moderate joint pain. She reports that the pain has been ongoing for the past 3 months, particularly after increasing her stair-type workouts which she thought would help build muscle and strengthen her knees. However, she has found that these activities have actually increased her joint pain. She denies any other associated symptoms such as tingling or swelling in her feet.
+
+**Review of Systems (ROS):**
+- **Musculoskeletal:** Reports moderate joint pain in both knees, difficulty with stair climbing, and prolonged standing. No other joint pain reported.
+- **Neurological:** Denies tingling or numbness in extremities.
+- **Endocrine:** History of Type 2 Diabetes Mellitus, reports no recent changes in blood sugar levels but notes frequent monitoring due to diabetes.
+- **General:** Denies fever or chills.
+- **Cardiovascular:** Reports history of hypertension, currently managed with medication. Denies chest pain or palpitations.
+- **Gastrointestinal:** Denies nausea or vomiting.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: Elevated at 145/90 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.6°F
+
+**Physical Examination:**
+- **General:** Alert and oriented, appears well-nourished.
+- **Neck:** No thyromegaly, neck supple.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, rubs, or gallops.
+- **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- **Abdomen:** Soft, non-tender, no hepatosplenomegaly.
+- **Musculoskeletal:** Examination of the left knee shows slight erythema and edema, with a small effusion present. Decreased flexion and extension of the knee. Strength 5/5 in lower extremities.
+- **Neurological:** No focal deficits, normal gait.
+
+**Investigation/Test Results:**
+- **X-ray of the left knee:** Normal, slight strain noted.
+
+**3. Assessment:**
+
+- **Primary Diagnosis:** Other specified joint pain (M25.89)
+- **Secondary Diagnoses:**
+  - Hypertension, currently managed with Norvasc 5 mg daily.
+  - Type 2 Diabetes Mellitus, currently on Metformin 500 mg BID.
+  - History of rotator cuff repair 2 years ago.
+
+**4. Plan:**
+
+- **Medications:**
+  - Meloxicam 15 mg, oral, once daily, 30 tablets.
+- **Physical Therapy:**
+  - Referral for physical therapy to address joint pain and improve mobility.
+- **Blood Work:**
+  - Autoimmune profile (ANA, Rheumatoid factor, ESR, CRP).
+- **Imaging:**
+  - MRI of the left knee to evaluate for any underlying structural issues.
+- **Follow-up Recommendations:**
+  - Follow-up appointment in 4 weeks for reassessment.
+- **Lifestyle Modifications:**
+  - Continue regular exercise but modify activities to avoid aggravating joint pain.
+  - Maintain a balanced diet with reduced carbohydrate intake.
+- **Hypertension Management:**
+  - Monitor blood pressure at home and report any elevated readings.
+- **Diabetes Management:**
+  - Continue current medication regimen (Metformin 500 mg BID).
+  - Monitor blood glucose levels regularly.
+
+The patient understands and agrees with the recommended medical treatment plan. }}<|eot_id|>
+processing idx: 9
+len of response is: 7752
+len of summary is: 2264
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Routine check-up.
+
+**History of Present Illness (HPI):**
+Christine Thompson is a 63-year-old African American female with a past medical history significant for hypertension and depression. She presents for her routine yearly exam. She has undergone a carpal tunnel release surgery 2 years ago. She reports good control of her depression, managed with medication and weekly therapy sessions. She also reports adequate sleep of 8 hours per night. She denies any suicidal ideation or thoughts of harming herself. Her blood pressure has been monitored previously and she has been compliant with her medication regimen.
+
+**Review of Systems (ROS):**
+- **General:** No weight loss, no fever.
+- **Cardiovascular:** Mild hypertension noted, no chest pain.
+- **Neurological:** Occasional headaches, no numbness or tingling in extremities.
+- **Musculoskeletal:** Carpal tunnel release 2 years ago, no issues reported.
+- **Psychiatric:** History of depression, currently managed.
+
+**2. Objective:**
+
+**Physical Examination:**
+- **General:** Alert, oriented, well-nourished.
+- **Vital Signs:** Blood pressure elevated in office setting.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Neurological:** No focal deficits, strength 5/5 bilaterally.
+- **Musculoskeletal:** No tenderness or swelling, carpal tunnel release well-healed.
+- **Psychiatric:** Cooperative, no evidence of depression or anxiety.
+
+**Investigation/Test Results:**
+- Blood Pressure: Elevated in office setting.
+- Labs: Results pending for CBC, CMP, and Lipid Panel.
+
+**3. Assessment:**
+1. Hypertension - Uncontrolled.
+2. Depression - Well-managed.
+3. Carpal Tunnel Release - History of, no current issues.
+
+**4. Plan:**
+1. **Hypertension:**
+   - Increase Lisinopril to 10 mg/day, oral, once daily.
+   - Monitor blood pressure at home.
+   - Follow-up in 1 month to reassess blood pressure control.
+
+2. **Depression:**
+   - Continue current medication regimen.
+   - Weekly therapy sessions to continue.
+
+3. **Carpal Tunnel Release:**
+   - No current issues reported.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan. }}<|eot_id|>
+processing idx: 10
+len of response is: 15665
+len of summary is: 2540
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up for asthma, allergic rhinitis, and food allergy.
+
+**History of Present Illness (HPI):**
+Emily Hernandez is a 20-year-old Hispanic female presenting for a follow-up visit. She has a history of mild persistent asthma, allergic rhinitis, and a known peanut allergy. She was previously on Symbicort (160/4.5 mcg, 1 puff twice daily) but was switched to Wixela (250/50 mcg, 1 puff twice daily) due to insurance changes since her last office visit in April 2020. She uses Zyrtec (Cetirizine) 10 mg daily in the spring, summer, and fall for seasonal allergy symptoms. She tolerates almonds and cashews but has a known severe allergy to peanuts. 
+
+**Review of Systems (ROS):**
+- Respiratory: No recent exacerbations or urgent care visits. Rarely uses rescue inhaler (Albuterol) only during strenuous activity.
+- Allergies: Known peanut allergy, uses EpiPen as needed.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: Not taken during this visit.
+- Heart Rate: Normal.
+- Respiratory Rate: Normal.
+- Blood Pressure: Not taken during this visit.
+
+**Physical Examination:**
+- General: Patient appears healthy and in no distress.
+- Respiratory: Normal breath sounds, no wheezing or crackles.
+- ENT: No nasal polyps, normal tympanic membranes.
+- Cardiovascular: Normal heart sounds, no murmurs.
+- Lungs: Normal breath sounds, spirometry results pending.
+
+**3. Assessment:**
+- Mild Persistent Asthma, well-controlled on current regimen.
+- Allergic Rhinitis, seasonal.
+- Peanut Allergy, known.
+
+**4. Plan:**
+- Continue Wixela (250/50 mcg, 1 puff twice daily) as prescribed.
+- Monitor and document asthma control, aim to step down to inhaler as needed if possible.
+- Repeat Spirometry in 4 months to assess asthma control.
+- Refill Albuterol (90 mcg, 1 inhaler) as needed for exercise.
+- Refill EpiPen (0.3 mg, 2 auto-injectors) as needed for allergic reactions.
+- Continue Zyrtec (Cetirizine) 10 mg daily during allergy season.
+- Lifestyle change: Encourage reduced tobacco and vaping use, increased physical activity.
+- Follow-up in 4 months with ACT and spirometry.
+
+**Instructions:**
+- The patient will follow up in 4 months with spirometry to assess asthma control. She was advised to continue using Wixela and to monitor her symptoms. If she finds it necessary, she can step down to an inhaler as needed. All prescriptions were called in to pharmacy. The patient was educated on the importance of minimizing tobacco and vaping and was encouraged to increase physical activity. }}<|eot_id|>
+processing idx: 11
+len of response is: 13658
+len of summary is: 3726
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up from recent ER visit for high blood pressure and palpitations.
+
+**History of Present Illness (HPI):**
+Mr. Jordan Roberts is a 49-year-old African American male with a history of hypertension and palpitations. He reports that his blood pressure was elevated during a recent emergency room visit. He notes that he was previously on amlodipine 10 mg daily but was switched to benicar hct (40-25 mg) one month ago by his new primary care physician. He denies any chest pain or shortness of breath. He believes his symptoms were exacerbated by high caffeine intake on the day of the ER visit and not having breakfast. He has not experienced any recent episodes since the visit.
+
+**Review of Systems (ROS):**
+- Cardiovascular: Reports palpitations during the ER visit, no chest pain.
+- Respiratory: No shortness of breath.
+- Gastrointestinal: No nausea, vomiting, or abdominal pain.
+- Musculoskeletal: Reports walking on the treadmill occasionally.
+- Neurological: No dizziness, headaches, or syncope.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 146/95 mmHg (home monitoring).
+- Heart Rate: 78 bpm.
+- Respiratory Rate: 16 breaths per minute.
+- Temperature: 98.6°F.
+
+**General Physical Exam:**
+- General: Alert, oriented, no acute distress.
+- Cardiovascular: Regular rate and rhythm, no murmurs, gallops, or rubs.
+- Respiratory: Clear to auscultation bilaterally.
+- Extremities: No edema.
+
+**Investigations:**
+- Blood Work: 
+  - Metabolic Panel (awaiting results).
+  - Thyroid Profile (awaiting results from March 1st, 2021).
+
+**3. Assessment:**
+
+- **Hypertension, Unspecified (I10)**
+  - Patient presents with resistant hypertension despite being on three medications (amlodipine 10 mg daily and benicar hct 40-25 mg daily).
+  - Blood pressure remains elevated at 146/95 mmHg with a home monitoring reading.
+  - Previous thyroid profile ordered (awaiting results from March 1st, 2021).
+  - Elevated potassium at 4.0 mmol/L (awaiting repeat test).
+
+**4. Plan:**
+
+- **Medication Adjustment:**
+  - Start spironolactone 25 mg, oral, once daily. Dispense 30 tablets.
+  
+- **Follow-up Recommendations:**
+  - Schedule follow-up in 2 weeks to check blood pressure and electrolytes.
+  
+- **Referral:**
+  - Referral to Dr. Emily Carter, a cardiologist, for resistant hypertension management.
+
+- **Patient Education:**
+  - Discussed the potential side effects of spironolactone, including electrolyte imbalances and gynecomastia.
+  - Advised on the importance of adhering to a low-salt diet and increasing potassium intake.
+  - Discussed the potential need for further intervention if blood pressure is not controlled.
+
+- **Lifestyle Modifications:**
+  - Encouraged routine exercise, such as walking on the treadmill for 30 minutes most days.
+  - Advised reducing salt intake and increasing potassium-rich foods.
+  - Recommended monitoring blood pressure at home and keeping a log.
+
+- **Patient's Understanding:**
+  - Patient is cooperative and willing to follow medical advice.
+  - Provided information on the DASH eating plan and resources for dietary counseling.
+
+- **Next Steps:**
+  - Monitor blood pressure and electrolytes in 2 weeks.
+  - If not controlled, consider referral to the resistant hypertension clinic for further management and potential intervention.
+
+**Note:**
+- Patient has a history of hypertension and palpitations. Family history is significant for hypertension in multiple family members. No known drug allergies. Socio-economic status and health literacy are moderate, which may impact adherence to lifestyle changes and medication regimen. Lives in an urban area with moderate air pollution, which may contribute to his hypertension. }}<|eot_id|>
+processing idx: 12
+len of response is: 12264
+len of summary is: 3625
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up for Irritable Bowel Syndrome (IBS) with associated symptoms of abdominal pain, nausea, and vomiting.
+
+**History of Present Illness (HPI):**
+Ms. Brittany Edwards is a 32-year-old African American female who presents for a follow-up visit regarding her IBS. She was previously diagnosed with IBS in August 2019, and her symptoms have been characterized by moderate abdominal pain, nausea, and occasional vomiting. The patient reports that these symptoms are aggravated by high stress and poor eating habits. She has a history of a previous prescription for Reglan from the emergency room, which she used as needed for nausea.
+
+The patient was previously advised to start a low-dose fiber supplement (Citrucel), probiotics to help with gas and bloating, Bentyl (Dicyclomine) 20 mg up to 4 times daily for intestinal cramping, and to discontinue Reglan and use Zofran (Ondansetron) as needed. Neuromodulators such as Elavil (Amitriptyline) and Buspar (Buspirone) were discussed but not initiated.
+
+**Review of Systems (ROS):**
+- Gastrointestinal: Positive for diarrhea, abdominal pain, nausea, and vomiting.
+- General: Reports poor sleep and irregular eating habits.
+- Lifestyle: Frequently eats out on Friday and Saturday nights, often consuming spicy foods and spicy shrimp.
+
+**2. Objective:**
+
+**Physical Exam:**
+- General: Alert, cooperative, appears stated age.
+- Vital Signs: Not measured during this visit.
+- Abdomen: Soft, non-tender, no masses or organomegaly, normal active bowel sounds.
+- Lungs: Clear to auscultation bilaterally.
+- Heart: Regular rate and rhythm.
+
+**3. Assessment:**
+
+Ms. Brittany Edwards is a 32-year-old female with a diagnosis of Irritable Bowel Syndrome (IBS) presenting with moderate abdominal pain, nausea, and vomiting. Her symptoms are aggravated by high stress and poor dietary habits. She has a history of poor sleep and irregular eating patterns, which likely contribute to her gastrointestinal symptoms.
+
+**4. Plan:**
+
+- **Medications:**
+  - Start on a low-dose fiber supplement (Citrucel), 1 tablet orally twice daily for regularity.
+  - Prescribe Bentyl (Dicyclomine) 20 mg, 1 tablet orally 30-45 minutes before eating out at a restaurant, up to 4 times daily as needed.
+  - Prescribe Zofran (Ondansetron) as needed for nausea.
+
+- **Lifestyle Modifications:**
+  - Encourage dietary and lifestyle modifications including reducing greasy and fatty foods and alcohol consumption.
+  - Suggest stress management techniques such as mindfulness or relaxation exercises.
+
+- **Follow-Up:**
+  - Follow up in 1 month by emailing over mychart regarding any side effects and issues with the prescribed medications or elavil if initiated.
+
+- **Medication Adjustment:**
+  - Consider long-term medication adjustment if symptoms persist. Discuss potential neuromodulators such as Elavil (Amitriptyline) 25 mg at bedtime.
+
+- **Patient Education:**
+  - Educate the patient on the importance of adhering to the prescribed medication regimen.
+  - Discuss potential side effects of the medications and what to do if they occur.
+  - Provide information on healthy eating habits and the impact of stress on IBS symptoms.
+
+- **Prescription:**
+  - Citrucel 1 tablet, oral, twice daily for regularity, quantity: 60 tablets.
+  - Bentyl (Dicyclomine) 20 mg, 1 tablet, oral, 30-45 minutes before eating out at a restaurant, up to 4 times daily, quantity: 20 tablets.
+  - Zofran (Ondansetron) as needed for nausea, quantity: 10 tablets.
+
+All questions were answered, and the patient expressed understanding and agreement with the treatment plan. }}<|eot_id|>
+processing idx: 13
+len of response is: 11604
+len of summary is: 3324
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up for adult hydrocephalus post-shunt surgery.
+
+**History of Present Illness (HPI):**
+Mr. Christopher Watson is an 86-year-old male with a history of progressive gait impairment, cognitive decline, and decreased bladder control over the past 8-10 years. He was diagnosed with adult hydrocephalus and initiated on a spino-catheter protocol in June 2020. Shunt surgery was performed on August 1, 2020. A Medtronic Strata programmable shunt in the ventricular-peritoneal configuration (VP shunt) was programmed at a level 2.0 and placed.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Significant for impaired ability to carry out daily functions. Negative for fever or unintentional weight loss.
+- **Genitourinary:** Positive for urinary incontinence and wearing a diaper. Negative for genital sores, decreased or painful output.
+- **Neurological:** Positive for walking impairment and cognitive impairment. Negative for headaches, recent falls, or hallucinations.
+- **Psychiatric:** Negative for depression, excessive worrying, or mood swings.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 124/80
+- Heart Rate: 64
+- Respirations: 18
+- Weight: 174 lbs
+- Pain: 0/10
+
+**Physical Exam:**
+- **General:** Pleasant, cooperative male who is able to converse easily with assistance from his daughter.
+- **Shunt Site:** Clean, dry, and intact with confirmed setting of 2.
+- **Neurological Exam:** 
+  - MMSE: Scored 26/30 on recent memory, attention span, and fund of knowledge. Spelling: 25/30. Cued recall: 2 of 3 memory words, third with multiple choice. Slight improvement over initial score of 23/30 in MMSE calculations and 24/30 in spelling.
+  - Tinetti Assessment Tool: Tested without assistive device, Gait Score: 6-8/12, Balance Score: 12/16, Total Score: 18/20-28.
+- **Cranial Nerves:** Pupils equal, EOMs intact, face symmetric, no dysarchria.
+- **Motor:** Normal bulk and strength.
+- **Coordination:** Slow from no-finger-to-nose test.
+- **CT Scan:** Head 10/15/2020 shows frontal horn span at the level of foramen of monro of 4.6 cm, third ventricular contour flat with a span of 10 mm, tiny amount of blood in the right front region with tiny subdermal collection. Radiologist's report did not note any extra-axial fluid collections. Substantial small vessel ischemic change.
+
+**3. Assessment:**
+- Adult Hydrocephalus
+- Gait impairment
+- Urinary incontinence and urgency
+- Cognitive impairment
+
+**4. Plan:**
+- **Shunt Adjustment:** Shunt setting remains at 2.0. Plan to leave the shunt set for 2-3 months before re-evaluation for potential shunt adjustment.
+- **Imaging:** Review CT scan results showing tiny blood fluid collection in the right parietal region. No current clinical symptoms attributed to this finding.
+- **Follow-up:** Schedule follow-up appointment in 3 months to re-evaluate shunt function and cognitive status.
+- **Lifestyle Change:** Recommend enrollment in a driver safety program to assess and improve his driving abilities.
+- **Counseling:** Discussed the potential for improvement in mobility and cognitive functions. Encouraged continued adherence to medication and follow-up appointments.
+
+The patient and his daughter understand and agree with the plan. All questions were answered to their satisfaction. }}<|eot_id|>
+processing idx: 14
+len of response is: 10730
+len of summary is: 2868
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up for hypertension management.
+
+**History of Present Illness (HPI):**
+Miss Amanda Taylor, a 72-year-old African American female, presents for a follow-up visit. She has a history of alcohol use disorder and mild hypercholesterolemia. At her last visit on April 16th, her blood pressure was 130/90 mmHg. Today, she presented with a reading of 150/100 mmHg. She was previously prescribed hydrochlorothiazide 12.5 mg PO QD and lisinopril 20 mg PO QD. She reports struggling with alcohol cessation and was advised on the potential benefits of stopping alcohol consumption. She admits to drinking 4-5 days per week and is willing to try the injectable form of naltrexone to assist with her alcohol cravings.
+
+**Review of Systems (ROS):**
+- **Cardiovascular:** Reports blood pressure readings of 130/90 mmHg to 150/100 mmHg. No chest pain or palpitations.
+- **Respiratory:** No shortness of breath or cough.
+- **Gastrointestinal:** No nausea, vomiting, or abdominal pain.
+- **Neurological:** No headaches, dizziness, or syncope.
+- **Musculoskeletal:** No joint pain or muscle aches.
+- **General:** No fever, chills, or weight changes.
+- **Endocrine:** No polyuria or polydipsia.
+- **Psychiatric:** Reports difficulty with alcohol cessation, no anxiety or depression.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 150/100 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 18 breaths/min
+- Temperature: 98.6°F
+
+**Physical Examination:**
+- **General:** Alert, pleasant, in no acute distress.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, no gallop, JVP flat, head at 90 degrees.
+- **Respiratory:** Clear to percussion and auscultation, unlabored breathing.
+- **Neurological:** No focal deficits, no tremor, no diabetes.
+- **Endocrine:** No thyromegaly, skin moist, no edema.
+
+**Investigation/Test Results:**
+- CMP and CBC: Essentially unremarkable.
+
+**3. Assessment:**
+- Alcohol Use Disorder, Uncomplicated.
+- Hypertension, currently managed with lisinopril and hydrochlorothiazide.
+- Mild Hypercholesterolemia, managed with atorvastatin.
+- Non-compliance with alcohol cessation.
+
+**4. Plan:**
+1. **Medication:**
+   - Prescribe naltrexone 700 mg, injectable, monthly, quantity: 1 vial.
+2. **Follow-up:**
+   - Schedule follow-up in June to assess the effectiveness of the treatment.
+3. **Lifestyle Changes:**
+   - Recommend cessation of alcohol.
+4. **Additional Recommendations:**
+   - Advise on the potential benefits of alcohol cessation on her overall health.
+   - Discuss the importance of adhering to prescribed medications.
+   - Suggest dietary modifications to reduce processed food intake.
+   - Encourage regular exercise to improve cardiovascular health.
+5. **Referral:**
+   - Refer to Dr. John Smith, Addiction Medicine Specialist, for comprehensive alcohol dependence management. }}<|eot_id|>
+processing idx: 15
+len of response is: 6487
+len of summary is: 2298
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Patient presents for a full spectrum STD testing. Reports symptoms of discomfort, change in vaginal discharge, and odor. She mentions that the right side of her vagina is starting to become painful. She denies any fevers or chills.
+
+**History of Present Illness (HPI):**
+Ms. Ross is a 22-year-old African American female who is a college student and part-time waitress. She is here for a preventive health screening for STDs. She has a history of an irregular pap smear at age 20. She reports that she recently discovered her sexual partner has been involved in sexual encounters with other people. She is anxious about the possibility of having an STD and wants to be evaluated comprehensively.
+
+**Review of Systems (ROS):**
+- **General:** No fevers or chills.
+- **Genitourinary:** Reports change in vaginal discharge, odor, and mild pain on the right side of the vagina.
+- **Psychological:** Anxious about potential STDs.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 118/76 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+
+**Physical Examination:**
+- **General:** Alert, cooperative, and in no acute distress.
+- **Pelvic Exam:**
+  - External: No lesions noted.
+  - Labia majora and minora: Normal.
+  - Vaginal wall: Normal.
+  - Cervix: Normal.
+  - Speculum: Normal physiological discharge, normal color and smell.
+  - No cervical motion tenderness.
+  - No adnexal tenderness or masses.
+
+**3. Assessment:**
+
+- **Diagnosis:** Encounter for screening for sexually transmitted diseases (ICD-10 Z13.1).
+
+**4. Plan:**
+
+- **STD Testing:**
+  - Swabs for Gonorrhea, Chlamydia, Trichomoniasis.
+  - Blood for syphilis, HIV, and Hepatitis C.
+- **Follow-Up:**
+  - Patient will be called if results are positive.
+  - Patient advised to return in 3 days or sooner if symptoms worsen.
+- **Lifestyle Recommendations:**
+  - Use condoms consistently.
+  - Limit the number of sexual partners.
+  - Consider regular STD screenings.
+- **Follow-Up Visit:**
+  - Scheduled follow-up visit in 3 days for results.
+
+**Instructions:**
+- Ms. Ross is advised to return in 3 days or sooner if symptoms worsen. She is also advised to call the office if she has any questions or concerns about her test results. }}<|eot_id|>
+processing idx: 16
+len of response is: 10358
+len of summary is: 4037
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Swelling and pain in the right knee.
+
+**History of Present Illness (HPI):**
+Tyler Nelson is a 73-year-old male with a history of rheumatoid arthritis who presents for a follow-up visit regarding the management of his condition. He reports that he experienced significant swelling in his right knee following a recent steroid injection administered during his last visit. The swelling has persisted despite his use of compression socks, which he has been wearing frequently to alleviate symptoms. The pain is moderate, with a pain score of 6/10 on a normal day and currently 3/10, and has been present for the past 2 months. He notes that the swelling and pain have limited his mobility, particularly when getting up from sitting, where he requires the use of a cane.
+
+He has been compliant with his medication regimen, including Xeljanz 11mg daily and Celebrex 200mg daily, which he started 2 months ago. He is motivated to follow medical advice and is highly cooperative.
+
+**Review of Systems (ROS):**
+- **Musculoskeletal:** Swelling and pain in the right knee, moderate severity, limiting mobility.
+- **General:** No recent weight loss, fever, or chills.
+- **Cardiovascular:** No chest pain or palpitations.
+- **Gastrointestinal:** No nausea, vomiting, or abdominal pain.
+- **Neurological:** No headaches or dizziness.
+- **Dermatological:** No rashes or skin changes.
+
+**2. Objective:**
+
+**Physical Examination:**
+- **Vital Signs:** Stable
+- **Musculoskeletal:** 
+  - Right knee: Swelling, erythema, and pitting noted. Range of motion slightly diminished. Increased heat around the knee. Capillary refill within normal limits in the toes.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Neurological:** Alert and oriented, no focal deficits.
+
+**Results:**
+- **Blood Work:** CMP within normal limits. Xeljanz trough levels checked; levels are within the therapeutic range.
+
+**3. Assessment:**
+
+1. **Rheumatoid Arthritis with right knee effusion, not elsewhere classified.**
+   - **Medical Reasoning:** The patient presents with persistent swelling and moderate pain in the right knee, consistent with effusion. The swelling has limited his mobility and daily activities.
+   - **Differential Diagnosis:** Septic arthritis, crystal-induced arthritis, gout, lymphedema.
+
+**4. Plan:**
+
+1. **Treatment:**
+   - Administered steroid injection (Triamcinolone 80mg, 1mL) to the right knee today.
+   - Fluid aspiration performed during the procedure; 3mL of initially clear fluid, then blood-tinged fluid was aspirated.
+   
+2. **Imaging:**
+   - Order an X-ray of the right knee to evaluate for possible underlying causes of effusion.
+
+3. **Physical Therapy:**
+   - Referral for physical therapy to aid in improving range of motion and strength.
+
+4. **Follow-up Recommendations:**
+   - Follow-up visit in 2 weeks for re-evaluation of the knee.
+   - Referral to Dr. Emily Carter, a rheumatologist, for further management of rheumatoid arthritis.
+
+5. **Patient Education and Counseling:**
+   - Discussed the importance of reducing salt intake to help manage edema.
+   - Encouraged the patient to elevate the legs when possible to reduce swelling.
+   - Advised the patient to continue using compression socks as a preventive measure.
+   - Discussed the potential need for surgical intervention if conservative measures fail to improve symptoms.
+
+6. **Medication Adjustment:**
+   - Continue Xeljanz 11mg daily.
+   - Continue Celebrex 200mg daily.
+   - Regular monitoring of Xeljanz trough levels every 2 months due to the high-risk medication profile.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan.
+
+**INSTRUCTIONS:**
+The patient will follow up in 2 weeks for re-evaluation and will have an X-ray of the right knee performed. He will also make an appointment with Dr. Emily Carter, a rheumatologist, and ensure regular blood work for Xeljanz trough levels. }}<|eot_id|>
+processing idx: 17
+len of response is: 14622
+len of summary is: 2839
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up for ongoing treatment of perioral dermatitis.
+
+**History of Present Illness (HPI):**
+The patient, Ms. Jacqueline Miller, is a 28-year-old African American female, presenting for a follow-up visit regarding her perioral dermatitis. She has been experiencing mild to moderate symptoms for the past 9 months, with persistent erythema and occasional pustules around the mouth. She reports significant improvement with the use of sulfacetamide wash and metronidazole cream, but has recently been advised to use doxycycline 100 mg orally, once daily. She is currently not breastfeeding and has stopped breastfeeding when she started the doxycycline. She is concerned about the potential side effects of long-term antibiotic use.
+
+**Review of Systems (ROS):**
+- Dermatologic: Mild to moderate erythema and occasional pustules around the mouth.
+- General: No other systemic symptoms reported.
+
+**2. Objective:**
+
+**Physical Exam:**
+- Fitzpatrick Skin Type: IV-V
+- Bilateral medial cheeks: Presence of a few faint erythematous papules and mild erythema around and underneath the nostrils.
+
+**Investigations:**
+- No new lab tests or imaging required at this time.
+
+**3. Assessment:**
+
+- Perioral Dermatitis
+- Rosacea
+- Ocular Rosacea
+
+**4. Plan:**
+
+**Medications:**
+- Doxycycline 100 mg, oral, once daily.
+- Tacrolimus 0.1% ointment, apply to affected area twice daily until resolved, then once daily for one week, then discontinue.
+
+**Follow-up Recommendations:**
+- Follow-up in 4 weeks.
+
+**Lifestyle Change:**
+- Advise gentle skin care regimen, avoiding harsh soaps and exfoliating products.
+
+**Instructions:**
+- Use sulfacetamide wash twice daily.
+- Apply metronidazole cream immediately after washing the face.
+- Continue doxycycline 100 mg, oral, once daily.
+- Use tacrolimus 0.1% ointment to affected area twice daily until resolved, then once daily for one week, then discontinue.
+
+**Referral:**
+- Referral to Dr. Emily Johnson, Dermatologist, for further evaluation and management of perioral dermatitis and rosacea.
+
+**Patient Education:**
+- Discussed potential side effects of doxycycline, including gastrointestinal upset and sun sensitivity.
+- Emphasized the importance of adhering to the prescribed treatment regimen.
+- Advised on gentle skin care practices to prevent exacerbation of symptoms.
+
+**Treatment Disparities:**
+- Discussed cost-effective alternatives due to limited insurance coverage, including the option to switch to a generic form of tacrolimus ointment if necessary.
+
+**Instructions for the Patient:**
+- Continue with the current treatment plan.
+- Use gentle skin care products.
+- Follow up in 4 weeks.
+- If symptoms worsen or new symptoms develop, reach out to the healthcare provider.
+
+**Signature:**
+Dr. [Your Name], MD  
+Dermatologist  
+[Date] }}<|eot_id|>
+processing idx: 18
+len of response is: 13193
+len of summary is: 3075
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Moderate to severe right upper quadrant pain.
+
+**History of Present Illness (HPI):**
+The patient, Mr. James Thompson, is a 45-year-old African American male who presents for a follow-up visit after an initial consultation at the urgent care center. He reports experiencing moderate to severe right upper quadrant pain for several weeks, which has been associated with nausea and low-grade fever. The pain occurs daily, often after meals, and significantly impacts his ability to perform daily activities. The patient is a type 2 diabetic and was previously advised to follow a diet and exercise regimen to manage his condition. He has recently transitioned to a ketogenic diet and has noticed an improvement in his symptoms, including weight loss of 25 lbs over the last 3 months.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports weight loss of 25 lbs over the last 3 months.
+- **Gastrointestinal:** Reports moderate to severe right upper quadrant pain, nausea, and low-grade fever. No vomiting.
+- **Endocrine:** History of type 2 diabetes mellitus.
+- **Musculoskeletal:** Reports minimal exercise due to pain.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 128/88 mmHg
+- Respiratory Rate: 16 breaths/min
+- Pulse Rate: 68 bpm
+- Temperature: Afebrile
+- Oxygen Saturation: 99% on room air
+
+**Physical Examination:**
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, gallops, or rubs.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Abdominal:** Soft, nondistended, positive bowel sounds. Mild guarding noted in the right upper quadrant. Positive for Murphy's sign. No rebound tenderness or peritoneal signs.
+- **Neurological:** Alert and oriented, no focal deficits.
+
+**Investigation/Test Results:**
+- **Abdominal Ultrasound:** Multiple gallstones present in the gallbladder, mild thickening of the gallbladder wall. Common bile duct size within normal limits at 4.1 mm.
+
+**3. Assessment:**
+
+- **Diagnosis:** Calculus of gallbladder with acute and chronic cholecystitis without obstruction.
+- **Medical Reasoning:** The patient presents with classic symptoms of cholecystitis, including right upper quadrant pain, nausea, and low-grade fever. The ultrasound findings confirm the presence of gallstones and mild gallbladder wall thickening, consistent with chronic cholecystitis.
+
+**4. Plan:**
+
+- **Surgical Treatment:** Laparoscopic cholecystectomy is planned and scheduled.
+- **Patient Education and Counseling:** Discussed the procedure, expected outcomes, and postoperative care. Advised the patient to avoid high-fat foods post-surgery and to follow a diet high in fiber.
+- **Follow-Up:** Postoperative follow-up is scheduled for 1 week to assess recovery and wound healing.
+- **Additional Recommendations:** Continue monitoring and management of type 2 diabetes mellitus. Follow-up with the endocrinologist for diabetes management as outlined in the current treatment plan.
+
+The patient understands and agrees with the proposed treatment plan and follow-up schedule. }}<|eot_id|>
+processing idx: 19
+len of response is: 9577
+len of summary is: 2764
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Right shoulder pain.
+
+**History of Present Illness (HPI):**
+Matthew Smith is a 67-year-old male who presents to the urgent care center for an evaluation of right shoulder pain. The patient reports that the pain began approximately 4 days ago after he was tackled during a game of tackle football. He describes the pain as moderate and notes that it has been persistent since the incident. The patient mentions that the pain is constant and has been affecting his ability to perform overhead activities and lift objects. He also reports a mild headache and slight discomfort when putting his hand on his head. He has been taking a small amount of Tylenol for the pain but finds it only minimally effective. Matthew has been active in recreational sports, particularly tackle football, for most of his life and has recently started playing again. He is anxious to return to the sport but is concerned about the injury.
+
+**Review of Systems (ROS):**
+- **Musculoskeletal:** Reports right shoulder pain, difficulty lifting objects, and mild discomfort when putting his hand on his head. No other joint pain reported.
+- **Neurological:** No numbness or tingling in the extremities.
+- **General:** Mild headache, no fever or chills.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: Afebrile
+- Blood Pressure: 122/76 mmHg
+- Heart Rate: 82 bpm
+- Respiratory Rate: 16 breaths per minute
+- Oxygen Saturation: 95% on room air
+
+**Physical Examination:**
+- **General:** Alert, cooperative, in no acute distress.
+- **Cervical Spine:** No tenderness to palpation of the cervical spine, full range of motion.
+- **Head:** No visible trauma, no ecchymosis or bruising.
+- **Shoulder:** Pain to palpation of the posterior shoulder at the acromioclavicular joint. Decreased abduction and adduction to 90 degrees. Pain with supination and pronation of the right arm. No radial artery pulse palpable.
+- **Neurological:** Cranial nerves II-XII intact, no focal deficits.
+
+**Investigations:**
+- **Shoulder X-ray:** Right shoulder x-ray reveals an acute acromioclavicular joint fracture.
+
+**3. Assessment:**
+
+**Diagnosis:**
+- Right shoulder pain with acute acromioclavicular joint fracture.
+
+**4. Plan:**
+
+**Treatment:**
+- **Sling:** Patient to be placed in a sling to immobilize the shoulder.
+- **Medication:** Prescribed meloxicam 15 mg, oral, once a day for pain, quantity 30 tablets.
+- **Imaging:** Order a CT scan of the right shoulder to evaluate the joint more thoroughly.
+- **Physical Therapy:** Referral to physical therapy for shoulder strengthening exercises to avoid surgical intervention.
+
+**Follow-up Recommendations:**
+- Follow-up in 2 weeks for re-evaluation of the shoulder fracture and pain management. }}<|eot_id|>
+processing idx: 20
+len of response is: 10666
+len of summary is: 3755
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Patient presents with moderate to severe lower back pain that has persisted for 4 months.
+
+**History of Present Illness (HPI):**
+Jeremy Thompson is a 58-year-old male who presents today for an initial consultation regarding lower back pain. The pain began 4 months ago following a recent incident where he felt a sudden "twang" in his lower back while moving boxes for his son who was moving out of his college dorm. The pain is described as moderate to severe and is associated with numbness in the toes of his right foot. The numbness is intermittent but occurs periodically with prolonged sitting or short periods of movement, causing significant difficulty in performing daily tasks such as sitting for extended periods or carrying heavy objects. He reports that the pain is relieved by certain positions but wakes him up from sleep if he turns a certain way.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Denies fever, chills.
+- **Neurological:** Endorses numbness in toes of the right foot, denies weakness in the lower extremities.
+- **Musculoskeletal:** Endorses moderate to severe lower back pain, relieved by certain positions, difficulty with prolonged sitting and carrying heavy objects.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: Afebrile
+- Blood Pressure: 117/56 mmHg
+- Heart Rate: 68 bpm
+- Respiratory Rate: 16 breaths/min
+- Oxygen Saturation: 95% on room air
+
+**Physical Exam:**
+- **Neck:** Bony protuberance of C5-C6.
+- **Lumbar Spine:** No pain to palpation of the lumbar spine, decreased flexion and extension of the lower back, positive straight leg raise, spasm of the paraspinal muscles of the lumbar spine.
+- **Musculoskeletal:** Decreased flexion and extension of the lower back, positive straight leg raise, spasm of the paraspinal muscles of the lumbar spine. Lower extremities strength is equal bilaterally.
+
+**Results:**
+- Lumbar Spine X-ray: No acute bony abnormality; no fracture detected.
+
+**3. Assessment:**
+
+Jeremy Thompson is a 58-year-old male with a past medical history of a total knee replacement in the right knee (performed 2 years ago) who presents with moderate to severe lower back pain and numbness in the toes of the right foot. The pain has persisted for 4 months following a recent incident. The physical exam reveals decreased flexion and extension of the lower back, a positive straight leg raise, and spasm of the paraspinal muscles of the lumbar spine. The lumbar spine X-ray shows no acute bony abnormality.
+
+**Diagnosis:**
+- Acute Disk Herniation, Site Unspecified
+
+**4. Plan:**
+
+**Medical Reasoning:**
+- The patient's symptoms and physical exam findings are consistent with a diagnosis of acute disk herniation. Given the duration of symptoms and the severity, further imaging is warranted to confirm the diagnosis and assess the extent.
+
+**Patient Education and Counseling:**
+- Discussed the nature of the diagnosis and the importance of adhering to physical therapy. Explained the potential need for further interventions based on the MRI results.
+
+**Medical Treatment:**
+- Continue with physical therapy.
+- Prescribed meloxicam 15 mg, oral, once daily, 30 tablets.
+
+**Additional Testing:**
+- Order a lumbar spine MRI to further evaluate the extent of the disk herniation.
+
+**Referrals:**
+- Referral to a physical therapist through the health system.
+- Referral to Dr. Emily Carter, Orthopedic Specialist, for further evaluation and management of the potential disk herniation.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended medical treatment plan.
+
+**Follow-up:**
+- Follow-up appointment scheduled in 4 weeks to review MRI results and assess progress with physical therapy.
+##### }}<|eot_id|>
+processing idx: 21
+len of response is: 11068
+len of summary is: 3372
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Shortness of breath.
+
+**History of Present Illness (HPI):**
+Dennis, a 57-year-old male, presents with moderate shortness of breath. He reports waking up with shortness of breath and experiencing it again when he returns home. He has a history of diabetes, hypertension, and asthma. He has been coughing up blood for the past 3 weeks, producing 3-4 cups of blood per day. He denies any hemoptysis, leg swelling, or recent travel history. He reports difficulty walking long distances due to shortness of breath and has had trouble getting an appointment in the office due to being "mostly numb."
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports poor sleep quality, waking up short of breath.
+- **Respiratory:** Reports hemoptysis and moderate shortness of breath.
+- **Cardiovascular:** No chest pain or palpitations.
+- **Gastrointestinal:** No nausea or vomiting.
+- **Neurological:** No headaches or dizziness.
+- **Endocrine:** Reports blood sugars have been high and low, currently on metformin.
+- **Musculoskeletal:** Reports knee pain, no leg swelling.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 120/70 mmHg
+- Heart Rate: 80 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: Afebrile
+- Pulse Oxygenation: 94% on pulse oximetry in the clinic
+
+**Physical Examination:**
+- **General:** Alert, in mild respiratory distress.
+- **HEENT:** No JVD, no carotid bruits.
+- **Respiratory:** Rales and rhonchi heard more on the right side, diminished breath sounds in the right lung field.
+- **Cardiovascular:** 2/1 holosystolic ejection murmur, unchanged from previous exams, regular rate and rhythm.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Extremities:** 1+ non-pitting edema in both lower extremities, no calf tenderness, negative Homan's sign.
+
+**3. Assessment:**
+
+1. **Shortness of breath with hemoptysis:**
+   - Differential Diagnosis: Possible pulmonary embolism, pneumonia, or malignancy.
+   - Awaiting results from emergency department evaluation and chest CT scan.
+
+2. **Type 2 Diabetes:**
+   - Hemoglobin A1c: 7.0%
+   - Blood sugars have been high post-meals and low in the morning.
+
+3. **Hypertension:**
+   - Blood pressure within normal limits but history of hypertension.
+
+**4. Plan:**
+
+1. **Shortness of breath with hemoptysis:**
+   - Referral to Emergency Department for further evaluation and imaging.
+   - Order a Chest CT scan to rule out pulmonary embolism or other pathology.
+   - Blood work to be done at the emergency department including CBC, BMP, D-dimer, and ABG.
+   - Follow-up with pulmonologist, Dr. Sarah Thompson, for further evaluation and management.
+
+2. **Type 2 Diabetes:**
+   - Order Hemoglobin A1c today.
+   - Increase metformin dose to 750 mg BID.
+   - Schedule follow-up in 3 weeks for diabetes management and review of hemoglobin A1c results.
+
+3. **Hypertension:**
+   - Hold current antihypertensive medication (Norvasc) temporarily until further evaluation for the current episode of shortness of breath.
+   - Reassess blood pressure and hypertension management after the current episode is resolved.
+
+**Instructions:**
+- The patient is advised to visit the emergency department immediately for further evaluation and to undergo the recommended tests.
+- The patient understands and agrees with the recommended medical treatment plan. }}<|eot_id|>
+processing idx: 22
+len of response is: 9360
+len of summary is: 2828
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Right knee pain and limited function.
+
+**History of Present Illness (HPI):**
+Scott Johnson is a 29-year-old Caucasian male who presents for an initial consultation after experiencing right knee pain and swelling for the past 3 days. The patient reports that the injury occurred while playing in a recreational soccer game. He describes the pain as moderate, rated between 6-7/10, and notes swelling that has reduced slightly. The patient mentions limited range of motion and difficulty bearing weight on the affected leg. He has been managing the pain with anti-inflammatory medications such as ibuprofen, which provides some relief. The pain is persistent and has impacted his ability to participate in recreational sports and daily activities, including jogging, which he does regularly.
+
+**Review of Systems (ROS):**
+- Musculoskeletal: Reports right knee pain, swelling, limited range of motion, and difficulty bearing weight.
+- General: No other systemic symptoms reported.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+
+**Physical Examination:**
+- **Gait:** Marked limp observed on the right leg upon ambulation.
+- **Knee Examination:** 
+  - Significant effusion in the right knee.
+  - Slight ecchymosis.
+  - Pain to palpation at the medial joint line.
+  - Difficulty with passive range of motion.
+  - Lacking a few degrees of terminal extension (to 115°).
+  - Lacking 20-30° of terminal flexion secondary to pain.
+  - Positive Lachman exam.
+
+**Neurovascular Exam:**
+- Neurovascularly intact in bilateral lower extremities.
+- Muscle strength 5/5 in bilateral lower extremities.
+
+**3. Assessment:**
+- Right knee injury, likely ACL tear.
+- Differential Diagnosis: ACL tear, meniscal injury, ligamentous injury.
+
+**4. Plan:**
+- **Imaging:** Ordered MRI of the right knee to evaluate the integrity of the ACL.
+- **Medication:** Prescribed anti-inflammatory medication (Meloxicam 50 mg, oral, once daily, 30 tablets).
+- **Activity Modification:** Advised to wear a knee immobilizer and use crutches to aid in ambulation.
+- **Follow-up:** Follow-up appointment in 2 weeks to review MRI results and re-evaluate the need for surgical intervention.
+- **Lifestyle Change:** Advised to moderate physical activities, limit jogging, and avoid high-impact sports until further notice.
+
+**Instructions:**
+- The patient should continue to use the knee immobilizer and crutches as needed.
+- Apply ice to the knee if swelling persists.
+- Take the prescribed medication as directed and monitor for any side effects.
+- Avoid strenuous activities that may exacerbate the knee pain.
+- Return for a follow-up visit in 2 weeks to discuss MRI results and further management. }}<|eot_id|>
+processing idx: 23
+len of response is: 18623
+len of summary is: 5006
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Elbow pain.
+
+**History of Present Illness (HPI):**
+Teresa Johnson is a 55-year-old African American female who presents to the urgent care center with complaints of moderate to severe pain in her right elbow. The pain started 4 days ago after an episode of intense activity while working on a pottery project. She describes the pain as a 7/10 in severity, constant, and it radiates down her arm. The pain is associated with swelling and tenderness along the medial aspect of the elbow. The pain has significantly impacted her ability to perform her pottery work and other daily activities that involve repetitive wrist movements. She denies any trauma to the elbow prior to the onset of symptoms.
+
+**Review of Systems (ROS):**
+- **Musculoskeletal:** Reports moderate to severe pain in the right elbow, radiating down the arm, associated with swelling and tenderness.
+- **General:** Poor sleep due to pain.
+- **Endocrine:** Known history of hypertension, currently managed with 10 mg of lisinopril daily.
+- **Endocrine:** Known history of Type 2 Diabetes Mellitus, currently managed with 500 mg of metformin BID.
+- **Dietary:** High carbohydrate intake, sweet tooth, enjoys baking and pottery.
+- **Exercise:** Walks 1-2 times a week, 30 minutes each session.
+- **Tobacco Use:** None.
+- **Alcohol Consumption:** Occasional social drinking.
+- **Drug Use:** None.
+- **Recreational Activities:** Enjoys pottery and baking.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 122/70 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 97.9°F
+- SpO2: 98% on room air
+
+**Physical Exam:**
+- **General:** Alert, cooperative, appears in mild distress due to pain.
+- **Cardiovascular:** No murmur, rub, or gallop. Pulses are equal bilaterally.
+- **Respiratory:** Lungs are clear to auscultation bilaterally.
+- **Musculoskeletal:** Right elbow: Moderate tenderness over the medial epicondyle, pain with resisted pronation of the right forearm, no deformity noted. Pain with flexion and wrist extension.
+- **Integumentary:** No rash, bruising, or swelling noted at the elbow.
+- **Endocrine:** No acanthosis nigricans or thyroid enlargement.
+
+**Investigations:**
+- X-ray of the right elbow: No fractures or bony abnormalities noted.
+
+**3. Assessment:**
+
+1. **Primary Diagnosis:**
+   - Right elbow pain, consistent with medial epicondylitis (tennis elbow).
+   - Medical Reasoning: The patient's symptoms and physical examination findings are consistent with medial epicondylitis. X-ray of the elbow showed no fractures or bony abnormalities, supporting the diagnosis.
+
+2. **Secondary Diagnosis:**
+   - Longstanding Type 2 Diabetes Mellitus.
+   - Medical Reasoning: The patient has a known history of Type 2 Diabetes Mellitus, currently managed with metformin. The patient reports difficulty maintaining blood sugar levels and has been non-compliant with medication.
+
+3. **Third Diagnosis:**
+   - Hypertension.
+   - Medical Reasoning: The patient has a history of hypertension, currently managed with lisinopril, with blood pressure within an acceptable range today.
+
+**4. Plan:**
+
+1. **Right Elbow Pain:**
+   - **Rest:** Advise the patient to rest the right arm and avoid activities that exacerbate the pain.
+   - **Immobilization:** Recommend the use of a sling for the right arm while awake.
+   - **Ice Application:** Advise the patient to apply ice to the elbow for 20 minutes three times a day.
+   - **Medication:** Prescribe 600 mg of ibuprofen, to be taken orally three times a day with food for 1 week.
+   - **Follow-up:** Schedule a follow-up visit in 2 weeks to assess improvement and consider physical rehabilitation if necessary.
+
+2. **Type 2 Diabetes Mellitus:**
+   - **Medication Adjustment:** Increase metformin to 1000 mg BID.
+   - **Blood Sugar Monitoring:** Encourage the patient to check blood sugars daily and record the results.
+   - **Education:** Provide education on the importance of blood sugar control and adherence to medication.
+   - **Follow-up:** Schedule a follow-up visit in 2 weeks to review blood sugar logs and consider further management if no improvement.
+
+3. **Hypertension:**
+   - **Continue Current Management:** Continue lisinopril 10 mg daily.
+   - **Monitoring:** Regularly monitor blood pressure at home.
+   - **Lifestyle Modifications:** Encourage continued walking and discuss potential benefits of increased physical activity within the patient's pain-free range.
+
+4. **Additional Recommendations:**
+   - **Referral:** Refer the patient to Dr. Emily Carter, a dietician, for diabetic counseling due to difficulty maintaining blood sugar levels.
+   - **Imaging:** Order a biochemistry panel including HbA1c to assess long-term glucose control.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan.
+
+**Instructions:**
+The patient will follow up in 2 weeks for re-evaluation of the elbow and to review blood sugar logs.
+##### }}<|eot_id|>
+processing idx: 24
+len of response is: 12462
+len of summary is: 3595
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Low back pain.
+
+**History of Present Illness (HPI):**
+Noah Lee is a 35-year-old Asian male with a past medical history significant for Type 2 Diabetes Mellitus, presenting with moderate low back pain for the past week. The pain has been continuous and has not responded to over-the-counter medications. The patient reports that the pain is localized in the middle of the back and radiates to the left side. The pain is aggravated by sudden movements, particularly on the left side.
+
+**Review of Systems (ROS):**
+- **Musculoskeletal:** Endorses moderate low back pain, continuous, radiating to the left side, aggravated by sudden movements.
+- **Endocrine:** History of Type 2 Diabetes Mellitus, controlled with medication.
+- **Neurological:** No reported numbness or tingling in the lower extremities.
+- **General:** No recent weight loss or fever.
+
+**2. Objective:**
+
+**Physical Examination:**
+- **General:** Alert and oriented, in mild distress due to pain.
+- **HEENT:** Normocephalic, atraumatic, no scleral icterus.
+- **Neck:** Supple, no lymphadenopathy.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Musculoskeletal:** Tenderness to palpation in the lumbosacral region, particularly in the middle of the back and radiating to the left side. No costovertebral angle tenderness. Full range of motion in the lower extremities, though pain is elicited with certain movements.
+- **Neurological:** Strength 5/5 in lower extremities, sensation intact, reflexes 2+ and symmetric.
+- **Endocrine:** No thyromegaly, no acanthosis nigricans.
+
+**3. Assessment:**
+- **Low back pain, unspecified (ICD-10 M54.50).**
+- **Type 2 Diabetes Mellitus, controlled.**
+
+**4. Plan:**
+1. **Low Back Pain:**
+   - **Medical Reasoning:** The patient presents with moderate low back pain with a one-week duration, aggravated by sudden movements and radiating to the left side. Physical examination reveals tenderness in the lumbosacral region.
+   - **Patient Education and Counseling:** Discussed the importance of rest, gentle movements, and avoiding activities that exacerbate the pain. Recommended using over-the-counter pain relief as needed.
+   - **Medical Treatment:** Ordered physical therapy for two sessions per week for two weeks to help with pain management and strengthening of the back muscles.
+   - **Imaging:** Ordered a low back X-ray to evaluate joint spaces and check for any disk issues. Awaiting results.
+   - **Follow-up:** Advised to follow up in one week to reassess pain and review X-ray results.
+
+2. **Type 2 Diabetes Mellitus:**
+   - **Medical Reasoning:** The patient has a known history of Type 2 Diabetes Mellitus, currently controlled with metformin.
+   - **Patient Education and Counseling:** Discussed the importance of maintaining a balanced diet and regular exercise. Advised to avoid high carbohydrate intake, especially from frequent visits to the bakery.
+   - **Medical Treatment:** Continue current medication regimen of metformin 500 mg twice daily. Ordered an A1C test to evaluate current glycemic control. Awaiting results.
+   - **Follow-up:** Advised to monitor blood sugar levels regularly and follow up in one month for A1C results and further management.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan.
+
+**Instructions:**
+The patient will follow up in one week for reassessment of pain and review of X-ray results. Continue with prescribed medications and lifestyle modifications. }}<|eot_id|>
+processing idx: 25
+len of response is: 9680
+len of summary is: 2813
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Right knee pain and clicking sensation.
+
+**History of Present Illness (HPI):**
+Gregory Davis is a 30-year-old African American male who presents to the urgent care center with complaints of moderate pain and a clicking sensation in his right knee, which he noticed after an incident 2.5 weeks ago. The patient reports that he heard a "pop" when he stepped off a curb. Since then, he has experienced intermittent clicking and occasional locking of the knee, particularly when walking, but no pain during prolonged standing. He denies any significant impact on daily activities except for difficulty with full squats. The patient has not taken any medication for the pain, opting to manage it through activity and rest. He reports that ibuprofen helps with nighttime sleep but has minimal adherence to medication overall.
+
+**Review of Systems (ROS):**
+- Musculoskeletal: Positive for moderate pain and clicking sensation in the right knee, difficulty with full squats.
+- Neurological: Positive for numbness and tingling in the foot, likely due to a previous foot fracture.
+- General: No fever or chills.
+- Cardiovascular: No chest pain or palpitations.
+- Respiratory: No shortness of breath or cough.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+
+**Physical Examination:**
+- General: Well-nourished, well-hydrated, appears in no acute distress.
+- Musculoskeletal:
+  - Right knee: Slight edema appreciated, no pain to palpation of the right lateral knee, full range of motion with no instability, positive varus test, negative Lachman sign.
+- Cardiovascular: Palpable dorsalis pedis and posterior tibialis pulse.
+- Neurological: No focal deficits.
+
+**Investigation/Test Results:**
+- X-ray of the right knee: No acute fracture or bony abnormality.
+
+**3. Assessment:**
+
+- Sprain of the lateral collateral ligament of the right knee.
+
+**4. Plan:**
+- Prescribed meloxicam 15 mg orally once daily for pain management.
+- Advised physical therapy to strengthen the surrounding muscles and improve knee stability.
+- Recommended icing the knee 20 minutes on, 20 minutes off, 4 times a day.
+- Instructed to avoid high-impact activities such as burpees and to use supportive footwear.
+- Follow-up in 4 weeks for re-evaluation.
+- Referral to physical therapy for targeted rehabilitation exercises.
+- MRI of the right knee if symptoms persist post-physical therapy to evaluate for any ligament damage or other structural issues.
+
+The patient was cooperative and expressed understanding of the treatment plan. He has a high health literacy and is motivated to recover quickly to resume his active lifestyle, including regular cycling and Peloton workouts. }}<|eot_id|>
+processing idx: 26
+len of response is: 10152
+len of summary is: 2942
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Pain in the back of the heel and calf after training or upon waking.
+
+**History of Present Illness (HPI):**
+Dennis Johnson is a 42-year-old African American male who presents to the urgent care center for evaluation of pain in the back of his heel and calf. He is an avid participant in a local triathlon training program and has been experiencing moderate pain for the past 2 weeks. The pain is particularly severe after workouts and upon waking in the morning. He reports that the pain is accompanied by stiffness and a sensation of tearing in the affected area. The pain subsides somewhat after 10-15 minutes of walking but worsens with prolonged activity or upon sitting for extended periods. This pain has significantly impacted his ability to participate in his triathlon training.
+
+**Review of Systems (ROS):**
+- Musculoskeletal: Reports moderate pain in the back of the heel and calf, stiffness, and a sensation of tearing.
+- General: Difficulty participating in triathlon training due to pain.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+
+**Physical Examination:**
+- **Lower Extremities:** 
+  - Positive for pain upon dorsiflexion of the ankle.
+  - Negative Thompson test on the affected side.
+  - Tenderness upon palpation of the Achilles tendon.
+  - No signs of swelling or erythema.
+
+**3. Assessment:**
+
+- **Diagnosis:** Pain in the back of the heel and calf, likely due to overuse and exacerbated by aggressive triathlon training.
+- **Differential Diagnosis:** Achilles tendinitis, plantar fasciitis, stress fracture.
+
+**4. Plan:**
+
+**Medical Treatment:**
+- **Medication:** Ibuprofen 400 mg, 1 tablet every 6 hours as needed for pain, oral, 20 tablets.
+
+**Physical Therapy:**
+- Ordered 2 physical therapy visits focusing on strengthening and stretching exercises.
+
+**Follow-up Recommendations:**
+- Return in 7-10 days to monitor progress and reassess pain levels.
+
+**Imaging:**
+- X-ray of the lower extremity ordered to rule out fractures. Awaiting results.
+
+**Patient Education and Counseling:**
+- Advised the patient to cease training for the next 1-2 weeks to allow for healing.
+- Educated the patient on the importance of proper stretching and strengthening exercises for the Achilles tendon.
+- Discussed the potential benefits of anti-inflammatory medications and proper use.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended treatment plan. He is concerned about missing training but acknowledges the need for recovery.
+
+**Notes:**
+- The patient is a native English speaker with good health literacy and is cooperative with medical advice. He resides in an urban area with moderate air pollution and has limited access to specialized medical facilities. He is a software engineer and has a high level of health literacy. }}<|eot_id|>
+processing idx: 27
+len of response is: 9173
+len of summary is: 3262
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Non-healing foot ulcer.
+
+**History of Present Illness (HPI):**
+Christina Lee is a 28-year-old female with a known history of Type 2 Diabetes Mellitus who presents to the clinic with a non-healing ulcer on the dorsal aspect of her right foot. The ulcer has been present for approximately one year and has been associated with mild pain and occasional drainage. She reports minimal sensation in the right foot due to diabetic neuropathy. Despite previous antibiotic treatments, the ulcer has not shown signs of improvement. She expresses frustration with the prolonged healing process.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports fatigue, especially during weekends when she walks around the zoo.
+- **Integumentary:** Persistent ulcer with mild pain, occasional drainage.
+- **Neurological:** Minimal sensation in the right foot due to diabetic neuropathy.
+- **Endocrine:** Known history of Type 2 Diabetes Mellitus, A1C 10%.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: Afebrile
+- Blood Pressure: Within normal limits
+- Heart Rate: Regular
+- Respiratory Rate: Normal
+
+**Physical Examination:**
+- **Right Foot:** 
+  - Inspection: 1x2 cm, 2 cm circular wound on the dorsal aspect of the lateral right foot, proximal to the fifth mtp joint. Yellow slough present, minimal granulation tissue, no surrounding erythema or cellulitis. No evidence of fluid collection or necrosis. No bony exposure. No odor noted.
+
+**Investigations:**
+- **X-ray of the right foot:** No evidence of osteomyelitis.
+
+**3. Assessment:**
+
+- **Non-pressure chronic ulcer of other part of the right foot, with unspecified severity.**
+  - **Medical Reasoning:** The ulcer has been present for one year with minimal improvement despite previous treatments, suggesting underlying complications possibly related to poor blood supply or infection.
+  - **Diagnosis:** Type 2 Diabetes Mellitus with associated diabetic neuropathy and chronic ulcer.
+
+**4. Plan:**
+
+- **Medical Treatment:**
+  - **Debridement:** Performed during the visit.
+  - **Topical Medication:** Prescribed Colaganase ointment, apply to the wound once daily, cover with a sterile dressing.
+  - **Wound Care:** Continue wound care with daily cleaning and covering with sterile dressings.
+
+- **Additional Testing:**
+  - **ABI:** Ordered to assess blood supply to the right foot.
+  
+- **Specialist Referral:**
+  - Referral to Dr. John Smith, a podiatrist, for further evaluation and management of the diabetic foot ulcer.
+
+- **Lifestyle Change:**
+  - Advised to wear a surgical shoe to reduce pressure on the affected area.
+  - Recommended to avoid walking long distances and to use a wheelchair if necessary.
+
+- **Follow-up Recommendations:**
+  - Follow-up in 2 weeks for wound assessment and possible debridement of the ulcer.
+
+- **Patient Education and Counseling:**
+  - Discussed the importance of proper wound care and adherence to prescribed treatments.
+  - Encouraged to maintain a balanced diet and to monitor blood glucose levels closely.
+  - Emphasized the importance of wearing the surgical shoe to prevent further complications.
+
+- **Patient Agreements:**
+  - The patient understands and agrees with the recommended medical treatment plan. }}<|eot_id|>
+processing idx: 28
+len of response is: 11939
+len of summary is: 3606
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up after recent hospitalization for acute ST elevation myocardial infarction (STEMI) and stent placement.
+
+**History of Present Illness (HPI):**
+The patient, Ms. Julia Thompson, is a 58-year-old African American female with a history of coronary artery disease, hypertension, and type 2 diabetes mellitus, who presents for follow-up after being hospitalized for a STEMI. The patient was admitted to the hospital with severe chest pain and was promptly taken to the catheterization lab for stent placement. She was previously seen in our clinic six months ago for coronary artery disease management. She is currently asymptomatic and reports no chest pain or shortness of breath. She follows a high-sodium diet and walks her dog daily for exercise. She is compliant with her medication regimen and has good insurance coverage.
+
+**Review of Systems (ROS):**
+- Cardiovascular: No chest pain, no palpitations.
+- Respiratory: No shortness of breath, no cough.
+- Gastrointestinal: No nausea or vomiting.
+- Musculoskeletal: Mild lower extremity edema noted.
+- Neurological: No dizziness, no syncope.
+- Endocrine: No polyuria, no polydipsia.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 140/85 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- General: Alert, oriented, and in no acute distress.
+- Neck: No jugular venous distention (JVD).
+- Cardiovascular: S1 and S2 present, no murmurs, no carotid bruits, 3/6 systolic ejection murmur heard at the left base.
+- Respiratory: Lungs clear to auscultation bilaterally.
+- Extremities: Mild lower extremity edema, pitting 1+.
+- Vascular: Right radial artery catheter site clean, dry, and intact without hematoma. Right radial artery pulses are palpable.
+
+**Investigation/Test Results:**
+- ECG: Normal sinus rhythm, R wave progression, ST changes consistent with prior STEMI.
+- Echocardiogram: Reduced ejection fraction (EF) of 35%, moderate mitral regurgitation.
+
+**3. Assessment:**
+
+**Primary Diagnosis:**
+- Coronary Artery Disease (ICD-10 I25.9)
+
+**Secondary Diagnoses:**
+- Newly reduced left ventricular dysfunction
+- Moderate mitral regurgitation
+
+**4. Plan:**
+
+**Medical Treatment:**
+- Continue Aspirin 81 mg daily.
+- Continue Brilinta 90 mg twice daily.
+- Continue high-dose statin (Lipitor 80 mg daily).
+- Continue Toprol (50 mg daily).
+- Refer to cardiac rehab for exercise and education.
+- Referral to Dr. Emily Carter, a cardiologist, for further evaluation and management of reduced left ventricular dysfunction and moderate mitral regurgitation.
+
+**Patient Education and Counseling:**
+- Discussed the importance of continued medication adherence.
+- Advised on dietary modifications to reduce sodium intake.
+- Encouraged regular exercise as tolerated, with a structured plan to be developed in cardiac rehab.
+- Discussed the significance of follow-up and monitoring for potential complications.
+
+**Follow-Up:**
+- Return visit in 2 months for repeat echocardiogram.
+- Blood Work: Ordered for biochemistry and hematology to monitor for any abnormalities.
+- Lifestyle Modifications: Nutritional counseling to address high-sodium diet and explore diet options available within the food desert.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan and is motivated to follow through with the lifestyle changes and follow-up appointments. She is compliant with her medication regimen and is eager to regain full function. }}<|eot_id|>
+processing idx: 29
+len of response is: 13037
+len of summary is: 3138
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up for coronary artery disease and associated conditions.
+
+**History of Present Illness (HPI):**
+The patient, Mr. Jose Martinez, is a 55-year-old Hispanic male with a history of myocardial infarction 6 months ago, stage 3 chronic kidney disease, and type 2 diabetes mellitus. He presents for a follow-up visit. The patient is currently on aspirin, brilinta, and fish oil, with concerns about the long-term use of medications. He reports occasional dizziness when standing up quickly, which he attributes to his current medications. He also expresses concerns about his diet and adherence to lifestyle changes.
+
+**Review of Systems (ROS):**
+- Cardiovascular: Occasional dizziness when standing up quickly.
+- Endocrine: History of type 2 diabetes mellitus.
+- Musculoskeletal: Reports no muscle aches, but concerned about the potential side effects of crestor.
+- Neurological: No complaints of headaches or other neurological symptoms.
+- General: Reports feeling down and unmotivated since his heart attack.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 127/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **Neck:** No jugular venous distention, no carotid bruits.
+- **Cardiovascular:** S1 and S2 present, slight 3/6 systolic ejection murmur heard at the left base.
+- **Abdomen:** No hepatosplenomegaly.
+- **Lower Extremities:** No edema, but 1+ non-pitting edema appreciated.
+- **General:** Appears slightly down and unmotivated but cooperative.
+
+**Results:**
+- **Blood Work:** Comprehensive Metabolic Panel (CMP) ordered to monitor kidney function due to contrast dye use; results pending.
+
+**3. Assessment:**
+1. Coronary artery disease with history of myocardial infarction.
+2. Stage 3 chronic kidney disease.
+3. Type 2 diabetes mellitus.
+
+**4. Plan:**
+1. **Coronary Artery Disease:**
+   - Continue current medications: Aspirin, Brilinta, and Fish Oil.
+   - Referral to cardiac rehab for supervised exercise and lifestyle modification.
+   - Refill Metoprolol 50 mg, oral, once daily.
+   - Refill Crestor 40 mg, oral, once daily.
+   - No need for stress test at this time; will monitor symptoms.
+
+2. **Stage 3 Chronic Kidney Disease:**
+   - Referral to Nephrologist, Dr. Miller, for chronic kidney disease management.
+   - Monitor kidney function with CMP.
+
+3. **Type 2 Diabetes Mellitus:**
+   - Order Hemoglobin A1c.
+   - Referral to Dietitian for diabetic education.
+   - Discuss insulin regimen with primary care physician.
+
+4. **Mood and Depression:**
+   - Referral to Psychiatry for adjustment disorder post-heart attack. Reason: Difficulty adjusting to heart attack diagnosis. Psychiatrist: Dr. Emily Carter.
+   - Medication: Consider starting an antidepressant if symptoms persist.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan but expresses concerns about the long-term use of medications. He is somewhat non-compliant with lifestyle changes, preferring a more gradual approach. }}<|eot_id|>
+processing idx: 30
+len of response is: 10815
+len of summary is: 3485
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Abdominal pain.
+
+**History of Present Illness (HPI):**
+Barbara Lee is a 31-year-old female with a history of diabetes mellitus type 2 and asthma who presents with a one-week history of moderate abdominal pain. She reports that the pain is gradually increasing in severity and is associated with nausea and occasional vomiting. The nausea has been intermittent, occurring 3 times in the past week. She notes that her pain is exacerbated by physical activity and has impacted her ability to exercise, including her usual jogging routine. She has a longstanding history of coffee consumption, including frequent visits to Starbucks, and has recently increased her intake. She is highly motivated to follow medical advice and has been cooperative with previous treatments.
+
+**Review of Systems (ROS):**
+- **Constitutional:** No fever.
+- **Gastrointestinal:** Moderate abdominal pain, nausea, occasional vomiting.
+- **Endocrine:** Blood glucose levels within controlled range, no hypo/hyperglycemic episodes reported.
+- **Respiratory:** No recent asthma attacks, uses flovent Budesonide 200 mcg twice a day and albuterol as needed.
+
+**2. Objective:**
+
+**Physical Examination:**
+- **General:** Alert and oriented, no acute distress.
+- **Cardiovascular:** Grade 3/6 systolic ejection murmur, unchanged from prior exam.
+- **Abdominal:** Mild tenderness in the epigastrium, no rebound tenderness, no guarding. Abdomen soft, no tenderness in the right lower quadrant, no significant tenderness in the right upper quadrant.
+- **Respiratory:** Mild expiratory wheezes, otherwise normal lung exam, excellent air movement.
+
+**3. Assessment:**
+1. **Acute Gastritis, unspecified, without bleeding.**
+   - Medical Reasoning: The patient's symptoms of abdominal pain, nausea, and occasional vomiting, along with her recent increase in coffee intake and history of alcohol use, are consistent with acute gastritis. Physical exam findings support this diagnosis.
+2. **Type 2 Diabetes Mellitus.**
+   - Medical Reasoning: The patient's blood glucose levels are within the controlled range, and she is currently on metformin 500 mg once daily, which was increased to 500 mg twice daily in the previous visit.
+3. **Asthma.**
+   - Medical Reasoning: The patient's asthma is currently well-controlled on flovent 200 mcg twice a day and albuterol as needed. No recent exacerbations reported.
+
+**4. Plan:**
+1. **Acute Gastritis.**
+   - **Medical Treatment:** Prescribed Omeprazole 20 mg, oral, twice a day, 30 tablets.
+   - **Patient Education and Counseling:** Advised the patient to reduce caffeine and alcohol intake. Recommended cutting back on spicy food as well.
+   - **Follow-up:** Follow-up in 4 weeks.
+   - **Additional Testing:** Ordered urinalysis, urine pregnancy test, CBC, and CMP to rule out other possible causes of abdominal pain.
+
+2. **Type 2 Diabetes Mellitus.**
+   - **Medical Treatment:** Continue metformin 500 mg in the morning and 500 mg in the evening. Monitor blood glucose levels.
+   - **Patient Education and Counseling:** Continue dietary modifications to manage blood glucose levels.
+
+3. **Asthma.**
+   - **Medical Treatment:** Continue flovent 200 mcg twice a day and albuterol as needed.
+   - **Patient Education and Counseling:** Encouraged the patient to continue her current asthma management plan.
+
+**Patient Agreements:** The patient understands and agrees with the recommended medical treatment plan.
+
+##### }}<|eot_id|>
+processing idx: 31
+len of response is: 8237
+len of summary is: 2797
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Numbness and tingling in the right hand.
+
+**History of Present Illness (HPI):**
+Alexis Johnson is a 45-year-old African American female who presents with a 6-month history of intermittent numbness and tingling in her right hand. She reports that the symptoms have become more persistent over the last month. The pain is described as moderate and occurs daily, particularly when typing on a keyboard. She also experiences difficulty gripping objects and finds it hard to use a computer mouse. The pain is relieved somewhat by stopping the activity but is exacerbated by prolonged typing.
+
+**Review of Systems (ROS):**
+- Musculoskeletal: Endorses pain on wrist extension and flexion.
+- Neurological: Endorses numbness and tingling in the right hand, particularly in the thumb, index, and middle fingers.
+- General: Denies any sleep disturbance due to pain.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+
+**Physical Examination:**
+- General: Well-nourished, well-hydrated, in no acute distress.
+- Musculoskeletal: Tenderness over the carpal tunnel area, pain on extension and flexion of the right wrist.
+- Neurological: Decreased sensation in the thumb, index, and middle fingers of the right hand. Positive Tinel's sign on the right wrist. Slight reduction in grip strength on the right hand.
+
+**3. Assessment:**
+
+Alexis Johnson is a 45-year-old female with a history of mild osteoarthritis in the hands, presenting with symptoms consistent with Carpal Tunnel Syndrome in the right upper limb.
+
+**4. Plan:**
+
+- **Medical Treatment:**
+  - Initiate wrist splinting for the right wrist to be worn at night.
+  - Ibuprofen 200 mg, oral, every 6 hours as needed for pain, quantity: 30 tablets.
+  - Nerve conduction study to confirm diagnosis and assess the severity of the carpal tunnel syndrome.
+
+- **Follow-up:**
+  - Schedule a follow-up appointment in 4 weeks to review the nerve conduction study results and assess the effectiveness of the current treatment plan.
+  - If the nerve conduction study is positive, consider surgical intervention (carpal tunnel release).
+
+- **Patient Education and Counseling:**
+  - Educate the patient about the use of the wrist splint and the importance of wearing it at night.
+  - Advise on proper ergonomic practices to reduce strain on the wrist during computer use.
+  - Discuss the potential need for surgical intervention if conservative management fails to provide relief.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan. She expresses a strong preference for conservative management initially and is highly cooperative with medical advice. }}<|eot_id|>
+processing idx: 32
+len of response is: 10631
+len of summary is: 3818
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Right elbow pain.
+
+**History of Present Illness (HPI):**
+Philip Jackson is a 58-year-old African American male who presents today with complaints of right elbow pain. The patient reports that the pain started one week ago while playing lacrosse with his children. He describes the pain as moderate and located at the tip of the elbow. The pain is present with any movement and has significantly impacted his ability to play sports and perform tasks that require elbow movement. The patient has a past medical history of hypertension and type 2 diabetes mellitus. He has been taking 20 mg of lisinopril daily for hypertension and 500 mg of metformin daily for diabetes. He occasionally forgets to take his medications. 
+
+**Review of Systems (ROS):**
+- **Musculoskeletal:** Reports moderate pain at the tip of the right elbow, worsened by movement.
+- **Cardiovascular:** No chest pain or palpitations.
+- **Gastrointestinal:** No abdominal pain or nausea.
+- **Endocrine:** No recent changes in blood sugar levels; patient reports compliance with a low salt diet, following a Mediterranean diet, and avoiding added salt.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 150/90 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths/min
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air
+
+**Physical Examination:**
+- **Cardiovascular:** Grade 2/6 systolic ejection murmur.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Musculoskeletal:** Right elbow exam reveals pain to palpation of the olecranon area of the posterior elbow. Mild pain with flexion and extension. Normal range of motion of the elbow.
+- **Endocrine:** No thyromegaly, no signs of acanthosis nigricans.
+
+**Results:**
+- X-ray of the right elbow: Normal x-ray, no fracture or bony abnormality.
+
+**3. Assessment:**
+
+- **Primary Diagnosis:** Elbow contusion, right side, initial encounter.
+- **Contributing Factor:** Likely due to a lacrosse stick impact from his child.
+- **Secondary Diagnoses:**
+  - Hypertension, well-managed on current medication.
+  - Type 2 Diabetes Mellitus, well-managed on current medication.
+
+**4. Plan:**
+
+- **Right Elbow Contusion:**
+  - **Medical Reasoning:** The patient presents with moderate pain and tenderness at the tip of the right elbow, consistent with a contusion. The normal x-ray indicates no fracture.
+  - **Patient Education and Counseling:** Advised the patient to rest the elbow and avoid activities that exacerbate the pain, including playing lacrosse for the next 2 weeks.
+  - **Medical Treatment:** Prescribed Ibuprofen 800 mg, oral, twice a day, as needed for pain, for 7 days. Advised to ice the elbow 3 times a day for 20 minutes to reduce swelling and pain.
+
+- **Hypertension:**
+  - **Medical Reasoning:** Blood pressure was elevated at 150/90 mmHg. The patient is on lisinopril 20 mg daily.
+  - **Patient Education and Counseling:** Advised the patient to continue taking lisinopril as prescribed and to monitor blood pressure regularly.
+  - **Medical Treatment:** No changes to current medication at this time.
+
+- **Type 2 Diabetes Mellitus:**
+  - **Medical Reasoning:** The patient is on metformin 500 mg daily and reports compliance with the medication.
+  - **Patient Education and Counseling:** Advised the patient to continue taking metformin as prescribed and to monitor blood sugar levels regularly.
+  - **Medical Treatment:** Ordered a biochemistry panel to assess current glucose levels. Consideration for potential dose adjustment based on results.
+
+- **Follow-up Recommendations:**
+  - Follow-up visit in 2 weeks to assess progress and response to treatment.
+  - A1C test to monitor diabetes control.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan. }}<|eot_id|>
+processing idx: 33
+len of response is: 10223
+len of summary is: 2970
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Follow-up for acute on chronic chf exacerbation.
+
+**History of Present Illness (HPI):**
+Kevin Johnson is an 82-year-old African American male with a past medical history significant for hypertension and stage 3 chronic kidney disease, presenting for follow-up after an initial hospitalization for acute on chronic heart failure. The patient reports that he has been trying to adhere to dietary recommendations but admits to occasional dietary indiscretions, particularly high cheese intake and frequent weekend party attendance. He experienced noticeable ankle swelling and a sudden onset of shortness of breath, prompting a 911 call. Upon arrival at the ER, his blood pressure was noted to be 190/90 mmHg. He was subsequently placed on Bumex 2 mg IV during his hospital stay and was discharged home with instructions to follow up with a cardiologist.
+
+**Review of Systems (ROS):**
+- **Cardiovascular:** Reports ankle swelling, shortness of breath.
+- **Respiratory:** No current shortness of breath, clear lungs.
+- **Gastrointestinal:** No significant complaints.
+- **Neurological:** No dizziness or syncope.
+- **Musculoskeletal:** No joint pain or swelling.
+- **General:** Reports good sleep with an afternoon nap, no fever or weight loss.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 128/72 mmHg
+- Heart Rate: 79 bpm
+- Respiratory Rate: 26 breaths per minute
+- Temperature: 98.6°F
+- O2 Saturation: 99% on room air
+
+**Physical Examination:**
+- **General:** Alert, cooperative, no acute distress.
+- **Cardiovascular:** S1 S2, no murmurs, 2/6 systolic ejection murmur appreciated, stable.
+- **Respiratory:** Lungs clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-tender, no hepatosplenomegaly.
+- **Extremities:** Trace edema in lower extremities.
+- **Neck:** No jugular venous distention.
+
+**Results:**
+- **Echocardiogram:** EF 55%, preserved EF with abnormal diastolic filling, mild to moderate mitral regurgitation.
+
+**3. Assessment:**
+- **Primary Diagnosis:** Acute on chronic combined systolic and diastolic (congestive) heart failure.
+- **Secondary Diagnoses:** Hypertension, Stage 3 Chronic Kidney Disease.
+
+**4. Plan:**
+1. **Heart Failure:**
+   - Continue Bumex 2 mg orally once daily.
+   - Continue monitoring weight daily, call if 3 lbs in 2 days.
+   - Referral for dietary consultation for sodium restriction.
+   - Education on the importance of adhering to dietary restrictions, especially high cheese intake.
+   - Follow-up in 3 months.
+
+2. **Hypertension:**
+   - Continue Amlodipine 5 mg once daily.
+   - Continue Lisinopril 10 mg once daily.
+   - Order renal artery ultrasound to rule out secondary causes of hypertension.
+
+3. **Chronic Kidney Disease:**
+   - Blood work for biochemistry and hematology to monitor kidney function and overall health status.
+
+**Patient Agreements:** The patient understands and agrees with the recommended medical treatment plan.
+
+##### }}<|eot_id|>
+processing idx: 34
+len of response is: 9534
+len of summary is: 3346
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Right ankle pain and swelling after a fall.
+
+**History of Present Illness (HPI):**
+Gregory Thompson is a 35-year-old African American male who presents to the urgent care center with complaints of moderate right ankle pain and swelling. The patient reports that the symptoms began one day ago after he fell on an icy patch while going out to take off the trash. He was extremely cautious but slipped and fell. Since the injury, he has been unable to walk without assistance and has had difficulty bearing weight on the right ankle. He reports that the pain is constant and has been managed with icing and over-the-counter ibuprofen, which has provided some relief.
+
+**Review of Systems (ROS):**
+- Musculoskeletal: Reports right ankle pain and swelling.
+- Neurological: No numbness or tingling reported.
+- General: Difficulty bearing weight on the right ankle.
+
+**Social History:**
+- The patient is a part-time soccer coach for a local community league.
+- He is a high school graduate and works as a construction worker.
+- He lives in an urban area with moderate pollution and has good access to public transit.
+- He has a balanced diet but occasionally eats fast food.
+- He does not smoke and drinks alcohol occasionally, socially.
+- He enjoys playing soccer and other sports.
+- His family is also involved in sports, with his oldest child participating in a 4-5 year old soccer league.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+
+**Physical Exam:**
+- **Inspection:** Ecchymosis and bruising on the skin of the right ankle. Swelling noted over the lateral malleolus.
+- **Palpation:** Tenderness to palpation anterolaterally in the soft tissue. No laxity on anterior drawer and inversion stress. No bony tenderness on palpation of the foot.
+- **Neurovascular Exam:** Intact sensation to light touch in the right foot. Capillary refill <3 seconds. Strong dorsalis pedis pulse.
+
+**Investigations:**
+- **X-ray:** Right ankle X-ray reviewed, showing no fracture.
+
+**3. Assessment:**
+- Sprain of unspecified ligament of right ankle, initial encounter.
+
+**4. Plan:**
+- **Treatment:**
+  - Elevate the leg and keep it elevated especially when seated.
+  - Ice application to the right ankle.
+  - Aircast to be applied to the right ankle for stabilization.
+  - Use of crutches for the next 1-2 days, then gradually start walking as tolerated.
+- **Medication:**
+  - Ibuprofen 400 mg, oral, every 6 hours as needed for pain, quantity: 30 tablets.
+- **Follow-up:**
+  - Follow-up in 2 weeks to assess improvement.
+- **Imaging:**
+  - No additional imaging needed at this time.
+
+**Patient Education:**
+- Advised to rest and avoid putting weight on the right ankle as much as possible.
+- Instructed on the proper use of the aircast and crutches.
+- Discussed the importance of icing and elevating the ankle to reduce swelling.
+- Encouraged to continue taking NSAIDs as needed for pain management.
+- Explained that symptoms should significantly improve in the next 2 weeks and reassured that he will be able to return to playing soccer once the ankle is healed.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan. All questions were answered. }}<|eot_id|>
+processing idx: 35
+len of response is: 11291
+len of summary is: 3811
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Patient presents for evaluation of newly diagnosed hypercholesterolemia.
+
+**History of Present Illness (HPI):**
+Julie Cruz is a 17-year-old non-binary, Hispanic, imminigipated minor with no significant past medical history. The patient was brought in for an initial consultation following the discovery of elevated cholesterol levels during a routine screening at school. The cholesterol elevation was noted on a fingerstick test. The patient reports no associated symptoms. Julie is concerned about the long-term implications of this finding and its impact on their health.
+
+**Review of Systems (ROS):**
+- **General:** Active lifestyle, enjoys outdoor activities such as cycling.
+- **Diet:** Prefers homemade cookies made with chocolate chips, otherwise maintains a generally healthy diet.
+- **Sleep:** Adequate sleep, averaging 7-8 hours per night.
+- **Exercise:** Engages in regular physical activity, particularly cycling.
+- **Tobacco Use:** Exposed to parental smoking in the past, now lives in a smoke-free environment.
+- **Alcohol Consumption:** None.
+- **Drug Use:** None.
+- **Recreational Activities:** Enjoys cycling and outdoor activities with friends.
+- **Psychosocial:** Reports a high level of health literacy and is cooperative during the consultation. The patient has a history of making health goals with their primary care provider 2 years ago and identifies as non-binary.
+
+**2. Objective:**
+
+**Physical Examination:**
+- **Vital Signs:** Blood pressure within normal limits.
+- **Cardiovascular:** No murmurs, rubs, or gallops appreciated.
+- **Respiratory:** Lungs clear to auscultation bilaterally.
+- **Ophthalmologic:** No icterus noted.
+- **Neck:** No thyroid enlargement.
+- **Abdominal:** No hepatomegaly or splenomegaly appreciated.
+
+**Investigation/Test Results:**
+- **Cholesterol Level:** Elevated at 210 mg/dL (previous screening).
+
+**3. Assessment:**
+
+Julie Cruz is a 17-year-old non-binary, Hispanic, imminigipated minor presenting with newly diagnosed hypercholesterolemia.
+
+**Differential Diagnosis:**
+1. Familial hypercholesterolemia.
+2. Secondary hypercholesterolemia due to nutritional habits.
+3. Possible metabolic syndrome.
+4. Hyperlipidemia secondary to thyroid dysfunction.
+5. Genetic syndromes associated with hypercholesterolemia.
+
+**4. Plan:**
+
+**Medical Treatment:**
+1. **Lifestyle Modification:**
+   - **Diet:** Implement a well-balanced diet focusing on foods lower in saturated fat and sugars. Patient to meet with a nutritionist for dietary counseling.
+   - **Exercise:** Encourage continuation of regular physical activity, such as cycling.
+
+2. **Follow-up:**
+   - **Cholesterol Level:** Repeat lipid panel in 3-6 months after dietary and lifestyle changes.
+   - **Specialist Referral:** Referral to a nutritionist for dietary counseling and management of hypercholesterolemia.
+   - **Genetic Testing:** Referral to Dr. Emily Thompson, a geneticist, for evaluation of potential familial hypercholesterolemia.
+
+3. **Additional Testing:**
+   - **Blood Work:** Order a full cholesterol panel, glucose, complete metabolic panel, thyroid studies, and liver panels.
+   - **Genetic Testing:** Perform genetic testing to identify potential familial hypercholesterolemia.
+
+4. **Patient Education and Counseling:**
+   - Discussed the importance of dietary changes and regular physical activity in managing cholesterol levels.
+   - Emphasized the potential long-term health risks associated with untreated hypercholesterolemia, including cardiovascular disease.
+   - Provided resources and support for accessing healthy food options, considering the patient's low-income status.
+
+5. **Patient Agreements:**
+   - The patient understands and agrees with the recommended medical treatment plan and follow-up schedule. }}<|eot_id|>
+processing idx: 36
+len of response is: 14590
+len of summary is: 4196
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Chest pain.
+
+**History of Present Illness (HPI):**
+Elizabeth Johnson is a 53-year-old African American female who presents for an initial consultation with complaints of intermittent chest pain during exertion. She reports that the pain has been occurring over the past 3 months and has limited her ability to engage in physical activities. The pain is described as a dull, pressure-like sensation that is exacerbated by walking. She denies any associated symptoms such as shortness of breath, diaphoresis, or syncope. The pain is not currently present at the time of the visit.
+
+**Review of Systems (ROS):**
+- Cardiovascular: Reports chest pain during exertion.
+- Respiratory: Denies shortness of breath, cough, or wheezing.
+- Gastrointestinal: Denies nausea, vomiting, or diarrhea.
+- Endocrine: Known history of Type 2 Diabetes Mellitus, currently managed with metformin.
+- Neurological: Denies headaches, dizziness, or syncope.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: Elevated, noted in previous clinic visits.
+- Heart Rate: Within normal limits.
+- Respiratory Rate: Within normal limits.
+- Temperature: Within normal limits.
+- Oxygen Saturation: Within normal limits.
+
+**Physical Examination:**
+- General: Alert, oriented, and in no acute distress.
+- Neck: No jugular venous distention, no carotid bruits.
+- Cardiovascular: Presence of a 2/6 systolic ejection murmur, regular rate and rhythm, no peripheral edema noted.
+- Respiratory: Clear to auscultation bilaterally, no crackles or rhonchi.
+- Abdomen: Soft, non-tender, no hepatosplenomegaly, no masses palpated.
+- Extremities: Mild bilateral lower extremity edema, 1+ pitting edema noted.
+
+**Investigation/Test Results:**
+- EKG: No signs of myocardial infarction.
+
+**3. Assessment:**
+
+1. Chest pain, unspecified.
+   - Medical Reasoning: Given the patient's history of exertional chest pain and the presence of a systolic ejection murmur, the differential diagnosis includes atherosclerotic heart disease with possible angina pectoris. The chest pain could also be related to her history of hypertension and Type 2 Diabetes Mellitus, and her family history of ischemic heart disease.
+   
+2. Type 2 Diabetes Mellitus.
+   - Medical Reasoning: The patient has a known history of Type 2 Diabetes Mellitus, currently managed with metformin. Her hemoglobin A1c is pending.
+   
+3. Hypertension.
+   - Medical Reasoning: The patient has a trend of elevated blood pressure readings in her medical history, documented by several other clinicians.
+
+**4. Plan:**
+
+1. Chest pain.
+   - Medical Treatment: Prescribed nitroglycerin 0.4 mg sublingual tablets, 1 tablet to be taken sublingually as needed for chest pain, up to 3 tablets every 5 minutes if chest pain persists. Advised to call 911 and go to the hospital if chest pain does not resolve or worsens.
+   - Referral: Referral to Cardiology for further evaluation of potential atherosclerotic heart disease. Appointment scheduled with Dr. John Smith, Cardiologist, for next week.
+   - Follow-up: Follow-up in 2 weeks to monitor response to treatment and review test results.
+
+2. Type 2 Diabetes Mellitus.
+   - Medical Treatment: Continue current metformin 500 mg twice daily. Ordered hemoglobin A1c.
+   - Referral: Referral to Ophthalmology for diabetic retinopathy screening. Appointment scheduled in 2 weeks.
+   - Follow-up: Follow-up in 2 weeks to review hemoglobin A1c and ophthalmology results.
+
+3. Hypertension.
+   - Medical Treatment: Prescribed hydrochlorothiazide 25 mg once daily.
+   - Follow-up: Advised to use a home blood pressure monitor and enter readings in Epic MyChart. Will review blood pressure log at the next visit.
+
+**Patient Education and Counseling:**
+- Advised the patient on the importance of medication adherence and lifestyle modifications, including diet and exercise.
+- Discussed potential side effects of new medications and the importance of reporting any adverse reactions.
+- Emphasized the need for regular follow-up and monitoring of chronic conditions.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan and follow-up instructions. }}<|eot_id|>
+processing idx: 37
+len of response is: 9915
+len of summary is: 3409
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Moderate bilateral knee pain.
+
+**History of Present Illness (HPI):**
+Sophia Lee is a 29-year-old Asian female who presents to the specialty clinic for evaluation of bilateral knee pain. The patient reports that the pain has been persistent for the past 6 months, with no specific recall of an inciting event. The pain is described as a deep, aching pain located behind the patella, with occasional crepitus. The pain is exacerbated by activities that involve a transition from a seated to standing position and by prolonged sitting or walking. The patient notes that the pain is alleviated somewhat by rest.
+
+Sophia has tried various over-the-counter measures such as ice and ace bandages but has been reluctant to take NSAIDs due to her previous use. She maintains an active lifestyle, regularly running 5-6 miles per day, which has significantly decreased to half a mile due to the knee pain. She is anxious to return to her regular running routine.
+
+**Review of Systems (ROS):**
+- Musculoskeletal: Positive for bilateral knee pain and occasional crepitus. Negative for swelling or redness.
+- General: Active lifestyle, decreased running distance due to knee pain.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 98.6°F
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths per minute
+
+**Physical Exam:**
+- General: Well-appearing, in no acute distress.
+- Cardiovascular: Regular rate and rhythm, no murmurs.
+- Musculoskeletal: 
+  - Gait: Normal gait observed.
+  - Strength: 3/5 for abduction of legs bilaterally, 5/5 for the remainder of lower extremity muscle strength.
+  - Knee: 
+    - Inspection: No overlying erythema, ecchymosis, or warmth of the skin appreciated.
+    - Palpation: Tenderness to palpation of the bilateral retinacular retinaculum.
+    - Special Tests: Positive patellar grind test bilaterally. Pain elicited with squatting. Negative Lachman anterior and posterior drawer, McMurray tests bilaterally.
+- Neurological: Patella and achilles reflexes are symmetrical.
+
+**Investigation/Test Results:**
+- X-ray of both knees: No fractures or osteoarthritis noted.
+- MRI of both knees: Awaiting results.
+
+**3. Assessment:**
+
+- **Primary Diagnosis:** M25.662 - Pain in both knees (Bilateral)
+- **Secondary Diagnosis:** Patellofemoral Pain Syndrome
+
+The patient's symptoms and physical exam findings are consistent with patellofemoral pain syndrome. This condition is common in active young individuals and is often related to biomechanics and overuse.
+
+**4. Plan:**
+
+- **Medication:** Continue NSAIDs as needed for pain management. Sophia may take ibuprofen or anti-inflammatory as required.
+- **Physical Therapy:** Referral to physical therapy for lower extremity exercises. The goal is to increase lower extremity strength, mobility, and correct any incorrect running mechanics.
+- **Lifestyle Change:** Advise on proper running techniques and recommend avoiding running for now to allow for healing. Continue to monitor and reassess running progression during follow-up visits.
+- **Follow-Up:** Schedule a follow-up appointment in 4 weeks to evaluate progress and adjust the treatment plan as necessary.
+
+The patient was cooperative and eager to adhere to the treatment plan. All questions were answered, and the patient expressed understanding and agreement with the proposed management strategy. }}<|eot_id|>
+processing idx: 38
+len of response is: 11114
+len of summary is: 3414
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Moderate to severe low back pain with radiation down the left leg.
+
+**History of Present Illness (HPI):**
+Kyle Thompson, a 35-year-old African American male, presents for a routine check-up with a chief complaint of moderate to severe low back pain that radiates down the left leg. The pain started two weeks ago after lifting a box of books. He reports a sensation of a "pop" during the incident. The pain is described as aching and sharp and worsens with activity. The patient has a sedentary job and is an Olympic weightlifter with books. He has tried over-the-counter pain relief with ibuprofen and tylenol with some relief. The pain has been intermittent but has significantly limited his ability to exercise and perform daily tasks. He has not discussed surgical options previously.
+
+**Review of Systems (ROS):**
+- Musculoskeletal: Reports moderate to severe low back pain, radiating down the left leg.
+- Neurological: Denies numbness or tingling, no loss of sensation or weakness, denies bowel or bladder incontinence.
+
+**Social History:**
+- Occupation: Sedentary office job.
+- Exercise: Inconsistent, enjoys Olympic weightlifting.
+- Tobacco Use: None.
+- Alcohol Consumption: Social drinker.
+- Recreational Activities: Soccer, Manchester United fan.
+- Family History: Father with a history of back pain.
+- Education Level: Bachelor's degree.
+- Socio-economic Status: Upper-middle class.
+- Neighborhood: Urban, affluent, low pollution.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 130/70 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: Afebrile
+
+**Physical Exam:**
+- General: Alert, cooperative, in no acute distress.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+- Respiratory: Clear to auscultation bilaterally.
+- Musculoskeletal: No overlying redness or bruising on the skin. Midline tenderness at the L4-L5 disk space with right-sided lumbar paravertebral tenderness. Pain elicited with lumbar flexion and extension.
+- Neurological: Positive straight leg test (SLS) in the supine position. No radicular signs in the left leg. Reflexes: Patella and achilles reflexes are symmetrical.
+
+**Investigations:**
+- MRI Lumbar Spine: Shows disk desiccation, bulging of the disk with paracentral disk herniation resulting in moderate right neuroforaminal stenosis.
+
+**3. Assessment:**
+- Lumbar back pain at L4-L5 disk space due to herniated disk with radiculopathy.
+
+**4. Plan:**
+- **Medical Treatment:**
+  - Spinal injection with a combination of a strong NSAID (e.g., Ketorolac) and corticosteroid (e.g., Methylprednisolone) administered intrathecal route into the lumbar spine under fluoroscopy. This should be scheduled today.
+- **Patient Education and Counseling:**
+  - Discussed the nature of the diagnosis and the importance of the spinal injection for immediate relief.
+  - Explained the procedure, potential risks, and benefits.
+  - Emphasized the importance of adhering to the prescribed treatment and follow-up appointments.
+- **Follow-up:**
+  - Follow-up appointment in one week to assess the efficacy of the injection and to discuss further management.
+- **Referral:**
+  - Referral to Dr. Emily Johnson, a neurologist, for further evaluation of the radiculopathy.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan. }}<|eot_id|>
+processing idx: 39
+len of response is: 8082
+len of summary is: 2115
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Left knee pain.
+
+**History of Present Illness (HPI):**
+The patient, named Angela Johnson, is a 29-year-old African American female who presents with moderate to severe left knee pain. The pain began one week ago after she twisted her knee while running with her niece, who is learning to ride a bike without training wheels. She reports that the pain is constant and has been associated with swelling, difficulty bearing weight on the left leg, and a limp. The patient has a history of a previous ulcer but is otherwise healthy. She is currently taking Tylenol and has been advised not to use NSAIDs due to her ulcer history. She has been managing the pain with limited exercise, including running and yoga, and has difficulty walking and performing her work-related tasks as a data analyst.
+
+**Review of Systems (ROS):**
+- Musculoskeletal: Reports moderate to severe left knee pain, swelling, and difficulty bearing weight.
+- General: No fever, chills, or weight loss.
+- Cardiovascular: No chest pain, palpitations, or shortness of breath.
+- Gastrointestinal: No nausea, vomiting, or abdominal pain.
+- Neurological: No numbness or tingling.
+
+**2. Objective:**
+
+**Physical Exam:**
+- **Left Knee Exam:**
+  - Positive for edema and effusion.
+  - Moderate range of motion.
+  - Pain on flexion and extension.
+  - Negative Lachman's test.
+  - Negative valgus and varus test.
+
+**Investigation/Test Results:**
+- X-ray of the left knee: Normal, no fractures or bony abnormalities.
+
+**3. Assessment:**
+- Sprain of the medial collateral ligament of the left knee.
+
+**4. Plan:**
+- **Medication:**
+  - Tramadol 50 mg, oral, twice a day for pain, quantity: 20 tablets.
+  - Tylenol as needed for breakthrough pain.
+- **Immobilization:**
+  - Knee immobilizer to be worn for 1 week.
+- **Treatment:**
+  - Ice application 3-4 times a day for 20-30 minutes.
+- **Follow-up Recommendations:**
+  - Follow-up in 2 weeks for re-evaluation.
+- **Lifestyle Change:**
+  - Advise no running for 3 weeks.
+- **Imaging:**
+  - MRI of the left knee if symptoms do not improve in 2 weeks. }}<|eot_id|>
+Sat Aug 17 10:59:34 EDT 2024: Job 13135884 finished running, exit code: 0
