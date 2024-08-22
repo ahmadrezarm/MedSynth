@@ -34,22 +34,22 @@ class ModelEvaluatorAutoMetrics:
         else:
             self.results_df = pd.DataFrame()  # Initialize an empty DataFrame
 
-        #self.model= model
+        self.model= model
         self.test_dataset= pd.read_csv(test_dataset_path, sep= "|")
             
 
 
-
-        # Loading the fine-tuned model and the tokenizer for inference
+        
+        # # Loading the fine-tuned model and the tokenizer for inference
         if "gpt" not in model.lower():
-            self.model, self.tokenizer=  FastLanguageModel.from_pretrained(model_name = model,
-                                                                            max_seq_length = constants.tuning_config.get("model_config").get("max_seq_length"),
-                                                                            dtype = constants.tuning_config.get("model_config").get("dtype"),
-                                                                            load_in_4bit = constants.tuning_config.get("model_config").get("load_in_4bit"),)
+             self.model, self.tokenizer=  FastLanguageModel.from_pretrained(model_name = model,
+                                                                             max_seq_length = constants.tuning_config.get("model_config").get("max_seq_length"),
+                                                                             dtype = constants.tuning_config.get("model_config").get("dtype"),
+                                                                             load_in_4bit = constants.tuning_config.get("model_config").get("load_in_4bit"),)
 
-            # Using FastLanguageModel for fast inference
-            FastLanguageModel.for_inference(self.model)
-
+             # Using FastLanguageModel for fast inference
+             FastLanguageModel.for_inference(self.model)
+       
 
     
     def _initialize_openai_client(self):
@@ -166,7 +166,7 @@ class ModelEvaluatorAutoMetrics:
 
     def get_automatic_eval_scores(self, dial_summary_pairs, model_name):
         dial_summary_pairs_df = pd.DataFrame.from_dict(dial_summary_pairs, orient='index')
-        
+
         # Debugging: Print the DataFrame to inspect
         print("Dial Summary Pairs DataFrame:")
         print(dial_summary_pairs_df.head())
