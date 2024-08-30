@@ -1,11 +1,12 @@
 #!/bin/bash
-#SBATCH --job-name=Ahmad_10k_Only_tune
+#SBATCH --job-name=N2D_Ah_Aci
 #SBATCH --gres=gpu:a40:1
 #SBATCH --mail-user=ahmad.rm0067@gmail.com  # Email address for notifications
 #SBATCH --mail-type=ALL
-#SBATCH --qos=m
+#SBATCH --account=deadline
+#SBATCH --qos=deadline
 #SBATCH --time=16:00:00
-#SBATCH -c 30
+#SBATCH -c 20
 #SBATCH --mem=40G
 #SBATCH --output=slurm-%j.out
 #SBATCH --error=slurm-%j.err

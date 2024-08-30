@@ -1,0 +1,4 @@
+/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1132: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Unused kwargs: ['_load_in_4bit', '_load_in_8bit', 'quant_method']. These kwargs are not used in <class 'transformers.utils.quantization_config.BitsAndBytesConfig'>.
+slurmstepd: error: *** JOB 13448129 ON gpu048 CANCELLED AT 2024-08-30T07:31:59 ***
