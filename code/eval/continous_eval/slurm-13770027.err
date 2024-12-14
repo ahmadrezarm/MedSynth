@@ -1,0 +1,19 @@
+Unsloth: You passed in `unsloth/llama-3-8b-Instruct` and `load_in_4bit = True`.
+We shall load `unsloth/llama-3-8b-Instruct-bnb-4bit` for 4x faster loading.
+/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1132: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Unused kwargs: ['_load_in_4bit', '_load_in_8bit', 'quant_method']. These kwargs are not used in <class 'transformers.utils.quantization_config.BitsAndBytesConfig'>.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Unsloth 2024.4 patched 32 layers with 32 QKV layers, 32 O layers and 32 MLP layers.
+Downloading readme:   0%|          | 0.00/381 [00:00<?, ?B/s]Downloading readme: 100%|██████████| 381/381 [00:00<00:00, 2.52MB/s]
+Downloading data:   0%|          | 0.00/363k [00:00<?, ?B/s]Downloading data: 100%|██████████| 363k/363k [00:00<00:00, 886kB/s]Downloading data: 100%|██████████| 363k/363k [00:00<00:00, 885kB/s]
+Generating train split:   0%|          | 0/36 [00:00<?, ? examples/s]Generating train split: 100%|██████████| 36/36 [00:00<00:00, 749.58 examples/s]
+Map (num_proc=2):   0%|          | 0/36 [00:00<?, ? examples/s]Map (num_proc=2):  50%|█████     | 18/36 [00:00<00:00, 20.26 examples/s]Map (num_proc=2): 100%|██████████| 36/36 [00:01<00:00, 39.16 examples/s]Map (num_proc=2): 100%|██████████| 36/36 [00:01<00:00, 30.70 examples/s]
+Detected kernel version 5.4.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+==((====))==  Unsloth - 2x faster free finetuning | Num GPUs = 1
+   \\   /|    Num examples = 36 | Num Epochs = 4
+O^O/ \_/ \    Batch size per device = 2 | Gradient Accumulation steps = 4
+\        /    Total batch size = 8 | Total steps = 16
+ "-____-"     Number of trainable parameters = 41,943,040
+  0%|          | 0/16 [00:00<?, ?it/s]  6%|▋         | 1/16 [00:20<05:06, 20.41s/it]                                                6%|▋         | 1/16 [00:20<05:06, 20.41s/it] 12%|█▎        | 2/16 [00:34<03:49, 16.43s/it]                                               12%|█▎        | 2/16 [00:34<03:49, 16.43s/it] 19%|█▉        | 3/16 [00:47<03:16, 15.11s/it]                                               19%|█▉        | 3/16 [00:47<03:16, 15.11s/it] 25%|██▌       | 4/16 [01:00<02:50, 14.23s/it]                                               25%|██▌       | 4/16 [01:00<02:50, 14.23s/it] 31%|███▏      | 5/16 [01:15<02:39, 14.54s/it]                                               31%|███▏      | 5/16 [01:15<02:39, 14.54s/it] 38%|███▊      | 6/16 [01:29<02:23, 14.35s/it]                                               38%|███▊      | 6/16 [01:29<02:23, 14.35s/it] 44%|████▍     | 7/16 [01:44<02:09, 14.39s/it]                                               44%|████▍     | 7/16 [01:44<02:09, 14.39s/it] 50%|█████     | 8/16 [01:59<01:58, 14.83s/it]                                               50%|█████     | 8/16 [01:59<01:58, 14.83s/it] 56%|█████▋    | 9/16 [02:13<01:40, 14.37s/it]                                               56%|█████▋    | 9/16 [02:13<01:40, 14.37s/it] 62%|██████▎   | 10/16 [02:27<01:26, 14.35s/it]                                                62%|██████▎   | 10/16 [02:27<01:26, 14.35s/it]slurmstepd: error: *** JOB 13770027 ON gpu038 CANCELLED AT 2024-10-15T22:06:23 ***

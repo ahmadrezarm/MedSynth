@@ -25,12 +25,12 @@ class ModelEvaluatorAutoMetrics:
     def __init__(self, 
                  model, 
                  summarizer_system_promt= constants.summarizer_system_prompt, 
-                 test_dataset_path= constants.Aci_test_path, 
+                 test_dataset_path= constants.Aci_test_path, #"/h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/PriMock57/unified_data/train_test_split/test.csv", #
                  generation_config= constants.model_evaluator_generation_config):
         
         self.summarizer_system_promt= summarizer_system_promt
         #self.model= model
-        self.test_dataset= pd.read_csv(test_dataset_path)
+        self.test_dataset= pd.read_csv(test_dataset_path) #, sep= "|"
         self.generation_config = generation_config
 
         # Loading the fine-tuned model and the tokenizer for inference

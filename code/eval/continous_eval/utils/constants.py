@@ -51,6 +51,8 @@ Here is the conversation:
 """
 
 
+
+
 prometheus_preference_rubric= """
 1. Completeness:
     - Does the summary include all significant components of the SOAP format?
@@ -68,6 +70,7 @@ prometheus_preference_rubric= """
     - In the Assessment and Plan sections, are the conclusions and recommendations supported by appropriate medical guidelines or literature?
     - Does the summary demonstrate a thoughtful and knowledgeable approach to patient care?
 """
+
 
 
 prometheus_absolute_instruction = """
@@ -93,6 +96,42 @@ prometheus_absolute_rubric_data = {
 
 
 PROMETHEUS_RESULT_BASE_NAME = "prometheus_scores"
+
+
+
+prometheus_Note_2_Dial_preference_instruction = """
+Imagine you are a medical professional tasked with evaluating simulated doctor-patient conversations generated from summary notes. 
+These conversations should accurately reconstruct interactions based on the SOAP (Subjective, Objective, Assessment, Plan) format provided in the notes.
+
+Here is the medical note:
+#############################
+{note}
+#############################
+"""
+
+prometheus_Note_2_Dial_preference_rubric= """
+1. Completeness:
+    - Does the conversation cover all significant components of the SOAP format as outlined in the notes?
+2. Accuracy:
+    - How accurately does the conversation reflect the details of the notes as they were recorded?
+    - Are there any discrepancies between the notes and the generated dialogue?
+3. Naturalness and Flow:
+    - Is the conversation realistic and natural, following a logical and smooth progression?
+    - Does it sound like a genuine interaction between a doctor and patient?
+4. Use of Medical Terminology:
+    - Is medical terminology used correctly and effectively within the conversational context?
+    - Does the use of terminology enhance the accuracy and professionalism of the conversation?
+    - Does the technical terminology used by the doctor and the patient represent their respective knowledge levels (e.g., layperson language for the patient)?
+5. Evidence-Based Support:
+    - Are the doctor's statements and responses consistent with the medical details and recommendations in the notes?
+"""
+
+
+PROMETHEUS_Note_2_Dial_RESULT_BASE_NAME = "prometheus_scores_Note_2_Dial"
+
+
+
+
 
 
 

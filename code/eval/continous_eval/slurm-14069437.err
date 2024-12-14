@@ -1,0 +1,17 @@
+/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/unsloth/__init__.py:72: UserWarning: Unsloth: Running `ldconfig /usr/lib64-nvidia` to link CUDA.
+  warnings.warn(
+/sbin/ldconfig.real: Can't create temporary cache file /etc/ld.so.cache~: Permission denied
+/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/unsloth/__init__.py:103: UserWarning: Unsloth: CUDA is not linked properly.
+Try running `python -m bitsandbytes` then `python -m xformers.info`
+We tried running `ldconfig /usr/lib64-nvidia` ourselves, but it didn't work.
+You need to run in your terminal `sudo ldconfig /usr/lib64-nvidia` yourself, then import Unsloth.
+Also try `sudo ldconfig /usr/local/cuda-xx.x` - find the latest cuda version.
+Unsloth will still run for now, but maybe it might crash - let's hope it works!
+  warnings.warn(
+/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1132: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Unused kwargs: ['_load_in_4bit', '_load_in_8bit', 'quant_method']. These kwargs are not used in <class 'transformers.utils.quantization_config.BitsAndBytesConfig'>.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Unsloth 2024.4 patched 32 layers with 32 QKV layers, 32 O layers and 32 MLP layers.
+slurmstepd: error: *** JOB 14069437 ON gpu003 CANCELLED AT 2024-12-09T09:01:46 ***

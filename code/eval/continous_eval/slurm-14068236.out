@@ -1,0 +1,37 @@
+Sun Dec  8 15:58:01 EST 2024: Job 14068236 is allocated resource
+==((====))==  Unsloth: Fast Llama patching release 2024.4
+   \\   /|    GPU: NVIDIA A40. Max memory: 44.556 GB. Platform = Linux.
+O^O/ \_/ \    Pytorch: 2.3.0+cu121. CUDA = 8.6. CUDA Toolkit = 12.1.
+\        /    Bfloat16 = TRUE. Xformers = 0.0.26.post1. FA = True.
+ "-____-"     Free Apache license: http://github.com/unslothai/unsloth
+{'loss': 2.3353, 'grad_norm': 0.6183066964149475, 'learning_rate': 4e-05, 'epoch': 0.14}
+{'loss': 2.3746, 'grad_norm': 0.6240646839141846, 'learning_rate': 8e-05, 'epoch': 0.29}
+{'loss': 2.3287, 'grad_norm': 0.6066773533821106, 'learning_rate': 0.00012, 'epoch': 0.43}
+{'loss': 2.2555, 'grad_norm': 0.6707236170768738, 'learning_rate': 0.00016, 'epoch': 0.57}
+{'loss': 2.1954, 'grad_norm': 0.5364283323287964, 'learning_rate': 0.0002, 'epoch': 0.71}
+{'loss': 2.2148, 'grad_norm': 0.8960830569267273, 'learning_rate': 0.00019130434782608697, 'epoch': 0.86}
+{'loss': 2.1314, 'grad_norm': 0.9063076972961426, 'learning_rate': 0.00018260869565217392, 'epoch': 1.0}
+{'loss': 2.0566, 'grad_norm': 0.46712976694107056, 'learning_rate': 0.00017391304347826088, 'epoch': 1.14}
+{'loss': 2.0269, 'grad_norm': 0.19763211905956268, 'learning_rate': 0.00016521739130434784, 'epoch': 1.29}
+{'loss': 2.0589, 'grad_norm': 0.29696181416511536, 'learning_rate': 0.0001565217391304348, 'epoch': 1.43}
+{'loss': 2.066, 'grad_norm': 0.3560883402824402, 'learning_rate': 0.00014782608695652173, 'epoch': 1.57}
+{'loss': 1.9855, 'grad_norm': 0.33749276399612427, 'learning_rate': 0.0001391304347826087, 'epoch': 1.71}
+{'loss': 1.9495, 'grad_norm': 0.23050515353679657, 'learning_rate': 0.00013043478260869567, 'epoch': 1.86}
+{'loss': 2.003, 'grad_norm': 0.16583849489688873, 'learning_rate': 0.00012173913043478263, 'epoch': 2.0}
+{'loss': 1.9168, 'grad_norm': 0.20621322095394135, 'learning_rate': 0.00011304347826086956, 'epoch': 2.14}
+{'loss': 1.9532, 'grad_norm': 0.26862820982933044, 'learning_rate': 0.00010434782608695653, 'epoch': 2.29}
+{'loss': 1.8693, 'grad_norm': 0.2809423506259918, 'learning_rate': 9.565217391304348e-05, 'epoch': 2.43}
+{'loss': 1.8978, 'grad_norm': 0.28191038966178894, 'learning_rate': 8.695652173913044e-05, 'epoch': 2.57}
+{'loss': 1.954, 'grad_norm': 0.2673574984073639, 'learning_rate': 7.82608695652174e-05, 'epoch': 2.71}
+{'loss': 1.867, 'grad_norm': 0.186589777469635, 'learning_rate': 6.956521739130436e-05, 'epoch': 2.86}
+{'loss': 1.8789, 'grad_norm': 0.16858500242233276, 'learning_rate': 6.086956521739131e-05, 'epoch': 3.0}
+{'loss': 1.871, 'grad_norm': 0.15511125326156616, 'learning_rate': 5.217391304347826e-05, 'epoch': 3.14}
+{'loss': 1.9517, 'grad_norm': 0.13392946124076843, 'learning_rate': 4.347826086956522e-05, 'epoch': 3.29}
+{'loss': 1.839, 'grad_norm': 0.14489313960075378, 'learning_rate': 3.478260869565218e-05, 'epoch': 3.43}
+{'loss': 1.7547, 'grad_norm': 0.15563300251960754, 'learning_rate': 2.608695652173913e-05, 'epoch': 3.57}
+{'loss': 1.8677, 'grad_norm': 0.16675645112991333, 'learning_rate': 1.739130434782609e-05, 'epoch': 3.71}
+{'loss': 1.8435, 'grad_norm': 0.17593076825141907, 'learning_rate': 8.695652173913044e-06, 'epoch': 3.86}
+{'loss': 1.883, 'grad_norm': 0.1677604615688324, 'learning_rate': 0.0, 'epoch': 4.0}
+{'train_runtime': 409.7366, 'train_samples_per_second': 0.547, 'train_steps_per_second': 0.068, 'train_loss': 2.0117823651858737, 'epoch': 4.0}
+Saved model to https://huggingface.co/SynthDataGen_Dial2Note_llama-3-8b-Instruct_Primock_only_for_Aci_test
+Sun Dec 8 16:05:35 EST 2024: Job 14068236 finished running, exit code: 0

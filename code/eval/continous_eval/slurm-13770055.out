@@ -1,0 +1,1054 @@
+Tue Oct 15 22:18:08 EDT 2024: Job 13770055 is allocated resource
+==((====))==  Unsloth: Fast Llama patching release 2024.4
+   \\   /|    GPU: NVIDIA A40. Max memory: 44.556 GB. Platform = Linux.
+O^O/ \_/ \    Pytorch: 2.3.0+cu121. CUDA = 8.6. CUDA Toolkit = 12.1.
+\        /    Bfloat16 = TRUE. Xformers = 0.0.26.post1. FA = True.
+ "-____-"     Free Apache license: http://github.com/unslothai/unsloth
+processing idx: 0
+len of response is: 12253
+len of summary is: 3299
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+The patient, a 45-year-old male, presents for an initial telemedicine consultation with complaints of generalized aches, fatigue, and slight weight loss over the past 6 weeks.
+
+**History of Present Illness (HPI):**
+The patient reports experiencing generalized aches, fatigue, and slight weight loss daily for the past 6 weeks. He notes that these symptoms began around the time he returned from a recent holiday in the United States, where he was active and did not recall any infections. The symptoms have progressively worsened, impacting his ability to perform daily activities and work as a software developer. He also mentions a rash that appeared on his calf, which he did not notice until his wife pointed it out. The rash was present for about 2 weeks before it disappeared. The patient is concerned about the potential side effects of antibiotics and expresses a preference for conservative management.
+
+**Review of Systems (ROS):**
+- **General:** Fatigue, slight weight loss.
+- **Skin:** Rash on the calf, resolved.
+- **Respiratory:** No cough, shortness of breath, or phlegm.
+- **Gastrointestinal:** No nausea, vomiting, diarrhea, or abdominal pain.
+- **Musculoskeletal:** Generalized aches, especially in the shoulders, back, hips, and knees.
+- **Neurological:** No headaches, blurred vision, tingling, or numbness.
+- **Psychological:** No depression or anxiety reported, good mental health literacy.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Not available due to telemedicine consultation.
+
+**Physical Examination:**
+- Not conducted due to telemedicine consultation.
+
+**3. Assessment:**
+
+- **Primary Diagnosis:** Lyme disease (ICD-10: A69.20)
+  - **Medical Reasoning:** The patient's symptoms of generalized aches, fatigue, and slight weight loss, along with the presence of a rash that resembles erythema migrans, suggest Lyme disease. The patient's recent travel to an area endemic for Lyme disease further supports this diagnosis.
+  
+- **Secondary Diagnoses:**
+  - Asthma
+  - Hay fever
+  
+**4. Plan:**
+
+- **Medical Treatment:**
+  - **Lyme Disease:** 
+    - **Medical Treatment:** Doxycycline 100 mg orally, twice daily for 21 days, quantity 42 tablets.
+    - **Patient Education and Counseling:** Discussed the importance of completing the full course of antibiotics, potential side effects, and the importance of follow-up. Emphasized the need for regular monitoring for any worsening symptoms or new symptoms.
+
+- **Follow-up Recommendations:**
+  - **Blood Work:** Order a complete blood count (CBC) and liver function tests (LFTs) to monitor for any side effects of the antibiotic therapy.
+  - **Imaging:** Await results of the Lyme disease serology test.
+
+- **Referral:**
+  - **Reason for Referral:** Persistent symptoms despite initial treatment.
+  - **Specialty:** Infectious Disease.
+  - **Doctor's Name:** Dr. Emily Thompson.
+
+- **Patient Agreements:**
+  - The patient understands and agrees with the recommended medical treatment plan and follow-up instructions.
+
+**Instructions:**
+- The patient is advised to follow up in one week post-blood work to review test results and assess the efficacy of the treatment. Further management will be determined based on the results of the serology test and follow-up symptoms. }}<|eot_id|>
+processing idx: 1
+len of response is: 10331
+len of summary is: 2779
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Diarrhea for the past 3 days.
+
+**History of Present Illness (HPI):**
+Robert, a 48-year-old African American male, presents to the urgent care center with a 3-day history of moderate to severe diarrhea. He reports frequent watery stools, occurring 5-6 times per day, accompanied by mild dehydration and a weak state. The patient states that he has been unable to work as a software engineer for the past few days due to his symptoms. His diarrhea began after an episode of vomiting, but the vomiting has since resolved. He describes a reduced appetite and has been unable to maintain adequate fluid intake, leading to dehydration. The patient reports that his symptoms have significantly impacted his daily activities, causing frequent trips to the bathroom and an inability to perform his usual routine.
+
+**Review of Systems (ROS):**
+- Gastrointestinal: Reports frequent watery stools, mild dehydration, and reduced appetite. Denies any blood in stools.
+- General: Reports feeling weak and fatigued.
+- Respiratory: Suffers from asthma, managed with an inhaler as needed.
+- Neurological: No headaches or dizziness reported.
+- Musculoskeletal: No muscle pain or weakness.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: 98.6°F
+- Pulse: 88 bpm
+- Blood Pressure: 110/70 mmHg
+- Respiratory Rate: 18 breaths per minute
+- SpO2: 98% on room air
+
+**Physical Exam:**
+- General: Patient appears mildly dehydrated, alert, and cooperative.
+- Abdominal: Soft, non-tender, no rebound or guarding, bowel sounds present.
+- Cardiovascular: Normal S1 and S2, no murmurs.
+- Respiratory: Clear to auscultation bilaterally.
+- Neurological: No focal deficits noted.
+
+**Investigations:**
+- Stool sample sent for culture and sensitivity. Results pending.
+
+**3. Assessment:**
+
+**Diagnosis:**
+- Gastroenteritis, unspecified.
+
+**4. Plan:**
+
+**Treatment:**
+- Fluid rehydration with oral rehydration salts (Dioralyte).
+- Paracetamol 500 mg every 6 hours as needed for fever and pain.
+
+**Follow-up Recommendations:**
+- Advise the patient to take time off work for the next 1-2 days or until symptoms resolve.
+- Return for a follow-up visit in 1 week if symptoms persist.
+
+**Patient Education:**
+- Educate the patient on the importance of maintaining adequate fluid intake and monitoring symptoms.
+- Discuss the use of Dioralyte for rehydration and the proper dosage.
+- Advise the patient to avoid potential triggers such as certain foods or environments until symptoms resolve.
+- Encourage the patient to seek medical attention if symptoms worsen or if there is any sign of severe dehydration or complications.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended medical treatment plan and follow-up instructions. }}<|eot_id|>
+processing idx: 2
+len of response is: 9554
+len of summary is: 2417
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Severe dizziness, nausea, and unsteady gait.
+
+**History of Present Illness (HPI):**
+The patient, Mary Jane Grey, is a 45-year-old female who presents via telemedicine for an emergency consultation due to severe dizziness, nausea, and unsteady gait that began approximately 2 hours ago. The symptoms are continuous and have significantly impacted her ability to walk straight and perform daily tasks. She also reports a mild buzzing in her ears. The patient mentions a similar episode one month ago, which resolved quickly, but this episode has persisted for a longer duration. She denies any recent viral illness or other systemic symptoms.
+
+**Review of Systems (ROS):**
+- **General:** Reports feeling very sick but denies fever.
+- **Ears:** Mild buzzing but no pain or discharge.
+- **Neurological:** Severe dizziness and unsteady gait.
+- **Gastrointestinal:** Nausea present.
+- **Musculoskeletal:** No weakness in arms or legs.
+
+**2. Objective:**
+- **Visual:** Patient’s face not fully visible due to poor video quality.
+- **Vital Signs:** Not available (telemedicine consultation).
+- **Physical Examination:** Not conducted (telemedicine consultation).
+
+**3. Assessment:**
+- **Diagnosis:** Other labyrinthine diseases (ICD-10 H81.4).
+
+**4. Plan:**
+- **Treatment:**
+  - Prescribed Meclizine 25 mg, 1 tablet, 3 times a day orally for symptomatic relief of dizziness.
+- **Follow-up:**
+  - Patient to follow up with a specialist ENT doctor within the next few days for further examination.
+- **Referral:**
+  - Referral to Dr. John Smith, ENT specialist, for further evaluation and management of severe dizziness and unsteady gait.
+- **Investigations:**
+  - Blood pressure examination to be done during the follow-up appointment.
+  - Awaiting results of ear examination by the specialist to rule out any infection or other abnormalities.
+
+**Instructions:**
+- The patient was advised to take the prescribed medication as directed and to wait for the follow-up appointment with the ENT specialist.
+- If symptoms worsen or new symptoms arise, the patient was instructed to go to the nearest Accident and Emergency (A&E) department.
+- The patient was given a prescription for Meclizine and instructed to go to Lloyd pharmacy for collection.
+- The patient was also informed to call support services to book the follow-up appointment with the ENT specialist. }}<|eot_id|>
+processing idx: 3
+len of response is: 12992
+len of summary is: 2161
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Feeling sick in the lower abdomen.
+
+**History of Present Illness (HPI):**
+Lizzy Irvine, a 24-year-old female, presents via telemedicine for a routine check-up. She reports experiencing moderate nausea and a mild ache in the lower abdomen for the past 2 days. She also notes associated symptoms of feeling hot and sweaty. She describes her nausea as constant, with an aching sensation below the belly button. She mentions that her symptoms have made her feel unwell and uncomfortable, impacting her ability to concentrate at work. 
+
+**Review of Systems (ROS):**
+- General: Feeling unwell, moderate nausea, mild ache in the lower abdomen, feeling hot and sweaty.
+- Gastrointestinal: Mild ache in the lower abdomen, nausea, no vomiting, regular bowel motions over the past week.
+- Genitourinary: Increased frequency of urination, no dysuria, no dyspareunia.
+- Other systems: No other complaints reported.
+
+**2. Objective:**
+- Vital signs: Not available (telemedicine consultation).
+- Physical exam: Not performed (telemedicine consultation).
+- Investigations: Awaiting results of urine pregnancy test.
+
+**3. Assessment:**
+- Feeling sick in the lower abdomen.
+- Possible pregnancy.
+- History of constipation.
+- Allergy to Amoxicillin.
+
+**4. Plan:**
+- Refer to a GP for a physical examination and further investigation.
+- Schedule an appointment for a follow-up visit in 1 week.
+- Discuss the possibility of a urinary tract infection (UTI) and refer to a urologist if symptoms persist.
+- Order a urine pregnancy test to rule out pregnancy.
+- Discuss the importance of maintaining a balanced diet and increasing fluid intake.
+- Advise the patient to avoid Amoxicillin due to her allergy.
+- Provide information on managing nausea and suggest over-the-counter antacids if necessary.
+- Educate the patient on recognizing signs of worsening symptoms and when to seek urgent medical attention.
+
+**Instructions:**
+- The patient will follow up with a GP for further examination and investigation.
+- She is advised to return to the urgent care center if her symptoms worsen or if she experiences any new symptoms. }}<|eot_id|>
+processing idx: 4
+len of response is: 9848
+len of summary is: 2212
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+- Rash and itching over the body.
+
+**History of Present Illness (HPI):**
+- The patient is a 17-year-old Asian female presenting via telemedicine for a follow-up visit. She reports a worsening of her eczema over the past few days, characterized by severe itching and dryness over her entire body. She notes that the rash is most prominent on her chest, hands, and the inner sides of her elbows. The patient states that she has a history of eczema and has previously used hydrocortisone and dermal soap. Despite these measures, she reports that her condition has not improved and she is seeking alternative treatments.
+
+**Review of Systems (ROS):**
+- Skin: Severe itching, dryness, and rash over the entire body, particularly on the chest, hands, and inner sides of the elbows.
+- General: No fever, no joint pains.
+- Respiratory: No shortness of breath, no wheezing.
+- Neurological: No headaches, no dizziness.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Not available due to telemedicine consultation.
+
+**Physical Examination:**
+- Not performed due to telemedicine consultation.
+
+**3. Assessment:**
+- **Diagnosis:** Rash and itching over the body (ICD-10: R21)
+- **Differential Diagnosis:** Eczema exacerbation, possible contact dermatitis, atopic dermatitis.
+
+**4. Plan:**
+- **Medications:**
+  - Antihistamine: Fexofenadine 180 mg, oral, once daily for 2 weeks, quantity: 14 tablets.
+  - Topical Steroid: Betnovate (Betamethasone) 0.05% cream, apply a small amount to affected areas twice daily for 2 weeks, quantity: 15 grams.
+- **Follow-up Recommendations:**
+  - Follow-up in 2 weeks if no improvement or if there is an adverse reaction.
+- **Patient Education:**
+  - Advised to continue using emollients such as Dermal soap and diprobase during the interim.
+  - Educated about the importance of adherence to the prescribed treatment and the potential side effects of the medications.
+- **Referrals:**
+  - None at this time.
+
+**Instructions:**
+- The patient will receive the prescription via the electronic prescription service to Boots Pharmacy.
+- Advised to monitor the condition and call the clinic if symptoms worsen before the follow-up appointment. }}<|eot_id|>
+processing idx: 5
+len of response is: 10954
+len of summary is: 2641
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Lower abdominal pain and mild vaginal bleeding.
+
+**History of Present Illness (HPI):**
+The patient, a 23-year-old Asian female, presents with moderate to severe lower abdominal pain that started several days ago. She describes the pain as constant and worsening. The pain is associated with mild vaginal bleeding, slight vaginal discharge, and occasional nausea. The patient reports that her bowel movements have been irregular, with constipation for one week followed by normal bowel movements. She has been experiencing these symptoms continuously, which has affected her daily activities, including her regular work and other activities like cooking and social events. She is currently on sick leave from her job as a school teacher. 
+
+**Review of Systems (ROS):**
+- **Gastrointestinal:** Endorses lower abdominal pain, occasional nausea, irregular bowel movements with constipation followed by normal movements.
+- **Genitourinary:** Endorses mild vaginal bleeding and slight vaginal discharge.
+- **General:** Denies fever or chills.
+- **Cardiovascular:** Denies chest pain or palpitations.
+- **Respiratory:** Denies shortness of breath or cough.
+- **Musculoskeletal:** Denies joint pain or muscle weakness.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Not available (telemedicine consultation).
+
+**Physical Exam:**
+- Not applicable due to telemedicine setting.
+
+**3. Assessment:**
+- **Primary Diagnosis:** Lower abdominal pain with mild vaginal bleeding and slight vaginal discharge.
+- **Differential Diagnoses:**
+  - Ectopic pregnancy
+  - Pelvic inflammatory disease (PID)
+  - Urinary tract infection (UTI)
+  - Ovarian cyst rupture
+  - Early pregnancy complications
+
+**4. Plan:**
+- **Immediate Actions:**
+  - The patient is advised to call the support line to arrange for an emergency visit at the nearest clinic for a face-to-face examination.
+  - A pregnancy test is recommended to be done immediately if possible.
+- **Follow-up Recommendations:**
+  - The patient is advised to follow up with a gynecologist if the symptoms persist or worsen.
+- **Patient Education and Counseling:**
+  - The patient was counseled on the importance of seeking immediate medical attention if symptoms worsen, especially if there is severe abdominal pain, heavy bleeding, or if she experiences difficulty breathing.
+  - The patient was advised to monitor her symptoms closely and to seek help if there are any significant changes.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended plan. She is highly cooperative and motivated to follow the medical advice provided. }}<|eot_id|>
+processing idx: 6
+len of response is: 10041
+len of summary is: 2058
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Dry, itchy skin for the past few days.
+
+**History of Present Illness (HPI):**
+The patient, named Lou, is a 26-year-old Asian female presenting with a 3-day history of dry, itchy skin. She reports the symptoms have been moderate in severity and have been persistent throughout the day. The patient mentions that she has been stressed at work as a primary school teacher and has been using coconut butter for relief over the past few days. She denies any other associated symptoms such as fever, rashes, or any systemic symptoms.
+
+**Review of Systems (ROS):**
+- Skin: Reports dry, itchy skin on arms and hands.
+- General: No fever, no malaise.
+- Gastrointestinal: No vomiting, no diarrhea.
+- Genitourinary: No dysuria, no hematuria.
+
+**2. Objective:**
+- No physical examination performed due to telemedicine consultation.
+
+**3. Assessment:**
+- Other specified dermatitis, likely secondary to recent stress and possible exposure to irritants such as chlorine from swimming.
+
+**4. Plan:**
+- **Medical Treatment:**
+  - Prescribe topical corticosteroid cream (e.g., hydrocortisone 1%).
+  - Emollients (e.g., CeraVe, apply to affected areas as needed).
+- **Patient Education and Counseling:**
+  - Advised to continue using coconut butter.
+  - Recommended avoiding known irritants such as chlorine.
+  - Discussed the importance of moisturizing regularly.
+- **Follow-up:**
+  - Reassess symptoms in one week if no improvement.
+- **Referrals:**
+  - None required at this time.
+
+The patient was informed about the likely diagnosis and the plan for treatment. She was also given a patient information leaflet about dermatitis and advised to return if symptoms persist or worsen. The patient expressed understanding and agreed with the treatment plan. 
+
+Patient was also informed about over-the-counter antihistamines (e.g., Piriton, Loratadine) which she can use if itching becomes severe. She was advised not to take paracetamol on this occasion as it would not be beneficial for her current condition. }}<|eot_id|>
+processing idx: 7
+len of response is: 13199
+len of summary is: 3051
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Patient presents with a concern over a visible, non-painful swelling on the elbow.
+
+**History of Present Illness (HPI):**
+The patient, a 53-year-old Asian male, reports noticing a swelling on his elbow for the past week. He describes the swelling as non-painful and slightly warm. The patient is able to move the joint normally, but he is concerned about the appearance of the swelling. He has a history of osteoarthritis but denies any acute trauma to the area. The patient is a desk worker with minimal physical activity and is generally fit and mobile, engaging in occasional sports such as running 2-3 times a week. He is highly cooperative and follows medical advice diligently.
+
+**Review of Systems (ROS):**
+- **Musculoskeletal:** Reports swelling and slight warmth on the elbow. No pain or significant discomfort.
+- **Integumentary:** Noted dry skin on the tip of the elbow.
+- **Allergies:** Allergic to peanuts.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Not taken during this telemedicine consultation.
+
+**Physical Exam:**
+- **General:** Patient appears well-nourished, well-developed, and in no acute distress.
+- **Musculoskeletal:** Examination of the elbow reveals a non-tender, non-painful swelling with slight warmth and mild erythema. No signs of infection or acute inflammation. No significant restriction in movement.
+- **Integumentary:** Dry skin noted on the tip of the elbow.
+
+**3. Assessment:**
+
+**Diagnosis:**
+- Localized swelling, mass, and lump on the elbow, possibly bursitis.
+- Awaiting blood work results to rule out systemic causes.
+
+**Differential Diagnosis:**
+- Bursitis
+- Gout
+- Septic arthritis (less likely given the absence of systemic symptoms)
+- Dermatological condition
+
+**4. Plan:**
+
+**Medical Treatment:**
+- Prescribe anti-inflammatory medication: Ibuprofen 400 mg, oral, 2 times a day, as needed, for 7 days. Quantity: 14 tablets.
+- Arrange for blood tests to rule out systemic causes of joint swelling.
+
+**Follow-up Recommendations:**
+- Follow-up appointment in 1 week for re-evaluation of the elbow.
+- Referral to Dr. Emily Johnson, Rheumatologist, for further evaluation if the condition persists or worsens.
+
+**Patient Education and Counseling:**
+- Explained the potential diagnosis of bursitis and the importance of the prescribed medication.
+- Advised the patient on the importance of taking the medication with food to avoid gastrointestinal upset.
+- Discussed the need for blood tests to rule out other systemic causes of joint swelling.
+- Emphasized the importance of follow-up to monitor the condition and ensure appropriate management.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended medical treatment plan and follow-up schedule.
+
+**Instructions:**
+- The patient will receive blood test forms via mail and is advised to get the tests done at the nearest laboratory.
+- The patient will follow up in 1 week for re-evaluation.
+- The patient will contact the clinic if symptoms worsen or if new symptoms develop. }}<|eot_id|>
+processing idx: 8
+len of response is: 18290
+len of summary is: 2428
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Patient presents with moderate symptoms of illness, including cough, runny nose, sore throat, and mild shortness of breath. 
+
+**History of Present Illness (HPI):**
+The patient, a 50-year-old male, reports a 4-day history of moderate symptoms including a persistent cough, runny nose, sore throat, and mild shortness of breath. The symptoms have been constant and have significantly impacted his daily activities, including causing him to miss work and disturb his wife. He describes his symptoms as "not great" and mentions that he has a history of diabetes and hypertension. The patient is a non-native English speaker, primarily speaking Scots, and has a low health literacy level. He has been advised to seek medical help but often forgets to follow through.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports feeling generally unwell, fatigued.
+- **Respiratory:** Persistent cough, mild shortness of breath.
+- **ENT:** Runny nose, sore throat.
+- **Gastrointestinal:** No nausea or vomiting, experienced a brief episode of diarrhea on the first day of illness.
+- **Musculoskeletal:** No significant findings.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Not available (telemedicine consultation).
+
+**Physical Exam:**
+- Not performed (telemedicine consultation).
+
+**Investigations:**
+- Not available (telemedicine consultation).
+
+**3. Assessment:**
+
+**Diagnosis:**
+- Other Specified Symptoms and Signs Involving the Circulatory and Respiratory Systems (ICD-10 R09.89).
+
+**4. Plan:**
+
+**Treatment:**
+- **Rest:** Patient advised to rest and stay hydrated.
+- **Medication:** 
+  - Paracetamol 500 mg, oral, every 6 hours as needed for fever, quantity: 24 tablets.
+  - Antibiotics (Amoxicillin 500 mg, oral, 1 tablet, three times a day, quantity: 10 tablets) to be taken if symptoms persist or worsen in 24-48 hours.
+
+**Follow-up Recommendations:**
+- Re-evaluate in 1 week if symptoms persist or worsen.
+
+**Referrals:**
+- None at this time.
+
+**Lifestyle Change:**
+- Advised to quit smoking and reduce alcohol intake.
+
+**Patient Education and Counseling:**
+- Discussed the importance of rest, hydration, and medication adherence. Emphasized the need to quit smoking and reduce alcohol consumption. Provided simple, clear instructions due to the patient's low health literacy. Encouraged the patient to follow up if symptoms worsen or do not improve within a few days. }}<|eot_id|>
+processing idx: 9
+len of response is: 11279
+len of summary is: 2996
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Moderate throbbing headache.
+
+**History of Present Illness (HPI):**
+The patient, named Emily Johnson, is a 32-year-old Caucasian female presenting with a moderate throbbing headache that has persisted for 1 day. The headache is associated with sensitivity to light and mild photophobia. The patient reports that the pain has been continuous since its onset and has significantly impacted her daily activities, leaving her unable to leave the house. She denies any nausea or vomiting. The headache is described as throbbing and localized to the left side of the head. She has not had any similar headaches in the past and does not have a known history of migraines.
+
+**Review of Systems (ROS):**
+- **General:** No fever or chills.
+- **Eyes:** Sensitivity to light, mild photophobia.
+- **Head:** Throbbing headache, moderate in severity.
+- **Neurological:** No weakness, tingling, or numbness.
+- **Gastrointestinal:** No nausea or vomiting.
+- **Respiratory:** No cough or shortness of breath.
+- **Cardiovascular:** No chest pain or palpitations.
+- **Musculoskeletal:** No joint pain or muscle aches.
+- **Skin:** No rashes or changes in skin texture.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: Not taken during this visit.
+- Temperature: Not taken during this visit.
+- Heart Rate: Not taken during this visit.
+- Respiratory Rate: Not taken during this visit.
+
+**Physical Examination:**
+- **General Appearance:** Alert, cooperative, and in no acute distress.
+- **Head:** No visible signs of trauma or abnormalities.
+- **Eyes:** Pupils equal, round, and reactive to light.
+- **Neck:** Supple, no lymphadenopathy.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Abdomen:** Soft, non-tender, no organomegaly.
+- **Neurological:** Alert and oriented, no focal deficits.
+
+**3. Assessment:**
+
+- **Primary Diagnosis:** Headache, unspecified.
+- **Differential Diagnosis:** Migraine, tension headache, tension-type headache.
+
+**4. Plan:**
+
+- **Medication:** 
+  - Ibuprofen 400 mg, oral, every 6 hours as needed for pain, 30 tablets.
+  - Paracetamol 500 mg, oral, every 6 hours as needed for pain, 20 tablets.
+- **Follow-up Recommendations:** 
+  - Recheck in 3 days if symptoms persist.
+- **Lifestyle Change:**
+  - Increase hydration.
+- **Referral to Specialists:**
+  - Referral to Dr. Sarah Thompson, Neurologist, for further evaluation if headaches persist or worsen.
+- **Patient Education and Counseling:**
+  - Discussed the importance of adequate hydration and avoiding known triggers for headaches.
+  - Advised to monitor headache severity and any associated symptoms.
+  - Educated on the potential side effects of prescribed medications and the importance of adherence to the medication regimen.
+
+The patient understands and agrees with the recommended medical treatment plan. She was advised to follow up immediately if symptoms worsen or if new symptoms arise. }}<|eot_id|>
+processing idx: 10
+len of response is: 12118
+len of summary is: 2304
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Moderate burning sensation while urinating for the past 3 days.
+
+**History of Present Illness (HPI):**
+Jessica Smith is a 19-year-old female who presents with a 3-day history of a moderate burning sensation while urinating. She reports occasional crampy lower abdominal pain and a slight darkening of urine. The symptoms occur daily and have caused her to hesitate to go to classes and participate in social activities. Jessica is a college student and lives in an urban area with moderate pollution. She has a history of IBS but is otherwise fit and well. She denies any fever, chills, or significant weight loss. She has been a regular smoker and drinks socially on weekends. She denies any drug use.
+
+**Review of Systems (ROS):**
+- **General:** No fever, chills, or weight loss.
+- **Gastrointestinal:** Occasional crampy lower abdominal pain, denies nausea or vomiting.
+- **Genitourinary:** Moderate burning sensation while urinating, slight darkening of urine.
+- **Other systems:** Denies back pain, denies any other significant symptoms.
+
+**2. Objective:**
+- **General:** Alert and oriented, no acute distress.
+- **Abdominal Exam:** Mild tenderness in the suprapubic area, no rebound tenderness or guarding.
+- **Vital Signs:** Not taken during this visit.
+- **Investigations:** Urine dipstick test positive for leukocytes and nitrites.
+- **Awaiting:** Urine culture and sensitivity test results.
+
+**3. Assessment:**
+- Unspecified symptoms and signs involving the genitourinary system (R39.9).
+- Likely UTI, given the burning sensation, crampy lower abdominal pain, and positive urine dipstick for leukocytes and nitrites.
+
+**4. Plan:**
+- **Medication:** Prescribed Nitrofurantoin 100 mg, 1 tablet, twice a day, for 3 days, oral route.
+- **Follow-up:** Advised to return if symptoms persist or worsen.
+- **Lifestyle Recommendations:** Advised to drink plenty of fluids, try cranberry juice, and avoid irritants.
+- **Referral:** None at this time.
+- **Further Tests:** Awaiting urine culture and sensitivity test results.
+- **Patient Education:** Discussed the importance of completing the antibiotic course and monitoring symptoms. Advised to seek immediate care if experiencing fever, severe abdominal pain, or other concerning symptoms. }}<|eot_id|>
+processing idx: 11
+len of response is: 14081
+len of summary is: 2452
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Cough and mild cold symptoms.
+
+**History of Present Illness (HPI):**
+April is a 50-year-old African American female who presents with a persistent cough, mild cold symptoms, and mild diarrhea. The symptoms started 5 days ago and have been continuous. She reports feeling lethargic and weak, which has impacted her ability to work and perform daily tasks. She is a developer by profession and lives in a suburban area with low pollution levels. She is highly cooperative and keen to follow medical advice.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports feeling lethargic and weak.
+- **Respiratory:** Persistent cough, no hemoptysis.
+- **Gastrointestinal:** Mild diarrhea.
+- **Musculoskeletal:** Generalized weakness.
+- **Neurological:** No headaches, no dizziness.
+- **Integumentary:** No rashes or skin changes.
+
+**2. Objective:**
+
+**Physical Exam:**
+- **General Appearance:** Appears tired and lethargic.
+- **Vital Signs:** Not measured during this visit.
+- **Respiratory:** Lungs clear to auscultation, no wheezing or crackles.
+- **Cardiovascular:** Normal heart sounds, no murmurs.
+- **Abdomen:** Soft, non-tender, normal bowel sounds.
+- **Musculoskeletal:** No significant findings.
+- **Neurological:** Alert and oriented, no focal deficits.
+
+**3. Assessment:**
+
+**Primary Diagnosis:**
+- Other Specified Viral Infections, Unspecified Organism.
+
+**Differential Diagnosis:**
+- Upper respiratory tract infection (e.g., common cold)
+- Early influenza
+- Asthma exacerbation (less likely given the absence of wheezing)
+
+**4. Plan:**
+
+**Medical Treatment:**
+- Encourage rest, hydration, and symptomatic management with paracetamol.
+- Advise to monitor symptoms and return if no improvement in 2-3 days.
+- Consider antibiotics if fever and persistent cough suggest a bacterial component.
+
+**Follow-up Recommendations:**
+- Return for follow-up in 2-3 days if symptoms persist or worsen.
+- Consider referral to Dr. Emily Johnson, pulmonologist, if respiratory symptoms persist.
+
+**Lifestyle Change:**
+- Advise to reduce alcohol consumption to manage blood pressure and diabetes.
+
+**Patient Education:**
+- Discussed the importance of rest and hydration.
+- Explained the typical course of viral infections and the potential need for antibiotics if symptoms do not improve.
+
+**Patient Agreements:**
+- The patient understands and agrees with the recommended medical treatment plan. }}<|eot_id|>
+processing idx: 12
+len of response is: 13104
+len of summary is: 3294
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Diarrhea and high fever.
+
+**History of Present Illness (HPI):**
+Barbara Johnson is a 24-year-old African American female presenting via telemedicine for a follow-up consultation due to moderate to severe diarrhea, high fever, nausea, and vomiting for the past 3 days. She reports vomiting everything she consumes and has been unable to keep down oral rehydration salts (ORS) or her usual diet. The symptoms have been continuous with multiple episodes daily, significantly impacting her daily activities, including her ability to work from home. She lives with her brother and mother in a suburban neighborhood with good access to healthcare services. Barbara has a normal diet but has been unable to eat due to nausea and vomiting. She is a non-smoker, social drinker (1 pint occasionally), and does not use drugs. She is currently working as a graphics designer and has had to work from home due to her symptoms.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports high fever, unable to perform daily activities.
+- **Gastrointestinal:** Reports moderate to severe diarrhea, nausea, vomiting, abdominal pain.
+- **Genitourinary:** No dysuria, no hematuria.
+- **Other Systems:** No other symptoms reported.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Temperature: Not measured, reported as "high fever"
+- Heart Rate: Not measured, reported as "fast"
+- Respiratory Rate: Not measured, reported as "normal"
+- Blood Pressure: Not measured, reported as "normal"
+- SpO2: Not measured, reported as "normal"
+
+**Physical Exam:**
+- **General:** Appears unwell, visibly distressed.
+- **Abdominal:** Abdominal tenderness in the periumbilical region, no rebound tenderness.
+- **Genitourinary:** No external abnormalities noted.
+
+**Investigations:**
+- **Stool sample:** Awaiting results for microbiology and viral culture.
+
+**3. Assessment:**
+- **Diagnosis:** Other gastroenteritis and colitis.
+- Differential diagnosis includes viral gastroenteritis and possible bacterial infection.
+
+**4. Plan:**
+- **Medical Treatment:** 
+  - Rehydration with oral rehydration salts (ORS) as tolerated.
+- **Additional Testing:**
+  - Stool sample sent for microbiology and viral culture.
+- **Follow-up Recommendations:**
+  - Follow-up in 2 days at the local clinic to assess hydration status and review stool sample results.
+- **Referral:**
+  - Urgent referral to Dr. Emily Carter, Gastroenterologist, for stool sample analysis and further evaluation if symptoms persist or worsen.
+- **Patient Education:**
+  - Advised to continue with rehydration therapy and monitor symptoms closely.
+  - Discussed the importance of hydration and maintaining small, frequent sips of ORS.
+  - Instructed to avoid solid foods initially and opt for bland, easily digestible options like toast or crackers.
+  - Advised to return to the clinic or go to the emergency department if symptoms worsen or if there are signs of severe dehydration (e.g., extreme thirst, dry mouth, dark urine).
+
+**Instructions:**
+- Barbara is advised to follow up with the local clinic in 2 days for a re-evaluation of her symptoms and to review the results of the stool sample. If symptoms persist or worsen, she is to be referred to Dr. Emily Carter, Gastroenterologist, for further evaluation. }}<|eot_id|>
+processing idx: 13
+len of response is: 11253
+len of summary is: 2785
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+The patient, a 35-year-old male, presents with severe headaches, hot flashes, reduced appetite, and occasional tingling in the extremities. 
+
+**History of Present Illness (HPI):**
+The patient reports experiencing these symptoms intermittently, particularly during work hours, which have significantly impacted his ability to concentrate and perform his job duties as a lawyer in London. The symptoms have been ongoing for a few months since he changed jobs. He describes the severity of the headaches as severe, and they are associated with occasional nausea and a feeling of shortness of breath. 
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports feeling hot, reduced appetite, unintentional weight loss of 5 lbs.
+- **Neurological:** Occasional tingling in the extremities, severe headaches.
+- **Cardiovascular:** Feeling of shortness of breath.
+- **Psychiatric:** Reports stress levels at a 7/10, significant stress at work.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: Not measured during this consultation.
+- Heart Rate: Not measured during this consultation.
+- Respiratory Rate: Not measured during this consultation.
+- Temperature: Not measured during this consultation.
+
+**Physical Examination:**
+- **General:** Patient appears anxious but cooperative.
+- **Cardiovascular:** Not examined in detail during this consultation.
+- **Respiratory:** Not examined in detail during this consultation.
+- **Neurological:** Not examined in detail during this consultation.
+- **Endocrine:** Not examined in detail during this consultation.
+
+**3. Assessment:**
+
+- **Primary Diagnosis:** Disorder of the brain, unspecified (ICD-10: R29.9).
+- **Secondary Diagnosis:** Hyperthyroidism (pre-existing condition).
+
+**4. Plan:**
+
+- **Follow-up Recommendations:** 
+  - The patient is advised to follow up in the clinic for a comprehensive evaluation by an endocrinologist.
+- **Referral:**
+  - Referral to Dr. Emily Carter, an endocrinologist, for evaluation of hyperthyroidism and its impact on current symptoms.
+- **Blood Work:**
+  - Order thyroid function tests (TSH, Free T4) to monitor hyperthyroidism.
+- **Lifestyle Change:**
+  - Advise reducing alcohol consumption from 2 glasses of wine per week to once a month.
+- **Medication Adjustment:**
+  - No medications prescribed at this time; will be reconsidered after specialist evaluation.
+- **Imaging:**
+  - MRI of the brain to rule out any structural abnormalities.
+
+The patient was counseled about the potential causes of his symptoms and the importance of follow-up and specialist consultation. He was reassured and given a detailed explanation of the next steps in his management plan. The patient expressed understanding and agreed to the proposed plan. }}<|eot_id|>
+processing idx: 14
+len of response is: 13550
+len of summary is: 2774
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+- Cough and sore throat.
+
+**History of Present Illness (HPI):**
+- The patient, Mr. Vincent Johnson, is a 29-year-old African American male presenting with a 7-day history of cough and sore throat. The symptoms have caused him to stay away from work for 3-4 days. He reports mild shortness of breath, wheezing, and chest pain. The patient has been concerned about potential serious conditions such as tuberculosis and lung cancer, as per his Google search results.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Slight feverishness initially, now resolved.
+- **Respiratory:** Dry cough, mild shortness of breath, wheezing, and chest pain.
+- **ENT:** Sore throat.
+- **General:** No history of medical conditions, past medical history negative.
+
+**Social History:**
+- No significant alcohol, tobacco, or drug use. Enjoys reading and playing video games. 
+
+**Family History:**
+- Mother had lung cancer.
+
+**Medication History:**
+- None currently taken.
+
+**Allergies:**
+- Allergic to peanuts.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Not measured during the telemedicine consultation.
+
+**Physical Exam:**
+- NA due to telemedicine setting; unable to perform a physical exam.
+
+**Investigations:**
+- NA
+
+**3. Assessment:**
+
+**Diagnosis:**
+- Common cold.
+
+**Differential Diagnosis:**
+- Tuberculosis (low suspicion given lack of significant travel history, no contact with TB patients, and no family history).
+- Asthma (considering wheezing and shortness of breath, but no known history).
+- Lung cancer (low suspicion given family history but no significant symptoms suggestive of malignancy).
+
+**4. Plan:**
+
+**Treatment:**
+- Symptomatic treatment with paracetamol 500 mg, 2 tablets every 6 hours as needed for fever and pain.
+- Advised to drink lots of fluids and rest.
+
+**Follow-up:**
+- Reassurance given to the patient about the likely benign nature of his symptoms. Advised to follow up if symptoms persist or worsen.
+
+**Lifestyle Advice:**
+- Continue with regular exercise but monitor for any worsening of symptoms.
+- Maintain a balanced diet but address recent loss of appetite.
+
+**Referral:**
+- Referred to Dr. Emily Carter, Pulmonologist, if symptoms persist or worsen. Reason for referral: Persistent cough and shortness of breath.
+
+**Patient Education:**
+- Discussed the importance of rest and hydration. Educated about the common cold and what to expect in terms of symptom course. Reassured about the low likelihood of serious conditions such as tuberculosis and lung cancer based on current presentation and history.
+
+**Instructions:**
+- Advised to return for follow-up if symptoms do not improve within the next 5 days or if there is a significant worsening of symptoms. Provided with a sick note for work. }}<|eot_id|>
+processing idx: 15
+len of response is: 14899
+len of summary is: 3187
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Patient presents with a range of unusual symptoms including transient weakness, numbness in the right hand, and abnormal gait for 3-4 days.
+
+**History of Present Illness (HPI):**
+The patient, John Smith, is a 32-year-old Asian male, a medical doctor working as a plastic surgeon, who has been experiencing intermittent episodes of transient weakness and numbness in the right hand over the past month. These episodes are associated with occasional nausea and have been increasing in frequency. The patient has no history of similar episodes and reports that these symptoms have impacted his ability to perform his job duties. He is highly cooperative and proactive about his health, often researching medical conditions online.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports general fatigue.
+- **Neurological:** Reports transient weakness and numbness in the right hand, occasional nausea, and abnormal gait.
+- **Gastrointestinal:** Denies any current symptoms of dysphagia or other gastrointestinal issues.
+- **Musculoskeletal:** Reports difficulty holding a cup of coffee recently, mild tremor in the right hand during episodes.
+- **General:** No known drug allergies except for penicillin.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Not taken during this telemedicine consultation.
+
+**Physical Examination:**
+- Not performed due to the nature of the telemedicine consultation.
+
+**Investigation/Test Results:**
+- Awaiting results of a lipid panel, HbA1c, and thyroid function tests.
+
+**3. Assessment:**
+The patient presents with symptoms suggestive of a transient ischemic attack (TIA) or mini-stroke. Given the family history of stroke and the patient's symptoms, further evaluation is warranted. Differential diagnoses include other causes of transient weakness and numbness such as multiple sclerosis or peripheral neuropathy, but the clinical presentation is concerning for cerebrovascular disease.
+
+**4. Plan:**
+- **Referral to Specialists:** Referral to a stroke/TIA clinic for further evaluation. Reason: Suspected mini-stroke. Specialist: Neurologist. Doctor: Dr. Emily Carter.
+- **Follow-up Recommendations:** Patient to follow up with the stroke/TIA clinic within 1-2 days.
+- **Patient Education and Counseling:** Advised the patient to monitor for any recurrence of symptoms and to seek immediate medical attention if they occur.
+- **Lifestyle Change:** Emphasized the importance of smoking cessation and dietary changes, particularly reducing high-fat and high-sugar foods.
+- **Medication Adjustment:** No changes to current medications at this time.
+
+**Patient Agreements:**
+The patient understands and agrees with the recommended plan and has been provided with all necessary information and referrals. He is aware of the importance of follow-up and adherence to the referral for further evaluation.
+
+**Instructions:**
+- The patient will receive a call from the stroke/TIA clinic for an appointment.
+- If symptoms recur or persist, he should attend A&E immediately.
+- Patient to ring PALS (Patient Advice and Liaison Service) if there are any concerns or delays in receiving the referral appointment. }}<|eot_id|>
+processing idx: 16
+len of response is: 14962
+len of summary is: 3373
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Shortness of breath.
+
+**History of Present Illness (HPI):**
+Oscar Johnson is a 60-year-old African American male who presents via telemedicine for an initial consultation due to worsening shortness of breath over the past 2 weeks, with a notable exacerbation in the past 2 days. The patient reports mild to moderate shortness of breath, which has progressively worsened, now requiring minimal exertion such as walking to the shops, necessitating frequent rest periods. He also experiences occasional dry cough and mild swelling in the ankles. The patient is concerned about his worsening symptoms and their potential impact on his daily activities and work.
+
+**Review of Systems (ROS):**
+- **Constitutional:** Reports feeling generally run-down but no fever or weight loss.
+- **Respiratory:** Shortness of breath, occasional dry cough.
+- **Cardiovascular:** Mild ankle swelling, no chest pain or palpitations.
+- **Gastrointestinal:** No nausea, vomiting, or abdominal pain.
+- **Genitourinary:** No dysuria or hematuria.
+- **Musculoskeletal:** Mild swelling in ankles, no joint pain.
+- **Neurological:** No dizziness, headaches, or syncope.
+- **Psychiatric:** Reports feeling anxious about his health condition.
+
+**Past Medical History (PMH):**
+- Heart failure, diagnosed 5 years ago.
+- Myocardial infarction, history of.
+- Hypertension, history of.
+
+**Family History:**
+- Father had a myocardial infarction at age 60.
+- Mother had osteoporosis.
+
+**Social History:**
+- Retired, lives on a fixed income.
+- Works part-time as a lorry driver.
+- Former smoker, quit 10 years ago.
+- Does not consume alcohol.
+- Enjoys watching TV and reading books.
+- Limited exercise, walks to the shops daily.
+- Lives in a small city with moderate pollution.
+- Semi-impoverished neighborhood, limited access to healthy food options.
+
+**Current Medications:**
+- Diuretics (Furosemide 40 mg once daily).
+- Aspirin 75 mg once daily.
+- Metoprolol 50 mg once daily.
+
+**Allergies:**
+- None.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: Not taken during this telemedicine session.
+- Heart Rate: Not taken during this telemedicine session.
+- Respiratory Rate: Not taken during this telemedicine session.
+- Temperature: Not taken during this telemedicine session.
+- Oxygen Saturation: Not taken during this telemedicine session.
+
+**Physical Examination:**
+- **General:** Appears slightly anxious, cooperative, and well-nourished.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, gallops, or rubs.
+- **Respiratory:** Clear breath sounds, no wheezes or rales.
+- **Abdomen:** Soft, non-tender, no hepatosplenomegaly.
+- **Extremities:** Mild ankle swelling, no cyanosis or clubbing.
+
+**3. Assessment:**
+- Heart failure exacerbation.
+- Hypertension.
+- History of myocardial infarction.
+
+**4. Plan:**
+- **Medication Adjustment:** Increase Furosemide to 80 mg once daily for 3 days.
+- **Follow-up:** Schedule follow-up appointment in 1 week.
+- **Referral to Tests:** 
+  - Blood work: CBC, BMP, LFTs.
+  - Echocardiogram to assess cardiac function.
+- **Imaging:** Echocardiogram to evaluate cardiac function.
+
+The patient understands and agrees with the recommended medical treatment plan. He is advised to monitor his symptoms and report any worsening of shortness of breath, chest pain, or other concerning symptoms immediately. }}<|eot_id|>
+processing idx: 17
+len of response is: 8764
+len of summary is: 1842
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+- Shortness of breath.
+
+**History of Present Illness (HPI):**
+- The patient, Sarah Smith, is a 38-year-old female who is currently experiencing shortness of breath. This began approximately one hour ago, while she was sitting and watching TV. She reports a mild cough that started yesterday. The patient is also experiencing palpitations, which she describes as feeling her heart racing. She is currently stressed due to these symptoms and is unable to perform daily tasks.
+
+**Review of Systems (ROS):**
+- Cardiovascular: Palpitations.
+- Respiratory: Mild cough, shortness of breath.
+- General: Feeling of general malaise.
+- Obstetric: Recent C-section, experiencing tenderness at the C-section scar site.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Heart Rate: Awaiting measurement via phone (assumed tachycardic based on patient's description).
+
+**Physical Examination:**
+- Not performed (Telemedicine consultation).
+
+**3. Assessment:**
+- The patient is a 38-year-old female with a recent C-section, presenting with mild cough, shortness of breath, and palpitations. Given her symptoms and recent history, she is at risk for complications such as deep vein thrombosis (DVT) or pulmonary embolism (PE).
+
+**4. Plan:**
+- The patient is advised to visit the hospital immediately for further evaluation.
+- Referral to Dr. John Anderson, a cardiologist, for further evaluation of palpitations and shortness of breath.
+- Educate the patient on recognizing symptoms of DVT and PE, and the importance of seeking immediate medical attention if symptoms worsen.
+- Discussed the potential risks associated with her current medications, especially Codeine, given her allergy to Ibuprofen.
+
+**Follow-up:**
+- The patient will follow up with her primary care physician after seeing the cardiologist. }}<|eot_id|>
+processing idx: 18
+len of response is: 9432
+len of summary is: 2765
+summary is: {{ #####
+**1. Subjective:**
+
+**Chief Complaint (CC):**
+Patient presents with sudden onset of complete loss of motor function in the left arm and mild dysarthria.
+
+**History of Present Illness (HPI):**
+The patient is a 68-year-old male who woke up this morning with an acute onset of complete loss of motor function in his left arm, lasting for approximately one hour. He also reports mild dysarthria and a slight facial droop on the left side. The symptoms have been constant since onset, significantly impacting his ability to perform daily activities.
+
+**Review of Systems (ROS):**
+- Neurological: Reports complete loss of motor function in the left arm, mild dysarthria, slight facial droop on the left side.
+- General: No fever or recent illness.
+- Cardiovascular: No chest pain or palpitations.
+- Respiratory: No shortness of breath or cough.
+- Gastrointestinal: No nausea or vomiting.
+- Musculoskeletal: No other muscle weakness or pain.
+- Endocrine: Known type 2 diabetes mellitus, well-managed on current medications.
+
+**2. Objective:**
+- **Vital Signs:** Not available due to the nature of the telemedicine consultation.
+- **Physical Exam:** Not performed as this is a telemedicine encounter.
+- **Investigation/Test Results:** Not available due to the emergency nature of the call and the telemedicine setting.
+
+**3. Assessment:**
+- **Diagnosis:** Cerebral infarction, unspecified (ICD-10: I63.9)
+  - The patient's symptoms of sudden onset left arm paralysis, mild dysarthria, and facial droop are highly suggestive of a cerebrovascular event, likely a stroke.
+
+**4. Plan:**
+- **Immediate Action:** Emergency medical services (EMS) have been called, and the patient is being transported to the nearest hospital for further evaluation and management.
+- **Follow-up Recommendations:** The patient will be evaluated by a stroke specialist upon arrival at the hospital. No immediate follow-up is required at this time as the patient is being transported for urgent care.
+- **Medication Adjustment:** None required at this stage.
+- **Lifestyle Change:** Not applicable in the emergency context.
+
+The patient was informed of the seriousness of his condition and the necessity of immediate hospitalization. He was reassured and kept calm during the call. The patient is cooperative and has good health literacy, which will aid in his understanding and compliance with the treatment plan once he reaches the hospital.
+
+**Instructions:**
+- Ensure the front door is left unlocked and the patient sits in the hallway for easy access for the ambulance.
+- The patient will be monitored continuously by emergency medical services during transport.
+- The patient will be assessed and managed by a stroke specialist upon arrival at the nearest hospital.
+##### }}<|eot_id|>
+processing idx: 19
+len of response is: 13393
+len of summary is: 2893
+summary is: {{ **1. Subjective:**
+
+**Chief Complaint (CC):**
+Moderate to severe headache.
+
+**History of Present Illness (HPI):**
+Adriana Katherine, a 26-year-old Caucasian female, presents with a moderate to severe headache that has persisted for the past 3 days. The headache is described as dull with intermittent sharp pains and has gradually worsened over the last 24 hours. It is associated with sensitivity to light and occasional shooting pains. The patient reports difficulty focusing at work and has taken time off from her job as an IT professional. She has a history of tension headaches, which were previously relieved by Ibuprofen. She denies any recent head trauma.
+
+**Review of Systems (ROS):**
+- **General:** Reports feeling unwell due to the headache.
+- **Eyes:** Sensitivity to light.
+- **Neurological:** Occasional shooting pains, no weakness or loss of consciousness.
+- **Gastrointestinal:** No nausea or vomiting.
+- **Musculoskeletal:** No neck pain or stiffness.
+- **Psychiatric:** Reports stress related to a new project at work, but otherwise denies anxiety or depression.
+
+**2. Objective:**
+- **Vital Signs:** Not taken during this consultation.
+- **General Appearance:** Appears anxious and in mild distress due to headache.
+- **HEENT:** No visible abnormalities, no conjunctival injection.
+- **Neurological:** No focal neurological deficits observed.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs.
+- **Respiratory:** Clear to auscultation bilaterally.
+- **Gastrointestinal:** Soft, non-tender, no organomegaly.
+
+**3. Assessment:**
+- **Diagnosis:** Headache, unspecified (ICD-10: R51.9)
+- **Differential Diagnosis:**
+  - Migraine
+  - Tension headache
+  - Sinus headache
+  - Cervicogenic headache
+
+**4. Plan:**
+- **Medical Treatment:**
+  - Prescribe Ibuprofen 400 mg, oral, every 6 hours as needed for pain, quantity: 20 tablets.
+  - Discuss potential benefits of stronger analgesia if symptoms persist.
+  - Recommend Naproxen 500 mg, oral, twice daily as an anti-inflammatory, quantity: 14 tablets.
+  - Consider adding a painkiller like Paracetamol or Codeine if needed.
+- **Follow-up Recommendations:**
+  - Follow-up in 1-2 weeks if headaches persist or worsen.
+  - Consider prophylactic medications if frequent episodes occur.
+- **Lifestyle and Preventive Measures:**
+  - Advise maintaining a headache diary to track triggers and patterns.
+  - Encourage stress management techniques and regular sleep hygiene.
+- **Referrals:**
+  - No referrals needed at this time.
+- **Patient Education:**
+  - Educated patient on potential side effects of prescribed medications.
+  - Discussed the importance of adhering to prescribed medication and follow-up appointments.
+
+**Instructions:**
+- Patient to follow up in 1-2 weeks if headaches persist or worsen.
+- Advised to call sooner if experiencing any new or worsening symptoms, such as visual changes or weakness. }}<|eot_id|>
+Tue Oct 15 22:32:08 EDT 2024: Job 13770055 finished running, exit code: 0

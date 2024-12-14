@@ -106,7 +106,7 @@ class LlamaInstructDataset(InstructDataset):
         """
         prompts = []
         for index, row in self.dataset.iterrows():
-            prompt = f"""[s][INST] {row['instruction']} This is the conversation: {row['dialogue']} [/INST] \\n {row['note_SOAP']}[/s]"""
+            prompt = f"""[s][INST] {row['instruction']} This is the conversation: {row['dialogues']} [/INST] \\n {row['notes']}[/s]"""
             prompts.append(prompt)
         self.dataset["prompt"] = prompts
 

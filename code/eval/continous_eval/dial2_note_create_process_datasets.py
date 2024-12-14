@@ -24,14 +24,17 @@ RENAME_COLUMNS ={} #{"Polished Note":"note", "polished_dial": "dialogue", "Note"
 INSTRUCTION = constants.summarizer_system_prompt
 
 # edit this whenevr you wanna make a new dataset
-Notechat_sample_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/NoteChatSamples/Dial2Note/note_chat_sample_10035_2024-08-08_13-56.csv"
+#Notechat_sample_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/NoteChatSamples/Dial2Note/note_chat_sample_10035_2024-08-08_13-56.csv"
 
-#Ahmad_data_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/AhmadData_Sample/Dial2Note_AhmadData_10035_2024-08-08_14-17.csv"
+Ahmad_data_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/AhmadData_Sample/Dial2Note_AhmadData_56_2024-12-08_16-11.csv"
+#Primock_data_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/PriMock57/unified_data/primock57.csv"
 current_date= datetime.now().strftime("%Y-%m-%d_%H-%M")
 
-repo_name= f"SynthDataGen_llama3_Dial2Note_NoteChat_10k_Sample_Only_instruct_dataset{current_date}" #
+#Primock_train_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/PriMock57/unified_data/train_test_split/train.csv"
 
-DATASETS_PATHS = [ Notechat_sample_path] #, ,Ahmad_whole_data_path  constants.Aci_train_path 
+repo_name= f"SynthDataGen_llama3_Dial2Note_Ahmad_56_and_Aci_instruct_{current_date}" #
+
+DATASETS_PATHS = [ Ahmad_data_path,  constants.Aci_train_path] #, ,Ahmad_whole_data_path  
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 

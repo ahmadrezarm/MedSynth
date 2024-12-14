@@ -1,0 +1,69 @@
+Mon Dec  9 08:22:18 EST 2024: Job 14069427 is allocated resource
+==((====))==  Unsloth: Fast Llama patching release 2024.4
+   \\   /|    GPU: NVIDIA A40. Max memory: 44.556 GB. Platform = Linux.
+O^O/ \_/ \    Pytorch: 2.3.0+cu121. CUDA = 8.6. CUDA Toolkit = 12.1.
+\        /    Bfloat16 = TRUE. Xformers = 0.0.26.post1. FA = True.
+ "-____-"     Free Apache license: http://github.com/unslothai/unsloth
+{'loss': 1.5396, 'grad_norm': 0.4423254728317261, 'learning_rate': 4e-05, 'epoch': 0.06}
+{'loss': 1.8375, 'grad_norm': 0.5141934156417847, 'learning_rate': 8e-05, 'epoch': 0.13}
+{'loss': 1.6568, 'grad_norm': 0.4760266840457916, 'learning_rate': 0.00012, 'epoch': 0.19}
+{'loss': 1.7128, 'grad_norm': 0.5292068719863892, 'learning_rate': 0.00016, 'epoch': 0.26}
+{'loss': 1.3831, 'grad_norm': 0.3872562348842621, 'learning_rate': 0.0002, 'epoch': 0.32}
+{'loss': 1.7803, 'grad_norm': 0.32248133420944214, 'learning_rate': 0.00019636363636363636, 'epoch': 0.39}
+{'loss': 1.4668, 'grad_norm': 0.8145498633384705, 'learning_rate': 0.00019272727272727274, 'epoch': 0.45}
+{'loss': 1.6293, 'grad_norm': 0.5980893969535828, 'learning_rate': 0.0001890909090909091, 'epoch': 0.52}
+{'loss': 1.3883, 'grad_norm': 0.35726240277290344, 'learning_rate': 0.00018545454545454545, 'epoch': 0.58}
+{'loss': 1.3242, 'grad_norm': 0.19572454690933228, 'learning_rate': 0.00018181818181818183, 'epoch': 0.65}
+{'loss': 1.6897, 'grad_norm': 0.3052254915237427, 'learning_rate': 0.0001781818181818182, 'epoch': 0.71}
+{'loss': 1.2802, 'grad_norm': 0.23917333781719208, 'learning_rate': 0.00017454545454545454, 'epoch': 0.77}
+{'loss': 1.5301, 'grad_norm': 0.3714681565761566, 'learning_rate': 0.0001709090909090909, 'epoch': 0.84}
+{'loss': 1.1281, 'grad_norm': 0.23622164130210876, 'learning_rate': 0.00016727272727272728, 'epoch': 0.9}
+{'loss': 1.4281, 'grad_norm': 0.26015329360961914, 'learning_rate': 0.00016363636363636366, 'epoch': 0.97}
+{'loss': 1.2331, 'grad_norm': 0.17588165402412415, 'learning_rate': 0.00016, 'epoch': 1.03}
+{'loss': 1.5506, 'grad_norm': 0.256084144115448, 'learning_rate': 0.00015636363636363637, 'epoch': 1.1}
+{'loss': 1.2875, 'grad_norm': 0.32639795541763306, 'learning_rate': 0.00015272727272727275, 'epoch': 1.16}
+{'loss': 1.2703, 'grad_norm': 0.3427184224128723, 'learning_rate': 0.0001490909090909091, 'epoch': 1.23}
+{'loss': 1.3668, 'grad_norm': 0.2899133265018463, 'learning_rate': 0.00014545454545454546, 'epoch': 1.29}
+{'loss': 1.3394, 'grad_norm': 0.21072804927825928, 'learning_rate': 0.00014181818181818184, 'epoch': 1.35}
+{'loss': 1.402, 'grad_norm': 0.17816925048828125, 'learning_rate': 0.0001381818181818182, 'epoch': 1.42}
+{'loss': 1.0494, 'grad_norm': 0.1988435536623001, 'learning_rate': 0.00013454545454545455, 'epoch': 1.48}
+{'loss': 1.117, 'grad_norm': 0.2152889519929886, 'learning_rate': 0.00013090909090909093, 'epoch': 1.55}
+{'loss': 1.0658, 'grad_norm': 0.23268695175647736, 'learning_rate': 0.00012727272727272728, 'epoch': 1.61}
+{'loss': 1.4479, 'grad_norm': 0.2411399930715561, 'learning_rate': 0.00012363636363636364, 'epoch': 1.68}
+{'loss': 1.0362, 'grad_norm': 0.21825365722179413, 'learning_rate': 0.00012, 'epoch': 1.74}
+{'loss': 0.7415, 'grad_norm': 0.21275658905506134, 'learning_rate': 0.00011636363636363636, 'epoch': 1.81}
+{'loss': 1.4046, 'grad_norm': 0.18921145796775818, 'learning_rate': 0.00011272727272727272, 'epoch': 1.87}
+{'loss': 1.3143, 'grad_norm': 0.17936398088932037, 'learning_rate': 0.00010909090909090909, 'epoch': 1.94}
+{'loss': 1.3155, 'grad_norm': 0.22653859853744507, 'learning_rate': 0.00010545454545454545, 'epoch': 2.0}
+{'loss': 1.5702, 'grad_norm': 0.20554602146148682, 'learning_rate': 0.00010181818181818181, 'epoch': 2.06}
+{'loss': 1.0591, 'grad_norm': 0.1898544728755951, 'learning_rate': 9.818181818181818e-05, 'epoch': 2.13}
+{'loss': 1.1054, 'grad_norm': 0.2019219547510147, 'learning_rate': 9.454545454545455e-05, 'epoch': 2.19}
+{'loss': 1.2459, 'grad_norm': 0.22081725299358368, 'learning_rate': 9.090909090909092e-05, 'epoch': 2.26}
+{'loss': 0.7864, 'grad_norm': 0.1989789754152298, 'learning_rate': 8.727272727272727e-05, 'epoch': 2.32}
+{'loss': 1.0366, 'grad_norm': 0.21168147027492523, 'learning_rate': 8.363636363636364e-05, 'epoch': 2.39}
+{'loss': 1.0461, 'grad_norm': 0.18942447006702423, 'learning_rate': 8e-05, 'epoch': 2.45}
+{'loss': 1.1316, 'grad_norm': 0.20195621252059937, 'learning_rate': 7.636363636363637e-05, 'epoch': 2.52}
+{'loss': 1.0714, 'grad_norm': 0.21219289302825928, 'learning_rate': 7.272727272727273e-05, 'epoch': 2.58}
+{'loss': 1.0448, 'grad_norm': 0.22541074454784393, 'learning_rate': 6.90909090909091e-05, 'epoch': 2.65}
+{'loss': 1.2773, 'grad_norm': 0.21419093012809753, 'learning_rate': 6.545454545454546e-05, 'epoch': 2.71}
+{'loss': 1.3528, 'grad_norm': 0.21560795605182648, 'learning_rate': 6.181818181818182e-05, 'epoch': 2.77}
+{'loss': 1.0742, 'grad_norm': 0.19940705597400665, 'learning_rate': 5.818181818181818e-05, 'epoch': 2.84}
+{'loss': 1.3223, 'grad_norm': 0.19613060355186462, 'learning_rate': 5.4545454545454546e-05, 'epoch': 2.9}
+{'loss': 1.1794, 'grad_norm': 0.2197335809469223, 'learning_rate': 5.090909090909091e-05, 'epoch': 2.97}
+{'loss': 1.2451, 'grad_norm': 0.25508007407188416, 'learning_rate': 4.7272727272727275e-05, 'epoch': 3.03}
+{'loss': 0.8766, 'grad_norm': 0.1990032196044922, 'learning_rate': 4.3636363636363636e-05, 'epoch': 3.1}
+{'loss': 1.1641, 'grad_norm': 0.2141997069120407, 'learning_rate': 4e-05, 'epoch': 3.16}
+{'loss': 1.2996, 'grad_norm': 0.226612851023674, 'learning_rate': 3.6363636363636364e-05, 'epoch': 3.23}
+{'loss': 0.9593, 'grad_norm': 0.2403666079044342, 'learning_rate': 3.272727272727273e-05, 'epoch': 3.29}
+{'loss': 0.9135, 'grad_norm': 0.22515064477920532, 'learning_rate': 2.909090909090909e-05, 'epoch': 3.35}
+{'loss': 0.9095, 'grad_norm': 0.2208537757396698, 'learning_rate': 2.5454545454545454e-05, 'epoch': 3.42}
+{'loss': 1.3234, 'grad_norm': 0.21905580163002014, 'learning_rate': 2.1818181818181818e-05, 'epoch': 3.48}
+{'loss': 0.8603, 'grad_norm': 0.21265538036823273, 'learning_rate': 1.8181818181818182e-05, 'epoch': 3.55}
+{'loss': 1.3254, 'grad_norm': 0.23007255792617798, 'learning_rate': 1.4545454545454545e-05, 'epoch': 3.61}
+{'loss': 0.9048, 'grad_norm': 0.22329890727996826, 'learning_rate': 1.0909090909090909e-05, 'epoch': 3.68}
+{'loss': 1.0998, 'grad_norm': 0.2132379710674286, 'learning_rate': 7.272727272727272e-06, 'epoch': 3.74}
+{'loss': 1.4158, 'grad_norm': 0.23442791402339935, 'learning_rate': 3.636363636363636e-06, 'epoch': 3.81}
+{'loss': 1.3587, 'grad_norm': 0.21091759204864502, 'learning_rate': 0.0, 'epoch': 3.87}
+{'train_runtime': 691.8275, 'train_samples_per_second': 0.711, 'train_steps_per_second': 0.087, 'train_loss': 1.2612725088993708, 'epoch': 3.87}
+Saved model to https://huggingface.co/SynthDataGen_Note2Dial_llama-3-8b-Instruct_Ahmad_56_and_Aci
+Mon Dec 9 08:34:44 EST 2024: Job 14069427 finished running, exit code: 0

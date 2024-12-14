@@ -1,0 +1,5 @@
+Tue Oct 15 17:09:15 EDT 2024: Job 13769443 is allocated resource
+INFO 10-15 17:09:25 llm_engine.py:100] Initializing an LLM engine (v0.4.2) with config: model='prometheus-eval/prometheus-bgb-8x7b-v2.0', speculative_config=None, tokenizer='prometheus-eval/prometheus-bgb-8x7b-v2.0', skip_tokenizer_init=False, tokenizer_mode=auto, revision=None, tokenizer_revision=None, trust_remote_code=False, dtype=torch.bfloat16, max_seq_len=32768, download_dir=None, load_format=LoadFormat.AUTO, tensor_parallel_size=1, disable_custom_all_reduce=False, quantization=None, enforce_eager=False, kv_cache_dtype=auto, quantization_param_path=None, device_config=cuda, decoding_config=DecodingConfig(guided_decoding_backend='outlines'), seed=0, served_model_name=prometheus-eval/prometheus-bgb-8x7b-v2.0)
+INFO 10-15 17:09:26 utils.py:660] Found nccl from library /h/ahmad/.config/vllm/nccl/cu12/libnccl.so.2.18.1
+INFO 10-15 17:09:28 selector.py:27] Using FlashAttention-2 backend.
+Tue Oct 15 17:09:30 EDT 2024: Job 13769443 finished running, exit code: 0

@@ -1,0 +1,12 @@
+/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1132: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/get_promethus_relative_score.py", line 26, in <module>
+[rank0]:     main()
+[rank0]:   File "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/get_promethus_relative_score.py", line 18, in main
+[rank0]:     Note_2_Dial_get_and_save_prometheus_preference_scores(model_A_name= "Ahmad_and_Aci",
+[rank0]:   File "/fs01/home/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/utils/prometheus.py", line 212, in Note_2_Dial_get_and_save_prometheus_preference_scores
+[rank0]:     prometheus_preference_scores = Note2Dial_get_preference_score(note_list= model_A_dial_summary_pairs_df.iloc[:, 0], #model_A_dial_summary_pairs_df["note"],
+[rank0]:   File "/fs01/home/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/utils/prometheus.py", line 184, in Note2Dial_get_preference_score
+[rank0]:     instruction_with_note = constants.prometheus_Note_2_Dial_preference_instruction .format(conversation=note_list[idx])
+[rank0]: KeyError: 'note'
