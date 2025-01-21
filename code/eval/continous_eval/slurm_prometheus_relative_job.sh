@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=GPT_N2D_AhAC_PriAC
+#SBATCH --job-name=GPT_N2D_Ah57_Pri57_Aci
 ##BNC_lama_gpt
 #SBATCH --gres=gpu:a40:1
 #SBATCH --mail-user=ahmad.rm0067@gmail.com  # Email address for notifications
@@ -20,7 +20,8 @@ source /pkgs/anaconda3/bin/activate /h/ahmad/.conda/envs/SynthDataGenEnv || cond
 # put your command here #########   GPT
 python /h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/get_promethus_relative_score_GPT.py
 #/h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/get_promethus_relative_score.py
-#
+
+
 
 
 

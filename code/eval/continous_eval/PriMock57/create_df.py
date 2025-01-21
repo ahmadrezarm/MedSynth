@@ -4,8 +4,8 @@ import pandas as pd
 from pathlib import Path
 
 # Define the paths to the notes and dialogues folders
-notes_folder = Path('/h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/PriMock57/notes')        # e.g., Path('/home/user/notes_folder')
-dialogues_folder = Path('/h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/PriMock57/transcipts_processed')  # e.g., Path('/home/user/dialogues_folder')
+notes_folder = Path('/h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/PriMock57/notes_correct')        # e.g., Path('/home/user/notes_folder')
+dialogues_folder = Path('/h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/PriMock57/transcripts_processed')  # e.g., Path('/home/user/dialogues_folder')
 
 # Initialize lists to store the extracted notes and dialogues
 notes_list = []

@@ -21,14 +21,14 @@ RENAME_COLUMNS = {} #{"Polished Note":"note", "polished_dial": "dialogue", "Note
 INSTRUCTION = constants.dial_augmentor_system_prompt
 
 # edit this whenevr you wanna make a new dataset
-Ahmad56_data_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/AhmadData_Sample/Dial2Note_AhmadData_56_2024-12-08_16-11.csv"
-#Primock_data_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/PriMock57/unified_data/primock57.csv"
+#Ahmad57_data_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/AhmadData_Sample/Dial2Note_AhmadData_57_2024-12-14_11-19.csv"
+Primock_data_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/PriMock57/unified_data/primock57.csv"
 
 current_date= datetime.now().strftime("%Y-%m-%d_%H-%M")
 
-repo_name= f"SynthDataGen_llama3_Note2Dial_ACI_Ahmad56_Only_instruct_dataset{current_date}" #
+repo_name= f"SynthDataGen_llama3_Note2Dial_ACI_PriMock57_Only_instruct_dataset{current_date}" #
 
-DATASETS_PATHS = [ Ahmad56_data_path] #,  , Ahmad_whole_data_path, constants.Aci_train_path,
+DATASETS_PATHS = [ Primock_data_path, ] #,  , Ahmad_whole_data_path, constants.Aci_train_path,
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 

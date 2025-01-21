@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=N2D_Ah_Only
+#SBATCH --job-name=Multiple
 #SBATCH --gres=gpu:a40:1
 #SBATCH --mail-user=ahmad.rm0067@gmail.com  # Email address for notifications
 #SBATCH --mail-type=ALL

@@ -16,11 +16,11 @@ if __name__ == '__main__':
 """ 
 
 
-N2D_eval_models_dict= {"N2D_ACI_Ahmad56_and_Aci": "Ahmad0067/SynthDataGen_Note2Dial_llama-3-8b-Instruct_Ahmad_56_and_Aci",
-                   "N2D_ACI_Ahmad56_Only": "Ahmad0067/SynthDataGen_Note2Dial_llama-3-8b-Instruct_Ahmad_56_Only",
-                   "N2D_ACI_Primock_and_Aci": "Ahmad0067/SynthDataGen_Note2Dial_llama-3-8b-Instruct_ACI_Primock_and_Aci",
-                   }
-#                   "N2D_ACI_Primock_Only": "Ahmad0067/SynthDataGen_Note2Dial_llama-3-8b-Instruct_ACI_Primock_Only"
+N2D_eval_models_dict= {"N2D_ACI_Ahmad57_and_Aci": "Ahmad0067/SynthDataGen_N2D_ACI_Ahmad57_and_Aci",
+                        "N2D_ACI_Ahmad57_Only": "Ahmad0067/SynthDataGen_N2D_ACI_Ahmad57_Only",
+                        "N2D_ACI_Primock57_and_Aci": "Ahmad0067/SynthDataGen_N2D_ACI_Primock57_and_Aci",
+                        "N2D_ACI_Primock57_Only": "Ahmad0067/SynthDataGen_N2D_ACI_Primock57_Only"
+                        }
 
 # change this whenever you have a new model.
 def main():
