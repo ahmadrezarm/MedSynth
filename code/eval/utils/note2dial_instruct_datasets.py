@@ -1,0 +1,104 @@
+#source: https://mlops.community/budget-instruction-fine-tuning-of-llama-3-8b-instructon-medical-data-with-hugging-face-google-colab-and-unsloth/
+# source github (more update): https://github.com/Shekswess/LLM-Medical-Finetuning/blob/main/src/data_processing/create_process_datasets.py
+from abc import ABC, abstractmethod
+
+import pandas as pd
+
+from utils import constants
+
+
+class InstructDataset(ABC):
+    """
+    Abstract class for creating Instruct Datasets
+    """
+
+    def __init__(self, dataset_path: str):
+        """
+        Initialize the dataset
+        :param dataset_path: The path to the dataset
+        """
+        self.dataset = None
+        self.load_dataset(dataset_path)
+
+    def load_dataset(self, dataset_path: str) -> None:
+        """
+        Load the dataset from the given path
+        :param dataset_path: The path to the dataset
+        :return: None
+        """
+        if dataset_path == constants.Aci_train_path:
+                self.dataset = pd.read_csv(dataset_path)
+                
+        elif "NoteChat" in dataset_path:
+            self.dataset = pd.read_csv(dataset_path)
+
+        else:
+            self.dataset = pd.read_csv(dataset_path, sep="|")
+
+    def rename_columns(self, columns: dict[str, str]) -> None:
+        """
+        Rename the columns of the dataset
+        :param columns: A dictionary of the form {old_name: new_name}
+        :return: None
+        """
+        self.dataset = self.dataset.rename(columns=columns)
+
+    def drop_columns(self, columns: list[str]) -> None:
+        """
+        Drop the columns from the dataset
+        :param columns: A list of column names to drop
+        :return: None
+        """
+        drop_columns = [col for col in columns if col in self.dataset.columns]
+        self.dataset = self.dataset.drop(columns=drop_columns)
+
+    def drop_bad_rows(self, columns: list[str]) -> None:
+        """
+        Drop the rows which have bad values in the columns
+        :param columns: A list of columns to check for bad values
+        :return: None
+        """
+        self.dataset = self.dataset.dropna(subset=columns)
+        self.dataset = self.dataset.drop_duplicates(subset=columns)
+
+    def create_instruction(self, instruction: str) -> None:
+        """
+        Create an instruction column in the dataset
+        :param instruction: The instruction to add to the dataset
+        :return: None
+        """
+        self.dataset["instruction"] = instruction
+
+    @abstractmethod
+    def create_prompt(self) -> None:
+        """
+        Create the prompt column in the dataset
+        :return: None
+        """
+        pass
+
+    def get_dataset(self) -> pd.DataFrame:
+        """
+        Get the dataset
+        :return: The dataset
+        """
+        return self.dataset
+
+
+
+class Llama3InstructDataset(InstructDataset):
+    # source for my edit: https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct/discussions/14
+    
+    def create_prompt(self):
+        """
+        Create the prompt column in the dataset which will be used for
+        """
+        prompts = []
+        for index, row in self.dataset.iterrows():
+            prompt = f"""<|begin_of_text|><|start_header_id|>system<|end_header_id|> \n\n {{{{ {row['instruction']} }}}}<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n  {{{{ This is the note: {row['note']} }}}}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n {{{{ {row['dialogue']} }}}}<|eot_id|>"""
+            prompts.append(prompt)
+            if index==0:
+                print(prompt)
+        self.dataset["prompt"] = prompts
+
+
