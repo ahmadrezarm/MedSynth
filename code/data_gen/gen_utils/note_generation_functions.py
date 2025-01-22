@@ -7,6 +7,21 @@ import random
 from . import gen_constants
 
 
+############## For ablations begin #################
+from huggingface_hub import HfFolder
+import pandas as pd
+from datetime import datetime
+
+from unsloth import FastLanguageModel
+
+HF_WRITE_TOKEN = os.getenv('MY_HF_WRITE_TOKEN')
+HF_READ_TOKEN = os.getenv('MY_HF_READ_TOKEN')
+
+HfFolder.save_token(HF_WRITE_TOKEN)
+
+############## For ablations end #################
+
+
 # make the openai key an env variable and load it here
 def initialize_openai_client():
     """
@@ -19,7 +34,7 @@ def initialize_openai_client():
     openai.Client: An instance of the OpenAI client.
     """
     try:
-        client = openai.Client(api_key= "sk-proj-6jNq4RERBKwdpFStA2mFT3BlbkFJdCWfVwfvNqkiwaR48VAm") #gen_constants.TCAIREM_OPENAI_API_KEY
+        client = openai.Client(api_key= gen_constants.OPENAI_API_KEY)
         print("OpenAI client initialized successfully!")
         return client
     except Exception as e:
@@ -61,6 +76,9 @@ def doctor_generate_scenario(condition, scenario_provider_memory, openai_client)
         return scenario_response.choices[0].message.content
 
 
+
+################### For ablation of No Judge begin #################
+""" 
 def judge_evaluate_scenario(scenario, judge_conversations_memory, openai_client):
     # Add system prompt and user scenario to memory
         judge_conversations_memory += [
@@ -77,6 +95,8 @@ def judge_evaluate_scenario(scenario, judge_conversations_memory, openai_client)
                 )
         # Accessing the last message's content correctly
         latest_message = evaluation_response.choices[0].message.content
+
+        print(latest_message)
         #print("Latest message in judge is: ", latest_message)
         decision = latest_message.split()[-1]  # Extract the last word
 
@@ -87,6 +107,81 @@ def judge_evaluate_scenario(scenario, judge_conversations_memory, openai_client)
         #print(judge_conversations_memory)
         print("len of judge_conversation_momory is: ",len(judge_conversations_memory))
         return decision, latest_message
+
+"""
+
+def judge_evaluate_scenario_no_judge(scenario, judge_conversations_memory, openai_client):
+     decision = "Go"
+     latest_message = "Go"
+     return decision, latest_message
+
+
+
+
+""" 
+def abbreviate_note(note, openai_client):
+        note_response = openai_client.chat.completions.create(
+                model=gen_constants.note_abbreviator_config["model"],
+                temperature = gen_constants.note_abbreviator_config["temperature"],
+                max_tokens = gen_constants.note_abbreviator_config["max_tokens"],
+                top_p = gen_constants.note_abbreviator_config["top_p"],
+                frequency_penalty = gen_constants.note_abbreviator_config["frequency_penalty"],
+                presence_penalty = gen_constants.note_abbreviator_config["presence_penalty"],
+                messages=[
+                    {
+                        "role": "system",
+                        "content": gen_constants.NOTE_ABBREVIATOR_SYSTEM_PROMPT 
+                    },
+                    {
+                        "role": "user",
+                        "content": note
+                    }
+                ]
+                )
+        return note_response.choices[0].message.content
+    """
+
+def abbreviate_note_no_judge(note, openai_client):
+     return "ablation"
+
+################# For ablation No Judge end #####################
+
+
+
+
+################ For ablation Llama 3.1 as Judge begins ############
+
+def judge_evaluate_scenario_llama_70b_judge(scenario, judge_conversations_memory, openai_client):
+    # Add system prompt and user scenario to memory
+        judge_conversations_memory += [
+        {"role": "user", "content": scenario}
+        ]
+        evaluation_response = openai_client.chat.completions.create(
+                model=gen_constants.scenario_judge_config["model"],
+                temperature = gen_constants.scenario_judge_config["temperature"],
+                max_tokens = gen_constants.scenario_judge_config["max_tokens"],
+                top_p = gen_constants.scenario_judge_config["top_p"],
+                frequency_penalty = gen_constants.scenario_judge_config["frequency_penalty"],
+                presence_penalty = gen_constants.scenario_judge_config["presence_penalty"],
+                messages=judge_conversations_memory
+                )
+        # Accessing the last message's content correctly
+        latest_message = evaluation_response.choices[0].message.content
+
+        print(latest_message)
+        #print("Latest message in judge is: ", latest_message)
+        decision = latest_message.split()[-1]  # Extract the last word
+
+        # Update memory with the model's latest response
+        judge_conversations_memory.append({"role": "assistant", "content": latest_message})
+        print(f"decission is: {decision}")
+        #print(f"latest_message is: {latest_message}")
+        #print(judge_conversations_memory)
+        print("len of judge_conversation_momory is: ",len(judge_conversations_memory))
+        return decision, latest_message
+
+
+################ For ablation Llama 3.1 as Judge ends ############
 
 
 
@@ -144,26 +239,7 @@ def polish_note(note, openai_client):
         return note_response.choices[0].message.content
 
 
-def abbreviate_note(note, openai_client):
-        note_response = openai_client.chat.completions.create(
-                model=gen_constants.note_abbreviator_config["model"],
-                temperature = gen_constants.note_abbreviator_config["temperature"],
-                max_tokens = gen_constants.note_abbreviator_config["max_tokens"],
-                top_p = gen_constants.note_abbreviator_config["top_p"],
-                frequency_penalty = gen_constants.note_abbreviator_config["frequency_penalty"],
-                presence_penalty = gen_constants.note_abbreviator_config["presence_penalty"],
-                messages=[
-                    {
-                        "role": "system",
-                        "content": gen_constants.NOTE_ABBREVIATOR_SYSTEM_PROMPT 
-                    },
-                    {
-                        "role": "user",
-                        "content": note
-                    }
-                ]
-                )
-        return note_response.choices[0].message.content
+
 
 
 

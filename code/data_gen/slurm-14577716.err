@@ -1,0 +1,51 @@
+Loading checkpoint shards:   0%|          | 0/30 [00:00<?, ?it/s]Loading checkpoint shards:   3%|▎         | 1/30 [00:06<02:54,  6.03s/it]Loading checkpoint shards:   7%|▋         | 2/30 [00:09<02:09,  4.61s/it]Loading checkpoint shards:  10%|█         | 3/30 [00:13<01:54,  4.26s/it]Loading checkpoint shards:  13%|█▎        | 4/30 [00:18<01:55,  4.46s/it]Loading checkpoint shards:  17%|█▋        | 5/30 [00:21<01:42,  4.10s/it]Loading checkpoint shards:  20%|██        | 6/30 [00:25<01:33,  3.89s/it]Loading checkpoint shards:  23%|██▎       | 7/30 [00:28<01:27,  3.79s/it]Loading checkpoint shards:  27%|██▋       | 8/30 [00:32<01:24,  3.82s/it]Loading checkpoint shards:  30%|███       | 9/30 [00:36<01:20,  3.83s/it]Loading checkpoint shards:  33%|███▎      | 10/30 [00:40<01:15,  3.77s/it]Loading checkpoint shards:  37%|███▋      | 11/30 [00:43<01:10,  3.74s/it]Loading checkpoint shards:  40%|████      | 12/30 [00:47<01:06,  3.71s/it]Loading checkpoint shards:  43%|████▎     | 13/30 [00:51<01:03,  3.73s/it]Loading checkpoint shards:  47%|████▋     | 14/30 [00:54<00:59,  3.73s/it]Loading checkpoint shards:  50%|█████     | 15/30 [00:58<00:55,  3.70s/it]Loading checkpoint shards:  53%|█████▎    | 16/30 [01:02<00:51,  3.70s/it]Loading checkpoint shards:  57%|█████▋    | 17/30 [01:05<00:47,  3.68s/it]Loading checkpoint shards:  60%|██████    | 18/30 [01:09<00:44,  3.74s/it]Loading checkpoint shards:  63%|██████▎   | 19/30 [01:15<00:46,  4.23s/it]Loading checkpoint shards:  67%|██████▋   | 20/30 [01:23<00:55,  5.56s/it]Loading checkpoint shards:  70%|███████   | 21/30 [01:32<00:58,  6.52s/it]Loading checkpoint shards:  73%|███████▎  | 22/30 [01:40<00:56,  7.04s/it]Loading checkpoint shards:  77%|███████▋  | 23/30 [01:49<00:52,  7.51s/it]Loading checkpoint shards:  80%|████████  | 24/30 [01:57<00:46,  7.77s/it]Loading checkpoint shards:  83%|████████▎ | 25/30 [02:06<00:39,  7.93s/it]Loading checkpoint shards:  87%|████████▋ | 26/30 [02:14<00:32,  8.01s/it]Loading checkpoint shards:  90%|█████████ | 27/30 [02:22<00:23,  7.99s/it]Loading checkpoint shards:  93%|█████████▎| 28/30 [02:30<00:16,  8.18s/it]Loading checkpoint shards:  97%|█████████▋| 29/30 [02:33<00:06,  6.55s/it]Loading checkpoint shards: 100%|██████████| 30/30 [02:33<00:00,  4.62s/it]Loading checkpoint shards: 100%|██████████| 30/30 [02:33<00:00,  5.13s/it]
+WARNING:root:Some parameters are on the meta device device because they were offloaded to the cpu.
+Setting `pad_token_id` to `eos_token_id`:128001 for open-end generation.
+Traceback (most recent call last):
+  File "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/data_gen/DELETE_test_llama70b.py", line 114, in <module>
+    outputs = model.generate(
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/transformers/generation/utils.py", line 2255, in generate
+    result = self._sample(
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/transformers/generation/utils.py", line 3254, in _sample
+    outputs = self(**model_inputs, return_dict=True)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/accelerate/hooks.py", line 166, in new_forward
+    output = module._old_forward(*args, **kwargs)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/transformers/models/llama/modeling_llama.py", line 831, in forward
+    outputs = self.model(
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/transformers/models/llama/modeling_llama.py", line 589, in forward
+    layer_outputs = decoder_layer(
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/accelerate/hooks.py", line 166, in new_forward
+    output = module._old_forward(*args, **kwargs)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/transformers/models/llama/modeling_llama.py", line 348, in forward
+    hidden_states = self.mlp(hidden_states)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/accelerate/hooks.py", line 166, in new_forward
+    output = module._old_forward(*args, **kwargs)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/transformers/models/llama/modeling_llama.py", line 186, in forward
+    down_proj = self.down_proj(self.act_fn(self.gate_proj(x)) * self.up_proj(x))
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/torch/nn/modules/activation.py", line 396, in forward
+    return F.silu(input, inplace=self.inplace)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/torch/nn/functional.py", line 2102, in silu
+    return torch._C._nn.silu(input)
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 60.00 MiB. GPU  has a total capacity of 44.56 GiB of which 24.69 MiB is free. Including non-PyTorch memory, this process has 44.53 GiB memory in use. Of the allocated memory 43.15 GiB is allocated by PyTorch, and 45.23 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
