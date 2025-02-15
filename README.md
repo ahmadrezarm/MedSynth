@@ -31,5 +31,13 @@ First, Set your OPENAI_API_KEY as an env variable
 
 
 ## To evaluate the generated dialogue-note pairs with the Jury:
-### For Dialogue-2-Note task:
-1. 
+### GPT-4o as the judge:
+1. Go to `code/eval/continous_eval/get_promethus_relative_score_GPT.py`, and edit the paths. Also, depending on the task (dial-2-note or note-2-dial), uncomment the correct main function and run it.
+
+### Prometheus as the judge:
+1. Go to `code/eval/continous_eval/get_promethus_relative_score.py`, and edit the paths. Also, depending on the task (dial-2-note or note-2-dial), uncomment the correct main function and run it.
+
+### Qwen as the judge:
+1. Go to `code/eval/continous_eval/get_qwen_relative_scores.py`, and edit the paths. Also, depending on the task (dial-2-note or note-2-dial), uncomment the correct main function and run it.
+
+
