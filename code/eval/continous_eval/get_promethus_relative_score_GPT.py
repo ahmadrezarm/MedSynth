@@ -8,7 +8,7 @@ from utils import constants
 
 litellm.set_verbose=True
 os.environ['LITELLM_LOG'] = 'DEBUG'
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "API_KEY"
 # edit this for every model you wanna run.
 
 
