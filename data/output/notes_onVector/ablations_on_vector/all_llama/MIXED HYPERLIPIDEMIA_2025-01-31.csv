@@ -1,0 +1,739 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role
+MIXED HYPERLIPIDEMIA|"ROLE: Cardiologist
+
+1. Medical Outcome: 
+    - Diagnosis: Mixed Hyperlipidemia (E78.5)
+    - Prescribed treatment: Atorvastatin 20mg oral tablet, once daily
+    - Lifestyle change: Diet - low-fat diet, Exercise - regular aerobic exercise for at least 30 minutes, 5 days a week
+    - Referral to specialists: Endocrinologist for further evaluation and management
+    - Referral to further tests or imaging: Fasting Lipid Profile, Liver Function Tests, Blood Glucose
+
+2. Medical History: 
+    - Previous Diagnoses: Hypertension, Family History of Cardiovascular Disease
+    - Medication History: Currently taking Amlodipine for hypertension
+    - Allergies: None known
+    - Chronic Conditions: Hypertension
+
+3. Symptom Description: 
+    - Severity: Asymptomatic but has a family history of cardiovascular disease
+    - Duration: newly diagnosed
+    - Associated Symptoms: None
+    - Frequency: N/A
+    - Impact on Daily Activities: None
+
+4. Patient’s self-reported habits and lifestyle: 
+    - Sleep: 7-8 hours per night
+    - Diet: Mixed, with high intake of saturated fats
+    - Exercise: Occasionally, less than 30 minutes, 2 days a week
+    - Tobacco Use: Non-smoker
+    - Alcohol Consumption: Social drinker, 1-2 units per week
+
+5. Demographic Information: 
+    - Age: 45
+    - Gender: Male
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle-class
+    - Education Level: University graduate
+    - Health Literacy: Good understanding of health information
+    - Job Status: Employed full-time
+
+6. Patient's Behavior: 
+    - Cooperative with medical advice
+
+7. Geographical Location: 
+    - Urban area with good access to healthcare facilities
+
+8. Clinical Setting: 
+    - Outpatient clinic
+
+9. Type of Encounter: 
+    - Initial Consultation for newly diagnosed Mixed Hyperlipidemia
+
+10. Treatment Disparities: 
+    - None identified
+
+11. Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+12. Physical exams: 
+    - Blood Pressure: 140/90 mmHg
+    - BMI: 28
+    - Waist Circumference: 102 cm
+
+13. Investigation/Test results: 
+    - Fasting Lipid Profile: Total Cholesterol 7.5 mmol/L, Triglycerides 2.5 mmol/L, HDL-Cholesterol 0.9 mmol/L
+    - Liver Function Tests: Normal
+    - Blood Glucose: 5.5 mmol/L"|"## Step 1: Determine the format of the medical note
+The medical note should be in the format of:
+1. Subjective: Patient's description of symptoms and complaints.
+2. Objective: Observations and data gathered by the physician.
+3. Assessment: Evaluation of the patient's condition, including diagnosis or differential diagnosis.
+4. Plan: Recommendations for treatment, management, and follow-up.
+
+
+## Step 2: Roll a dice to determine if the subjective section needs to be broken down into sub-parts
+Since the result is not provided, let's assume an odd number is rolled, which means the subjective section will be broken down into sub-parts like Chief Complaint (CC), History of Present Illness (HPI), Review of Systems (ROS).
+
+
+## Step 3: Create the subjective section with sub-parts
+Given the patient is asymptomatic but has a family history of cardiovascular disease, the subjective section might look like this:
+
+- Chief Complaint (CC): Newly diagnosed Mixed Hyperlipidemia.
+- History of Present Illness (HPI): The patient has been diagnosed with Mixed Hyperlipidemia through a recent fasting lipid profile test. The patient is asymptomatic but has a family history of cardiovascular disease.
+- Review of Systems (ROS): 
+    - Constitutional: Denies fever or weight loss.
+    - Cardiovascular: Reports a family history of cardiovascular disease.
+    - Other systems: No other symptoms reported.
+
+
+## Step 4: Create the objective section
+This section includes observations and data gathered by the physician:
+- Vitals: BP 140/90 mmHg, BMI 28, Waist Circumference 102 cm.
+- Physical Examination: Normal, except for slightly elevated blood pressure and waist circumference indicating potential metabolic syndrome risk.
+- Investigation/Test Results: 
+    - Fasting Lipid Profile: Total Cholesterol 7.5 mmol/L, Triglycerides 2.5 mmol/L, HDL-Cholesterol 0.9 mmol/L.
+    - Liver Function Tests: Normal.
+    - Blood Glucose: 5.5 mmol/L.
+
+
+## Step 5: Create the assessment section
+This section includes the physician's evaluation of the patient's condition:
+- Diagnosis: Mixed Hyperlipidemia (E78.5).
+- Medical Reasoning: The patient's fasting lipid profile indicates elevated total cholesterol and triglycerides, with low HDL cholesterol, consistent with a diagnosis of Mixed Hyperlipidemia. Family history of cardiovascular disease increases risk.
+
+
+## Step 6: Create the plan section
+This section includes the physician's recommendations for treatment, management, and follow-up:
+- Medical Treatment: Atorvastatin 20mg oral tablet, once daily.
+- Lifestyle Change: Diet - low-fat diet, Exercise - regular aerobic exercise for at least 30 minutes, 5 days a week.
+- Referral to Specialists: Endocrinologist for further evaluation and management.
+- Follow-up: Patient to follow up in 3 months or sooner if symptoms worsen.
+
+
+The final answer is: 
+
+1. **Subjective:**
+    - **Chief Complaint (CC):** Newly diagnosed Mixed Hyperlipidemia.
+    - **History of Present Illness (HPI):** The patient has been diagnosed with Mixed Hyperlipidemia through a recent fasting lipid profile test. The patient is asymptomatic but has a family history of cardiovascular disease.
+    - **Review of Systems (ROS):** 
+        - Constitutional: Denies fever or weight loss.
+        - Cardiovascular: Reports a family history of cardiovascular disease.
+        - Other systems: No other symptoms reported.
+
+2. **Objective:**
+    - **Vitals:** BP 140/90 mmHg, BMI 28, Waist Circumference 102 cm.
+    - **Physical Examination:** Normal, except for slightly elevated blood pressure and waist circumference indicating potential metabolic syndrome risk.
+    - **Investigation/Test Results:** 
+        - Fasting Lipid Profile: Total Cholesterol 7.5 mmol/L, Triglycerides 2.5 mmol/L, HDL-Cholesterol 0.9 mmol/L.
+        - Liver Function Tests: Normal.
+        - Blood Glucose: 5.5 mmol/L.
+
+3. **Assessment:**
+    - **Diagnosis:** Mixed Hyperlipidemia (E78.5).
+    - **Medical Reasoning:** The patient's fasting lipid profile indicates elevated total cholesterol and triglycerides, with low HDL cholesterol, consistent with a diagnosis of Mixed Hyperlipidemia. Family history of cardiovascular disease increases risk.
+
+4. **Plan:**
+    - **Medical Treatment:** Atorvastatin 20mg oral tablet, once daily.
+    - **Lifestyle Change:** Diet - low-fat diet, Exercise - regular aerobic exercise for at least 30 minutes, 5 days a week.
+    - **Referral to Specialists:** Endocrinologist for further evaluation and management.
+    - **Follow-up:** Patient to follow up in 3 months or sooner if symptoms worsen."|"1. **Subjective:**
+    - **Chief Complaint (CC):** Newly diagnosed Mixed Hyperlipidemia.
+    - **History of Present Illness (HPI):** The patient has been diagnosed with Mixed Hyperlipidemia through a recent fasting lipid profile test. The patient is asymptomatic but has a family history of cardiovascular disease.
+    - **Review of Systems (ROS):** 
+        - Constitutional: Denies fever or weight loss.
+        - Cardiovascular: Reports a family history of cardiovascular disease.
+        - Other systems: No other symptoms reported.
+
+2. **Objective:**
+    - **Vitals:** BP 140/90 mmHg, BMI 28, Waist Circumference 102 cm.
+    - **Physical Examination:** Normal, except for slightly elevated blood pressure and waist circumference indicating potential metabolic syndrome risk.
+    - **Investigation/Test Results:** 
+        - Fasting Lipid Profile: Total Cholesterol 7.5 mmol/L, Triglycerides 2.5 mmol/L, HDL-Cholesterol 0.9 mmol/L.
+        - Liver Function Tests: Normal.
+        - Blood Glucose: 5.5 mmol/L.
+
+3. **Assessment:**
+    - **Diagnosis:** Mixed Hyperlipidemia (E78.5).
+    - **Medical Reasoning:** The patient's fasting lipid profile indicates elevated total cholesterol and triglycerides, with low HDL cholesterol, consistent with a diagnosis of Mixed Hyperlipidemia. Family history of cardiovascular disease increases risk.
+
+4. **Plan:**
+    - **Medical Treatment:** Atorvastatin 20mg oral tablet, once daily.
+    - **Lifestyle Change:** Diet - low-fat diet, Exercise - regular aerobic exercise for at least 30 minutes, 5 days a week.
+    - **Referral to Specialists:** Referral to Dr. Emily Chen, an Endocrinologist, for further evaluation and management of the patient's condition, specifically to assess the risk of developing cardiovascular disease and to discuss potential adjustments to the treatment plan.
+    - **Follow-up:** Patient to follow up in 3 months or sooner if symptoms worsen."|ablation|Cardiologist
+MIXED HYPERLIPIDEMIA|"ROLE: General Physician
+
+1. Medical Outcome: 
+    - Diagnosis: MIXED HYPERLIPIDEMIA (E78.5)
+    - Prescribed Treatment: Atorvastatin 20 mg oral tablet once daily
+    - Follow-up Recommendations: Follow-up appointment in 6 weeks to review lipid profile and adjust treatment as needed
+    - Referral to Specialists: Referral to a cardiologist for further evaluation and management
+    - Medication Adjustment: Patient to continue current medications and monitor for any potential interactions with newly prescribed Atorvastatin
+    - Lifestyle Change: Patient advised to maintain a healthy diet, increase physical activity, and reduce alcohol consumption
+
+2. Medical History: 
+    - Previous Diagnoses: Hypertension, Type 2 Diabetes
+    - Family Medical History: Family history of cardiovascular disease
+    - Medication History: Currently taking Metformin for Type 2 Diabetes and Enalapril for Hypertension
+    - Allergies: No known allergies
+    - Chronic Conditions: Hypertension, Type 2 Diabetes
+
+3. Symptom Description: 
+    - Severity: Patient reports mild symptoms
+    - Duration: Symptoms have been present for the past 6 months
+    - Associated Symptoms: Patient reports occasional chest pain and shortness of breath
+    - Frequency: Symptoms occur intermittently
+    - Impact on Daily Activities: Patient reports some difficulty with daily activities due to symptoms
+
+4. Patient’s self-reported habits and lifestyle: 
+    - Sleep: Patient reports 6-7 hours of sleep per night
+    - Diet: Patient reports a diet high in saturated fats and cholesterol
+    - Exercise: Patient reports occasional exercise, approximately 1-2 times per week
+    - Tobacco Use: Patient is a non-smoker
+    - Alcohol Consumption: Patient reports moderate alcohol consumption
+
+5. Demographic Information: 
+    - Age: 52
+    - Gender: Male
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: College graduate
+    - Health Literacy: Adequate
+    - Job Status: Employed full-time
+
+6. Patient's Behavior: 
+    - Patient is cooperative with medical advice and willing to make lifestyle changes
+
+7. Geographical Location: 
+    - Urban area with access to healthcare facilities and resources
+
+8. Clinical Setting: 
+    - Primary care clinic
+
+9. Type of Encounter: 
+    - Initial consultation for management of mixed hyperlipidemia
+
+10. Treatment Disparities: 
+    - None identified
+
+11. Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+12. Physical exams: 
+    - Blood pressure: 140/90 mmHg
+    - Body Mass Index (BMI): 28.5
+    - Waist Circumference: 102 cm
+
+13. Investigation/Test results: 
+    - Fasting Lipid Profile: 
+        - Total Cholesterol: 250 mg/dL
+        - HDL: 30 mg/dL
+        - LDL: 180 mg/dL
+        - Triglycerides: 200 mg/dL
+    - Blood Glucose: 130 mg/dL 
+    - Liver Function Tests: 
+        - Alanine Transaminase (ALT): 20 U/L
+        - Aspartate Transaminase (AST): 25 U/L"|"## Step 1: Determine the format of the medical note
+The medical note should be in the format of:
+1. Subjective: This section includes the patient's own description of their symptoms and complaints.
+2. Objective: This section includes observations and data gathered by the physician, such as vital signs, physical examination findings, and test results.
+3. Assessment: This section includes the physician's evaluation of the patient's condition, including a diagnosis or differential diagnosis.
+4. Plan: This section includes the physician's recommendations for treatment, management, and follow-up.
+
+## Step 2: Break down the subjective section into sub-parts if necessary
+Since the scenario does not explicitly state that the subjective section should be broken down into sub-parts, we will keep it as is.
+
+
+## Step 3: Generate the medical note
+Based on the provided scenario, the medical note is as follows:
+
+**1. Subjective:**
+The patient is a 52-year-old male who presents with mild symptoms of mixed hyperlipidemia, including occasional chest pain and shortness of breath. The symptoms have been present for the past 6 months and occur intermittently. The patient reports some difficulty with daily activities due to symptoms. He has a family history of cardiovascular disease and has been diagnosed with hypertension and type 2 diabetes. The patient reports a diet high in saturated fats and cholesterol, occasional exercise, and moderate alcohol consumption.
+
+**2. Objective:**
+The patient's blood pressure is 140/90 mmHg, and his Body Mass Index (BMI) is 28.5. The waist circumference is 102 cm. The fasting lipid profile shows a total cholesterol of 250 mg/dL, HDL of 30 mg/dL, LDL of 180 mg/dL, and triglycerides of 200 mg/dL. The blood glucose is 130 mg/dL, and liver function tests show an Alanine Transaminase (ALT) of 20 U/L and an Aspartate Transaminase (AST) of 25 U/L.
+
+**3. Assessment:**
+The patient has been diagnosed with mixed hyperlipidemia (E78.5). He also has a history of hypertension and type 2 diabetes.
+
+**4. Plan:**
+The patient has been prescribed Atorvastatin 20 mg oral tablet once daily to manage his mixed hyperlipidemia. He will follow up in 6 weeks to review his lipid profile and adjust treatment as needed. The patient has also been referred to a cardiologist for further evaluation and management. The patient is advised to maintain a healthy diet, increase physical activity, and reduce alcohol consumption.
+
+The final answer is: 
+
+There is no final numerical answer to this problem. The solution is a formatted medical note as requested."|"**1. Subjective:**
+The patient, John Smith, is a 52-year-old male who presents with mild symptoms of mixed hyperlipidemia, including occasional chest pain and shortness of breath. The symptoms have been present for the past 6 months and occur intermittently. The patient reports some difficulty with daily activities due to symptoms. He has a family history of cardiovascular disease and has been diagnosed with hypertension and type 2 diabetes. The patient reports a diet high in saturated fats and cholesterol, occasional exercise, and moderate alcohol consumption.
+
+**2. Objective:**
+The patient's blood pressure is 140/90 mmHg, and his Body Mass Index (BMI) is 28.5. The waist circumference is 102 cm. The fasting lipid profile shows a total cholesterol of 250 mg/dL, HDL of 30 mg/dL, LDL of 180 mg/dL, and triglycerides of 200 mg/dL. The blood glucose is 130 mg/dL, and liver function tests show an Alanine Transaminase (ALT) of 20 U/L and an Aspartate Transaminase (AST) of 25 U/L.
+
+**3. Assessment:**
+The patient has been diagnosed with mixed hyperlipidemia (E78.5). He also has a history of hypertension and type 2 diabetes.
+
+**4. Plan:**
+The patient has been prescribed Atorvastatin 20 mg oral tablet once daily to manage his mixed hyperlipidemia. He will follow up in 6 weeks to review his lipid profile and adjust treatment as needed. The patient has also been referred to Dr. Emily Johnson, a cardiologist, for further evaluation and management of his cardiovascular risk factors. The patient is advised to maintain a healthy diet, increase physical activity, and reduce alcohol consumption."|ablation|General Physician
+MIXED HYPERLIPIDEMIA|"ROLE: Cardiologist 
+
+1. Medical Outcome: 
+    - Diagnosis: Mixed Hyperlipidemia (E78.5)
+    - Prescribed treatment: Atorvastatin 20mg oral tablet once daily, Ezetimibe 10mg oral tablet once daily, Fenofibrate 145mg oral tablet once daily
+    - Follow-up recommendations: Patient to follow up in 6 weeks for blood work to assess response to treatment and adjust as necessary
+    - Referral to specialists: None
+    - Referral to further tests or imaging: Fasting lipid profile and liver function tests (LFTs) to be done in 6 weeks
+    - Medication adjustment: NA
+    - Lifestyle change: Patient advised to reduce dietary intake of saturated fats, increase physical activity to at least 150 minutes of moderate intensity aerobic exercise per week, and lose 5-10% of body weight
+
+2. Medical History: 
+    - Previous Diagnoses: Hypertension, Type 2 Diabetes
+    - Family Medical History: Father had coronary artery disease
+    - Medication History: Previous use of simvastatin
+    - Allergies: None known
+    - Chronic Conditions: Hypertension, Type 2 Diabetes
+
+3. Symptom Description: 
+    - Severity: Asymptomatic but has high risk factors for cardiovascular disease
+    - Duration: NA
+    - Associated Symptoms: None
+    - Frequency: NA
+    - Impact on Daily Activities: None
+
+4. Patient’s self-reported habits and lifestyle: 
+    - Sleep: 6-8 hours per night
+    - Diet: Consumes high amounts of saturated fats
+    - Exercise: Less than 30 minutes of moderate intensity aerobic exercise per week
+    - Tobacco Use: Ex-smoker
+    - Alcohol Consumption: Occasional
+    - Drug Use: None
+    - Recreational Activities: Plays golf occasionally
+
+5. Demographic Information: 
+    - Age: 55
+    - Gender: Male
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: University graduate
+    - Health Literacy: Good
+    - Job Status: Employed full-time
+
+6. Patient's Behavior: 
+    - The patient is cooperative with medical advice
+
+7. Geographical Location: 
+    - Big City vs Small City: Big city
+    - Rural vs Urban: Urban
+    - Pollution and Environmental Health Risks: Moderate
+    - Neighborhood Type: Affluent
+
+8. Clinical Setting: 
+    - Hospitals: NA
+    - Clinics: Private clinic
+    - Telemedicine: NA
+    - Community Health Services: NA
+    - Urgent Care Centers: NA
+    - Research Facilities: NA
+    - School Health Services: NA
+    - Private Practice: Yes
+    - Specialty Clinics: Cardiology clinic
+
+9. Type of Encounter: 
+    - Initial Consultation: No
+    - Follow-up: Yes
+    - Emergency Visit: No
+    - Routine Check-up: Yes
+    - Chronic Disease Management: Yes
+    - Preventive Health Screening: Yes
+
+10. Treatment Disparities: 
+    - None
+
+11. Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+12. Physical exams: 
+    - Blood pressure measurement
+    - Body mass index (BMI) calculation
+
+13. Investigation/Test results: 
+    - Fasting lipid profile: To be done in 6 weeks
+    - Liver function tests (LFTs): To be done in 6 weeks"|"## Step 1: Determine the sections of the medical note
+The medical note should be divided into four main sections: Subjective, Objective, Assessment, and Plan.
+
+## Step 2: Write the Subjective section
+The Subjective section includes the patient's own description of their symptoms and complaints. Since the patient is asymptomatic but has high risk factors for cardiovascular disease, this section will include information about the patient's medical history, family medical history, and lifestyle habits.
+
+## Step 3: Break down the Subjective section into sub-parts
+Rolling a dice gives an odd result, so we will break down the Subjective section into several sub-parts, including Chief Complaint (CC), History of Present Illness (HPI), Review of Systems (ROS), and Social History.
+
+## Step 4: Write the Chief Complaint (CC) sub-part
+The patient is asymptomatic but has high risk factors for cardiovascular disease, including a family history of coronary artery disease and personal history of hypertension and type 2 diabetes.
+
+## Step 5: Write the History of Present Illness (HPI) sub-part
+The patient has a history of hypertension and type 2 diabetes, and has previously used simvastatin. The patient's father had coronary artery disease.
+
+## Step 6: Write the Review of Systems (ROS) sub-part
+The patient denies any symptoms, but has high risk factors for cardiovascular disease.
+
+## Step 7: Write the Social History sub-part
+The patient consumes high amounts of saturated fats, exercises less than 30 minutes per week, is an ex-smoker, and consumes alcohol occasionally.
+
+## Step 8: Write the Objective section
+The Objective section includes observations and data gathered by the physician, such as vital signs, physical examination findings, and test results. The patient's blood pressure and BMI will be measured.
+
+## Step 9: Write the Assessment section
+The Assessment section includes the physician's evaluation of the patient's condition, including a diagnosis or differential diagnosis. The patient has been diagnosed with mixed hyperlipidemia.
+
+## Step 10: Write the Plan section
+The Plan section includes the physician's recommendations for treatment, management, and follow-up. The patient will be prescribed atorvastatin, ezetimibe, and fenofibrate, and will follow up in 6 weeks for blood work to assess response to treatment.
+
+The final answer is:
+
+**1. Subjective:**
+
+* **Chief Complaint (CC):** Asymptomatic but has high risk factors for cardiovascular disease
+* **History of Present Illness (HPI):** History of hypertension and type 2 diabetes, previously used simvastatin, father had coronary artery disease
+* **Review of Systems (ROS):** Denies any symptoms, but has high risk factors for cardiovascular disease
+* **Social History:** Consumes high amounts of saturated fats, exercises less than 30 minutes per week, is an ex-smoker, and consumes alcohol occasionally
+
+**2. Objective:**
+
+* Blood pressure measurement: [insert measurement]
+* Body mass index (BMI) calculation: [insert calculation]
+* Fasting lipid profile: To be done in 6 weeks
+* Liver function tests (LFTs): To be done in 6 weeks
+
+**3. Assessment:**
+
+* Mixed hyperlipidemia (E78.5)
+
+**4. Plan:**
+
+* Prescribed treatment: Atorvastatin 20mg oral tablet once daily, Ezetimibe 10mg oral tablet once daily, Fenofibrate 145mg oral tablet once daily
+* Follow-up recommendations: Patient to follow up in 6 weeks for blood work to assess response to treatment and adjust as necessary
+* Lifestyle change: Patient advised to reduce dietary intake of saturated fats, increase physical activity to at least 150 minutes of moderate intensity aerobic exercise per week, and lose 5-10% of body weight"|"**1. Subjective:**
+* **Chief Complaint (CC):** Asymptomatic but has high risk factors for cardiovascular disease
+* **History of Present Illness (HPI):** History of hypertension and type 2 diabetes, previously used simvastatin, father had coronary artery disease
+* **Review of Systems (ROS):** Denies any symptoms, but has high risk factors for cardiovascular disease
+* **Social History:** Consumes high amounts of saturated fats, exercises less than 30 minutes per week, is an ex-smoker, and consumes alcohol occasionally
+
+**2. Objective:**
+
+* Blood pressure measurement: [insert measurement]
+* Body mass index (BMI) calculation: [insert calculation]
+* Fasting lipid profile: To be done in 6 weeks
+* Liver function tests (LFTs): To be done in 6 weeks
+
+**3. Assessment:**
+
+* Mixed hyperlipidemia (E78.5)
+
+**4. Plan:**
+
+* Prescribed treatment: Atorvastatin 20mg oral tablet once daily, Ezetimibe 10mg oral tablet once daily, Fenofibrate 145mg oral tablet once daily
+* Follow-up recommendations: Patient to follow up in 6 weeks for blood work to assess response to treatment and adjust as necessary
+* Lifestyle change: Patient advised to reduce dietary intake of saturated fats, increase physical activity to at least 150 minutes of moderate intensity aerobic exercise per week, and lose 5-10% of body weight"|ablation|Cardiologist 
+MIXED HYPERLIPIDEMIA|"ROLE: Family Medicine Physician
+
+1. Medical Outcome: 
+    - Diagnosis: MIXED HYPERLIPIDEMIA (E78.5)
+    - Prescribed treatment: Atorvastatin 20 mg oral tablet once daily, Ezetimibe 10 mg oral tablet once daily, and Omega-3 fatty acid 1000 mg oral capsule twice daily
+    - Follow-up recommendations: Scheduled follow-up appointment in 3 months to review lipid profile and adjust treatment as needed
+    - Referral to specialists: Cardiologist for further evaluation and management of cardiovascular risk factors
+    - Referral to further tests or imaging: Order for Lipid Profile, Liver Function Tests (LFTs), and Fasting Blood Glucose (FBG) 
+
+2. Medical History: 
+    - Previous Diagnoses: Hypertension, Type 2 Diabetes Mellitus
+    - Family Medical History: Father had myocardial infarction at age 55
+    - Medication History: Previously on Simvastatin, but discontinued due to side effects
+    - Allergies: None known
+    - Chronic Conditions: Hypertension, Type 2 Diabetes Mellitus
+
+3. Symptom Description: 
+    - Severity: Asymptomatic, but high risk for cardiovascular events
+    - Duration: Unknown, as patient is asymptomatic
+    - Associated Symptoms: None
+    - Frequency: N/A
+    - Impact on Daily Activities: None reported
+
+4. Patient’s self-reported habits and lifestyle: 
+    - Sleep: 7 hours/night
+    - Diet: High fat and cholesterol intake
+    - Exercise: Rarely exercises
+    - Tobacco Use: Non-smoker
+    - Alcohol Consumption: Occasional drinker
+    - Drug Use: None
+
+5. Demographic Information: 
+    - Age: 45
+    - Gender: Male
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: High school graduate
+    - Health Literacy: Fair
+    - Job Status: Employed full-time
+
+6. Patient's Behavior: 
+    - Cooperative with medical advice
+
+7. Geographical Location: 
+    - Big City
+    - Urban area
+
+8. Clinical Setting: 
+    - Primary Care Clinic
+
+9. Type of Encounter: 
+    - Routine Check-up
+
+10. Treatment Disparities: 
+    - None identified
+
+11. Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+12. Physical exams: 
+    - NA
+
+13. Investigation/Test results: 
+    - Lipid Profile: Elevated total cholesterol and triglycerides
+    - Liver Function Tests (LFTs): Normal
+    - Fasting Blood Glucose (FBG): Elevated"|"**1. Subjective:**
+
+Since the result of rolling a dice is not provided, I will assume an odd result to break down this part into several sub-parts.
+
+* **Chief Complaint (CC):** The patient is asymptomatic but has a high risk for cardiovascular events due to mixed hyperlipidemia.
+* **History of Present Illness (HPI):** The patient has been diagnosed with mixed hyperlipidemia and has a history of hypertension and type 2 diabetes mellitus. He was previously on Simvastatin but discontinued it due to side effects. The patient's father had a myocardial infarction at age 55.
+* **Review of Systems (ROS):** The patient reports no associated symptoms but has a history of chronic conditions, including hypertension and type 2 diabetes mellitus.
+
+**2. Objective:**
+
+* **Vital Signs:** Not provided
+* **Physical Examination:** Not provided
+* **Test Results:**
+	+ Lipid Profile: Elevated total cholesterol and triglycerides
+	+ Liver Function Tests (LFTs): Normal
+	+ Fasting Blood Glucose (FBG): Elevated
+
+**3. Assessment:**
+
+* **Diagnosis:** Mixed Hyperlipidemia (E78.5)
+* **Differential Diagnosis:** None identified
+* **Risk Factors:** Family history of myocardial infarction, hypertension, type 2 diabetes mellitus, high fat and cholesterol intake, and lack of exercise
+
+**4. Plan:**
+
+* **Treatment:**
+	+ Atorvastatin 20 mg oral tablet once daily
+	+ Ezetimibe 10 mg oral tablet once daily
+	+ Omega-3 fatty acid 1000 mg oral capsule twice daily
+* **Follow-up:** Scheduled follow-up appointment in 3 months to review lipid profile and adjust treatment as needed
+* **Referrals:**
+	+ Cardiologist for further evaluation and management of cardiovascular risk factors
+	+ Order for Lipid Profile, Liver Function Tests (LFTs), and Fasting Blood Glucose (FBG)
+* **Lifestyle Modifications:**
+	+ Dietary changes: Reduce high fat and cholesterol intake
+	+ Exercise: Encourage regular physical activity
+	+ Sleep: Maintain 7 hours of sleep per night"|"**1. Subjective:**
+The patient, John Doe, is asymptomatic but has a high risk for cardiovascular events due to mixed hyperlipidemia.
+The patient has been diagnosed with mixed hyperlipidemia and has a history of hypertension and type 2 diabetes mellitus. He was previously on Simvastatin but discontinued it due to side effects. The patient's father had a myocardial infarction at age 55.
+The patient reports no associated symptoms but has a history of chronic conditions, including hypertension and type 2 diabetes mellitus.
+
+**2. Objective:**
+* **Vital Signs:** Not provided
+* **Physical Examination:** Not provided
+* **Test Results:**
+	+ Lipid Profile: Elevated total cholesterol and triglycerides
+	+ Liver Function Tests (LFTs): Normal
+	+ Fasting Blood Glucose (FBG): Elevated
+
+**3. Assessment:**
+* **Diagnosis:** Mixed Hyperlipidemia (E78.5)
+* **Differential Diagnosis:** None identified
+* **Risk Factors:** Family history of myocardial infarction, hypertension, type 2 diabetes mellitus, high fat and cholesterol intake, and lack of exercise
+
+**4. Plan:**
+* **Treatment:**
+	+ Atorvastatin 20 mg oral tablet once daily
+	+ Ezetimibe 10 mg oral tablet once daily
+	+ Omega-3 fatty acid 1000 mg oral capsule twice daily
+* **Follow-up:** Scheduled follow-up appointment in 3 months to review lipid profile and adjust treatment as needed
+* **Referrals:**
+	+ The patient is being referred to Dr. Emily Chen, a cardiologist, for further evaluation and management of cardiovascular risk factors, due to the patient's high risk for cardiovascular events.
+* **Lifestyle Modifications:**
+	+ Dietary changes: Reduce high fat and cholesterol intake
+	+ Exercise: Encourage regular physical activity
+	+ Sleep: Maintain 7 hours of sleep per night
+* **Orders:**
+	+ Order for Lipid Profile
+	+ Order for Liver Function Tests (LFTs)
+	+ Order for Fasting Blood Glucose (FBG)"|ablation|Family Medicine Physician
+MIXED HYPERLIPIDEMIA|"ROLE: General Physician
+
+* Medical Outcome: 
+    - Diagnosis: MIXED HYPERLIPIDEMIA 
+    - Prescribed treatment: atorvastatin 20 mg once daily, omega-3 fatty acids 1000 mg twice daily
+    - Follow-up recommendations: patient to follow up in 6 weeks for lipid profile
+    - Referral to specialists: referral to cardiologist for further evaluation
+    - Medication adjustment: adjust dosage of atorvastatin as needed based on laboratory results
+    - Lifestyle change: recommendations to increase physical activity, reduce dietary intake of saturated fats, and lose weight
+
+* Medical History: 
+    - Previous Diagnoses: hypertension, type 2 diabetes
+    - Family Medical History: family history of cardiovascular disease
+    - Medication History: currently taking lisinopril 20 mg daily, metformin 1000 mg twice daily
+    - Allergies: none
+    - Chronic Conditions: hypertension, type 2 diabetes
+
+* Symptom Description: 
+    - Severity: moderate
+    - Duration: 3 months
+    - Associated Symptoms: chest pain, shortness of breath
+    - Frequency: intermittent
+    - Impact on Daily Activities: significant impact on daily activities due to shortness of breath
+
+* Patient’s self-reported habits and lifestyle: 
+    - Sleep: 6 hours per night
+    - Diet: high intake of saturated fats
+    - Exercise: minimal physical activity
+    - Tobacco Use: former smoker
+    - Alcohol Consumption: moderate
+
+* Demographic Information: 
+    - Age: 55
+    - Gender: male
+    - Ethnicity: Caucasian
+    - Socio-economic Status: middle class
+    - Education Level: high school
+    - Health Literacy: adequate
+    - Job Status: employed
+
+* Patient's Behavior: 
+    - Cooperation with medical advice: moderate
+
+* Geographical Location: 
+    - Big City vs Small City: big city
+    - Rural vs Urban: urban
+    - Pollution and Environmental Health Risks: high levels of air pollution
+    - Neighborhood Type: affluent
+
+* Clinical Setting: 
+    - Hospital: no
+    - Clinic: yes
+    - Telemedicine: no
+    - Community Health Services: yes
+    - Urgent Care Centers: no
+    - Research Facilities: no
+    - School Health Services: no
+    - Private Practice: yes
+    - Specialty Clinics: cardiology clinic
+
+* Type of Encounter: 
+    - Initial Consultation: no
+    - Follow-up: yes
+    - Emergency Visit: no
+    - Routine Check-up: yes
+    - Chronic Disease Management: yes
+    - Preventive Health Screening: yes
+
+* Treatment Disparities: 
+    - Potential for less aggressive treatment due to patient's socio-economic status
+
+* Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+* Physical exams: 
+    - Cardiovascular exam: performed
+    - Respiratory exam: performed
+
+* Investigation/Test results: 
+    - Lipid profile: awaiting results
+    - Liver function tests: awaiting results
+    - Complete Blood Count (CBC): normal results
+    - Blood glucose: elevated results
+    - Electrocardiogram (ECG): normal results
+    - Chest X-ray: normal results
+    - Echocardiogram: awaiting results"|"## Step 1: Determine the format of the medical note
+The medical note should be in the format of:
+1. Subjective: This section includes the patient's own description of their symptoms and complaints.
+2. Objective: This section includes observations and data gathered by the physician, such as vital signs, physical examination findings, and test results.
+3. Assessment: This section includes the physician's evaluation of the patient's condition, including a diagnosis or differential diagnosis.
+4. Plan: This section includes the physician's recommendations for treatment, management, and follow-up.
+
+## Step 2: Break down the subjective section
+Since the result of rolling a dice is not provided, we will proceed with breaking down the subjective section into several sub-parts:
+- Chief Complaint (CC)
+- History of Present Illness (HPI)
+- Review of Systems (ROS)
+- Social History
+- Medications
+
+## Step 3: Write the Chief Complaint (CC) section
+The patient is a 55-year-old male who presents with a chief complaint of mixed hyperlipidemia, with associated symptoms of chest pain and shortness of breath.
+
+## Step 4: Write the History of Present Illness (HPI) section
+The patient has been experiencing symptoms for 3 months, with intermittent episodes of chest pain and shortness of breath. The patient's symptoms have had a significant impact on his daily activities.
+
+## Step 5: Write the Review of Systems (ROS) section
+The patient reports no other significant symptoms except for the chest pain and shortness of breath. The patient has a history of hypertension and type 2 diabetes.
+
+## Step 6: Write the Social History section
+The patient reports sleeping 6 hours per night, having a high intake of saturated fats, and engaging in minimal physical activity. He is a former smoker and consumes moderate amounts of alcohol.
+
+## Step 7: Write the Medications section
+The patient is currently taking lisinopril 20 mg daily and metformin 1000 mg twice daily.
+
+## Step 8: Write the Objective section
+- Vitals: The patient's vitals are stable, but the blood glucose is elevated.
+- Physical exam: Cardiovascular and respiratory exams were performed.
+- Investigation/Test results: Lipid profile, liver function tests, and echocardiogram results are awaiting, but the CBC, blood glucose, ECG, and chest X-ray results are available.
+
+## Step 9: Write the Assessment section
+The patient has been diagnosed with mixed hyperlipidemia, with a family history of cardiovascular disease and a personal history of hypertension and type 2 diabetes.
+
+## Step 10: Write the Plan section
+The patient has been prescribed atorvastatin 20 mg once daily and omega-3 fatty acids 1000 mg twice daily. The patient is advised to follow up in 6 weeks for a lipid profile and has been referred to a cardiologist for further evaluation. The patient is also advised to increase physical activity, reduce dietary intake of saturated fats, and lose weight.
+
+The final answer is: 
+
+**1. Subjective:**
+The patient is a 55-year-old male who presents with a chief complaint of mixed hyperlipidemia, with associated symptoms of chest pain and shortness of breath. 
+He has been experiencing symptoms for 3 months, with intermittent episodes of chest pain and shortness of breath. 
+The patient's symptoms have had a significant impact on his daily activities.
+The patient reports no other significant symptoms except for the chest pain and shortness of breath. 
+The patient has a history of hypertension and type 2 diabetes.
+The patient reports sleeping 6 hours per night, having a high intake of saturated fats, and engaging in minimal physical activity. 
+He is a former smoker and consumes moderate amounts of alcohol.
+The patient is currently taking lisinopril 20 mg daily and metformin 1000 mg twice daily.
+
+**2. Objective:**
+Vitals: The patient's vitals are stable, but the blood glucose is elevated.
+Physical exam: Cardiovascular and respiratory exams were performed.
+Investigation/Test results: Lipid profile, liver function tests, and echocardiogram results are awaiting, but the CBC, blood glucose, ECG, and chest X-ray results are available.
+
+**3. Assessment:**
+The patient has been diagnosed with mixed hyperlipidemia, with a family history of cardiovascular disease and a personal history of hypertension and type 2 diabetes.
+
+**4. Plan:**
+The patient has been prescribed atorvastatin 20 mg once daily and omega-3 fatty acids 1000 mg twice daily. 
+The patient is advised to follow up in 6 weeks for a lipid profile and has been referred to a cardiologist for further evaluation. 
+The patient is also advised to increase physical activity, reduce dietary intake of saturated fats, and lose weight."|"**1. Subjective:**
+The patient is a 55-year-old male who presents with a chief complaint of mixed hyperlipidemia, with associated symptoms of chest pain and shortness of breath. 
+He has been experiencing symptoms for 3 months, with intermittent episodes of chest pain and shortness of breath. 
+The patient's symptoms have had a significant impact on his daily activities.
+The patient reports no other significant symptoms except for the chest pain and shortness of breath. 
+The patient has a history of hypertension and type 2 diabetes.
+The patient reports sleeping 6 hours per night, having a high intake of saturated fats, and engaging in minimal physical activity. 
+He is a former smoker and consumes moderate amounts of alcohol.
+The patient is currently taking lisinopril 20 mg daily and metformin 1000 mg twice daily.
+
+**2. Objective:**
+Vitals: The patient's vitals are stable, but the blood glucose is elevated.
+Physical exam: Cardiovascular and respiratory exams were performed.
+Investigation/Test results: Lipid profile, liver function tests, and echocardiogram results are awaiting, but the CBC, blood glucose, ECG, and chest X-ray results are available.
+
+**3. Assessment:**
+The patient has been diagnosed with mixed hyperlipidemia, with a family history of cardiovascular disease and a personal history of hypertension and type 2 diabetes.
+
+**4. Plan:**
+The patient has been prescribed atorvastatin 20 mg once daily and omega-3 fatty acids 1000 mg twice daily. 
+The patient is advised to follow up in 6 weeks for a lipid profile and has been referred to a cardiologist, Dr. John Smith, for further evaluation of his cardiovascular condition. 
+The patient is also advised to increase physical activity, reduce dietary intake of saturated fats, and lose weight."|ablation|General Physician

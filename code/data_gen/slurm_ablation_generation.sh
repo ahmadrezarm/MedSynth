@@ -1,6 +1,6 @@
 #!/bin/bash
-#SBATCH --job-name=Ab_test
-#SBATCH --gres=gpu:a40:4
+#SBATCH --job-name=Ab_all_qwen_dial
+#SBATCH --gres=gpu:a40:1
 #SBATCH --mail-user=ahmad.rm0067@gmail.com  # Email address for notifications
 #SBATCH --mail-type=ALL
 
@@ -9,7 +9,8 @@
 #SBATCH --account=deadline
 #SBATCH --qos=deadline
 
-#SBATCH --time=2:00:00
+#SBATCH --time=3-00:00:00
+
 #SBATCH -c 30
 #SBATCH --mem=150G
 #SBATCH --output=slurm-%j.out
@@ -23,7 +24,9 @@ source /pkgs/anaconda3/bin/activate /h/ahmad/.conda/envs/SynthDataGenEnv || cond
 
 
 # put your command here
-python /h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/data_gen/DELETE_test_llama70b.py
-#torchrun --nproc-per-node 3 /h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/data_gen/DELETE_test_llama70b.py
+python /h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/data_gen/generate_dialogues.py
+#/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/data_gen/generate_notes.py
+
+
 
 echo `date`: "Job $SLURM_JOB_ID finished running, exit code: $?"

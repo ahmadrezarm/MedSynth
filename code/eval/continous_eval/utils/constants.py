@@ -16,8 +16,8 @@ dial_augmentor_system_prompt= """You are an assistant for medical professionals,
 base_model= "unsloth/llama-3-8b-Instruct" # changed to be consistent with the training.
 #"meta-llama/Meta-Llama-3-8B-Instruct"
 
-Aci_test_path = "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/clinicalnlp_taskC_test2.csv"
-Aci_train_path = "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/TaskC-TrainingSet.csv"
+Aci_test_path = "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/input/clinicalnlp_taskC_test2.csv"
+Aci_train_path = "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/input/TaskC-TrainingSet.csv"
 
 # useful link: https://huggingface.co/docs/transformers/main_classes/text_generation#transformers.GenerationConfig
 model_evaluator_generation_config = {"max_new_tokens":3000,
@@ -33,27 +33,28 @@ model_evaluator_generation_config = {"max_new_tokens":3000,
                      #"exponential_decay_length_penalty": (1800, -0.2), #(tuple(int, float), optional) — This Tuple adds an exponentially increasing length penalty, after a certain amount of tokens have been generated.
                     }# #
 
-PATH_TO_SAVE_EVAL_OUTPUT= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/eval_results/cont_eval"
+PATH_TO_SAVE_EVAL_OUTPUT= "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/eval_results/cont_eval/ablations"
 
 # for prometheus:
 prometheus_preference_instruction = """
-Imagine you are a medical professional tasked with evaluating summary notes taken from doctor-patient conversations. These conversations are summarized using the SOAP (Subjective, Objective, Assessment, Plan) format. Each summary must accurately capture the key details and nuances of the conversation, including symptoms described by the patient (Subjective), observable facts and findings from the doctor (Objective), the doctor's diagnosis or interpretation of the patient's condition (Assessment), and the proposed treatment or next steps (Plan).
-You are to review each summary to ensure that it:
-1. Accurately reflects the information provided during the conversation.
-2. Is clearly organized according to the SOAP format.
-3. Contains all relevant details needed for a comprehensive understanding of the patient’s situation.
-4. Uses medical terminology correctly and appropriately.
-5. Provides evidence-based assessments and plans where applicable.
+Imagine you are a medical professional tasked with evaluating summary notes taken from doctor-patient conversations. You will be given the conversation and ground truth note.
+Each summary must accurately capture the key details and nuances of the conversation and ground truth note, including symptoms described by the patient (Subjective), observable facts and findings from the doctor (Objective), the doctor's diagnosis or interpretation of the patient's condition (Assessment), and the proposed treatment or next steps (Plan).
+Some information might not be present in the conversation that are present in the ground truth note. This is because sometimes doctors write things in the note directly by looking at patient records. Ensure to consider both conversation and ground truth note in the evaluation.
 Here is the conversation:
 #############################
 {conversation}
+#############################
+
+Here is the ground truth note:
+#############################
+{ground_truth_note}
 #############################
 """
 
 
 
-
-prometheus_preference_rubric= """
+ 
+OLD_prometheus_preference_rubric= """
 1. Completeness:
     - Does the summary include all significant components of the SOAP format?
     - Are there any crucial aspects of the conversation missing from the summary?
@@ -73,35 +74,122 @@ prometheus_preference_rubric= """
 
 
 
+
+prometheus_preference_rubric = """ 
+1. Hallucination:
+    - Does the summary note accurately and comprehensively reflect the doctor–patient dialogue and ground truth note?
+
+2. Critical Omissions:
+    - Does the summary note capture all essential medical facts from the doctor–patient dialogue and ground truth note?
+
+3. Professional Tone:
+    - Does the summary note maintain a consistently professional tone appropriate for expert use?
+
+4. Logical Structure:
+    - Does the summary note exhibit a clear and logical structure?
+
+5. Adherence to the Format:
+    - Does the summary note follow the same structure as the ground-truth note?
+
+6. Section Relevance:
+    - Does the summary note accurately assign clinical information to the correct sections (e.g., patient-reported details in Subjective, objective findings in Objective, clinician insights in Assessment, and treatment strategies in Plan)?
+"""
+
+DELETED_ITEMS= """ 
+3. Redundancy:
+    - Does the summary note present clinical information succinctly without unnecessary repetition or redundant details?
+    - Does every element contribute meaningfully to clarity and precision?
+
+
+ include sections for Subjective, Objective, Assessment, and Plan? Subjective section can include or be subsituted by Chief Complaint (CC), History of Present Illness (HPI), History, Review of Systems (ROS), and Current Medications And Allergies.
+        Objective section can include or be substituted by Vital signs, Physical exam findings, Laboratory data, Imaging results, Other diagnostic data, and Recognition and review of the documentation of other clinicians.
+"""
+
+
+
 prometheus_absolute_instruction = """
 You are a medical professional evaluating summary notes taken from doctor-patient conversations. 
 These conversations are summarized in the SOAP (Subjective, Objective, Assessment, Plan) format. 
-Each summary should capture essential details and nuances of the conversation comprehensively and accurately.
-Your task is to evaluate each summary note to ensure it captures the key components of the conversation, employs medical terminology correctly, and organizes the information clearly and accurately according to the SOAP format.
+Each summary should capture essential details and nuances of the conversation comprehensively and accurately. Note that some information in the note can come from external sources like patient's medical history in the EHR.
+Therefore, make sure to evaluate the summary note against the provided ground truth note as well. 
+Your task is to evaluate each summary note to ensure it captures the key components of the conversation and the ground truth note, employs medical terminology correctly, and organizes the information clearly and accurately according to the SOAP format.
 Here is the conversation:
 #############################
 {conversation}
 #############################
+
+Here is the ground truth note:
+#############################
+{gt_note}
+#############################
+
 """
 
 
-prometheus_absolute_rubric_data = {
-  "criteria":"Does the summary note accurately and comprehensively reflect the SOAP format with clarity and medical precision?",
-  "score1_description":"The summary significantly lacks detail, has multiple inaccuracies, and fails to follow the SOAP format, making it potentially harmful or misleading in a clinical context.",
-  "score2_description":"The summary includes basic elements of the SOAP format but omits important details or contains inaccuracies that could impede effective patient care. It shows a rudimentary use of medical terminology.",
-  "score3_description":"The summary covers most necessary points and follows the SOAP format. There are minor inaccuracies or omissions that do not generally impede understanding or patient care. Medical terminology is used appropriately, with occasional errors.",
-  "score4_description":"The summary is well-organized and follows the SOAP format closely, with only slight imperfections. It accurately captures the key components of the patient's condition and treatment plan. Medical terminology is used correctly and effectively.",
-  "score5_description":"The summary excellently captures all aspects of the conversation accurately and comprehensively. It is perfectly aligned with the SOAP format, demonstrating professional-level use of medical terminology and a clear understanding of patient care."
-}
+prometheus_absolute_rubric_data= {"Hallucination": {"criteria": "Does the summary note accurately and comprehensively reflect the doctor–patient dialogue and ground truth note, free from any hallucinated or fabricated details that could distort clinical interpretation?",
+                                                    "score1_description": "The note contains numerous fabricated or unsupported details not present in the actual dialogue or ground truth, significantly distorting the clinical picture and potentially leading to harmful decisions.",
+                                                    "score2_description": "The note includes several hallucinated details that are not supported by the dialogue or ground truth, undermining overall reliability despite containing some accurate information.",
+                                                    "score3_description": "The note is largely faithful to the original dialogue and ground truth but contain a few isolated hallucinated details. While these minor fabrications do not fundamentally alter the overall clinical message, they may slightly skew understanding.",
+                                                    "score4_description": "The note is almost entirely consistent with both the dialogue and ground truth, with only rare and negligible hallucinated details that have minimal impact on clinical accuracy.",
+                                                    "score5_description": "The note perfectly reflect the doctor–patient dialogue and match the ground truth in every detail, with no fabricated or unsupported information."}, 
+
+                                  "Critical Omissions": {"criteria": "Does the summary note accurately and comprehensively capture all essential medical facts from the doctor–patient dialogue and ground truth, ensuring no critical omissions that could compromise clinical decision-making?",
+                                                         "score1_description": "The note omits numerous essential medical facts from the dialogue and ground truth, resulting in a severely incomplete clinical record that could lead to harmful misunderstandings.",
+                                                         "score2_description": "The note is missing several key medical facts, undermining the overall reliability of the clinical documentation despite containing some accurate information. ",
+                                                         "score3_description": "While the note captures most of the essential medical facts, there are a few omissions that might slightly compromise clinical understanding. ",
+                                                         "score4_description": "The note includes nearly all vital medical facts, with only rare omissions that have minimal impact on clinical accuracy. ",
+                                                         "score5_description": "The note is fully comprehensive, capturing every critical medical fact from the doctor–patient dialogue and the ground truth note without any omissions."},
+                                  
+                                  "Redundancy": {"criteria": "Does the summary note present the clinical information succinctly and without unnecessary repetition or redundant details, ensuring that every piece of content contributes meaningfully to clarity and precision?",
+                                                         "score1_description": "The note is burdened with excessive redundancy, featuring repeated phrases and duplicated information that severely disrupts clarity and wastes valuable space. This overabundance of repetition makes it very difficult for the reader to extract key clinical details.",
+                                                         "score2_description": "The note shows a high level of redundancy with frequent, unnecessary repetitions that do little to enhance understanding. While some repeated elements may serve to emphasize key points, the overall effect is a cumbersome and disorganized narrative that requires significant editing.",
+                                                         "score3_description": "The note contains moderate redundancy; there are instances of repeated information that do not add new insights and could be streamlined. Although the core message remains clear, reducing these repetitions would improve conciseness and overall readability.",
+                                                         "score4_description": "The note is largely concise, with minimal redundancy. Occasional repetition is present but is used judiciously for emphasis or clarity, without detracting from the overall efficiency and professionalism of the documentation.",
+                                                         "score5_description": "The note is impeccably succinct and free of unnecessary redundancy. Every sentence contributes new, relevant information, resulting in a clear, efficient, and highly professional clinical record."},
+
+                                  "Professional Tone": {"criteria": "Does the summary note maintain a consistently professional tone appropriate for expert use, employing precise, formal, and respectful language throughout the documentation?",
+                                                         "score1_description": "The note exhibits an unprofessional tone, with language that is overly casual, potentially disrespectful, or even inappropriate for expert medical documentation. The wording undermines the authority and credibility expected in clinical settings, detracting from the overall quality of the note.",
+                                                         "score2_description": "The note occasionally lapses into informal or imprecise language that is not fully aligned with expert standards. While some sections maintain professionalism, there are noticeable moments where the tone is too casual, necessitating revisions to achieve consistency.",
+                                                         "score3_description": "The note generally maintains a professional tone appropriate for expert use, though there are a few minor instances of casual phrasing or slight imprecision. Overall, the tone is acceptable, but refining these minor lapses could further enhance its credibility.",
+                                                         "score4_description": "The note consistently uses formal and respectful language, demonstrating a strong professional tone with only very minor deviations that do not detract from its overall authority. The note reflects the standards expected in clinical documentation with minimal need for improvement.",
+                                                         "score5_description": "The note exemplifies an impeccable professional tone, employing precise, formal, and respectful language throughout. Every aspect of the note aligns with expert standards, reinforcing its credibility and leaving no room for any casual or inappropriate expressions."},
+
+                                  "The logical structure of the note and sentences": {"criteria": "Does the summary note exhibit a clear and logical structure with well-organized sentences and coherent transitions that enhance comprehension and accurately convey the clinical narrative?",
+                                                         "score1_description": "The note's sentences are disjointed and lack any coherent logical structure, making the narrative extremely difficult to follow. There is little to no organization, with abrupt transitions and poorly constructed sentences that severely hinder comprehension.",
+                                                         "score2_description": "The logical structure is weak, with attempts at organization that are often undermined by inconsistent sentence construction and unclear transitions. Although some parts may be understood, the overall note suffers from significant disorganization that can confuse the reader.",
+                                                         "score3_description": "The note generally follows a logical structure, with most sentences organized in a coherent manner and transitions that, while occasionally abrupt, do not overwhelmingly disrupt the flow. Minor issues in sentence construction or clarity suggest that some revisions could further enhance the note’s overall coherence.",
+                                                         "score4_description": "The sentences are well-organized and follow a clear logical progression, with effective transitions that largely guide the reader through the note. Minor structural imperfections may be present, but they do not detract significantly from the overall clarity and flow of the document.",
+                                                         "score5_description": "The note demonstrates an exemplary logical structure, with every sentence and transition carefully crafted to create a seamless and coherent narrative. The organization is impeccable, enhancing the reader’s understanding and making the document exceptionally clear and professional."},
+
+                                  "Adherence to SOAP format": {"criteria": "Does the summary note adhere to the SOAP format by delineating distinct and complete sections for Subjective, Objective, Assessment, and Plan?",
+                                                         "score1_description": "The note completely disregards the SOAP format by omitting one or more of the required sections (Subjective, Objective, Assessment, and Plan), resulting in a chaotic and incomplete clinical record that severely hinders interpretation and decision-making.",
+                                                         "score2_description": "The note attempts to adhere to the SOAP format but are missing at least one key section or improperly merge sections, leading to significant disorganization that undermines clarity and necessitates substantial revisions.",
+                                                         "score3_description": "The note includes all four SOAP sections; however, there are occasional overlaps or blurred boundaries between sections. While the overall structure is present, these minor inconsistencies require correction to ensure clear and effective documentation.",
+                                                         "score4_description": "The notes largely follow the SOAP format with each section clearly identifiable and most content appropriately placed. Minor deviations exist but do not notably detract from the overall clarity or clinical usefulness of the documentation.",
+                                                         "score5_description": "The note flawlessly adheres to the SOAP format, with distinct and complete Subjective, Objective, Assessment, and Plan sections. This perfect organization enhances the clarity and clinical utility of the record without any errors or ambiguities."},
+
+                                  "Section Relevance": {"criteria": "Does the summary note accurately assign clinical information to the correct sections—ensuring patient-reported details appear in the Subjective, objective findings in the Objective, clinician insights in the Assessment, and treatment strategies in the Plan—to enhance clarity and relevance?",
+                                                         "score1_description": "The note demonstrates a severe lack of section relevance by placing crucial patient-reported details and clinical observations in the wrong sections—for example, mixing patient symptoms with objective findings or assessment notes—thus producing a distorted and confusing clinical narrative.",
+                                                         "score2_description": "The note frequently misassigns information, with patient-reported details sometimes appearing in the Objective section and clinical findings misplaced in the Subjective section. Although some content is correctly located, these misclassifications significantly impair the record's clarity and reliability.",
+                                                         "score3_description": " The note generally places information in the appropriate sections, with most patient-reported details in the Subjective area and clinical observations in the Objective section. However, occasional misplacements are evident, causing minor confusion that could slightly reduce the overall interpretability of the clinical record.",
+                                                         "score4_description": "The note shows strong section relevance, with nearly all patient narratives, clinical findings, assessments, and plans appearing in their respective sections. Any minor misassignments are rare and have little impact on the clarity and effectiveness of the documentation.",
+                                                         "score5_description": "The note exhibits perfect section relevance, ensuring that all patient-reported information is exclusively documented in the Subjective section, objective findings in the Objective section, the clinician’s reasoning in the Assessment section, and treatment plans in the Plan section."},                                                     
+                                    }
 
 
-PROMETHEUS_RESULT_BASE_NAME = "prometheus_scores"
+
+PROMETHEUS_ABSOLUTE_RESULT_BASE_NAME = "Absolute_prometheus_scores"
 
 
+
+
+
+
+############## N2D begins ##############
 
 prometheus_Note_2_Dial_preference_instruction = """
 Imagine you are a medical professional tasked with evaluating simulated doctor-patient conversations generated from summary notes. 
-These conversations should accurately reconstruct interactions based on the SOAP (Subjective, Objective, Assessment, Plan) format provided in the notes.
+These conversations should accurately reconstruct interactions based on the provided note.
 
 Here is the medical note:
 #############################
@@ -111,10 +199,10 @@ Here is the medical note:
 
 prometheus_Note_2_Dial_preference_rubric= """
 1. Completeness:
-    - Does the conversation cover all significant components of the SOAP format as outlined in the notes?
+    - Does the conversation cover all significant components of the note?
 2. Accuracy:
-    - How accurately does the conversation reflect the details of the notes as they were recorded?
-    - Are there any discrepancies between the notes and the generated dialogue?
+    - How accurately does the conversation reflect the details of the note as they were recorded?
+    - Are there any discrepancies between the note and the generated dialogue?
 3. Naturalness and Flow:
     - Is the conversation realistic and natural, following a logical and smooth progression?
     - Does it sound like a genuine interaction between a doctor and patient?
@@ -189,5 +277,5 @@ tuning_config = {
 
 NOTE_CHAT_HF_PATH= "akemiH/NoteChat"
 NUM_NOTE_CHAT_SAMPLES= 500
-PATH_TO_SAVE_NOTE_CHAT_SAMPLES= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/NoteChatSamples"
+PATH_TO_SAVE_NOTE_CHAT_SAMPLES= "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/input/NoteChatSamples"
 NOTE_CHAT_SAMPLE_BASE_NAME= "note_chat_sample"

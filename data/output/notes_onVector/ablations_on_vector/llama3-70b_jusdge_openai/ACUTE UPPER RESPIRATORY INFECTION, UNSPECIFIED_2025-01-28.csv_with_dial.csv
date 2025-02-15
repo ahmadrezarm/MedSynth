@@ -1,0 +1,1352 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+ACUTE UPPER RESPIRATORY INFECTION, UNSPECIFIED|"ROLE: Family Medicine Physician
+
+1) Medical Outcome: Diagnosis of acute upper respiratory infection, unspecified. Prescribed treatment includes rest, increased fluid intake, and over-the-counter decongestants as needed. Follow-up recommendations in 1 week if symptoms persist or worsen. Referral for chest X-ray if respiratory symptoms worsen.
+2) Medical History: Previous diagnosis of seasonal allergic rhinitis. No other chronic conditions. 
+3) Symptom Description: Patient reports nasal congestion, sore throat, mild cough, and fatigue. Symptoms have been present for 4 days. Severity is moderate and affects daily activities, including work and social interactions. No fever.
+4) Patient’s self-reported habits and lifestyle: Reports moderate alcohol consumption, about 3 drinks per week. Non-smoker. Exercises regularly by jogging.
+5) Demographic Information: 28-year-old male, Caucasian, college-educated, employed as a software developer. 
+6) Patient's Behavior: Highly cooperative and adherent to medical advice.
+7) Geographical Location: Resides in a big city with moderate pollution levels. Neighborhood is affluent and well-served by transit.
+8) Clinical Setting: Clinic.
+9) Type of Encounter: Initial consultation for acute symptoms.
+10) Treatment Disparities: N/A
+11) Native or Non-Native English Speaking Patient: Native English speaker.
+12) Physical exams: General inspection, throat examination reveals mild erythema. Lungs clear to auscultation. Nasal passages congested.
+13) Investigation/Test results: NA"|"**1. Subjective:**
+
+   **Chief Complaint (CC):** 
+   The patient, a 28-year-old Caucasian male, presents with nasal congestion, sore throat, mild cough, and fatigue.
+
+   **History of Present Illness (HPI):** 
+   The patient reports that the symptoms have been present for 4 days. He describes the severity as moderate, which has been affecting his daily activities, including work as a software developer and social interactions. He denies having any fever. The patient mentions his previous diagnosis of seasonal allergic rhinitis but notes these symptoms feel distinct to him.
+
+   **Review of Systems (ROS):**
+   - Respiratory: Endorses nasal congestion and mild cough, denies difficulty in breathing.
+   - General: Endorses fatigue.
+   - ENT: Sore throat reported, denies ear pain or sinus pressure.
+
+**2. Objective:**
+
+   **Physical Examination:**
+   - General: Patient appears in no acute distress.
+   - Head, Eyes, Ears, Nose, Throat (HEENT): Nasal passages are congested with mild erythema in the throat, no tonsillar hypertrophy or exudate.
+   - Respiratory: Lungs clear to auscultation bilaterally.
+
+**3. Assessment:**
+
+   The 28-year-old male presents with symptoms consistent with an acute upper respiratory infection, unspecified. His employment and lifestyle may contribute to exposure, given his residence in a city with moderate pollution.
+
+**4. Plan:**
+
+   - **Medical Treatment:** 
+     - Recommend rest and increased fluid intake.
+     - Advise using over-the-counter decongestants as needed for symptom relief.
+   - **Follow-up:** 
+     - Return for a follow-up in 1 week if symptoms persist or worsen.
+     - Referral for a chest X-ray if respiratory symptoms worsen.
+   - **Patient Education:**
+     - Discussed the typical course of upper respiratory infections.
+     - Advised on signs to monitor that may necessitate earlier follow-up, such as high fever or difficulty breathing.
+   - **Lifestyle and Preventive Care:** 
+     - Encourage continuation of regular exercise adapted to his tolerance during illness.
+     - Discussed alcohol moderation and its impact on recovery. 
+
+The patient was cooperative and expressed understanding of the treatment plan and follow-up recommendations."|"**1. Subjective:**
+
+   **Chief Complaint (CC):** 
+   The patient, a 28-year-old Caucasian male named John Smith, presents with nasal congestion, sore throat, mild cough, and fatigue.
+
+   **History of Present Illness (HPI):** 
+   The patient reports that the symptoms have been present for 4 days. He describes the severity as moderate, which has been affecting his daily activities, including work as a software developer and social interactions. He denies having any fever. The patient mentions his previous diagnosis of seasonal allergic rhinitis but notes these symptoms feel distinct to him.
+
+   **Review of Systems (ROS):**
+   - Respiratory: Endorses nasal congestion and mild cough, denies difficulty in breathing.
+   - General: Endorses fatigue.
+   - ENT: Sore throat reported, denies ear pain or sinus pressure.
+
+**2. Objective:**
+
+   **Physical Examination:**
+   - General: Patient appears in no acute distress.
+   - Head, Eyes, Ears, Nose, Throat (HEENT): Nasal passages are congested with mild erythema in the throat, no tonsillar hypertrophy or exudate.
+   - Respiratory: Lungs clear to auscultation bilaterally.
+
+**3. Assessment:**
+
+   The 28-year-old male presents with symptoms consistent with an acute upper respiratory infection, unspecified. His employment and lifestyle may contribute to exposure, given his residence in a city with moderate pollution.
+
+**4. Plan:**
+
+   - **Medical Treatment:** 
+     - Recommend rest and increased fluid intake.
+     - Advise using over-the-counter decongestants as needed for symptom relief.
+   - **Follow-up:** 
+     - Return for a follow-up in 1 week if symptoms persist or worsen.
+     - Referral for a chest X-ray if respiratory symptoms worsen.
+   - **Patient Education:**
+     - Discussed the typical course of upper respiratory infections.
+     - Advised on signs to monitor that may necessitate earlier follow-up, such as high fever or difficulty breathing.
+   - **Lifestyle and Preventive Care:** 
+     - Encourage continuation of regular exercise adapted to his tolerance during illness.
+     - Discussed alcohol moderation and its impact on recovery. 
+
+The patient was cooperative and expressed understanding of the treatment plan and follow-up recommendations."|ablation|Family Medicine Physician|"[Doctor] Good afternoon. How are you feeling today?
+
+[Patient] Hi, I'm not feeling great, to be honest. I've had this nasal congestion and a sore throat for a few days now.
+
+[Doctor] I'm sorry to hear that. When did these symptoms start?
+
+[Patient] They started about four days ago. At first, I thought it might be my usual allergies, but it feels different this time.
+
+[Doctor] I see. And how would you describe the severity of your symptoms?
+
+[Patient] They're moderate. It's been affecting my work and social life. I'm a software developer, and it's been hard to concentrate.
+
+[Doctor] Have you experienced any fever?
+
+[Patient] No, I haven't had a fever.
+
+[Doctor] Okay, good to know. Have you had any difficulty breathing?
+
+[Patient] No, just the congestion and a mild cough.
+
+[Doctor] And how about fatigue? Have you been feeling more tired than usual?
+
+[Patient] Yes, definitely. I've been feeling quite fatigued.
+
+[Doctor] Any ear pain or sinus pressure?
+
+[Patient] No, none of that. Just the sore throat.
+
+[Doctor] Alright, thank you for sharing that. Let's take a look. I'll start with a physical examination. 
+
+[Doctor] You appear to be in no acute distress, which is good. Let me check your nasal passages and throat.
+
+[Patient] Okay.
+
+[Doctor] Your nasal passages are congested, and I see some mild erythema in your throat, but no tonsillar hypertrophy or exudate. Let's listen to your lungs now.
+
+[Patient] Sure.
+
+[Doctor] Your lungs are clear to auscultation bilaterally. Overall, it seems like you have an acute upper respiratory infection.
+
+[Patient] Oh, okay. What can I do to feel better?
+
+[Doctor] I recommend plenty of rest and increased fluid intake. Over-the-counter decongestants can help with your symptoms as well.
+
+[Patient] Alright, I can do that. Should I avoid exercise?
+
+[Doctor] You can continue with regular exercise, but adapt it to your tolerance during this illness. Listen to your body.
+
+[Patient] Got it. And is there anything I should watch out for?
+
+[Doctor] Yes, if you develop a high fever or have difficulty breathing, you should seek follow-up care sooner. Otherwise, let's check back in a week if your symptoms persist or worsen.
+
+[Patient] That makes sense. Should I be worried about my work environment affecting my recovery?
+
+[Doctor] Living in a city with moderate pollution could contribute to exposure, but following the treatment plan should help mitigate that. Also, try to moderate alcohol intake, as it can impact recovery.
+
+[Patient] Okay, I will. Thank you for your help.
+
+[Doctor] You're welcome. Do you have any other questions or concerns?
+
+[Patient] No, I think that covers it. Thank you.
+
+[Doctor] Alright, take care and feel better soon. Don't hesitate to reach out if anything changes.
+
+[Patient] Thanks, Doctor. I appreciate it."|"[Doctor] Good afternoon. How are you feeling today?
+
+[Patient] Hi, I'm not feeling great, to be honest. I've had this nasal congestion and a sore throat for a few days now.
+
+[Doctor] I'm sorry to hear that. When did these symptoms start?
+
+[Patient] They started about four days ago. At first, I thought it might be my usual allergies, but it feels different this time.
+
+[Doctor] I see. And how would you describe the severity of your symptoms?
+
+[Patient] They're moderate. It's been affecting my work and social life. I'm a software developer, and it's been hard to concentrate.
+
+[Doctor] Have you experienced any fever?
+
+[Patient] No, I haven't had a fever.
+
+[Doctor] Okay, good to know. Have you had any difficulty breathing?
+
+[Patient] No, just the congestion and a mild cough.
+
+[Doctor] And how about fatigue? Have you been feeling more tired than usual?
+
+[Patient] Yes, definitely. I've been feeling quite fatigued.
+
+[Doctor] Any ear pain or sinus pressure?
+
+[Patient] No, none of that. Just the sore throat.
+
+[Doctor] Alright, thank you for sharing that. Let's take a look. I'll start with a physical examination.
+
+[Patient] Okay.
+
+[Doctor] You appear to be in no acute distress, which is good. Let me check your nasal passages and throat.
+
+[Patient] Sure.
+
+[Doctor] Your nasal passages are congested, and I see some mild erythema in your throat, but no tonsillar hypertrophy or exudate. Let's listen to your lungs now.
+
+[Patient] Alright.
+
+[Doctor] Your lungs are clear to auscultation bilaterally. Overall, it seems like you have an acute upper respiratory infection.
+
+[Patient] Oh, okay. What can I do to feel better?
+
+[Doctor] I recommend plenty of rest and increased fluid intake. Over-the-counter decongestants can help with your symptoms as well.
+
+[Patient] Alright, I can do that. Should I avoid exercise?
+
+[Doctor] You can continue with regular exercise, but adapt it to your tolerance during this illness. Listen to your body.
+
+[Patient] Got it. And is there anything I should watch out for?
+
+[Doctor] Yes, if you develop a high fever or have difficulty breathing, you should seek follow-up care sooner. Otherwise, let's check back in a week if your symptoms persist or worsen.
+
+[Patient] That makes sense. Should I be worried about my work environment affecting my recovery?
+
+[Doctor] Living in a city with moderate pollution could contribute to exposure, but following the treatment plan should help mitigate that. Also, try to moderate alcohol intake, as it can impact recovery.
+
+[Patient] Okay, I will. Thank you for your help.
+
+[Doctor] You're welcome. Do you have any other questions or concerns?
+
+[Patient] No, I think that covers it. Thank you.
+
+[Doctor] Alright, take care and feel better soon. Don't hesitate to reach out if anything changes.
+
+[Patient] Thanks, Doctor. I appreciate it."
+ACUTE UPPER RESPIRATORY INFECTION, UNSPECIFIED|"ROLE: Family Medicine Physician
+
+- Medical Outcome: Diagnosis of acute upper respiratory infection, unspecified; Prescribed symptomatic treatment including over-the-counter antihistamines; Advised increased fluid intake and rest; Recommended follow-up in case of worsening symptoms.
+- Medical History: Previous Diagnoses of seasonal allergies; Generally healthy with no chronic conditions.
+- Symptom Description: Mild to moderate severity, onset 3 days ago; Symptoms include congestion, runny nose, sore throat, sneezing, mild fever; Symptoms impact daily activities slightly.
+- Patient’s self-reported habits and lifestyle: Regular sleep patterns; Balanced diet; Moderate exercise routine; Non-smoker; No alcohol consumption; No drug use.
+- Demographic Information: 30-year-old male; Caucasian; Middle-class socio-economic status; College-educated; High health literacy; Works as a teacher.
+- Patient's Behavior: Highly cooperative with medical advice; expresses willingness to adhere to recommendations.
+- Geographical Location: Urban area in a mid-sized city; Residential neighborhood; Well-served by public transit; Access to local healthcare facilities.
+- Clinical Setting: Private practice clinic.
+- Type of Encounter: Initial Consultation.
+- Native or Non-Native English Speaking Patient: Native English speaker.
+- Physical Exams: ENT examination showing nasal congestion, pharyngeal erythema without exudate; Lungs clear on auscultation. 
+- Investigation/Test results: NA, as symptoms are consistent with a viral upper respiratory infection."|"**Subjective:**
+
+*Chief Complaint (CC):* The patient, a 30-year-old male, presents with complaints of congestion, runny nose, sore throat, sneezing, and a mild fever of 3 days duration.
+
+*History of Present Illness (HPI):* The patient reports the onset of mild to moderate symptoms consistent with an upper respiratory infection, beginning 3 days ago. He experiences nasal congestion, a runny nose, a sore throat, sneezing, and a mild fever. The symptoms have slightly impacted his daily activities, particularly his work as a teacher. He has a history of seasonal allergies but no other chronic medical conditions.
+
+*Review of Systems (ROS):* 
+- Constitutional: Reports mild fever, no chills or fatigue beyond expected.
+- ENT: Positive for congestion, runny nose, sore throat, and sneezing.
+- Respiratory: Denies cough, shortness of breath, or wheezing.
+- Other systems: Negative for gastrointestinal or genitourinary symptoms.
+
+**Objective:**
+
+*Vital Signs:* 
+- Temperature: Low-grade fever
+- Blood Pressure: Normal
+- Heart Rate: Normal
+
+*Physical Exam:*
+- ENT: Nasal examination reveals congestion; pharyngeal erythema noted without exudate.
+- Respiratory: Lungs are clear on auscultation; no wheezing or crackles detected.
+ 
+*Investigations:* No additional investigations were performed as the clinical presentation is consistent with a viral upper respiratory infection.
+
+**Assessment:**
+
+The patient is diagnosed with an acute upper respiratory infection, unspecified. Likely viral etiology given symptomatology and lack of significant findings on physical examination.
+
+**Plan:**
+
+1. *Symptomatic Treatment:* 
+   - Recommend over-the-counter antihistamines to alleviate congestion and sneezing.
+   - Advise the use of throat lozenges or warm salt water gargles for sore throat relief.
+
+2. *Lifestyle and Self-Care:*
+   - Encourage increased fluid intake to maintain hydration.
+   - Recommend rest to support recovery.
+
+3. *Follow-Up:*
+   - Advise returning to the clinic if symptoms worsen or do not improve within a week.
+   - Discuss the potential need for further evaluation if symptoms persist or new symptoms develop.
+
+4. *Patient Education:*
+   - Reassure the patient about the viral nature of the infection and expected recovery within 7-10 days.
+   - Highlight the importance of adhering to prescribed self-care measures and symptomatic relief options.
+
+The patient understands and agrees to follow the outlined plan. A handout on managing upper respiratory infections was provided for further reference."|"**Subjective:**
+
+*Chief Complaint (CC):* The patient, a 30-year-old male named John Smith, presents with complaints of congestion, runny nose, sore throat, sneezing, and a mild fever of 3 days duration.
+
+*History of Present Illness (HPI):* John reports the onset of mild to moderate symptoms consistent with an upper respiratory infection, beginning 3 days ago. He experiences nasal congestion, a runny nose, a sore throat, sneezing, and a mild fever. The symptoms have slightly impacted his daily activities, particularly his work as a teacher. He has a history of seasonal allergies but no other chronic medical conditions.
+
+*Review of Systems (ROS):* 
+- Constitutional: Reports mild fever, no chills or fatigue beyond expected.
+- ENT: Positive for congestion, runny nose, sore throat, and sneezing.
+- Respiratory: Denies cough, shortness of breath, or wheezing.
+- Other systems: Negative for gastrointestinal or genitourinary symptoms.
+
+**Objective:**
+
+*Vital Signs:* 
+- Temperature: Low-grade fever
+- Blood Pressure: Normal
+- Heart Rate: Normal
+
+*Physical Exam:*
+- ENT: Nasal examination reveals congestion; pharyngeal erythema noted without exudate.
+- Respiratory: Lungs are clear on auscultation; no wheezing or crackles detected.
+
+*Investigations:* No additional investigations were performed as the clinical presentation is consistent with a viral upper respiratory infection.
+
+**Assessment:**
+
+The patient is diagnosed with an acute upper respiratory infection, unspecified. Likely viral etiology given symptomatology and lack of significant findings on physical examination.
+
+**Plan:**
+
+1. *Symptomatic Treatment:* 
+   - Recommend over-the-counter antihistamines to alleviate congestion and sneezing.
+   - Advise the use of throat lozenges or warm salt water gargles for sore throat relief.
+
+2. *Lifestyle and Self-Care:*
+   - Encourage increased fluid intake to maintain hydration.
+   - Recommend rest to support recovery.
+
+3. *Follow-Up:*
+   - Advise returning to the clinic if symptoms worsen or do not improve within a week.
+   - Discuss the potential need for further evaluation if symptoms persist or new symptoms develop.
+
+4. *Patient Education:*
+   - Reassure the patient about the viral nature of the infection and expected recovery within 7-10 days.
+   - Highlight the importance of adhering to prescribed self-care measures and symptomatic relief options.
+
+The patient understands and agrees to follow the outlined plan. A handout on managing upper respiratory infections was provided for further reference."|ablation|Family Medicine Physician|"**Doctor:** Good morning! How can I help you today?
+
+**Patient:** Hi, doctor. I've not been feeling too well. I've got a runny nose, congestion, sore throat, and a bit of a fever.
+
+**Doctor:** I'm sorry to hear that. When did these symptoms start?
+
+**Patient:** It started about three days ago. It's been quite annoying, especially since I have to teach.
+
+**Doctor:** I understand. So, you've been experiencing congestion and a runny nose. Any sneezing or coughing?
+
+**Patient:** Yes, I've been sneezing quite a bit, but no coughing at all.
+
+**Doctor:** Okay, and you mentioned a fever. How high has it been?
+
+**Patient:** It's a mild fever, nothing too severe. Just enough to make me feel off.
+
+**Doctor:** And besides these symptoms, have you noticed any chills or fatigue?
+
+**Patient:** Not really. I feel a bit tired, but nothing beyond what I'd expect with a fever.
+
+**Doctor:** Alright. Do you have any other symptoms, like shortness of breath or wheezing?
+
+**Patient:** No, nothing like that. Breathing feels normal.
+
+**Doctor:** Good to hear. You mentioned you're a teacher. Has this affected your work much?
+
+**Patient:** Yes, it's been a bit difficult to teach with a sore throat and runny nose.
+
+**Doctor:** I can imagine. Do you have any known allergies or chronic conditions?
+
+**Patient:** I have seasonal allergies, but nothing else chronic.
+
+**Doctor:** Thank you for sharing that. Let's take a look at your vitals and do a quick exam. Your temperature shows a low-grade fever, which matches what you described. Blood pressure and heart rate are normal.
+
+**Patient:** That's a relief.
+
+**Doctor:** Now, let's check your nose and throat. I see some congestion in your nasal passages and a bit of redness in your throat, but no significant exudate.
+
+**Patient:** That sounds about right.
+
+**Doctor:** Listening to your lungs... They sound clear, which is a good sign. No wheezing or crackles.
+
+**Patient:** That's good to hear.
+
+**Doctor:** Based on your symptoms and the examination, it seems like an acute upper respiratory infection, likely viral.
+
+**Patient:** So, nothing too serious?
+
+**Doctor:** Exactly. It's quite common, especially this time of year. Let's discuss how we can manage your symptoms.
+
+**Patient:** Okay.
+
+**Doctor:** Over-the-counter antihistamines can help with the congestion and sneezing. For your sore throat, you might find relief with lozenges or warm salt water gargles.
+
+**Patient:** Alright, I can do that.
+
+**Doctor:** Also, make sure you're staying hydrated. Drink plenty of fluids and get some rest to help your body recover.
+
+**Patient:** I'll try to take it easy.
+
+**Doctor:** If your symptoms don't improve in about a week, or if they worsen, make sure to come back for a follow-up.
+
+**Patient:** Got it. Thank you.
+
+**Doctor:** It's important to monitor your symptoms. If new ones develop or if what you have doesn't get better, further evaluation might be necessary.
+
+**Patient:** I understand. I'll keep an eye on it.
+
+**Doctor:** Lastly, remember that this is likely viral, so it should resolve in 7-10 days. Stick to the self-care measures we talked about.
+
+**Patient:** That's comforting to know.
+
+**Doctor:** Great. I'll give you a handout on managing upper respiratory infections for more information.
+
+**Patient:** Thank you, Doctor. I appreciate all the help.
+
+**Doctor:** You're welcome. Feel better soon and take care!
+
+**Patient:** Thanks. I will."|"[doctor]: Good morning! How can I help you today?
+
+[patient]: Hi, doctor. I've not been feeling too well. I've got a runny nose, congestion, sore throat, and a bit of a fever.
+
+[doctor]: I'm sorry to hear that. When did these symptoms start?
+
+[patient]: It started about three days ago. It's been quite annoying, especially since I have to teach.
+
+[doctor]: I understand. So, you've been experiencing congestion and a runny nose. Any sneezing or coughing?
+
+[patient]: Yes, I've been sneezing quite a bit, but no coughing at all.
+
+[doctor]: Okay, and you mentioned a fever. How high has it been?
+
+[patient]: It's a mild fever, nothing too severe. Just enough to make me feel off.
+
+[doctor]: And besides these symptoms, have you noticed any chills or fatigue?
+
+[patient]: Not really. I feel a bit tired, but nothing beyond what I'd expect with a fever.
+
+[doctor]: Alright. Do you have any other symptoms, like shortness of breath or wheezing?
+
+[patient]: No, nothing like that. Breathing feels normal.
+
+[doctor]: Good to hear. You mentioned you're a teacher. Has this affected your work much?
+
+[patient]: Yes, it's been a bit difficult to teach with a sore throat and runny nose.
+
+[doctor]: I can imagine. Do you have any known allergies or chronic conditions?
+
+[patient]: I have seasonal allergies, but nothing else chronic.
+
+[doctor]: Thank you for sharing that. Let's take a look at your vitals and do a quick exam. Your temperature shows a low-grade fever, which matches what you described. Blood pressure and heart rate are normal.
+
+[patient]: That's a relief.
+
+[doctor]: Now, let's check your nose and throat. I see some congestion in your nasal passages and a bit of redness in your throat, but no significant exudate.
+
+[patient]: That sounds about right.
+
+[doctor]: Listening to your lungs... They sound clear, which is a good sign. No wheezing or crackles.
+
+[patient]: That's good to hear.
+
+[doctor]: Based on your symptoms and the examination, it seems like an acute upper respiratory infection, likely viral.
+
+[patient]: So, nothing too serious?
+
+[doctor]: Exactly. It's quite common, especially this time of year. Let's discuss how we can manage your symptoms.
+
+[patient]: Okay.
+
+[doctor]: Over-the-counter antihistamines can help with the congestion and sneezing. For your sore throat, you might find relief with lozenges or warm salt water gargles.
+
+[patient]: Alright, I can do that.
+
+[doctor]: Also, make sure you're staying hydrated. Drink plenty of fluids and get some rest to help your body recover.
+
+[patient]: I'll try to take it easy.
+
+[doctor]: If your symptoms don't improve in about a week, or if they worsen, make sure to come back for a follow-up.
+
+[patient]: Got it. Thank you.
+
+[doctor]: It's important to monitor your symptoms. If new ones develop or if what you have doesn't get better, further evaluation might be necessary.
+
+[patient]: I understand. I'll keep an eye on it.
+
+[doctor]: Lastly, remember that this is likely viral, so it should resolve in 7-10 days. Stick to the self-care measures we talked about.
+
+[patient]: That's comforting to know.
+
+[doctor]: Great. I'll give you a handout on managing upper respiratory infections for more information.
+
+[patient]: Thank you, Doctor. I appreciate all the help.
+
+[doctor]: You're welcome. Feel better soon and take care!
+
+[patient]: Thanks. I will."
+ACUTE UPPER RESPIRATORY INFECTION, UNSPECIFIED|"ROLE: General Physician
+
+**Medical Outcome:**
+- Diagnosis: Acute Upper Respiratory Infection, Unspecified
+- Prescribed treatment: Rest, increased fluid intake
+- Medication: Acetaminophen 500 mg orally every 6 hours as needed for fever and pain, quantity 20 tablets
+- Lifestyle change: Encourage smoking cessation
+- Follow-up recommendations: Return if symptoms worsen or do not improve in 10 days
+
+**Medical History:**
+- Previous Diagnoses: Seasonal allergies
+- Allergies: Penicillin
+- Chronic Conditions: Mild asthma
+
+**Symptom Description:**
+- Severity: Mild to moderate
+- Duration: 3 days
+- Associated Symptoms: Cough, runny nose, throat irritation, mild fever
+- Impact on Daily Activities: Difficulty concentrating at work due to nasal congestion and headache
+
+**Patient’s Self-Reported Habits and Lifestyle:**
+- Sleep: Sleeps approximately 6 hours per night, reports feeling fatigued
+- Diet: Balanced diet with occasional fast food
+- Exercise: Exercises 2-3 times per week
+- Tobacco Use: Smokes approximately 5 cigarettes per day
+- Alcohol Consumption: Social drinker, 1-2 drinks per week
+
+**Demographic Information:**
+- Age: 35
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle class
+- Job Status: Full-time office worker
+
+**Patient's Behavior:**
+- Moderately cooperative with medical advice
+
+**Geographical Location:**
+- Urban area in a big city
+- Neighborhood Type: Moderately affluent, well-served by transit
+
+**Clinical Setting:**
+- Primary Care Clinic
+
+**Type of Encounter:**
+- Initial Consultation
+
+**Investigation/Test results:**
+- NA
+
+**Native or Non-Native English Speaking Patient:**
+- Native English speaker
+
+**Physical exams:**
+- NA"|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+The patient, a 35-year-old Caucasian male, presents with symptoms indicative of an upper respiratory tract infection, including a cough, runny nose, throat irritation, and mild fever.
+
+**History of Present Illness (HPI):**  
+The patient reports experiencing these symptoms for the past three days. He describes the severity as mild to moderate, with difficulty concentrating at work due to nasal congestion and headache. He has a known history of seasonal allergies and mild asthma, which has been stable. The patient denies any significant increase in respiratory difficulty beyond the usual asthma symptoms.
+
+**Review of Systems (ROS):**  
+- Constitutional: Reports feeling fatigued, mild fever.  
+- Respiratory: Positive for cough, mild throat irritation, and nasal congestion. No wheezing reported.  
+- Cardiovascular: Negative for chest pain or palpitations.  
+- Gastrointestinal: Negative for nausea, vomiting, or abdominal pain.  
+- Musculoskeletal: Negative for joint pain or muscle aches.  
+
+**Social History:**  
+The patient reports smoking approximately 5 cigarettes per day and is a social drinker, consuming 1-2 drinks per week. He exercises 2-3 times per week and maintains a generally balanced diet with occasional consumption of fast food. He averages about 6 hours of sleep per night.
+
+**2. Objective:**
+
+**Physical Exam:**  
+- Vital Signs: Not provided in scenario.  
+- General: Alert and oriented, appears mildly fatigued.  
+- ENT: Nasal congestion and mild pharyngeal erythema noted.  
+- Respiratory: Clear to auscultation bilaterally, no wheezing or rhonchi.  
+- Cardiovascular: Regular rate and rhythm, no murmurs.  
+- Skin: No rashes or lesions.
+
+**3. Assessment:**
+
+Acute Upper Respiratory Infection, Unspecified.  
+- The presentation is consistent with a viral upper respiratory tract infection, likely exacerbated by his seasonal allergies and mild asthma.  
+
+**4. Plan:**
+
+- **Medication:** Acetaminophen 500 mg orally every 6 hours as needed for fever and pain, quantity 20 tablets.
+- **Lifestyle Recommendations:** Encourage patient smoking cessation to support respiratory health and overall well-being.
+- **Lifestyle Modifications:** Increase fluid intake and ensure adequate rest to aid recovery.
+- **Follow-up:** Advise the patient to return if symptoms worsen or if there is no improvement in 10 days.  
+- **Patient Education:** Discuss the importance of adhering to recommendations and smoking cessation, given his mild asthma and recent respiratory symptoms."|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+The patient, a 35-year-old Caucasian male named John Smith, presents with symptoms indicative of an upper respiratory tract infection, including a cough, runny nose, throat irritation, and mild fever.
+
+**History of Present Illness (HPI):**  
+John reports experiencing these symptoms for the past three days. He describes the severity as mild to moderate, with difficulty concentrating at work due to nasal congestion and headache. He has a known history of seasonal allergies and mild asthma, which has been stable. He denies any significant increase in respiratory difficulty beyond the usual asthma symptoms.
+
+**Review of Systems (ROS):**  
+- Constitutional: Reports feeling fatigued, mild fever.  
+- Respiratory: Positive for cough, mild throat irritation, and nasal congestion. No wheezing reported.  
+- Cardiovascular: Negative for chest pain or palpitations.  
+- Gastrointestinal: Negative for nausea, vomiting, or abdominal pain.  
+- Musculoskeletal: Negative for joint pain or muscle aches.  
+
+**Social History:**  
+John reports smoking approximately 5 cigarettes per day and is a social drinker, consuming 1-2 drinks per week. He exercises 2-3 times per week and maintains a generally balanced diet with occasional consumption of fast food. He averages about 6 hours of sleep per night.
+
+**2. Objective:**
+
+**Physical Exam:**  
+- Vital Signs: Not provided in scenario.  
+- General: Alert and oriented, appears mildly fatigued.  
+- ENT: Nasal congestion and mild pharyngeal erythema noted.  
+- Respiratory: Clear to auscultation bilaterally, no wheezing or rhonchi.  
+- Cardiovascular: Regular rate and rhythm, no murmurs.  
+- Skin: No rashes or lesions.
+
+**3. Assessment:**
+
+Acute Upper Respiratory Infection, Unspecified.  
+- The presentation is consistent with a viral upper respiratory tract infection, likely exacerbated by his seasonal allergies and mild asthma.  
+
+**4. Plan:**
+
+- **Medication:** Acetaminophen 500 mg orally every 6 hours as needed for fever and pain, quantity 20 tablets.
+- **Lifestyle Recommendations:** Encourage patient smoking cessation to support respiratory health and overall well-being.
+- **Lifestyle Modifications:** Increase fluid intake and ensure adequate rest to aid recovery.
+- **Follow-up:** Advise the patient to return if symptoms worsen or if there is no improvement in 10 days.  
+- **Patient Education:** Discuss the importance of adhering to recommendations and smoking cessation, given his mild asthma and recent respiratory symptoms."|ablation|General Physician|"**Doctor:** Hello there, how can I help you today?
+
+**Patient:** Hi doctor. I've been having a pretty rough time with a cough, runny nose, and some throat irritation.
+
+**Doctor:** I see. How long have you been experiencing these symptoms?
+
+**Patient:** It's been about three days now. It's really starting to get annoying, especially at work.
+
+**Doctor:** I can imagine. Would you say the severity is mild, moderate, or severe?
+
+**Patient:** I'd say mild to moderate. I can still function, but the nasal congestion is making it hard to concentrate. Plus, I've got this headache that won't go away.
+
+**Doctor:** Are you experiencing any fever?
+
+**Patient:** Yeah, it's mild. I feel a little warm and more tired than usual.
+
+**Doctor:** Do you have any history of respiratory issues, like asthma or allergies?
+
+**Patient:** Yes, I have seasonal allergies and mild asthma. But they haven't really flared up badly with these symptoms.
+
+**Doctor:** Have you noticed any significant increase in respiratory difficulty beyond your usual asthma symptoms?
+
+**Patient:** No, it’s just the usual stuff I deal with.
+
+**Doctor:** Okay, let's go through some more questions to get a clearer picture. Are you feeling any chest pain or palpitations?
+
+**Patient:** No, none of that.
+
+**Doctor:** How about nausea, vomiting, or abdominal pain?
+
+**Patient:** No, my stomach's been fine.
+
+**Doctor:** Any joint pain or muscle aches?
+
+**Patient:** Nope, nothing like that.
+
+**Doctor:** Let's talk a bit about your social habits. Do you smoke or drink?
+
+**Patient:** I smoke about 5 cigarettes a day and I'm a social drinker, maybe 1-2 drinks a week.
+
+**Doctor:** And what about your physical activity and diet?
+
+**Patient:** I try to exercise 2-3 times a week and eat a balanced diet, though I do have fast food occasionally.
+
+**Doctor:** How's your sleep been?
+
+**Patient:** Not great, I average about 6 hours a night.
+
+**Doctor:** Alright, let's have a look at you. I'm going to perform a quick physical exam. *[proceeds with exam]*
+
+**Doctor:** Your vital signs are normal. You do appear mildly fatigued. I see some nasal congestion and mild pharyngeal erythema, but your lungs are clear. Your heart has a regular rate and rhythm, and your skin looks fine without any rashes.
+
+**Patient:** That’s good to hear.
+
+**Doctor:** Based on your symptoms and exam, it seems like you have an acute upper respiratory infection, likely viral, which might be exacerbated by your seasonal allergies and asthma. 
+
+**Patient:** Oh, that makes sense.
+
+**Doctor:** I’ll recommend acetaminophen for the fever and pain. You can take 500 mg orally every 6 hours as needed. I'll give you a prescription for 20 tablets.
+
+**Patient:** Okay, thanks.
+
+**Doctor:** It’s also important to increase your fluid intake and make sure you’re getting enough rest.
+
+**Patient:** Yeah, I’ll try to do that.
+
+**Doctor:** Given your asthma and recent symptoms, I strongly encourage you to quit smoking. It’ll significantly improve your respiratory health.
+
+**Patient:** I know, I’ve been meaning to cut down.
+
+**Doctor:** It's crucial to take this step for your well-being. If your symptoms worsen or don't improve in 10 days, please come back for a follow-up.
+
+**Patient:** Alright, I’ll keep that in mind.
+
+**Doctor:** Do you have any questions about the treatment plan or anything else?
+
+**Patient:** No, I think that covers it. Thanks, doctor.
+
+**Doctor:** You're welcome. Take care and feel better soon.
+
+**Patient:** Thank you, I appreciate it."|"[doctor]: Hello there, how can I help you today?
+
+[patient]: Hi doctor. I've been having a pretty rough time with a cough, runny nose, and some throat irritation.
+
+[doctor]: I see. How long have you been experiencing these symptoms?
+
+[patient]: It's been about three days now. It's really starting to get annoying, especially at work.
+
+[doctor]: I can imagine. Would you say the severity is mild, moderate, or severe?
+
+[patient]: I'd say mild to moderate. I can still function, but the nasal congestion is making it hard to concentrate. Plus, I've got this headache that won't go away.
+
+[doctor]: Are you experiencing any fever?
+
+[patient]: Yeah, it's mild. I feel a little warm and more tired than usual.
+
+[doctor]: Do you have any history of respiratory issues, like asthma or allergies?
+
+[patient]: Yes, I have seasonal allergies and mild asthma. But they haven't really flared up badly with these symptoms.
+
+[doctor]: Have you noticed any significant increase in respiratory difficulty beyond your usual asthma symptoms?
+
+[patient]: No, it’s just the usual stuff I deal with.
+
+[doctor]: Okay, let's go through some more questions to get a clearer picture. Are you feeling any chest pain or palpitations?
+
+[patient]: No, none of that.
+
+[doctor]: How about nausea, vomiting, or abdominal pain?
+
+[patient]: No, my stomach's been fine.
+
+[doctor]: Any joint pain or muscle aches?
+
+[patient]: Nope, nothing like that.
+
+[doctor]: Let's talk a bit about your social habits. Do you smoke or drink?
+
+[patient]: I smoke about 5 cigarettes a day and I'm a social drinker, maybe 1-2 drinks a week.
+
+[doctor]: And what about your physical activity and diet?
+
+[patient]: I try to exercise 2-3 times a week and eat a balanced diet, though I do have fast food occasionally.
+
+[doctor]: How's your sleep been?
+
+[patient]: Not great, I average about 6 hours a night.
+
+[doctor]: Alright, let's have a look at you. I'm going to perform a quick physical exam. *[proceeds with exam]*
+
+[doctor]: Your vital signs are normal. You do appear mildly fatigued. I see some nasal congestion and mild pharyngeal erythema, but your lungs are clear. Your heart has a regular rate and rhythm, and your skin looks fine without any rashes.
+
+[patient]: That’s good to hear.
+
+[doctor]: Based on your symptoms and exam, it seems like you have an acute upper respiratory infection, likely viral, which might be exacerbated by your seasonal allergies and asthma. 
+
+[patient]: Oh, that makes sense.
+
+[doctor]: I’ll recommend acetaminophen for the fever and pain. You can take 500 mg orally every 6 hours as needed. I'll give you a prescription for 20 tablets.
+
+[patient]: Okay, thanks.
+
+[doctor]: It’s also important to increase your fluid intake and make sure you’re getting enough rest.
+
+[patient]: Yeah, I’ll try to do that.
+
+[doctor]: Given your asthma and recent symptoms, I strongly encourage you to quit smoking. It’ll significantly improve your respiratory health.
+
+[patient]: I know, I’ve been meaning to cut down.
+
+[doctor]: It's crucial to take this step for your well-being. If your symptoms worsen or don't improve in 10 days, please come back for a follow-up.
+
+[patient]: Alright, I’ll keep that in mind.
+
+[doctor]: Do you have any questions about the treatment plan or anything else?
+
+[patient]: No, I think that covers it. Thanks, doctor.
+
+[doctor]: You're welcome. Take care and feel better soon.
+
+[patient]: Thank you, I appreciate it."
+ACUTE UPPER RESPIRATORY INFECTION, UNSPECIFIED|"ROLE: Family Medicine Physician
+
+1) Medical Outcome: 
+   - Diagnosis: Acute Upper Respiratory Infection, unspecified
+   - Prescribed Treatment: Rest, hydration, and symptomatic relief with over-the-counter medications such as acetaminophen 500mg, orally every 6 hours as needed for fever and pain, for a duration of 5 days.
+   - Follow-up Recommendations: Follow up in 1 week if symptoms do not improve or worsen.
+   - Referral to further tests: NA
+   - Medication Adjustment: NA
+   - Lifestyle Change: Encourage increased water intake and adequate rest.
+
+2) Medical History:
+   - Previous Diagnoses: Seasonal allergies.
+   - Family Medical History: No significant family history of respiratory diseases.
+   - Medication History: Regular use of over-the-counter antihistamines.
+   - Allergies: None known.
+   - Chronic Conditions: None.
+
+3) Symptom Description:
+   - Severity: Mild to moderate.
+   - Duration: 3 days.
+   - Associated Symptoms: Sore throat, nasal congestion, mild cough.
+   - Frequency: Persistent since onset.
+   - Impact on Daily Activities: Mild difficulty with work and sleep due to nasal congestion and sore throat.
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Average 7 hours per night.
+   - Diet: Balanced diet, no specific restrictions.
+   - Exercise: Moderate exercise 3 times a week.
+   - Tobacco Use: Non-smoker.
+   - Alcohol Consumption: Occasionally, socially.
+   - Drug Use: Denies any.
+   - Recreational Activities: Gardening, reading.
+
+5) Demographic Information:
+   - Age: 29
+   - Gender: Female
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle-class
+   - Education Level: Bachelor's Degree
+   - Health Literacy: Good
+   - Job Status: Full-time administrative professional.
+
+6) Patient's Behavior:
+   - Highly cooperative and follows medical advice well.
+
+7) Geographical Location:
+   - Big City vs Small City: Urban
+   - Neighborhood Type: Affluent
+   - Well-served by Transit, no environmental health risks reported.
+
+8) Clinical Setting:
+   - Private Practice
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - None apparent; patient has access to quality healthcare and follows medical advice well.
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English speaker.
+
+12) Physical exams:
+   - Throat examination: Mild erythema observed, no exudate.
+   - Lung auscultation: Clear breath sounds, no wheezes or crackles.
+
+13) Investigation/Test results:
+   - NA (symptoms and patient history do not necessitate further testing at this time)"|"**1. Subjective:**
+
+**Chief Complaint (CC):** 
+Sore throat, nasal congestion, and mild cough persisting for 3 days.
+
+**History of Present Illness (HPI):** 
+The patient is a 29-year-old Caucasian female who presents with symptoms of sore throat, nasal congestion, and a mild cough for the past 3 days. Symptoms are mild to moderate in severity, persistent since onset, and are causing mild difficulty with work and sleep, particularly due to nasal congestion and sore throat.
+
+**Review of Systems (ROS):**
+- Constitutional: No fever or chills reported.
+- Ears, Nose, Throat: Reports sore throat and nasal congestion.
+- Respiratory: Reports a mild cough, denies shortness of breath or chest pain.
+
+**2. Objective:**
+
+**Vital Signs:** 
+- Temperature: Within normal limits
+- Heart rate: Regular
+
+**Physical Exam:**
+- Throat: Mild erythema observed, no exudate.
+- Lungs: Clear to auscultation, no wheezes or crackles noted.
+
+**3. Assessment:**
+
+- Acute Upper Respiratory Infection, unspecified
+- Known history of seasonal allergies, which could exacerbate symptoms.
+
+**4. Plan:**
+
+- Prescribed acetaminophen 500mg, orally every 6 hours as needed for fever and pain for 5 days.
+- Patient is advised to ensure rest and increase hydration to alleviate symptoms.
+- Over-the-counter antihistamines may be continued to manage seasonal allergies.
+- Discussed the importance of maintaining a balanced diet and adequate sleep to aid recovery.
+- Follow-up is recommended in 1 week if symptoms do not improve or worsen.
+- No referral for additional tests at this time as symptoms and history do not warrant further investigation. 
+
+The patient was cooperative and demonstrated understanding of the treatment plan, agreeing to follow the recommendations given. No apparent treatment disparities noted; the patient has good access to healthcare and follows medical advice well."|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Sore throat, nasal congestion, and mild cough persisting for 3 days.
+
+**History of Present Illness (HPI):**  
+The patient is a 29-year-old Caucasian female named Emily Johnson who presents with symptoms of sore throat, nasal congestion, and a mild cough for the past 3 days. Symptoms are mild to moderate in severity, persistent since onset, and are causing mild difficulty with work and sleep, particularly due to nasal congestion and sore throat.
+
+**Review of Systems (ROS):**  
+- Constitutional: No fever or chills reported.  
+- Ears, Nose, Throat: Reports sore throat and nasal congestion.  
+- Respiratory: Reports a mild cough, denies shortness of breath or chest pain.
+
+**2. Objective:**
+
+**Vital Signs:**  
+- Temperature: Within normal limits  
+- Heart rate: Regular
+
+**Physical Exam:**  
+- Throat: Mild erythema observed, no exudate.  
+- Lungs: Clear to auscultation, no wheezes or crackles noted.
+
+**3. Assessment:**
+
+- Acute Upper Respiratory Infection, unspecified  
+- Known history of seasonal allergies, which could exacerbate symptoms.
+
+**4. Plan:**
+
+- Prescribed acetaminophen 500mg, orally every 6 hours as needed for fever and pain for 5 days.  
+- Patient is advised to ensure rest and increase hydration to alleviate symptoms.  
+- Over-the-counter antihistamines may be continued to manage seasonal allergies.  
+- Discussed the importance of maintaining a balanced diet and adequate sleep to aid recovery.  
+- Follow-up is recommended in 1 week if symptoms do not improve or worsen.  
+- No referral for additional tests at this time as symptoms and history do not warrant further investigation. 
+
+The patient was cooperative and demonstrated understanding of the treatment plan, agreeing to follow the recommendations given. No apparent treatment disparities noted; the patient has good access to healthcare and follows medical advice well."|ablation|Family Medicine Physician|"**Doctor:** Hi there! How can I help you today?
+
+**Patient:** Hi, doctor. I've been having a sore throat, nasal congestion, and a mild cough for the past few days.
+
+**Doctor:** I'm sorry to hear that. How long have these symptoms been going on?
+
+**Patient:** It's been about 3 days now.
+
+**Doctor:** Okay, and would you say the symptoms are mild, moderate, or severe?
+
+**Patient:** I'd say they're mild to moderate. It's been pretty persistent since it started.
+
+**Doctor:** Alright. Is it causing any difficulty with your daily activities, like work or sleep?
+
+**Patient:** Yes, especially with the nasal congestion and the sore throat. It's been hard getting a good night's sleep.
+
+**Doctor:** I understand. Let's go through a quick review of systems. Have you experienced any fever or chills?
+
+**Patient:** No, I haven't had any fever or chills.
+
+**Doctor:** How about your ears, nose, and throat? You mentioned a sore throat and nasal congestion.
+
+**Patient:** Yes, that's right, just the sore throat and congestion.
+
+**Doctor:** And regarding your respiratory system, apart from the mild cough, are you experiencing any shortness of breath or chest pain?
+
+**Patient:** No, just the cough. No shortness of breath or chest pain.
+
+**Doctor:** Great. Thanks for that information. Let's move on to the physical exam. Your vital signs are within normal limits, and your heart rate is regular. Let me take a look at your throat. Hmm, I see mild erythema but no exudate.
+
+**Patient:** What does that mean?
+
+**Doctor:** It means there's some redness in your throat, but no pus or white patches, which is a good sign. Now, let's listen to your lungs. Please take a deep breath in and out. Your lungs are clear to auscultation, with no wheezes or crackles.
+
+**Patient:** That's good to hear.
+
+**Doctor:** Based on your symptoms and the examination, it looks like you have an acute upper respiratory infection, which is quite common. I see you also have a known history of seasonal allergies, which could be making the symptoms feel worse.
+
+**Patient:** Yes, my allergies do tend to act up during this time of year.
+
+**Doctor:** That makes sense. For your sore throat and any fever or pain, I'm going to prescribe you acetaminophen. You can take 500mg orally every 6 hours as needed for the next 5 days.
+
+**Patient:** Okay. 
+
+**Doctor:** Make sure to get plenty of rest and drink lots of fluids to help alleviate the symptoms. You can continue using over-the-counter antihistamines to manage your seasonal allergies.
+
+**Patient:** I will do that. Thank you.
+
+**Doctor:** It's also important to maintain a balanced diet and ensure you're getting adequate sleep to aid your recovery.
+
+**Patient:** I'll try my best.
+
+**Doctor:** If your symptoms don't improve or if they worsen, I recommend following up in a week. At this time, there's no need for additional tests as your symptoms and history don't warrant further investigation.
+
+**Patient:** Alright, I understand.
+
+**Doctor:** Do you have any other questions or concerns?
+
+**Patient:** No, I think that covers everything. Thank you for your help.
+
+**Doctor:** You're welcome. I'm glad to hear you understand the treatment plan and agree to follow the recommendations. Take care and feel better soon!
+
+**Patient:** Thank you, doctor. I'll do my best."|"[doctor]: Hi there! How can I help you today?
+
+[patient]: Hi, doctor. I've been having a sore throat, nasal congestion, and a mild cough for the past few days.
+
+[doctor]: I'm sorry to hear that. How long have these symptoms been going on?
+
+[patient]: It's been about 3 days now.
+
+[doctor]: Okay, and would you say the symptoms are mild, moderate, or severe?
+
+[patient]: I'd say they're mild to moderate. It's been pretty persistent since it started.
+
+[doctor]: Alright. Is it causing any difficulty with your daily activities, like work or sleep?
+
+[patient]: Yes, especially with the nasal congestion and the sore throat. It's been hard getting a good night's sleep.
+
+[doctor]: I understand. Let's go through a quick review of systems. Have you experienced any fever or chills?
+
+[patient]: No, I haven't had any fever or chills.
+
+[doctor]: How about your ears, nose, and throat? You mentioned a sore throat and nasal congestion.
+
+[patient]: Yes, that's right, just the sore throat and congestion.
+
+[doctor]: And regarding your respiratory system, apart from the mild cough, are you experiencing any shortness of breath or chest pain?
+
+[patient]: No, just the cough. No shortness of breath or chest pain.
+
+[doctor]: Great. Thanks for that information. Let's move on to the physical exam. Your vital signs are within normal limits, and your heart rate is regular. Let me take a look at your throat. Hmm, I see mild erythema but no exudate.
+
+[patient]: What does that mean?
+
+[doctor]: It means there's some redness in your throat, but no pus or white patches, which is a good sign. Now, let's listen to your lungs. Please take a deep breath in and out. Your lungs are clear to auscultation, with no wheezes or crackles.
+
+[patient]: That's good to hear.
+
+[doctor]: Based on your symptoms and the examination, it looks like you have an acute upper respiratory infection, which is quite common. I see you also have a known history of seasonal allergies, which could be making the symptoms feel worse.
+
+[patient]: Yes, my allergies do tend to act up during this time of year.
+
+[doctor]: That makes sense. For your sore throat and any fever or pain, I'm going to prescribe you acetaminophen. You can take 500mg orally every 6 hours as needed for the next 5 days.
+
+[patient]: Okay. 
+
+[doctor]: Make sure to get plenty of rest and drink lots of fluids to help alleviate the symptoms. You can continue using over-the-counter antihistamines to manage your seasonal allergies.
+
+[patient]: I will do that. Thank you.
+
+[doctor]: It's also important to maintain a balanced diet and ensure you're getting adequate sleep to aid your recovery.
+
+[patient]: I'll try my best.
+
+[doctor]: If your symptoms don't improve or if they worsen, I recommend following up in a week. At this time, there's no need for additional tests as your symptoms and history don't warrant further investigation.
+
+[patient]: Alright, I understand.
+
+[doctor]: Do you have any other questions or concerns?
+
+[patient]: No, I think that covers everything. Thank you for your help.
+
+[doctor]: You're welcome. I'm glad to hear you understand the treatment plan and agree to follow the recommendations. Take care and feel better soon!
+
+[patient]: Thank you, doctor. I'll do my best."
+ACUTE UPPER RESPIRATORY INFECTION, UNSPECIFIED|"ROLE: Family Medicine Physician
+
+1) Medical Outcome: Diagnosis of acute upper respiratory infection, unspecified; prescribed treatment includes rest and hydration, over-the-counter analgesics such as ibuprofen 200 mg orally every 6 hours as needed for pain, and nasal decongestants. Recommended follow-up if symptoms do not improve in 7 days. 
+
+2) Medical History: Previous diagnoses include seasonal allergic rhinitis; no chronic conditions; no medication allergies. 
+
+3) Symptom Description: Complaints of sore throat, runny nose, and mild cough; duration of symptoms is 3 days; severity moderate; increased fatigue; symptoms interfering slightly with daily activities such as work.
+
+4) Patient’s self-reported habits and lifestyle: Sleeps 6-7 hours per night; balanced diet with occasional fast food; exercises twice a week; no tobacco use; consumes alcohol socially, approximately 1-2 drinks per week.
+
+5) Demographic Information: 32-year-old female, Caucasian; middle-class; college-educated; moderate health literacy; works as a school teacher.
+
+6) Patient's Behavior: Highly cooperative with medical advice, expresses desire for quick recovery due to work responsibilities.
+
+7) Geographical Location: Urban setting in a medium-sized city; well-served by public transit; no significant pollution or environmental health risks; diverse, middle-income neighborhood.
+
+8) Clinical Setting: Private practice clinic.
+
+9) Type of Encounter: Initial consultation.
+
+10) Treatment Disparities: NA
+
+11) Native or Non-Native English Speaking Patient: Native English speaker.
+
+12) Physical exams: Performed oropharyngeal examination which shows slight erythema; nasal exam shows congestion.
+
+13) Investigation/Test results: NA (Given current symptoms, no immediate tests or imaging are conducted.)"|"**1. Subjective:**
+
+- **Chief Complaint (CC):** 
+  The patient presents with a sore throat, runny nose, and mild cough.
+
+- **History of Present Illness (HPI):** 
+  A 32-year-old Caucasian female reports experiencing moderate sore throat, runny nose, and mild cough for the past 3 days. She describes increased fatigue and notes that the symptoms are slightly interfering with her daily activities, particularly her job as a school teacher. The patient is keen on a quick recovery due to work commitments.
+
+- **Review of Systems (ROS):**
+  - **Constitutional:** Reports increased fatigue.
+  - **ENT:** Sore throat, runny nose.
+  - **Respiratory:** Mild cough.
+  - **General:** No fever, chills, or night sweats.
+
+- **Social History:** 
+  The patient maintains a balanced diet with occasional fast food, exercises twice a week, sleeps 6-7 hours per night, does not use tobacco, and consumes alcohol socially (1-2 drinks per week).
+
+**2. Objective:**
+
+- **Vital Signs:** 
+  - Temperature: Within normal limits.
+  - Blood Pressure: Not recorded.
+  - Heart Rate: Not recorded.
+
+- **Physical Examination:**
+  - **General:** The patient appears comfortable and in no acute distress.
+  - **Oropharyngeal Examination:** Slight erythema of the throat.
+  - **Nasal Examination:** Congestion noted.
+  - **Respiratory:** Clear to auscultation bilaterally, no wheezes or crackles.
+
+**3. Assessment:**
+
+- Diagnosis: Acute upper respiratory infection, unspecified.
+  - The presentation of sore throat, nasal congestion, and cough is consistent with an acute upper respiratory tract infection, likely viral in origin given the absence of fever and the typical course.
+
+**4. Plan:**
+
+1. **Symptom Management:**
+   - Advise rest and increased fluid intake.
+   - Recommend over-the-counter analgesics such as ibuprofen 200 mg orally every 6 hours as needed for pain.
+   - Suggest nasal decongestants to help alleviate congestion.
+
+2. **Patient Education and Counseling:**
+   - Educate on the nature of viral infections, emphasizing that antibiotics are not indicated.
+   - Encourage maintaining hydration and rest as key to recovery.
+   - Instruct that symptoms should improve within 7 days; if not, a follow-up appointment is advised.
+
+3. **Follow-Up:**
+   - Schedule follow-up if symptoms do not improve or worsen in 7 days.
+   - Remind the patient to return if she develops a high fever or experiences difficulty breathing.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan and is motivated to follow suggestions for a quick recovery."|"**1. Subjective:**
+
+- **Chief Complaint (CC):** 
+  The patient presents with a sore throat, runny nose, and mild cough.
+
+- **History of Present Illness (HPI):** 
+  A 32-year-old Caucasian female named Emily Johnson reports experiencing moderate sore throat, runny nose, and mild cough for the past 3 days. She describes increased fatigue and notes that the symptoms are slightly interfering with her daily activities, particularly her job as a school teacher. The patient is keen on a quick recovery due to work commitments.
+
+- **Review of Systems (ROS):**
+  - **Constitutional:** Reports increased fatigue.
+  - **ENT:** Sore throat, runny nose.
+  - **Respiratory:** Mild cough.
+  - **General:** No fever, chills, or night sweats.
+
+- **Social History:** 
+  The patient maintains a balanced diet with occasional fast food, exercises twice a week, sleeps 6-7 hours per night, does not use tobacco, and consumes alcohol socially (1-2 drinks per week).
+
+**2. Objective:**
+
+- **Vital Signs:** 
+  - Temperature: Within normal limits.
+  - Blood Pressure: Not recorded.
+  - Heart Rate: Not recorded.
+
+- **Physical Examination:**
+  - **General:** The patient appears comfortable and in no acute distress.
+  - **Oropharyngeal Examination:** Slight erythema of the throat.
+  - **Nasal Examination:** Congestion noted.
+  - **Respiratory:** Clear to auscultation bilaterally, no wheezes or crackles.
+
+**3. Assessment:**
+
+- Diagnosis: Acute upper respiratory infection, unspecified.
+  - The presentation of sore throat, nasal congestion, and cough is consistent with an acute upper respiratory tract infection, likely viral in origin given the absence of fever and the typical course.
+
+**4. Plan:**
+
+1. **Symptom Management:**
+   - Advise rest and increased fluid intake.
+   - Recommend over-the-counter analgesics such as ibuprofen 200 mg orally every 6 hours as needed for pain.
+   - Suggest nasal decongestants to help alleviate congestion.
+
+2. **Patient Education and Counseling:**
+   - Educate on the nature of viral infections, emphasizing that antibiotics are not indicated.
+   - Encourage maintaining hydration and rest as key to recovery.
+   - Instruct that symptoms should improve within 7 days; if not, a follow-up appointment is advised.
+
+3. **Follow-Up:**
+   - Schedule follow-up if symptoms do not improve or worsen in 7 days.
+   - Remind the patient to return if she develops a high fever or experiences difficulty breathing.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan and is motivated to follow suggestions for a quick recovery."|ablation|Family Medicine Physician|"**Doctor:** Hello, how are you feeling today?
+
+**Patient:** Hi, I'm not feeling the best. I've been dealing with a sore throat, runny nose, and a bit of a cough.
+
+**Doctor:** I'm sorry to hear that. How long have you been experiencing these symptoms?
+
+**Patient:** It's been about three days now. The sore throat is really bothering me, and the runny nose just won't stop. The cough is mild, but it's there.
+
+**Doctor:** Hmm, I see. How would you describe your sore throat? Is it moderate, or would you say it's more severe?
+
+**Patient:** I'd say it's moderate. It's not unbearable, but it's definitely uncomfortable.
+
+**Doctor:** And the runny nose, is it constant or does it come and go?
+
+**Patient:** It's pretty constant, to be honest. I'm always reaching for tissues.
+
+**Doctor:** I understand. Have you noticed any other symptoms like fever, chills, or night sweats?
+
+**Patient:** No, I haven't had any fever, chills, or night sweats, thankfully.
+
+**Doctor:** That's good to hear. How about fatigue? Have you been feeling more tired than usual?
+
+**Patient:** Yes, definitely. I've been feeling more fatigued, which is making it hard for me to keep up with my work. I'm a school teacher, so I need to recover quickly.
+
+**Doctor:** I can imagine how challenging that must be. Are these symptoms interfering with your daily activities?
+
+**Patient:** Yes, they are. Especially with my job, it's been a bit difficult.
+
+**Doctor:** Okay. Let's talk a little about your general health. Do you maintain a balanced diet?
+
+**Patient:** I try to eat a balanced diet, but I do have fast food occasionally.
+
+**Doctor:** And how about exercise? How often do you work out?
+
+**Patient:** I exercise about twice a week.
+
+**Doctor:** That's good. How's your sleep? Are you getting enough rest at night?
+
+**Patient:** I usually get about 6 to 7 hours of sleep a night.
+
+**Doctor:** Do you smoke or use tobacco products?
+
+**Patient:** No, I don't use tobacco at all.
+
+**Doctor:** How about alcohol? Do you drink socially?
+
+**Patient:** Yes, I do. Maybe 1 or 2 drinks a week.
+
+**Doctor:** Alright, thank you for sharing that. I’ll perform a quick examination now. Your temperature is within normal limits, which is good. Let me look at your throat.
+
+**Patient:** Okay.
+
+**Doctor:** I see some slight erythema, but nothing too concerning. Let's check your nasal passages.
+
+**Patient:** Sure.
+
+**Doctor:** There's some congestion noted, but your lungs sound clear upon auscultation. No wheezes or crackles, which is good.
+
+**Patient:** That's a relief.
+
+**Doctor:** Based on your symptoms and the examination, it seems like you're dealing with an acute upper respiratory infection, likely viral.
+
+**Patient:** So, it's not bacterial?
+
+**Doctor:** That's correct. Given the absence of fever and the typical course, it's most likely viral. Antibiotics won't be necessary.
+
+**Patient:** What should I do to feel better then?
+
+**Doctor:** I recommend plenty of rest and increased fluid intake. Over-the-counter analgesics like ibuprofen can help with any pain, and nasal decongestants might alleviate the congestion.
+
+**Patient:** Okay, I'll do that. How long will it take to recover?
+
+**Doctor:** Symptoms should improve within about 7 days. If they persist or worsen, you'll need to come back for a follow-up.
+
+**Patient:** Alright, sounds good.
+
+**Doctor:** And if you develop a high fever or have difficulty breathing, please return immediately.
+
+**Patient:** I understand. Thank you for the advice.
+
+**Doctor:** You're welcome. Do you have any questions or concerns about the plan?
+
+**Patient:** No, I think I got it. Thank you for your help.
+
+**Doctor:** Great. I'm glad we could discuss everything. Take care and feel better soon.
+
+**Patient:** Thank you, doctor. I appreciate it.
+
+**Doctor:** You're welcome. Have a good day and rest up!"|"[doctor]: Hello, how are you feeling today?
+
+[patient]: Hi, I'm not feeling the best. I've been dealing with a sore throat, runny nose, and a bit of a cough.
+
+[doctor]: I'm sorry to hear that. How long have you been experiencing these symptoms?
+
+[patient]: It's been about three days now. The sore throat is really bothering me, and the runny nose just won't stop. The cough is mild, but it's there.
+
+[doctor]: Hmm, I see. How would you describe your sore throat? Is it moderate, or would you say it's more severe?
+
+[patient]: I'd say it's moderate. It's not unbearable, but it's definitely uncomfortable.
+
+[doctor]: And the runny nose, is it constant or does it come and go?
+
+[patient]: It's pretty constant, to be honest. I'm always reaching for tissues.
+
+[doctor]: I understand. Have you noticed any other symptoms like fever, chills, or night sweats?
+
+[patient]: No, I haven't had any fever, chills, or night sweats, thankfully.
+
+[doctor]: That's good to hear. How about fatigue? Have you been feeling more tired than usual?
+
+[patient]: Yes, definitely. I've been feeling more fatigued, which is making it hard for me to keep up with my work. I'm a school teacher, so I need to recover quickly.
+
+[doctor]: I can imagine how challenging that must be. Are these symptoms interfering with your daily activities?
+
+[patient]: Yes, they are. Especially with my job, it's been a bit difficult.
+
+[doctor]: Okay. Let's talk a little about your general health. Do you maintain a balanced diet?
+
+[patient]: I try to eat a balanced diet, but I do have fast food occasionally.
+
+[doctor]: And how about exercise? How often do you work out?
+
+[patient]: I exercise about twice a week.
+
+[doctor]: That's good. How's your sleep? Are you getting enough rest at night?
+
+[patient]: I usually get about 6 to 7 hours of sleep a night.
+
+[doctor]: Do you smoke or use tobacco products?
+
+[patient]: No, I don't use tobacco at all.
+
+[doctor]: How about alcohol? Do you drink socially?
+
+[patient]: Yes, I do. Maybe 1 or 2 drinks a week.
+
+[doctor]: Alright, thank you for sharing that. I’ll perform a quick examination now. Your temperature is within normal limits, which is good. Let me look at your throat.
+
+[patient]: Okay.
+
+[doctor]: I see some slight erythema, but nothing too concerning. Let's check your nasal passages.
+
+[patient]: Sure.
+
+[doctor]: There's some congestion noted, but your lungs sound clear upon auscultation. No wheezes or crackles, which is good.
+
+[patient]: That's a relief.
+
+[doctor]: Based on your symptoms and the examination, it seems like you're dealing with an acute upper respiratory infection, likely viral.
+
+[patient]: So, it's not bacterial?
+
+[doctor]: That's correct. Given the absence of fever and the typical course, it's most likely viral. Antibiotics won't be necessary.
+
+[patient]: What should I do to feel better then?
+
+[doctor]: I recommend plenty of rest and increased fluid intake. Over-the-counter analgesics like ibuprofen can help with any pain, and nasal decongestants might alleviate the congestion.
+
+[patient]: Okay, I'll do that. How long will it take to recover?
+
+[doctor]: Symptoms should improve within about 7 days. If they persist or worsen, you'll need to come back for a follow-up.
+
+[patient]: Alright, sounds good.
+
+[doctor]: And if you develop a high fever or have difficulty breathing, please return immediately.
+
+[patient]: I understand. Thank you for the advice.
+
+[doctor]: You're welcome. Do you have any questions or concerns about the plan?
+
+[patient]: No, I think I got it. Thank you for your help.
+
+[doctor]: Great. I'm glad we could discuss everything. Take care and feel better soon.
+
+[patient]: Thank you, doctor. I appreciate it.
+
+[doctor]: You're welcome. Have a good day and rest up!"

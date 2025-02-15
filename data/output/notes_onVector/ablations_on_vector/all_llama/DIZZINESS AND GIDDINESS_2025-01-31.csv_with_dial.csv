@@ -1,0 +1,921 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+DIZZINESS AND GIDDINESS|"ROLE: Neurologist
+
+1. Medical Outcome: 
+   - Diagnosis: Dizziness and giddiness (ICD-10: R42)
+   - Prescribed treatment: Meclizine 25mg orally, once daily
+   - Follow-up recommendations: Schedule a follow-up appointment in 2 weeks to reassess symptoms
+   - Referral to specialists: Referral to an ENT specialist for further evaluation, Dr. Jane Smith
+   - Referral to further tests or imaging: Order for a CT scan of the head to rule out any underlying conditions, modality: CT scan, area of the body: Head
+   - Medication adjustment: None at this time
+   - Lifestyle change: Counseled to avoid heavy lifting, bending, or straining, and to get plenty of rest
+
+2. Medical History: 
+   - Previous Diagnoses: History of migraines, hypertension
+   - Family Medical History: Mother had a history of vertigo
+   - Medication History: Currently taking atenolol for hypertension
+   - Allergies: Allergic to penicillin
+   - Chronic Conditions: Hypertension
+
+3. Symptom Description: 
+   - Severity: 6/10
+   - Duration: 3 days
+   - Associated Symptoms: Nausea, vomiting
+   - Frequency: Constant
+   - Impact on Daily Activities: Significant, unable to work or perform daily activities
+
+4. Patient’s self-reported habits and lifestyle: 
+   - Sleep: 7 hours per night
+   - Diet: Balanced diet
+   - Exercise: Light exercise, 30 minutes, 3 times a week
+   - Tobacco Use: Non-smoker
+   - Alcohol Consumption: Occasional, 1-2 drinks per week
+
+5. Demographic Information: 
+   - Age: 45
+   - Gender: Female
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: Good understanding of health information
+   - Job Status: Working full-time
+
+6. Patient's Behavior: 
+   - Cooperative with medical advice
+
+7. Geographical Location: 
+   - Big City: Yes
+   - Pollution and Environmental Health Risks: Moderate
+   - Neighborhood Type: Affluent, well-served by transit
+
+8. Clinical Setting: 
+   - Hospitals: Not applicable
+   - Clinics: Yes, seen in a neurology clinic
+   - Telemedicine: Not applicable
+   - Community Health Services: Not applicable
+   - Urgent Care Centers: Not applicable
+   - Research Facilities: Not applicable
+   - School Health Services: Not applicable
+   - Private Practice: Yes
+   - Specialty Clinics: Neurology clinic
+
+9. Type of Encounter: 
+   - Initial Consultation: Yes
+
+10. Treatment Disparities: 
+    - None identified
+
+11. Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+12. Physical exams: 
+    - Neurological exam: Normal, except for nystagmus noted on physical exam
+
+13. Investigation/Test results: 
+    - Order for CT scan of the head to rule out any underlying conditions, results pending"|"**1. Subjective:**
+
+Since the result of rolling a dice is not provided, I will assume an odd result to break down this section into several sub-parts.
+
+*   **Chief Complaint (CC):** The patient presents with dizziness and giddiness, rating the severity as 6/10.
+*   **History of Present Illness (HPI):** The symptoms have been constant over the past 3 days, accompanied by nausea and vomiting, significantly impacting daily activities.
+*   **Review of Systems (ROS):** 
+    *   Cardiovascular: No chest pain or shortness of breath reported.
+    *   Neurological: Nausea, vomiting, and dizziness.
+    *   Gastrointestinal: Nausea and vomiting.
+
+**2. Objective:**
+
+*   **Vital Signs:** Not explicitly stated, but the patient is a 45-year-old female with a history of hypertension, currently taking atenolol.
+*   **Physical Examination Findings:** Normal neurological exam except for nystagmus noted on physical exam.
+*   **Test Results:** Order for CT scan of the head to rule out any underlying conditions, results pending.
+
+**3. Assessment:**
+
+*   **Diagnosis:** Dizziness and giddiness (ICD-10: R42).
+*   **Differential Diagnosis:** Given the patient's history of migraines and the presence of nystagmus, considerations could include vestibular disorders or central causes of dizziness, although these are not explicitly diagnosed here.
+
+**4. Plan:**
+
+*   **Treatment:** Meclizine 25mg orally, once daily, to alleviate dizziness.
+*   **Follow-up:** Schedule a follow-up appointment in 2 weeks to reassess symptoms.
+*   **Referral:** Referral to an ENT specialist, Dr. Jane Smith, for further evaluation.
+*   **Further Tests/Imaging:** CT scan of the head ordered to rule out underlying conditions.
+*   **Lifestyle Changes:** Counseled to avoid heavy lifting, bending, or straining, and to get plenty of rest."|"**1. Subjective:**
+The patient, Emily Wilson, presents with dizziness and giddiness, rating the severity as 6/10.
+The symptoms have been constant over the past 3 days, accompanied by nausea and vomiting, significantly impacting daily activities.
+    *   Cardiovascular: No chest pain or shortness of breath reported.
+    *   Neurological: Nausea, vomiting, and dizziness.
+    *   Gastrointestinal: Nausea and vomiting.
+
+**2. Objective:**
+The patient is a 45-year-old female with a history of hypertension, currently taking atenolol.
+Normal neurological exam except for nystagmus noted on physical exam.
+CT scan of the head was ordered to rule out any underlying conditions, but since the results are pending, it will be placed under the plan section for now.
+
+**3. Assessment:**
+Dizziness and giddiness (ICD-10: R42).
+Given the patient's history of migraines and the presence of nystagmus, considerations could include vestibular disorders or central causes of dizziness, although these are not explicitly diagnosed here.
+
+**4. Plan:**
+Meclizine 25mg orally, once daily, to alleviate dizziness.
+Schedule a follow-up appointment in 2 weeks to reassess symptoms.
+Referral to an ENT specialist, Dr. Jane Smith, for further evaluation of the patient's dizziness and giddiness.
+CT scan of the head to rule out underlying conditions.
+Counselled to avoid heavy lifting, bending, or straining, and to get plenty of rest."|ablation|Neurologist|"Doctor: Hi, thanks for coming in today. Can you tell me a little bit about what brings you here?
+Patient: Yeah, I've been feeling really dizzy and giddy for the past three days. It's been constant and it's really been impacting my daily activities. I'd say it's about a 6 out of 10 in terms of severity.
+Doctor: I see. Can you tell me more about when this started and if you've noticed anything else, like nausea or vomiting?
+Patient: Yeah, it started three days ago, and I have been feeling nauseous and vomiting too.
+Doctor: Okay, that's helpful to know. Have you experienced any chest pain or shortness of breath?
+Patient: No, none of that.
+Doctor: And have you noticed any neurological symptoms like numbness or tingling?
+Patient: No, just the dizziness and nausea.
+Doctor: Alright. And what about your gastrointestinal symptoms? Any abdominal pain or changes in bowel movements?
+Patient: Just the nausea and vomiting, like I mentioned.
+Doctor: Okay, got it. Can you tell me a bit about your medical history? Do you have any conditions that you're being treated for?
+Patient: Yeah, I have high blood pressure and I'm taking atenolol for it.
+Doctor: Okay, that's good to know. And have you had any surgeries or hospitalizations recently?
+Patient: No, nothing recently.
+Doctor: Alright. Now, I'm going to do a quick physical exam. Can you please lie down on the exam table?
+Patient: Okay.
+Doctor: Great. Now, I'm going to check your vitals. (pause) Everything looks good here. Now, let me check your neurological exam. (pause) Your reflexes are normal, but I do notice some nystagmus.
+Patient: What's that?
+Doctor: It's just a bit of an abnormal eye movement. It can be related to your dizziness. Now, I'm going to order a CT scan of your head to rule out any underlying conditions.
+Patient: Okay, that sounds good.
+Doctor: Yeah, it's just a precaution. Now, let me summarize what we've discussed so far. You're experiencing dizziness and giddiness, rating it 6 out of 10, with accompanying nausea and vomiting. You have a history of high blood pressure, and we've found some nystagmus on your physical exam.
+Patient: That's right.
+Doctor: And we're going to treat you with meclizine to help with the dizziness. I want you to take 25mg orally, once daily.
+Patient: Okay, got it.
+Doctor: And I want to see you back in two weeks to reassess your symptoms. In the meantime, I'm also going to refer you to an ENT specialist, Dr. Jane Smith, for further evaluation.
+Patient: Okay, sounds good.
+Doctor: Yeah, and just to be safe, I've ordered a CT scan of your head. We'll discuss the results when you come back in two weeks.
+Patient: Alright, sounds like a plan.
+Doctor: Great. And just one more thing, I want you to avoid any heavy lifting, bending, or straining, and make sure to get plenty of rest.
+Patient: Okay, will do.
+Doctor: Alright, that's all for today. I'll have my nurse come in with your prescription and scheduling information.
+Patient: Sounds good, thanks.
+Doctor: You're welcome. I'll see you in two weeks.
+Patient: Yeah, see you then.
+Doctor: Bye for now.
+Patient: Bye."|"[doctor]: Hi, thanks for coming in today. Can you tell me a little bit about what brings you here?
+         [patient]: Yeah, I've been feeling really dizzy and giddy for the past three days. It's been constant and it's really been impacting my daily activities. I'd say it's about a 6 out of 10 in terms of severity.
+         [doctor]: Hmm, okay. So, it's been three days, and you've been feeling this way the whole time?
+         [patient]: Yeah, it just started out of the blue.
+         [doctor]: Okay, got it. And can you tell me more about when this started and if you've noticed anything else, like nausea or vomiting?
+         [patient]: Yeah, it started three days ago, and I have been feeling nauseous and vomiting too.
+         [doctor]: Okay, that's helpful to know. Have you experienced any chest pain or shortness of breath?
+         [patient]: No, none of that.
+         [doctor]: Alright. And have you noticed any neurological symptoms like numbness or tingling?
+         [patient]: No, just the dizziness and nausea.
+         [doctor]: Okay, so just to confirm, you're not experiencing any chest pain, shortness of breath, numbness, or tingling?
+         [patient]: That's right.
+         [doctor]: Alright. And what about your gastrointestinal symptoms? Any abdominal pain or changes in bowel movements?
+         [patient]: Just the nausea and vomiting, like I mentioned.
+         [doctor]: Okay, got it. Can you tell me a bit about your medical history? Do you have any conditions that you're being treated for?
+         [patient]: Yeah, I have high blood pressure and I'm taking atenolol for it.
+         [doctor]: Okay, that's good to know. And have you had any surgeries or hospitalizations recently?
+         [patient]: No, nothing recently.
+         [doctor]: Alright. Now, I'm going to do a quick physical exam. Can you please lie down on the exam table?
+         [patient]: Okay.
+         [doctor]: Great. Now, I'm going to check your vitals. (pause) Everything looks good here. Now, let me check your neurological exam. (pause) Your reflexes are normal, but I do notice some nystagmus.
+         [patient]: What's that?
+         [doctor]: It's just a bit of an abnormal eye movement. It can be related to your dizziness. Now, I'm going to order a CT scan of your head to rule out any underlying conditions.
+         [patient]: Okay, that sounds good.
+         [doctor]: Yeah, it's just a precaution. Now, let me summarize what we've discussed so far. You're experiencing dizziness and giddiness, rating it 6 out of 10, with accompanying nausea and vomiting. You have a history of high blood pressure, and we've found some nystagmus on your physical exam.
+         [patient]: That's right.
+         [doctor]: And we're going to treat you with meclizine to help with the dizziness. I want you to take 25mg orally, once daily.
+         [patient]: Okay, got it.
+         [doctor]: And I want to see you back in two weeks to reassess your symptoms. In the meantime, I'm also going to refer you to an ENT specialist, Dr. Jane Smith, for further evaluation.
+         [patient]: Okay, sounds good.
+         [doctor]: Yeah, and just to be safe, I've ordered a CT scan of your head. We'll discuss the results when you come back in two weeks.
+         [patient]: Alright, sounds like a plan.
+         [doctor]: Great. And just one more thing, I want you to avoid any heavy lifting, bending, or straining, and make sure to get plenty of rest.
+         [patient]: Okay, will do.
+         [doctor]: Alright, that's all for today. I'll have my nurse come in with your prescription and scheduling information.
+         [patient]: Sounds good, thanks.
+         [doctor]: You're welcome. I'll see you in two weeks.
+         [patient]: Yeah, see you then.
+         [doctor]: Bye for now.
+         [patient]: Bye."
+DIZZINESS AND GIDDINESS|"ROLE: Neurologist
+
+1. Medical Outcome: 
+    - Diagnosis: Dizziness and Giddiness (R42)
+    - Prescribed Treatment: The patient is prescribed Meclizine 25mg, 1 tablet orally every 6 hours as needed for dizziness.
+    - Follow-up Recommendations: Follow-up appointment in 2 weeks to assess the effectiveness of the treatment.
+    - Referral to Specialists: Referral to an ENT specialist for further evaluation and management.
+    - Referral to further tests or imaging: Order for audiometry and electronystagmography (ENG) tests to rule out any vestibular issues.
+    - Medication Adjustment: The patient is advised to continue their current medication for hypertension and diabetes.
+    - Lifestyle Change: The patient is advised to reduce their caffeine and alcohol intake, and to increase their water consumption.
+
+2. Medical History: 
+    - Previous Diagnoses: Hypertension, Diabetes
+    - Family Medical History: Father had a history of migraines
+    - Medication History: Currently taking Amlodipine 5mg and Metformin 500mg
+    - Allergies: Penicillin
+    - Chronic Conditions: Hypertension, Diabetes
+
+3. Symptom Description: 
+    - Severity: Moderate
+    - Duration: 2 weeks
+    - Associated Symptoms: Nausea, Headache
+    - Frequency: Daily
+    - Impact on Daily Activities: The patient reports difficulty with balance and walking.
+
+4. Patient’s self-reported habits and lifestyle: 
+    - Sleep: 6 hours per night
+    - Diet: Balanced diet
+    - Exercise: Occasional walking
+    - Tobacco Use: Non-smoker
+    - Alcohol Consumption: Occasional
+
+5. Demographic Information: 
+    - Age: 55
+    - Gender: Female
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle-class
+    - Education Level: High school
+    - Health Literacy: Good
+    - Job Status: Retired
+
+6. Patient's Behavior: 
+    - The patient is cooperative with the treatment plan.
+
+7. Geographical Location: 
+    - Big City
+    - Urban area
+
+8. Clinical Setting: 
+    - Hospital outpatient department
+
+9. Type of Encounter: 
+    - Initial Consultation
+
+10. Treatment Disparities: 
+    - None
+
+11. Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+12. Physical exams: 
+    - Vital signs: BP 140/90, Pulse 80, Temp 98.6
+    - Neurological exam: Normal
+
+13. Investigation/Test results: 
+    - CBC and electrolytes: Pending
+    - Audiometry and ENG tests: Pending"|"## Step 1: Determine the format of the medical note.
+The medical note should be in the format of:
+1. Subjective: This section includes the patient's own description of their symptoms and complaints.
+2. Objective: This section includes observations and data gathered by the physician, such as vital signs, physical examination findings, and test results.
+3. Assessment: This section includes the physician's evaluation of the patient's condition, including a diagnosis or differential diagnosis.
+4. Plan: This section includes the physician's recommendations for treatment, management, and follow-up.
+
+## Step 2: Roll a dice to determine if the subjective section needs to be broken down into sub-parts.
+Since the dice roll result is not provided, we'll assume it's odd and break down the subjective section into sub-parts like Chief Complaint (CC), History of Present Illness (HPI), Review of Systems (ROS).
+
+## Step 3: Determine the Chief Complaint (CC).
+The patient's chief complaint is dizziness and giddiness.
+
+## Step 4: Determine the History of Present Illness (HPI).
+The patient reports that the dizziness started 2 weeks ago and has been experiencing nausea and headaches. The symptoms have been daily and have impacted their daily activities, particularly with balance and walking.
+
+## Step 5: Determine the Review of Systems (ROS).
+The patient reports no other significant symptoms outside of the neurological system.
+
+## Step 6: Determine the Objective section.
+The patient's vital signs are: BP 140/90, Pulse 80, Temp 98.6. The neurological exam is normal. CBC and electrolytes, audiometry, and ENG tests are pending.
+
+## Step 7: Determine the Assessment section.
+The patient is diagnosed with dizziness and giddiness. The patient has a history of hypertension and diabetes.
+
+## Step 8: Determine the Plan section.
+The patient is prescribed Meclizine 25mg, 1 tablet orally every 6 hours as needed for dizziness. The patient is advised to follow up in 2 weeks to assess the effectiveness of the treatment. The patient is referred to an ENT specialist for further evaluation and management. The patient is ordered to undergo audiometry and electronystagmography (ENG) tests to rule out any vestibular issues.
+
+The final answer is:
+
+**1. Subjective:**
+   - **Chief Complaint (CC):** Dizziness and giddiness.
+   - **History of Present Illness (HPI):** The patient is a 55-year-old female who presents to the clinic today for the evaluation of dizziness and giddiness. The onset of her symptoms began 2 weeks ago. She reports experiencing nausea and headaches. The symptoms have been daily and have impacted her daily activities, particularly with balance and walking.
+   - **Review of Systems (ROS):** The patient reports no other significant symptoms outside of the neurological system.
+
+**2. Objective:**
+   - **Vital Signs:** BP 140/90, Pulse 80, Temp 98.6.
+   - **Physical Exam:** Neurological exam is normal.
+   - **Test Results:** CBC and electrolytes, audiometry, and ENG tests are pending.
+
+**3. Assessment:**
+   - The patient is diagnosed with dizziness and giddiness (R42).
+   - The patient has a history of hypertension and diabetes.
+
+**4. Plan:**
+   - The patient is prescribed Meclizine 25mg, 1 tablet orally every 6 hours as needed for dizziness.
+   - The patient is advised to follow up in 2 weeks to assess the effectiveness of the treatment.
+   - The patient is referred to an ENT specialist for further evaluation and management.
+   - The patient is ordered to undergo audiometry and electronystagmography (ENG) tests to rule out any vestibular issues.
+   - The patient is advised to continue their current medication for hypertension and diabetes.
+   - The patient is advised to reduce their caffeine and alcohol intake, and to increase their water consumption."|"**1. Subjective:**
+   - **Chief Complaint (CC):** Dizziness and giddiness.
+   - **History of Present Illness (HPI):** The patient is a 55-year-old female who presents to the clinic today for the evaluation of dizziness and giddiness. The onset of her symptoms began 2 weeks ago. She reports experiencing nausea and headaches. The symptoms have been daily and have impacted her daily activities, particularly with balance and walking.
+   - **Review of Systems (ROS):** The patient reports no other significant symptoms outside of the neurological system.
+
+**2. Objective:**
+   - **Vital Signs:** BP 140/90, Pulse 80, Temp 98.6.
+   - **Physical Exam:** Neurological exam is normal.
+   - **Test Results:** CBC and electrolytes, audiometry, and ENG tests are pending.
+
+**3. Assessment:**
+   - The patient is diagnosed with dizziness and giddiness (R42).
+   - The patient has a history of hypertension and diabetes.
+
+**4. Plan:**
+   - The patient is prescribed Meclizine 25mg, 1 tablet orally every 6 hours as needed for dizziness.
+   - The patient is advised to follow up in 2 weeks to assess the effectiveness of the treatment.
+   - The patient is referred to Dr. Emily Chen, an ENT specialist, for further evaluation and management of her dizziness and giddiness.
+   - The patient is ordered to undergo audiometry and electronystagmography (ENG) tests to rule out any vestibular issues.
+   - The patient is advised to continue their current medication for hypertension and diabetes.
+   - The patient is advised to reduce their caffeine and alcohol intake, and to increase their water consumption."|ablation|Neurologist|"<rewritten_response> Doctor: Hi, how are you feeling today?
+Patient: I'm feeling a bit dizzy and lightheaded.
+Doctor: Can you tell me more about your symptoms? When did they start?
+Patient: It started about 2 weeks ago. I've been feeling dizzy and lightheaded, and sometimes I feel like I'm going to pass out.
+Doctor: Have you experienced any nausea or vomiting?
+Patient: Yes, I have. Sometimes I feel nauseous, especially in the morning.
+Doctor: Have you noticed any triggers that make your symptoms worse?
+Patient: Not really. It just seems to happen randomly.
+Doctor: Okay. Can you tell me about your medical history? Do you have any conditions that might be contributing to your symptoms?
+Patient: I have high blood pressure and diabetes.
+Doctor: Okay. Have you been taking your medication as prescribed?
+Patient: Yes, I have.
+Doctor: Good. And have you noticed any changes in your symptoms since you started taking your medication?
+Patient: No, not really.
+Doctor: Okay. I'm going to take a look at your vitals and do a physical exam. Can you please roll up your sleeve so I can take your blood pressure?
+Patient: Okay.
+Doctor: Your blood pressure is a bit high, 140/90. And your pulse is 80. I'm also going to take your temperature. Okay, it's 98.6.
+Patient: Okay.
+Doctor: Now, I'm going to do a neurological exam. Can you please follow my finger with your eyes?
+Patient: Okay.
+Doctor: Great. And can you please walk for me?
+Patient: Okay.
+Doctor: Okay, I think that's enough for now. I'm going to order some tests to help us figure out what's going on. We'll do a CBC, electrolytes, audiometry, and ENG tests.
+Patient: Okay.
+Doctor: And I'm going to prescribe you some medication to help with your dizziness. It's called Meclizine. You'll take 25mg, 1 tablet orally every 6 hours as needed.
+Patient: Okay, got it.
+Doctor: And I want you to follow up with me in 2 weeks to see how you're doing. In the meantime, I'm going to refer you to an ENT specialist to get their opinion on your symptoms.
+Patient: Okay, sounds good.
+Doctor: And one more thing, I want you to try to reduce your caffeine and alcohol intake, and increase your water consumption. Sometimes, dehydration can exacerbate dizziness.
+Patient: Okay, I'll try to do that.
+Doctor: Great. I think that's all for now. Do you have any questions for me?
+Patient: No, not really. Just one thing, what's an ENG test?
+Doctor: An ENG test is a test that checks the function of your vestibular system. It's basically a test that checks your balance.
+Patient: Okay, that makes sense.
+Doctor: Yes, it does. Well, I think that's all for now. You can go ahead and schedule your follow-up appointment and your tests. We'll get to the bottom of this soon."|"[doctor]: Hi, how are you feeling today?
+         [patient]: I'm feeling a bit dizzy and lightheaded.
+         [doctor]: Hmm, okay. Can you tell me more about your symptoms? When did they start?
+         [patient]: It started about 2 weeks ago. I've been feeling dizzy and lightheaded, and sometimes I feel like I'm going to pass out.
+         [doctor]: Yes, okay. Have you experienced any nausea or vomiting?
+         [patient]: Yes, I have. Sometimes I feel nauseous, especially in the morning.
+         [doctor]: Okay, I see. Have you noticed any triggers that make your symptoms worse?
+         [patient]: Not really. It just seems to happen randomly.
+         [doctor]: Okay. Can you tell me about your medical history? Do you have any conditions that might be contributing to your symptoms?
+         [patient]: I have high blood pressure and diabetes.
+         [doctor]: Okay. Have you been taking your medication as prescribed?
+         [patient]: Yes, I have.
+         [doctor]: Good. And have you noticed any changes in your symptoms since you started taking your medication?
+         [patient]: No, not really.
+         [doctor]: Okay. I'm going to take a look at your vitals and do a physical exam. Can you please roll up your sleeve so I can take your blood pressure?
+         [patient]: Okay.
+         [doctor]: Your blood pressure is a bit high, 140/90. And your pulse is 80. I'm also going to take your temperature. Okay, it's 98.6.
+         [patient]: Okay.
+         [doctor]: Now, I'm going to do a neurological exam. Can you please follow my finger with your eyes?
+         [patient]: Okay.
+         [doctor]: Great. And can you please walk for me?
+         [patient]: Okay.
+         [doctor]: Okay, I think that's enough for now. I'm going to order some tests to help us figure out what's going on. We'll do a CBC, electrolytes, audiometry, and ENG tests.
+         [patient]: Okay.
+         [doctor]: And I'm going to prescribe you some medication to help with your dizziness. It's called Meclizine. You'll take 25mg, 1 tablet orally every 6 hours as needed.
+         [patient]: Okay, got it.
+         [doctor]: And I want you to follow up with me in 2 weeks to see how you're doing. In the meantime, I'm going to refer you to an ENT specialist to get their opinion on your symptoms.
+         [patient]: Okay, sounds good.
+         [doctor]: And one more thing, I want you to try to reduce your caffeine and alcohol intake, and increase your water consumption. Sometimes, dehydration can exacerbate dizziness.
+         [patient]: Okay, I'll try to do that.
+         [doctor]: Great. I think that's all for now. Do you have any questions for me?
+         [patient]: No, not really. Just one thing, what's an ENG test?
+         [doctor]: An ENG test is a test that checks the function of your vestibular system. It's basically a test that checks your balance.
+         [patient]: Okay, that makes sense.
+         [doctor]: Yes, it does. Well, I think that's all for now. You can go ahead and schedule your follow-up appointment and your tests. We'll get to the bottom of this soon."
+DIZZINESS AND GIDDINESS|"ROLE: Neurologist
+
+* Medical Outcome: 
+  - Diagnosis: R42 - Dizziness and giddiness
+  - Prescribed treatment: Meclizine 25 mg by mouth daily for 7 days
+  - Follow-up recommendations: Return to clinic in 7 days for reassessment of symptoms
+  - Referral to specialists: Referral to ENT specialist, Dr. Smith, for further evaluation of vestibular function
+  - Referral to further tests or imaging: Order for Audiometry and Electronystagmography (ENG) to be done at Community Hospital
+  - Medication adjustment: Discontinue use of any over-the-counter sleep aids
+  - Lifestyle change: Avoid heavy caffeine and alcohol consumption, increase water intake
+
+* Medical History: 
+  - Previous Diagnoses: Migraines, Benign Paroxysmal Positional Vertigo
+  - Family Medical History: Mother had vertigo
+  - Medication History: Currently taking acetaminophen for headaches
+  - Allergies: Allergic to penicillin
+  - Chronic Conditions: Hypertension
+
+* Symptom Description: 
+  - Severity: Moderate
+  - Duration: 3 days
+  - Associated Symptoms: Nausea, Headache
+  - Frequency: Intermittent
+  - Impact on Daily Activities: Unable to work due to dizziness
+
+* Patient’s self-reported habits and lifestyle: 
+  - Sleep: 6 hours per night
+  - Diet: Low salt, occasional caffeine consumption
+  - Exercise: 30 minutes brisk walking, 3 times a week
+  - Tobacco Use: Non-smoker
+  - Alcohol Consumption: Social drinker
+  - Recreational Activities: Reading, watching TV
+
+* Demographic Information: 
+  - Age: 55
+  - Gender: Female
+  - Ethnicity: White
+  - Socio-economic Status: Middle class
+  - Education Level: College graduate
+  - Health Literacy: Good understanding of medical terms
+  - Job Status: Employed full-time
+
+* Patient's Behavior: 
+  - Cooperative with medical advice, eager to try new treatments
+
+* Geographical Location: 
+  - Big City
+  - Urban area
+  - Pollution and Environmental Health Risks: Low
+  - Neighborhood Type: Affluent, well-served by transit
+
+* Clinical Setting: 
+  - Private Practice
+
+* Type of Encounter: 
+  - Initial Consultation
+
+* Treatment Disparities: 
+  - Patient is insured, no concerns about ability to pay for treatment
+
+* Native or Non-Native English Speaking Patient: 
+  - Native English speaker
+
+* Physical exams: 
+  - Normal tympanic membranes, no signs of middle ear problems
+  - Normal cranial nerve examination
+  - Romberg test: Positive, indicating vestibular dysfunction
+
+* Investigation/Test results: 
+  -Awaiting results of Audiometry and Electronystagmography (ENG) tests
+  - Previous MRI of the head: Normal"|"## Step 1: Determine the sections of the medical note
+The medical note should be divided into four main sections: Subjective, Objective, Assessment, and Plan.
+
+
+## Step 2: Complete the Subjective section
+The Subjective section includes the patient's own description of their symptoms and complaints. Since the patient is experiencing dizziness and giddiness, this section should include the patient's description of these symptoms, including severity, duration, and associated symptoms.
+
+Subjective:
+The patient is a 55-year-old female who presents with a 3-day history of moderate dizziness and giddiness. She reports feeling nauseous and experiencing headaches. The dizziness is intermittent and has impacted her daily activities, making it difficult for her to work. She has a history of migraines and benign paroxysmal positional vertigo.
+
+
+## Step 3: Complete the Objective section
+The Objective section includes observations and data gathered by the physician, such as vital signs, physical examination findings, and test results.
+
+Objective:
+The patient's physical examination revealed normal tympanic membranes with no signs of middle ear problems. The cranial nerve examination was normal. The Romberg test was positive, indicating vestibular dysfunction. The patient's medical history includes hypertension, migraines, and benign paroxysmal positional vertigo. She is currently taking acetaminophen for headaches and is allergic to penicillin.
+
+
+## Step 4: Complete the Assessment section
+The Assessment section includes the physician's evaluation of the patient's condition, including a diagnosis or differential diagnosis.
+
+Assessment:
+The patient's symptoms and physical examination findings are consistent with a diagnosis of dizziness and giddiness (R42). The patient's history of benign paroxysmal positional vertigo and positive Romberg test support this diagnosis.
+
+
+## Step 5: Complete the Plan section
+The Plan section includes the physician's recommendations for treatment, management, and follow-up.
+
+Plan:
+The patient was prescribed Meclizine 25 mg by mouth daily for 7 days to help alleviate her symptoms. She was advised to avoid heavy caffeine and alcohol consumption and increase her water intake. The patient was referred to an ENT specialist, Dr. Smith, for further evaluation of vestibular function. An order was placed for Audiometry and Electronystagmography (ENG) tests to be done at Community Hospital. The patient was instructed to discontinue use of any over-the-counter sleep aids and return to the clinic in 7 days for reassessment of symptoms.
+
+
+The final answer is: 
+
+**1. Subjective:**
+The patient is a 55-year-old female who presents with a 3-day history of moderate dizziness and giddiness. She reports feeling nauseous and experiencing headaches. The dizziness is intermittent and has impacted her daily activities, making it difficult for her to work. She has a history of migraines and benign paroxysmal positional vertigo.
+
+**2. Objective:**
+The patient's physical examination revealed normal tympanic membranes with no signs of middle ear problems. The cranial nerve examination was normal. The Romberg test was positive, indicating vestibular dysfunction. The patient's medical history includes hypertension, migraines, and benign paroxysmal positional vertigo. She is currently taking acetaminophen for headaches and is allergic to penicillin.
+
+**3. Assessment:**
+The patient's symptoms and physical examination findings are consistent with a diagnosis of dizziness and giddiness (R42). The patient's history of benign paroxysmal positional vertigo and positive Romberg test support this diagnosis.
+
+**4. Plan:**
+The patient was prescribed Meclizine 25 mg by mouth daily for 7 days to help alleviate her symptoms. She was advised to avoid heavy caffeine and alcohol consumption and increase her water intake. The patient was referred to an ENT specialist, Dr. Smith, for further evaluation of vestibular function. An order was placed for Audiometry and Electronystagmography (ENG) tests to be done at Community Hospital. The patient was instructed to discontinue use of any over-the-counter sleep aids and return to the clinic in 7 days for reassessment of symptoms."|"**1. Subjective:**
+The patient is a 55-year-old female who presents with a 3-day history of moderate dizziness and giddiness. She reports feeling nauseous and experiencing headaches. The dizziness is intermittent and has impacted her daily activities, making it difficult for her to work. She has a history of migraines and benign paroxysmal positional vertigo.
+
+**2. Objective:**
+The patient's physical examination revealed normal tympanic membranes with no signs of middle ear problems. The cranial nerve examination was normal. The Romberg test was positive, indicating vestibular dysfunction. The patient's medical history includes hypertension, migraines, and benign paroxysmal positional vertigo. She is currently taking acetaminophen for headaches and is allergic to penicillin.
+
+**3. Assessment:**
+The patient's symptoms and physical examination findings are consistent with a diagnosis of dizziness and giddiness (R42). The patient's history of benign paroxysmal positional vertigo and positive Romberg test support this diagnosis.
+
+**4. Plan:**
+The patient was prescribed Meclizine 25 mg by mouth daily for 7 days to help alleviate her symptoms. She was advised to avoid heavy caffeine and alcohol consumption and increase her water intake. The patient was referred to an ENT specialist, Dr. Smith, for further evaluation of vestibular function. An order was placed for Audiometry and Electronystagmography (ENG) tests to be done at Community Hospital. The patient was instructed to discontinue use of any over-the-counter sleep aids and return to the clinic in 7 days for reassessment of symptoms."|ablation|Neurologist|"<hr>
+[Doctor]: Hi, can you tell me a little bit about what brings you in today?
+[Patient]: Hi... I'm experiencing some dizziness and giddiness. It started about 3 days ago and has been bothering me ever since.
+[Doctor]: I see. Can you describe the dizziness to me? Is it constant or does it come and go?
+[Patient]: It's intermittent. Sometimes I feel fine, and then suddenly I feel like I'm spinning.
+[Doctor]: Okay, I understand. Have you experienced any nausea or vomiting along with the dizziness?
+[Patient]: Yes, I have felt nauseous at times, and I've had some headaches too.
+[Doctor]: I see. Have you noticed any triggers that make the dizziness worse or better?
+[Patient]: Not really... I just try to take it easy and rest when it happens.
+[Doctor]: Okay. Can you tell me a bit about your medical history? Have you had any conditions in the past that might be related to this?
+[Patient]: Well, I have had migraines in the past, and I've been diagnosed with benign paroxysmal positional vertigo before.
+[Doctor]: Okay, that's helpful to know. Have you been taking any medications recently?
+[Patient]: Just acetaminophen for my headaches.
+[Doctor]: Alright. And are you allergic to any medications?
+[Patient]: Yes, I'm allergic to penicillin.
+[Doctor]: Okay, I'll make sure to note that down. Now, I'm going to do a physical examination. Can you please stand up and walk over to the examination table for me?
+[Patient]: Okay... (gets up and walks to the examination table)
+[Doctor]: Great, thank you. Now, can you please stand on one foot for me? (performs Romberg test)
+[Patient]: (stands on one foot, sways slightly) Whoa, this is harder than it looks!
+[Doctor]: (laughs) I know, right? Just try to focus on me and take your time. (pauses the test) Okay, you can step down now.
+[Patient]: (steps down) Wow, I feel a bit dizzy now.
+[Doctor]: That's okay, just sit down for a minute and catch your breath. (writes in chart) Okay, I think I've got a good idea of what might be going on here.
+[Patient]: So, what do you think it is?
+[Doctor]: Well, your symptoms and the physical examination findings are consistent with a diagnosis of dizziness and giddiness. I think we should do some further testing to confirm, but I'm pretty confident that's what we're dealing with.
+[Patient]: Okay... What kind of testing?
+[Doctor]: I'd like to order an Audiometry and Electronystagmography, or ENG, test to be done at Community Hospital. And I'd like you to see an ENT specialist, Dr. Smith, for further evaluation of your vestibular function.
+[Patient]: Okay, that sounds like a plan.
+[Doctor]: Yes, it is. And in the meantime, I'm going to prescribe you some Meclizine to help alleviate your symptoms. I want you to take 25 mg by mouth daily for 7 days.
+[Patient]: Okay, got it.
+[Doctor]: And I want you to avoid heavy caffeine and alcohol consumption and increase your water intake, okay?
+[Patient]: Okay, I can do that.
+[Doctor]: Great. And just one more thing - I want you to discontinue use of any over-the-counter sleep aids, okay?
+[Patient]: Okay, I wasn't taking any anyway.
+[Doctor]: Great. Now, I want you to come back and see me in 7 days for reassessment of your symptoms, okay?
+[Patient]: Sounds good. Thanks, Doctor.
+[Doctor]: You're welcome. I'll see you in 7 days then."|"[Doctor]: Hi, can you tell me a little bit about what brings you in today?
+[Patient]: Hi... I'm experiencing some dizziness and giddiness. It started about 3 days ago and has been bothering me ever since.
+[Doctor]: I see. Can you describe the dizziness to me? Is it constant or does it come and go?
+[Patient]: It's intermittent. Sometimes I feel fine, and then suddenly I feel like I'm spinning.
+[Doctor]: Okay, I understand. Have you experienced any nausea or vomiting along with the dizziness?
+[Patient]: Yes, I have felt nauseous at times, and I've had some headaches too.
+[Doctor]: I see. Have you noticed any triggers that make the dizziness worse or better?
+[Patient]: Not really... I just try to take it easy and rest when it happens.
+[Doctor]: Okay. Can you tell me a bit about your medical history? Have you had any conditions in the past that might be related to this?
+[Patient]: Well, I have had migraines in the past, and I've been diagnosed with benign paroxysmal positional vertigo before.
+[Doctor]: Okay, that's helpful to know. Have you been taking any medications recently?
+[Patient]: Just acetaminophen for my headaches.
+[Doctor]: Alright. And are you allergic to any medications?
+[Patient]: Yes, I'm allergic to penicillin.
+[Doctor]: Okay, I'll make sure to note that down. Now, I'm going to do a physical examination. Can you please stand up and walk over to the examination table for me?
+[Patient]: Okay... (gets up and walks to the examination table)
+[Doctor]: Great, thank you. Now, can you please stand on one foot for me? (performs Romberg test)
+[Patient]: (stands on one foot, sways slightly) Whoa, this is harder than it looks!
+[Doctor]: (laughs) I know, right? Just try to focus on me and take your time. (pauses the test) Okay, you can step down now.
+[Patient]: (steps down) Wow, I feel a bit dizzy now.
+[Doctor]: That's okay, just sit down for a minute and catch your breath. (writes in chart) Okay, I think I've got a good idea of what might be going on here.
+[Patient]: So, what do you think it is?
+[Doctor]: Well, your symptoms and the physical examination findings are consistent with a diagnosis of dizziness and giddiness. I think we should do some further testing to confirm, but I'm pretty confident that's what we're dealing with.
+[Patient]: Okay... What kind of testing?
+[Doctor]: I'd like to order an Audiometry and Electronystagmography, or ENG, test to be done at Community Hospital. And I'd like you to see an ENT specialist, Dr. Smith, for further evaluation of your vestibular function.
+[Patient]: Okay, that sounds like a plan.
+[Doctor]: Yes, it is. And in the meantime, I'm going to prescribe you some Meclizine to help alleviate your symptoms. I want you to take 25 mg by mouth daily for 7 days.
+[Patient]: Okay, got it.
+[Doctor]: And I want you to avoid heavy caffeine and alcohol consumption and increase your water intake, okay?
+[Patient]: Okay, I can do that.
+[Doctor]: Great. And just one more thing - I want you to discontinue use of any over-the-counter sleep aids, okay?
+[Patient]: Okay, I wasn't taking any anyway.
+[Doctor]: Great. Now, I want you to come back and see me in 7 days for reassessment of your symptoms, okay?
+[Patient]: Sounds good. Thanks, Doctor.
+[Doctor]: You're welcome. I'll see you in 7 days then."
+DIZZINESS AND GIDDINESS|"ROLE: Neurologist 
+
+* Medical Outcome: Diagnosis of benign paroxysmal positional vertigo, prescribed treatment with vestibular rehabilitation therapy, follow-up recommendations in 2 weeks, referral to an ear, nose, and throat (ENT) specialist for further evaluation.
+* Medical History: Previous diagnosis of migraines, family medical history of vertigo, medication history of meclizine for motion sickness, allergies to penicillin.
+* Symptom Description: Severity of dizziness is 7/10, duration of 3 days, associated symptoms of nausea and vomiting, frequency of episodes is 2-3 times a day, impact on daily activities is significant as patient is having trouble walking and performing daily tasks.
+* Patient’s self-reported habits and lifestyle: Sleep 7-8 hours a night, diet is balanced with no recent changes, exercise is minimal due to dizziness, tobacco use is none, alcohol consumption is social, and recreational activities are limited due to symptoms.
+* Demographic Information: Age 42, female, ethnicity is Caucasian, socio-economic status is middle class, education level is college, health literacy is good, job status is employed but on sick leave.
+* Patient's Behavior: Patient is cooperative with medical advice but anxious about her condition.
+* Geographical Location: Lives in a suburban area with moderate pollution, neighborhood is well-served by public transit.
+* Clinical Setting: Outpatient neurology clinic.
+* Type of Encounter: Initial consultation.
+* Treatment Disparities: None noted.
+* Native or Non-Native English Speaking Patient: Native English speaker.
+* Physical exams: Otoscopy and electronystagmography (ENG) tests are ordered.
+* Investigation/Test results: MRI of the brain is ordered to rule out any central causes of vertigo, and the results are pending. Electronystagmography (ENG) test results show abnormal findings consistent with benign paroxysmal positional vertigo."|"## Step 1: Determine the format of the medical note
+The medical note should be in the following format: 
+1. Subjective: This section includes the patient's own description of their symptoms and complaints.
+2. Objective: This section includes observations and data gathered by the physician, such as vital signs, physical examination findings, and test results.
+3. Assessment: This section includes the physician's evaluation of the patient's condition, including a diagnosis or differential diagnosis.
+4. Plan: This section includes the physician's recommendations for treatment, management, and follow-up.
+
+
+## Step 2: Break down the subjective section into sub-parts if necessary
+Since the role is a Neurologist and the patient has a complex condition, we will break down the subjective section. The subjective section will be broken down into:
+- Chief Complaint (CC)
+- History of Present Illness (HPI)
+- Review of Systems (ROS)
+
+
+## Step 3: Write the Chief Complaint (CC) section
+The patient is a 42-year-old female presenting with a chief complaint of dizziness, which she rates as 7/10 in severity, lasting for 3 days, and occurring 2-3 times a day. The dizziness is associated with nausea and vomiting and significantly impacts her daily activities, making it difficult for her to walk and perform daily tasks.
+
+
+## Step 4: Write the History of Present Illness (HPI) section
+The patient reports that her symptoms started 3 days ago, and she has been experiencing dizziness, nausea, and vomiting since then. She has a history of migraines and a family history of vertigo. She has been taking meclizine for motion sickness and is allergic to penicillin. The patient also reports that she sleeps 7-8 hours a night, has a balanced diet, exercises minimally due to dizziness, does not use tobacco, consumes alcohol socially, and has limited recreational activities due to her symptoms.
+
+
+## Step 5: Write the Review of Systems (ROS) section
+The patient denies any recent changes in her diet, sleep patterns, or exercise routine. She reports no recent travel or exposure to anyone sick. The patient is cooperative with medical advice but is anxious about her condition.
+
+
+## Step 6: Write the Objective section
+The patient's vital signs are within normal limits. An otoscopy and electronystagmography (ENG) test are ordered. The ENG test results show abnormal findings consistent with benign paroxysmal positional vertigo. An MRI of the brain is ordered to rule out any central causes of vertigo, and the results are pending.
+
+
+## Step 7: Write the Assessment section
+The patient is diagnosed with benign paroxysmal positional vertigo. The diagnosis is based on the patient's symptoms and the abnormal findings on the ENG test.
+
+
+## Step 8: Write the Plan section
+The patient is prescribed treatment with vestibular rehabilitation therapy. A follow-up appointment is scheduled in 2 weeks to reassess the patient's condition. The patient is referred to an ear, nose, and throat (ENT) specialist for further evaluation.
+
+
+The final answer is: 
+
+**1. Subjective:**
+- **Chief Complaint (CC):** Dizziness
+- **History of Present Illness (HPI):** The patient is a 42-year-old female presenting with a chief complaint of dizziness, which she rates as 7/10 in severity, lasting for 3 days, and occurring 2-3 times a day. The dizziness is associated with nausea and vomiting and significantly impacts her daily activities, making it difficult for her to walk and perform daily tasks. She has a history of migraines and a family history of vertigo. She has been taking meclizine for motion sickness and is allergic to penicillin.
+- **Review of Systems (ROS):** The patient denies any recent changes in her diet, sleep patterns, or exercise routine. She reports no recent travel or exposure to anyone sick. The patient is cooperative with medical advice but is anxious about her condition.
+
+**2. Objective:**
+- The patient's vital signs are within normal limits. An otoscopy and electronystagmography (ENG) test are ordered. The ENG test results show abnormal findings consistent with benign paroxysmal positional vertigo. An MRI of the brain is ordered to rule out any central causes of vertigo, and the results are pending.
+
+**3. Assessment:**
+- The patient is diagnosed with benign paroxysmal positional vertigo. The diagnosis is based on the patient's symptoms and the abnormal findings on the ENG test.
+
+**4. Plan:**
+- The patient is prescribed treatment with vestibular rehabilitation therapy. A follow-up appointment is scheduled in 2 weeks to reassess the patient's condition. The patient is referred to an ear, nose, and throat (ENT) specialist for further evaluation."|"**1. Subjective:**
+- **Chief Complaint (CC):** Dizziness
+- **History of Present Illness (HPI):** The patient is a 42-year-old female presenting with a chief complaint of dizziness, which she rates as 7/10 in severity, lasting for 3 days, and occurring 2-3 times a day. The dizziness is associated with nausea and vomiting and significantly impacts her daily activities, making it difficult for her to walk and perform daily tasks. She has a history of migraines and a family history of vertigo. She has been taking meclizine for motion sickness and is allergic to penicillin.
+- **Review of Systems (ROS):** The patient denies any recent changes in her diet, sleep patterns, or exercise routine. She reports no recent travel or exposure to anyone sick. The patient is cooperative with medical advice but is anxious about her condition.
+
+**2. Objective:**
+- The patient's vital signs are within normal limits. An otoscopy and electronystagmography (ENG) test are ordered. The ENG test results show abnormal findings consistent with benign paroxysmal positional vertigo. An MRI of the brain is ordered to rule out any central causes of vertigo, and the results are pending.
+
+**3. Assessment:**
+- The patient is diagnosed with benign paroxysmal positional vertigo. The diagnosis is based on the patient's symptoms and the abnormal findings on the ENG test.
+
+**4. Plan:**
+- The patient is prescribed treatment with vestibular rehabilitation therapy. A follow-up appointment is scheduled in 2 weeks to reassess the patient's condition. The patient is referred to an ear, nose, and throat (ENT) specialist for further evaluation."|ablation|Neurologist |"<rewritten_response> Here is the conversation between the doctor and the patient that led to the medical note:
+
+Doctor: Good morning! Can you please tell me what brings you here today?
+Patient: Good morning, doctor. I've been experiencing dizziness for the past 3 days, and it's been really impacting my daily activities.
+Doctor: I see. Can you describe the dizziness to me? Is it constant or does it come and go?
+Patient: It's not constant, but it happens 2-3 times a day. It's like the room is spinning, and I feel nausea and vomiting.
+Doctor: I understand. Have you experienced anything like this before?
+Patient: Yes, I have a history of migraines, and my family has a history of vertigo.
+Doctor: Okay, that's helpful to know. Have you been taking any medications or supplements recently?
+Patient: I've been taking meclizine for motion sickness, and I'm allergic to penicillin.
+Doctor: Alright. Let's take a look at your medical history. Can you tell me about your sleep patterns, diet, and exercise routine?
+Patient: I sleep 7-8 hours a night, have a balanced diet, and exercise minimally due to the dizziness.
+Doctor: Okay, that's good. Have you traveled recently or been exposed to anyone who's been sick?
+Patient: No, I haven't traveled recently, and I haven't been around anyone who's been sick.
+Doctor: Alright. I'm going to order some tests to help us figure out what's going on. We'll do an otoscopy and an electronystagmography (ENG) test.
+Patient: Okay, what's that going to show?
+Doctor: The ENG test will help us see if there's any abnormality in your inner ear that could be causing your dizziness.
+Patient: Okay, that makes sense.
+Doctor: And we'll also order an MRI of your brain to rule out any central causes of vertigo.
+Patient: Alright, that sounds like a good plan.
+Doctor: Great! I'll go ahead and order those tests. In the meantime, I want you to start vestibular rehabilitation therapy to help with your dizziness.
+Patient: Okay, that sounds good. What's the next step?
+Doctor: We'll schedule a follow-up appointment in 2 weeks to reassess your condition and see how you're doing with the therapy. And I'll also refer you to an ear, nose, and throat (ENT) specialist for further evaluation.
+Patient: Alright, that sounds like a good plan. Thank you, doctor!"|"[doctor]: Good morning! Can you please tell me what brings you here today?
+[patient]: Good morning, doctor. I've been experiencing dizziness for the past 3 days, and it's been really impacting my daily activities.
+[doctor]: Hmm, okay. Can you describe the dizziness to me? Is it constant or does it come and go?
+[patient]: It's not constant, but it happens 2-3 times a day. It's like the room is spinning, and I feel nausea and vomiting.
+[doctor]: Yes, okay. Have you experienced anything like this before?
+[patient]: Yeah, I have a history of migraines, and my family has a history of vertigo.
+[doctor]: Alright, that's helpful to know. Have you been taking any medications or supplements recently?
+[patient]: Yeah, I've been taking meclizine for motion sickness, and I'm allergic to penicillin.
+[doctor]: Okay, got it. Let's take a look at your medical history. Can you tell me about your sleep patterns, diet, and exercise routine?
+[patient]: I sleep 7-8 hours a night, have a balanced diet, and exercise minimally due to the dizziness.
+[doctor]: Okay, that's good. Have you traveled recently or been exposed to anyone who's been sick?
+[patient]: No, I haven't traveled recently, and I haven't been around anyone who's been sick.
+[doctor]: Alright. I'm going to order some tests to help us figure out what's going on. We'll do an otoscopy and an electronystagmography (ENG) test.
+[patient]: Okay, what's that going to show?
+[doctor]: The ENG test will help us see if there's any abnormality in your inner ear that could be causing your dizziness. Okay?
+[patient]: Yeah, that makes sense.
+[doctor]: And we'll also order an MRI of your brain to rule out any central causes of vertigo.
+[patient]: Alright, that sounds like a good plan.
+[doctor]: Great! I'll go ahead and order those tests. In the meantime, I want you to start vestibular rehabilitation therapy to help with your dizziness.
+[patient]: Okay, that sounds good. What's the next step?
+[doctor]: We'll schedule a follow-up appointment in 2 weeks to reassess your condition and see how you're doing with the therapy. And I'll also refer you to an ear, nose, and throat (ENT) specialist for further evaluation.
+[patient]: Alright, that sounds like a good plan. Thank you, doctor!"
+DIZZINESS AND GIDDINESS|"ROLE: Neurologist
+
+* Medical Outcome: 
+    - Diagnosis: Dizziness and Giddiness (R42)
+    - Prescribed treatment: Meclizine (Antivert) 25mg orally, once daily for 2 weeks
+    - Follow-up recommendations: Follow-up appointment in 2 weeks to assess symptom improvement
+    - Referral to specialists: Referral to an Ear, Nose, and Throat (ENT) specialist for further evaluation if symptoms persist
+    - Referral to further tests or imaging: Order for Electronystagmography (ENG) to assess vestibular function
+    - Medication adjustment: None at this time
+    - Lifestyle change: Recommendation to increase water intake and reduce caffeine consumption
+
+* Medical History: 
+    - Previous Diagnoses: Hypertension
+    - Family Medical History: Mother had benign paroxysmal positional vertigo
+    - Medication History: Currently taking Amlodipine for hypertension
+    - Allergies: None known
+    - Chronic Conditions: Hypertension
+
+* Symptom Description: 
+    - Severity: Moderate
+    - Duration: 3 days
+    - Associated Symptoms: Nausea, headache
+    - Frequency: Constant
+    - Impact on Daily Activities: Difficulty with balance and walking
+
+* Patient’s self-reported habits and lifestyle: 
+    - Sleep: 6-7 hours per night
+    - Diet: Average salt intake, occasional alcohol consumption
+    - Exercise: Light physical activity, 2-3 times a week
+    - Tobacco Use: Non-smoker
+    - Alcohol Consumption: Occasional
+
+* Demographic Information: 
+    - Age: 55
+    - Gender: Female
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: College graduate
+    - Health Literacy: Good understanding of health information
+    - Job Status: Employed full-time
+
+* Patient's Behavior: 
+    - Cooperative with medical advice
+
+* Geographical Location: 
+    - Urban area
+    - Access to public transportation
+
+* Clinical Setting: 
+    - Outpatient clinic
+
+* Type of Encounter: 
+    - Initial consultation
+
+* Treatment Disparities: 
+    - None identified
+
+* Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+* Physical exams: 
+    - Vital signs: BP 130/80 mmHg, HR 80 bpm, Temperature 37.2°C
+    - Neurological examination: Normal cognitive function, mild imbalance noted on Romberg test
+
+* Investigation/Test results: 
+    - ENG results pending"|"**1. Subjective:**
+
+Since the roll of the dice resulted in an odd number, this part will be broken down into several sub-parts.
+
+* **Chief Complaint (CC):** 
+    The patient, a 55-year-old Caucasian female, presents with a chief complaint of dizziness and giddiness that has been persistent for the past 3 days.
+
+* **History of Present Illness (HPI):** 
+    The patient reports that her symptoms started 3 days ago without any specific incident or trauma. She describes her dizziness as moderate, constant, and accompanied by nausea and headaches. The symptoms have significantly impacted her daily activities, causing difficulty with balance and walking. She has not experienced any recent travel or changes in her environment.
+
+* **Review of Systems (ROS):** 
+    The patient denies any fever, chest pain, or shortness of breath. She reports an average salt intake and occasional alcohol consumption. Her review of systems is otherwise unremarkable except for the neurological symptoms already described.
+
+* **Medical History:** 
+    The patient has a history of hypertension for which she is currently taking Amlodipine. Her mother had benign paroxysmal positional vertigo. She has no known allergies and is not taking any other medications besides Amlodipine.
+
+* **Social History:** 
+    The patient works full-time and is a non-smoker with occasional alcohol consumption. She sleeps 6-7 hours per night and engages in light physical activity 2-3 times a week.
+
+         **2. Objective:**
+
+* **Vital Signs:** 
+    Blood Pressure: 130/80 mmHg, Heart Rate: 80 bpm, Temperature: 37.2°C.
+
+* **Physical Examination:** 
+    The neurological examination showed normal cognitive function, but a mild imbalance was noted on the Romberg test. The rest of the physical examination was unremarkable.
+
+* **Investigation/Test Results:** 
+    The results of the Electronystagmography (ENG) are pending. The patient is currently awaiting these results to further assess vestibular function.
+
+         **3. Assessment:**
+
+Based on the patient's symptoms of dizziness and giddiness, along with the physical examination findings and medical history, the most likely diagnosis is Dizziness and Giddiness (R42). The patient's history of hypertension and her mother's history of benign paroxysmal positional vertigo are also considered. Given the moderate severity of symptoms and their impact on daily activities, further evaluation and treatment are necessary.
+
+         **4. Plan:**
+
+* **Treatment:** 
+    The patient is prescribed Meclizine (Antivert) 25mg orally, once daily for 2 weeks to help alleviate her symptoms of dizziness and giddiness.
+
+* **Follow-up:** 
+    A follow-up appointment is scheduled in 2 weeks to assess the improvement of symptoms. If the symptoms persist, further evaluation and possible referral to an Ear, Nose, and Throat (ENT) specialist will be considered.
+
+* **Lifestyle Changes:** 
+    The patient is advised to increase her water intake and reduce caffeine consumption to help manage her symptoms.
+
+* **Referral for Further Tests:** 
+    An order has been placed for Electronystagmography (ENG) to assess vestibular function. The results of this test will guide further management and treatment.
+
+The patient understands and agrees with the plan, and all her questions were answered to her satisfaction."|"**1. Subjective:**
+The patient, Emily Wilson, a 55-year-old Caucasian female, presents with a chief complaint of dizziness and giddiness that has been persistent for the past 3 days. She reports that her symptoms started 3 days ago without any specific incident or trauma. She describes her dizziness as moderate, constant, and accompanied by nausea and headaches. The symptoms have significantly impacted her daily activities, causing difficulty with balance and walking. She has not experienced any recent travel or changes in her environment. The patient denies any fever, chest pain, or shortness of breath. She reports an average salt intake and occasional alcohol consumption. Her review of systems is otherwise unremarkable except for the neurological symptoms already described. The patient has a history of hypertension for which she is currently taking Amlodipine. Her mother had benign paroxysmal positional vertigo. She has no known allergies and is not taking any other medications besides Amlodipine. The patient works full-time and is a non-smoker with occasional alcohol consumption. She sleeps 6-7 hours per night and engages in light physical activity 2-3 times a week.
+
+         **2. Objective:**
+Vital Signs: Blood Pressure: 130/80 mmHg, Heart Rate: 80 bpm, Temperature: 37.2°C. The neurological examination showed normal cognitive function, but a mild imbalance was noted on the Romberg test. The rest of the physical examination was unremarkable. 
+
+         **3. Assessment:**
+Based on the patient's symptoms of dizziness and giddiness, along with the physical examination findings and medical history, the most likely diagnosis is Dizziness and Giddiness (R42). The patient's history of hypertension and her mother's history of benign paroxysmal positional vertigo are also considered. Given the moderate severity of symptoms and their impact on daily activities, further evaluation and treatment are necessary.
+
+         **4. Plan:**
+The patient is prescribed Meclizine (Antivert) 25mg orally, once daily for 2 weeks to help alleviate her symptoms of dizziness and giddiness. A follow-up appointment is scheduled in 2 weeks to assess the improvement of symptoms. If the symptoms persist, further evaluation and possible referral to Dr. Rachel Lee, an Ear, Nose, and Throat (ENT) specialist, will be considered for the purpose of further evaluating and treating the patient's condition. The patient is advised to increase her water intake and reduce caffeine consumption to help manage her symptoms. An order has been placed for Electronystagmography (ENG) to assess vestibular function. The results of this test will guide further management and treatment. The patient understands and agrees with the plan, and all her questions were answered to her satisfaction."|ablation|Neurologist|"I'm happy to help you with generating the dialogue for the given medical note. Here is the conversation between the doctor and the patient:
+
+[Doctor] Good morning, how are you today?
+[Patient] Good morning, doctor. I'm not doing too well. I've been feeling dizzy and giddy for the past 3 days.
+[Doctor] I'm sorry to hear that. Can you tell me more about your dizziness? When did it start, and have you noticed any triggers or patterns?
+[Patient] It started 3 days ago, and I don't think there's any specific trigger. I just wake up feeling dizzy and it lasts throughout the day.
+[Doctor] Okay, and how would you describe the dizziness? Is it mild, moderate, or severe?
+[Patient] I'd say it's moderate. It's not so bad that I need to sit down all the time, but it's enough to make it hard to walk or balance.
+[Patient] Excuse me, doctor. Can you repeat that?
+[Doctor] I said it's not so bad that you need to sit down all the time, but it's enough to make it hard to walk or balance.
+[Patient] Okay, got it.
+[Doctor] And do you experience any other symptoms along with the dizziness, such as nausea or headaches?
+[Patient] Yeah, I get headaches sometimes, and I feel a bit nauseous.
+[Doctor] Okay, have you traveled recently or been in any new environments that might be contributing to your symptoms?
+[Patient] No, I haven't traveled anywhere recently.
+[Doctor] Alright. Can you tell me a bit about your medical history? Do you have any chronic conditions or take any medications?
+[Patient] I have high blood pressure, and I'm taking Amlodipine for it.
+[Doctor] Okay, and do you have any family history of balance or inner ear problems?
+[Patient] My mom had something called benign paroxysmal positional vertigo.
+[Doctor] Okay, that's helpful to know. And can you tell me about your social history? Do you work, and do you smoke or drink alcohol?
+[Patient] I work full-time, and I'm a non-smoker. I drink alcohol occasionally.
+[Doctor] Okay, and how much do you sleep per night, and how often do you exercise?
+[Patient] I sleep about 6-7 hours per night, and I exercise lightly 2-3 times a week.
+[Doctor] Alright. I'm going to take your vitals now. (takes vitals) Your blood pressure is 130/80, your heart rate is 80, and your temperature is 37.2.
+[Patient] Okay.
+[Doctor] Now, I'm going to do a physical examination. (performs physical examination) Everything looks normal except for a mild imbalance on the Romberg test.
+[Patient] Okay.
+[Doctor] I've ordered an Electronystagmography test to further assess your vestibular function. We'll discuss the results when they're available.
+[Patient] Okay, sounds good.
+[Doctor] In the meantime, I'm going to prescribe you Meclizine to help with your dizziness. Take 25mg orally, once daily for 2 weeks.
+[Patient] Okay, got it.
+[Doctor] And I want you to increase your water intake and reduce your caffeine consumption to help manage your symptoms.
+[Patient] Alright, will do.
+[Doctor] We'll schedule a follow-up appointment in 2 weeks to assess your symptoms. If they persist, we might need to refer you to an ENT specialist.
+[Patient] Okay, that sounds like a plan.
+[Doctor] Do you have any questions for me before we finish?
+[Patient] No, I think that's all.
+[Doctor] Alright, you're all set. I'll see you in 2 weeks then.
+[Patient] Sounds good, thank you, doctor."|"Here is the conversation between the doctor and the patient:
+
+[Doctor]: Good morning, how are you today?
+[Patient]: Good morning, doctor. I'm not doing too well. I've been feeling dizzy and giddy for the past 3 days.
+[Doctor]: Hmm, I'm sorry to hear that. Can you tell me more about your dizziness? When did it start, and have you noticed any triggers or patterns?
+[Patient]: It started 3 days ago, and I don't think there's any specific trigger. I just wake up feeling dizzy and it lasts throughout the day.
+[Doctor]: Okay, yes... and how would you describe the dizziness? Is it mild, moderate, or severe?
+[Patient]: I'd say it's moderate. It's not so bad that I need to sit down all the time, but it's enough to make it hard to walk or balance.
+[Patient]: Excuse me, doctor. Can you repeat that?
+[Doctor]: I said it's not so bad that you need to sit down all the time, but it's enough to make it hard to walk or balance.
+[Patient]: Okay, got it.
+[Doctor]: And do you experience any other symptoms along with the dizziness, such as nausea or headaches?
+[Patient]: Yeah, I get headaches sometimes, and I feel a bit nauseous.
+[Doctor]: Okay, have you traveled recently or been in any new environments that might be contributing to your symptoms?
+[Patient]: No, I haven't traveled anywhere recently.
+[Doctor]: Alright. Can you tell me a bit about your medical history? Do you have any chronic conditions or take any medications?
+[Patient]: I have high blood pressure, and I'm taking Amlodipine for it.
+[Doctor]: Okay, and do you have any family history of balance or inner ear problems?
+[Patient]: My mom had something... I think it was called benign paroxysmal positional vertigo.
+[Doctor]: Okay, that's helpful to know. And can you tell me about your social history? Do you work, and do you smoke or drink alcohol?
+[Patient]: I work full-time, and I'm a non-smoker. I drink alcohol occasionally.
+[Doctor]: Okay, and how much do you sleep per night, and how often do you exercise?
+[Patient]: I sleep about 6-7 hours per night, and I exercise lightly 2-3 times a week.
+[Doctor]: Alright. I'm going to take your vitals now. (takes vitals) Your blood pressure is 130/80 mmHg, your heart rate is 80 bpm, and your temperature is 37.2°C.
+[Patient]: Okay.
+[Doctor]: Now, I'm going to do a physical examination. (performs physical examination) Everything looks normal except for a mild imbalance on the Romberg test.
+[Patient]: Okay.
+[Doctor]: I've ordered an Electronystagmography test to further assess your vestibular function. We'll discuss the results when they're available.
+[Patient]: Okay, sounds good.
+[Doctor]: In the meantime, I'm going to prescribe you Meclizine, 25mg orally, once daily for 2 weeks to help with your dizziness.
+[Patient]: Okay, got it.
+[Doctor]: And I want you to increase your water intake and reduce your caffeine consumption to help manage your symptoms.
+[Patient]: Alright, will do.
+[Doctor]: We'll schedule a follow-up appointment in 2 weeks to assess your symptoms. If they persist, we might need to refer you to an Ear, Nose, and Throat specialist.
+[Patient]: Okay, that sounds like a plan.
+[Doctor]: Do you have any questions for me before we finish?
+[Patient]: No, I think that's all.
+[Doctor]: Alright, you're all set. I'll see you in 2 weeks then.
+[Patient]: Sounds good, thank you, doctor."

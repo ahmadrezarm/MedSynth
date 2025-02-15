@@ -1,0 +1,23 @@
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+[rank0]:     return self._engine.get_loc(casted_key)
+[rank0]:   File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+[rank0]:   File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+[rank0]:   File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+[rank0]:   File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+[rank0]: KeyError: 'conversation'
+
+[rank0]: The above exception was the direct cause of the following exception:
+
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/get_prometues_absolute_scores.py", line 29, in <module>
+[rank0]:     main()
+[rank0]:   File "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/get_prometues_absolute_scores.py", line 22, in main
+[rank0]:     get_and_save_prometheus_absolute_scores(model_name= model_name,
+[rank0]:   File "/fs01/home/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/utils/prometheus.py", line 141, in get_and_save_prometheus_absolute_scores
+[rank0]:     conversations_list= dial_summary_pairs_df["conversation"],
+[rank0]:   File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+[rank0]:     indexer = self.columns.get_loc(key)
+[rank0]:   File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+[rank0]:     raise KeyError(key) from err
+[rank0]: KeyError: 'conversation'

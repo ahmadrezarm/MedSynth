@@ -13,13 +13,25 @@ def main():
 # "ACI_Ahmad57_and_Aci": "Ahmad0067/SynthDataGen_ACI_Ahmad57_and_Aci",
 #                    "ACI_Ahmad57_Only": "Ahmad0067/SynthDataGen_ACI_Ahmad57_Only",
 eval_models_dict= {
-                   "ACI_Primock57_and_Aci": "Ahmad0067/SynthDataGen_ACI_Primock57_and_Aci",
-                   "ACI_Primock57_Only": "Ahmad0067/SynthDataGen_ACI_Primock57_Only"
+                   "ACI_base_model_no_tuning": constants.base_model,
+                   "ACI_NoJudge_and_Aci": "Ahmad0067/SynthDataGen_ACI_NoJudge_and_Aci",
+                   "ACI_LammaJudgeGPT_and_Aci": "Ahmad0067/SynthDataGen_ACI_LammaJudgeGPT_and_Aci",
+                   "ACI_AllLamma_and_Aci": "Ahmad0067/SynthDataGen_ACI_AllLamma_and_Aci",
+                   "ACI_AllLamma_57Sample_and_Aci": "Ahmad0067/SynthDataGen_ACI_AllLamma_57Sample_and_Aci",
+                   "ACI_NC_246_Samples_and_Aci": "Ahmad0067/SynthDataGen_ACI_NC_246_Samples_and_Aci",
+                   "ACI_Ahmad_246_Aci": "Ahmad0067/SynthDataGen_ACI_Ahmad_246_Aci",
+                   "ACI_AllQwen_and_Aci": "Ahmad0067/SynthDataGen_ACI_AllQwen_and_Aci",
+                   "AllQwen_57_Samples_and_Aci": "Ahmad0067/SynthDataGen_ACI_AllQwen_57_Samples_and_Aci",
+                   }
+
+eval_models_dict_remined= {
+                   "Aci_AllLamma_246_Only":"Ahmad0067/SynthDataGen_Aci_AllLamma_246_Only",
+                   "Aci_AllQwen_246_Only": "Ahmad0067/SynthDataGen_Aci_AllQwen_246_Only",
                    }
 
 # change this whenever you have a new model.
 def main():
-    for model, hf_path in eval_models_dict.items():
+    for model, hf_path in eval_models_dict_remined.items():
         print(f"working on: {model}")
         print(f" The model path is: {hf_path}")
         print(20*"*")

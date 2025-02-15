@@ -1,10 +1,11 @@
 #!/bin/bash
-#SBATCH --job-name=Multiple_D2N_Eval
+#SBATCH --job-name=Ab_remained_D2N_Eval
 #SBATCH --gres=gpu:a40:1
 #SBATCH --mail-user=ahmad.rm0067@gmail.com  # Email address for notifications
 #SBATCH --mail-type=ALL
-#SBATCH --qos=normal
-#SBATCH --time=16:00:00
+#SBATCH --account=deadline
+#SBATCH --qos=deadline
+#SBATCH --time=2-00:00:00
 #SBATCH -c 30
 #SBATCH --mem=30G
 #SBATCH --output=slurm-%j.out
@@ -18,6 +19,6 @@ source /pkgs/anaconda3/bin/activate /h/ahmad/.conda/envs/SynthDataGenEnv || cond
 
 
 # put your command here
-python /h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/run_eval.py
+python /h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/run_eval.py
 
 echo `date`: "Job $SLURM_JOB_ID finished running, exit code: $?"

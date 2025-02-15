@@ -1,0 +1,1344 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+COUGH|"ROLE: General Physician
+
+1. Medical Outcome: 
+    - Diagnosis: ICD-10 description of the disease - COUGH (R05)
+    - Prescribed treatment: Cough medication (e.g., dextromethorphan), dosage: 15-30 mg, units: oral, frequency: every 4-6 hours, duration: as needed, quantity: 1-2 tablets, quantity type: tablets, route: oral
+    - Follow-up recommendations: Follow-up appointment in 1 week to assess the response to treatment
+    - Referral to specialists: May consider referral to a pulmonologist if symptoms persist or worsen
+    - Referral to further tests or imaging: Chest X-ray to rule out underlying lung disease
+    - Medication adjustment: None at this time
+    - Lifestyle change: Increase fluid intake, get plenty of rest
+
+2. Medical History: 
+    - Previous Diagnoses: None
+    - Family Medical History: None
+    - Medication History: None
+    - Allergies: No known allergies
+    - Chronic Conditions: None
+
+3. Symptom Description: 
+    - Severity: Mild to moderate
+    - Duration: 3-4 days
+    - Associated Symptoms: Slightly sore throat, runny nose
+    - Frequency: Intermittent cough
+    - Impact on Daily Activities: Mildly interfering with daily activities
+
+4. Patient’s self-reported habits and lifestyle: 
+    - Sleep: 7-8 hours per night
+    - Diet: Balanced diet
+    - Exercise: Regular exercise, 3-4 times a week
+    - Tobacco Use: Non-smoker
+    - Alcohol Consumption: Occasional social drinker
+
+5. Demographic Information: 
+    - Age: 35
+    - Gender: Male
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: College graduate
+    - Health Literacy: Good understanding of health information
+    - Job Status: Full-time employee
+
+6. Patient's Behavior: 
+    - Cooperative with medical advice
+
+7. Geographical Location: 
+    - Big City vs Small City: Big city
+    - Rural vs Urban: Urban
+    - Pollution and Environmental Health Risks: Moderate
+    - Neighborhood Type: Affluent, well-served by transit
+
+8. Clinical Setting: 
+    - Hospitals: Not applicable
+    - Clinics: Community health clinic
+    - Telemedicine: Not applicable
+    - Community Health Services: Not applicable
+    - Urgent Care Centers: Not applicable
+    - Research Facilities: Not applicable
+    - School Health Services: Not applicable
+    - Private Practice: Not applicable
+    - Specialty Clinics: Not applicable
+
+9. Type of Encounter: 
+    - Initial Consultation
+
+10. Treatment Disparities: 
+    - None apparent
+
+11. Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+12. Physical exams: 
+    - Vital signs: BP 120/80, pulse 80 bpm, temperature 98.6 F
+    - HEENT: Normal
+    - Chest: Clear to auscultation
+
+13. Investigation/Test results: 
+    - Chest X-ray: Not done yet, but may be ordered if symptoms persist or worsen"|"## Step 1: Determine the sections of the medical note
+The medical note should be divided into four main sections: Subjective, Objective, Assessment, and Plan.
+
+
+## Step 2: Break down the Subjective section
+The subjective section includes the patient's own description of their symptoms and complaints. Since the result of rolling a dice is not provided, we will assume it is even and provide a general subjective section without sub-parts. However, given the information provided, we can break it down as follows:
+
+- Chief Complaint (CC): The patient presents with a cough.
+- History of Present Illness (HPI): The patient has had a mild to moderate cough for 3-4 days, accompanied by a slightly sore throat and runny nose.
+- Review of Systems (ROS): The patient reports no other significant symptoms aside from the cough and associated symptoms.
+
+
+## Step 3: Create the Objective section
+The objective section includes observations and data gathered by the physician.
+
+- Vital signs: BP 120/80, pulse 80 bpm, temperature 98.6 F.
+- Physical examination findings: HEENT is normal, chest is clear to auscultation.
+- Test results: No significant test results are reported at this time, but a chest X-ray may be ordered if symptoms persist or worsen.
+
+
+## Step 4: Determine the Assessment section
+The assessment section includes the physician's evaluation of the patient's condition.
+
+- Diagnosis: The patient is diagnosed with a cough (ICD-10 code R05).
+- Differential diagnosis: No other diagnoses are considered at this time.
+
+
+## Step 5: Create the Plan section
+The plan section includes the physician's recommendations for treatment, management, and follow-up.
+
+- Treatment: The patient is prescribed cough medication (e.g., dextromethorphan) 15-30 mg, to be taken orally every 4-6 hours as needed.
+- Follow-up: The patient is advised to follow up in 1 week to assess the response to treatment.
+- Lifestyle changes: The patient is advised to increase fluid intake and get plenty of rest.
+
+
+The final answer is: 
+
+**1. Subjective:**
+The patient presents with a cough, which has been ongoing for 3-4 days. The cough is described as mild to moderate and is accompanied by a slightly sore throat and runny nose. The patient reports that the symptoms are intermittently present and are mildly interfering with daily activities.
+
+**2. Objective:**
+Vital signs: BP 120/80, pulse 80 bpm, temperature 98.6 F. Physical examination findings: HEENT is normal, chest is clear to auscultation. No significant test results are reported at this time.
+
+**3. Assessment:**
+The patient is diagnosed with a cough (ICD-10 code R05).
+
+**4. Plan:**
+The patient is prescribed cough medication (e.g., dextromethorphan) 15-30 mg, to be taken orally every 4-6 hours as needed. The patient is advised to follow up in 1 week to assess the response to treatment. The patient is also advised to increase fluid intake and get plenty of rest. A chest X-ray may be ordered if symptoms persist or worsen."|"**1. Subjective:**
+The patient presents with a cough, which has been ongoing for 3-4 days. The cough is described as mild to moderate and is accompanied by a slightly sore throat and runny nose. The patient reports that the symptoms are intermittently present and are mildly interfering with daily activities.
+
+**2. Objective:**
+Vital signs: BP 120/80, pulse 80 bpm, temperature 98.6 F. Physical examination findings: HEENT is normal, chest is clear to auscultation. No significant test results are reported at this time.
+
+**3. Assessment:**
+The patient is diagnosed with a cough (ICD-10 code R05).
+
+**4. Plan:**
+The patient is prescribed cough medication (e.g., dextromethorphan) 15-30 mg, to be taken orally every 4-6 hours as needed. The patient is advised to follow up in 1 week to assess the response to treatment. The patient is also advised to increase fluid intake and get plenty of rest. A chest X-ray may be ordered if symptoms persist or worsen."|ablation|General Physician|"# Example 1: 
+    ## Note:
+    """"""
+    [doctor] karen nelson is a 3 -year-old female with no significant past medical history who comes in for evaluation of a new right eye twitch karen is accompanied by her father hi karen how are you
+[patient] i'm okay i guess
+[doctor] hey dad how are you doing
+[patient] hey doc i am okay yeah karen has been having this eye twitch i noticed a couple of weeks ago when i talked to her pediatrician and they told me to come see you
+[doctor] okay alright so karen have you felt the twitch
+[patient] yeah well i mean i feel my face sometimes
+[doctor] yeah and do you have any pain when it happens
+[patient] no it it doesn't really hurt but i noticed that dad looks real nervous when it happens
+[doctor] yeah i i i can understand that's because he loves you do you feel the urge to move your face
+[patient] sometimes and then it moves and then i feel better
+[doctor] okay okay and so so dad how often are you seeing the twitch on karen
+[patient] i don't know i mean it varies sometimes i see it several times an hour and there is other days we don't see it at all until sometimes late afternoon but we definitely notice it you know everyday for the last several weeks
+[doctor] okay so karen how is how is how is soccer
+[patient] i like soccer
+[doctor] yeah
+[patient] yeah dad dad takes me to play every saturday
+[doctor] okay
+[patient] it's it's pretty fun but there's this girl named isabella she she plays rough
+[doctor] does she
+[patient] she yeah she tries to kick me and she pulls my hair and
+[doctor] oh
+[patient] sometimes she's not very nice
+[doctor] that isn't very nice you gon na have to show her that that's not very nice you're gon na have to teach her a lesson
+[patient] yeah and and then sometimes after soccer we we go and i get mcdugge's and it and it's it makes for a nice day with dad
+[doctor] is that your favorite at mcdonald's in the the mcnuggates
+[patient] not not really but they are cheap so
+[doctor] okay alright well you you made dad happy at least right
+[patient] yeah that's what he says because i'm expensive because i want dresses and dogs and stuff all the time
+[doctor] yeah well yeah who doesn't well okay well hopefully we will get you you know squared away here so you can you know play your soccer and go shopping for dresses with dad so so dad tell me does the karen seem bothered or any other and have any other issues when this happens
+[patient] no i mean when it happens she just continues playing or doing whatever she was doing when it happens
+[doctor] okay alright has she has she otherwise been feeling okay since this started has she been acting normally
+[patient] i i'd say she seems fine i mean she has been eating well and playing with her friends and she goes about her normal activities really
+[doctor] okay good
+[patient] never even though anything was going on
+[doctor] okay alright good so has has karen had any seizures in the past
+[patient] no
+[doctor] no okay and then so tell me when the twitch occurs do you ever notice any you know parts of her like moving or twitching
+[patient] well no uh it's just her face
+[doctor] okay
+[patient] i mean the whole side of her face moves when it happens it seems like it several seconds and then it finally stops and she just seems to be blinking frequently and and and you know wait a minute i i did make a video so you can see just in case it doesn't do it during the visit
+[doctor] okay okay yeah that would be great to see that because i wan na see what's going on so thank you for that tell me is there any family history of seizures or like tourette's syndrome
+[patient] well no history of seizures but i i i never heard of that tourette thing
+[doctor] yeah so so toret is that it's a nervous system disorder that you know involves like repetitive movements or like unwanted sounds and it typically begins in childhood and i don't know have you noticed anything like that with her when she was younger
+[patient] really i had nobody in our family got anything like that
+[doctor] okay now tell me have you noticed any other symptoms how about like fever or chills
+[patient] no
+[doctor] okay coughing headache
+[patient] ma'am
+[doctor] okay how about any problems with karen's sleep
+[patient] nope
+[doctor] okay okay good let's go ahead and do physical exam on karen here alright karen i'm just gon na take a look at you and and ask you to follow some commands okay
+[patient] okay
+[doctor] alright can you follow my finger with your eyes good now can you do me a favor walk across the room for me great job okay now i want you to close your eyes and reach out your arms in front of you good now keep your eyes closed can you feel me touch you here how about okay how about there
+[patient] mm-hmm
+[doctor] does that feel the same
+[patient] yeah
+[doctor] okay alright so i'm just gon na check your reflexes okay alright now on your on the neurological exam the patient is awake alert and oriented times three speech is clear and fluent gait is steady heel toe walking is normal and the cranial nerves are intact without focal neurologic findings there is no pronator drift sensation is intact reflexes are two plus and symmetric at the biceps triceps knees and ankles so this means everything looks good karen
+[patient] that's great
+[doctor] good alright so i'm gon na go ahead and tell you what we're gon na do so i'm gon na tell you my assessment and plan here so dad so for the first problem i do believe that karen does have a tick eye tics are very common in children and as many as you know one in five children have a tick during their school years and tics can also include things like shoulder shrugging facial grimacing sniffling excessive throat clearing and uncontrolled vocalization i can say that essentially they're brief sudden and involuntary motor movements now we don't have a full understanding of the cause of the tics but they typically occur around five to ten years of age but most ticks go away on their own and they disappear within a year so these are what we call transient tics and the best thing to do is ignore the tics so it doesn't seem to be bothering karen and she seems to be doing well in school and activities so it may wax and wane over time but you might notice it more towards the end of the day when the child is tired so you may also you know see it if they're stressed so that's why it's important to just ignore it now when you draw attention to the tic it does make the child conscious so that can make the tic worse so we want to be careful again just to to kind of not to draw too much attention on it and do you have any questions for me
+[patient] so you mean you're telling me you don't think he had a seizure or a bit or nothing
+[doctor] yeah i don't think it's i don't think so because it's it is the same part of her body that's moving every time that and she reports that it's somewhat of an there is an urge to blink her eye and some relief afterwards
+[patient] so you're not recommending any kind of treatment there is no pill or cream or nothing
+[doctor] not at this time because she seems to be doing well overall and the tic hasn't impacted her school or her activities but if it worsens then we can consider some treatment okay
+[patient] alright alright sounds good
+[patient] doctor
+[doctor] bye karen
+    """""""|"[doctor]: Hi Karen, how are you?
+[patient]: I'm okay, I guess.
+[doctor]: Hey, Dad, how are you doing?
+[patient]: Hey, doc, I am okay, yeah. Karen has been having this eye twitch. I noticed it a couple of weeks ago when I talked to her pediatrician, and they told me to come see you.
+[doctor]: Okay, alright. So, Karen, have you felt the twitch?
+[patient]: Yeah, well, I mean, I feel my face sometimes.
+[doctor]: Yeah, and do you have any pain when it happens?
+[patient]: No, it doesn't really hurt, but I noticed that Dad looks real nervous when it happens.
+[doctor]: Yeah, I can understand that. It's because he loves you. Do you feel the urge to move your face?
+[patient]: Sometimes, and then it moves, and then I feel better.
+[doctor]: Okay, okay. And so, Dad, how often are you seeing the twitch on Karen?
+[patient]: I don't know, I mean it varies. Sometimes I see it several times an hour, and there are other days we don't see it at all until sometimes late afternoon, but we definitely notice it every day for the last several weeks.
+[doctor]: Okay, so Karen, how is soccer?
+[patient]: I like soccer.
+[doctor]: Yeah?
+[patient]: Yeah, Dad takes me to play every Saturday.
+[doctor]: Okay.
+[patient]: It's pretty fun, but there's this girl named Isabella. She plays rough.
+[doctor]: Does she?
+[patient]: She yeah, she tries to kick me and she pulls my hair.
+[doctor]: Oh.
+[patient]: Sometimes she's not very nice.
+[doctor]: That isn't very nice. You're gonna have to show her that that's not very nice. You're gonna have to teach her a lesson.
+[patient]: Yeah, and then sometimes after soccer, we go and I get McDonald's, and it makes for a nice day with Dad.
+[doctor]: Is that your favorite at McDonald's, the McNuggets?
+[patient]: Not really, but they are cheap, so...
+[doctor]: Okay, alright. Well, you made Dad happy at least, right?
+[patient]: Yeah, that's what he says, because I'm expensive, because I want dresses and dogs and stuff all the time.
+[doctor]: Yeah, well, yeah, who doesn't? Well, okay, well, hopefully, we will get you squared away here so you can play your soccer and go shopping for dresses with Dad. So, Dad, tell me, does Karen seem bothered or have any other issues when this happens?
+[patient]: No, I mean, when it happens, she just continues playing or doing whatever she was doing when it happens.
+[doctor]: Okay, alright. Has she otherwise been feeling okay since this started? Has she been acting normally?
+[patient]: I'd say she seems fine. I mean, she has been eating well and playing with her friends and she goes about her normal activities really.
+[doctor]: Okay, good.
+[patient]: Never, even though anything was going on.
+[doctor]: Okay, alright. Good. So, has Karen had any seizures in the past?
+[patient]: No.
+[doctor]: No, okay. And then, so, tell me, when the twitch occurs, do you ever notice any parts of her like moving or twitching?
+[patient]: Well, no, uh, it's just her face.
+[doctor]: Okay.
+[patient]: I mean, the whole side of her face moves when it happens. It seems like it for several seconds, and then it finally stops, and she just seems to be blinking frequently, and, you know, wait a minute, I did make a video so you can see just in case it doesn't do it during the visit.
+[doctor]: Okay, okay, yeah, that would be great to see that because I want to see what's going on. So, thank you for that. Tell me, is there any family history of seizures or like Tourette's syndrome?
+[patient]: Well, no history of seizures, but I never heard of that Tourette thing.
+[doctor]: Yeah, so, Tourette's is a nervous system disorder that, you know, involves like repetitive movements or like unwanted sounds, and it typically begins in childhood. I don't know, have you noticed anything like that with her when she was younger?
+[patient]: Really, I had nobody in our family got anything like that.
+[doctor]: Okay, now, tell me, have you noticed any other symptoms? How about like fever or chills?
+[patient]: No.
+[doctor]: Okay, coughing, headache?
+[patient]: Ma'am.
+[doctor]: Okay, how about any problems with Karen's sleep?
+[patient]: Nope.
+[doctor]: Okay, okay, good. Let's go ahead and do a physical exam on Karen here, alright? Karen, I'm just gonna take a look at you and ask you to follow some commands, okay?
+[patient]: Okay.
+[doctor]: Alright, can you follow my finger with your eyes? Good. Now, can you do me a favor and walk across the room for me? Great job. Okay, now, I want you to close your eyes and reach out your arms in front of you. Good. Now, keep your eyes closed, can you feel me touch you here? How about okay, how about there?
+[patient]: Mm-hmm.
+[doctor]: Does that feel the same?
+[patient]: Yeah.
+[doctor]: Okay, alright. So, I'm just gonna check your reflexes, okay? Alright, now, on your neurological exam, the patient is awake, alert, and oriented times three. Speech is clear and fluent. Gait is steady, heel-toe walking is normal, and the cranial nerves are intact without focal neurologic findings. There is no pronator drift, sensation is intact, reflexes are two plus and symmetric at the biceps, triceps, knees, and ankles. So, this means everything looks good, Karen.
+[patient]: That's great.
+[doctor]: Good. Alright, so, I'm gonna go ahead and tell you what we're gonna do. So, Dad, so, for the first problem, I do believe that Karen does have a tic. Tics are very common in children, and as many as one in five children have a tic during their school years. Tics can also include things like shoulder shrugging, facial grimacing, sniffling, excessive throat clearing, and uncontrolled vocalization. I can say that essentially, they're brief, sudden, and involuntary motor movements. Now, we don't have a full understanding of the cause of the tics, but they typically occur around five to ten years of age, but most tics go away on their own and disappear within a year. So, these are what we call transient tics. And the best thing to do is ignore the tics, so it doesn't seem to be bothering Karen, and she seems to be doing well in school and activities. So, it may wax and wane over time, but you might notice it more towards the end of the day when the child is tired. So, you may also, you know, see it if they're stressed. So, that's why it's important to just ignore it. Now, when you draw attention to the tic, it does make the child conscious, so that can make the tic worse. So, we want to be careful again, just to kind of not to draw too much attention on it. And do you have any questions for me?
+[patient]: So, you mean you're telling me you don't think she had a seizure or a bit or nothing?
+[doctor]: Yeah, I don't think so, because it's the same part of her body that's moving every time, and she reports that it's somewhat of an urge to blink her eye, and some relief afterwards.
+[patient]: So, you're not recommending any kind of treatment? There is no pill or cream or nothing?
+[doctor]: Not at this time, because she seems to be doing well overall, and the tic hasn't impacted her school or her activities. But if it worsens, then we can consider some treatment, okay?
+[patient]: Alright, alright, sounds good.
+[doctor]: Alright, Karen, it was nice meeting you.
+[patient]: Bye, Doctor."
+COUGH|"ROLE: Family Medicine Physician
+
+
+1. Medical Outcome: 
+   - Diagnosis: Acute bronchitis (ICD-10: J20.9)
+   - Prescribed treatment: Prescription for azithromycin 250mg every 24 hours for 5 days, cough syrup for dry cough, and dextromethorphan for wet cough
+   - Follow-up recommendations: Follow-up in 7-10 days to assess the resolution of symptoms
+   - Referral to specialists: Referral to a pulmonologist if symptoms persist
+   - Referral to further tests or imaging: Chest X-ray if symptoms worsen or persist
+   - Medication adjustment: NA
+   - Lifestyle change: Increase fluid intake, get plenty of rest
+
+2. Medical History: 
+   - Previous Diagnoses: Hypertension
+   - Family Medical History: Mother has asthma
+   - Medication History: Currently taking enalapril 10mg daily for hypertension
+   - Allergies: Allergic to penicillin
+   - Chronic Conditions: Hypertension
+
+3. Symptom Description: 
+   - Severity: Moderate
+   - Duration: 3 days
+   - Associated Symptoms: Sore throat, runny nose
+   - Frequency: Constant cough
+   - Impact on Daily Activities: Significant, unable to sleep due to coughing
+
+4. Patient’s self-reported habits and lifestyle: 
+   - Sleep: 6 hours per night
+   - Diet: Balanced diet
+   - Exercise: LIGHT physical activity, 30 minutes per day, 3 times a week
+   - Tobacco Use: Non-smoker
+   - Alcohol Consumption: Occasional, 1-2 drinks per week
+
+5. Demographic Information: 
+   - Age: 35
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: High school graduate
+   - Health Literacy: Good understanding of health information
+   - Job Status: Full-time employee
+
+6. Patient's Behavior: 
+   - Cooperation with medical advice: Cooperative
+
+7. Geographical Location: 
+   - Big City vs Small City: Big city
+   - Rural vs Urban: Urban
+   - Pollution and Environmental Health Risks: Moderate pollution
+   - Neighborhood Type: Well-served by transit, affluent neighborhood
+
+8. Clinical Setting: 
+   - Hospital: No
+   - Clinics: Yes, community health clinic
+   - Telemedicine: No
+   - Community Health Services: Yes
+   - Urgent Care Centers: No
+   - Research Facilities: No
+   - School Health Services: No
+   - Private Practice: No
+   - Specialty Clinics: No
+
+9. Type of Encounter: 
+   - Initial Consultation: Yes
+   - Follow-up: No
+   - Emergency Visit: No
+   - Routine Check-up: No
+   - Chronic Disease Management: No
+   - Preventive Health Screening: No
+
+10. Treatment Disparities: 
+    - None
+
+11. Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+12. Physical exams: 
+    - Respiratory exam: Normal breath sounds, no wheezing or rales
+    - Cardiovascular exam: Normal heart sounds, no murmurs
+
+13. Investigation/Test results: 
+    - Complete Blood Count (CBC) to rule out infection, results pending"|"## Step 1: Determine the format of the medical note
+The medical note should be in the format of: 
+1. Subjective: This section includes the patient's own description of their symptoms and complaints.
+2. Objective: This section includes observations and data gathered by the physician, such as vital signs, physical examination findings, and test results.
+3. Assessment: This section includes the physician's evaluation of the patient's condition, including a diagnosis or differential diagnosis.
+4. Plan: This section includes the physician's recommendations for treatment, management, and follow-up.
+
+
+## Step 2: Break down the subjective section based on the roll of a dice
+Since the dice roll result is not provided, we'll assume an odd result to break down the subjective section into sub-parts like Chief Complaint (CC), History of Present Illness (HPI), Review of Systems (ROS).
+
+
+## Step 3: Write the Chief Complaint (CC) section
+The patient is a 35-year-old male presenting with a chief complaint of a persistent cough for 3 days.
+
+
+## Step 4: Write the History of Present Illness (HPI) section
+The patient reports that his symptoms started 3 days ago with a constant cough, sore throat, and runny nose. He has been experiencing moderate severity of symptoms, which have significantly impacted his daily activities, particularly his ability to sleep.
+
+
+## Step 5: Write the Review of Systems (ROS) section
+The patient denies any fever, chills, nausea, or vomiting but reports a significant disruption in his sleep pattern due to coughing. His review of systems is otherwise unremarkable.
+
+
+## Step 6: Write the Objective section
+The patient's physical examination revealed normal breath sounds with no wheezing or rales on respiratory exam and normal heart sounds with no murmurs on cardiovascular exam. He is currently taking enalapril 10mg daily for hypertension and is allergic to penicillin.
+
+
+## Step 7: Write the Assessment section
+The patient is diagnosed with acute bronchitis (ICD-10: J20.9). His medical history of hypertension and family history of asthma are noted, but they do not directly influence the current diagnosis.
+
+
+## Step 8: Write the Plan section
+The patient has been prescribed azithromycin 250mg every 24 hours for 5 days for the treatment of acute bronchitis, cough syrup for dry cough, and dextromethorphan for wet cough. He is advised to increase fluid intake and get plenty of rest. A follow-up appointment is scheduled in 7-10 days to assess the resolution of symptoms. If symptoms persist, referral to a pulmonologist is recommended, and a chest X-ray may be considered if symptoms worsen or persist.
+
+
+The final answer is: 
+
+1. Subjective:
+   - Chief Complaint: Persistent cough for 3 days
+   - History of Present Illness: The patient reports that his symptoms started 3 days ago with a constant cough, sore throat, and runny nose. He has been experiencing moderate severity of symptoms.
+   - Review of Systems: The patient denies any fever, chills, nausea, or vomiting but reports a significant disruption in his sleep pattern due to coughing.
+
+2. Objective:
+   - The patient's physical examination revealed normal breath sounds with no wheezing or rales on respiratory exam and normal heart sounds with no murmurs on cardiovascular exam.
+   - Current Medications: enalapril 10mg daily for hypertension
+   - Allergies: Allergic to penicillin
+
+3. Assessment:
+   - Diagnosis: Acute bronchitis (ICD-10: J20.9)
+
+4. Plan:
+   - Prescription for azithromycin 250mg every 24 hours for 5 days, cough syrup for dry cough, and dextromethorphan for wet cough
+   - Follow-up recommendations: Follow-up in 7-10 days to assess the resolution of symptoms
+   - Referral to specialists: Referral to a pulmonologist if symptoms persist
+   - Referral to further tests or imaging: Chest X-ray if symptoms worsen or persist
+   - Lifestyle change: Increase fluid intake, get plenty of rest"|"1. Subjective:
+   - Chief Complaint: Persistent cough for 3 days
+   - History of Present Illness: The patient reports that his symptoms started 3 days ago with a constant cough, sore throat, and runny nose. He has been experiencing moderate severity of symptoms.
+   - Review of Systems: The patient denies any fever, chills, nausea, or vomiting but reports a significant disruption in his sleep pattern due to coughing.
+
+2. Objective:
+   - The patient's physical examination revealed normal breath sounds with no wheezing or rales on respiratory exam and normal heart sounds with no murmurs on cardiovascular exam.
+   - Current Medications: enalapril 10mg daily for hypertension
+   - Allergies: Allergic to penicillin
+
+3. Assessment:
+   - Diagnosis: Acute bronchitis (ICD-10: J20.9)
+
+4. Plan:
+   - Prescription for azithromycin 250mg every 24 hours for 5 days, cough syrup for dry cough, and dextromethorphan for wet cough
+   - Follow-up recommendations: Follow-up in 7-10 days to assess the resolution of symptoms
+   - Referral to specialists: Referral to a pulmonologist if symptoms persist
+   - Referral to further tests or imaging: Chest X-ray if symptoms worsen or persist
+   - Lifestyle change: Increase fluid intake, get plenty of rest"|ablation|Family Medicine Physician|"<hr>
+[doctor] hi there how are you doing today
+[patient] hi doc i'm doing alright thanks for seeing me
+[doctor] of course so what seems to be the problem
+[patient] well i've had this persistent cough for like three days now and it's really been bothering me
+[doctor] i see and can you tell me more about this cough what's it like
+[patient] it's just a constant cough you know it's not like a dry cough or a wet cough it's just a constant cough
+[patient] pardon
+[doctor] no that's okay so you're saying it's a constant cough and you've had it for three days can you tell me more about what's been going on with you during these three days
+[patient] yeah i mean i've just been feeling really tired and i've had a sore throat and a runny nose
+[doctor] okay and have you had any fever or chills or anything like that
+[patient] no i don't think so i mean i haven't taken my temperature or anything but i don't feel like i have a fever
+[doctor] okay and what about nausea or vomiting have you had any of that
+[patient] no i haven't had any nausea or vomiting
+[doctor] okay and can you tell me a little bit about your sleep have you been sleeping okay
+[patient] actually no my sleep has been really disrupted because of the coughing
+[doctor] i see and have you noticed any other symptoms like headaches or body aches or anything like that
+[patient] no i don't think so
+[doctor] okay and can you tell me a little bit about your medical history do you have any medical conditions
+[patient] yeah i have hypertension
+[doctor] okay and are you taking any medications for that
+[patient] yeah i'm taking enalapril
+[doctor] okay and what dose of enalapril are you taking
+[patient] i'm taking 10 milligrams
+[doctor] okay and are you allergic to any medications
+[patient] yeah i'm allergic to penicillin
+[doctor] okay and can you tell me a little bit about your family history are there any medical conditions that run in your family
+[patient] yeah my sister has asthma
+[doctor] okay and have you ever had any surgeries or hospitalizations
+[patient] no i don't think so
+[doctor] okay and can you tell me a little bit about your social history what do you do for work
+[patient] i work as an accountant
+[doctor] okay and do you smoke or drink
+[patient] no i don't smoke but i do drink occasionally
+[doctor] okay and can you tell me a little bit about your diet do you eat a pretty healthy diet
+[patient] yeah i try to
+[doctor] okay now let's go ahead and do a physical exam
+[patient] okay
+[doctor] okay so first i'm just going to listen to your heart and lungs sound good
+[patient] yeah
+[doctor] okay and now i'm going to listen to your lungs
+[patient] okay
+[doctor] okay and now i'm going to check your blood pressure
+[patient] okay
+[doctor] okay so your blood pressure is looking good and your heart sounds good
+[doctor] okay now let's talk a little bit about your diagnosis and plan
+[patient] okay
+[doctor] okay so based on what you've told me and my physical exam findings it looks like you have acute bronchitis
+[patient] okay what's that
+[doctor] it's an infection of the bronchial tubes and it's usually caused by a virus
+[patient] okay and how do we treat that
+[doctor] well we can treat it with antibiotics and there are some other medications we can use to help with the symptoms
+[patient] okay and what kind of antibiotics
+[doctor] we can use azithromycin
+[patient] okay and how long do i need to take it for
+[doctor] you'll need to take it for five days
+[patient] okay and what about my cough
+[doctor] we can give you some cough syrup to help with that
+[patient] okay and what about my rest and fluids
+[doctor] you should definitely get plenty of rest and increase your fluid intake
+[patient] okay and when do i need to follow up with you
+[doctor] let's schedule a follow-up appointment in seven to ten days
+[patient] okay and what if my symptoms get worse
+[doctor] if your symptoms get worse we may need to do a chest x-ray or refer you to a specialist
+[patient] okay got it
+[doctor] okay and do you have any questions for me
+[patient] no i don't think so
+[doctor] okay well it was nice seeing you and i'll talk to you soon
+[patient] yeah same to you doc"|"[doctor]: Hi there, how are you doing today?
+[patient]: Hi doc, I'm doing alright, thanks for seeing me.
+[doctor]: Of course, so what seems to be the problem?
+[patient]: Well, I've had this persistent cough for like three days now, and it's really been bothering me.
+[doctor]: I see, and can you tell me more about this cough? What's it like?
+[patient]: It's just a constant cough, you know? It's not like a dry cough or a wet cough, it's just a constant cough.
+[patient]: Pardon?
+[doctor]: No, that's okay. So, you're saying it's a constant cough, and you've had it for three days. Can you tell me more about what's been going on with you during these three days?
+[patient]: Yeah, I mean, I've just been feeling really tired, and I've had a sore throat and a runny nose.
+[doctor]: Okay, and have you had any fever or chills or anything like that?
+[patient]: No, I don't think so. I mean, I haven't taken my temperature or anything, but I don't feel like I have a fever.
+[doctor]: Okay, and what about nausea or vomiting? Have you had any of that?
+[patient]: No, I haven't had any nausea or vomiting.
+[doctor]: Okay, and can you tell me a little bit about your sleep? Have you been sleeping okay?
+[patient]: Actually, no. My sleep has been really disrupted because of the coughing.
+[doctor]: I see, and have you noticed any other symptoms like headaches or body aches or anything like that?
+[patient]: No, I don't think so.
+[doctor]: Okay, and can you tell me a little bit about your medical history? Do you have any medical conditions?
+[patient]: Yeah, I have hypertension.
+[doctor]: Okay, and are you taking any medications for that?
+[patient]: Yeah, I'm taking enalapril.
+[doctor]: Okay, and what dose of enalapril are you taking?
+[patient]: I'm taking 10 milligrams.
+[doctor]: Okay, and are you allergic to any medications?
+[patient]: Yeah, I'm allergic to penicillin.
+[doctor]: Okay, and can you tell me a little bit about your family history? Are there any medical conditions that run in your family?
+[patient]: Yeah, my sister has asthma.
+[doctor]: Okay, and have you ever had any surgeries or hospitalizations?
+[patient]: No, I don't think so.
+[doctor]: Okay, and can you tell me a little bit about your social history? What do you do for work?
+[patient]: I work as an accountant.
+[doctor]: Okay, and do you smoke or drink?
+[patient]: No, I don't smoke, but I do drink occasionally.
+[doctor]: Okay, and can you tell me a little bit about your diet? Do you eat a pretty healthy diet?
+[patient]: Yeah, I try to.
+[doctor]: Okay, now let's go ahead and do a physical exam.
+[patient]: Okay.
+[doctor]: Okay, so first, I'm just going to listen to your heart and lungs. Sound good?
+[patient]: Yeah.
+[doctor]: Okay, and now I'm going to listen to your lungs.
+[patient]: Okay.
+[doctor]: Okay, and now I'm going to check your blood pressure.
+[patient]: Okay.
+[doctor]: Okay, so your blood pressure is looking good, and your heart sounds good.
+[doctor]: Okay, now let's talk a little bit about your diagnosis and plan.
+[patient]: Okay.
+[doctor]: Okay, so based on what you've told me and my physical exam findings, it looks like you have acute bronchitis.
+[patient]: Okay, what's that?
+[doctor]: It's an infection of the bronchial tubes, and it's usually caused by a virus.
+[patient]: Okay, and how do we treat that?
+[doctor]: Well, we can treat it with antibiotics, and there are some other medications we can use to help with the symptoms.
+[patient]: Okay, and what kind of antibiotics?
+[doctor]: We can use azithromycin.
+[patient]: Okay, and how long do I need to take it for?
+[doctor]: You'll need to take it for five days.
+[patient]: Okay, and what about my cough?
+[doctor]: We can give you some cough syrup to help with that.
+[patient]: Okay, and what about my rest and fluids?
+[doctor]: You should definitely get plenty of rest and increase your fluid intake.
+[patient]: Okay, and when do I need to follow up with you?
+[doctor]: Let's schedule a follow-up appointment in seven to ten days.
+[patient]: Okay, and what if my symptoms get worse?
+[doctor]: If your symptoms get worse, we may need to do a chest X-ray or refer you to a specialist.
+[patient]: Okay, got it.
+[doctor]: Okay, and do you have any questions for me?
+[patient]: No, I don't think so.
+[doctor]: Okay, well, it was nice seeing you, and I'll talk to you soon.
+[patient]: Yeah, same to you, doc."
+COUGH|"ROLE: General Physician
+1. Medical Outcome: Diagnosis of Acute Bronchitis, prescribed treatment with a cough suppressant (Robitussin, 10ml, 3 times a day, oral, for 5 days), follow-up recommendations (in 3 days), and referral to a pulmonologist if symptoms persist.
+2. Medical History: Previous Diagnoses - Hypertension, Family Medical History - Mother had asthma, Medication History - Currently taking atenolol for hypertension, Allergies - None, Chronic Conditions - None.
+3. Symptom Description: Severity - Moderate, Duration - 4 days, Associated Symptoms - Sore throat, runny nose, Frequency - Constant cough, Impact on Daily Activities - Mild interference with sleep and daily activities.
+4. Patient’s self-reported habits and lifestyle: Sleep - 7 hours a day, Diet - Balanced, Exercise - Occasional walking, Tobacco Use - Non-smoker, Alcohol Consumption - Social drinker, Drug Use - None, Recreational Activities - Reading, spending time with family.
+5. Demographic Information: Age - 45, Gender - Female, Ethnicity - Caucasian, Socio-economic Status - Middle class, Education Level - College graduate, Health Literacy - Good, Job Status - Part-time worker.
+6. Patient's Behavior: Cooperative with medical advice.
+7. Geographical Location: Urban, Big City, Neighbourhood - Affluent, Access to public transportation - Good, Exposure to pollution - Low.
+8. Clinical Setting: General Practice Clinic.
+9. Type of Encounter: Initial Consultation.
+10. Treatment Disparities: None.
+11. Native or Non-Native English Speaking Patient: Native English speaker.
+12. Physical exams: 
+    - Ear, nose, and throat examination - Slight redness of the throat, 
+    - Chest examination - Normal, 
+    - Other examinations - Abdomen and neurological examination - Normal.
+13. Investigation/Test results: Not required for this scenario, however a Complete Blood Count (CBC) may be ordered if symptoms persist."|"**1. Subjective:**
+Since the result of rolling a dice is odd (let's say 5), this part will be broken down into sub-parts.
+
+*   **Chief Complaint (CC):** 
+    The patient is a 45-year-old female who presents with a moderate, constant cough that has lasted for 4 days, associated with a sore throat and runny nose. The cough is interfering mildly with her sleep and daily activities.
+*   **History of Present Illness (HPI):**
+    The patient reports that her symptoms started 4 days ago with a sore throat and runny nose, followed by a constant cough. She has been taking her medication for hypertension as prescribed and has not noticed any significant triggers for her symptoms.
+*   **Review of Systems (ROS):**
+    The patient endorses a cough and sore throat but denies any fever, chest pain, or difficulty breathing. Her review of systems is otherwise unremarkable.
+
+**2. Objective:**
+
+*   **Vital Signs:** 
+    Not explicitly mentioned, but assumed to be within normal limits given the context of acute bronchitis.
+*   **Physical Examination Findings:**
+    - Ear, nose, and throat examination revealed slight redness of the throat.
+    - Chest examination was normal.
+    - Abdomen and neurological examination were normal.
+*   **Test Results:**
+    No tests were deemed necessary for this initial consultation, but a Complete Blood Count (CBC) may be ordered if symptoms persist.
+
+**3. Assessment:**
+
+The patient is diagnosed with Acute Bronchitis. The diagnosis is based on her symptoms of a constant cough, sore throat, and runny nose, along with the physical examination findings.
+
+**4. Plan:**
+
+*   **Treatment:**
+    - The patient is prescribed a cough suppressant (Robitussin, 10ml, 3 times a day, oral, for 5 days) to manage her cough.
+    - She is advised to continue taking her medication for hypertension (atenolol) as prescribed.
+*   **Follow-up:**
+    - The patient is scheduled for a follow-up appointment in 3 days to assess the resolution of her symptoms.
+*   **Referral:**
+    - If her symptoms persist or worsen, she will be referred to a pulmonologist for further evaluation and management.
+*   **Patient Education:**
+    - The patient is educated on the importance of completing the full course of her medication, staying hydrated, and managing her symptoms.
+    - She is also advised to avoid smoking and second-hand smoke exposure, though she is a non-smoker."|"**1. Subjective:**
+The patient, Emily Wilson, is a 45-year-old female who presents with a moderate, constant cough that has lasted for 4 days, associated with a sore throat and runny nose. The cough is interfering mildly with her sleep and daily activities.
+She reports that her symptoms started 4 days ago with a sore throat and runny nose, followed by a constant cough. She has been taking her medication for hypertension as prescribed and has not noticed any significant triggers for her symptoms.
+The patient endorses a cough and sore throat but denies any fever, chest pain, or difficulty breathing. Her review of systems is otherwise unremarkable.
+
+**2. Objective:**
+*   **Vital Signs:** 
+    Not explicitly mentioned, but assumed to be within normal limits given the context of acute bronchitis.
+*   **Physical Examination Findings:**
+    - Ear, nose, and throat examination revealed slight redness of the throat.
+    - Chest examination was normal.
+    - Abdomen and neurological examination were normal.
+*   **Test Results:**
+    No tests were deemed necessary for this initial consultation.
+
+**3. Assessment:**
+The patient is diagnosed with Acute Bronchitis. The diagnosis is based on her symptoms of a constant cough, sore throat, and runny nose, along with the physical examination findings.
+
+**4. Plan:**
+*   **Treatment:**
+    - The patient is prescribed a cough suppressant (Robitussin, 10ml, 3 times a day, oral, for 5 days) to manage her cough.
+    - She is advised to continue taking her medication for hypertension (atenolol) as prescribed.
+*   **Follow-up:**
+    - The patient is scheduled for a follow-up appointment in 3 days to assess the resolution of her symptoms.
+*   **Referral:**
+    - If her symptoms persist or worsen, she will be referred to Dr. Sophia Patel, a pulmonologist, for further evaluation and management of her respiratory condition.
+*   **Patient Education:**
+    - The patient is educated on the importance of completing the full course of her medication, staying hydrated, and managing her symptoms.
+    - She is also advised to avoid smoking and second-hand smoke exposure."|ablation|General Physician|"<rewritten_response> Doctor: Hi, how are you feeling today?
+
+Patient: I'm feeling a bit under the weather, to be honest. I've had a cough for the past 4 days, and it's been really annoying.
+
+Doctor: I see. Can you tell me more about your cough? Is it a dry cough or are you bringing up any phlegm?
+
+Patient: It's more of a constant cough, and I haven't really been bringing up anything. It started with a sore throat and a runny nose, and then the cough just kind of came on.
+
+Doctor: Okay, that's helpful to know. Have you noticed any other symptoms like fever or chest pain?
+
+Patient: No, I don't think so. I mean, my throat is sore, but that's about it.
+
+Doctor: Alright. And have you been taking all your medications as prescribed?
+
+Patient: Yeah, I have. I've been taking my medication for my hypertension like I'm supposed to.
+
+Doctor: Great. And can you tell me a bit about your medical history? Do you have any other conditions that might be relevant?
+
+Patient: Well, like I said, I have hypertension. But other than that, I don't think there's anything else that's really relevant.
+
+Doctor: Okay, that's helpful to know. Let's take a look at your throat and see what's going on. (pauses to examine the patient) Hmm, your throat does look a bit red.
+
+Patient: Yeah, I kind of figured that might be the case.
+
+Doctor: Okay. And your lungs sound clear. (pauses to examine the patient's lungs) I don't hear anything out of the ordinary.
+
+Patient: That's good, right?
+
+Doctor: Yeah, that is good. Now, I think we can probably manage this with some medication and some rest. I'm going to prescribe you a cough suppressant to help with the cough.
+
+Patient: Okay, that sounds good.
+
+Doctor: And I want you to continue taking your medication for your hypertension as prescribed. It's also very important that you stay hydrated and get plenty of rest.
+
+Patient: Okay, got it.
+
+Doctor: And just to be on the safe side, I want to see you back here in 3 days to check in on how you're doing.
+
+Patient: Sounds good.
+
+Doctor: Great. And if for any reason your symptoms get worse or you start to feel like you're having trouble breathing, don't hesitate to come back in sooner.
+
+Patient: Alright, will do.
+
+Doctor: Okay, and one more thing. I want to remind you to avoid smoking and second-hand smoke exposure. It's really important for your overall health.
+
+Patient: Okay, I'm not a smoker anyway, but thanks for looking out for me.
+
+Doctor: You're welcome. Just take care of yourself and I'll see you in a few days.
+
+Patient: Sounds good, thanks.
+
+Doctor: You're welcome. Take care now."|"[doctor]: Hi, how are you feeling today?
+
+         [patient]: I'm feeling a bit under the weather, to be honest. I've had a cough for the past 4 days, and it's been really annoying.
+
+         [doctor]: I see. Can you tell me more about your cough? Is it a dry cough or are you bringing up any phlegm?
+
+         [patient]: It's more of a constant cough, and I haven't really been bringing up anything. It started with a sore throat and a runny nose, and then the cough just kind of came on.
+
+         [doctor]: Okay, that's helpful to know. Have you noticed any other symptoms like fever or chest pain?
+
+         [patient]: No, I don't think so. I mean, my throat is sore, but that's about it.
+
+         [doctor]: Alright. And have you been taking all your medications as prescribed?
+
+         [patient]: Yeah, I have. I've been taking my medication for my hypertension like I'm supposed to.
+
+         [doctor]: Great. And can you tell me a bit about your medical history? Do you have any other conditions that might be relevant?
+
+         [patient]: Well, like I said, I have hypertension. But other than that, I don't think there's anything else that's really relevant.
+
+         [doctor]: Okay, that's helpful to know. Let's take a look at your throat and see what's going on. (pauses to examine the patient) Hmm, your throat does look a bit red.
+
+         [patient]: Yeah, I kind of figured that might be the case.
+
+         [doctor]: Okay. And your lungs sound clear. (pauses to examine the patient's lungs) I don't hear anything out of the ordinary.
+
+         [patient]: That's good, right?
+
+         [doctor]: Yeah, that is good. Now, I think we can probably manage this with some medication and some rest. I'm going to prescribe you a cough suppressant, Robitussin, 10ml, 3 times a day, oral, for 5 days to help with the cough.
+
+         [patient]: Okay, that sounds good.
+
+         [doctor]: And I want you to continue taking your medication for your hypertension, atenolol, as prescribed. It's also very important that you stay hydrated and get plenty of rest.
+
+         [patient]: Okay, got it.
+
+         [doctor]: And just to be on the safe side, I want to see you back here in 3 days to check in on how you're doing.
+
+         [patient]: Sounds good.
+
+         [doctor]: Great. And if for any reason your symptoms get worse or you start to feel like you're having trouble breathing, don't hesitate to come back in sooner.
+
+         [patient]: Alright, will do.
+
+         [doctor]: Okay, and one more thing. I want to remind you to avoid smoking and second-hand smoke exposure. It's really important for your overall health.
+
+         [patient]: Okay, I'm not a smoker anyway, but thanks for looking out for me.
+
+         [doctor]: You're welcome. Just take care of yourself and I'll see you in a few days.
+
+         [patient]: Sounds good, thanks.
+
+         [doctor]: You're welcome. Take care now."
+COUGH|"ROLE: General Physician
+
+1. Medical Outcome: Diagnosis of Acute Bronchitis, prescribed treatment with over-the-counter (OTC) cough medications (such as dextromethorphan), follow-up recommendations in 1 week, and referral to a pulmonary specialist if symptoms persist.
+   - Medication: Dextromethorphan 15mg, 3 times a day, orally, for 5 days, 15 tablets in total.
+   - Blood work: NA
+   - Imaging: Chest X-ray to rule out pneumonia, to be done in the radiology department of our hospital.
+
+2. Medical History: Previous diagnoses of asthma, family history of allergies, medication history of occasional use of albuterol inhaler, no known allergies, and chronic condition of asthma.
+
+3. Symptom Description: Severity of cough is 6/10, duration is 3 days, associated symptoms are runny nose and fatigue, frequency is constant, and impact on daily activities is moderate as the patient is still able to work.
+
+4. Patient’s self-reported habits and lifestyle: Sleeps 7 hours a night, follows a balanced diet, exercises 2 times a week, denies tobacco use, consumes alcohol socially, denies recreational drug use, and enjoys playing soccer.
+
+5. Demographic Information: Age 25, female, Caucasian, middle-class, college-educated, health literate, and employed full-time as an office administrator.
+
+6. Patient's Behavior: Cooperative with medical advice.
+
+7. Geographical Location: Urban, big city, with moderate pollution levels, lives in an affluent neighborhood with good access to public transportation and grocery stores.
+
+8. Clinical Setting: Private practice, primary care clinic.
+
+9. Type of Encounter: Initial consultation.
+
+10. Treatment Disparities: None identified.
+
+11. Native or Non-Native English Speaking Patient: Native English speaker.
+
+12. Physical exams: Vital signs are within normal limits, lung exam shows wheezing bilaterally, and the rest of the physical exam is unremarkable.
+
+13. Investigation/Test results: pending chest X-ray results."|"**1. Subjective:**
+Since the dice roll result is odd, this section will be broken down into several sub-parts.
+
+* **Chief Complaint (CC):** The patient is a 25-year-old female presenting with a 3-day history of cough, with a severity of 6/10, constant frequency, and moderate impact on daily activities. The cough is associated with runny nose and fatigue.
+* **History of Present Illness (HPI):** The patient reports that her symptoms started 3 days ago with no identifiable cause. She has been experiencing a constant cough, with associated symptoms of runny nose and fatigue. The patient has a history of asthma and occasional use of an albuterol inhaler.
+* **Review of Systems (ROS):**
+  • **Constitutional:** Denies fever, chills. Reports fatigue.
+  • **Cardiovascular:** Denies chest pain.
+  • **Respiratory:** Reports cough and runny nose. Endorses wheezing.
+  • **Musculoskeletal:** Denies joint pain, swelling, or muscle pain.
+  • **Neurological:** Denies headaches, dizziness, or lightheadedness.
+  • **Psychiatric:** Denies anxiety or depression.
+
+**2. Objective:**
+* **Vital Signs:** Within normal limits.
+* **Physical Examination:** Lung exam shows bilateral wheezing. The rest of the physical exam is unremarkable.
+* **Test Results:** Pending chest X-ray results to rule out pneumonia.
+
+**3. Assessment:**
+The patient is diagnosed with Acute Bronchitis. The patient's symptoms, including cough, runny nose, and fatigue, are consistent with this diagnosis. The patient's history of asthma and occasional use of an albuterol inhaler is also taken into consideration.
+
+**4. Plan:**
+* **Medical Treatment:** The patient is prescribed dextromethorphan 15mg, 3 times a day, orally, for 5 days, to help manage cough symptoms.
+* **Follow-up:** The patient is advised to follow up in 1 week to reassess symptoms.
+* **Referral:** If symptoms persist, the patient will be referred to a pulmonary specialist for further evaluation and management.
+* **Lifestyle Modifications:** The patient is advised to continue exercising, get plenty of rest, and maintain a balanced diet to help manage symptoms and support overall health."|"**1. Subjective:**
+The patient, Emily Wilson, is a 25-year-old female presenting with a 3-day history of cough, with a severity of 6/10, constant frequency, and moderate impact on daily activities. The cough is associated with runny nose and fatigue.
+The patient reports that her symptoms started 3 days ago with no identifiable cause. She has been experiencing a constant cough, with associated symptoms of runny nose and fatigue. The patient has a history of asthma and occasional use of an albuterol inhaler.
+  • **Constitutional:** Denies fever, chills. Reports fatigue.
+  • **Cardiovascular:** Denies chest pain.
+  • **Respiratory:** Reports cough and runny nose. Endorses wheezing.
+  • **Musculoskeletal:** Denies joint pain, swelling, or muscle pain.
+  • **Neurological:** Denies headaches, dizziness, or lightheadedness.
+  • **Psychiatric:** Denies anxiety or depression.
+
+**2. Objective:**
+* **Vital Signs:** Within normal limits.
+* **Physical Examination:** Lung exam shows bilateral wheezing. The rest of the physical exam is unremarkable.
+* **Test Results:** Pending chest X-ray results to rule out pneumonia.
+
+**3. Assessment:**
+The patient is diagnosed with Acute Bronchitis. The patient's symptoms, including cough, runny nose, and fatigue, are consistent with this diagnosis. The patient's history of asthma and occasional use of an albuterol inhaler is also taken into consideration.
+
+**4. Plan:**
+* **Medical Treatment:** The patient is prescribed dextromethorphan 15mg, 3 times a day, orally, for 5 days, to help manage cough symptoms.
+* **Imaging:** A chest X-ray is ordered to rule out pneumonia.
+* **Follow-up:** The patient is advised to follow up in 1 week to reassess symptoms.
+* **Referral:** If symptoms persist, the patient will be referred to Dr. Rachel Lee, a pulmonary specialist, for further evaluation and management of her respiratory condition.
+* **Lifestyle Modifications:** The patient is advised to continue exercising, get plenty of rest, and maintain a balanced diet to help manage symptoms and support overall health."|ablation|General Physician|"<hr/>
+Doctor: Hi there, thanks for coming in today. Can you start by telling me a little bit about what brings you here? What seems to be the problem?
+
+Patient: Hi doctor. Yeah, I've just had this really annoying cough for the past three days, and it's just been getting worse. I'd say it's about a 6 out of 10 in terms of how bad it is.
+
+Doctor: I see. And can you tell me more about this cough? Is it constant, or does it come and go?
+
+Patient: It's pretty constant, really. I mean, I'll get moments where it's not as bad, but overall, it's just been hanging around.
+
+Doctor: Okay, got it. And have you noticed anything that triggers it or makes it worse?
+
+Patient: Not really, no. I just wake up with it, and it's there all day. Although, I have noticed I've been feeling really tired and my nose has been running non-stop.
+
+Doctor: Okay, that's helpful to know. And have you had any fever or chills?
+
+Patient: No, nothing like that.
+
+Doctor: Alright. And can you tell me a bit about your medical history? Have you had anything like this before?
+
+Patient: Well, I do have asthma, and I use an inhaler occasionally.
+
+Doctor: Okay, that's good to know. And are you using your inhaler more often than usual because of this cough?
+
+Patient: Not really, no more than usual.
+
+Doctor: Alright. And have you had any chest pain or difficulty breathing?
+
+Patient: No, nothing like that.
+
+Patient: Hmm, sorry, what was that?
+
+Doctor: I was just asking if you've had any chest pain or difficulty breathing.
+
+Patient: Oh, no, nothing like that.
+
+Doctor: Okay, good. And do you have any joint pain or muscle aches?
+
+Patient: No, just the cough and the runny nose, really.
+
+Doctor: Alright. And how about headaches or feeling dizzy?
+
+Patient: No, nothing like that.
+
+Doctor: Okay, good. Now, I'm going to take a listen to your lungs, okay?
+
+Patient: Okay.
+
+Doctor: (after examination) Okay, I can hear some wheezing in there. We're going to go ahead and get a chest X-ray, just to rule out anything more serious like pneumonia.
+
+Patient: Okay, that sounds good.
+
+Doctor: Yeah, just to be safe. Now, based on what you've told me, it sounds like you might have acute bronchitis.
+
+Patient: Okay, what's that?
+
+Doctor: It's an inflammation of the bronchial tubes. But don't worry, it's pretty common and we can treat it.
+
+Patient: Okay, good.
+
+Doctor: Yeah. So, I'm going to prescribe you something to help with the cough. It's called dextromethorphan.
+
+Patient: Okay, how do I take it?
+
+Doctor: You'll take 15mg, three times a day, orally, for 5 days.
+
+Patient: Alright, got it.
+
+Doctor: And I want to see you back here in a week to check on your symptoms, okay?
+
+Patient: Okay, sounds good.
+
+Doctor: Yeah, and if things don't improve, we might need to send you to see a specialist.
+
+Patient: Okay, that makes sense.
+
+Doctor: Yeah. Now, is there anything else you'd like to ask me or any concerns you have?
+
+Patient: No, I don't think so.
+
+Doctor: Alright, well, just remember to keep exercising, get plenty of rest, and eat well, okay?
+
+Patient: Yeah, will do. Thanks, doctor.
+
+Doctor: You're welcome. Feel better soon."|"[doctor]: Hi there, thanks for coming in today. Can you start by telling me a little bit about what brings you here? What seems to be the problem?
+
+[patient]: Hi doctor. Yeah, I've just had this really annoying cough for the past three days, and it's just been getting worse. I'd say it's about a 6 out of 10 in terms of how bad it is.
+
+[doctor]: Hmm, okay. And can you tell me more about this cough? Is it constant, or does it come and go?
+
+[patient]: It's pretty constant, really. I mean, I'll get moments where it's not as bad, but overall, it's just been hanging around.
+
+[doctor]: Yes, okay. And have you noticed anything that triggers it or makes it worse?
+
+[patient]: Not really, no. I just wake up with it, and it's there all day. Although, I have noticed I've been feeling really tired and my nose has been running non-stop.
+
+[doctor]: Okay, that's helpful to know. And have you had any fever or chills?
+
+[patient]: No, nothing like that.
+
+[doctor]: Alright. And can you tell me a bit about your medical history? Have you had anything like this before?
+
+[patient]: Well, I do have asthma, and I use an inhaler occasionally.
+
+[doctor]: Okay, that's good to know. And are you using your inhaler more often than usual because of this cough?
+
+[patient]: Not really, no more than usual.
+
+[doctor]: Alright. And have you had any chest pain or difficulty breathing?
+
+[patient]: No, nothing like that.
+
+[patient]: Hmm, sorry, what was that?
+
+[doctor]: I was just asking if you've had any chest pain or difficulty breathing.
+
+[patient]: Oh, no, nothing like that.
+
+[doctor]: Okay, good. And do you have any joint pain or muscle aches?
+
+[patient]: No, just the cough and the runny nose, really.
+
+[doctor]: Alright. And how about headaches or feeling dizzy?
+
+[patient]: No, nothing like that.
+
+[doctor]: Okay, good. Now, I'm going to take a listen to your lungs, okay?
+
+[patient]: Okay.
+
+[doctor]: (after examination) Okay, I can hear some wheezing in there. We're going to go ahead and get a chest X-ray, just to rule out anything more serious like pneumonia.
+
+[patient]: Okay, that sounds good.
+
+[doctor]: Yeah, just to be safe. Now, based on what you've told me, it sounds like you might have acute bronchitis.
+
+[patient]: Okay, what's that?
+
+[doctor]: It's an inflammation of the bronchial tubes. But don't worry, it's pretty common and we can treat it.
+
+[patient]: Okay, good.
+
+[doctor]: Yeah. So, I'm going to prescribe you something to help with the cough. It's called dextromethorphan.
+
+[patient]: Okay, how do I take it?
+
+[doctor]: You'll take 15mg, three times a day, orally, for 5 days.
+
+[patient]: Alright, got it.
+
+[doctor]: And I want to see you back here in a week to check on your symptoms, okay?
+
+[patient]: Okay, sounds good.
+
+[doctor]: Yeah, and if things don't improve, we might need to send you to see a specialist.
+
+[patient]: Okay, that makes sense.
+
+[doctor]: Yeah. Now, is there anything else you'd like to ask me or any concerns you have?
+
+[patient]: No, I don't think so.
+
+[doctor]: Alright, well, just remember to keep exercising, get plenty of rest, and eat well, okay?
+
+[patient]: Yeah, will do. Thanks, doctor.
+
+[doctor]: You're welcome. Feel better soon."
+COUGH|"ROLE: Family Medicine Physician
+
+1. Medical Outcome: 
+   - Diagnosis: Acute bronchitis 
+   - Prescribed Treatment: Amoxicillin 500mg orally three times a day for 7 days
+   - Follow-up Recommendations: Follow-up appointment in 2 weeks to assess symptoms improvement
+   - Referral to specialists: Referral to a pulmonologist if symptoms persist
+   - Referral to further tests or imaging: Order for Chest X-ray if symptoms worsen
+   - Medication Adjustment: NA
+   - Lifestyle Change: Increase fluid intake, get plenty of rest
+
+2. Medical History: 
+   - Previous Diagnoses: Hypertension, Hyperlipidemia
+   - Family Medical History: Mother had chronic bronchitis
+   - Medication History: Currently taking atenolol and simvastatin
+   - Allergies: Allergic to penicillin
+   - Chronic Conditions: Hypertension, Hyperlipidemia
+
+3. Symptom Description: 
+   - Severity: Moderate
+   - Duration: 3 days
+   - Associated Symptoms: Fever, fatigue
+   - Frequency: Constant cough
+   - Impact on Daily Activities: Unable to work due to cough
+
+4. Patient’s self-reported habits and lifestyle: 
+   - Sleep: 6 hours per night
+   - Diet: Balanced diet
+   - Exercise: Minimal physical activity
+   - Tobacco Use: Ex-smoker, quit 10 years ago
+   - Alcohol Consumption: Occasional drinker
+   - Drug Use: NA
+   - Recreational Activities: Reading, watching TV
+
+5. Demographic Information: 
+   - Age: 55
+   - Gender: Male
+   - Ethnicity: African American
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: Good understanding of health information
+   - Job Status: Employed full-time
+
+6. Patient's Behavior: 
+   - Cooperative with medical advice
+
+7. Geographical Location: 
+   - Big City
+   - Urban area
+   - Moderate pollution level
+
+8. Clinical Setting: 
+   - Community Health Clinic
+
+9. Type of Encounter: 
+   - Initial Consultation
+
+10. Treatment Disparities: 
+    - No disparity in treatment
+
+11. Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+12. Physical exams: 
+    - Lung exam shows wheezing
+
+13. Investigation/Test results: 
+    - Order for Complete Blood Count (CBC) and blood chemistry to rule out infection or other underlying conditions. <|eot_id|>
+<|start_header_id|>user<|end_header_id|> To evaluate this scenario, I will follow the conditions provided.
+
+First, since this is the initial scenario, there are no previously approved scenarios to compare with. Therefore, I will proceed to check conditions (b) and (c) directly.
+
+Condition (b) requires the scenario to be medically correct in terms of symptoms, tests, diagnosis, and treatment. The patient is diagnosed with acute bronchitis and is prescribed amoxicillin, which is a common antibiotic for such conditions. However, the patient is also noted to be allergic to penicillin, which makes the prescription of amoxicillin (a penicillin derivative) medically incorrect. This discrepancy makes the scenario not meet condition (b).
+
+Condition (c) requires the scenario to be plausible. Given the inconsistency in the medical treatment due to the patient's allergy to penicillin, the scenario as presented is not plausible because it does not align with standard medical practice to prescribe a medication to which the patient is allergic.
+
+Given that the scenario fails to meet at least one of the conditions (specifically condition b and by extension condition c due to the implausibility of the prescribed treatment), the decision is:
+
+NoGo
+The scenario does not meet the medical correctness condition due to the prescription of amoxicillin to a patient allergic to penicillin. To correct this, an alternative antibiotic that the patient is not allergic to should be prescribed. Additionally, ensuring that the treatment plan aligns with the patient's medical history and allergies is crucial for a plausible and medically correct scenario.<|eot_id|> <|eot_id|>assistant<|end_header_id|>
+
+ROLE: Family Medicine Physician
+
+1. Medical Outcome: 
+   - Diagnosis: Acute bronchitis 
+   - Prescribed Treatment: Azithromycin 250mg orally once a day for 5 days
+   - Follow-up Recommendations: Follow-up appointment in 2 weeks to assess symptoms improvement
+   - Referral to specialists: Referral to a pulmonologist if symptoms persist
+   - Referral to further tests or imaging: Order for Chest X-ray if symptoms worsen
+   - Medication Adjustment: NA
+   - Lifestyle Change: Increase fluid intake, get plenty of rest
+
+2. Medical History: 
+   - Previous Diagnoses: Hypertension, Hyperlipidemia
+   - Family Medical History: Mother had chronic bronchitis
+   - Medication History: Currently taking atenolol and simvastatin
+   - Allergies: Allergic to penicillin
+   - Chronic Conditions: Hypertension, Hyperlipidemia
+
+3. Symptom Description: 
+   - Severity: Moderate
+   - Duration: 3 days
+   - Associated Symptoms: Fever, fatigue
+   - Frequency: Constant cough
+   - Impact on Daily Activities: Unable to work due to cough
+
+4. Patient’s self-reported habits and lifestyle: 
+   - Sleep: 6 hours per night
+   - Diet: Balanced diet
+   - Exercise: Minimal physical activity
+   - Tobacco Use: Ex-smoker, quit 10 years ago
+   - Alcohol Consumption: Occasional drinker
+   - Drug Use: NA
+   - Recreational Activities: Reading, watching TV
+
+5. Demographic Information: 
+   - Age: 55
+   - Gender: Male
+   - Ethnicity: African American
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: Good understanding of health information
+   - Job Status: Employed full-time
+
+6. Patient's Behavior: 
+   - Cooperative with medical advice
+
+7. Geographical Location: 
+   - Big City
+   - Urban area
+   - Moderate pollution level
+
+8. Clinical Setting: 
+   - Community Health Clinic
+
+9. Type of Encounter: 
+   - Initial Consultation
+
+10. Treatment Disparities: 
+    - No disparity in treatment
+
+11. Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+12. Physical exams: 
+    - Lung exam shows wheezing
+
+13. Investigation/Test results: 
+    - Order for Complete Blood Count (CBC) and blood chemistry to rule out infection or other underlying conditions."|"**1. Subjective:**
+
+The patient is a 55-year-old African American male presenting with a chief complaint of a constant cough, fever, and fatigue for the past 3 days. He reports that his symptoms have been worsening over time and are impacting his ability to work. His medical history is significant for hypertension and hyperlipidemia, for which he is currently taking atenolol and simvastatin. He has a family history of chronic bronchitis, as his mother suffered from the condition. The patient is allergic to penicillin. 
+
+**History of Present Illness (HPI):**
+
+The patient's symptoms started 3 days ago with a sudden onset of cough and fever. He initially thought it was a common cold but noticed that his symptoms were getting worse, prompting him to seek medical attention. He denies any recent travel or exposure to sick contacts. The patient's cough is constant and is not relieved by any over-the-counter medications he has tried.
+
+**Review of Systems (ROS):**
+
+- General: The patient reports feeling unwell and tired.
+- Respiratory: Constant cough and fever.
+- Cardiovascular: No chest pain or shortness of breath.
+- Gastrointestinal: No nausea or vomiting.
+- Musculoskeletal: No muscle aches.
+- Integumentary: No rash.
+
+**2. Objective:**
+
+- Vital Signs: Temperature 101.5°F, Blood Pressure 140/90 mmHg, Pulse 100 bpm, Respiratory Rate 22 bpm.
+- Physical Examination: Lung exam shows wheezing.
+- Laboratory Tests: Order for Complete Blood Count (CBC) and blood chemistry to rule out infection or other underlying conditions.
+- Imaging Studies: Order for Chest X-ray if symptoms worsen.
+
+**3. Assessment:**
+
+Based on the patient's presentation, medical history, and physical examination findings, the diagnosis is acute bronchitis. The patient's symptoms of constant cough, fever, and fatigue, along with the lung exam showing wheezing, support this diagnosis.
+
+**4. Plan:**
+
+- Medications: Azithromycin 250mg orally once a day for 5 days, as the patient is allergic to penicillin.
+- Lifestyle Modifications: Increase fluid intake, get plenty of rest to help manage symptoms.
+- Follow-up: Schedule a follow-up appointment in 2 weeks to assess symptoms improvement.
+- Referrals: Consider referral to a pulmonologist if symptoms persist.
+- Additional Tests: Order for Chest X-ray if symptoms worsen to rule out other complications such as pneumonia."|"**1. Subjective:**
+The patient, John Smith, is a 55-year-old African American male presenting with a chief complaint of a constant cough, fever, and fatigue for the past 3 days. He reports that his symptoms have been worsening over time and are impacting his ability to work. His medical history is significant for hypertension and hyperlipidemia, for which he is currently taking atenolol and simvastatin. He has a family history of chronic bronchitis, as his mother suffered from the condition. The patient is allergic to penicillin. 
+
+**History of Present Illness (HPI):**
+
+The patient's symptoms started 3 days ago with a sudden onset of cough and fever. He initially thought it was a common cold but noticed that his symptoms were getting worse, prompting him to seek medical attention. He denies any recent travel or exposure to sick contacts. The patient's cough is constant and is not relieved by any over-the-counter medications he has tried.
+
+**Review of Systems (ROS):**
+
+- General: The patient reports feeling unwell and tired.
+- Respiratory: Constant cough and fever.
+- Cardiovascular: No chest pain or shortness of breath.
+- Gastrointestinal: No nausea or vomiting.
+- Musculoskeletal: No muscle aches.
+- Integumentary: No rash.
+
+**2. Objective:**
+
+- Vital Signs: Temperature 101.5°F, Blood Pressure 140/90 mmHg, Pulse 100 bpm, Respiratory Rate 22 bpm.
+- Physical Examination: Lung exam shows wheezing.
+- Laboratory Tests: 
+- Imaging Studies: 
+
+**3. Assessment:**
+
+Based on the patient's presentation, medical history, and physical examination findings, the diagnosis is acute bronchitis. The patient's symptoms of constant cough, fever, and fatigue, along with the lung exam showing wheezing, support this diagnosis.
+
+**4. Plan:**
+
+- Medications: Azithromycin 250mg orally once a day for 5 days, as the patient is allergic to penicillin.
+- Lifestyle Modifications: Increase fluid intake, get plenty of rest to help manage symptoms.
+- Follow-up: Schedule a follow-up appointment in 2 weeks to assess symptoms improvement.
+- Referrals: Refer the patient to Dr. Emily Chen, a pulmonologist, if symptoms persist, for further evaluation and management of potential underlying respiratory conditions.
+- Additional Tests: Order for Complete Blood Count (CBC) and blood chemistry to rule out infection or other underlying conditions. Order for Chest X-ray if symptoms worsen to rule out other complications such as pneumonia."|ablation|Family Medicine Physician|"[doctor] Hi, how are you feeling today?
+[patient] I'm not feeling too great, doc. I've had a constant cough, fever, and I'm really tired.
+[doctor] I see. Can you tell me more about your symptoms? How long have you been experiencing them?
+[patient] It started about 3 days ago. I thought it was just a cold, but it's getting worse.
+[doctor] Okay, have you noticed anything that makes your cough better or worse?
+[patient] No, it's just constant. I've tried some over-the-counter meds, but nothing seems to work.
+[doctor] Alright. Have you traveled recently or been around anyone who's been sick?
+[patient] No, I don't think so.
+[doctor] Okay. Can you tell me a little bit about your medical history?
+[patient] Yeah, I have high blood pressure and high cholesterol. I'm taking atenolol and simvastatin for that.
+[doctor] Okay, that's helpful to know. Do you have any allergies I should be aware of?
+[patient] Yeah, I'm allergic to penicillin.
+[doctor] Alright, I'll make sure to note that. What about your family medical history? Is there anything that runs in your family that I should know about?
+[patient] My mom had chronic bronchitis, so maybe that's relevant?
+[doctor] That's good to know. I'm going to take a look at your vital signs now, okay?
+[patient] Okay.
+[doctor] Alright, your temperature is 101.5, your blood pressure is 140/90, your pulse is 100, and your respiratory rate is 22. I'm also going to listen to your lungs, okay?
+[patient] Okay.
+[doctor] Hmm, I hear some wheezing. I'm going to order some tests to help figure out what's going on. I'll get a CBC and some blood chemistry to rule out any underlying infections or conditions.
+[patient] Okay, that sounds good.
+[doctor] And I might order a chest X-ray if your symptoms worsen. But for now, let's start with the blood work.
+[patient] Alright.
+[doctor] Based on what you've told me and what I've found, I think you might have acute bronchitis. I'm going to prescribe you some antibiotics, but since you're allergic to penicillin, we'll use azithromycin instead.
+[patient] Okay, that sounds good.
+[doctor] Yeah, I'll have you take it once a day for 5 days. And make sure to drink plenty of fluids and get lots of rest to help manage your symptoms.
+[patient] Alright, got it.
+[doctor] And I want to see you back in 2 weeks to check on your symptoms. If they persist, we might need to refer you to a specialist.
+[patient] Okay, sounds like a plan.
+[doctor] And just to be safe, if your symptoms get worse, we might need to do a chest X-ray to rule out anything more serious like pneumonia.
+[patient] Okay, I understand.
+[doctor] Alright, do you have any questions for me?
+[patient] No, I don't think so.
+[doctor] Okay, well, let's get you started on that antibiotic and get you feeling better soon.
+[patient] Thanks, doc.
+[doctor] You're welcome. I'll have my nurse come in and get you set up with everything you need.
+[patient] Alright, thanks.
+[doctor] You're welcome. Feel better soon."|"[doctor]: Hi, how are you feeling today?
+         [patient]: I'm not feeling too great, doc. I've had a constant cough, fever, and I'm really tired.
+         [doctor]: I see. Can you tell me more about your symptoms? How long have you been experiencing them? Hmm, you look a bit under the weather.
+         [patient]: It started about 3 days ago. I thought it was just a cold, but it's getting worse. Yeah, I'm feeling pretty crummy.
+         [doctor]: Okay, have you noticed anything that makes your cough better or worse? Yes, let's take a closer look.
+         [patient]: No, it's just constant. I've tried some over-the-counter meds, but nothing seems to work. I'm getting a bit desperate, to be honest.
+         [doctor]: Alright. Have you traveled recently or been around anyone who's been sick? Okay, let me just check some other things.
+         [patient]: No, I don't think so. I've been stuck at home, just trying to rest.
+         [doctor]: Okay. Can you tell me a little bit about your medical history? You know, just to get a better picture of what might be going on.
+         [patient]: Yeah, I have high blood pressure and high cholesterol. I'm taking atenolol and simvastatin for that. My doctor told me to keep an eye on it.
+         [doctor]: Okay, that's helpful to know. Do you have any allergies I should be aware of? Hmm, let me just check your file real quick.
+         [patient]: Yeah, I'm allergic to penicillin. Had a bad reaction when I was a kid.
+         [doctor]: Alright, I'll make sure to note that. What about your family medical history? Is there anything that runs in your family that I should know about? You know, just in case.
+         [patient]: My mom had chronic bronchitis, so maybe that's relevant? She had a tough time with it, so I'm a bit worried.
+         [doctor]: That's good to know. I'm going to take a look at your vital signs now, okay? This will just take a sec.
+         [patient]: Okay.
+         [doctor]: Alright, your temperature is 101.5, your blood pressure is 140/90, your pulse is 100, and your respiratory rate is 22. I'm also going to listen to your lungs, okay? Just breathe normally for me.
+         [patient]: Okay.
+         [doctor]: Hmm, I hear some wheezing. I'm going to order some tests to help figure out what's going on. I'll get a CBC and some blood chemistry to rule out any underlying infections or conditions. This will help us get to the bottom of things.
+         [patient]: Okay, that sounds good. What's a CBC, doc?
+         [doctor]: It's just a complete blood count. It helps us check for any infections or other issues in your blood. Don't worry, it's a pretty common test.
+         [patient]: Alright.
+         [doctor]: And I might order a chest X-ray if your symptoms worsen. But for now, let's start with the blood work. We'll get you fixed up in no time.
+         [patient]: Alright.
+         [doctor]: Based on what you've told me and what I've found, I think you might have acute bronchitis. I'm going to prescribe you some antibiotics, but since you're allergic to penicillin, we'll use azithromycin instead. This should help clear things up.
+         [patient]: Okay, that sounds good. How long will it take to work?
+         [doctor]: Yeah, I'll have you take it once a day for 5 days. And make sure to drink plenty of fluids and get lots of rest to help manage your symptoms. You should start feeling better in a few days.
+         [patient]: Alright, got it.
+         [doctor]: And I want to see you back in 2 weeks to check on your symptoms. If they persist, we might need to refer you to a specialist. Just to be safe, you know?
+         [patient]: Okay, sounds like a plan.
+         [doctor]: And just to be safe, if your symptoms get worse, we might need to do a chest X-ray to rule out anything more serious like pneumonia. But let's not worry about that right now.
+         [patient]: Okay, I understand.
+         [doctor]: Alright, do you have any questions for me? Anything at all?
+         [patient]: No, I don't think so. You've explained everything pretty clearly, doc.
+         [doctor]: Okay, well, let's get you started on that antibiotic and get you feeling better soon. I'll have my nurse come in and get you all set up.
+         [patient]: Thanks, doc.
+         [doctor]: You're welcome. Feel better soon. We'll get through this together."
+COUGH|"ROLE: Family Medicine Physician
+
+1. Medical Outcome: 
+   - Diagnosis: Acute bronchitis 
+   - Prescribed Treatment: Amoxicillin 500mg orally three times a day for 7 days
+   - Follow-up Recommendations: Follow-up appointment in 2 weeks to assess symptoms improvement
+   - Referral to specialists: Referral to a pulmonologist if symptoms persist
+   - Referral to further tests or imaging: Order for Chest X-ray if symptoms worsen
+   - Medication Adjustment: NA
+   - Lifestyle Change: Increase fluid intake, get plenty of rest
+
+2. Medical History: 
+   - Previous Diagnoses: Hypertension, Hyperlipidemia
+   - Family Medical History: Mother had chronic bronchitis
+   - Medication History: Currently taking atenolol and simvastatin
+   - Allergies: Allergic to penicillin
+   - Chronic Conditions: Hypertension, Hyperlipidemia
+
+3. Symptom Description: 
+   - Severity: Moderate
+   - Duration: 3 days
+   - Associated Symptoms: Fever, fatigue
+   - Frequency: Constant cough
+   - Impact on Daily Activities: Unable to work due to cough
+
+4. Patient’s self-reported habits and lifestyle: 
+   - Sleep: 6 hours per night
+   - Diet: Balanced diet
+   - Exercise: Minimal physical activity
+   - Tobacco Use: Ex-smoker, quit 10 years ago
+   - Alcohol Consumption: Occasional drinker
+   - Drug Use: NA
+   - Recreational Activities: Reading, watching TV
+
+5. Demographic Information: 
+   - Age: 55
+   - Gender: Male
+   - Ethnicity: African American
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: Good understanding of health information
+   - Job Status: Employed full-time
+
+6. Patient's Behavior: 
+   - Cooperative with medical advice
+
+7. Geographical Location: 
+   - Big City
+   - Urban area
+   - Moderate pollution level
+
+8. Clinical Setting: 
+   - Community Health Clinic
+
+9. Type of Encounter: 
+   - Initial Consultation
+
+10. Treatment Disparities: 
+    - No disparity in treatment
+
+11. Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+12. Physical exams: 
+    - Lung exam shows wheezing
+
+13. Investigation/Test results: 
+    - Order for Complete Blood Count (CBC) and blood chemistry to rule out infection or other underlying conditions."|Rejected|Rejected|Rejected|Rejected||

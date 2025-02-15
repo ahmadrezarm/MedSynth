@@ -3,7 +3,7 @@ import os
 
 OPENAI_API_KEY= "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" #os.getenv('TCAIREM_OPENAI_API_KEY')
 
-ACI_TRAIN_SET_PATH="/Users/ahmadrezaie/2_My_papers/Synthetic_Data_Gen_v2/MedSynth/data/input/TaskC-TrainingSet.csv"
+ACI_TRAIN_SET_PATH= "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/input/TaskC-TrainingSet.csv" #"/Users/ahmadrezaie/2_My_papers/Synthetic_Data_Gen_v2/MedSynth/data/input/TaskC-TrainingSet.csv"
 
 
 SCENARIO_PROVIDER_SYSTEM_PROMPT= """Assume you are a very experienced physician and you are conducting research. 
@@ -224,7 +224,7 @@ note_abbreviator_config= {"model": "gpt-4o-2024-08-06", #"gpt-4o" # "gpt-4-1106-
 
 
 
-PATH_TO_SAVE_NOTES= "/Users/ahmadrezaie/2_My_papers/Synthetic_Data_Gen_v2/MedSynth/data/output/notes_dial_pairs" #"/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector"
+PATH_TO_SAVE_NOTES= "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/output/notes_onVector/ablations_on_vector" #"/Users/ahmadrezaie/2_My_papers/Synthetic_Data_Gen_v2/MedSynth/data/output/notes_dial_pairs" #"/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector"
 
 
 # for semantic similarity

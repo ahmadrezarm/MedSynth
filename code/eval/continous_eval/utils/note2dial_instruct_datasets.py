@@ -33,7 +33,7 @@ class InstructDataset(ABC):
             self.dataset = pd.read_csv(dataset_path)
 
         else:
-            self.dataset = pd.read_csv(dataset_path, sep="|")
+            self.dataset = pd.read_csv(dataset_path, sep="~")
 
     def rename_columns(self, columns: dict[str, str]) -> None:
         """

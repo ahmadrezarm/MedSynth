@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/run_tuning.py", line 1, in <module>
+    from utils import model_tuner
+  File "/fs01/home/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/utils/model_tuner.py", line 7, in <module>
+    from unsloth import FastLanguageModel
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/unsloth/__init__.py", line 212, in <module>
+    from .models import *
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/unsloth/models/__init__.py", line 16, in <module>
+    from .granite import FastGraniteModel
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/unsloth/models/granite.py", line 15, in <module>
+    from .llama import *
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/unsloth/models/llama.py", line 64, in <module>
+    from ..save import patch_saving_functions
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/unsloth/save.py", line 2100, in <module>
+    from unsloth_zoo.saving_utils import merge_and_overwrite_lora
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/unsloth_zoo/saving_utils.py", line 173, in <module>
+    from peft.utils.integrations import dequantize_module_weight
+ImportError: cannot import name 'dequantize_module_weight' from 'peft.utils.integrations' (/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/peft/utils/integrations.py)

@@ -1,0 +1,696 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role
+LOW BACK PAIN|"ROLE: Family Medicine Physician
+
+Medical Outcome: 
+- Diagnosis: Low back pain.
+- Prescribed Treatment: Physical therapy recommended, NSAIDs prescribed.
+- NSAID Details: Ibuprofen 400 mg, oral, every 6 hours as needed, for one week, quantity: 28 tablets.
+- Follow-up Recommendations: Return for follow-up in two weeks for reassessment.
+- Referral to specialists: Referred to physiotherapy for ongoing management.
+
+Medical History:
+- Previous Diagnoses: Mild lumbar degenerative disc disease.
+- Chronic Conditions: Hypertension, managed with medication.
+
+Symptom Description:
+- Severity: Moderate pain, described as a dull ache.
+- Duration: Present for 3 weeks.
+- Associated Symptoms: Occasional sharp pain radiating to the right buttock.
+- Frequency: Daily occurrences, worsens with prolonged sitting.
+- Impact on Daily Activities: Difficulty bending and lifting, impacting job duties.
+
+Patient’s self-reported habits and lifestyle:
+- Sleep: Reports difficulty finding a comfortable sleeping position.
+- Exercise: Participates in light walking 2-3 times per week.
+- Tobacco Use: Former smoker, quit 5 years ago.
+- Alcohol Consumption: Occasionally drinks socially, 2-3 drinks per week.
+
+Demographic Information:
+- Age: 45
+- Gender: Male
+- Ethnicity: Caucasian
+- Job Status: Office worker, sedentary lifestyle.
+
+Patient's Behavior:
+- Cooperation: Willing to follow prescribed treatment and participate in physical therapy.
+
+Geographical Location:
+- Big City vs Small City: Resident of a big city.
+- Neighborhood Type: Urban area, moderate pollution and traffic.
+
+Clinical Setting:
+- Private Practice
+
+Type of Encounter:
+- Initial Consultation
+
+Treatment Disparities:
+- None apparent, patient has adequate health insurance coverage.
+
+Native or Non-Native English Speaking Patient:
+- Native English speaking
+
+Physical Exams:
+- Musculoskeletal exam shows tenderness in the lumbar region and decreased range of motion.
+
+Investigation/Test results:
+- Awaiting results from lumbar spine X-ray to assess for any acute changes or fractures."|"**1. Subjective:**
+
+   - **Chief Complaint (CC):** 
+     Low back pain.
+
+   - **History of Present Illness (HPI):** 
+     The patient is a 45-year-old Caucasian male presenting with moderate low back pain, described as a dull ache that has persisted for three weeks. There is occasional sharp pain radiating to the right buttock, exacerbating with prolonged sitting. The pain impacts his ability to bend, lift, and perform his job duties as an office worker. He reports difficulty finding a comfortable sleeping position at night. 
+
+   - **Review of Systems (ROS):**
+     - Musculoskeletal: Reports low back pain with radiation to the right buttock.
+     - Neurological: No numbness or tingling reported.
+     - General: Difficulty sleeping due to discomfort.
+
+   - **Social History:**
+     - Former smoker, quit 5 years ago.
+     - Occasionally consumes alcohol socially, 2-3 drinks per week.
+     - Engages in light walking 2-3 times per week.
+
+**2. Objective:**
+
+   - **Vital Signs:** Stable, within normal limits.
+   
+   - **Physical Exam:**
+     - Musculoskeletal: Tenderness noted in the lumbar region with decreased range of motion.
+     - Neurological: No deficits observed, reflexes within normal limits.
+   
+   - **Investigations:**
+     - Awaiting lumbar spine X-ray results to assess for any acute changes or fractures.
+
+**3. Assessment:**
+
+   - Primary diagnosis is low back pain, likely related to mild lumbar degenerative disc disease exacerbated by sedentary lifestyle and job-related activities. Hypertension noted, currently managed with medication.
+
+**4. Plan:**
+
+   - Initiate NSAID therapy: Ibuprofen 400 mg orally every 6 hours as needed, for one week, quantity: 28 tablets.
+   - Referral to physiotherapy for ongoing management and development of a personalized exercise regimen.
+   - Encourage continuation of light walking, with modifications as needed to avoid exacerbating pain.
+   - Follow up in two weeks for reassessment of symptoms and review of X-ray results.
+   - Patient advised to maintain good posture and consider ergonomic adjustments at work to minimize strain. 
+
+**INSTRUCTIONS:**
+
+- Patient is to contact the office if symptoms worsen or if new symptoms develop. Return for follow-up in two weeks as planned."|"**1. Subjective:**
+
+   - **Chief Complaint (CC):** 
+     Low back pain.
+
+   - **History of Present Illness (HPI):** 
+     The patient is a 45-year-old Caucasian male named John Smith presenting with moderate low back pain, described as a dull ache that has persisted for three weeks. There is occasional sharp pain radiating to the right buttock, exacerbating with prolonged sitting. The pain impacts his ability to bend, lift, and perform his job duties as an office worker. He reports difficulty finding a comfortable sleeping position at night. 
+
+   - **Review of Systems (ROS):**
+     - Musculoskeletal: Reports low back pain with radiation to the right buttock.
+     - Neurological: No numbness or tingling reported.
+     - General: Difficulty sleeping due to discomfort.
+
+   - **Social History:**
+     - Former smoker, quit 5 years ago.
+     - Occasionally consumes alcohol socially, 2-3 drinks per week.
+     - Engages in light walking 2-3 times per week.
+
+**2. Objective:**
+
+   - **Vital Signs:** Stable, within normal limits.
+   
+   - **Physical Exam:**
+     - Musculoskeletal: Tenderness noted in the lumbar region with decreased range of motion.
+     - Neurological: No deficits observed, reflexes within normal limits.
+
+**3. Assessment:**
+
+   - Primary diagnosis is low back pain, likely related to mild lumbar degenerative disc disease exacerbated by sedentary lifestyle and job-related activities. Hypertension noted, currently managed with medication.
+
+**4. Plan:**
+
+   - Initiate NSAID therapy: Ibuprofen 400 mg orally every 6 hours as needed, for one week, quantity: 28 tablets.
+   - Referral to physiotherapy for ongoing management and development of a personalized exercise regimen.
+   - Encourage continuation of light walking, with modifications as needed to avoid exacerbating pain.
+   - Follow up in two weeks for reassessment of symptoms and review of X-ray results.
+   - Patient advised to maintain good posture and consider ergonomic adjustments at work to minimize strain.
+   - Awaiting lumbar spine X-ray results to assess for any acute changes or fractures.
+   - Patient is to contact the office if symptoms worsen or if new symptoms develop. Return for follow-up in two weeks as planned."|ablation|Family Medicine Physician
+LOW BACK PAIN|"ROLE: General Physician
+
+1) Medical Outcome: 
+   - Diagnosis: Low Back Pain
+   - Prescribed treatment: Physical therapy referral focusing on lumbar stabilization exercises.
+   - Medication: Ibuprofen 400 mg, oral, every 6 hours as needed for pain, 30 tablets.
+   - Follow-up recommendations: Return in 4 weeks for reassessment.
+   - Referral to further tests or imaging: MRI of the lumbar spine due to persistent pain despite previous conservative treatments.
+
+2) Medical History: 
+   - Previous Diagnoses: Lumbar strain 6 months ago; hypertension.
+   - Medication History: Previously prescribed acetaminophen for pain management.
+   - Allergies: Penicillin.
+
+3) Symptom Description: 
+   - Severity: Moderate to severe.
+   - Duration: Lasting over 3 months.
+   - Associated Symptoms: Occasional tingling in the left leg.
+   - Frequency: Daily.
+   - Impact on Daily Activities: Difficulty bending and lifting objects at work.
+
+4) Patient’s self-reported habits and lifestyle: 
+   - Sleep: Difficulties sleeping because of pain.
+   - Exercise: Sedentary lifestyle, limited physical activity.
+   - Tobacco Use: Smokes 5 cigarettes daily.
+   - Alcohol Consumption: Drinks socially on weekends.
+
+5) Demographic Information:
+   - Age: 45
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Moderate income, does manual labor.
+   - Education Level: High school graduate.
+   - Job Status: Employed full-time as a warehouse worker.
+
+6) Patient's Behavior: 
+   - Generally cooperative with treatment plans, but finds it hard to maintain regular exercise routines due to work schedule.
+
+7) Geographical Location: 
+   - Big City: Lives in an urban environment.
+   - Neighborhood Type: Moderately affluent area with good access to healthcare services.
+
+8) Clinical Setting: 
+   - Private Practice.
+
+9) Type of Encounter: 
+   - Follow-up.
+
+10) Physical exams:
+    - Lumbar Spine: Tenderness on palpation, limited flexion, negative straight leg raise test.
+
+11) Investigation/Test results: 
+    - Previous X-ray of the lumbar spine showed mild degenerative changes; MRI pending for further evaluation of persistent symptoms.
+
+12) Native or Non-Native English Speaking Patient:
+    - Native English Speaker."|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+The patient, a 45-year-old Caucasian male, presents for a follow-up appointment with ongoing low back pain.
+
+**History of Present Illness (HPI):**  
+The patient reports moderate to severe low back pain persisting for over 3 months. Initially started after a lumbar strain diagnosed six months ago. The pain is exacerbated by bending and lifting objects at his job as a warehouse worker and occurs daily. He experiences occasional tingling in the left leg, which he finds concerning. Previous treatment with acetaminophen provided insufficient relief.
+
+**Review of Systems (ROS):**  
+- Musculoskeletal: Reports moderate to severe lower back pain, occasional tingling in the left leg.
+- Neurological: Denies any numbness or weakness.
+- General: Endorses difficulty sleeping due to pain.
+
+The patient admits to a sedentary lifestyle with limited physical activity, primarily due to his work schedule as a full-time warehouse worker. He smokes five cigarettes daily and drinks alcohol socially on weekends but acknowledges the impact of his habits on his health.
+
+**2. Objective:**
+
+**Vital Signs:**  
+- Blood Pressure: 130/85 mm Hg  
+- Heart Rate: 76 bpm  
+- Respiratory Rate: 16 breaths per minute  
+- Temperature: 98.6°F
+
+**Physical Examination:**  
+- Lumbar Spine: Tenderness to palpation, limited flexion noted. Straight leg raise test is negative.
+
+**Results:**  
+- Previous X-ray of the lumbar spine indicates mild degenerative changes. An MRI is pending for further evaluation due to persistent symptoms despite conservative treatments.
+
+**3. Assessment:**
+
+The patient is a 45-year-old male with a previous diagnosis of lumbar strain and current low back pain. The pain has become chronic, lasting over 3 months, with conservative treatment offering minimal relief. Occasional tingling in the left leg suggests possible nerve involvement. Hypertension is managed, no changes currently indicated. 
+
+**4. Plan:**
+
+- **Low Back Pain:**
+  - Medical Reasoning: Persistent pain necessitates further evaluation.
+  - Additional Testing: Order MRI of the lumbar spine to assess for any structural abnormalities.
+  - Medical Treatment: Prescribe Ibuprofen 400 mg, to be taken orally every 6 hours as needed for pain, with a maximum of 30 tablets.
+  - Specialist Referrals: Referral to physical therapy for lumbar stabilization exercises focusing on reducing pain and improving function.
+
+- **Lifestyle Modifications:**
+  - Encourage smoking cessation and discuss resources for support.
+  - Recommend gradual increase in physical activity within comfort limits.
+  - Discuss potential benefits of sleep hygiene strategies to address insomnia related to pain.
+
+- **Follow-Up:**
+  - Reassess in 4 weeks to evaluate pain management effectiveness and MRI results.
+  - Monitor blood pressure control and provide guidance on any further management as necessary.
+
+The patient understands and agrees with the proposed treatment plan and investigation steps."|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+The patient, a 45-year-old Caucasian male named John Smith, presents for a follow-up appointment with ongoing low back pain.
+
+**History of Present Illness (HPI):**  
+John reports moderate to severe low back pain persisting for over 3 months. Initially started after a lumbar strain diagnosed six months ago. The pain is exacerbated by bending and lifting objects at his job as a warehouse worker and occurs daily. He experiences occasional tingling in the left leg, which he finds concerning. Previous treatment with acetaminophen provided insufficient relief.
+
+**Review of Systems (ROS):**  
+- Musculoskeletal: Reports moderate to severe lower back pain, occasional tingling in the left leg.
+- Neurological: Denies any numbness or weakness.
+- General: Endorses difficulty sleeping due to pain.
+
+John admits to a sedentary lifestyle with limited physical activity, primarily due to his work schedule as a full-time warehouse worker. He smokes five cigarettes daily and drinks alcohol socially on weekends but acknowledges the impact of his habits on his health.
+
+**2. Objective:**
+
+**Vital Signs:**  
+- Blood Pressure: 130/85 mm Hg  
+- Heart Rate: 76 bpm  
+- Respiratory Rate: 16 breaths per minute  
+- Temperature: 98.6°F
+
+**Physical Examination:**  
+- Lumbar Spine: Tenderness to palpation, limited flexion noted. Straight leg raise test is negative.
+
+**Results:**  
+- Previous X-ray of the lumbar spine indicates mild degenerative changes. An MRI is pending for further evaluation due to persistent symptoms despite conservative treatments.
+
+**3. Assessment:**
+
+John is a 45-year-old male with a previous diagnosis of lumbar strain and current low back pain. The pain has become chronic, lasting over 3 months, with conservative treatment offering minimal relief. Occasional tingling in the left leg suggests possible nerve involvement. Hypertension is managed, no changes currently indicated. 
+
+**4. Plan:**
+
+- **Low Back Pain:**
+  - Medical Reasoning: Persistent pain necessitates further evaluation.
+  - Additional Testing: Order MRI of the lumbar spine to assess for any structural abnormalities.
+  - Medical Treatment: Prescribe Ibuprofen 400 mg, to be taken orally every 6 hours as needed for pain, with a maximum of 30 tablets.
+  - Specialist Referrals: Referral to physical therapy for lumbar stabilization exercises focusing on reducing pain and improving function.
+
+- **Lifestyle Modifications:**
+  - Encourage smoking cessation and discuss resources for support.
+  - Recommend gradual increase in physical activity within comfort limits.
+  - Discuss potential benefits of sleep hygiene strategies to address insomnia related to pain.
+
+- **Follow-Up:**
+  - Reassess in 4 weeks to evaluate pain management effectiveness and MRI results.
+  - Monitor blood pressure control and provide guidance on any further management as necessary.
+
+John understands and agrees with the proposed treatment plan and investigation steps."|ablation|General Physician
+LOW BACK PAIN|"ROLE: Family Medicine Physician
+
+- Medical Outcome: Prescribed treatment includes physical therapy, over-the-counter NSAIDs (ibuprofen 400 mg every 6-8 hours as needed for pain), and lifestyle changes focusing on core-strengthening exercises. Referral to a physical therapist for a specialized exercise plan. 
+- Medical History: Previous diagnosis of occasional lower back strain from manual labor; no surgeries; no family history of chronic back problems.
+- Symptom Description: Severe low back pain lasting for the past two weeks, worsens with prolonged sitting and bending. Pain radiates to the left leg occasionally. 
+- Patient’s self-reported habits and lifestyle: Reports irregular exercise routine, no tobacco use, moderate alcohol consumption on weekends, and a diet that includes frequent fast food.
+- Demographic Information: 45-year-old Caucasian male, middle-income, high school education, moderate health literacy, works as a warehouse supervisor.
+- Patient's Behavior: Generally compliant with medical advice but delayed seeking care for the current back pain.
+- Geographical Location: Small city, urban area with moderate pollution, middle-class neighborhood.
+- Clinical Setting: Private practice
+- Type of Encounter: Initial Consultation
+- Treatment Disparities: Potential for overlooking advanced imaging due to a preference for conservative treatment approaches first.
+- Native or Non-Native English Speaking Patient: Native English Speaking Patient
+- Physical exams: Lumbar spine range of motion test, straight leg raise test, and palpation for lumbar tenderness.
+- Investigation/Test results: Awaiting results of an X-ray of the lumbar spine to rule out any structural damage."|"**Subjective:**
+
+**Chief Complaint (CC):**  
+Severe low back pain.
+
+**History of Present Illness (HPI):**  
+The patient is a 45-year-old Caucasian male who presents to the clinic with complaints of severe low back pain for the past two weeks. The pain has been progressively worsening and is aggravated by prolonged sitting and bending. Occasionally, the pain radiates to his left leg. He also reports a history of occasional lower back strain related to his work in manual labor.
+
+**Medical History:**  
+- Previous diagnosis of occasional lower back strain.
+- No surgeries.
+- No family history of chronic back problems.
+
+**Social History:**  
+- Reports irregular exercise routine.
+- Denies tobacco use.
+- Consumes alcohol moderately on weekends.
+- Diet often includes fast food.
+
+**Review of Systems (ROS):**  
+- Musculoskeletal: Reports severe low back pain with occasional radiating pain to the left leg.  
+- Neurological: Negative for numbness, tingling, or weakness in limbs.
+
+**Objective:**
+
+**Physical Exam:**  
+- Lumbar Spine: Limited range of motion due to pain.
+- Straight Leg Raise Test: Positive on the left side, indicating potential nerve root irritation.
+- Palpation: Tenderness noted over the lumbar region with no obvious deformity or swelling.
+
+**Vital Signs:**  
+- Blood pressure: 128/78 mmHg
+- Heart rate: 76 beats per minute
+- Respiratory rate: 16 breaths per minute
+- Temperature: 98.6°F
+
+**Investigation/Test Results:**  
+- Awaiting results of lumbar spine X-ray.
+
+**Assessment:**
+
+The patient is presenting with symptoms consistent with lower back pain, likely due to mechanical strain exacerbated by occupational activities. The positive straight leg raise test may indicate radicular involvement, potentially from a lumbar disc herniation or nerve root irritation. Differential diagnosis includes lumbar strain, lumbar disc herniation, or sciatica.
+
+**Plan:**
+
+1. **Non-Pharmacological Treatment:**
+   - Refer the patient to a physical therapist for a specialized exercise plan focusing on core-strengthening exercises and proper body mechanics to support the lumbar spine.
+   - Educate the patient on posture and ergonomics to minimize strain during work activities.
+
+2. **Pharmacological Treatment:**
+   - Prescribe over-the-counter NSAIDs, ibuprofen 400 mg every 6-8 hours as needed for pain relief, ensuring the patient is aware of the potential side effects and to take it with food.
+
+3. **Lifestyle Modifications:**
+   - Encourage regular physical activity with a focus on core exercises.
+   - Advise on dietary improvements, including reducing fast food consumption and incorporating more fruits, vegetables, and lean proteins to support overall health.
+
+4. **Follow-Up and Further Testing:**
+   - Schedule a follow-up appointment in two weeks to reassess pain levels and functional status.
+   - Review the X-ray results once available to rule out any structural abnormalities.
+   - Discuss the potential need for advanced imaging (MRI) if symptoms persist or worsen, despite conservative treatment.
+
+5. **Education and Monitoring:**
+   - Provide educational materials on low back pain management and preventive strategies.
+   - Monitor for any red flag symptoms (e.g., numbness, weakness, incontinence) that would warrant immediate intervention. 
+
+The patient was advised to return sooner if there is no improvement or if symptoms escalate."|"**Subjective:**
+
+**Chief Complaint (CC):**  
+Severe low back pain.
+
+**History of Present Illness (HPI):**  
+The patient, Mr. John Smith, is a 45-year-old Caucasian male who presents to the clinic with complaints of severe low back pain for the past two weeks. The pain has been progressively worsening and is aggravated by prolonged sitting and bending. Occasionally, the pain radiates to his left leg. He also reports a history of occasional lower back strain related to his work in manual labor.
+
+**Medical History:**  
+- Previous diagnosis of occasional lower back strain.
+- No surgeries.
+- No family history of chronic back problems.
+
+**Social History:**  
+- Reports irregular exercise routine.
+- Denies tobacco use.
+- Consumes alcohol moderately on weekends.
+- Diet often includes fast food.
+
+**Review of Systems (ROS):**  
+- Musculoskeletal: Reports severe low back pain with occasional radiating pain to the left leg.  
+- Neurological: Negative for numbness, tingling, or weakness in limbs.
+
+**Objective:**
+
+**Physical Exam:**  
+- Lumbar Spine: Limited range of motion due to pain.
+- Straight Leg Raise Test: Positive on the left side, indicating potential nerve root irritation.
+- Palpation: Tenderness noted over the lumbar region with no obvious deformity or swelling.
+
+**Vital Signs:**  
+- Blood pressure: 128/78 mmHg
+- Heart rate: 76 beats per minute
+- Respiratory rate: 16 breaths per minute
+- Temperature: 98.6°F
+
+**Assessment:**
+
+The patient is presenting with symptoms consistent with lower back pain, likely due to mechanical strain exacerbated by occupational activities. The positive straight leg raise test may indicate radicular involvement, potentially from a lumbar disc herniation or nerve root irritation. Differential diagnosis includes lumbar strain, lumbar disc herniation, or sciatica.
+
+**Plan:**
+
+1. **Non-Pharmacological Treatment:**
+   - Refer the patient to a physical therapist for a specialized exercise plan focusing on core-strengthening exercises and proper body mechanics to support the lumbar spine.
+   - Educate the patient on posture and ergonomics to minimize strain during work activities.
+
+2. **Pharmacological Treatment:**
+   - Prescribe over-the-counter NSAIDs, ibuprofen 400 mg every 6-8 hours as needed for pain relief, ensuring the patient is aware of the potential side effects and to take it with food.
+
+3. **Lifestyle Modifications:**
+   - Encourage regular physical activity with a focus on core exercises.
+   - Advise on dietary improvements, including reducing fast food consumption and incorporating more fruits, vegetables, and lean proteins to support overall health.
+
+4. **Follow-Up and Further Testing:**
+   - Schedule a follow-up appointment in two weeks to reassess pain levels and functional status.
+   - Review the X-ray results once available to rule out any structural abnormalities.
+   - Discuss the potential need for advanced imaging (MRI) if symptoms persist or worsen, despite conservative treatment.
+
+5. **Education and Monitoring:**
+   - Provide educational materials on low back pain management and preventive strategies.
+   - Monitor for any red flag symptoms (e.g., numbness, weakness, incontinence) that would warrant immediate intervention. 
+
+The patient was advised to return sooner if there is no improvement or if symptoms escalate."|ablation|Family Medicine Physician
+LOW BACK PAIN|"ROLE: General Physician
+
+1) Medical Outcome:
+   - Diagnosis: Low Back Pain
+   - Prescribed Treatment: Physical therapy sessions twice weekly for 6 weeks
+   - Medication: Ibuprofen 400 mg, oral, every 6 hours as needed for pain, quantity: 30 tablets
+   - Follow-up recommendations: Follow-up appointment in 4 weeks to assess improvement
+   - Referral to specialists: Referral to an orthopedic specialist, Dr. Emily Carter, for further evaluation
+   - Order for imaging: MRI of the lumbar spine to rule out herniated disc or other spinal issues
+
+2) Medical History:
+   - Previous Diagnoses: Hypertension, controlled with medication
+   - Medication History: Lisinopril 10 mg daily for hypertension
+   - Allergies: None known
+   - Chronic Conditions: None
+
+3) Symptom Description:
+   - Severity: Moderate to severe pain
+   - Duration: 3 weeks
+   - Associated Symptoms: Occasional leg numbness
+   - Frequency: Daily, worsens with prolonged sitting or standing
+   - Impact on Daily Activities: Difficulty bending and lifting, affecting work performance
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Reports difficulty sleeping due to pain
+   - Diet: Balanced diet, no significant issues reported
+   - Exercise: Infrequent due to pain, used to walk regularly
+   - Tobacco Use: Non-smoker
+   - Alcohol Consumption: Social drinker, 1-2 drinks per week
+   - Drug Use: Denies any illegal drug use
+   - Recreational Activities: Enjoys gardening but has been limited due to back pain
+
+5) Demographic Information:
+   - Age: 45
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle-class
+   - Education Level: College graduate
+   - Health Literacy: High
+   - Job Status: Office worker, primarily desk job
+
+6) Patient's Behavior:
+   - Generally cooperative with medical advice
+
+7) Geographical Location:
+   - Urban area, well-served by public transit
+   - Neighborhood Type: Affluent
+
+8) Clinical Setting:
+   - Primary Care Clinic
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - NA
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English-speaking patient
+
+12) Physical exams:
+   - Musculoskeletal exam: Tenderness in the lower lumbar region, reduced range of motion in the lumbar spine
+
+13) Investigation/Test results:
+   - Awaiting MRI results of the lumbar spine"|"**Subjective:**
+
+**Chief Complaint (CC):** 
+Low back pain.
+
+**History of Present Illness (HPI):** 
+The patient is a 45-year-old Caucasian male presenting with moderate to severe low back pain persisting for 3 weeks. The pain worsens with prolonged sitting or standing and occasionally radiates down the leg causing numbness. The patient reports difficulty bending and lifting, which has significantly affected his productivity at work. He also mentions disrupted sleep due to the pain.
+
+**Review of Systems (ROS):**
+- Musculoskeletal: Positive for lower back pain, negative for joint swelling.
+- Neurological: Positive for occasional leg numbness, negative for headaches or dizziness.
+- General: Negative for fever, fatigue, or weight changes.
+
+**Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 128/78 mmHg
+- Heart Rate: 72 beats per minute
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+
+**Physical Exam:**
+- Musculoskeletal: Notable tenderness in the lower lumbar region. Reduced range of motion observed in the lumbar spine.
+- Neurological: Lower extremity strength 5/5 bilaterally; reflexes 2+ and symmetric.
+
+**Assessment:**
+
+1. Low Back Pain with radicular symptoms.
+2. Hypertension, well-controlled on current medication regimen.
+
+**Plan:**
+
+1. Initiate physical therapy sessions twice weekly for the next 6 weeks to alleviate back pain and improve mobility.
+2. Prescribe Ibuprofen 400 mg, to be taken orally every 6 hours as needed for pain, with a total of 30 tablets provided.
+3. Schedule a follow-up appointment in 4 weeks to evaluate treatment effectiveness and symptom progression.
+4. Refer to Dr. Emily Carter, orthopedic specialist, for additional evaluation to rule out potential complications.
+5. Order an MRI of the lumbar spine to assess for herniated disc or other spinal abnormalities.
+6. Advise the patient on back-friendly exercises and proper posture to alleviate discomfort during daily activities.
+7. Encourage the patient to maintain a balanced diet and engage in low-impact exercises within pain tolerance to promote overall health and well-being. 
+
+**Instructions to Patient:**
+- Take medications as directed.
+- Attend all scheduled physical therapy sessions.
+- Maintain ergonomic posture at work.
+
+The patient is advised to contact the clinic if symptoms exacerbate or new symptoms arise."|"**Subjective:**
+
+**Chief Complaint (CC):** 
+Low back pain.
+
+**History of Present Illness (HPI):** 
+The patient, Mr. John Smith, is a 45-year-old Caucasian male presenting with moderate to severe low back pain persisting for 3 weeks. The pain worsens with prolonged sitting or standing and occasionally radiates down the leg causing numbness. The patient reports difficulty bending and lifting, which has significantly affected his productivity at work. He also mentions disrupted sleep due to the pain.
+
+**Review of Systems (ROS):**
+- Musculoskeletal: Positive for lower back pain, negative for joint swelling.
+- Neurological: Positive for occasional leg numbness, negative for headaches or dizziness.
+- General: Negative for fever, fatigue, or weight changes.
+
+**Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 128/78 mmHg
+- Heart Rate: 72 beats per minute
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+
+**Physical Exam:**
+- Musculoskeletal: Notable tenderness in the lower lumbar region. Reduced range of motion observed in the lumbar spine.
+- Neurological: Lower extremity strength 5/5 bilaterally; reflexes 2+ and symmetric.
+
+**Assessment:**
+
+1. Low Back Pain with radicular symptoms.
+2. Hypertension, well-controlled on current medication regimen.
+
+**Plan:**
+
+1. Initiate physical therapy sessions twice weekly for the next 6 weeks to alleviate back pain and improve mobility.
+2. Prescribe Ibuprofen 400 mg, to be taken orally every 6 hours as needed for pain, with a total of 30 tablets provided.
+3. Schedule a follow-up appointment in 4 weeks to evaluate treatment effectiveness and symptom progression.
+4. Refer to Dr. Emily Carter, orthopedic specialist, for additional evaluation to rule out potential complications.
+5. Order an MRI of the lumbar spine to assess for herniated disc or other spinal abnormalities.
+6. Advise the patient on back-friendly exercises and proper posture to alleviate discomfort during daily activities.
+7. Encourage the patient to maintain a balanced diet and engage in low-impact exercises within pain tolerance to promote overall health and well-being. 
+
+**Instructions to Patient:**
+- Take medications as directed.
+- Attend all scheduled physical therapy sessions.
+- Maintain ergonomic posture at work.
+
+The patient is advised to contact the clinic if symptoms exacerbate or new symptoms arise."|ablation|General Physician
+LOW BACK PAIN|"ROLE: Family Medicine Physician
+
+1) Medical Outcome: Diagnosis of Low Back Pain. Prescribed treatment includes nonsteroidal anti-inflammatory drugs (NSAIDs) - Ibuprofen 400 mg, oral, every 8 hours, as needed for pain, physical therapy referral, and back strengthening exercises. Recommendation for lifestyle changes, including weight reduction, ergonomic adjustments for work station, and regular stretching exercises.
+2) Medical History: No previous diagnoses relevant to musculoskeletal issues. Some history of occasional mild back discomfort after prolonged sitting.
+3) Symptom Description: Moderate severity, lasting 3 weeks, worsened by prolonged sitting, relieved somewhat by rest, occasional radiation to the right leg, impacting ability to perform duties at work.
+4) Patient’s self-reported habits and lifestyle: Sedentary lifestyle due to desk job, lacks regular exercise routine, consumes a diet high in processed foods, doesn't smoke or use alcohol.
+5) Demographic Information: 35-year-old male, Caucasian, middle-class, college-educated, works as a software engineer.
+6) Patient's Behavior: Cooperative and motivated to follow medical advice for pain relief and lifestyle modification.
+7) Geographical Location: Urban area in a large city, well-served by public transport, neighborhood with easy access to physical therapy and fitness centers.
+8) Clinical Setting: Primary care clinic within a community health center.
+9) Type of Encounter: Initial Consultation.
+10) Treatment Disparities: NA
+11) Native or Non-Native English Speaking Patient: Native English speaker.
+12) Physical exams: Palpation reveals tenderness in the lumbar region, limited range of motion in the lumbar spine, negative straight leg raise test.
+13) Investigation/Test results: Awaiting lumbar spine X-ray to rule out structural abnormalities."|"**Subjective:**
+
+- **Chief Complaint (CC):** 
+  - ""I've been experiencing low back pain for the past three weeks.""
+
+- **History of Present Illness (HPI):** 
+  - The patient is a 35-year-old male who reports moderate-severity low back pain that started three weeks ago. The pain worsens with prolonged sitting and is somewhat relieved by resting. Occasionally, the pain radiates to the right leg, which has impacted his ability to perform duties at work as a software engineer.
+
+- **Review of Systems (ROS):**
+  - Musculoskeletal: Reports low back pain, denies any new joint pain or swelling.
+  - Neurological: Denies numbness or tingling.
+
+**Objective:**
+
+- **Vitals:**
+  - Blood pressure: 122/82 mmHg
+  - Heart rate: 72 bpm
+  - Respirations: 16 breaths per minute
+
+- **Physical Examination:**
+  - **Musculoskeletal:**
+    - Lumbar region: Tenderness on palpation, limited range of motion noted.
+    - Straight leg raise test: Negative bilaterally.
+
+- **Investigation/Test Results:**
+  - Awaiting lumbar spine X-ray results to rule out structural abnormalities.
+
+**Assessment:**
+
+- **Diagnosis:**
+  - Low Back Pain, likely mechanical in nature given the history and physical exam findings.
+
+**Plan:**
+
+1. **Medical Treatment:**
+   - Prescribe Ibuprofen 400 mg orally every 8 hours as needed for pain relief.
+
+2. **Referral and Therapy:**
+   - Refer to physical therapy for back strengthening exercises and ergonomic evaluations.
+
+3. **Lifestyle and Educational Recommendations:**
+   - Advise on lifestyle changes including weight management, implementing ergonomic adjustments at his workstation, and incorporating regular stretching exercises.
+   - Counsel on dietary modifications to reduce processed food intake.
+
+4. **Follow-Up:**
+   - Schedule a follow-up appointment in 4 weeks to assess the effectiveness of the treatment plan and review X-ray results once available.
+
+Patient is cooperative and expresses motivation to adhere to the recommended lifestyle modifications and treatment plan."|"**Subjective:**
+
+- **Chief Complaint (CC):** 
+  - ""I've been experiencing low back pain for the past three weeks.""
+
+- **History of Present Illness (HPI):** 
+  - The patient, Mr. John Smith, is a 35-year-old male who reports moderate-severity low back pain that started three weeks ago. The pain worsens with prolonged sitting and is somewhat relieved by resting. Occasionally, the pain radiates to the right leg, which has impacted his ability to perform duties at work as a software engineer.
+
+- **Review of Systems (ROS):**
+  - Musculoskeletal: Reports low back pain, denies any new joint pain or swelling.
+  - Neurological: Denies numbness or tingling.
+
+**Objective:**
+
+- **Vitals:**
+  - Blood pressure: 122/82 mmHg
+  - Heart rate: 72 bpm
+  - Respirations: 16 breaths per minute
+
+- **Physical Examination:**
+  - **Musculoskeletal:**
+    - Lumbar region: Tenderness on palpation, limited range of motion noted.
+    - Straight leg raise test: Negative bilaterally.
+
+**Assessment:**
+
+- **Diagnosis:**
+  - Low Back Pain, likely mechanical in nature given the history and physical exam findings.
+
+**Plan:**
+
+1. **Medical Treatment:**
+   - Prescribe Ibuprofen 400 mg orally every 8 hours as needed for pain relief.
+
+2. **Referral and Therapy:**
+   - Refer to physical therapy for back strengthening exercises and ergonomic evaluations.
+   - Referral to Dr. Emily Johnson, an orthopedic specialist, to evaluate the need for further intervention if symptoms persist.
+
+3. **Lifestyle and Educational Recommendations:**
+   - Advise on lifestyle changes including weight management, implementing ergonomic adjustments at his workstation, and incorporating regular stretching exercises.
+   - Counsel on dietary modifications to reduce processed food intake.
+
+4. **Follow-Up:**
+   - Schedule a follow-up appointment in 4 weeks to assess the effectiveness of the treatment plan and review X-ray results once available."|ablation|Family Medicine Physician

@@ -1,0 +1,655 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role
+MUSCLE WEAKNESS (GENERALIZED)|"ROLE: Neurologist
+
+1. Medical Outcome: 
+    - Diagnosis: Muscle weakness (generalized) (ICD-10: M62.81)
+    - Prescribed treatment: Physical therapy, medication (e.g., pyridostigmine 60 mg orally, three times a day)
+    - Follow-up recommendations: Schedule a follow-up appointment in 2 weeks to assess progress and adjust treatment as needed
+    - Referral to specialists: Refer to a physical medicine and rehabilitation specialist for further evaluation and treatment
+    - Referral to further tests or imaging: Order electromyography (EMG) and nerve conduction studies (NCS) to assess muscle and nerve function
+
+2. Medical History: 
+    - Previous diagnoses: Hypothyroidism, vitamin D deficiency
+    - Family medical history: Mother with a history of muscular dystrophy
+    - Medication history: Currently taking levothyroxine for hypothyroidism
+    - Allergies: None
+    - Chronic conditions: Hypothyroidism, vitamin D deficiency
+
+3. Symptom Description: 
+    - Severity: Moderate
+    - Duration: 6 months
+    - Associated symptoms: Fatigue, muscle cramps
+    - Frequency: Constant
+    - Impact on daily activities: Difficulty walking, climbing stairs, and performing daily chores
+
+4. Patient’s self-reported habits and lifestyle: 
+    - Sleep: 7-8 hours per night
+    - Diet: Balanced diet with adequate protein intake
+    - Exercise: Gentle stretching and yoga, 2-3 times a week
+    - Tobacco use: Non-smoker
+    - Alcohol consumption: Occasional social drinking
+
+5. Demographic Information: 
+    - Age: 45
+    - Gender: Female
+    - Ethnicity: Caucasian
+    - Socio-economic status: Middle class
+    - Education level: College graduate
+    - Health literacy: Good
+    - Job status: Part-time employee
+
+6. Patient's Behavior: 
+    - Cooperation with medical advice: Good
+
+7. Geographical Location: 
+    - Big city
+    - Urban area
+    - Access to public transportation: Yes
+
+8. Clinical Setting: 
+    - Outpatient neurology clinic
+
+9. Type of Encounter: 
+    - Initial consultation
+
+10. Treatment Disparities: 
+    - None
+
+11. Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+12. Physical exams: 
+    - Muscle strength testing: 4/5 in upper limbs, 3/5 in lower limbs
+    - Reflexes: 2+ in upper and lower limbs
+    - Sensation: Intact
+
+13. Investigation/Test results: 
+    - EMG and NCS pending
+    - Vitamin D level: 25 ng/mL (low)
+    - TSH: 3.5 mU/L (normal)"|"## Step 1: Determine the format of the medical note
+The medical note should be in the format of:
+1. Subjective
+2. Objective
+3. Assessment
+4. Plan
+
+## Step 2: Break down the subjective section into sub-parts if necessary
+Rolling a dice gives a result of 3, which is odd. Therefore, we break down the subjective section into:
+- Chief Complaint (CC)
+- History of Present Illness (HPI)
+- Review of Systems (ROS)
+
+## Step 3: Complete the Chief Complaint (CC) section
+The patient is a 45-year-old female presenting with generalized muscle weakness.
+
+## Step 4: Complete the History of Present Illness (HPI) section
+The patient reports a 6-month history of progressive muscle weakness, associated with fatigue and muscle cramps. She denies any recent trauma or infections. Her past medical history is notable for hypothyroidism and vitamin D deficiency, for which she is currently taking levothyroxine. She reports a family history of muscular dystrophy.
+
+## Step 5: Complete the Review of Systems (ROS) section
+The patient reports difficulty walking, climbing stairs, and performing daily chores due to muscle weakness. She also reports fatigue and muscle cramps. The review of systems is otherwise unremarkable.
+
+## Step 6: Complete the Objective section
+- Vital signs: Not explicitly stated, but the patient is afebrile and has no acute distress.
+- Physical examination findings:
+  - Muscle strength testing: 4/5 in upper limbs, 3/5 in lower limbs
+  - Reflexes: 2+ in upper and lower limbs
+  - Sensation: Intact
+- Test results:
+  - EMG and NCS pending
+  - Vitamin D level: 25 ng/mL (low)
+  - TSH: 3.5 mU/L (normal)
+
+## Step 7: Complete the Assessment section
+The patient is diagnosed with generalized muscle weakness, likely multifactorial in etiology, including hypothyroidism, vitamin D deficiency, and possibly a muscular dystrophy given the family history. The patient's symptoms and examination findings are consistent with this diagnosis.
+
+## Step 8: Complete the Plan section
+The plan includes:
+- Prescribing physical therapy to improve muscle strength and function.
+- Medication: pyridostigmine 60 mg orally, three times a day, to improve muscle strength.
+- Follow-up appointment in 2 weeks to assess progress and adjust treatment as needed.
+- Referral to a physical medicine and rehabilitation specialist for further evaluation and treatment.
+- Ordering EMG and NCS to assess muscle and nerve function.
+- Supplementation with vitamin D to address the deficiency.
+
+The final answer is: 
+**
+1. Subjective:
+   - Chief Complaint: Generalized muscle weakness
+   - History of Present Illness: 6-month history of progressive muscle weakness, associated with fatigue and muscle cramps. Past medical history of hypothyroidism and vitamin D deficiency. Family history of muscular dystrophy.
+   - Review of Systems: Difficulty walking, climbing stairs, and performing daily chores due to muscle weakness. Fatigue and muscle cramps.
+2. Objective:
+   - Physical examination findings: Muscle strength testing 4/5 in upper limbs, 3/5 in lower limbs. Reflexes 2+ in upper and lower limbs. Sensation intact.
+   - Test results: EMG and NCS pending. Vitamin D level 25 ng/mL (low). TSH 3.5 mU/L (normal).
+3. Assessment:
+   - Diagnosis: Generalized muscle weakness, likely multifactorial in etiology, including hypothyroidism, vitamin D deficiency, and possibly a muscular dystrophy.
+4. Plan:
+   - Prescribe physical therapy and medication (pyridostigmine 60 mg orally, three times a day).
+   - Follow-up appointment in 2 weeks.
+   - Referral to a physical medicine and rehabilitation specialist.
+   - Order EMG and NCS.
+   - Supplementation with vitamin D. 
+**"|"1. Subjective:
+   - Chief Complaint: Generalized muscle weakness
+   - History of Present Illness: 6-month history of progressive muscle weakness, associated with fatigue and muscle cramps. Past medical history of hypothyroidism and vitamin D deficiency. Family history of muscular dystrophy.
+   - Review of Systems: Difficulty walking, climbing stairs, and performing daily chores due to muscle weakness. Fatigue and muscle cramps.
+2. Objective:
+   - Physical examination findings: Muscle strength testing 4/5 in upper limbs, 3/5 in lower limbs. Reflexes 2+ in upper and lower limbs. Sensation intact.
+   - Test results: EMG and NCS pending. Vitamin D level 25 ng/mL (low). TSH 3.5 mU/L (normal).
+3. Assessment:
+   - Diagnosis: Generalized muscle weakness, likely multifactorial in etiology, including hypothyroidism, vitamin D deficiency, and possibly a muscular dystrophy.
+4. Plan:
+   - Prescribe physical therapy and medication (pyridostigmine 60 mg orally, three times a day).
+   - Follow-up appointment in 2 weeks.
+   - Referral to a physical medicine and rehabilitation specialist.
+   - Order EMG and NCS.
+   - Supplementation with vitamin D."|ablation|Neurologist
+MUSCLE WEAKNESS (GENERALIZED)|"ROLE: Neurologist
+
+* Medical Outcome: 
+    - Diagnosis: M62.81 - Muscle weakness (generalized)
+    - Prescribed treatment: Physical therapy, pain management with acetaminophen 650mg tablet, take 2 tablets every 4 hours as needed, not to exceed 4 grams in 24 hours, route: oral
+    - Follow-up recommendations: Follow-up appointment in 2 weeks to assess progress
+    - Referral to specialists: Referral to a rheumatologist, Dr. Smith, for further evaluation and management
+    - Medication adjustment: None at this time
+    - Lifestyle change: Encouraged patient to maintain a healthy diet, exercise regularly, and get sufficient sleep
+* Medical History: 
+    - Previous Diagnoses: Hypertension, Hyperlipidemia
+    - Family Medical History: Mother with a history of muscle weakness
+    - Medication History: Currently taking atorvastatin 20mg tablet, take 1 tablet daily, route: oral, and lisinopril 10mg tablet, take 1 tablet daily, route: oral
+    - Allergies: None known
+    - Chronic Conditions: Hypertension, Hyperlipidemia
+* Symptom Description: 
+    - Severity: Moderate
+    - Duration: 2 months
+    - Associated Symptoms: Fatigue, muscle cramps
+    - Frequency: Constant
+    - Impact on Daily Activities: Significant impact on daily activities, including difficulty walking and lifting
+* Patient’s self-reported habits and lifestyle: 
+    - Sleep: 6 hours per night
+    - Diet: Balanced diet
+    - Exercise: Rarely exercises
+    - Tobacco Use: Non-smoker
+    - Alcohol Consumption: Occasional drinker
+* Demographic Information: 
+    - Age: 55
+    - Gender: Male
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: College graduate
+    - Health Literacy: Adequate
+    - Job Status: Employed
+* Patient's Behavior: 
+    - Cooperative with medical advice
+* Geographical Location: 
+    - Big City
+    - Urban
+    - Affluent neighborhood
+* Clinical Setting: 
+    - Hospital
+* Type of Encounter: 
+    - Initial Consultation
+* Treatment Disparities: 
+    - None identified
+* Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+* Physical exams: 
+    - Muscle strength testing
+    - Reflexes
+* Investigation/Test results: 
+    - Blood work: Creatine kinase, electrolyte panel
+    - Imaging: None at this time, but may be ordered in the future if necessary"|"## Step 1: Determine the format of the medical note
+The medical note should be in the format of:
+1. Subjective: Patient's description of symptoms and complaints.
+2. Objective: Observations and data gathered by the physician.
+3. Assessment: Evaluation of the patient's condition, including diagnosis or differential diagnosis.
+4. Plan: Recommendations for treatment, management, and follow-up.
+
+
+## Step 2: Break down the subjective section into sub-parts if necessary
+Based on the scenario, we will break down the subjective section into:
+- Chief Complaint (CC)
+- History of Present Illness (HPI)
+- Review of Systems (ROS)
+
+
+## Step 3: Generate the Chief Complaint (CC) section
+The patient is a 55-year-old male who presents with a chief complaint of generalized muscle weakness.
+
+
+## Step 4: Generate the History of Present Illness (HPI) section
+The patient reports that the muscle weakness started 2 months ago and has been constant since then. He also reports associated symptoms of fatigue and muscle cramps. The patient's symptoms have had a significant impact on his daily activities, including difficulty walking and lifting.
+
+
+## Step 5: Generate the Review of Systems (ROS) section
+Constitutional: The patient reports fatigue.
+Cardiovascular: No chest pain or shortness of breath reported.
+Musculoskeletal: The patient reports muscle cramps and weakness.
+
+
+## Step 6: Generate the Objective section
+Vital signs and physical examination findings:
+- Muscle strength testing revealed weakness in multiple muscle groups.
+- Reflexes were normal.
+- Blood work: Creatine kinase and electrolyte panel were ordered.
+- Imaging: None at this time, but may be ordered in the future if necessary.
+
+
+## Step 7: Generate the Assessment section
+The patient's diagnosis is M62.81 - Muscle weakness (generalized). The patient has a history of hypertension and hyperlipidemia, and his mother has a history of muscle weakness.
+
+
+## Step 8: Generate the Plan section
+The patient is prescribed physical therapy and pain management with acetaminophen 650mg tablet, to take 2 tablets every 4 hours as needed, not to exceed 4 grams in 24 hours. The patient is also referred to a rheumatologist, Dr. Smith, for further evaluation and management. The patient is encouraged to maintain a healthy diet, exercise regularly, and get sufficient sleep. A follow-up appointment is scheduled in 2 weeks to assess progress.
+
+
+The final answer is: 
+
+1. **Subjective:**
+    - **Chief Complaint (CC):** Generalized muscle weakness.
+    - **History of Present Illness (HPI):** The patient reports that the muscle weakness started 2 months ago and has been constant since then. He also reports associated symptoms of fatigue and muscle cramps.
+    - **Review of Systems (ROS):** 
+        - Constitutional: The patient reports fatigue.
+        - Cardiovascular: No chest pain or shortness of breath reported.
+        - Musculoskeletal: The patient reports muscle cramps and weakness.
+
+2. **Objective:**
+    - **Vital Signs:** Not explicitly stated but implied to be within normal limits given the context.
+    - **Physical Examination Findings:** Muscle strength testing revealed weakness in multiple muscle groups. Reflexes were normal.
+    - **Investigation/Test Results:** Blood work: Creatine kinase and electrolyte panel were ordered. Imaging: None at this time, but may be ordered in the future if necessary.
+
+3. **Assessment:** 
+    - The patient's diagnosis is M62.81 - Muscle weakness (generalized). 
+    - The patient has a history of hypertension and hyperlipidemia, and his mother has a history of muscle weakness.
+
+4. **Plan:**
+    - The patient is prescribed physical therapy and pain management with acetaminophen 650mg tablet, to take 2 tablets every 4 hours as needed, not to exceed 4 grams in 24 hours.
+    - The patient is also referred to a rheumatologist, Dr. Smith, for further evaluation and management.
+    - The patient is encouraged to maintain a healthy diet, exercise regularly, and get sufficient sleep.
+    - A follow-up appointment is scheduled in 2 weeks to assess progress."|"1. **Subjective:**
+    - **Chief Complaint (CC):** Generalized muscle weakness.
+    - **History of Present Illness (HPI):** The patient reports that the muscle weakness started 2 months ago and has been constant since then. He also reports associated symptoms of fatigue and muscle cramps.
+    - **Review of Systems (ROS):** 
+        - Constitutional: The patient reports fatigue.
+        - Cardiovascular: No chest pain or shortness of breath reported.
+        - Musculoskeletal: The patient reports muscle cramps and weakness.
+
+2. **Objective:**
+    - **Vital Signs:** Not explicitly stated but implied to be within normal limits given the context.
+    - **Physical Examination Findings:** Muscle strength testing revealed weakness in multiple muscle groups. Reflexes were normal.
+    - **Investigation/Test Results:** Blood work: Creatine kinase and electrolyte panel were ordered. Imaging: None at this time, but may be ordered in the future if necessary.
+
+3. **Assessment:** 
+    - The patient's diagnosis is M62.81 - Muscle weakness (generalized). 
+    - The patient has a history of hypertension and hyperlipidemia, and his mother has a history of muscle weakness.
+
+4. **Plan:**
+    - The patient is prescribed physical therapy and pain management with acetaminophen 650mg tablet, to take 2 tablets every 4 hours as needed, not to exceed 4 grams in 24 hours.
+    - The patient is also referred to a rheumatologist, Dr. Smith, for further evaluation and management.
+    - The patient is encouraged to maintain a healthy diet, exercise regularly, and get sufficient sleep.
+    - A follow-up appointment is scheduled in 2 weeks to assess progress."|ablation|Neurologist
+MUSCLE WEAKNESS (GENERALIZED)|"ROLE: Neurologist
+
+* Medical Outcome: 
+    - Diagnosis: Muscle weakness (Generalized) (ICD-10: M62.81)
+    - Prescribed treatment: Physical therapy and muscle strengthening exercises
+    - Follow-up recommendations: Schedule a follow-up appointment in 6 weeks to assess progress
+    - Referral to specialists: Referral to a physical medicine and rehabilitation (PM&R) specialist for further evaluation and treatment
+    - Medication adjustment: None at this time, but may consider adding vitamins or supplements to support muscle health
+    - Lifestyle change: Encourage patient to increase water intake, eat a balanced diet rich in protein and essential nutrients, and engage in regular exercise
+
+* Medical History: 
+    - Previous Diagnoses: Hypothyroidism
+    - Family Medical History: Mother had muscle weakness and was diagnosed with muscular dystrophy
+    - Medication History: Currently taking levothyroxine for hypothyroidism
+    - Allergies: None
+    - Chronic Conditions: Hypothyroidism
+
+* Symptom Description: 
+    - Severity: Moderate
+    - Duration: 3 months
+    - Associated Symptoms: Fatigue, muscle cramps
+    - Frequency: Constant
+    - Impact on Daily Activities: Significant impact on daily activities, including difficulty walking and performing household chores
+
+* Patient’s self-reported habits and lifestyle: 
+    - Sleep: 7-8 hours per night
+    - Diet: Balanced diet with minimal processed foods
+    - Exercise: Rarely exercises due to muscle weakness
+    - Tobacco Use: Non-smoker
+    - Alcohol Consumption: Occasional social drinker
+
+* Demographic Information: 
+    - Age: 45
+    - Gender: Female
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: College graduate
+    - Health Literacy: High
+    - Job Status: Full-time employee
+
+* Patient's Behavior: 
+    - Cooperative and motivated to improve muscle strength
+
+* Geographical Location: 
+    - Big City
+    - Urban area with access to healthcare facilities and resources
+
+* Clinical Setting: 
+    - Outpatient clinic
+
+* Type of Encounter: 
+    - Initial Consultation
+
+* Treatment Disparities: 
+    - None noted
+
+* Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+* Physical exams: 
+    - Muscle strength testing: 3/5 in upper and lower extremities
+    - Reflexes: 1+ in upper and lower extremities
+    - Sensation: Intact
+
+* Investigation/Test results: 
+    - Pending: EMG and muscle biopsy to rule out underlying neuromuscular disorders
+    - Recent lab results: Normal creatine kinase and electrolyte panel"|"**1. Subjective:**
+
+Since the dice roll is even, I will keep this section concise.
+
+The patient is a 45-year-old female who presents with a 3-month history of generalized muscle weakness, fatigue, and muscle cramps. She reports significant difficulty with daily activities, including walking and performing household chores. She has a history of hypothyroidism and is currently taking levothyroxine. Her mother had muscle weakness and was diagnosed with muscular dystrophy. The patient is cooperative and motivated to improve her muscle strength.
+
+**2. Objective:**
+
+* Muscle strength testing: 3/5 in upper and lower extremities
+* Reflexes: 1+ in upper and lower extremities
+* Sensation: Intact
+* Recent lab results: Normal creatine kinase and electrolyte panel
+* Pending: EMG and muscle biopsy to rule out underlying neuromuscular disorders
+
+**3. Assessment:**
+
+The patient's symptoms and physical examination findings suggest generalized muscle weakness, with a possible underlying neuromuscular disorder. Her family history of muscular dystrophy and hypothyroidism are also relevant factors to consider. The diagnosis is Muscle weakness (Generalized) (ICD-10: M62.81).
+
+**4. Plan:**
+
+* Prescribed treatment: Physical therapy and muscle strengthening exercises
+* Follow-up recommendations: Schedule a follow-up appointment in 6 weeks to assess progress
+* Referral to specialists: Referral to a physical medicine and rehabilitation (PM&R) specialist for further evaluation and treatment
+* Medication adjustment: None at this time, but may consider adding vitamins or supplements to support muscle health
+* Lifestyle change: Encourage patient to increase water intake, eat a balanced diet rich in protein and essential nutrients, and engage in regular exercise."|"**1. Subjective:**
+The patient, Emily Wilson, is a 45-year-old female who presents with a 3-month history of generalized muscle weakness, fatigue, and muscle cramps. She reports significant difficulty with daily activities, including walking and performing household chores. She has a history of hypothyroidism and is currently taking levothyroxine. Her mother had muscle weakness and was diagnosed with muscular dystrophy. The patient is cooperative and motivated to improve her muscle strength.
+
+**2. Objective:**
+* Muscle strength testing: 3/5 in upper and lower extremities
+* Reflexes: 1+ in upper and lower extremities
+* Sensation: Intact
+* Recent lab results: Normal creatine kinase and electrolyte panel
+
+**3. Assessment:**
+The patient's symptoms and physical examination findings suggest generalized muscle weakness, with a possible underlying neuromuscular disorder. Her family history of muscular dystrophy and hypothyroidism are also relevant factors to consider. The diagnosis is Muscle weakness (Generalized) (ICD-10: M62.81).
+
+**4. Plan:**
+* Prescribed treatment: Physical therapy and muscle strengthening exercises
+* Follow-up recommendations: Schedule a follow-up appointment in 6 weeks to assess progress
+* Referral to specialists: Referral to Dr. Rachel Kim, a physical medicine and rehabilitation (PM&R) specialist, for further evaluation and treatment of generalized muscle weakness
+* Medication adjustment: None at this time, but may consider adding vitamins or supplements to support muscle health
+* Diagnostic tests: EMG and muscle biopsy to rule out underlying neuromuscular disorders
+* Lifestyle change: Encourage patient to increase water intake, eat a balanced diet rich in protein and essential nutrients, and engage in regular exercise."|ablation|Neurologist
+MUSCLE WEAKNESS (GENERALIZED)|"ROLE: Neurologist
+
+* Medical Outcome: 
+    - Diagnosis: Muscle weakness (generalized) (ICD-10: M62.81)
+    - Prescribed treatment: Pyridostigmine 60 mg orally every 6 hours
+    - Follow-up recommendations: Follow-up appointment in 2 weeks to assess response to treatment
+    - Referral to specialists: Referral to a physical therapist for exercise program
+    - Medication adjustment: None at this time
+    - Lifestyle change: Encouraged to maintain a healthy diet and stay hydrated
+
+* Medical History: 
+    - Previous Diagnoses: Hypothyroidism
+    - Family Medical History: Mother with a history of muscular dystrophy
+    - Medication History: Currently taking levothyroxine 50 mcg daily
+    - Allergies: None known
+    - Chronic Conditions: Hypothyroidism
+
+* Symptom Description: 
+    - Severity: Moderate
+    - Duration: 3 months
+    - Associated Symptoms: Fatigue, muscle cramps
+    - Frequency: Constant
+    - Impact on Daily Activities: Significant impact on daily activities, difficulty walking and performing daily tasks
+
+* Patient’s self-reported habits and lifestyle: 
+    - Sleep: 7-8 hours per night
+    - Diet: Balanced diet with adequate protein intake
+    - Exercise: Limited due to muscle weakness
+    - Tobacco Use: Non-smoker
+    - Alcohol Consumption: Occasional social drinking
+
+* Demographic Information: 
+    - Age: 45
+    - Gender: Female
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: College graduate
+    - Health Literacy: Good understanding of health information
+    - Job Status: Part-time employment
+
+* Patient's Behavior: 
+    - Cooperative with medical advice
+
+* Geographical Location: 
+    - Big City
+    - Urban area
+    - Moderate pollution levels
+
+* Clinical Setting: 
+    - Neurology clinic
+
+* Type of Encounter: 
+    - Initial consultation
+
+* Treatment Disparities: 
+    - None noted
+
+* Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+* Physical exams: 
+    - Muscle strength testing: significant weakness in proximal muscles
+    - Reflexes: decreased reflexes in lower extremities
+
+* Investigation/Test results: 
+    - Blood work: CK levels elevated, thyroid function tests within normal limits
+    - EMG: pending, scheduled for next week"|"**1. Subjective:**
+
+Since the result of rolling a dice is odd (let's assume it's 5), this part will be broken down into several sub-parts.
+
+* **Chief Complaint (CC):** The patient presents with a 3-month history of generalized muscle weakness, which has significantly impacted her daily activities.
+* **History of Present Illness (HPI):** The patient reports that the weakness started gradually, with no specific incident triggering the onset. She has experienced associated symptoms such as fatigue and muscle cramps. The weakness has been constant, with no periods of remission.
+* **Review of Systems (ROS):** 
+    + Constitutional: Reports fatigue.
+    + Musculoskeletal: Significant muscle weakness, particularly in proximal muscles, and muscle cramps.
+    + Neurological: No reported symptoms such as numbness, tingling, or visual disturbances.
+    + Other systems are unremarkable.
+
+**2. Objective:**
+
+* **Vital Signs:** Not explicitly provided, but given the clinical context, it's reasonable to assume that vital signs such as blood pressure, heart rate, and temperature were within normal limits or not significantly abnormal.
+* **Physical Examination:** 
+    + Muscle strength testing revealed significant weakness in proximal muscles.
+    + Reflexes were decreased in the lower extremities.
+    + No other significant abnormalities were noted on physical examination.
+* **Investigation/Test Results:** 
+    + Blood work: Elevated CK levels, indicating muscle damage or disease. Thyroid function tests were within normal limits, which is consistent with well-managed hypothyroidism.
+    + EMG: Pending, scheduled for the next week to further evaluate muscle function and potential pathology.
+
+**3. Assessment:**
+
+* **Diagnosis:** Muscle weakness (generalized), with a working diagnosis of a myopathic process given the elevated CK levels and muscle weakness pattern. The patient's mother's history of muscular dystrophy is also noteworthy and may suggest a possible genetic component.
+* **Differential Diagnoses:** Other causes of muscle weakness such as neuropathic processes, endocrine disorders (though thyroid function is normal), and drug-induced myopathies should be considered but seem less likely given the current information.
+
+**4. Plan:**
+
+* **Treatment:** Pyridostigmine 60 mg orally every 6 hours as needed for symptom management.
+* **Follow-up:** Follow-up appointment in 2 weeks to assess response to treatment and adjust as necessary.
+* **Referral:** Referral to a physical therapist for an exercise program tailored to the patient's condition and capabilities.
+* **Lifestyle Changes:** Encouraged to maintain a healthy diet, stay hydrated, and avoid excessive strain on muscles.
+* **Monitoring:** Continue monitoring of CK levels and thyroid function tests as indicated, and proceed with the scheduled EMG to further inform management."|"**1. Subjective:**
+The patient, Emily Wilson, presents with a 3-month history of generalized muscle weakness, which has significantly impacted her daily activities.
+The patient reports that the weakness started gradually, with no specific incident triggering the onset. She has experienced associated symptoms such as fatigue and muscle cramps. The weakness has been constant, with no periods of remission.
+    + Constitutional: Reports fatigue.
+    + Musculoskeletal: Significant muscle weakness, particularly in proximal muscles, and muscle cramps.
+    + Neurological: No reported symptoms such as numbness, tingling, or visual disturbances.
+    + Other systems are unremarkable.
+
+**2. Objective:**
+    * **Vital Signs:** Blood pressure, heart rate, and temperature were within normal limits.
+    * **Physical Examination:** 
+        + Muscle strength testing revealed significant weakness in proximal muscles.
+        + Reflexes were decreased in the lower extremities.
+        + No other significant abnormalities were noted on physical examination.
+    * **Investigation/Test Results:** 
+        + Blood work: Elevated CK levels, indicating muscle damage or disease. Thyroid function tests were within normal limits, which is consistent with well-managed hypothyroidism.
+
+**3. Assessment:**
+    * **Diagnosis:** Muscle weakness (generalized), with a working diagnosis of a myopathic process given the elevated CK levels and muscle weakness pattern. The patient's mother's history of muscular dystrophy is also noteworthy and may suggest a possible genetic component.
+    * **Differential Diagnoses:** Other causes of muscle weakness such as neuropathic processes, endocrine disorders (though thyroid function is normal), and drug-induced myopathies should be considered but seem less likely given the current information.
+
+**4. Plan:**
+    * **Treatment:** Pyridostigmine 60 mg orally every 6 hours as needed for symptom management.
+    * **Follow-up:** Follow-up appointment in 2 weeks to assess response to treatment and adjust as necessary.
+    * **Referral:** Referral to Dr. Rachel Lee, a physical medicine and rehabilitation specialist, for an exercise program tailored to the patient's condition and capabilities, to help manage muscle weakness and improve functional ability.
+    * **Lifestyle Changes:** Encouraged to maintain a healthy diet, stay hydrated, and avoid excessive strain on muscles.
+    * **Monitoring:** Continue monitoring of CK levels and thyroid function tests as indicated. An EMG is scheduled for the next week to further inform management."|ablation|Neurologist
+MUSCLE WEAKNESS (GENERALIZED)|"ROLE: Neurologist
+
+1. Medical Outcome: 
+    - Diagnosis: M62.81 - Muscle weakness (generalized)
+    - Treatment: Physical therapy to improve muscle strength, prescribed pyridostigmine 60 mg orally every 6 hours as needed
+    - Follow-up recommendations: Schedule follow-up appointment in 2 weeks to assess progress
+    - Referral to specialists: Neurosurgeon, Dr. Smith, for further evaluation and potential surgical intervention
+    - Referral to further tests or imaging: Order EMG and nerve conduction studies to rule out other underlying conditions
+
+2. Medical History: 
+    - Previous Diagnoses: Hypothyroidism
+    - Family Medical History: Mother with a history of muscular dystrophy
+    - Medication History: Currently taking levothyroxine for hypothyroidism
+    - Allergies: None known
+    - Chronic Conditions: Hypothyroidism
+
+3. Symptom Description: 
+    - Severity: Patient reports severe muscle weakness
+    - Duration: Symptoms have been progressing over the past 3 months
+    - Associated Symptoms: Fatigue, difficulty walking
+    - Frequency: Constant
+    - Impact on Daily Activities: Significant impairment in daily activities, requiring assistance with mobility
+
+4. Patient’s self-reported habits and lifestyle: 
+    - Sleep: Reports difficulty sleeping due to discomfort
+    - Diet: Balanced diet with adequate protein intake
+    - Exercise: Unable to exercise due to muscle weakness
+    - Tobacco Use: Non-smoker
+    - Alcohol Consumption: Occasional social drinking
+
+5. Demographic Information: 
+    - Age: 45
+    - Gender: Female
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: College graduate
+    - Health Literacy: Good understanding of health information
+    - Job Status: Currently unable to work due to symptom severity
+
+6. Patient's Behavior: 
+    - Cooperative with medical advice, eager to explore treatment options
+
+7. Geographical Location: 
+    - Lives in a suburban area with good access to healthcare facilities
+
+8. Clinical Setting: 
+    - Initial consultation in a neurology clinic
+
+9. Type of Encounter: 
+    - Initial Consultation for new symptoms
+
+10. Treatment Disparities: 
+    - None identified
+
+11. Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+12. Physical exams: 
+    - Muscle strength testing reveals significant weakness in all major muscle groups
+
+13. Investigation/Test results: 
+    - Awaiting results from EMG and nerve conduction studies ordered during today's visit"|"## Step 1: Determine the format of the medical note
+The medical note should be in the following format:
+1. Subjective: This section includes the patient's own description of their symptoms and complaints.
+2. Objective: This section includes observations and data gathered by the physician, such as vital signs, physical examination findings, and test results.
+3. Assessment: This section includes the physician's evaluation of the patient's condition, including a diagnosis or differential diagnosis.
+4. Plan: This section includes the physician's recommendations for treatment, management, and follow-up.
+
+
+## Step 2: Break down the subjective section into sub-parts if necessary
+Since the role is a Neurologist and the patient has generalized muscle weakness, we will break down the subjective section into sub-parts:
+- Chief Complaint (CC)
+- History of Present Illness (HPI)
+- Review of Systems (ROS)
+
+
+## Step 3: Write the Chief Complaint (CC) section
+The patient's chief complaint is generalized muscle weakness.
+
+
+## Step 4: Write the History of Present Illness (HPI) section
+The patient reports that the symptoms have been progressing over the past 3 months, with significant impairment in daily activities, requiring assistance with mobility. The patient also reports associated symptoms of fatigue and difficulty walking.
+
+
+## Step 5: Write the Review of Systems (ROS) section
+The patient reports difficulty sleeping due to discomfort and has a balanced diet with adequate protein intake. The patient is unable to exercise due to muscle weakness and is a non-smoker with occasional social drinking.
+
+
+## Step 6: Write the Objective section
+The patient's physical examination reveals significant weakness in all major muscle groups. The patient is currently taking levothyroxine for hypothyroidism and has been prescribed pyridostigmine 60 mg orally every 6 hours as needed.
+
+
+## Step 7: Write the Assessment section
+The patient has been diagnosed with M62.81 - Muscle weakness (generalized). The patient has a history of hypothyroidism and a family history of muscular dystrophy.
+
+
+## Step 8: Write the Plan section
+The patient will undergo physical therapy to improve muscle strength and has been prescribed pyridostigmine 60 mg orally every 6 hours as needed. The patient is scheduled for a follow-up appointment in 2 weeks to assess progress and has been referred to a neurosurgeon, Dr. Smith, for further evaluation and potential surgical intervention. The patient will also undergo EMG and nerve conduction studies to rule out other underlying conditions.
+
+
+The final answer is: 
+1. Subjective:
+    - Chief Complaint (CC): Generalized muscle weakness
+    - History of Present Illness (HPI): The patient reports that the symptoms have been progressing over the past 3 months, with significant impairment in daily activities, requiring assistance with mobility. The patient also reports associated symptoms of fatigue and difficulty walking.
+    - Review of Systems (ROS): The patient reports difficulty sleeping due to discomfort and has a balanced diet with adequate protein intake. The patient is unable to exercise due to muscle weakness and is a non-smoker with occasional social drinking.
+2. Objective:
+    - Physical examination: Significant weakness in all major muscle groups
+    - Medications: Levothyroxine for hypothyroidism, pyridostigmine 60 mg orally every 6 hours as needed
+3. Assessment:
+    - Diagnosis: M62.81 - Muscle weakness (generalized)
+    - History: Hypothyroidism, family history of muscular dystrophy
+4. Plan:
+    - Treatment: Physical therapy, pyridostigmine 60 mg orally every 6 hours as needed
+    - Follow-up: Schedule follow-up appointment in 2 weeks to assess progress
+    - Referral: Neurosurgeon, Dr. Smith, for further evaluation and potential surgical intervention
+    - Further tests: EMG and nerve conduction studies to rule out other underlying conditions"|"1. Subjective:
+    - Chief Complaint (CC): Generalized muscle weakness
+    - History of Present Illness (HPI): The patient reports that the symptoms have been progressing over the past 3 months, with significant impairment in daily activities, requiring assistance with mobility. The patient also reports associated symptoms of fatigue and difficulty walking.
+    - Review of Systems (ROS): The patient reports difficulty sleeping due to discomfort and has a balanced diet with adequate protein intake. The patient is unable to exercise due to muscle weakness and is a non-smoker with occasional social drinking.
+2. Objective:
+    - Physical examination: Significant weakness in all major muscle groups
+    - Medications: Levothyroxine for hypothyroidism, pyridostigmine 60 mg orally every 6 hours as needed
+3. Assessment:
+    - Diagnosis: M62.81 - Muscle weakness (generalized)
+    - History: Hypothyroidism, family history of muscular dystrophy
+4. Plan:
+    - Treatment: Physical therapy, pyridostigmine 60 mg orally every 6 hours as needed
+    - Follow-up: Schedule follow-up appointment in 2 weeks to assess progress
+    - Referral: Neurosurgeon, Dr. Smith, for further evaluation and potential surgical intervention
+    - Further tests: EMG and nerve conduction studies to rule out other underlying conditions"|ablation|Neurologist

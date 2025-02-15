@@ -1,0 +1,645 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role
+COUGH|"ROLE: General Physician
+
+Scenario Variables:
+
+1) Medical Outcome: Diagnosis: Upper Respiratory Tract Infection (URTI). Prescribed Treatment: Symptomatic treatment with over-the-counter medications such as dextromethorphan (10 mg orally, every 4 hours as needed for cough). Follow-up recommendation: Return if symptoms persist for more than 10 days or worsen. Advisement on rest and hydration.
+2) Medical History: Previous Diagnoses: Seasonal Allergies. Medication History: Occasional use of antihistamines (loratadine).
+3) Symptom Description: Severity: Mild to moderate. Duration: 5 days. Associated Symptoms: Mild sore throat, runny nose, and occasional fever. Frequency: Intermittent cough, worsening at night. Impact on Daily Activities: Missed two days of work.
+4) Patient’s self-reported habits and lifestyle: Sleep: Reports mild disturbance due to coughing at night. Diet: Balanced diet. Exercise: Regular physical activity three times a week. Tobacco Use: Non-smoker. Alcohol Consumption: Occasional, no recent intake.
+5) Demographic Information: Age: 32. Gender: Male. Ethnicity: Caucasian. Socio-economic Status: Middle class. Education Level: College graduate. Job Status: Employed as a software engineer.
+6) Patient's Behavior: Patient is cooperative and adheres to medical advice.
+7) Geographical Location: Urban, Big City. Neighborhood type: Affluent, well-served by public transit, access to health facilities.
+8) Clinical Setting: Private Practice.
+9) Type of Encounter: Initial Consultation.
+10) Treatment Disparities: NA
+11) Native or Non-Native English Speaking Patient: Native English speaker.
+12) Physical exams: Auscultation of the chest reveals mild wheezing.
+13) Investigation/Test results: NA"|"**Subjective:**
+
+- **Chief Complaint (CC):**  
+  Intermittent cough, worsening at night for 5 days.
+
+- **History of Present Illness (HPI):**  
+  The patient is a 32-year-old Caucasian male presenting with mild to moderate symptoms consistent with an upper respiratory tract infection over the past 5 days. He reports a mild sore throat, runny nose, and occasional fever. The cough is intermittent but becomes more pronounced at night, causing mild disturbances in sleep. The patient has missed two days of work due to the symptoms.
+
+- **Review of Systems (ROS):**  
+  - ENT: Mild sore throat, runny nose.  
+  - Respiratory: Intermittent cough, worse at night.  
+  - General: Occasional fever.  
+  - Sleep: Mild disturbance due to nighttime cough.
+
+**Objective:**
+
+- **Vital Signs:**  
+  Temperature, pulse, respiratory rate, and blood pressure were all within normal limits.
+
+- **Physical Examination:**  
+  Auscultation of the chest reveals mild wheezing. No significant crackles or rhonchi noted. The throat is slightly erythematous without exudate. Nasal congestion is present. No cervical lymphadenopathy noted.
+
+**Assessment:**
+
+The patient presents with symptoms and clinical findings consistent with an Upper Respiratory Tract Infection (URTI). His history of seasonal allergies may have contributed to his symptom severity.
+
+**Plan:**
+
+- **Treatment:**  
+  Symptomatic treatment with over-the-counter medications, including dextromethorphan (10 mg orally, every 4 hours as needed for cough).
+
+- **Lifestyle Recommendations:**  
+  - Encourage rest and increased fluid intake to aid in recovery.
+  - Advise the patient to continue a balanced diet and regular exercise as tolerated.
+
+- **Follow-up:**  
+  The patient is advised to return if symptoms persist for more than 10 days or if they worsen.
+
+- **Patient Education:**  
+  Discussed the importance of rest, hydration, and adherence to symptomatic treatment. Reassured the patient regarding the typical course of a URTI and answered all questions posed."|"**1. Subjective:**
+
+- **Chief Complaint (CC):**  
+  Intermittent cough, worsening at night for 5 days.
+
+- **History of Present Illness (HPI):**  
+  The patient, named John Smith, is a 32-year-old Caucasian male presenting with mild to moderate symptoms consistent with an upper respiratory tract infection over the past 5 days. He reports a mild sore throat, runny nose, and occasional fever. The cough is intermittent but becomes more pronounced at night, causing mild disturbances in sleep. The patient has missed two days of work due to the symptoms.
+
+- **Review of Systems (ROS):**  
+  - ENT: Mild sore throat, runny nose.  
+  - Respiratory: Intermittent cough, worse at night.  
+  - General: Occasional fever.  
+  - Sleep: Mild disturbance due to nighttime cough.
+
+**2. Objective:**
+
+- **Vital Signs:**  
+  Temperature, pulse, respiratory rate, and blood pressure were all within normal limits.
+
+- **Physical Examination:**  
+  Auscultation of the chest reveals mild wheezing. No significant crackles or rhonchi noted. The throat is slightly erythematous without exudate. Nasal congestion is present. No cervical lymphadenopathy noted.
+
+**3. Assessment:**
+
+The patient presents with symptoms and clinical findings consistent with an Upper Respiratory Tract Infection (URTI). His history of seasonal allergies may have contributed to his symptom severity.
+
+**4. Plan:**
+
+- **Treatment:**  
+  Symptomatic treatment with over-the-counter medications, including dextromethorphan (10 mg orally, every 4 hours as needed for cough).
+
+- **Lifestyle Recommendations:**  
+  - Encourage rest and increased fluid intake to aid in recovery.
+  - Advise the patient to continue a balanced diet and regular exercise as tolerated.
+
+- **Follow-up:**  
+  The patient is advised to return if symptoms persist for more than 10 days or if they worsen.
+
+- **Patient Education:**  
+  Discussed the importance of rest, hydration, and adherence to symptomatic treatment. Reassured the patient regarding the typical course of a URTI and answered all questions posed."|ablation|General Physician
+COUGH|"ROLE: Family Medicine Physician
+
+1) Medical Outcome:
+    - Diagnosis: Acute Respiratory Infection
+    - Prescribed Treatment: Over-the-counter expectorant syrup, 10 mL orally, every 6 hours as needed for cough.
+    - Follow-up Recommendations: Follow-up appointment in 2 weeks if symptoms persist or worsen.
+    - Lifestyle Change: Increase fluid intake and rest.
+2) Medical History:
+    - Previous Diagnoses: No significant past medical history.
+    - Allergies: No known drug allergies.
+3) Symptom Description:
+    - Severity: Moderate
+    - Duration: 5 days
+    - Associated Symptoms: Sore throat, mild fever, fatigue
+    - Frequency: Persistent cough, worse at night
+    - Impact on Daily Activities: Difficulty sleeping due to coughing at night
+4) Patient’s self-reported habits and lifestyle:
+    - Sleep: 6-7 hours, interrupted by cough
+    - Diet: Balanced diet, but appetite slightly reduced due to illness
+    - Exercise: Regular light exercise, currently decreased due to fatigue
+    - Tobacco Use: Non-smoker
+    - Alcohol Consumption: Occasional
+5) Demographic Information:
+    - Age: 30
+    - Gender: Female
+    - Ethnicity: Hispanic
+    - Education Level: College graduate
+    - Job Status: Employed full-time
+6) Patient's Behavior:
+    - Cooperative and understanding of medical advice
+7) Geographical Location:
+    - Urban, Big City
+    - Neighborhood Type: Well-served by transit
+8) Clinical Setting:
+    - Community Health Services
+9) Type of Encounter:
+    - Initial Consultation
+10) Native or Non-Native English Speaking Patient:
+    - Native English-speaking patient
+11) Physical exams:
+    - Respiratory: Mild wheezing, no crackles
+    - Throat: Slight redness without swelling
+12) Investigation/Test results:
+    - Awaiting viral panel results to rule out influenza."|"**Subjective:**
+
+**CHIEF COMPLAINT**
+
+Persistent cough, sore throat, and mild fever.
+
+**HISTORY OF PRESENT ILLNESS**
+
+The patient is a 30-year-old Hispanic female presenting with a 5-day history of moderate cough, sore throat, mild fever, and fatigue. The cough is persistent and worsens at night, leading to difficulty sleeping. The patient reports a slightly reduced appetite due to illness but maintains a balanced diet. She usually engages in regular light exercise but has decreased activity due to fatigue. She denies any tobacco use and reports occasional alcohol consumption. 
+
+**REVIEW OF SYSTEMS**
+
+General: Fatigue, mild fever.
+Respiratory: Persistent cough, mild wheezing.
+Throat: Sore throat with slight redness.
+Sleep: 6-7 hours, interrupted due to nocturnal cough.
+
+**Objective:**
+
+**VITAL SIGNS**
+
+Blood pressure, heart rate, and temperature are within normal limits.
+
+**PHYSICAL EXAM**
+
+Respiratory: Mild wheezing noted, no crackles detected.
+Throat: Slight redness, no swelling observed.
+
+**RESULTS**
+
+Awaiting viral panel results to rule out influenza.
+
+**Assessment:**
+
+The clinical presentation and physical examination findings are consistent with an acute respiratory infection. Differential diagnosis to consider includes viral upper respiratory tract infection. Awaiting viral panel results for further clarification.
+
+**Plan:**
+
+1. **Treatment**
+   - Prescribed an over-the-counter expectorant syrup, 10 mL orally, every 6 hours as needed for cough relief.
+
+2. **Lifestyle Modifications**
+   - Advise the patient to increase fluid intake and ensure adequate rest to support recovery.
+
+3. **Follow-Up**
+   - Schedule a follow-up appointment in 2 weeks if symptoms persist or worsen.
+
+4. **Further Testing**
+   - Await results of the viral panel to rule out influenza and adjust management if necessary.
+
+The patient has been cooperative and expresses understanding of the medical advice provided."|"**Subjective:**
+
+**CHIEF COMPLAINT**
+
+Persistent cough, sore throat, and mild fever.
+
+**HISTORY OF PRESENT ILLNESS**
+
+The patient, Maria Gonzalez, is a 30-year-old Hispanic female presenting with a 5-day history of moderate cough, sore throat, mild fever, and fatigue. The cough is persistent and worsens at night, leading to difficulty sleeping. The patient reports a slightly reduced appetite due to illness but maintains a balanced diet. She usually engages in regular light exercise but has decreased activity due to fatigue. She denies any tobacco use and reports occasional alcohol consumption. 
+
+**REVIEW OF SYSTEMS**
+
+General: Fatigue, mild fever.
+Respiratory: Persistent cough, mild wheezing.
+Throat: Sore throat with slight redness.
+Sleep: 6-7 hours, interrupted due to nocturnal cough.
+
+**Objective:**
+
+**VITAL SIGNS**
+
+Blood pressure, heart rate, and temperature are within normal limits.
+
+**PHYSICAL EXAM**
+
+Respiratory: Mild wheezing noted, no crackles detected.
+Throat: Slight redness, no swelling observed.
+
+**RESULTS**
+
+Awaiting viral panel results to rule out influenza.
+
+**Assessment:**
+
+The clinical presentation and physical examination findings are consistent with an acute respiratory infection. Differential diagnosis to consider includes viral upper respiratory tract infection. Awaiting viral panel results for further clarification.
+
+**Plan:**
+
+1. **Treatment**
+   - Prescribed an over-the-counter expectorant syrup, 10 mL orally, every 6 hours as needed for cough relief.
+
+2. **Lifestyle Modifications**
+   - Advise the patient to increase fluid intake and ensure adequate rest to support recovery.
+
+3. **Follow-Up**
+   - Schedule a follow-up appointment in 2 weeks if symptoms persist or worsen.
+
+4. **Further Testing**
+   - Await results of the viral panel to rule out influenza and adjust management if necessary."|ablation|Family Medicine Physician
+COUGH|"ROLE: Family Medicine Physician
+
+1) Medical Outcome: Diagnosis - Acute Bronchitis; Prescribed Treatment - Increase fluid intake, rest, humidifier usage; Follow-up Recommendations - Return in 2 weeks if symptoms do not improve.
+2) Medical History: Previous Diagnoses - Seasonal allergies; Medication History - Occasional use of over-the-counter antihistamines; Allergies - None; Chronic Conditions - Asthma.
+3) Symptom Description: Severity - Moderate; Duration - 1 week; Associated Symptoms - Sore throat, runny nose, low-grade fever; Frequency - Persistent cough throughout the day; Impact on Daily Activities - Difficulty sleeping due to night-time coughing.
+4) Patient’s Self-Reported Habits and Lifestyle: Sleep - 6-7 hours per night interrupted by cough; Diet - Typical; Exercise - Infrequent due to cough; Tobacco Use - Non-smoker; Alcohol Consumption - Occasional; Drug Use - None; Recreational Activities - Enjoys gardening.
+5) Demographic Information: Age - 35; Gender - Female; Ethnicity - Caucasian; Socio-economic Status - Middle-class; Education Level - Bachelor's degree; Health Literacy - Adequate; Job Status - Full-time office administrator.
+6) Patient's Behavior: Highly cooperative with medical advice and eager to follow suggestions for relief.
+7) Geographical Location: Big City, Urban; Moderate pollution.
+8) Clinical Setting: Private Practice
+9) Type of Encounter: Initial Consultation
+10) Treatment Disparities: NA
+11) Native or Non-Native English Speaking Patient: Native English speaker
+12) Physical Exams: Respiratory exam shows wheezing and crackles; Throat slightly red; No lymphadenopathy.
+13) Investigation/Test Results: Awaiting results from a Chest X-ray to assess for pneumonia or other lung issues."|"**SUBJECTIVE:**
+
+**Chief Complaint (CC):**  
+Persistent cough lasting for one week.
+
+**History of Present Illness (HPI):**  
+The patient is a 35-year-old Caucasian female who presents with a moderate severity persistent cough ongoing for one week. Associated symptoms include a sore throat, runny nose, and low-grade fever. The cough is present throughout the day and significantly impacts her ability to sleep at night due to frequent coughing spells. The patient reports difficulty maintaining usual activities due to the cough. She has a history of asthma and seasonal allergies, managed with occasional over-the-counter antihistamines.
+
+**Review of Systems (ROS):**  
+- Respiratory: Persistent cough, wheezing.
+- ENT: Sore throat, runny nose.
+- Constitutional: Low-grade fever.
+- General: Difficulty sleeping due to coughing.
+
+**OBJECTIVE:**
+
+**Physical Exam:**  
+- Respiratory: Wheezing and crackles noted during the respiratory examination.
+- ENT: Throat slightly red, no significant lymphadenopathy detected.
+
+**Vital Signs:**  
+- Temperature: Slightly elevated.
+- Other vital signs within normal limits.
+  
+**Investigation/Test Results:**  
+- Awaiting chest X-ray results to rule out pneumonia or differential diagnoses involving lung pathology.
+
+**ASSESSMENT:**
+
+The clinical presentation is consistent with acute bronchitis superimposed on a background of asthma. The presence of wheezing and crackles on examination supports bronchial inflammation and airway reactivity.
+
+**PLAN:**
+
+1. **Treatment:**
+   - Increase fluid intake to aid in thinning secretions.
+   - Advise rest to support recovery.
+   - Use of a humidifier at night to reduce cough frequency.
+   
+2. **Medications:**
+   - Continue occasional use of over-the-counter antihistamines if symptoms of allergic rhinitis persist.
+
+3. **Follow-up:**
+   - Advise follow-up in 2 weeks if symptoms do not improve or sooner if the condition worsens.
+
+4. **Education:**
+   - Educate the patient on recognizing signs of pneumonia or other complications, such as high fever, difficulty breathing, or chest pain.
+   - Stress the importance of maintaining asthma management.
+
+5. **Lifestyle Recommendations:**
+   - Encourage a smoke-free environment and to reduce exposure to urban pollution where possible.
+   - Discuss maintaining a healthy lifestyle with regular exercise post-recovery.
+
+The patient is cooperative and eager to follow medical advice for symptom relief. She is instructed to monitor her symptoms closely and to seek medical attention if necessary."|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Persistent cough lasting for one week.
+
+**History of Present Illness (HPI):**  
+The patient, named Emily Johnson, is a 35-year-old Caucasian female who presents with a moderate severity persistent cough ongoing for one week. Associated symptoms include a sore throat, runny nose, and low-grade fever. The cough is present throughout the day and significantly impacts her ability to sleep at night due to frequent coughing spells. The patient reports difficulty maintaining usual activities due to the cough. She has a history of asthma and seasonal allergies, managed with occasional over-the-counter antihistamines.
+
+**Review of Systems (ROS):**  
+- Respiratory: Persistent cough, wheezing.
+- ENT: Sore throat, runny nose.
+- Constitutional: Low-grade fever.
+- General: Difficulty sleeping due to coughing.
+
+**2. Objective:**
+
+**Physical Exam:**  
+- Respiratory: Wheezing and crackles noted during the respiratory examination.
+- ENT: Throat slightly red, no significant lymphadenopathy detected.
+
+**Vital Signs:**  
+- Temperature: Slightly elevated.
+- Other vital signs within normal limits.
+
+**3. Assessment:**
+
+The clinical presentation is consistent with acute bronchitis superimposed on a background of asthma. The presence of wheezing and crackles on examination supports bronchial inflammation and airway reactivity.
+
+**4. Plan:**
+
+1. **Treatment:**
+   - Increase fluid intake to aid in thinning secretions.
+   - Advise rest to support recovery.
+   - Use of a humidifier at night to reduce cough frequency.
+
+2. **Medications:**
+   - Continue occasional use of over-the-counter antihistamines if symptoms of allergic rhinitis persist.
+
+3. **Follow-up:**
+   - Advise follow-up in 2 weeks if symptoms do not improve or sooner if the condition worsens.
+
+4. **Education:**
+   - Educate the patient on recognizing signs of pneumonia or other complications, such as high fever, difficulty breathing, or chest pain.
+   - Stress the importance of maintaining asthma management.
+
+5. **Lifestyle Recommendations:**
+   - Encourage a smoke-free environment and to reduce exposure to urban pollution where possible.
+   - Discuss maintaining a healthy lifestyle with regular exercise post-recovery.
+
+6. **Investigations:**
+   - Awaiting chest X-ray results to rule out pneumonia or differential diagnoses involving lung pathology."|ablation|Family Medicine Physician
+COUGH|"ROLE: Family Medicine Physician
+
+1) Medical Outcome: 
+   - Diagnosis: Viral upper respiratory infection (common cold)
+   - Prescribed Treatment: Rest, increased fluid intake, over-the-counter cough suppressant (Dextromethorphan 10 mg/5 ml), 10 ml by mouth every 6 hours as needed.
+   - Referral to further tests: NA
+   - Referral to specialists: NA
+   - Lifestyle change: Increase hydration, rest, avoid smoking.
+
+2) Medical History: 
+   - Previous Diagnoses: Seasonal Allergies
+   - Chronic Conditions: NA
+
+3) Symptom Description: 
+   - Severity: Mild to moderate
+   - Duration: 5 days
+   - Associated Symptoms: Sore throat, runny nose, mild headache
+   - Frequency: Continuous cough throughout the day
+   - Impact on Daily Activities: Difficulty focusing at work due to coughing
+
+4) Patient’s self-reported habits and lifestyle: 
+   - Sleep: Difficulty sleeping due to cough
+   - Diet: Regular healthy diet
+   - Exercise: Regular exercise regimen, temporarily halted due to symptoms
+   - Tobacco Use: Non-smoker
+   - Alcohol Consumption: Occasional alcohol consumption, not currently drinking
+
+5) Demographic Information: 
+   - Age: 32
+   - Gender: Female
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Job Status: Employed, office worker
+
+6) Patient's Behavior: 
+   - Level of Cooperation: High, adheres to medical advice readily
+
+7) Geographical Location: 
+   - Big City vs Small City: Small city
+   - Neighborhood: Suburban, well-served by transit
+
+8) Clinical Setting: 
+   - Clinics
+
+9) Type of Encounter: 
+   - Initial Consultation
+
+10) Treatment Disparities: 
+    - NA
+
+11) Native or Non-Native English Speaking Patient: 
+    - Native English Speaker
+
+12) Physical exams: 
+    - Throat examination: Mild redness
+    - Lung auscultation: Clear, no wheezes or crackles
+
+13) Investigation/Test results:
+    - NA"|"**1. Subjective:**
+
+- **Chief Complaint (CC):** Patient presents with a persistent cough.
+- **History of Present Illness (HPI):** 
+  - The patient, a 32-year-old Caucasian female, reports symptoms consistent with a viral upper respiratory infection that began 5 days ago. She describes the severity of her symptoms as mild to moderate.
+  - Associated symptoms include a sore throat, runny nose, and mild headache. The patient experiences continuous coughing throughout the day, which has impacted her ability to focus at work.
+- **Review of Systems (ROS):**
+  - Respiratory: Reports persistent cough and sore throat.
+  - Neurological: Reports mild headache.
+  - Sleep: Reports difficulty sleeping due to nocturnal cough.
+  - General: Denies fever, chills, or body aches.
+
+**2. Objective:**
+
+- **Vital Signs:**
+  - Temperature: 98.6°F
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 72 beats per minute
+  - Respiratory Rate: 16 breaths per minute
+- **Physical Exam:**
+  - Throat: Mild redness noted upon examination.
+  - Lungs: Clear to auscultation bilaterally, no wheezes or crackles detected.
+
+**3. Assessment:**
+
+- The patient is assessed to have a viral upper respiratory infection, commonly known as the common cold. Given her history of seasonal allergies, it's likely contributing to the nasal symptoms. The examination findings support this diagnosis with no indication of bacterial infection or complications.
+
+**4. Plan:**
+
+- **Medical Treatment:**
+  - Advise the patient to take Dextromethorphan 10 mg/5 ml, 10 ml by mouth every 6 hours as needed for cough.
+  - Encourage the patient to rest and increase fluid intake to aid in symptom resolution.
+- **Lifestyle Modifications:**
+  - Highlight the importance of increased hydration and rest.
+  - Advise the patient to avoid smoking environments that may exacerbate symptoms.
+- **Follow-Up:**
+  - Recommend follow-up if symptoms persist beyond 10 days or if there is any worsening, such as high fever or chest pain.
+- **Patient Education:**
+  - Educate the patient on the typical course of a viral upper respiratory infection and expected recovery within 7-10 days.
+  
+The patient was cooperative and understood the management plan. There are no referrals needed at this time, and no additional tests are warranted."|"**1. Subjective:**
+
+- **Chief Complaint (CC):** Patient presents with a persistent cough.
+- **History of Present Illness (HPI):** 
+  - The patient, a 32-year-old Caucasian female named Emily Johnson, reports symptoms consistent with a viral upper respiratory infection that began 5 days ago. She describes the severity of her symptoms as mild to moderate.
+  - Associated symptoms include a sore throat, runny nose, and mild headache. The patient experiences continuous coughing throughout the day, which has impacted her ability to focus at work.
+- **Review of Systems (ROS):**
+  - Respiratory: Reports persistent cough and sore throat.
+  - Neurological: Reports mild headache.
+  - Sleep: Reports difficulty sleeping due to nocturnal cough.
+  - General: Denies fever, chills, or body aches.
+
+**2. Objective:**
+
+- **Vital Signs:**
+  - Temperature: 98.6°F
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 72 beats per minute
+  - Respiratory Rate: 16 breaths per minute
+- **Physical Exam:**
+  - Throat: Mild redness noted upon examination.
+  - Lungs: Clear to auscultation bilaterally, no wheezes or crackles detected.
+
+**3. Assessment:**
+
+- The patient is assessed to have a viral upper respiratory infection, commonly known as the common cold. Given her history of seasonal allergies, it's likely contributing to the nasal symptoms. The examination findings support this diagnosis with no indication of bacterial infection or complications.
+
+**4. Plan:**
+
+- **Medical Treatment:**
+  - Advise the patient to take Dextromethorphan 10 mg/5 ml, 10 ml by mouth every 6 hours as needed for cough.
+  - Encourage the patient to rest and increase fluid intake to aid in symptom resolution.
+- **Lifestyle Modifications:**
+  - Highlight the importance of increased hydration and rest.
+  - Advise the patient to avoid smoking environments that may exacerbate symptoms.
+- **Follow-Up:**
+  - Recommend follow-up if symptoms persist beyond 10 days or if there is any worsening, such as high fever or chest pain.
+- **Patient Education:**
+  - Educate the patient on the typical course of a viral upper respiratory infection and expected recovery within 7-10 days.
+
+The patient was cooperative and understood the management plan. There are no referrals needed at this time, and no additional tests are warranted."|ablation|Family Medicine Physician
+COUGH|"ROLE: General Physician
+
+1) Medical Outcome: 
+   - Diagnosis: Acute bronchitis (ICD-10 J20.9)
+   - Prescribed Treatment: Advise on increased fluid intake and rest, prescription of an albuterol inhaler, 90 mcg per activation, two puffs every 4-6 hours as needed for cough, oral route.
+   - Follow-up Recommendations: Reassessment in two weeks if symptoms persist or worsen.
+   - Referral: Consideration for referral to a pulmonologist if symptoms do not improve after follow-up.
+
+2) Medical History:
+   - Previous Diagnoses: Seasonal allergies, mild asthma.
+   - Medication History: Uses antihistamines occasionally, no regular medications.
+   - Allergies: Allergic to penicillin, causes rash.
+   - Chronic Conditions: Mild asthma.
+
+3) Symptom Description:
+   - Severity: Moderate cough, worse at night.
+   - Duration: Persisting for 10 days.
+   - Associated Symptoms: Sore throat, mild fever.
+   - Frequency: Throughout the day, more frequent at night.
+   - Impact on Daily Activities: Disrupts sleep and concentration at work.
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Disturbed sleep due to coughing.
+   - Diet: Balanced, includes fruits and vegetables regularly.
+   - Exercise: Regular walker, about 30 minutes a day.
+   - Tobacco Use: Non-smoker.
+   - Alcohol Consumption: Social drinker, 2-3 drinks per week.
+
+5) Demographic Information:
+   - Age: 35
+   - Gender: Female
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: Good
+   - Job Status: Full-time employment as a software developer.
+
+6) Patient's Behavior:
+   - Cooperates well with medical advice and adheres to prescribed treatments.
+
+7) Geographical Location:
+   - Urban area, big city.
+   - Pollution and Environmental Health Risks: High pollution index, particularly during the spring season.
+   - Neighborhood Type: Affluent, well-served by transit, and good access to healthcare facilities.
+
+8) Clinical Setting:
+   - Private Practice
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - No observed treatment disparities.
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English speaker.
+
+12) Physical exams:
+   - Auscultation reveals wheezing in the lungs, particularly at night.
+   - Mild throat redness observed.
+
+13) Investigation/Test results:
+   - Awaiting results of a chest X-ray to rule out pneumonia."|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Moderate cough persisting for 10 days, worse at night.
+
+**History of Present Illness (HPI):**  
+The patient is a 35-year-old Caucasian female presenting with symptoms of a moderate cough that has been ongoing for the past 10 days. The cough worsens at night, disrupting her sleep and affecting her concentration at work as a software developer. Additionally, she reports a sore throat and a mild fever. The patient has a history of mild asthma and seasonal allergies, for which she takes antihistamines occasionally.
+
+**Review of Systems (ROS):**  
+- **Respiratory:** Moderate cough, more frequent at night. Wheezing noted.  
+- **ENT:** Sore throat with mild redness observed.  
+- **General:** Mild fever, feeling fatigued due to disrupted sleep.  
+
+**2. Objective:**
+
+**Physical Examination:**  
+- **Respiratory:** Auscultation reveals wheezing in the lungs, more pronounced at night.  
+- **ENT:** Mild redness in the throat.  
+
+**Results:**  
+- Awaiting results of a chest X-ray to rule out pneumonia.  
+
+**3. Assessment:**
+
+- **Acute Bronchitis (ICD-10 J20.9):** The patient's symptoms and wheezing suggest acute bronchitis, possibly influenced by environmental factors such as high pollution levels in the area.
+
+**4. Plan:**
+
+- **Medical Treatment:**  
+  - Prescribe an albuterol inhaler, 90 mcg per activation, two puffs every 4-6 hours as needed for cough.  
+  - Advise increased fluid intake and rest to support recovery.  
+ 
+- **Follow-up Recommendations:**  
+  - Reassess in two weeks if symptoms persist or worsen.  
+
+- **Referral:**  
+  - Consider referral to a pulmonologist if symptoms do not improve after follow-up.  
+
+- **Patient Education and Counseling:**  
+  - Educate the patient on the importance of adhering to the prescribed inhaler use and maintaining adequate hydration.  
+  - Discuss potential environmental triggers such as high pollution and ways to minimize exposure.  
+
+- **Patient Agreements:**  
+  - The patient understands and agrees with the proposed treatment plan and follow-up schedule.  
+
+The patient is cooperative and displays good health literacy, indicating she will adhere to medical advice effectively."|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Moderate cough persisting for 10 days, worse at night.
+
+**History of Present Illness (HPI):**  
+The patient, named Emily Johnson, is a 35-year-old Caucasian female presenting with symptoms of a moderate cough that has been ongoing for the past 10 days. The cough worsens at night, disrupting her sleep and affecting her concentration at work as a software developer. Additionally, she reports a sore throat and a mild fever. The patient has a history of mild asthma and seasonal allergies, for which she takes antihistamines occasionally.
+
+**Review of Systems (ROS):**  
+- **Respiratory:** Moderate cough, more frequent at night. Wheezing noted.  
+- **ENT:** Sore throat with mild redness observed.  
+- **General:** Mild fever, feeling fatigued due to disrupted sleep.  
+
+**2. Objective:**
+
+**Physical Examination:**  
+- **Respiratory:** Auscultation reveals wheezing in the lungs, more pronounced at night.  
+- **ENT:** Mild redness in the throat.  
+
+**3. Assessment:**
+
+- **Acute Bronchitis (ICD-10 J20.9):** The patient's symptoms and wheezing suggest acute bronchitis, possibly influenced by environmental factors such as high pollution levels in the area.
+
+**4. Plan:**
+
+- **Medical Treatment:**  
+  - Prescribe an albuterol inhaler, 90 mcg per activation, two puffs every 4-6 hours as needed for cough.  
+  - Advise increased fluid intake and rest to support recovery.  
+
+- **Follow-up Recommendations:**  
+  - Reassess in two weeks if symptoms persist or worsen.  
+
+- **Referral:**  
+  - Consider referral to a pulmonologist, Dr. Michael Thompson, if symptoms do not improve after follow-up.  
+
+- **Patient Education and Counseling:**  
+  - Educate the patient on the importance of adhering to the prescribed inhaler use and maintaining adequate hydration.  
+  - Discuss potential environmental triggers such as high pollution and ways to minimize exposure.  
+
+- **Patient Agreements:**  
+  - The patient understands and agrees with the proposed treatment plan and follow-up schedule.  
+
+The patient is cooperative and displays good health literacy, indicating she will adhere to medical advice effectively."|ablation|General Physician

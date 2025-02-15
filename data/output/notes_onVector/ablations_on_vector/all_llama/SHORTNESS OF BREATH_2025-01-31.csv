@@ -1,0 +1,510 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role
+SHORTNESS OF BREATH|"ROLE: Pulmonologist
+1. Medical Outcome: 
+    - Diagnosis: Shortness of breath (R06.00)
+    - Prescribed treatment: Salbutamol inhaler 2 puffs as needed, every 4-6 hours
+    - Referral to specialists: Pulmonary function test
+    - Referral to further tests or imaging: Chest X-ray, arterial blood gas analysis
+    - Medication adjustment: None
+    - Lifestyle change: Increase fluid intake, avoid triggers that exacerbate shortness of breath
+2. Medical History:
+    - Previous Diagnoses: Hypertension, hyperlipidemia
+    - Family Medical History: Family history of asthma
+    - Medication History: Current medication includes atenolol and simvastatin
+    - Allergies: None
+    - Chronic Conditions: Hypertension, hyperlipidemia
+3. Symptom Description:
+    - Severity: Moderate
+    - Duration: 2 weeks
+    - Associated Symptoms: Cough, wheezing
+    - Frequency: Continuous
+    - Impact on Daily Activities: Moderate impact on daily activities
+4. Patient’s self-reported habits and lifestyle:
+    - Sleep: 6-8 hours per night
+    - Diet: Balanced diet
+    - Exercise: Regular exercise, 30 minutes per day
+    - Tobacco Use: Non-smoker
+    - Alcohol Consumption: Occasional drinker
+5. Demographic Information:
+    - Age: 45
+    - Gender: Male
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: High school graduate
+    - Health Literacy: Good
+    - Job Status: Employed
+6. Patient's Behavior:
+    - Cooperative with medical advice
+7. Geographical Location:
+    - Urban area
+    - Not in a polluted area
+8. Clinical Setting:
+    - Hospital
+9. Type of Encounter:
+    - Initial consultation
+10. Treatment Disparities:
+    - None
+11. Native or Non-Native English Speaking Patient:
+    - Native English speaker
+12. Physical exams:
+    - Lung exam, cardiac exam
+13. Investigation/Test results:
+    - Chest X-ray, arterial blood gas analysis, pulmonary function test"|"**1. Subjective:**
+Since the result of rolling a dice is not provided, I will assume an odd result to break down this part into several sub-parts.
+
+- **Chief Complaint (CC):** 
+The patient presents with a chief complaint of shortness of breath, which has been ongoing for 2 weeks.
+
+- **History of Present Illness (HPI):** 
+The patient reports experiencing shortness of breath for 2 weeks, describing it as moderate in severity and continuous in frequency. The patient also reports associated symptoms of cough and wheezing. The patient's condition has a moderate impact on daily activities.
+
+- **Review of Systems (ROS):** 
+The patient's review of systems is notable for symptoms of cough and wheezing. The patient has a history of hypertension and hyperlipidemia but does not report any symptoms related to these conditions at present.
+
+         **2. Objective:**
+- The patient is a 45-year-old male with a history of hypertension and hyperlipidemia, currently presenting with shortness of breath.
+- Vital signs and physical examination findings: The lung exam shows signs of respiratory distress, and the cardiac exam is within normal limits.
+- Test results: The chest X-ray, arterial blood gas analysis, and pulmonary function test have been ordered to further evaluate the patient's condition.
+
+         **3. Assessment:**
+- **Diagnosis:** Shortness of breath (R06.00)
+- The patient's symptoms, medical history, and test results suggest a diagnosis of shortness of breath, likely related to an underlying respiratory condition.
+- The patient has a family history of asthma, which may be a contributing factor to the current condition.
+
+         **4. Plan:**
+- **Treatment:** The patient has been prescribed a Salbutamol inhaler, 2 puffs as needed, every 4-6 hours.
+- **Referral to specialists:** The patient has been referred for a pulmonary function test to further evaluate the patient's lung function.
+- **Referral to further tests or imaging:** A chest X-ray and arterial blood gas analysis have been ordered to assess the patient's respiratory status.
+- **Medication adjustment:** None at this time, but the patient's current medications (atenolol and simvastatin) will be monitored.
+- **Lifestyle change:** The patient is advised to increase fluid intake and avoid triggers that exacerbate shortness of breath.
+- **Follow-up:** The patient is scheduled for a follow-up appointment to review the results of the tests and assess the response to treatment."|"**1. Subjective:**
+The patient, John Doe, presents with a chief complaint of shortness of breath, which has been ongoing for 2 weeks.
+The patient reports experiencing shortness of breath for 2 weeks, describing it as moderate in severity and continuous in frequency. The patient also reports associated symptoms of cough and wheezing. The patient's condition has a moderate impact on daily activities.
+The patient's review of systems is notable for symptoms of cough and wheezing. The patient has a history of hypertension and hyperlipidemia but does not report any symptoms related to these conditions at present.
+
+         **2. Objective:**
+The patient is a 45-year-old male with a history of hypertension and hyperlipidemia, currently presenting with shortness of breath.
+Vital signs and physical examination findings: The lung exam shows signs of respiratory distress, and the cardiac exam is within normal limits.
+
+         **3. Assessment:**
+Diagnosis: Shortness of breath (R06.00)
+The patient's symptoms, medical history, and test results suggest a diagnosis of shortness of breath, likely related to an underlying respiratory condition.
+The patient has a family history of asthma, which may be a contributing factor to the current condition.
+
+         **4. Plan:**
+Treatment: The patient has been prescribed a Salbutamol inhaler, 2 puffs as needed, every 4-6 hours.
+Referral to specialists: The patient has been referred to Dr. Emily Chen, a pulmonologist, for a pulmonary function test to further evaluate the patient's lung function, as the patient's symptoms suggest a possible underlying respiratory condition that requires specialized care.
+Referral to further tests or imaging: A chest X-ray and arterial blood gas analysis have been ordered to assess the patient's respiratory status.
+Medication adjustment: None at this time, but the patient's current medications (atenolol and simvastatin) will be monitored.
+Lifestyle change: The patient is advised to increase fluid intake and avoid triggers that exacerbate shortness of breath.
+Follow-up: The patient is scheduled for a follow-up appointment to review the results of the tests and assess the response to treatment."|ablation|Pulmonologist
+SHORTNESS OF BREATH|"ROLE: Respiratory Medicine Specialist
+
+1. Medical Outcome: 
+   - Diagnosis: Shortness of breath (R06.00)
+   - Prescribed treatment: Oxygen therapy, inhaled bronchodilators, and pulmonary rehabilitation
+   - Follow-up recommendations: Follow-up visit in 2 weeks to assess progress
+   - Referral to specialists: Referral to a cardiologist to rule out any cardiovascular causes of shortness of breath
+   - Referral to further tests or imaging: Chest X-ray and pulmonary function tests (PFTs) to assess lung function
+   - Medication adjustment: Titrate oxygen therapy as needed
+   - Lifestyle change: Quit smoking, avoid secondhand smoke, and maintain a healthy weight
+
+2. Medical History:
+   - Previous Diagnoses: Chronic obstructive pulmonary disease (COPD), hypertension
+   - Family Medical History: Family history of COPD and lung cancer
+   - Medication History: Previous use of inhaled corticosteroids and bronchodilators
+   - Allergies: Allergic to penicillin
+   - Chronic Conditions: COPD, hypertension
+
+3. Symptom Description:
+   - Severity: Moderate
+   - Duration: 6 months
+   - Associated Symptoms: Cough, wheezing, and fatigue
+   - Frequency: Daily
+   - Impact on Daily Activities: Limits daily activities, such as walking and climbing stairs
+
+4. Patient’s self-reported habits and lifestyle:
+   - Sleep: 6 hours per night
+   - Diet: Balanced diet with minimal processed foods
+   - Exercise: Regular walking and light exercise
+   - Tobacco Use: Smoker (1 pack per day)
+   - Alcohol Consumption: Occasional social drinking
+   - Drug Use: None
+   - Recreational Activities: Hiking and reading
+
+5. Demographic Information:
+   - Age: 65
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: High school diploma
+   - Health Literacy: Good understanding of health concepts
+   - Job Status: Retired
+
+6. Patient's Behavior: 
+   - Cooperation with medical advice: Good
+
+7. Geographical Location: 
+   - Big City vs Small City: Big city
+   - Rural vs Urban: Urban
+   - Pollution and Environmental Health Risks: High levels of air pollution
+   - Neighborhood Type: Affluent, well-served by transit
+
+8. Clinical Setting: Hospital
+
+9. Type of Encounter: 
+   - Initial Consultation
+
+10. Treatment Disparities: 
+    - None identified
+
+11. Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+12. Physical exams: 
+    - Respiratory system examination: Bilateral wheezing and decreased lung sounds
+
+13. Investigation/Test results: 
+    - Chest X-ray: Scheduled
+    - Pulmonary function tests (PFTs): Scheduled
+    - Arterial blood gas (ABG) analysis: Scheduled to assess oxygenation and ventilation"|"## Step 1: Determine the format of the medical note
+The medical note should be in the format of:
+1. Subjective: Includes the patient's own description of their symptoms and complaints.
+2. Objective: Includes observations and data gathered by the physician.
+3. Assessment: Includes the physician's evaluation of the patient's condition.
+4. Plan: Includes the physician's recommendations for treatment, management, and follow-up.
+
+## Step 2: Generate the Subjective section
+Since the patient is a 65-year-old male with a history of COPD and hypertension, presenting with shortness of breath, we will break down the subjective section into:
+- Chief Complaint (CC)
+- History of Present Illness (HPI)
+- Review of Systems (ROS)
+
+CC: The patient's chief complaint is shortness of breath.
+HPI: The patient has been experiencing shortness of breath for 6 months, with associated symptoms of cough, wheezing, and fatigue. He has a history of COPD and hypertension, and has been a smoker for many years.
+ROS: The patient denies any fever, chills, or chest pain, but endorses symptoms of anxiety and fatigue.
+
+## Step 3: Generate the Objective section
+The objective section includes:
+- Physical examination findings
+- Test results
+
+Physical examination: The patient has bilateral wheezing and decreased lung sounds on respiratory examination.
+Test results: Chest X-ray, pulmonary function tests (PFTs), and arterial blood gas (ABG) analysis are scheduled.
+
+## Step 4: Generate the Assessment section
+The assessment section includes the physician's evaluation of the patient's condition.
+The patient is diagnosed with shortness of breath, likely due to COPD exacerbation. The patient's history of smoking and COPD, as well as the physical examination findings, support this diagnosis.
+
+## Step 5: Generate the Plan section
+The plan section includes the physician's recommendations for treatment, management, and follow-up.
+The patient will be started on oxygen therapy, inhaled bronchodilators, and pulmonary rehabilitation. A follow-up visit is scheduled in 2 weeks to assess progress. The patient is also referred to a cardiologist to rule out any cardiovascular causes of shortness of breath. Additionally, the patient is advised to quit smoking, avoid secondhand smoke, and maintain a healthy weight.
+
+The final answer is: 
+**1. Subjective:**
+   - **Chief Complaint (CC):** Shortness of breath
+   - **History of Present Illness (HPI):** The patient has been experiencing shortness of breath for 6 months, with associated symptoms of cough, wheezing, and fatigue. He has a history of COPD and hypertension, and has been a smoker for many years.
+   - **Review of Systems (ROS):** The patient denies any fever, chills, or chest pain, but endorses symptoms of anxiety and fatigue.
+
+**2. Objective:**
+   - **Physical Examination:** Bilateral wheezing and decreased lung sounds on respiratory examination.
+   - **Test Results:** Chest X-ray, pulmonary function tests (PFTs), and arterial blood gas (ABG) analysis are scheduled.
+
+**3. Assessment:**
+   The patient is diagnosed with shortness of breath, likely due to COPD exacerbation.
+
+**4. Plan:**
+   - **Treatment:** Oxygen therapy, inhaled bronchodilators, and pulmonary rehabilitation.
+   - **Follow-up:** Follow-up visit in 2 weeks to assess progress.
+   - **Referral:** Referral to a cardiologist to rule out any cardiovascular causes of shortness of breath.
+   - **Lifestyle Changes:** Quit smoking, avoid secondhand smoke, and maintain a healthy weight."|"**1. Subjective:**
+   - **Chief Complaint (CC):** Shortness of breath
+   - **History of Present Illness (HPI):** The patient has been experiencing shortness of breath for 6 months, with associated symptoms of cough, wheezing, and fatigue. He has a history of COPD and hypertension, and has been a smoker for many years.
+   - **Review of Systems (ROS):** The patient denies any fever, chills, or chest pain, but endorses symptoms of anxiety and fatigue.
+
+**2. Objective:**
+   - **Physical Examination:** Bilateral wheezing and decreased lung sounds on respiratory examination.
+   - **Test Results:** Chest X-ray, pulmonary function tests (PFTs), and arterial blood gas (ABG) analysis are scheduled.
+
+**3. Assessment:**
+   The patient is diagnosed with shortness of breath, likely due to COPD exacerbation.
+
+**4. Plan:**
+   - **Treatment:** Oxygen therapy, inhaled bronchodilators, and pulmonary rehabilitation.
+   - **Follow-up:** Follow-up visit in 2 weeks to assess progress.
+   - **Referral:** Referral to a cardiologist to rule out any cardiovascular causes of shortness of breath.
+   - **Lifestyle Changes:** Quit smoking, avoid secondhand smoke, and maintain a healthy weight."|ablation|Respiratory Medicine Specialist
+SHORTNESS OF BREATH|"ROLE: Pulmonologist 
+
+1. Medical Outcome: 
+    - Diagnosis: SHORTNESS OF BREATH
+    - Prescribed treatment: Oxygen therapy, Albuterol inhaler 2.5 mg/3 mL, 1 inhalation every 4-6 hours as needed
+    - Follow-up recommendations: Follow-up appointment in 1 week
+    - Referral to specialists: Referral to cardiologist for further evaluation
+    - Referral to further tests or imaging: Order chest X-ray, pulmonary function tests
+    - Medication adjustment: NA
+    - Lifestyle change: Quit smoking, avoid secondhand smoke, exercise regularly
+
+2. Medical History: 
+    - Previous Diagnoses: Hypertension, Hyperlipidemia
+    - Family Medical History: Family history of respiratory diseases
+    - Medication History: Current medications include atenolol and simvastatin
+    - Allergies: No known allergies
+    - Chronic Conditions: Chronic obstructive pulmonary disease (COPD)
+
+3. Symptom Description: 
+    - Severity: Moderate
+    - Duration: 3 months
+    - Associated Symptoms: Cough, wheezing
+    - Frequency: Daily
+    - Impact on Daily Activities: Limits physical activity
+
+4. Patient’s self-reported habits and lifestyle: 
+    - Sleep: 7 hours per night
+    - Diet: Balanced diet
+    - Exercise: 30 minutes of walking per day
+    - Tobacco Use: Former smoker
+    - Alcohol Consumption: Social drinker
+    - Drug Use: None
+    - Recreational Activities: Reading, watching TV
+
+5. Demographic Information: 
+    - Age: 65
+    - Gender: Male
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: High school graduate
+    - Health Literacy: Good understanding of health information
+    - Job Status: Retired
+
+6. Patient's Behavior: 
+    - Cooperation with medical advice: Good
+
+7. Geographical Location: 
+    - Big City vs Small City: Big city
+    - Rural vs Urban: Urban
+    - Pollution and Environmental Health Risks: Moderate air pollution
+    - Neighborhood Type: Affluent neighborhood
+
+8. Clinical Setting: 
+    - Hospital, Clinic, or Other: Clinic
+
+9. Type of Encounter: 
+    - Initial Consultation
+
+10. Treatment Disparities: 
+    - No disparities noted
+
+11. Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+12. Physical exams: 
+    - Vital signs: BP 140/90, HR 90, RR 20, O2 sat 95% on room air
+    - General Examination: No clubbing or cyanosis
+    - Pulmonary Examination: Wheezes heard on auscultation
+
+13. Investigation/Test results: 
+    - Chest X-ray: Ordered but not yet performed
+    - Pulmonary function tests: Ordered but not yet performed
+    - Arterial blood gas: Not ordered
+    - Other tests: Complete blood count (CBC) and basic metabolic panel (BMP) ordered but not yet performed"|"## Step 1: Subjective
+The patient is a 65-year-old male who presents with a chief complaint of shortness of breath. He describes the symptom as moderate in severity and states that it has been present for 3 months. The shortness of breath is accompanied by a cough and wheezing, which occur daily. The patient reports that his symptoms limit his physical activity.
+
+## Step 2: History of Present Illness
+The patient's shortness of breath started 3 months ago, and since then, he has been experiencing it daily. He has tried to manage his symptoms with rest and hydration but has not seen significant improvement. The patient has a history of hypertension and hyperlipidemia and has been taking atenolol and simvastatin. He has a family history of respiratory diseases.
+
+## Step 3: Review of Systems
+The patient reports experiencing musculoskeletal pain due to his limited physical activity. He denies any neurological symptoms such as numbness or tingling. The patient's gastrointestinal and genitourinary systems are unremarkable.
+
+## Step 4: Objective
+The patient's vital signs are: BP 140/90, HR 90, RR 20, O2 sat 95% on room air. The physical examination reveals wheezes heard on auscultation of the lungs, but no clubbing or cyanosis is observed.
+
+## Step 5: Assessment
+Based on the patient's symptoms and physical examination, the assessment is shortness of breath, likely due to chronic obstructive pulmonary disease (COPD) exacerbation.
+
+## Step 6: Plan
+The patient will be started on oxygen therapy and an albuterol inhaler 2.5 mg/3 mL, 1 inhalation every 4-6 hours as needed. The patient is referred to a cardiologist for further evaluation. A chest X-ray and pulmonary function tests are ordered. The patient is advised to quit smoking, avoid secondhand smoke, and exercise regularly. A follow-up appointment is scheduled in 1 week.
+
+
+The final answer is: 
+
+**1. Subjective:**
+The patient is a 65-year-old male who presents with a chief complaint of shortness of breath. He describes the symptom as moderate in severity and states that it has been present for 3 months. The shortness of breath is accompanied by a cough and wheezing, which occur daily. The patient reports that his symptoms limit his physical activity.
+
+**2. Objective:**
+The patient's vital signs are: BP 140/90, HR 90, RR 20, O2 sat 95% on room air. The physical examination reveals wheezes heard on auscultation of the lungs, but no clubbing or cyanosis is observed.
+
+**3. Assessment:**
+Based on the patient's symptoms and physical examination, the assessment is shortness of breath, likely due to chronic obstructive pulmonary disease (COPD) exacerbation.
+
+**4. Plan:**
+The patient will be started on oxygen therapy and an albuterol inhaler 2.5 mg/3 mL, 1 inhalation every 4-6 hours as needed. The patient is referred to a cardiologist for further evaluation. A chest X-ray and pulmonary function tests are ordered. The patient is advised to quit smoking, avoid secondhand smoke, and exercise regularly. A follow-up appointment is scheduled in 1 week."|"**1. Subjective:**
+The patient, John Smith, is a 65-year-old male who presents with a chief complaint of shortness of breath. He describes the symptom as moderate in severity and states that it has been present for 3 months. The shortness of breath is accompanied by a cough and wheezing, which occur daily. The patient reports that his symptoms limit his physical activity.
+
+**2. Objective:**
+The patient's vital signs are: BP 140/90, HR 90, RR 20, O2 sat 95% on room air. The physical examination reveals wheezes heard on auscultation of the lungs, but no clubbing or cyanosis is observed.
+
+**3. Assessment:**
+Based on the patient's symptoms and physical examination, the assessment is shortness of breath, likely due to chronic obstructive pulmonary disease (COPD) exacerbation.
+
+**4. Plan:**
+The patient will be started on oxygen therapy and an albuterol inhaler 2.5 mg/3 mL, 1 inhalation every 4-6 hours as needed. The patient is referred to Dr. Emily Chen, a cardiologist, for further evaluation of his heart condition, which may be contributing to his shortness of breath. A chest X-ray and pulmonary function tests are ordered to further assess the patient's lung function. The patient is advised to quit smoking, avoid secondhand smoke, and exercise regularly. A follow-up appointment is scheduled in 1 week."|ablation|Pulmonologist 
+SHORTNESS OF BREATH|"ROLE: Pulmonologist
+1. Medical Outcome: Diagnosis of Chronic Obstructive Pulmonary Disease (COPD), prescribed treatment with Salmeterol 25 mcg and Fluticasone 250 mcg inhaler, two puffs twice daily, referral to a pulmonary rehabilitation program, complete blood count (CBC) and blood gas analysis, Chest X-ray, and pulmonary function tests.
+2. Medical History: Previous diagnosis of asthma, family history of COPD, medication history of bronchodilators and inhaled corticosteroids, allergy to penicillin.
+3. Symptom Description: Severity of shortness of breath is 7/10, duration of 6 months, associated symptoms of wheezing and coughing, frequency of daily, impact on daily activities is significant as patient is unable to climb stairs.
+4. Patient’s self-reported habits and lifestyle: Sleeps 6 hours a night, diet is high in saturated fats, exercises occasionally, smoker of 1 pack per day for 30 years, consumes alcohol socially.
+5. Demographic Information: Age 65, male, Caucasian, socio-economic status is middle class, education level is high school, health literacy is adequate, job status is retired.
+6. Patient's Behavior: Cooperative with medical advice.
+7. Geographical Location: Lives in a big city, urban area, exposed to high levels of air pollution.
+8. Clinical Setting: Hospital outpatient department.
+9. Type of Encounter: Follow-up visit.
+10. Treatment Disparities: None.
+11. Native or Non-Native English Speaking Patient: Native English speaker.
+12. Physical exams: Lung auscultation reveals wheezing, chest X-ray shows hyperinflation of lungs.
+13. Investigation/Test results: Pulmonary function tests show severe obstruction, awaiting results of blood gas analysis."|"**1. Subjective:**
+            Since the result of rolling a dice is not provided, I will assume it is odd. 
+            * **Chief Complaint (CC):** The patient is experiencing shortness of breath, which has been ongoing for 6 months, with a severity of 7/10.
+            * **History of Present Illness (HPI):** The patient reports a history of asthma and has been experiencing wheezing and coughing, with the symptoms occurring daily. The patient's symptoms have significantly impacted their daily activities, as they are unable to climb stairs.
+            * **Review of Systems (ROS):** The patient reports sleeping 6 hours a night, consuming a diet high in saturated fats, exercising occasionally, smoking 1 pack per day for 30 years, and consuming alcohol socially.
+            * **Social History:** The patient is a retired, 65-year-old male, with a high school education level, who lives in a big city with high levels of air pollution.
+            * **Family History:** The patient has a family history of COPD.
+
+         **2. Objective:**
+            * **Vital Signs:** Not explicitly stated, but based on the provided information, the patient's respiratory status is compromised.
+            * **Physical Examination Findings:** Lung auscultation reveals wheezing.
+            * **Test Results:** 
+                - Pulmonary function tests show severe obstruction.
+                - Chest X-ray shows hyperinflation of lungs.
+                - Awaiting results of blood gas analysis and complete blood count (CBC).
+
+         **3. Assessment:**
+            The patient has been diagnosed with Chronic Obstructive Pulmonary Disease (COPD), with a history of asthma, and is experiencing significant shortness of breath, wheezing, and coughing. The patient has a history of smoking and exposure to high levels of air pollution, which are contributing factors to their COPD.
+
+         **4. Plan:**
+            * **Treatment:** The patient has been prescribed a Salmeterol 25 mcg and Fluticasone 250 mcg inhaler, to be used two puffs twice daily. The patient has also been referred to a pulmonary rehabilitation program.
+            * **Follow-up:** The patient is scheduled for a follow-up visit to monitor their condition and adjust their treatment plan as necessary. The patient's blood gas analysis and CBC results will be reviewed at the follow-up visit.
+            * **Lifestyle Modifications:** The patient is advised to quit smoking, reduce their saturated fat intake, and increase their exercise frequency. The patient is also advised to avoid exposure to high levels of air pollution.
+            * **Patient Education:** The patient has been educated on their condition, treatment plan, and lifestyle modifications. The patient is cooperative with medical advice and has adequate health literacy."|"**1. Subjective:**
+            * **Chief Complaint (CC):** Mr. Johnson is experiencing shortness of breath, which has been ongoing for 6 months, with a severity of 7/10.
+            * **History of Present Illness (HPI):** Mr. Johnson reports a history of asthma and has been experiencing wheezing and coughing, with the symptoms occurring daily. The symptoms have significantly impacted his daily activities, as he is unable to climb stairs.
+            * **Review of Systems (ROS):** Mr. Johnson reports sleeping 6 hours a night, consuming a diet high in saturated fats, exercising occasionally, smoking 1 pack per day for 30 years, and consuming alcohol socially.
+            * **Social History:** Mr. Johnson is a retired, 65-year-old male, with a high school education level, who lives in a big city with high levels of air pollution.
+            * **Family History:** Mr. Johnson has a family history of COPD.
+
+         **2. Objective:**
+            * **Vital Signs:** Not explicitly stated, but based on the provided information, Mr. Johnson's respiratory status is compromised.
+            * **Physical Examination Findings:** Lung auscultation reveals wheezing.
+            * **Test Results:** 
+                - Pulmonary function tests show severe obstruction.
+                - Chest X-ray shows hyperinflation of lungs.
+                - Blood gas analysis and complete blood count (CBC) results are pending.
+
+         **3. Assessment:**
+            Mr. Johnson has been diagnosed with Chronic Obstructive Pulmonary Disease (COPD), with a history of asthma, and is experiencing significant shortness of breath, wheezing, and coughing. Mr. Johnson has a history of smoking and exposure to high levels of air pollution, which are contributing factors to his COPD.
+
+         **4. Plan:**
+            * **Treatment:** Mr. Johnson has been prescribed a Salmeterol 25 mcg and Fluticasone 250 mcg inhaler, to be used two puffs twice daily. 
+            * **Referral:** Mr. Johnson has been referred to Dr. Smith, a pulmonologist, for further evaluation and management of his COPD, due to the severity of his symptoms and the need for specialized care.
+            * **Follow-up:** Mr. Johnson is scheduled for a follow-up visit to monitor his condition and adjust his treatment plan as necessary. His blood gas analysis and CBC results will be reviewed at the follow-up visit.
+            * **Lifestyle Modifications:** Mr. Johnson is advised to quit smoking, reduce his saturated fat intake, and increase his exercise frequency. Mr. Johnson is also advised to avoid exposure to high levels of air pollution.
+            * **Patient Education:** Mr. Johnson has been educated on his condition, treatment plan, and lifestyle modifications. Mr. Johnson is cooperative with medical advice and has adequate health literacy."|ablation|Pulmonologist
+SHORTNESS OF BREATH|"ROLE: Pulmonologist
+
+* Medical Outcome: 
+    - Diagnosis: Shortness of breath (R06.00)
+    - Prescribed treatment: Oxygen therapy, inhaled bronchodilators, and inhaled corticosteroids
+    - Follow-up recommendations: Regular check-ups to monitor progress and adjust treatment plan as needed
+    - Referral to specialists: Possible referral to a cardiologist to rule out cardiac causes of shortness of breath
+    - Referral to further tests or imaging: Order a chest X-ray, pulmonary function tests, and an electrocardiogram (ECG) to evaluate lung function and rule out other potential causes
+    - Medication adjustment: None at this time, but may be necessary based on test results and patient response to treatment
+    - Lifestyle change: Encourage patient to stop smoking, avoid exposure to pollution, and engage in regular exercise
+* Medical History: 
+    - Previous Diagnoses: None
+    - Family Medical History: Family history of respiratory diseases
+    - Medication History: None
+    - Allergies: None
+    - Chronic Conditions: None
+* Symptom Description: 
+    - Severity: Severe shortness of breath
+    - Duration: Ongoing for several weeks
+    - Associated Symptoms: Coughing, fatigue
+    - Frequency: Constant
+    - Impact on Daily Activities: Significant impact on daily activities, including difficulty walking and performing daily tasks
+* Patient’s self-reported habits and lifestyle: 
+    - Sleep: Poor sleep quality due to difficulty breathing at night
+    - Diet: Poor diet, high in processed foods and low in fruits and vegetables
+    - Exercise: Limited physical activity due to shortness of breath
+    - Tobacco Use: Smoker
+    - Alcohol Consumption: Moderate drinker
+* Demographic Information: 
+    - Age: 55
+    - Gender: Male
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: College-educated
+    - Health Literacy: Good understanding of health concepts
+    - Job Status: Employed full-time
+* Patient's Behavior: 
+    - Cooperative with medical advice
+* Geographical Location: 
+    - Big City
+    - Urban area
+    - Moderate pollution levels
+* Clinical Setting: 
+    - Hospital
+* Type of Encounter: 
+    - Initial Consultation
+* Treatment Disparities: 
+    - None
+* Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+* Physical exams: 
+    - Lung exam: Wheezing and crackles heard on auscultation
+* Investigation/Test results: 
+    - Chest X-ray: Ordered, but results not yet available
+    - Pulmonary function tests: Ordered, but results not yet available
+    - ECG: Ordered, but results not yet available"|"**1. Subjective:**
+The patient is a 55-year-old Caucasian male with a history of severe shortness of breath, which has been ongoing for several weeks. He reports difficulty breathing, especially at night, and experiences coughing and fatigue. The patient's symptoms have significantly impacted his daily activities, making it challenging to walk and perform daily tasks. He has a history of smoking and consumes alcohol moderately. The patient's sleep quality is poor due to breathing difficulties, and he has a limited physical activity level. He has a family history of respiratory diseases.
+
+**Chief Complaint (CC):** Severe shortness of breath
+
+**History of Present Illness (HPI):** The patient's symptoms started several weeks ago and have been constant since then. He reports that his symptoms worsen at night and are accompanied by coughing and fatigue. The patient has not experienced any recent illnesses or infections that could have triggered his symptoms.
+
+**Review of Systems (ROS):** The patient denies any recent weight loss, weight gain, headaches, bone pain, or urinary symptoms. However, he reports back pain and joint pain, which he attributes to age-related issues. He also has high cholesterol, which is being followed by his primary care provider.
+
+         **2. Objective:**
+The patient's lung exam revealed wheezing and crackles on auscultation. The patient's vital signs are within normal limits. The chest X-ray, pulmonary function tests, and ECG have been ordered but the results are not yet available.
+
+         **3. Assessment:**
+The patient's symptoms and physical exam suggest a respiratory condition, possibly chronic obstructive pulmonary disease (COPD) or asthma. The patient's history of smoking and family history of respiratory diseases support this diagnosis. However, further testing is needed to confirm the diagnosis and rule out other potential causes of shortness of breath, such as cardiac disease.
+
+         **4. Plan:**
+1. The patient will undergo oxygen therapy to help alleviate his shortness of breath.
+2. The patient will be prescribed inhaled bronchodilators and inhaled corticosteroids to help manage his symptoms.
+3. The patient will be scheduled for follow-up appointments to monitor his progress and adjust his treatment plan as needed.
+4. The patient may be referred to a cardiologist to rule out cardiac causes of shortness of breath.
+5. The patient will be encouraged to stop smoking, avoid exposure to pollution, and engage in regular exercise to help manage his condition.
+6. The patient's diet and sleep habits will be addressed, and he will be encouraged to make lifestyle changes to improve his overall health."|"**1. Subjective:**
+The patient, John Smith, is a 55-year-old Caucasian male with a history of severe shortness of breath, which has been ongoing for several weeks. He reports difficulty breathing, especially at night, and experiences coughing and fatigue. The patient's symptoms have significantly impacted his daily activities, making it challenging to walk and perform daily tasks. He has a history of smoking and consumes alcohol moderately. The patient's sleep quality is poor due to breathing difficulties, and he has a limited physical activity level. He has a family history of respiratory diseases.
+
+**Chief Complaint (CC):** Severe shortness of breath
+
+**History of Present Illness (HPI):** The patient's symptoms started several weeks ago and have been constant since then. He reports that his symptoms worsen at night and are accompanied by coughing and fatigue. The patient has not experienced any recent illnesses or infections that could have triggered his symptoms.
+
+**Review of Systems (ROS):** The patient denies any recent weight loss, weight gain, headaches, bone pain, or urinary symptoms. However, he reports back pain and joint pain, which he attributes to age-related issues. He also has high cholesterol, which is being followed by his primary care provider.
+
+         **2. Objective:**
+The patient's lung exam revealed wheezing and crackles on auscultation. The patient's vital signs are within normal limits. 
+
+         **3. Assessment:**
+The patient's symptoms and physical exam suggest a respiratory condition, possibly chronic obstructive pulmonary disease (COPD) or asthma. The patient's history of smoking and family history of respiratory diseases support this diagnosis. However, further testing is needed to confirm the diagnosis and rule out other potential causes of shortness of breath, such as cardiac disease.
+
+         **4. Plan:**
+1. The patient will undergo oxygen therapy to help alleviate his shortness of breath.
+2. The patient will be prescribed inhaled bronchodilators and inhaled corticosteroids to help manage his symptoms.
+3. The patient will be scheduled for follow-up appointments to monitor his progress and adjust his treatment plan as needed.
+4. The patient will be referred to Dr. Emily Chen, a cardiologist, to rule out cardiac causes of shortness of breath.
+5. The patient will be encouraged to stop smoking, avoid exposure to pollution, and engage in regular exercise to help manage his condition.
+6. The patient's diet and sleep habits will be addressed, and he will be encouraged to make lifestyle changes to improve his overall health.
+7. A chest X-ray, pulmonary function tests, and ECG will be ordered to aid in diagnosis."|ablation|Pulmonologist

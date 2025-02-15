@@ -1,0 +1,21 @@
+Traceback (most recent call last):
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/unsloth/__init__.py", line 198, in <module>
+    unsloth_zoo_version = importlib_version("unsloth_zoo")
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/importlib/metadata/__init__.py", line 984, in version
+    return distribution(distribution_name).version
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/importlib/metadata/__init__.py", line 957, in distribution
+    return Distribution.from_name(distribution_name)
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/importlib/metadata/__init__.py", line 548, in from_name
+    raise PackageNotFoundError(name)
+importlib.metadata.PackageNotFoundError: No package metadata was found for unsloth_zoo
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/run_tuning.py", line 1, in <module>
+    from utils import model_tuner
+  File "/fs01/home/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/utils/model_tuner.py", line 7, in <module>
+    from unsloth import FastLanguageModel
+  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/unsloth/__init__.py", line 209, in <module>
+    raise ImportError("Unsloth: Please install unsloth_zoo via `pip install unsloth_zoo`")
+ImportError: Unsloth: Please install unsloth_zoo via `pip install unsloth_zoo`

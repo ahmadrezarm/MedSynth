@@ -1,15 +1,15 @@
 from utils import model_tuner
 from utils import constants
 
-tuning_model_dict= {"N2D_ACI_Ahmad57_and_Aci": "Ahmad0067/SynthDataGen_llama3_Note2Dial_ACI_Ahmad57_and_Aci_instruct_dataset2024-12-14_11-36",
-                   "N2D_ACI_Ahmad57_Only": "Ahmad0067/SynthDataGen_llama3_Note2Dial_ACI_Ahmad57_Only_instruct_dataset2024-12-14_11-36",
-                   "N2D_ACI_Primock57_and_Aci": "Ahmad0067/SynthDataGen_llama3_Note2Dial_ACI_PriMock57_and_Aci_instruct_dataset2024-12-14_11-37",
-                   "N2D_ACI_Primock57_Only": "Ahmad0067/SynthDataGen_llama3_Note2Dial_ACI_PriMock57_Only_instruct_dataset2024-12-14_11-37",
+tuning_model_dict= {
+                   "ACI_Ahmad_246_Aci": "Ahmad0067/SynthDataGen_llama3_Dial2Note_Ahmad_246_Samples_and_Aci_instruct_2025-02-08_11-18",
+                   "ACI_AllQwen_and_Aci": "Ahmad0067/SynthDataGen_llama3_Dial2Note_All_Qwen_and_Aci_instruct_2025-02-08_11-02",
+                   "ACI_AllQwen_57_Samples_and_Aci": "Ahmad0067/SynthDataGen_llama3_Dial2Note_All_Qwen_57_Samples_and_Aci_instruct_2025-02-08_11-02",
+                   }
 
-                   "ACI_Ahmad57_and_Aci": "Ahmad0067/SynthDataGen_llama3_Dial2Note_Ahmad_57_and_Aci_instruct_2024-12-14_11-30",
-                   "ACI_Ahmad57_Only": "Ahmad0067/SynthDataGen_llama3_Dial2Note_Ahmad_57_Only_instruct_2024-12-14_11-30",
-                   "ACI_Primock57_and_Aci": "Ahmad0067/SynthDataGen_llama3_Dial2Note_PriMock57_and_Aci_instruct_2024-12-14_11-32",
-                   "ACI_Primock57_Only": "Ahmad0067/SynthDataGen_llama3_Dial2Note_PriMock57_Only_instruct_2024-12-14_11-32",
+tuning_model_dict_remained= {
+                   "Aci_AllLamma_246_Only": "Ahmad0067/SynthDataGen_llama3_Dial2Note_AllLamma_246_Samples_Only_instruct_2025-02-09_20-52",
+                   "Aci_AllQwen_246_Only": "Ahmad0067/SynthDataGen_llama3_Dial2Note_AllQwen_246_Samples_Only_instruct_2025-02-09_20-47",
                    }
 
 
@@ -25,7 +25,7 @@ def main():
  """
 
 def main():
-    for model, hf_path in tuning_model_dict.items():
+    for model, hf_path in tuning_model_dict_remained.items():
         print(f"working on: {model}")
         print(f" The datset is: {hf_path}")
         print(20*"*")

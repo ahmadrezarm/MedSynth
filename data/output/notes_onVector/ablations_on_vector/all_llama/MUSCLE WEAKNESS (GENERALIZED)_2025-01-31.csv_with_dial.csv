@@ -1,0 +1,1041 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+MUSCLE WEAKNESS (GENERALIZED)|"ROLE: Neurologist
+
+1. Medical Outcome: 
+    - Diagnosis: Muscle weakness (generalized) (ICD-10: M62.81)
+    - Prescribed treatment: Physical therapy, medication (e.g., pyridostigmine 60 mg orally, three times a day)
+    - Follow-up recommendations: Schedule a follow-up appointment in 2 weeks to assess progress and adjust treatment as needed
+    - Referral to specialists: Refer to a physical medicine and rehabilitation specialist for further evaluation and treatment
+    - Referral to further tests or imaging: Order electromyography (EMG) and nerve conduction studies (NCS) to assess muscle and nerve function
+
+2. Medical History: 
+    - Previous diagnoses: Hypothyroidism, vitamin D deficiency
+    - Family medical history: Mother with a history of muscular dystrophy
+    - Medication history: Currently taking levothyroxine for hypothyroidism
+    - Allergies: None
+    - Chronic conditions: Hypothyroidism, vitamin D deficiency
+
+3. Symptom Description: 
+    - Severity: Moderate
+    - Duration: 6 months
+    - Associated symptoms: Fatigue, muscle cramps
+    - Frequency: Constant
+    - Impact on daily activities: Difficulty walking, climbing stairs, and performing daily chores
+
+4. Patient’s self-reported habits and lifestyle: 
+    - Sleep: 7-8 hours per night
+    - Diet: Balanced diet with adequate protein intake
+    - Exercise: Gentle stretching and yoga, 2-3 times a week
+    - Tobacco use: Non-smoker
+    - Alcohol consumption: Occasional social drinking
+
+5. Demographic Information: 
+    - Age: 45
+    - Gender: Female
+    - Ethnicity: Caucasian
+    - Socio-economic status: Middle class
+    - Education level: College graduate
+    - Health literacy: Good
+    - Job status: Part-time employee
+
+6. Patient's Behavior: 
+    - Cooperation with medical advice: Good
+
+7. Geographical Location: 
+    - Big city
+    - Urban area
+    - Access to public transportation: Yes
+
+8. Clinical Setting: 
+    - Outpatient neurology clinic
+
+9. Type of Encounter: 
+    - Initial consultation
+
+10. Treatment Disparities: 
+    - None
+
+11. Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+12. Physical exams: 
+    - Muscle strength testing: 4/5 in upper limbs, 3/5 in lower limbs
+    - Reflexes: 2+ in upper and lower limbs
+    - Sensation: Intact
+
+13. Investigation/Test results: 
+    - EMG and NCS pending
+    - Vitamin D level: 25 ng/mL (low)
+    - TSH: 3.5 mU/L (normal)"|"## Step 1: Determine the format of the medical note
+The medical note should be in the format of:
+1. Subjective
+2. Objective
+3. Assessment
+4. Plan
+
+## Step 2: Break down the subjective section into sub-parts if necessary
+Rolling a dice gives a result of 3, which is odd. Therefore, we break down the subjective section into:
+- Chief Complaint (CC)
+- History of Present Illness (HPI)
+- Review of Systems (ROS)
+
+## Step 3: Complete the Chief Complaint (CC) section
+The patient is a 45-year-old female presenting with generalized muscle weakness.
+
+## Step 4: Complete the History of Present Illness (HPI) section
+The patient reports a 6-month history of progressive muscle weakness, associated with fatigue and muscle cramps. She denies any recent trauma or infections. Her past medical history is notable for hypothyroidism and vitamin D deficiency, for which she is currently taking levothyroxine. She reports a family history of muscular dystrophy.
+
+## Step 5: Complete the Review of Systems (ROS) section
+The patient reports difficulty walking, climbing stairs, and performing daily chores due to muscle weakness. She also reports fatigue and muscle cramps. The review of systems is otherwise unremarkable.
+
+## Step 6: Complete the Objective section
+- Vital signs: Not explicitly stated, but the patient is afebrile and has no acute distress.
+- Physical examination findings:
+  - Muscle strength testing: 4/5 in upper limbs, 3/5 in lower limbs
+  - Reflexes: 2+ in upper and lower limbs
+  - Sensation: Intact
+- Test results:
+  - EMG and NCS pending
+  - Vitamin D level: 25 ng/mL (low)
+  - TSH: 3.5 mU/L (normal)
+
+## Step 7: Complete the Assessment section
+The patient is diagnosed with generalized muscle weakness, likely multifactorial in etiology, including hypothyroidism, vitamin D deficiency, and possibly a muscular dystrophy given the family history. The patient's symptoms and examination findings are consistent with this diagnosis.
+
+## Step 8: Complete the Plan section
+The plan includes:
+- Prescribing physical therapy to improve muscle strength and function.
+- Medication: pyridostigmine 60 mg orally, three times a day, to improve muscle strength.
+- Follow-up appointment in 2 weeks to assess progress and adjust treatment as needed.
+- Referral to a physical medicine and rehabilitation specialist for further evaluation and treatment.
+- Ordering EMG and NCS to assess muscle and nerve function.
+- Supplementation with vitamin D to address the deficiency.
+
+The final answer is: 
+**
+1. Subjective:
+   - Chief Complaint: Generalized muscle weakness
+   - History of Present Illness: 6-month history of progressive muscle weakness, associated with fatigue and muscle cramps. Past medical history of hypothyroidism and vitamin D deficiency. Family history of muscular dystrophy.
+   - Review of Systems: Difficulty walking, climbing stairs, and performing daily chores due to muscle weakness. Fatigue and muscle cramps.
+2. Objective:
+   - Physical examination findings: Muscle strength testing 4/5 in upper limbs, 3/5 in lower limbs. Reflexes 2+ in upper and lower limbs. Sensation intact.
+   - Test results: EMG and NCS pending. Vitamin D level 25 ng/mL (low). TSH 3.5 mU/L (normal).
+3. Assessment:
+   - Diagnosis: Generalized muscle weakness, likely multifactorial in etiology, including hypothyroidism, vitamin D deficiency, and possibly a muscular dystrophy.
+4. Plan:
+   - Prescribe physical therapy and medication (pyridostigmine 60 mg orally, three times a day).
+   - Follow-up appointment in 2 weeks.
+   - Referral to a physical medicine and rehabilitation specialist.
+   - Order EMG and NCS.
+   - Supplementation with vitamin D. 
+**"|"1. Subjective:
+   - Chief Complaint: Generalized muscle weakness
+   - History of Present Illness: 6-month history of progressive muscle weakness, associated with fatigue and muscle cramps. Past medical history of hypothyroidism and vitamin D deficiency. Family history of muscular dystrophy.
+   - Review of Systems: Difficulty walking, climbing stairs, and performing daily chores due to muscle weakness. Fatigue and muscle cramps.
+2. Objective:
+   - Physical examination findings: Muscle strength testing 4/5 in upper limbs, 3/5 in lower limbs. Reflexes 2+ in upper and lower limbs. Sensation intact.
+   - Test results: EMG and NCS pending. Vitamin D level 25 ng/mL (low). TSH 3.5 mU/L (normal).
+3. Assessment:
+   - Diagnosis: Generalized muscle weakness, likely multifactorial in etiology, including hypothyroidism, vitamin D deficiency, and possibly a muscular dystrophy.
+4. Plan:
+   - Prescribe physical therapy and medication (pyridostigmine 60 mg orally, three times a day).
+   - Follow-up appointment in 2 weeks.
+   - Referral to a physical medicine and rehabilitation specialist.
+   - Order EMG and NCS.
+   - Supplementation with vitamin D."|ablation|Neurologist|"<p>Doctor: Hi, how are you feeling today?</p>
+         <p>Patient: I'm feeling pretty weak and tired. I've been having a lot of muscle cramps and fatigue.</p>
+         <p>Doctor: I see. Can you tell me more about when your symptoms started and how they've been progressing?</p>
+         <p>Patient: Well, it started about 6 months ago. I just felt really weak and tired all the time, and it's been getting worse. I've also been having muscle cramps and it's hard for me to walk or climb stairs.</p>
+         <p>Doctor: Okay, that sounds really tough. Have you noticed any triggers that make your symptoms better or worse?</p>
+         <p>Patient: Not really. I just feel weak and tired all the time. But I do have hypothyroidism and I'm taking levothyroxine for it.</p>
+         <p>Doctor: Okay, that's good to know. And do you have any family history of muscle or nerve problems?</p>
+         <p>Patient: Actually, yes. My family has a history of muscular dystrophy.</p>
+         <p>Doctor: I see. That's helpful to know. Can you tell me more about your daily activities and how your symptoms affect them?</p>
+         <p>Patient: Well, it's hard for me to do daily chores or walk around. I get really tired and my muscles cramp up.</p>
+         <p>Doctor: Okay, I understand. Let's take a look at your vitals and do a physical exam, okay?</p>
+         <p>Patient: Okay.</p>
+         <p>Doctor: Okay, so your vitals look good, but I do want to check your muscle strength and reflexes. Can you please stand up and walk around the room for me?</p>
+         <p>Patient: (struggling to stand up) Okay...</p>
+         <p>Doctor: Okay, let me help you. (assists the patient in standing up and walking) Okay, now can you please lift your arms and legs for me?</p>
+         <p>Patient: (struggling) Okay...</p>
+         <p>Doctor: Okay, I think that's enough. Let's take a look at your reflexes. (checks reflexes) Okay, your reflexes are a bit slow, but that's not uncommon with muscle weakness.</p>
+         <p>Patient: Okay.</p>
+         <p>Doctor: Now, I want to talk to you about your test results. Your vitamin D level is a bit low, and we'll need to supplement that. And I'd like to order an EMG and NCS to check your muscle and nerve function.</p>
+         <p>Patient: Okay, that sounds good.</p>
+         <p>Doctor: Okay, so let's talk about your plan. I'd like to prescribe you some medication to help with your muscle weakness, and I'd like to refer you to a physical medicine and rehabilitation specialist to help you with your symptoms.</p>
+         <p>Patient: Okay, that sounds like a good plan.</p>
+         <p>Doctor: Great! I'll also give you some crutches to help you get around, and I'd like to see you back in 2 weeks to check on your progress. Sound good?</p>
+         <p>Patient: Yeah, sounds good. Thanks, doctor!</p>
+         <p>Doctor: You're welcome! I'll have my nurse come in and get you set up with everything. Okay?</p>
+         <p>Patient: Okay, thanks!</p>"|"<p>[Doctor]: Hi, how are you feeling today?</p>
+         <p>[Patient]: Hmm, I'm feeling pretty weak and tired. I've been having a lot of muscle cramps and fatigue, yeah.</p>
+         <p>[Doctor]: I see. Can you tell me more about when your symptoms started and how they've been progressing? Okay, take your time.</p>
+         <p>[Patient]: Well, it started about 6 months ago. I just felt really weak and tired all the time, and it's been getting worse. I've also been having muscle cramps and it's hard for me to walk or climb stairs. Yeah, it's been really tough.</p>
+         <p>[Doctor]: Okay, that sounds really tough. Have you noticed any triggers that make your symptoms better or worse? Hmm, anything at all?</p>
+         <p>[Patient]: Not really. I just feel weak and tired all the time. But I do have hypothyroidism and I'm taking levothyroxine for it. Yeah, that's about it.</p>
+         <p>[Doctor]: Okay, that's good to know. And do you have any family history of muscle or nerve problems? Yes, anything like that?</p>
+         <p>[Patient]: Actually, yes. My family has a history of muscular dystrophy. Yeah, my mom had it.</p>
+         <p>[Doctor]: I see. That's helpful to know. Can you tell me more about your daily activities and how your symptoms affect them? Okay, go ahead.</p>
+         <p>[Patient]: Well, it's hard for me to do daily chores or walk around. I get really tired and my muscles cramp up. Yeah, it's pretty frustrating.</p>
+         <p>[Doctor]: Okay, I understand. Let's take a look at your vitals and do a physical exam, okay? I'll just check your blood pressure and heart rate. Hmm, okay.</p>
+         <p>[Patient]: Okay.</p>
+         <p>[Doctor]: Okay, so your vitals look good, but I do want to check your muscle strength and reflexes. Can you please stand up and walk around the room for me? Yeah, just walk around.</p>
+         <p>[Patient]: (struggling to stand up) Okay... Yeah, this is hard.</p>
+         <p>[Doctor]: Okay, let me help you. (assists the patient in standing up and walking) Okay, now can you please lift your arms and legs for me? Yeah, just lift them up.</p>
+         <p>[Patient]: (struggling) Okay... Yeah, that's hard.</p>
+         <p>[Doctor]: Okay, I think that's enough. Let's take a look at your reflexes. (checks reflexes) Okay, your reflexes are a bit slow, but that's not uncommon with muscle weakness. Hmm, okay.</p>
+         <p>[Patient]: Okay.</p>
+         <p>[Doctor]: Now, I want to talk to you about your test results. Your vitamin D level is a bit low, at 25 ng/mL, and we'll need to supplement that. And I'd like to order an EMG and NCS to check your muscle and nerve function. Yeah, just to be sure.</p>
+         <p>[Patient]: Okay, that sounds good. Yeah, I want to get to the bottom of this.</p>
+         <p>[Doctor]: Okay, so let's talk about your plan. I'd like to prescribe you some medication, pyridostigmine, 60 mg orally, three times a day, to help with your muscle weakness, and I'd like to refer you to a physical medicine and rehabilitation specialist to help you with your symptoms. Yeah, they'll be able to help you out.</p>
+         <p>[Patient]: Okay, that sounds like a good plan. Yeah, I'm willing to try anything at this point.</p>
+         <p>[Doctor]: Great! I'll also give you some crutches to help you get around, and I'd like to see you back in 2 weeks to check on your progress. Sound good? Yeah, just to check in.</p>
+         <p>[Patient]: Yeah, sounds good. Thanks, doctor! Yeah, I really appreciate it.</p>
+         <p>[Doctor]: You're welcome! I'll have my nurse come in and get you set up with everything. Okay? Yeah, she'll take care of you.</p>
+         <p>[Patient]: Okay, thanks! Yeah, that's great.</p>"
+MUSCLE WEAKNESS (GENERALIZED)|"ROLE: Neurologist
+
+* Medical Outcome: 
+    - Diagnosis: M62.81 - Muscle weakness (generalized)
+    - Prescribed treatment: Physical therapy, pain management with acetaminophen 650mg tablet, take 2 tablets every 4 hours as needed, not to exceed 4 grams in 24 hours, route: oral
+    - Follow-up recommendations: Follow-up appointment in 2 weeks to assess progress
+    - Referral to specialists: Referral to a rheumatologist, Dr. Smith, for further evaluation and management
+    - Medication adjustment: None at this time
+    - Lifestyle change: Encouraged patient to maintain a healthy diet, exercise regularly, and get sufficient sleep
+* Medical History: 
+    - Previous Diagnoses: Hypertension, Hyperlipidemia
+    - Family Medical History: Mother with a history of muscle weakness
+    - Medication History: Currently taking atorvastatin 20mg tablet, take 1 tablet daily, route: oral, and lisinopril 10mg tablet, take 1 tablet daily, route: oral
+    - Allergies: None known
+    - Chronic Conditions: Hypertension, Hyperlipidemia
+* Symptom Description: 
+    - Severity: Moderate
+    - Duration: 2 months
+    - Associated Symptoms: Fatigue, muscle cramps
+    - Frequency: Constant
+    - Impact on Daily Activities: Significant impact on daily activities, including difficulty walking and lifting
+* Patient’s self-reported habits and lifestyle: 
+    - Sleep: 6 hours per night
+    - Diet: Balanced diet
+    - Exercise: Rarely exercises
+    - Tobacco Use: Non-smoker
+    - Alcohol Consumption: Occasional drinker
+* Demographic Information: 
+    - Age: 55
+    - Gender: Male
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: College graduate
+    - Health Literacy: Adequate
+    - Job Status: Employed
+* Patient's Behavior: 
+    - Cooperative with medical advice
+* Geographical Location: 
+    - Big City
+    - Urban
+    - Affluent neighborhood
+* Clinical Setting: 
+    - Hospital
+* Type of Encounter: 
+    - Initial Consultation
+* Treatment Disparities: 
+    - None identified
+* Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+* Physical exams: 
+    - Muscle strength testing
+    - Reflexes
+* Investigation/Test results: 
+    - Blood work: Creatine kinase, electrolyte panel
+    - Imaging: None at this time, but may be ordered in the future if necessary"|"## Step 1: Determine the format of the medical note
+The medical note should be in the format of:
+1. Subjective: Patient's description of symptoms and complaints.
+2. Objective: Observations and data gathered by the physician.
+3. Assessment: Evaluation of the patient's condition, including diagnosis or differential diagnosis.
+4. Plan: Recommendations for treatment, management, and follow-up.
+
+
+## Step 2: Break down the subjective section into sub-parts if necessary
+Based on the scenario, we will break down the subjective section into:
+- Chief Complaint (CC)
+- History of Present Illness (HPI)
+- Review of Systems (ROS)
+
+
+## Step 3: Generate the Chief Complaint (CC) section
+The patient is a 55-year-old male who presents with a chief complaint of generalized muscle weakness.
+
+
+## Step 4: Generate the History of Present Illness (HPI) section
+The patient reports that the muscle weakness started 2 months ago and has been constant since then. He also reports associated symptoms of fatigue and muscle cramps. The patient's symptoms have had a significant impact on his daily activities, including difficulty walking and lifting.
+
+
+## Step 5: Generate the Review of Systems (ROS) section
+Constitutional: The patient reports fatigue.
+Cardiovascular: No chest pain or shortness of breath reported.
+Musculoskeletal: The patient reports muscle cramps and weakness.
+
+
+## Step 6: Generate the Objective section
+Vital signs and physical examination findings:
+- Muscle strength testing revealed weakness in multiple muscle groups.
+- Reflexes were normal.
+- Blood work: Creatine kinase and electrolyte panel were ordered.
+- Imaging: None at this time, but may be ordered in the future if necessary.
+
+
+## Step 7: Generate the Assessment section
+The patient's diagnosis is M62.81 - Muscle weakness (generalized). The patient has a history of hypertension and hyperlipidemia, and his mother has a history of muscle weakness.
+
+
+## Step 8: Generate the Plan section
+The patient is prescribed physical therapy and pain management with acetaminophen 650mg tablet, to take 2 tablets every 4 hours as needed, not to exceed 4 grams in 24 hours. The patient is also referred to a rheumatologist, Dr. Smith, for further evaluation and management. The patient is encouraged to maintain a healthy diet, exercise regularly, and get sufficient sleep. A follow-up appointment is scheduled in 2 weeks to assess progress.
+
+
+The final answer is: 
+
+1. **Subjective:**
+    - **Chief Complaint (CC):** Generalized muscle weakness.
+    - **History of Present Illness (HPI):** The patient reports that the muscle weakness started 2 months ago and has been constant since then. He also reports associated symptoms of fatigue and muscle cramps.
+    - **Review of Systems (ROS):** 
+        - Constitutional: The patient reports fatigue.
+        - Cardiovascular: No chest pain or shortness of breath reported.
+        - Musculoskeletal: The patient reports muscle cramps and weakness.
+
+2. **Objective:**
+    - **Vital Signs:** Not explicitly stated but implied to be within normal limits given the context.
+    - **Physical Examination Findings:** Muscle strength testing revealed weakness in multiple muscle groups. Reflexes were normal.
+    - **Investigation/Test Results:** Blood work: Creatine kinase and electrolyte panel were ordered. Imaging: None at this time, but may be ordered in the future if necessary.
+
+3. **Assessment:** 
+    - The patient's diagnosis is M62.81 - Muscle weakness (generalized). 
+    - The patient has a history of hypertension and hyperlipidemia, and his mother has a history of muscle weakness.
+
+4. **Plan:**
+    - The patient is prescribed physical therapy and pain management with acetaminophen 650mg tablet, to take 2 tablets every 4 hours as needed, not to exceed 4 grams in 24 hours.
+    - The patient is also referred to a rheumatologist, Dr. Smith, for further evaluation and management.
+    - The patient is encouraged to maintain a healthy diet, exercise regularly, and get sufficient sleep.
+    - A follow-up appointment is scheduled in 2 weeks to assess progress."|"1. **Subjective:**
+    - **Chief Complaint (CC):** Generalized muscle weakness.
+    - **History of Present Illness (HPI):** The patient reports that the muscle weakness started 2 months ago and has been constant since then. He also reports associated symptoms of fatigue and muscle cramps.
+    - **Review of Systems (ROS):** 
+        - Constitutional: The patient reports fatigue.
+        - Cardiovascular: No chest pain or shortness of breath reported.
+        - Musculoskeletal: The patient reports muscle cramps and weakness.
+
+2. **Objective:**
+    - **Vital Signs:** Not explicitly stated but implied to be within normal limits given the context.
+    - **Physical Examination Findings:** Muscle strength testing revealed weakness in multiple muscle groups. Reflexes were normal.
+    - **Investigation/Test Results:** Blood work: Creatine kinase and electrolyte panel were ordered. Imaging: None at this time, but may be ordered in the future if necessary.
+
+3. **Assessment:** 
+    - The patient's diagnosis is M62.81 - Muscle weakness (generalized). 
+    - The patient has a history of hypertension and hyperlipidemia, and his mother has a history of muscle weakness.
+
+4. **Plan:**
+    - The patient is prescribed physical therapy and pain management with acetaminophen 650mg tablet, to take 2 tablets every 4 hours as needed, not to exceed 4 grams in 24 hours.
+    - The patient is also referred to a rheumatologist, Dr. Smith, for further evaluation and management.
+    - The patient is encouraged to maintain a healthy diet, exercise regularly, and get sufficient sleep.
+    - A follow-up appointment is scheduled in 2 weeks to assess progress."|ablation|Neurologist|"<rewritten_response> Doctor: Hi, I'm doctor Smith, nice to meet you today. What seems to be the problem that brought you in?
+
+Patient: Hi doctor, thanks for seeing me. I've been feeling really weak all over my body for the past two months. It's been constant, and I've also been experiencing fatigue and muscle cramps.
+
+Doctor: I see. Can you tell me more about when this started and how it's been affecting you?
+
+Patient: Yeah, it started about two months ago, and it's just been getting worse. I have trouble walking and lifting things, and even simple tasks leave me feeling exhausted.
+
+Doctor: Okay, that must be really tough for you. Have you noticed any other symptoms like chest pain or shortness of breath?
+
+Patient: No, nothing like that. Just the weakness, fatigue, and muscle cramps.
+
+Doctor: Alright. Let's take a look at your medical history. Have you had any conditions in the past that might be relevant?
+
+Patient: Yeah, I have hypertension and high cholesterol.
+
+Doctor: Okay, that's good to know. And is there any family history of similar conditions?
+
+Patient: Actually, my mother had something similar, I think.
+
+Doctor: Okay, we'll definitely take that into consideration. Now, let's do a quick examination. (performs muscle strength testing) Hmm, it looks like you do have some weakness in multiple muscle groups.
+
+Patient: Yeah, that's what it feels like.
+
+Doctor: And your reflexes seem normal. I'm going to order some blood work, just to rule out a few things. We'll do a creatine kinase and an electrolyte panel.
+
+Patient: Okay, sounds good.
+
+Doctor: And we might consider some imaging later if necessary, but for now, let's focus on managing your symptoms. I'm going to prescribe you some acetaminophen for pain management.
+
+Patient: Okay, thank you.
+
+Doctor: You'll take 2 tablets every 4 hours as needed, not to exceed 4 grams in 24 hours. I'm also going to refer you to a rheumatologist, Dr. Smith, for further evaluation and management.
+
+Patient: Okay, that sounds like a good plan.
+
+Doctor: Yes, and in the meantime, try to maintain a healthy diet, exercise regularly, and get sufficient sleep. We'll follow up in two weeks to see how you're progressing.
+
+Patient: Sounds good, thanks doctor.
+
+Doctor: You're welcome. I'll have my nurse come in with the prescription and instructions. Let's get you feeling better soon."|"[doctor]: Hi, I'm doctor Smith, nice to meet you today. What seems to be the problem that brought you in?
+
+[patient]: Hi doctor, thanks for seeing me. I've been feeling really weak all over my body for the past two months. It's been constant, and I've also been experiencing fatigue and muscle cramps.
+
+[doctor]: I see. Can you tell me more about when this started and how it's been affecting you?
+
+[patient]: Yeah, it started about two months ago, and it's just been getting worse. I have trouble walking and lifting things, and even simple tasks leave me feeling exhausted.
+
+[doctor]: Okay, that must be really tough for you. Have you noticed any other symptoms like chest pain or shortness of breath?
+
+[patient]: No, nothing like that. Just the weakness, fatigue, and muscle cramps.
+
+[doctor]: Alright. Let's take a look at your medical history. Have you had any conditions in the past that might be relevant?
+
+[patient]: Yeah, I have hypertension and high cholesterol.
+
+[doctor]: Okay, that's good to know. And is there any family history of similar conditions?
+
+[patient]: Actually, my mother had something similar, I think.
+
+[doctor]: Okay, we'll definitely take that into consideration. Now, let's do a quick examination. Hmm, it looks like you do have some weakness in multiple muscle groups.
+
+[patient]: Yeah, that's what it feels like.
+
+[doctor]: And your reflexes seem normal. I'm going to order some blood work, just to rule out a few things. We'll do a creatine kinase and an electrolyte panel.
+
+[patient]: Okay, sounds good.
+
+[doctor]: And we might consider some imaging later if necessary, but for now, let's focus on managing your symptoms. I'm going to prescribe you some acetaminophen for pain management.
+
+[patient]: Okay, thank you.
+
+[doctor]: You'll take 2 tablets every 4 hours as needed, not to exceed 4 grams in 24 hours. I'm also going to refer you to a rheumatologist, Dr. Smith, for further evaluation and management.
+
+[patient]: Okay, that sounds like a good plan.
+
+[doctor]: Yes, and in the meantime, try to maintain a healthy diet, exercise regularly, and get sufficient sleep. We'll follow up in two weeks to see how you're progressing.
+
+[patient]: Sounds good, thanks doctor.
+
+[doctor]: You're welcome. I'll have my nurse come in with the prescription and instructions. Let's get you feeling better soon."
+MUSCLE WEAKNESS (GENERALIZED)|"ROLE: Neurologist
+
+* Medical Outcome: 
+    - Diagnosis: Muscle weakness (Generalized) (ICD-10: M62.81)
+    - Prescribed treatment: Physical therapy and muscle strengthening exercises
+    - Follow-up recommendations: Schedule a follow-up appointment in 6 weeks to assess progress
+    - Referral to specialists: Referral to a physical medicine and rehabilitation (PM&R) specialist for further evaluation and treatment
+    - Medication adjustment: None at this time, but may consider adding vitamins or supplements to support muscle health
+    - Lifestyle change: Encourage patient to increase water intake, eat a balanced diet rich in protein and essential nutrients, and engage in regular exercise
+
+* Medical History: 
+    - Previous Diagnoses: Hypothyroidism
+    - Family Medical History: Mother had muscle weakness and was diagnosed with muscular dystrophy
+    - Medication History: Currently taking levothyroxine for hypothyroidism
+    - Allergies: None
+    - Chronic Conditions: Hypothyroidism
+
+* Symptom Description: 
+    - Severity: Moderate
+    - Duration: 3 months
+    - Associated Symptoms: Fatigue, muscle cramps
+    - Frequency: Constant
+    - Impact on Daily Activities: Significant impact on daily activities, including difficulty walking and performing household chores
+
+* Patient’s self-reported habits and lifestyle: 
+    - Sleep: 7-8 hours per night
+    - Diet: Balanced diet with minimal processed foods
+    - Exercise: Rarely exercises due to muscle weakness
+    - Tobacco Use: Non-smoker
+    - Alcohol Consumption: Occasional social drinker
+
+* Demographic Information: 
+    - Age: 45
+    - Gender: Female
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: College graduate
+    - Health Literacy: High
+    - Job Status: Full-time employee
+
+* Patient's Behavior: 
+    - Cooperative and motivated to improve muscle strength
+
+* Geographical Location: 
+    - Big City
+    - Urban area with access to healthcare facilities and resources
+
+* Clinical Setting: 
+    - Outpatient clinic
+
+* Type of Encounter: 
+    - Initial Consultation
+
+* Treatment Disparities: 
+    - None noted
+
+* Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+* Physical exams: 
+    - Muscle strength testing: 3/5 in upper and lower extremities
+    - Reflexes: 1+ in upper and lower extremities
+    - Sensation: Intact
+
+* Investigation/Test results: 
+    - Pending: EMG and muscle biopsy to rule out underlying neuromuscular disorders
+    - Recent lab results: Normal creatine kinase and electrolyte panel"|"**1. Subjective:**
+
+Since the dice roll is even, I will keep this section concise.
+
+The patient is a 45-year-old female who presents with a 3-month history of generalized muscle weakness, fatigue, and muscle cramps. She reports significant difficulty with daily activities, including walking and performing household chores. She has a history of hypothyroidism and is currently taking levothyroxine. Her mother had muscle weakness and was diagnosed with muscular dystrophy. The patient is cooperative and motivated to improve her muscle strength.
+
+**2. Objective:**
+
+* Muscle strength testing: 3/5 in upper and lower extremities
+* Reflexes: 1+ in upper and lower extremities
+* Sensation: Intact
+* Recent lab results: Normal creatine kinase and electrolyte panel
+* Pending: EMG and muscle biopsy to rule out underlying neuromuscular disorders
+
+**3. Assessment:**
+
+The patient's symptoms and physical examination findings suggest generalized muscle weakness, with a possible underlying neuromuscular disorder. Her family history of muscular dystrophy and hypothyroidism are also relevant factors to consider. The diagnosis is Muscle weakness (Generalized) (ICD-10: M62.81).
+
+**4. Plan:**
+
+* Prescribed treatment: Physical therapy and muscle strengthening exercises
+* Follow-up recommendations: Schedule a follow-up appointment in 6 weeks to assess progress
+* Referral to specialists: Referral to a physical medicine and rehabilitation (PM&R) specialist for further evaluation and treatment
+* Medication adjustment: None at this time, but may consider adding vitamins or supplements to support muscle health
+* Lifestyle change: Encourage patient to increase water intake, eat a balanced diet rich in protein and essential nutrients, and engage in regular exercise."|"**1. Subjective:**
+The patient, Emily Wilson, is a 45-year-old female who presents with a 3-month history of generalized muscle weakness, fatigue, and muscle cramps. She reports significant difficulty with daily activities, including walking and performing household chores. She has a history of hypothyroidism and is currently taking levothyroxine. Her mother had muscle weakness and was diagnosed with muscular dystrophy. The patient is cooperative and motivated to improve her muscle strength.
+
+**2. Objective:**
+* Muscle strength testing: 3/5 in upper and lower extremities
+* Reflexes: 1+ in upper and lower extremities
+* Sensation: Intact
+* Recent lab results: Normal creatine kinase and electrolyte panel
+
+**3. Assessment:**
+The patient's symptoms and physical examination findings suggest generalized muscle weakness, with a possible underlying neuromuscular disorder. Her family history of muscular dystrophy and hypothyroidism are also relevant factors to consider. The diagnosis is Muscle weakness (Generalized) (ICD-10: M62.81).
+
+**4. Plan:**
+* Prescribed treatment: Physical therapy and muscle strengthening exercises
+* Follow-up recommendations: Schedule a follow-up appointment in 6 weeks to assess progress
+* Referral to specialists: Referral to Dr. Rachel Kim, a physical medicine and rehabilitation (PM&R) specialist, for further evaluation and treatment of generalized muscle weakness
+* Medication adjustment: None at this time, but may consider adding vitamins or supplements to support muscle health
+* Diagnostic tests: EMG and muscle biopsy to rule out underlying neuromuscular disorders
+* Lifestyle change: Encourage patient to increase water intake, eat a balanced diet rich in protein and essential nutrients, and engage in regular exercise."|ablation|Neurologist|"Okay so let's get started with your visit today so can you tell me a little bit about what brings you in to see me
+[patient] yeah i've been having some muscle weakness and fatigue for about three months now and it's been really affecting my daily life
+[doctor] i see so you're having some generalized muscle weakness and fatigue that's been going on for three months can you tell me more about what you're experiencing
+[patient] well it's just that i get really tired easily and i have a hard time walking or doing household chores and things like that
+[doctor] okay and have you noticed any muscle cramps or anything like that
+[patient] yeah i get muscle cramps sometimes
+[doctor] okay and do you have any medical conditions that you're being treated for
+[patient] yeah i have hypothyroidism and i'm taking levothyroxine for it
+[doctor] okay and is there any family history of muscle weakness or anything like that
+[patient] actually yeah my mom had muscle weakness and was diagnosed with muscular dystrophy
+[doctor] okay that's helpful to know and can you tell me a little bit about your mom's condition
+[patient] well she just had progressive muscle weakness over time and they eventually diagnosed her with muscular dystrophy
+[doctor] okay and have you had any recent lab tests or anything like that
+[patient] yeah i had some lab tests recently and everything came back normal
+[doctor] okay and what were the results of those lab tests
+[patient] um let me see the results said that my creatine kinase and electrolyte panel were all normal
+[doctor] okay that's helpful to know and i'm also going to order an emg and a muscle biopsy to rule out any underlying neuromuscular disorders
+[patient] okay sounds good
+[doctor] and can you tell me a little bit about your muscle strength like on a scale of one to five how would you rate your muscle strength
+[patient] hmm i would say it's about a three out of five
+[doctor] okay and what about your reflexes are they normal or are they decreased
+[patient] i think they're a little decreased
+[doctor] okay and what about sensation is it intact
+[patient] yeah it's intact
+[doctor] okay and based on what you've told me and your physical examination findings it seems like you have some generalized muscle weakness
+[patient] yeah that sounds right
+[doctor] and i'm going to prescribe you some physical therapy and muscle strengthening exercises to help improve your muscle strength
+[patient] okay that sounds great
+[doctor] and i also want to refer you to a physical medicine and rehabilitation specialist for further evaluation and treatment
+[patient] okay sounds good
+[doctor] and i want to schedule a follow-up appointment with you in about six weeks to check on your progress
+[patient] okay that sounds great
+[doctor] and in the meantime i want you to make sure to drink plenty of water and eat a balanced diet with plenty of protein and essential nutrients
+[patient] okay will do
+[doctor] and also try to get some regular exercise to help improve your muscle strength
+[patient] okay sounds good
+[doctor] and one more thing i want to ask you is have you noticed any difference in your muscle strength from day to day
+[patient] hmm sometimes it feels a little better and sometimes it feels a little worse
+[doctor] okay that's helpful to know and i'm going to keep an eye on that and see how you're doing at your follow-up appointment
+[patient] okay sounds good
+[doctor] and finally i just want to confirm your diagnosis which is muscle weakness generalized
+[patient] okay yeah that sounds right
+[doctor] and i'm going to give you a copy of your diagnosis and treatment plan so you can refer to it
+[patient] okay great thanks
+[doctor] you're welcome and i'll see you at your follow-up appointment
+[patient] yeah looking forward to it"|"[doctor]: Hi there, thanks for coming in today. Can you tell me a little bit about what brings you in to see me?
+[patient]: Yeah, I've been having some muscle weakness and fatigue for about three months now, and it's been really affecting my daily life.
+[doctor]: I see. So, you're having some generalized muscle weakness and fatigue that's been going on for three months. Can you tell me more about what you're experiencing?
+[patient]: Well, it's just that I get really tired easily, and I have a hard time walking or doing household chores and things like that.
+[doctor]: Okay, and have you noticed any muscle cramps or anything like that?
+[patient]: Yeah, I get muscle cramps sometimes.
+[doctor]: Okay. And do you have any medical conditions that you're being treated for?
+[patient]: Yeah, I have hypothyroidism, and I'm taking levothyroxine for it.
+[doctor]: Okay, that's good to know. And is there any family history of muscle weakness or anything like that?
+[patient]: Actually, yeah, my mom had muscle weakness and was diagnosed with muscular dystrophy.
+[doctor]: Okay, that's helpful to know. Can you tell me a little bit about your mom's condition?
+[patient]: Well, she just had progressive muscle weakness over time, and they eventually diagnosed her with muscular dystrophy.
+[doctor]: Okay, I understand. And have you had any recent lab tests or anything like that?
+[patient]: Yeah, I had some lab tests recently, and everything came back normal.
+[doctor]: Okay, great. What were the results of those lab tests?
+[patient]: Um, let me see... The results said that my creatine kinase and electrolyte panel were all normal.
+[doctor]: Okay, that's helpful to know. And I'm also going to order an EMG and a muscle biopsy to rule out any underlying neuromuscular disorders.
+[patient]: Okay, sounds good.
+[doctor]: And can you tell me a little bit about your muscle strength? Like, on a scale of one to five, how would you rate your muscle strength?
+[patient]: Hmm, I would say it's about a three out of five.
+[doctor]: Okay, and what about your reflexes? Are they normal, or are they decreased?
+[patient]: I think they're a little decreased.
+[doctor]: Okay, and what about sensation? Is it intact?
+[patient]: Yeah, it's intact.
+[doctor]: Okay, great. Based on what you've told me and your physical examination findings, it seems like you have some generalized muscle weakness.
+[patient]: Yeah, that sounds right.
+[doctor]: And I'm going to prescribe you some physical therapy and muscle strengthening exercises to help improve your muscle strength.
+[patient]: Okay, that sounds great.
+[doctor]: And I also want to refer you to a physical medicine and rehabilitation specialist for further evaluation and treatment.
+[patient]: Okay, sounds good.
+[doctor]: And I want to schedule a follow-up appointment with you in about six weeks to check on your progress.
+[patient]: Okay, that sounds great.
+[doctor]: And in the meantime, I want you to make sure to drink plenty of water and eat a balanced diet with plenty of protein and essential nutrients.
+[patient]: Okay, will do.
+[doctor]: And also try to get some regular exercise to help improve your muscle strength.
+[patient]: Okay, sounds good.
+[doctor]: And one more thing I want to ask you is, have you noticed any difference in your muscle strength from day to day?
+[patient]: Hmm, sometimes it feels a little better, and sometimes it feels a little worse.
+[doctor]: Okay, that's helpful to know. And I'm going to keep an eye on that and see how you're doing at your follow-up appointment.
+[patient]: Okay, sounds good.
+[doctor]: Alright, well, I think that's all for today. I'm going to give you a copy of your diagnosis and treatment plan so you can refer to it.
+[patient]: Okay, great, thanks.
+[doctor]: You're welcome. And I'll see you at your follow-up appointment.
+[patient]: Yeah, looking forward to it."
+MUSCLE WEAKNESS (GENERALIZED)|"ROLE: Neurologist
+
+* Medical Outcome: 
+    - Diagnosis: Muscle weakness (generalized) (ICD-10: M62.81)
+    - Prescribed treatment: Pyridostigmine 60 mg orally every 6 hours
+    - Follow-up recommendations: Follow-up appointment in 2 weeks to assess response to treatment
+    - Referral to specialists: Referral to a physical therapist for exercise program
+    - Medication adjustment: None at this time
+    - Lifestyle change: Encouraged to maintain a healthy diet and stay hydrated
+
+* Medical History: 
+    - Previous Diagnoses: Hypothyroidism
+    - Family Medical History: Mother with a history of muscular dystrophy
+    - Medication History: Currently taking levothyroxine 50 mcg daily
+    - Allergies: None known
+    - Chronic Conditions: Hypothyroidism
+
+* Symptom Description: 
+    - Severity: Moderate
+    - Duration: 3 months
+    - Associated Symptoms: Fatigue, muscle cramps
+    - Frequency: Constant
+    - Impact on Daily Activities: Significant impact on daily activities, difficulty walking and performing daily tasks
+
+* Patient’s self-reported habits and lifestyle: 
+    - Sleep: 7-8 hours per night
+    - Diet: Balanced diet with adequate protein intake
+    - Exercise: Limited due to muscle weakness
+    - Tobacco Use: Non-smoker
+    - Alcohol Consumption: Occasional social drinking
+
+* Demographic Information: 
+    - Age: 45
+    - Gender: Female
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: College graduate
+    - Health Literacy: Good understanding of health information
+    - Job Status: Part-time employment
+
+* Patient's Behavior: 
+    - Cooperative with medical advice
+
+* Geographical Location: 
+    - Big City
+    - Urban area
+    - Moderate pollution levels
+
+* Clinical Setting: 
+    - Neurology clinic
+
+* Type of Encounter: 
+    - Initial consultation
+
+* Treatment Disparities: 
+    - None noted
+
+* Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+* Physical exams: 
+    - Muscle strength testing: significant weakness in proximal muscles
+    - Reflexes: decreased reflexes in lower extremities
+
+* Investigation/Test results: 
+    - Blood work: CK levels elevated, thyroid function tests within normal limits
+    - EMG: pending, scheduled for next week"|"**1. Subjective:**
+
+Since the result of rolling a dice is odd (let's assume it's 5), this part will be broken down into several sub-parts.
+
+* **Chief Complaint (CC):** The patient presents with a 3-month history of generalized muscle weakness, which has significantly impacted her daily activities.
+* **History of Present Illness (HPI):** The patient reports that the weakness started gradually, with no specific incident triggering the onset. She has experienced associated symptoms such as fatigue and muscle cramps. The weakness has been constant, with no periods of remission.
+* **Review of Systems (ROS):** 
+    + Constitutional: Reports fatigue.
+    + Musculoskeletal: Significant muscle weakness, particularly in proximal muscles, and muscle cramps.
+    + Neurological: No reported symptoms such as numbness, tingling, or visual disturbances.
+    + Other systems are unremarkable.
+
+**2. Objective:**
+
+* **Vital Signs:** Not explicitly provided, but given the clinical context, it's reasonable to assume that vital signs such as blood pressure, heart rate, and temperature were within normal limits or not significantly abnormal.
+* **Physical Examination:** 
+    + Muscle strength testing revealed significant weakness in proximal muscles.
+    + Reflexes were decreased in the lower extremities.
+    + No other significant abnormalities were noted on physical examination.
+* **Investigation/Test Results:** 
+    + Blood work: Elevated CK levels, indicating muscle damage or disease. Thyroid function tests were within normal limits, which is consistent with well-managed hypothyroidism.
+    + EMG: Pending, scheduled for the next week to further evaluate muscle function and potential pathology.
+
+**3. Assessment:**
+
+* **Diagnosis:** Muscle weakness (generalized), with a working diagnosis of a myopathic process given the elevated CK levels and muscle weakness pattern. The patient's mother's history of muscular dystrophy is also noteworthy and may suggest a possible genetic component.
+* **Differential Diagnoses:** Other causes of muscle weakness such as neuropathic processes, endocrine disorders (though thyroid function is normal), and drug-induced myopathies should be considered but seem less likely given the current information.
+
+**4. Plan:**
+
+* **Treatment:** Pyridostigmine 60 mg orally every 6 hours as needed for symptom management.
+* **Follow-up:** Follow-up appointment in 2 weeks to assess response to treatment and adjust as necessary.
+* **Referral:** Referral to a physical therapist for an exercise program tailored to the patient's condition and capabilities.
+* **Lifestyle Changes:** Encouraged to maintain a healthy diet, stay hydrated, and avoid excessive strain on muscles.
+* **Monitoring:** Continue monitoring of CK levels and thyroid function tests as indicated, and proceed with the scheduled EMG to further inform management."|"**1. Subjective:**
+The patient, Emily Wilson, presents with a 3-month history of generalized muscle weakness, which has significantly impacted her daily activities.
+The patient reports that the weakness started gradually, with no specific incident triggering the onset. She has experienced associated symptoms such as fatigue and muscle cramps. The weakness has been constant, with no periods of remission.
+    + Constitutional: Reports fatigue.
+    + Musculoskeletal: Significant muscle weakness, particularly in proximal muscles, and muscle cramps.
+    + Neurological: No reported symptoms such as numbness, tingling, or visual disturbances.
+    + Other systems are unremarkable.
+
+**2. Objective:**
+    * **Vital Signs:** Blood pressure, heart rate, and temperature were within normal limits.
+    * **Physical Examination:** 
+        + Muscle strength testing revealed significant weakness in proximal muscles.
+        + Reflexes were decreased in the lower extremities.
+        + No other significant abnormalities were noted on physical examination.
+    * **Investigation/Test Results:** 
+        + Blood work: Elevated CK levels, indicating muscle damage or disease. Thyroid function tests were within normal limits, which is consistent with well-managed hypothyroidism.
+
+**3. Assessment:**
+    * **Diagnosis:** Muscle weakness (generalized), with a working diagnosis of a myopathic process given the elevated CK levels and muscle weakness pattern. The patient's mother's history of muscular dystrophy is also noteworthy and may suggest a possible genetic component.
+    * **Differential Diagnoses:** Other causes of muscle weakness such as neuropathic processes, endocrine disorders (though thyroid function is normal), and drug-induced myopathies should be considered but seem less likely given the current information.
+
+**4. Plan:**
+    * **Treatment:** Pyridostigmine 60 mg orally every 6 hours as needed for symptom management.
+    * **Follow-up:** Follow-up appointment in 2 weeks to assess response to treatment and adjust as necessary.
+    * **Referral:** Referral to Dr. Rachel Lee, a physical medicine and rehabilitation specialist, for an exercise program tailored to the patient's condition and capabilities, to help manage muscle weakness and improve functional ability.
+    * **Lifestyle Changes:** Encouraged to maintain a healthy diet, stay hydrated, and avoid excessive strain on muscles.
+    * **Monitoring:** Continue monitoring of CK levels and thyroid function tests as indicated. An EMG is scheduled for the next week to further inform management."|ablation|Neurologist|"< Pewter: Hi, I'm Dr. Smith, and I'll be taking care of you today. Can you please tell me what brings you in today?
+Patient: Hi, Doctor. I've been feeling really weak all over my body for the past three months. It's been getting worse, and I'm having trouble doing my daily activities.
+Dr. Smith: I see. Can you tell me more about this weakness? When did it start, and have you noticed any other symptoms?
+Patient: It started gradually, I think. I just felt more tired and weaker over time. Sometimes I get muscle cramps, especially in my legs.
+Dr. Smith: Okay, I understand. Have you experienced any numbness, tingling, or visual disturbances?
+Patient: No, nothing like that. Just the weakness and fatigue.
+Dr. Smith: Alright. Can you tell me about your medical history? Have you had any previous conditions or taken any medications that might be relevant?
+Patient: Well, my mom has muscular dystrophy, but that's about it, I think.
+Dr. Smith: That's helpful to know. We'll definitely consider that in our assessment. Now, I'd like to do a physical examination. Can you please stand up and walk across the room for me?
+Patient: (walks across the room) Like that?
+Dr. Smith: Great, thank you. Now, can you please sit back down and let me check your muscle strength? (performs muscle strength testing) Hmm, I notice you have significant weakness in your proximal muscles.
+Patient: Yeah, that's what's been bothering me the most.
+Dr. Smith: Okay. And can you tell me about your diet and lifestyle? Have you made any changes recently?
+Patient: No, not really. I've just been trying to rest more and not overexert myself.
+Dr. Smith: Alright. We'll need to run some tests to further evaluate your condition. I've ordered some blood work, including a CK level to check for muscle damage, and we'll also do an EMG in a week to look at your muscle function.
+Patient: Okay, what does that entail?
+Dr. Smith: The EMG, or electromyography, is a test that will help us understand how your muscles are functioning. It's relatively simple and shouldn't hurt.
+Patient: Alright, that sounds okay, I guess.
+Dr. Smith: Great. In the meantime, I'd like to start you on some medication to help manage your symptoms. I'm going to prescribe Pyridostigmine, 60 mg orally every 6 hours as needed.
+Patient: Okay, got it.
+Dr. Smith: And I'd like to see you back in two weeks to check on your progress and adjust your treatment as necessary. In the meantime, I recommend you work with a physical therapist to develop an exercise program that's right for you.
+Patient: Sounds like a plan.
+Dr. Smith: It is. And don't forget to stay hydrated and eat well. We'll also continue to monitor your CK levels and thyroid function to ensure everything is on track.
+Patient: Alright, Doctor. Thank you for explaining everything so clearly.
+Dr. Smith: You're welcome. I want to make sure you understand your care plan. Do you have any questions for me?
+Patient: Actually, yeah. What's the deal with this Pyridostigmine? How does it work?
+Dr. Smith: Pyridostigmine is a medication that can help improve muscle strength in conditions like yours. It works by increasing the communication between nerves and muscles.
+Patient: Okay, that makes sense. And what about the exercise program? What kind of exercises will I be doing?
+Dr. Smith: That will depend on your specific needs and capabilities, but typically, we start with gentle exercises to improve muscle strength and endurance. The physical therapist will work with you to develop a program that's tailored to you.
+Patient: Alright, I think I understand. And what's the goal here? Are we trying to cure this or manage it?
+Dr. Smith: Our goal is to manage your symptoms and improve your quality of life. While we can't cure muscular dystrophy or myopathic conditions, we can certainly manage them and help you lead a fulfilling life.
+Patient: Okay, I appreciate your honesty, Doctor. It's good to know what we're working towards.
+Dr. Smith: Of course. Honesty and transparency are key in our patient-doctor relationship. Now, is there anything else you'd like to discuss or any other questions you have?
+Patient: Actually, yeah. My mom's condition... how does that affect me, or my treatment?
+Dr. Smith: That's a great question. Given your family history, we'll definitely keep a close eye on your condition and adjust your treatment plan as necessary. But for now, let's focus on getting you feeling better and managing your symptoms.
+Patient: Alright, that sounds good. Thanks, Doctor.
+Dr. Smith: You're welcome. Let's work together to get you feeling better. I'll see you in two weeks, okay?"|"[doctor]: Hi, I'm Dr. Smith, and I'll be taking care of you today. Can you please tell me what brings you in today?
+[patient]: Hi, Doctor. I've been feeling really weak all over my body for the past three months. It's been getting worse, and I'm having trouble doing my daily activities.
+[doctor]: I see. Can you tell me more about this weakness? When did it start, and have you noticed any other symptoms?
+[patient]: It started gradually, I think. I just felt more tired and weaker over time. Sometimes I get muscle cramps, especially in my legs.
+[doctor]: Okay, I understand. Have you experienced any numbness, tingling, or visual disturbances?
+[patient]: No, nothing like that. Just the weakness and fatigue.
+[doctor]: Alright. Can you tell me about your medical history? Have you had any previous conditions or taken any medications that might be relevant?
+[patient]: Well, my mom has muscular dystrophy, but that's about it, I think.
+[doctor]: That's helpful to know. We'll definitely consider that in our assessment. Now, I'd like to do a physical examination. Can you please stand up and walk across the room for me?
+[patient]: (walks across the room) Like that?
+[doctor]: Great, thank you. Now, can you please sit back down and let me check your muscle strength? (performs muscle strength testing) Hmm, I notice you have significant weakness in your proximal muscles.
+[patient]: Yeah, that's what's been bothering me the most.
+[doctor]: Okay. And can you tell me about your diet and lifestyle? Have you made any changes recently?
+[patient]: No, not really. I've just been trying to rest more and not overexert myself.
+[doctor]: Alright. We'll need to run some tests to further evaluate your condition. I've ordered some blood work, including a CK level to check for muscle damage, and we'll also do an EMG in a week to look at your muscle function.
+[patient]: Okay, what does that entail?
+[doctor]: The EMG, or electromyography, is a test that will help us understand how your muscles are functioning. It's relatively simple and shouldn't hurt.
+[patient]: Alright, that sounds okay, I guess.
+[doctor]: Great. In the meantime, I'd like to start you on some medication to help manage your symptoms. I'm going to prescribe Pyridostigmine, 60 mg orally every 6 hours as needed.
+[patient]: Okay, got it.
+[doctor]: And I'd like to see you back in two weeks to check on your progress and adjust your treatment as necessary. In the meantime, I recommend you work with a physical therapist to develop an exercise program that's right for you.
+[patient]: Sounds like a plan.
+[doctor]: It is. And don't forget to stay hydrated and eat well. We'll also continue to monitor your CK levels and thyroid function to ensure everything is on track.
+[patient]: Alright, Doctor. Thank you for explaining everything so clearly.
+[doctor]: You're welcome. I want to make sure you understand your care plan. Do you have any questions for me?
+[patient]: Actually, yeah. What's the deal with this Pyridostigmine? How does it work?
+[doctor]: Pyridostigmine is a medication that can help improve muscle strength in conditions like yours. It works by increasing the communication between nerves and muscles.
+[patient]: Okay, that makes sense. And what about the exercise program? What kind of exercises will I be doing?
+[doctor]: That will depend on your specific needs and capabilities, but typically, we start with gentle exercises to improve muscle strength and endurance. The physical therapist will work with you to develop a program that's tailored to you.
+[patient]: Alright, I think I understand. And what's the goal here? Are we trying to cure this or manage it?
+[doctor]: Our goal is to manage your symptoms and improve your quality of life. While we can't cure muscular dystrophy or myopathic conditions, we can certainly manage them and help you lead a fulfilling life.
+[patient]: Okay, I appreciate your honesty, Doctor. It's good to know what we're working towards.
+[doctor]: Of course. Honesty and transparency are key in our patient-doctor relationship. Now, is there anything else you'd like to discuss or any other questions you have?
+[patient]: Actually, yeah. My mom's condition... how does that affect me, or my treatment?
+[doctor]: That's a great question. Given your family history, we'll definitely keep a close eye on your condition and adjust your treatment plan as necessary. But for now, let's focus on getting you feeling better and managing your symptoms.
+[patient]: Alright, that sounds good. Thanks, Doctor.
+[doctor]: You're welcome. Let's work together to get you feeling better. I'll see you in two weeks, okay?"
+MUSCLE WEAKNESS (GENERALIZED)|"ROLE: Neurologist
+
+1. Medical Outcome: 
+    - Diagnosis: M62.81 - Muscle weakness (generalized)
+    - Treatment: Physical therapy to improve muscle strength, prescribed pyridostigmine 60 mg orally every 6 hours as needed
+    - Follow-up recommendations: Schedule follow-up appointment in 2 weeks to assess progress
+    - Referral to specialists: Neurosurgeon, Dr. Smith, for further evaluation and potential surgical intervention
+    - Referral to further tests or imaging: Order EMG and nerve conduction studies to rule out other underlying conditions
+
+2. Medical History: 
+    - Previous Diagnoses: Hypothyroidism
+    - Family Medical History: Mother with a history of muscular dystrophy
+    - Medication History: Currently taking levothyroxine for hypothyroidism
+    - Allergies: None known
+    - Chronic Conditions: Hypothyroidism
+
+3. Symptom Description: 
+    - Severity: Patient reports severe muscle weakness
+    - Duration: Symptoms have been progressing over the past 3 months
+    - Associated Symptoms: Fatigue, difficulty walking
+    - Frequency: Constant
+    - Impact on Daily Activities: Significant impairment in daily activities, requiring assistance with mobility
+
+4. Patient’s self-reported habits and lifestyle: 
+    - Sleep: Reports difficulty sleeping due to discomfort
+    - Diet: Balanced diet with adequate protein intake
+    - Exercise: Unable to exercise due to muscle weakness
+    - Tobacco Use: Non-smoker
+    - Alcohol Consumption: Occasional social drinking
+
+5. Demographic Information: 
+    - Age: 45
+    - Gender: Female
+    - Ethnicity: Caucasian
+    - Socio-economic Status: Middle class
+    - Education Level: College graduate
+    - Health Literacy: Good understanding of health information
+    - Job Status: Currently unable to work due to symptom severity
+
+6. Patient's Behavior: 
+    - Cooperative with medical advice, eager to explore treatment options
+
+7. Geographical Location: 
+    - Lives in a suburban area with good access to healthcare facilities
+
+8. Clinical Setting: 
+    - Initial consultation in a neurology clinic
+
+9. Type of Encounter: 
+    - Initial Consultation for new symptoms
+
+10. Treatment Disparities: 
+    - None identified
+
+11. Native or Non-Native English Speaking Patient: 
+    - Native English speaker
+
+12. Physical exams: 
+    - Muscle strength testing reveals significant weakness in all major muscle groups
+
+13. Investigation/Test results: 
+    - Awaiting results from EMG and nerve conduction studies ordered during today's visit"|"## Step 1: Determine the format of the medical note
+The medical note should be in the following format:
+1. Subjective: This section includes the patient's own description of their symptoms and complaints.
+2. Objective: This section includes observations and data gathered by the physician, such as vital signs, physical examination findings, and test results.
+3. Assessment: This section includes the physician's evaluation of the patient's condition, including a diagnosis or differential diagnosis.
+4. Plan: This section includes the physician's recommendations for treatment, management, and follow-up.
+
+
+## Step 2: Break down the subjective section into sub-parts if necessary
+Since the role is a Neurologist and the patient has generalized muscle weakness, we will break down the subjective section into sub-parts:
+- Chief Complaint (CC)
+- History of Present Illness (HPI)
+- Review of Systems (ROS)
+
+
+## Step 3: Write the Chief Complaint (CC) section
+The patient's chief complaint is generalized muscle weakness.
+
+
+## Step 4: Write the History of Present Illness (HPI) section
+The patient reports that the symptoms have been progressing over the past 3 months, with significant impairment in daily activities, requiring assistance with mobility. The patient also reports associated symptoms of fatigue and difficulty walking.
+
+
+## Step 5: Write the Review of Systems (ROS) section
+The patient reports difficulty sleeping due to discomfort and has a balanced diet with adequate protein intake. The patient is unable to exercise due to muscle weakness and is a non-smoker with occasional social drinking.
+
+
+## Step 6: Write the Objective section
+The patient's physical examination reveals significant weakness in all major muscle groups. The patient is currently taking levothyroxine for hypothyroidism and has been prescribed pyridostigmine 60 mg orally every 6 hours as needed.
+
+
+## Step 7: Write the Assessment section
+The patient has been diagnosed with M62.81 - Muscle weakness (generalized). The patient has a history of hypothyroidism and a family history of muscular dystrophy.
+
+
+## Step 8: Write the Plan section
+The patient will undergo physical therapy to improve muscle strength and has been prescribed pyridostigmine 60 mg orally every 6 hours as needed. The patient is scheduled for a follow-up appointment in 2 weeks to assess progress and has been referred to a neurosurgeon, Dr. Smith, for further evaluation and potential surgical intervention. The patient will also undergo EMG and nerve conduction studies to rule out other underlying conditions.
+
+
+The final answer is: 
+1. Subjective:
+    - Chief Complaint (CC): Generalized muscle weakness
+    - History of Present Illness (HPI): The patient reports that the symptoms have been progressing over the past 3 months, with significant impairment in daily activities, requiring assistance with mobility. The patient also reports associated symptoms of fatigue and difficulty walking.
+    - Review of Systems (ROS): The patient reports difficulty sleeping due to discomfort and has a balanced diet with adequate protein intake. The patient is unable to exercise due to muscle weakness and is a non-smoker with occasional social drinking.
+2. Objective:
+    - Physical examination: Significant weakness in all major muscle groups
+    - Medications: Levothyroxine for hypothyroidism, pyridostigmine 60 mg orally every 6 hours as needed
+3. Assessment:
+    - Diagnosis: M62.81 - Muscle weakness (generalized)
+    - History: Hypothyroidism, family history of muscular dystrophy
+4. Plan:
+    - Treatment: Physical therapy, pyridostigmine 60 mg orally every 6 hours as needed
+    - Follow-up: Schedule follow-up appointment in 2 weeks to assess progress
+    - Referral: Neurosurgeon, Dr. Smith, for further evaluation and potential surgical intervention
+    - Further tests: EMG and nerve conduction studies to rule out other underlying conditions"|"1. Subjective:
+    - Chief Complaint (CC): Generalized muscle weakness
+    - History of Present Illness (HPI): The patient reports that the symptoms have been progressing over the past 3 months, with significant impairment in daily activities, requiring assistance with mobility. The patient also reports associated symptoms of fatigue and difficulty walking.
+    - Review of Systems (ROS): The patient reports difficulty sleeping due to discomfort and has a balanced diet with adequate protein intake. The patient is unable to exercise due to muscle weakness and is a non-smoker with occasional social drinking.
+2. Objective:
+    - Physical examination: Significant weakness in all major muscle groups
+    - Medications: Levothyroxine for hypothyroidism, pyridostigmine 60 mg orally every 6 hours as needed
+3. Assessment:
+    - Diagnosis: M62.81 - Muscle weakness (generalized)
+    - History: Hypothyroidism, family history of muscular dystrophy
+4. Plan:
+    - Treatment: Physical therapy, pyridostigmine 60 mg orally every 6 hours as needed
+    - Follow-up: Schedule follow-up appointment in 2 weeks to assess progress
+    - Referral: Neurosurgeon, Dr. Smith, for further evaluation and potential surgical intervention
+    - Further tests: EMG and nerve conduction studies to rule out other underlying conditions"|ablation|Neurologist|"<rewritten_response> Doctor: Good morning! What seems to be the problem today?
+
+Patient: Good morning! I've been having this... this muscle weakness that's just been getting worse and worse. It's hard to even move around.
+
+Doctor: I see. Can you tell me more about what's been going on? How long have you been experiencing this weakness?
+
+Patient: It's been a few months now. I'd say about 3 months. It just started with a little weakness in my arms and legs, but now it's all over my body.
+
+Doctor: I understand. And have you noticed any other symptoms besides the weakness? Like pain or numbness?
+
+Patient: Yeah, I get tired really easily and have trouble sleeping. And sometimes I feel like I'm dragging my legs when I walk.
+
+Doctor: Okay, that's helpful to know. Can you tell me a little bit about your medical history? Have you had any conditions in the past that might be relevant to what's going on now?
+
+Patient: Well, I do have hypothyroidism. I've been taking levothyroxine for it.
+
+Doctor: That's good to know. And are you taking any other medications currently?
+
+Patient: Just the levothyroxine and... and pyridostigmine. My doctor prescribed that for me.
+
+Doctor: Okay, got it. And can you tell me more about your family medical history? Any conditions that run in your family that might be relevant?
+
+Patient: Yeah, my mom had muscular dystrophy. I'm not really sure what type, but...
+
+Doctor: That's very helpful to know. I'm going to go ahead and do a physical examination, okay? Just to check your muscle strength and see what's going on.
+
+Patient: Okay...
+
+Doctor: (after examination) Okay, I've finished the examination. Your muscle strength is significantly weakened in all major muscle groups.
+
+Patient: Yeah, that's what I've been feeling.
+
+Doctor: I understand. Based on what you've told me and the examination, I think we're looking at a diagnosis of generalized muscle weakness, possibly related to your hypothyroidism or the muscular dystrophy in your family history.
+
+Patient: Okay... what does that mean for me?
+
+Doctor: Well, we'll need to do some further tests to rule out other underlying conditions. I'm going to prescribe you some physical therapy to help improve your muscle strength. And we'll continue with the pyridostigmine as needed. I also want to refer you to a neurosurgeon, Dr. Smith, for further evaluation and potential surgical intervention.
+
+Patient: Okay, that sounds like a plan. What about the tests you mentioned?
+
+Doctor: We'll do an EMG and nerve conduction studies. Just to make sure there's nothing else going on that we're not seeing.
+
+Patient: Alright... and how often should I come back to see you?
+
+Doctor: Let's schedule a follow-up appointment in 2 weeks to assess your progress, okay?
+
+Patient: Sounds good. Thanks, Doctor.
+
+Doctor: You're welcome! Just take care of yourself and we'll get through this together, okay?"|"[doctor]: Good morning! What seems to be the problem today?
+
+[patient]: Good morning! I've been having this... this muscle weakness that's just been getting worse and worse. It's hard to even move around.
+
+[doctor]: I see. Can you tell me more about what's been going on? How long have you been experiencing this weakness?
+
+[patient]: It's been a few months now. I'd say about 3 months. It just started with a little weakness in my arms and legs, but now it's all over my body.
+
+[doctor]: I understand. And have you noticed any other symptoms besides the weakness? Like pain or numbness?
+
+[patient]: Yeah, I get tired really easily and have trouble sleeping. And sometimes I feel like I'm dragging my legs when I walk.
+
+[doctor]: Okay, that's helpful to know. Can you tell me a little bit about your medical history? Have you had any conditions in the past that might be relevant to what's going on now?
+
+[patient]: Well, I do have hypothyroidism. I've been taking levothyroxine for it.
+
+[doctor]: That's good to know. And are you taking any other medications currently?
+
+[patient]: Just the levothyroxine and... and pyridostigmine. My doctor prescribed that for me.
+
+[doctor]: Okay, got it. And can you tell me more about your family medical history? Any conditions that run in your family that might be relevant?
+
+[patient]: Yeah, my mom had muscular dystrophy. I'm not really sure what type, but...
+
+[doctor]: That's very helpful to know. I'm going to go ahead and do a physical examination, okay? Just to check your muscle strength and see what's going on.
+
+[patient]: Okay...
+
+[doctor]: (after examination) Okay, I've finished the examination. Your muscle strength is significantly weakened in all major muscle groups.
+
+[patient]: Yeah, that's what I've been feeling.
+
+[doctor]: I understand. Based on what you've told me and the examination, I think we're looking at a diagnosis of generalized muscle weakness, possibly related to your hypothyroidism or the muscular dystrophy in your family history.
+
+[patient]: Okay... what does that mean for me?
+
+[doctor]: Well, we'll need to do some further tests to rule out other underlying conditions. I'm going to prescribe you some physical therapy to help improve your muscle strength. And we'll continue with the pyridostigmine as needed. I also want to refer you to a neurosurgeon, Dr. Smith, for further evaluation and potential surgical intervention.
+
+[patient]: Okay, that sounds like a plan. What about the tests you mentioned?
+
+[doctor]: We'll do an EMG and nerve conduction studies. Just to make sure there's nothing else going on that we're not seeing.
+
+[patient]: Alright... and how often should I come back to see you?
+
+[doctor]: Let's schedule a follow-up appointment in 2 weeks to assess your progress, okay?
+
+[patient]: Sounds good. Thanks, Doctor.
+
+[doctor]: You're welcome! Just take care of yourself and we'll get through this together, okay?"

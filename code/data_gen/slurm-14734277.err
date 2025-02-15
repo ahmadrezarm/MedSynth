@@ -1,0 +1,11 @@
+/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/unsloth/__init__.py:72: UserWarning: Unsloth: Running `ldconfig /usr/lib64-nvidia` to link CUDA.
+  warnings.warn(
+/sbin/ldconfig.real: Can't create temporary cache file /etc/ld.so.cache~: Permission denied
+/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/unsloth/__init__.py:103: UserWarning: Unsloth: CUDA is not linked properly.
+Try running `python -m bitsandbytes` then `python -m xformers.info`
+We tried running `ldconfig /usr/lib64-nvidia` ourselves, but it didn't work.
+You need to run in your terminal `sudo ldconfig /usr/lib64-nvidia` yourself, then import Unsloth.
+Also try `sudo ldconfig /usr/local/cuda-xx.x` - find the latest cuda version.
+Unsloth will still run for now, but maybe it might crash - let's hope it works!
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/17 [00:00<?, ?it/s]Loading checkpoint shards:   6%|▌         | 1/17 [00:03<00:55,  3.50s/it]Loading checkpoint shards:  12%|█▏        | 2/17 [00:07<00:55,  3.70s/it]Loading checkpoint shards:  18%|█▊        | 3/17 [00:11<00:52,  3.76s/it]Loading checkpoint shards:  24%|██▎       | 4/17 [00:14<00:48,  3.77s/it]Loading checkpoint shards:  29%|██▉       | 5/17 [00:18<00:44,  3.75s/it]Loading checkpoint shards:  35%|███▌      | 6/17 [00:22<00:41,  3.76s/it]Loading checkpoint shards:  41%|████      | 7/17 [00:26<00:37,  3.79s/it]Loading checkpoint shards:  47%|████▋     | 8/17 [00:30<00:34,  3.82s/it]Loading checkpoint shards:  53%|█████▎    | 9/17 [00:34<00:30,  3.83s/it]Loading checkpoint shards:  59%|█████▉    | 10/17 [00:37<00:26,  3.80s/it]Loading checkpoint shards:  65%|██████▍   | 11/17 [00:41<00:22,  3.81s/it]Loading checkpoint shards:  71%|███████   | 12/17 [00:45<00:19,  3.91s/it]Loading checkpoint shards:  76%|███████▋  | 13/17 [00:49<00:15,  3.90s/it]Loading checkpoint shards:  82%|████████▏ | 14/17 [00:53<00:11,  3.89s/it]Loading checkpoint shards:  88%|████████▊ | 15/17 [00:57<00:07,  3.86s/it]Loading checkpoint shards:  94%|█████████▍| 16/17 [01:00<00:03,  3.79s/it]Loading checkpoint shards: 100%|██████████| 17/17 [01:03<00:00,  3.50s/it]Loading checkpoint shards: 100%|██████████| 17/17 [01:03<00:00,  3.75s/it]

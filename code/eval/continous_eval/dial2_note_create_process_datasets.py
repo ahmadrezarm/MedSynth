@@ -20,21 +20,20 @@ from huggingface_hub import HfFolder
 HfFolder.save_token(constants.HF_WRITE_TOKEN)
 
 REMOVE_COLUMNS = []
-RENAME_COLUMNS ={} #{"Polished Note":"note", "polished_dial": "dialogue", "Note": "unpolished_note", "dial": "unpolished_dialogue"} #
+RENAME_COLUMNS ={"Polished Note":"note", "polished_dial": "dialogue", "Note": "unpolished_note", "dial": "unpolished_dialogue"} #
 INSTRUCTION = constants.summarizer_system_prompt
 
-# edit this whenevr you wanna make a new dataset
-#Notechat_sample_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/NoteChatSamples/Dial2Note/note_chat_sample_10035_2024-08-08_13-56.csv"
-
-#Ahmad_data_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/data/input/AhmadData_Sample/Dial2Note_AhmadData_57_2024-12-14_11-19.csv"
-Primock_data_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/PriMock57/unified_data/primock57.csv"
+#### 1. Change this
+all_lamma= "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/output/notes_onVector/ablations_on_vector/all_llama/_combined_with_dial.csv"
 current_date= datetime.now().strftime("%Y-%m-%d_%H-%M")
 
 #Primock_train_path= "/h/ahmad/SynthDataGen/Synthetic_Data_Gen/code/eval/continous_eval/PriMock57/unified_data/train_test_split/train.csv"
 
-repo_name= f"SynthDataGen_llama3_Dial2Note_PriMock57_Only_instruct_{current_date}" #
+#### 2. Change this:
+repo_name= f"SynthDataGen_llama3_Dial2Note_AllLamma_246_Samples_Only_instruct_{current_date}" #
 
-DATASETS_PATHS = [ Primock_data_path,] #, ,Ahmad_whole_data_path    constants.Aci_train_path
+##### 3. Change this:
+DATASETS_PATHS = [ all_lamma] #, ,Ahmad_whole_data_path    constants.Aci_train_path , , constants.Aci_train_path
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 

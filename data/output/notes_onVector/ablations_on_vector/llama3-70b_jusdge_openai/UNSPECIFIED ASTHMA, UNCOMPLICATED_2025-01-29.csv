@@ -1,0 +1,698 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role
+UNSPECIFIED ASTHMA, UNCOMPLICATED|"ROLE: Family Medicine Physician
+
+- Medical Outcome: 
+  - Diagnosis: Unspecified asthma, uncomplicated.
+  - Prescribed Treatment: Inhaled corticosteroid, Fluticasone 110 mcg, 1 inhalation, twice daily, duration indefinite, route inhalation via a metered-dose inhaler.
+  - Follow-up recommendations: Scheduled follow-up appointment in 3 months.
+  - Lifestyle change: Encourage avoiding known asthma triggers such as smoke, pollen, and dust. Discussed importance of maintaining a dry and clean environment to reduce allergens.
+  
+- Medical History: 
+  - Previous Diagnoses: Seasonal allergies.
+  - Chronic Conditions: Mild asthma controlled with a rescue inhaler (Albuterol).
+
+- Symptom Description: 
+  - Severity: Mild persistent symptoms.
+  - Duration: Increased frequency of symptoms over the past 2 months.
+  - Associated Symptoms: Occasional wheezing and shortness of breath, primarily during physical exertion.
+  - Impact on Daily Activities: Minimal but noticeable restriction during exercise routines.
+
+- Patient’s self-reported habits and lifestyle:
+  - Exercise: Exercises 3 times a week, participates in light jogging.
+  - Tobacco Use: Non-smoker.
+  - Alcohol Consumption: Socially on weekends.
+  - Recreational Activities: Enjoys gardening and small home improvement projects.
+
+- Demographic Information: 
+  - Age: 28
+  - Gender: Male
+  - Ethnicity: Hispanic
+  - Socio-economic Status: Middle-income
+  - Education Level: Bachelor's degree
+  - Job Status: Works as an architecture assistant.
+
+- Patient's Behavior: Cooperative with medical advice, expressed commitment to adhere to prescribed treatment and lifestyle recommendations.
+
+- Geographical Location: Urban area, Big City
+  - Pollution and Environmental Health Risks: Moderate air pollution, high pollen count during spring.
+  - Neighborhood Type: Suburban, well-served by public transport.
+
+- Clinical Setting: Private practice
+
+- Type of Encounter: Follow-up
+
+- Treatment Disparities: None perceived; patient has insurance coverage and expresses understanding of treatment plan.
+
+- Native or Non-Native English Speaking Patient: Bilingual, proficient in English and Spanish.
+
+- Physical exams: Respiratory examination reveals mild expiratory wheezing, otherwise normal respiratory effort.
+
+- Investigation/Test results: Awaiting results of pulmonary function tests to assess baseline lung function and asthma control."|"**SUBJECTIVE:**
+
+**Chief Complaint (CC):** 
+Follow-up for asthma management.
+
+**History of Present Illness (HPI):** 
+The patient is a 28-year-old Hispanic male presenting for a follow-up regarding his asthma management. He reports mild persistent symptoms that have increased in frequency over the past 2 months, including occasional wheezing and shortness of breath, primarily during physical exertion. The patient indicates that these symptoms have minimally but noticeably affected his exercise routine, which includes light jogging three times a week.
+
+**Review of Systems (ROS):** 
+- Respiratory: Occasional wheezing and shortness of breath during exertion.
+- Allergies: Reports seasonal allergies, particularly sensitive to pollen.
+  
+**OBJECTIVE:**
+
+**Physical Examination:**
+- Respiratory: Mild expiratory wheezing noted, otherwise normal respiratory effort.
+
+**Results:**
+- Awaiting pulmonary function test results to assess baseline lung function and asthma control.
+
+**ASSESSMENT:**
+
+The patient is a 28-year-old male with a history of mild asthma and seasonal allergies, presenting with increased asthma symptoms. The condition appears to be uncomplicated but requires adjustment in management.
+
+**PLAN:**
+
+1. **Medical Treatment:**
+   - Initiate Fluticasone 110 mcg, 1 inhalation, twice daily, via metered-dose inhaler; duration indefinite.
+
+2. **Lifestyle Modifications:**
+   - Encourage avoiding known asthma triggers, such as smoke, pollen, and dust.
+   - Emphasize maintaining a dry and clean home environment to reduce allergens.
+
+3. **Follow-up:**
+   - Schedule a follow-up appointment in 3 months to reassess symptoms and asthma control.
+
+4. **Education:**
+   - Discuss the importance of adherence to prescribed treatment and lifestyle changes.
+   - Reaffirm understanding of asthma action plan and use of rescue inhaler.
+
+5. **Investigations:**
+   - Review pulmonary function test results upon receipt to further tailor the treatment plan. 
+
+The patient has insurance coverage and demonstrates a good understanding of the treatment plan, expressing commitment to adhere to the prescribed recommendations."|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Follow-up for asthma management.
+
+**History of Present Illness (HPI):**  
+The patient is a 28-year-old Hispanic male presenting for a follow-up regarding his asthma management. He reports mild persistent symptoms that have increased in frequency over the past 2 months, including occasional wheezing and shortness of breath, primarily during physical exertion. The patient indicates that these symptoms have minimally but noticeably affected his exercise routine, which includes light jogging three times a week.
+
+**Review of Systems (ROS):**  
+- Respiratory: Occasional wheezing and shortness of breath during exertion.  
+- Allergies: Reports seasonal allergies, particularly sensitive to pollen.
+
+**2. Objective:**
+
+**Physical Examination:**  
+- Respiratory: Mild expiratory wheezing noted, otherwise normal respiratory effort.
+
+**3. Assessment:**
+
+The patient is a 28-year-old male with a history of mild asthma and seasonal allergies, presenting with increased asthma symptoms. The condition appears to be uncomplicated but requires adjustment in management.
+
+**4. Plan:**
+
+1. **Medical Treatment:**  
+   - Initiate Fluticasone 110 mcg, 1 inhalation, twice daily, via metered-dose inhaler; duration indefinite.
+
+2. **Lifestyle Modifications:**  
+   - Encourage avoiding known asthma triggers, such as smoke, pollen, and dust.  
+   - Emphasize maintaining a dry and clean home environment to reduce allergens.
+
+3. **Follow-up:**  
+   - Schedule a follow-up appointment in 3 months to reassess symptoms and asthma control.
+
+4. **Education:**  
+   - Discuss the importance of adherence to prescribed treatment and lifestyle changes.  
+   - Reaffirm understanding of asthma action plan and use of rescue inhaler.
+
+5. **Investigations:**  
+   - Review pulmonary function test results upon receipt to further tailor the treatment plan. 
+
+The patient has insurance coverage and demonstrates a good understanding of the treatment plan, expressing commitment to adhere to the prescribed recommendations."|ablation|Family Medicine Physician
+UNSPECIFIED ASTHMA, UNCOMPLICATED|"ROLE: Family Medicine Physician
+
+Scenario:
+
+1) Medical Outcome:
+   - Diagnosis: Unspecified Asthma, Uncomplicated
+   - Prescribed Treatment: Inhaled corticosteroid (Fluticasone) 110 mcg, 2 puffs twice daily, via inhalation.
+   - Follow-up recommendations: Return visit in 4 weeks for asthma management evaluation.
+   - Lifestyle Change: Encourage avoiding known asthma triggers, smoking cessation, and use of spacers with inhalers.
+   
+2) Medical History:
+   - Previous Diagnoses: Allergic rhinitis, seasonal allergies.
+   - Allergies: Seasonal pollen.
+   - Chronic Conditions: Intermittent respiratory issues during spring and autumn seasons.
+
+3) Symptom Description:
+   - Severity: Mild to moderate.
+   - Duration: Episodes lasting few days but recurrent over past 2 months.
+   - Associated Symptoms: Wheezing, shortness of breath, and occasional coughing.
+   - Frequency: Episodes occur 2-3 times per week, primarily during physical exertion or exposure to allergens.
+   - Impact on Daily Activities: Patient reports avoiding exercise due to fear of wheezing attacks.
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: 6-7 hours/night.
+   - Diet: Balanced diet, includes fruits and vegetables.
+   - Exercise: Limited due to respiratory symptoms.
+   - Tobacco Use: Smoker, 5 cigarettes per day.
+   - Alcohol Consumption: Social drinker, approximately 2-3 drinks/week.
+   - Recreational Activities: Enjoys hiking; limited by asthma symptoms.
+
+5) Demographic Information:
+   - Age: 28 years old.
+   - Gender: Female.
+   - Ethnicity: Hispanic.
+   - Socio-economic Status: Middle class.
+   - Education Level: Bachelor's degree.
+   - Health Literacy: Moderate.
+   - Job Status: Office worker, sedentary job.
+
+6) Patient's Behavior:
+   - Level of cooperation: Patient is willing to adhere to medication regime but has been hesitant to quit smoking despite prior advice.
+
+7) Geographical Location:
+   - Urban area in a big city.
+   - Neighborhood: Mixed-income, well-served by public transit.
+   - Environmental Health Risks: Moderate pollution levels.
+
+8) Clinical Setting:
+   - Private Practice.
+
+9) Type of Encounter:
+   - Initial Consultation.
+
+10) Treatment Disparities:
+   - NA
+
+11) Native or Non-Native English Speaking Patient:
+   - Native English speaker.
+
+12) Physical exams:
+   - Respiratory Exam: Mild wheezing on auscultation during expiration. No crackles or rales present.
+
+13) Investigation/Test results:
+   - Peak flow measurement performed onsite: Slight reduction in peak expiratory flow rate (PEFR) indicating mild asthma. Awaiting results from spirometry to assess lung function further."|"**Subjective:**
+
+**Chief Complaint (CC):**  
+Wheezing and shortness of breath during physical exertion and allergen exposure.
+
+**History of Present Illness (HPI):**  
+The patient is a 28-year-old Hispanic female who presents with recurrent episodes of wheezing, shortness of breath, and occasional coughing, occurring 2-3 times per week over the past 2 months. Symptoms are mild to moderate in severity and primarily occur during physical exertion or exposure to allergens. The patient reports difficulty exercising due to fear of provoking wheezing attacks. There is a history of intermittent respiratory issues during spring and autumn.
+
+**Review of Systems (ROS):**  
+- **Respiratory:** Wheezing, shortness of breath, occasional cough.
+- **ENT:** Allergic rhinitis and seasonal allergies.
+- **General:** Fatigue due to limited physical activity. 
+
+**Objective:**
+
+**Vital Signs:**  
+- Blood Pressure: 118/76 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F
+
+**Physical Exam:**  
+- **Respiratory Exam:** Mild wheezing on auscultation during expiration. No crackles or rales present.
+
+**Test Results:**  
+- Peak flow measurement indicates a slight reduction in peak expiratory flow rate (PEFR), suggestive of mild asthma. Awaiting spirometry results for further lung function assessment.
+
+**Assessment:**
+
+The patient presents with symptoms consistent with uncomplicated unspecified asthma, exacerbated by known allergens and physical activity. The presence of allergic rhinitis and seasonal allergies further supports this diagnosis. Mild asthma revealed by peak flow measurements.
+
+**Plan:**
+
+1. **Medication:**
+   - Prescribe Fluticasone inhaled corticosteroid, 110 mcg, 2 puffs twice daily via inhalation. Use with a spacer to improve inhaler technique and medication delivery.
+
+2. **Lifestyle Modifications:**
+   - Encourage smoking cessation to improve overall respiratory health and reduce asthma symptoms.
+   - Educate on avoiding known asthma triggers, particularly allergens known to exacerbate symptoms.
+
+3. **Follow-Up:**
+   - Schedule a return visit in 4 weeks to evaluate asthma management, assess medication adherence, and review spirometry results once available.
+
+4. **Patient Education:**
+   - Discuss proper inhaler technique and usage. 
+   - Reinforce the importance of medication adherence and lifestyle modifications.
+
+5. **Exercise and Activity:**
+   - Advise gradual reintroduction of physical activity, emphasizing warm-ups to prevent asthma symptoms.
+   - Encourage participation in non-triggering activities that do not exacerbate respiratory symptoms. 
+
+The patient is cooperative and willing to adhere to the prescribed medication regime but requires further counseling regarding the importance of smoking cessation. Additional support resources for smoking cessation were provided."|"**Subjective:**
+
+**Chief Complaint (CC):**  
+Wheezing and shortness of breath during physical exertion and allergen exposure.
+
+**History of Present Illness (HPI):**  
+The patient is a 28-year-old Hispanic female who presents with recurrent episodes of wheezing, shortness of breath, and occasional coughing, occurring 2-3 times per week over the past 2 months. Symptoms are mild to moderate in severity and primarily occur during physical exertion or exposure to allergens. The patient reports difficulty exercising due to fear of provoking wheezing attacks. There is a history of intermittent respiratory issues during spring and autumn.
+
+**Review of Systems (ROS):**  
+- **Respiratory:** Wheezing, shortness of breath, occasional cough.
+- **ENT:** Allergic rhinitis and seasonal allergies.
+- **General:** Fatigue due to limited physical activity. 
+
+**Objective:**
+
+**Vital Signs:**  
+- Blood Pressure: 118/76 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F
+
+**Physical Exam:**  
+- **Respiratory Exam:** Mild wheezing on auscultation during expiration. No crackles or rales present.
+
+**Test Results:**  
+- Peak flow measurement indicates a slight reduction in peak expiratory flow rate (PEFR), suggestive of mild asthma. Awaiting spirometry results for further lung function assessment.
+
+**Assessment:**
+
+The patient presents with symptoms consistent with uncomplicated unspecified asthma, exacerbated by known allergens and physical activity. The presence of allergic rhinitis and seasonal allergies further supports this diagnosis. Mild asthma revealed by peak flow measurements.
+
+**Plan:**
+
+1. **Medication:**
+   - Prescribe Fluticasone inhaled corticosteroid, 110 mcg, 2 puffs twice daily via inhalation. Use with a spacer to improve inhaler technique and medication delivery.
+
+2. **Lifestyle Modifications:**
+   - Encourage smoking cessation to improve overall respiratory health and reduce asthma symptoms.
+   - Educate on avoiding known asthma triggers, particularly allergens known to exacerbate symptoms.
+
+3. **Follow-Up:**
+   - Schedule a return visit in 4 weeks to evaluate asthma management, assess medication adherence, and review spirometry results once available.
+
+4. **Patient Education:**
+   - Discuss proper inhaler technique and usage. 
+   - Reinforce the importance of medication adherence and lifestyle modifications.
+
+5. **Exercise and Activity:**
+   - Advise gradual reintroduction of physical activity, emphasizing warm-ups to prevent asthma symptoms.
+   - Encourage participation in non-triggering activities that do not exacerbate respiratory symptoms. 
+
+The patient is cooperative and willing to adhere to the prescribed medication regime but requires further counseling regarding the importance of smoking cessation. Additional support resources for smoking cessation were provided."|ablation|Family Medicine Physician
+UNSPECIFIED ASTHMA, UNCOMPLICATED|"ROLE: General Physician
+
+SCENARIO VARIABLES:
+
+1) Medical Outcome:
+   - Diagnosis: Unspecified Asthma, Uncomplicated.
+   - Prescribed treatment: Albuterol Inhaler, 90 mcg/puff, inhalation as needed for symptoms.
+   - Follow-up recommendations: Follow-up in 3 months.
+   - Lifestyle change: Advise on reducing exposure to asthma triggers and cessation of tobacco use if applicable.
+
+2) Medical History:
+   - Chronic Conditions: Known history of seasonal allergies and eczema.
+   - Medication History: Using over-the-counter antihistamines during allergy season.
+
+3) Symptom Description:
+   - Severity: Mild to moderate wheezing and chest tightness.
+   - Duration: Onset 2 weeks ago.
+   - Frequency: Occurs primarily in the evening.
+   - Impact on Daily Activities: Difficulty with evening walks.
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Reports adequate sleep, 7-8 hours per night.
+   - Tobacco Use: Occasional smoker, around 2-3 cigarettes per day.
+   - Exercise: Regular evening walks.
+   - Alcohol Consumption: Rare, social drinker.
+
+5) Demographic Information:
+   - Age: 35
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle-class
+   - Education Level: Bachelor's degree
+   - Job Status: Office worker
+
+6) Patient's Behavior:
+   - Cooperation with medical advice: Willing to follow recommendations but hesitant about quitting smoking.
+
+7) Geographical Location:
+   - Urban Setting, residing in a big city.
+   - Pollution: Moderate air pollution area.
+   - Neighborhood Type: Residential, well-served by public transit.
+
+8) Clinical Setting:
+   - Type of Encounter: Initial Consultation for asthma symptoms.
+   - Clinical Setting: Primary Care Clinic.
+
+9) Type of Encounter:
+   - Type of encounter: Initial Consultation for asthma management.
+
+10) Native or Non-Native English Speaking Patient:
+   - Native English Speaker.
+
+12) Physical exams:
+   - Respiratory Examination: Mild wheezing upon auscultation, no crackles, or rhonchi.
+
+13) Investigation/Test results:
+   - Awaiting results from Spirometry to assess lung function and confirm asthma diagnosis."|"**1. Subjective:**
+
+**Chief Complaint (CC):** 
+The patient, a 35-year-old Caucasian male, presents with mild to moderate wheezing and chest tightness occurring primarily in the evening for the past two weeks.
+
+**History of Present Illness (HPI):** 
+The patient reports the onset of symptoms approximately two weeks ago, with episodes of wheezing and chest tightness that worsen in the evenings. These symptoms have impacted his ability to engage in regular evening walks. He notes that he typically experiences adequate sleep, getting 7-8 hours per night. The patient has a known history of seasonal allergies and eczema and uses over-the-counter antihistamines during allergy season.
+
+**Review of Systems (ROS):** 
+- Respiratory: Reports mild to moderate wheezing and chest tightness.
+- Dermatological: Eczema, managed with topical treatments.
+- Allergies: History of seasonal allergies, managed with antihistamines.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 125/80 mmHg
+- Respiratory Rate: 18 breaths per minute
+- Heart Rate: 72 beats per minute
+- Temperature: 98.6°F
+
+**Physical Examination:**
+- General: The patient appears well-nourished and in no acute distress.
+- Respiratory: Mild wheezing noted upon auscultation; no crackles or rhonchi detected.
+- Skin: Evidence of eczema patches on arms and legs.
+
+**Investigation/Test Results:**
+- Spirometry: Results pending to assess lung function and confirm asthma diagnosis.
+
+**3. Assessment:**
+
+- **Diagnosis:** Unspecified Asthma, Uncomplicated.
+- **Rationale:** The patient's symptoms, history of allergies, and wheezing noted on examination support an asthma diagnosis.
+
+**4. Plan:**
+
+- **Medical Treatment:** Prescribed an Albuterol Inhaler, 90 mcg/puff, to be used as needed for symptom relief.
+- **Lifestyle Modifications:** 
+  - Discussed the importance of reducing exposure to identified asthma triggers, particularly during the evening.
+  - Strongly advised cessation of tobacco use, given the patient's occasional smoking habit. Patient expresses hesitancy but acknowledges understanding the impact on respiratory health.
+- **Follow-up:** Recommended a follow-up appointment in 3 months to assess symptom control and spirometry results. Emphasized the importance of adherence to the inhaler and monitoring for any changes in symptoms.
+- **Patient Education:** Provided information on asthma management, trigger avoidance, and the proper use of an inhaler. Encouraged maintaining regular physical activity within tolerated limits.
+
+**Patient Agreements:** 
+The patient is cooperative and agrees to follow the outlined treatment plan, expressing willingness to use the inhaler as instructed and to consider reducing smoking."|"**1. Subjective:**
+
+**Chief Complaint (CC):** 
+The patient, a 35-year-old Caucasian male named John Smith, presents with mild to moderate wheezing and chest tightness occurring primarily in the evening for the past two weeks.
+
+**History of Present Illness (HPI):** 
+The patient reports the onset of symptoms approximately two weeks ago, with episodes of wheezing and chest tightness that worsen in the evenings. These symptoms have impacted his ability to engage in regular evening walks. He notes that he typically experiences adequate sleep, getting 7-8 hours per night. The patient has a known history of seasonal allergies and eczema and uses over-the-counter antihistamines during allergy season.
+
+**Review of Systems (ROS):** 
+- Respiratory: Reports mild to moderate wheezing and chest tightness.
+- Dermatological: Eczema, managed with topical treatments.
+- Allergies: History of seasonal allergies, managed with antihistamines.
+
+**2. Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 125/80 mmHg
+- Respiratory Rate: 18 breaths per minute
+- Heart Rate: 72 beats per minute
+- Temperature: 98.6°F
+
+**Physical Examination:**
+- General: The patient appears well-nourished and in no acute distress.
+- Respiratory: Mild wheezing noted upon auscultation; no crackles or rhonchi detected.
+- Skin: Evidence of eczema patches on arms and legs.
+
+**3. Assessment:**
+
+- **Diagnosis:** Unspecified Asthma, Uncomplicated.
+- **Rationale:** The patient's symptoms, history of allergies, and wheezing noted on examination support an asthma diagnosis.
+
+**4. Plan:**
+
+- **Medical Treatment:** Prescribed an Albuterol Inhaler, 90 mcg/puff, to be used as needed for symptom relief.
+- **Lifestyle Modifications:** 
+  - Discussed the importance of reducing exposure to identified asthma triggers, particularly during the evening.
+  - Strongly advised cessation of tobacco use, given the patient's occasional smoking habit. Patient expresses hesitancy but acknowledges understanding the impact on respiratory health.
+- **Follow-up:** Recommended a follow-up appointment in 3 months to assess symptom control and spirometry results. Emphasized the importance of adherence to the inhaler and monitoring for any changes in symptoms.
+- **Patient Education:** Provided information on asthma management, trigger avoidance, and the proper use of an inhaler. Encouraged maintaining regular physical activity within tolerated limits."|ablation|General Physician
+UNSPECIFIED ASTHMA, UNCOMPLICATED|"ROLE: Pulmonologist
+
+1) Medical Outcome: 
+   - Diagnosis: Unspecified asthma, uncomplicated
+   - Prescribed treatment: Fluticasone propionate inhaler 110 mcg, 2 puffs twice daily via oral inhalation.
+   - Follow-up recommendations: Follow-up in 4 weeks to assess response to treatment.
+   - Lifestyle change: Advice on avoiding known asthma triggers and implementing an action plan for asthma management.
+   
+2) Medical History:
+   - Family Medical History: Father has a history of asthma.
+   - Previous Diagnoses: Seasonal allergies.
+   - Medication History: Occasional use of albuterol inhaler.
+
+3) Symptom Description:
+   - Severity: Mild-to-moderate episodes of wheezing and shortness of breath.
+   - Duration: Symptoms occurring several times a week over the past 3 months.
+   - Associated Symptoms: Occasional chest tightness.
+   - Frequency: Symptoms occur more frequently in the evening and during physical activities.
+   - Impact on Daily Activities: Symptoms cause minor interference with daily activities.
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Regular sleep schedule, around 7-8 hours per night.
+   - Diet: Balanced diet with occasional fast-food intake.
+   - Exercise: Exercises moderately 3 times a week.
+   - Tobacco Use: Non-smoker.
+   - Alcohol Consumption: Occasional, socially.
+
+5) Demographic Information:
+   - Age: 28
+   - Gender: Male
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Job Status: Works as a software engineer.
+
+6) Patient's Behavior:
+   - Highly cooperative with medical advice.
+
+7) Geographical Location:
+   - Urban area, Big city
+   - Affluent neighborhood, well-served by transit, not a food desert.
+
+8) Clinical Setting:
+   - Private Practice
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+   - No noted disparities; patient has good health insurance coverage.
+
+11) Native or Non-Native English Speaking Patient:
+   - Bilingual, fluent in English and Spanish.
+
+12) Physical exams:
+   - Respiratory examination revealed mild wheezing.
+
+13) Investigation/Test results:
+   - NA"|"**1. Subjective:**
+
+   **Chief Complaint (CC):** 
+   - Mild-to-moderate episodes of wheezing and shortness of breath.
+
+   **History of Present Illness (HPI):** 
+   - The patient is a 28-year-old Hispanic male who presents with symptoms consistent with asthma. The symptoms have been occurring several times a week over the past 3 months. He reports experiencing shortness of breath and wheezing, which are more frequent in the evening and during physical activities. There is occasional chest tightness associated with these episodes. 
+
+   **Review of Systems (ROS):** 
+   - Respiratory: Wheezing and shortness of breath.
+   - Cardiovascular: Occasional chest tightness.
+
+**2. Objective:**
+
+   - Vital Signs: Within normal limits.
+   - Physical Examination:
+     - Respiratory: Mild wheezing noted upon auscultation.
+   - Test Results: Not available at this time.
+
+**3. Assessment:**
+
+   - Unspecified asthma, uncomplicated, likely influenced by known familial history of asthma and seasonal allergies. Symptoms are mild-to-moderate and primarily activity and evening-induced.
+
+**4. Plan:**
+
+   - Prescribed fluticasone propionate inhaler 110 mcg, 2 puffs twice daily via oral inhalation to manage symptoms.
+   - Advised the patient to avoid known asthma triggers, which may include allergens or environmental factors, and provided an asthma action plan for self-management.
+   - Recommended follow-up in 4 weeks to assess the response to treatment and make any necessary adjustments.
+   - Encouraged maintaining exercise routine while monitoring for symptoms, and utilizing albuterol inhaler as needed for immediate relief during any exacerbations.
+   - Reinforced the importance of adhering to the prescribed medication regimen and seeking immediate care if symptoms significantly worsen."|"**1. Subjective:**
+
+   **Chief Complaint (CC):** 
+   - Mild-to-moderate episodes of wheezing and shortness of breath.
+
+   **History of Present Illness (HPI):** 
+   - The patient is a 28-year-old Hispanic male named Carlos Martinez who presents with symptoms consistent with asthma. The symptoms have been occurring several times a week over the past 3 months. He reports experiencing shortness of breath and wheezing, which are more frequent in the evening and during physical activities. There is occasional chest tightness associated with these episodes. 
+
+   **Review of Systems (ROS):** 
+   - Respiratory: Wheezing and shortness of breath.
+   - Cardiovascular: Occasional chest tightness.
+
+**2. Objective:**
+
+   - Vital Signs: Within normal limits.
+   - Physical Examination:
+     - Respiratory: Mild wheezing noted upon auscultation.
+
+**3. Assessment:**
+
+   - Unspecified asthma, uncomplicated, likely influenced by known familial history of asthma and seasonal allergies. Symptoms are mild-to-moderate and primarily activity and evening-induced.
+
+**4. Plan:**
+
+   - Prescribed fluticasone propionate inhaler 110 mcg, 2 puffs twice daily via oral inhalation to manage symptoms.
+   - Advised the patient to avoid known asthma triggers, which may include allergens or environmental factors, and provided an asthma action plan for self-management.
+   - Recommended follow-up in 4 weeks to assess the response to treatment and make any necessary adjustments.
+   - Encouraged maintaining exercise routine while monitoring for symptoms, and utilizing albuterol inhaler as needed for immediate relief during any exacerbations.
+   - Reinforced the importance of adhering to the prescribed medication regimen and seeking immediate care if symptoms significantly worsen."|ablation|Pulmonologist
+UNSPECIFIED ASTHMA, UNCOMPLICATED|"ROLE: Family Medicine Physician
+
+1) Medical Outcome: 
+   - Prescribed treatment: Albuterol inhaler, 90 mcg, 2 puffs as needed, not to exceed 8 puffs per day.
+   - Prescribed treatment: Fluticasone propionate inhaler, 100 mcg, 2 puffs twice daily.
+   - Follow-up recommendations: 4 weeks to assess response to medication.
+   - Referral: Allergist, for allergy testing to identify potential triggers.
+
+2) Medical History:
+   - Previous Diagnoses: Seasonal Allergies
+   - Chronic Conditions: Unspecified Asthma
+
+3) Symptom Description:
+   - Severity: Mild to moderate wheezing and shortness of breath
+   - Duration: Symptoms have been present for the last 3 months
+   - Frequency: Symptoms occur 3-4 times a week, mostly at night
+   - Impact on Daily Activities: Limited participation in physical activities and sports
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: Reports waking up at night due to symptoms
+   - Diet: Regular diet with occasional fast food
+   - Exercise: Limited due to symptoms
+   - Tobacco Use: Non-smoker
+   - Alcohol Consumption: Social drinker
+
+5) Demographic Information:
+   - Age: 25
+   - Gender: Male
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Job Status: Marketing manager
+
+6) Patient's Behavior:
+   - Level of Cooperation: Highly cooperative and eager to manage symptoms effectively
+
+7) Geographical Location:
+   - Urban living
+   - Air pollution: Moderate
+
+8) Clinical Setting:
+   - Primary Care Clinic
+
+9) Type of Encounter:
+   - Initial Consultation
+
+10) Treatment Disparities:
+    - NA
+
+11) Native or Non-Native English Speaking Patient:
+    - Native English Speaker
+
+12) Physical exams:
+    - Respiratory: Wheezing on auscultation, especially during expiration
+
+13) Investigation/Test results:
+    - Awaiting results: Spirometry test to assess lung function and determine airflow obstruction"|"**1. Subjective:**
+
+   - **Chief Complaint (CC):** Wheezing and shortness of breath for the past 3 months.
+   
+   - **History of Present Illness (HPI):** 
+     - A 25-year-old Hispanic male with a known history of unspecified asthma and seasonal allergies presents with mild to moderate wheezing and shortness of breath. Symptoms are primarily nocturnal, occurring 3-4 times a week and have been persistent over the last 3 months. The patient reports being awoken by his symptoms, which have interfered with his ability to participate in physical activities and sports.
+     - Denies any history of smoking and consumes alcohol socially. The patient lives in an urban area with moderate air pollution and works as a marketing manager. He maintains a regular diet with occasional fast food consumption.
+
+   - **Review of Systems (ROS):** 
+     - Respiratory: Reports shortness of breath, wheezing, and occasional chest tightness. Denies cough or sputum production.
+     - Cardiovascular: Denies chest pain or palpitations.
+     - Gastrointestinal: Denies nausea, vomiting, or diarrhea.
+     - Musculoskeletal: Denies any muscle or joint pain.
+     - Neurological: Denies headaches or dizziness.
+
+**2. Objective:**
+
+   - **Vital Signs:** Within normal limits.
+   
+   - **Physical Exam:**
+     - Respiratory: Wheezing noted on auscultation, particularly during expiration. No use of accessory muscles observed.
+   
+   - **Pending Test Results:**
+     - Awaiting spirometry to assess lung function and determine airflow obstruction.
+
+**3. Assessment:**
+
+   - Asthma, suspected exacerbation due to environmental factors and poorly controlled symptoms.
+   - Seasonal Allergies, contributing to respiratory symptoms.
+
+**4. Plan:**
+
+   - **Medical Treatment:**
+     - Prescribed Albuterol inhaler, 90 mcg, 2 puffs as needed, not to exceed 8 puffs per day for acute symptom relief.
+     - Prescribed Fluticasone propionate inhaler, 100 mcg, 2 puffs twice daily for asthma maintenance and symptom control.
+   
+   - **Referral and Follow-up:**
+     - Referral to allergist for allergy testing to identify potential environmental triggers.
+     - Follow-up appointment in 4 weeks to assess response to the medications and spirometry results.
+   
+   - **Patient Education:**
+     - Educated the patient on how to use the inhalers correctly and the importance of adherence to the prescribed regimen.
+     - Discussed lifestyle modifications, such as minimizing exposure to potential allergens and maintaining regular follow-up for asthma management.
+   
+   - **Patient Agreements:**
+     - The patient is highly cooperative and agrees with the management plan, expressing eagerness to effectively manage his symptoms."|"**1. Subjective:**
+
+   - **Chief Complaint (CC):** Wheezing and shortness of breath for the past 3 months.
+   
+   - **History of Present Illness (HPI):** 
+     - A 25-year-old Hispanic male with a known history of unspecified asthma and seasonal allergies presents with mild to moderate wheezing and shortness of breath. Symptoms are primarily nocturnal, occurring 3-4 times a week and have been persistent over the last 3 months. The patient reports being awoken by his symptoms, which have interfered with his ability to participate in physical activities and sports.
+     - Denies any history of smoking and consumes alcohol socially. The patient lives in an urban area with moderate air pollution and works as a marketing manager. He maintains a regular diet with occasional fast food consumption.
+
+   - **Review of Systems (ROS):** 
+     - Respiratory: Reports shortness of breath, wheezing, and occasional chest tightness. Denies cough or sputum production.
+     - Cardiovascular: Denies chest pain or palpitations.
+     - Gastrointestinal: Denies nausea, vomiting, or diarrhea.
+     - Musculoskeletal: Denies any muscle or joint pain.
+     - Neurological: Denies headaches or dizziness.
+
+**2. Objective:**
+
+   - **Vital Signs:** Within normal limits.
+   
+   - **Physical Exam:**
+     - Respiratory: Wheezing noted on auscultation, particularly during expiration. No use of accessory muscles observed.
+
+**3. Assessment:**
+
+   - Asthma, suspected exacerbation due to environmental factors and poorly controlled symptoms.
+   - Seasonal Allergies, contributing to respiratory symptoms.
+
+**4. Plan:**
+
+   - **Medical Treatment:**
+     - Prescribed Albuterol inhaler, 90 mcg, 2 puffs as needed, not to exceed 8 puffs per day for acute symptom relief.
+     - Prescribed Fluticasone propionate inhaler, 100 mcg, 2 puffs twice daily for asthma maintenance and symptom control.
+   
+   - **Referral and Follow-up:**
+     - Referral to allergist, Dr. Emily Chen, for allergy testing to identify potential environmental triggers.
+     - Follow-up appointment in 4 weeks to assess response to the medications and spirometry results.
+   
+   - **Patient Education:**
+     - Educated the patient on how to use the inhalers correctly and the importance of adherence to the prescribed regimen.
+     - Discussed lifestyle modifications, such as minimizing exposure to potential allergens and maintaining regular follow-up for asthma management.
+   
+   - **Patient Agreements:**
+     - The patient is highly cooperative and agrees with the management plan, expressing eagerness to effectively manage his symptoms."|ablation|Family Medicine Physician

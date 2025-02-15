@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/get_promethus_relative_score_GPT.py", line 66, in <module>
+    main()
+  File "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/get_promethus_relative_score_GPT.py", line 47, in main
+    get_and_save_prometheus_preference_scores_GPT(model_A_name= pair_data["model_A_name"],
+  File "/fs01/home/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/utils/prometheus.py", line 198, in get_and_save_prometheus_preference_scores_GPT
+    prometheus_preference_scores = get_preference_score_GPT(conversation_list= model_A_dial_summary_pairs_df["conversation"],
+  File "/fs01/home/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/utils/prometheus.py", line 57, in get_preference_score_GPT
+    instruction_with_conversation = constants.prometheus_preference_instruction .format(conversation=conversation_list[idx])
+KeyError: 'ground_truth_note'

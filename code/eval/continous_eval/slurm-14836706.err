@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/get_promethus_relative_score_GPT.py", line 66, in <module>
+    main()
+  File "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/get_promethus_relative_score_GPT.py", line 47, in main
+    get_and_save_prometheus_preference_scores_GPT(model_A_name= pair_data["model_A_name"],
+TypeError: get_and_save_prometheus_preference_scores_GPT() got an unexpected keyword argument 'relative_judge_model'

@@ -1,0 +1,863 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role
+UNSPECIFIED ATRIAL FIBRILLATION|"ROLE: Cardiologist
+
+1) Medical Outcome: Diagnosis of unspecified atrial fibrillation. Prescribed treatment includes anticoagulation therapy with Warfarin 5 mg (oral) once daily, and medication adjustment with Metoprolol 50 mg (oral) twice daily. Order for blood work, including biochemistry panel and hematology for complete blood count. Follow-up recommendation in 2 weeks to assess response to treatment and check INR levels. Referral to a specialist in electrophysiology for further evaluation and potential consideration of a cardioversion procedure.
+
+2) Medical History: Previous diagnoses include hypertension and type 2 diabetes mellitus. History of heart palpitations and episodes of dizziness but no known episodes of atrial fibrillation.
+
+3) Symptom Description: Experiences heart palpitations, shortness of breath, and fatigue. Symptoms have been present for the past 4 weeks and occur intermittently, with palpitations lasting a few minutes at a time.
+
+4) Patient’s self-reported habits and lifestyle: Reports a sedentary lifestyle with minimal exercise. Diet is high in processed foods. Occasional alcohol use on weekends but no tobacco or drug use.
+
+5) Demographic Information: 67-year-old Caucasian female, retired accountant. High school education level, moderate health literacy.
+
+6) Patient's Behavior: Generally cooperative with medical advice but sometimes misses follow-up appointments.
+
+7) Geographical Location: Resides in a big city. Lives in an urban area well-served by healthcare facilities, but neighborhood is moderately polluted due to traffic.
+
+8) Clinical Setting: Initial consultation in a hospital cardiology department.
+
+9) Type of Encounter: Initial Consultation for symptom assessment.
+
+10) Treatment Disparities: Offered standard treatment options without disparities. Concerns about medication adherence due to lifestyle habits addressed.
+
+11) Native or Non-Native English Speaking Patient: Native English speaker.
+
+12) Physical exams: Cardiovascular examination revealed irregular heart rate and rhythm. Peripheral pulses were irregular.
+
+13) Investigation/Test results: Awaiting results of blood work which includes biochemistry and complete blood count to rule out any underlying abnormalities. Consideration for an echocardiogram to evaluate heart structure if necessary."|"**Subjective:**
+
+**Chief Complaint (CC):** 
+The patient presents with heart palpitations.
+
+**History of Present Illness (HPI):** 
+The patient is a 67-year-old Caucasian female who reports experiencing intermittent heart palpitations, shortness of breath, and fatigue for the past four weeks. The palpitations last a few minutes at a time and are not associated with any specific triggers. She describes feeling generally more fatigued than usual.
+
+**Review of Systems (ROS):** 
+- Cardiovascular: Reports heart palpitations and episodes of dizziness.
+- Respiratory: Shortness of breath on exertion.
+- General: Fatigue.
+
+**Objective:**
+
+- **Vital Signs:** Blood pressure not documented, presumed under control as patient has a history of hypertension.
+- **Cardiovascular Exam:**
+  - Irregular heart rate and rhythm observed.
+  - Peripheral pulses are irregular.
+- **Pending Test Results:** Awaiting biochemistry panel and complete blood count. Echocardiogram considered for further evaluation of heart structure.
+
+**Assessment:**
+
+1. Atrial Fibrillation, unspecified.
+   - The presence of palpitations and irregular heart rhythm is suggestive of atrial fibrillation.
+   - The patient's episodes of dizziness and shortness of breath support this diagnosis.
+
+2. Hypertension and Type 2 Diabetes Mellitus.
+   - Pre-existing conditions that require ongoing management.
+
+**Plan:**
+
+1. **Atrial Fibrillation**
+   - **Medical Treatment:** Initiate anticoagulation therapy with Warfarin 5 mg once daily. Adjust Metoprolol to 50 mg twice daily to control heart rate.
+   - **Diagnostics:** Continue to monitor with blood work, including INR levels to ensure therapeutic anticoagulation.
+   - **Specialist Referral:** Referral to an electrophysiologist for potential cardioversion if indicated based on symptom persistence and severity.
+   - **Patient Education and Lifestyle Counseling:** Discuss the importance of medication adherence, potential side effects of Warfarin, and dietary considerations. Encourage increased physical activity and a balanced diet to improve overall cardiovascular health.
+
+2. **Follow-up**
+   - Schedule a follow-up appointment in 2 weeks to assess the response to the initial treatment and check INR levels.
+   - Reassess need for echocardiogram based on initial blood work outcomes and symptomatology progress.
+
+The patient was cooperative and expressed understanding of the treatment plan, despite a past history of occasional missed follow-up appointments. Reinforcement of the importance of follow-up and adherence was emphasized."|"**Subjective:**
+
+**Chief Complaint (CC):** 
+The patient, named Margaret Thompson, presents with heart palpitations.
+
+**History of Present Illness (HPI):** 
+Margaret is a 67-year-old Caucasian female who reports experiencing intermittent heart palpitations, shortness of breath, and fatigue for the past four weeks. The palpitations last a few minutes at a time and are not associated with any specific triggers. She describes feeling generally more fatigued than usual.
+
+**Review of Systems (ROS):** 
+- Cardiovascular: Reports heart palpitations and episodes of dizziness.
+- Respiratory: Shortness of breath on exertion.
+- General: Fatigue.
+
+**Objective:**
+
+- **Vital Signs:** Blood pressure not documented, presumed under control as patient has a history of hypertension.
+- **Cardiovascular Exam:**
+  - Irregular heart rate and rhythm observed.
+  - Peripheral pulses are irregular.
+- **Pending Test Results:** Awaiting biochemistry panel and complete blood count.
+
+**Assessment:**
+
+1. Atrial Fibrillation, unspecified.
+   - The presence of palpitations and irregular heart rhythm is suggestive of atrial fibrillation.
+   - The patient's episodes of dizziness and shortness of breath support this diagnosis.
+
+2. Hypertension and Type 2 Diabetes Mellitus.
+   - Pre-existing conditions that require ongoing management.
+
+**Plan:**
+
+1. **Atrial Fibrillation**
+   - **Medical Treatment:** Initiate anticoagulation therapy with Warfarin 5 mg once daily. Adjust Metoprolol to 50 mg twice daily to control heart rate.
+   - **Diagnostics:** Continue to monitor with blood work, including INR levels to ensure therapeutic anticoagulation. Consider echocardiogram for further evaluation of heart structure.
+   - **Specialist Referral:** Referral to an electrophysiologist, Dr. John Carter, for potential cardioversion if indicated based on symptom persistence and severity.
+   - **Patient Education and Lifestyle Counseling:** Discuss the importance of medication adherence, potential side effects of Warfarin, and dietary considerations. Encourage increased physical activity and a balanced diet to improve overall cardiovascular health.
+
+2. **Follow-up**
+   - Schedule a follow-up appointment in 2 weeks to assess the response to the initial treatment and check INR levels.
+   - Reassess need for echocardiogram based on initial blood work outcomes and symptomatology progress.
+
+The patient was cooperative and expressed understanding of the treatment plan, despite a past history of occasional missed follow-up appointments. Reinforcement of the importance of follow-up and adherence was emphasized."|ablation|Cardiologist
+UNSPECIFIED ATRIAL FIBRILLATION|"ROLE: Cardiologist
+
+- Medical Outcome:
+  - Diagnosis: Unspecified Atrial Fibrillation
+  - Prescribed Treatment: Initiate anticoagulation with warfarin 5 mg orally once daily. Adjust dose based on INR targets between 2.0 and 3.0.
+  - Follow-up Recommendations: Follow-up in 1 week for INR check and medication adjustment if necessary.
+  - Referral to Specialists: Referral to a cardiac electrophysiologist for further evaluation and management plan.
+  - Imaging: Order an echocardiogram (Heart) to assess cardiac function and rule out structural abnormalities.
+
+- Medical History:
+  - Previous Diagnoses: Hypertension, Hyperlipidemia
+  - Family Medical History: Mother with coronary artery disease
+  - Allergies: Penicillin
+
+- Symptom Description:
+  - Severity: Moderate palpitations
+  - Duration: Lasting for the past month
+  - Frequency: Occurring daily
+  - Associated Symptoms: Fatigue and shortness of breath
+  - Impact on Daily Activities: Difficulty performing physical tasks due to fatigue
+
+- Patient’s self-reported habits and lifestyle:
+  - Sleep: Reports difficulty in maintaining a regular sleep schedule
+  - Diet: High in saturated fats and carbohydrates
+  - Exercise: Sedentary lifestyle with minimal physical activity
+  - Alcohol Consumption: Occasional social drinker
+  - Tobacco Use: NA
+
+- Demographic Information:
+  - Age: 68
+  - Gender: Male
+  - Ethnicity: Caucasian
+  - Socio-economic Status: Middle-class
+  - Education Level: Bachelor's Degree
+  - Health Literacy: Moderate
+
+- Patient's Behavior:
+  - Level of patient's cooperation with medical advice: Willing to comply with treatment but expresses concern about the complexity of medication management.
+
+- Geographical Location:
+  - Big City vs Small City: Big City
+  - Urban
+  - Neighborhood Type: Affluent, well-served by transit
+
+- Clinical Setting:
+  - Private Practice
+
+- Type of Encounter:
+  - Initial Consultation
+
+- Treatment Disparities:
+  - NA
+
+- Native or Non-Native English Speaking Patient:
+  - Native
+
+- Physical exams:
+  - Cardiovascular examination: Irregularly irregular pulse, no murmurs
+
+- Investigation/Test results:
+  - Awaiting results of echocardiogram
+  - Basic metabolic panel: Normal
+  - Complete blood count: Normal except for mild anemia"|"**1. Subjective:**
+
+**Chief Complaint (CC):**
+Moderate palpitations lasting for a month, occurring daily.
+
+**History of Present Illness (HPI):**
+The patient is a 68-year-old Caucasian male presenting with moderate, daily palpitations for the past month. He reports associated symptoms of fatigue and shortness of breath, which have been impacting his ability to perform physical tasks. He has a history of hypertension and hyperlipidemia. The patient has difficulty maintaining a regular sleep schedule and follows a diet high in saturated fats and carbohydrates. He leads a sedentary lifestyle with minimal physical activity, is an occasional social drinker, and does not use tobacco. He expresses willingness to comply with treatment, although he is concerned about the complexity of medication management.
+
+**Review of Systems (ROS):**
+- Cardiovascular: Reports palpitations; no chest pain.
+- Respiratory: Shortness of breath with exertion.
+- General: Fatigue impacting daily activities.
+
+**2. Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: within normal limits
+  - Heart Rate: Irregularly irregular pulse
+
+- **Physical Examination:**
+  - Cardiovascular: Irregularly irregular pulse, no murmurs 
+  - Respiratory: Clear to auscultation bilaterally
+  - General: Alert and oriented 
+
+- **Laboratory Results:**
+  - Basic Metabolic Panel: Normal 
+  - Complete Blood Count: Normal except for mild anemia
+
+- **Investigations:**
+  - Echocardiogram: Awaiting results
+
+**3. Assessment:**
+
+The patient presents with moderate palpitations, shortness of breath, and fatigue likely due to unspecified atrial fibrillation. The associated mild anemia may contribute to fatigue. His past medical history of hypertension, hyperlipidemia, and family history of coronary artery disease are relevant risk factors.
+
+**4. Plan:**
+
+- **Treatment:**
+  - Initiate anticoagulation with warfarin 5 mg orally once daily. Adjust dose based on INR targets between 2.0 and 3.0.
+
+- **Follow-up:**
+  - Follow-up in 1 week for INR check and possible medication adjustment.
+
+- **Referrals:**
+  - Refer to a cardiac electrophysiologist for further evaluation and management plan.
+
+- **Investigations:**
+  - Order an echocardiogram to assess cardiac function and rule out structural abnormalities.
+
+- **Lifestyle Modifications:**
+  - Advise on diet modification to reduce saturated fats.
+  - Encourage increased physical activity as tolerated.
+  - Discuss importance of maintaining a regular sleep schedule.
+
+- **Education:**
+  - Discuss the importance and complexity of warfarin management, including dietary considerations and the need for regular INR monitoring.
+
+The patient is in agreement with the plan outlined above."|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Moderate palpitations lasting for a month, occurring daily.
+
+**History of Present Illness (HPI):**  
+The patient is a 68-year-old Caucasian male named John Anderson presenting with moderate, daily palpitations for the past month. He reports associated symptoms of fatigue and shortness of breath, which have been impacting his ability to perform physical tasks. He has a history of hypertension and hyperlipidemia. The patient has difficulty maintaining a regular sleep schedule and follows a diet high in saturated fats and carbohydrates. He leads a sedentary lifestyle with minimal physical activity, is an occasional social drinker, and does not use tobacco. He expresses willingness to comply with treatment, although he is concerned about the complexity of medication management.
+
+**Review of Systems (ROS):**  
+- Cardiovascular: Reports palpitations; no chest pain.  
+- Respiratory: Shortness of breath with exertion.  
+- General: Fatigue impacting daily activities.  
+
+**2. Objective:**
+
+- **Vital Signs:**  
+  - Blood Pressure: within normal limits  
+  - Heart Rate: Irregularly irregular pulse  
+
+- **Physical Examination:**  
+  - Cardiovascular: Irregularly irregular pulse, no murmurs  
+  - Respiratory: Clear to auscultation bilaterally  
+  - General: Alert and oriented  
+
+- **Laboratory Results:**  
+  - Basic Metabolic Panel: Normal  
+  - Complete Blood Count: Normal except for mild anemia  
+
+**3. Assessment:**
+
+The patient presents with moderate palpitations, shortness of breath, and fatigue likely due to unspecified atrial fibrillation. The associated mild anemia may contribute to fatigue. His past medical history of hypertension, hyperlipidemia, and family history of coronary artery disease are relevant risk factors.
+
+**4. Plan:**
+
+- **Treatment:**  
+  - Initiate anticoagulation with warfarin 5 mg orally once daily. Adjust dose based on INR targets between 2.0 and 3.0.
+
+- **Follow-up:**  
+  - Follow-up in 1 week for INR check and possible medication adjustment.
+
+- **Referrals:**  
+  - Refer to a cardiac electrophysiologist, Dr. Emily Carter, for further evaluation and management plan due to suspected atrial fibrillation.
+
+- **Investigations:**  
+  - Await results of the echocardiogram to assess cardiac function and rule out structural abnormalities.
+
+- **Lifestyle Modifications:**  
+  - Advise on diet modification to reduce saturated fats.  
+  - Encourage increased physical activity as tolerated.  
+  - Discuss importance of maintaining a regular sleep schedule.
+
+- **Education:**  
+  - Discuss the importance and complexity of warfarin management, including dietary considerations and the need for regular INR monitoring.
+
+The patient is in agreement with the plan outlined above."|ablation|Cardiologist
+UNSPECIFIED ATRIAL FIBRILLATION|"ROLE: Cardiologist
+
+1) Medical Outcome: 
+   - Diagnosis: Unspecified Atrial Fibrillation
+   - Prescribed Treatment: Initiation of anticoagulation therapy, Warfarin 5 mg, oral, once daily; adjust dose based on INR results.
+   - Follow-up Recommendations: Follow-up appointment in 2 weeks to monitor INR levels and adjust medication if necessary.
+   - Referral to Specialists: Referral to a cardiologist specializing in electrophysiology for atrial fibrillation management.
+   - Order for Blood Work: INR levels for anticoagulation management.
+
+2) Medical History:
+   - Previous Diagnoses: Hypertension, Hyperlipidemia
+   - Medication History: Lisinopril 10 mg daily, Atorvastatin 20 mg daily
+   - Allergies: Penicillin
+   - Chronic Conditions: Hypertension
+
+3) Symptom Description: 
+   - Severity: Moderate palpitations and fatigue 
+   - Duration: Episodes lasting for a few hours, occurring a few times a week
+   - Associated Symptoms: Occasional dizziness
+   - Frequency: A few times a week
+   - Impact on Daily Activities: Difficulty concentrating at work
+
+4) Patient’s self-reported habits and lifestyle:
+   - Sleep: 6 hours per night, experiencing restless sleep
+   - Diet: Balanced diet with low sodium intake
+   - Exercise: Walks 3 times a week
+   - Tobacco Use: Smoked 1 pack per day for 10 years, quit 5 years ago
+   - Alcohol Consumption: Consumes 1 glass of wine on weekends
+
+5) Demographic Information: 
+   - Age: 65
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: Bachelor's degree
+   - Health Literacy: Good understanding of health terms and conditions
+   - Job Status: Retired, previously worked as an engineer
+
+6) Patient's Behavior: Generally cooperative with medical advice and willing to follow treatment plans.
+
+7) Geographical Location: Urban area, Big City, Well-served by Transit, access to multiple healthcare facilities.
+
+8) Clinical Setting: Specialty Clinic, appointment with a Cardiologist.
+
+9) Type of Encounter: Initial Consultation for diagnosis of atrial fibrillation.
+
+10) Treatment Disparities: NA
+
+11) Native or Non-Native English Speaking Patient: Native English Speaker
+
+12) Physical exams: Cardiovascular examination noted irregular rhythm consistent with atrial fibrillation.
+
+13) Investigation/Test results: Awaiting ECG and Holter monitor results to further characterize atrial fibrillation episodes."|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Palpitations and fatigue.
+
+**History of Present Illness (HPI):**  
+The patient is a 65-year-old Caucasian male presenting with moderate palpitations and fatigue. These episodes have been ongoing for a few hours at a time and occur a few times per week. He also reports occasional dizziness and finds it difficult to concentrate, particularly affecting his ability to perform cognitive tasks. Despite maintaining a balanced diet with low sodium intake and exercising by walking three times a week, his symptoms persist.
+
+**Review of Systems (ROS):**  
+- Cardiovascular: Endorses palpitations, reports no episodes of chest pain.
+- Neurological: Occasional dizziness, no syncopal events.
+- Constitutional: Reports fatigue and restless sleep averaging 6 hours per night.
+
+**2. Objective:**
+
+**Vital Signs:**  
+- Blood Pressure: 138/85 mmHg  
+- Heart Rate: Irregular rhythm  
+- Respiratory Rate: 16 breaths per minute  
+
+**Physical Examination:**  
+- Cardiovascular: Irregular heart rhythm consistent with atrial fibrillation, no peripheral edema.
+- Neurological: Non-focal, alert, and oriented x3.
+
+**Results:**  
+Awaiting results from ECG and Holter monitor to further evaluate the episodes of atrial fibrillation.
+
+**3. Assessment:**  
+Unspecified Atrial Fibrillation  
+- The patient presents with symptomatic atrial fibrillation characterized by palpitations, fatigue, and occasional dizziness. His past medical history includes hypertension and hyperlipidemia, for which he is currently on lisinopril and atorvastatin. Given his history and symptoms, the initiation of anticoagulation therapy is recommended.
+
+**4. Plan:**
+
+- **Medical Treatment:**  
+  - Initiate Warfarin 5 mg orally once daily. Adjust the dose based on INR results to maintain therapeutic levels.
+
+- **Additional Testing:**  
+  - Order blood work to monitor INR levels for anticoagulation management.
+  - Await completion of ECG and Holter monitor for detailed characterization of atrial fibrillation episodes.
+
+- **Referrals:**  
+  - Refer to a cardiologist specializing in electrophysiology for comprehensive management of atrial fibrillation.
+
+- **Follow-up:**  
+  - A follow-up appointment is scheduled in 2 weeks to review INR levels and make any necessary adjustments to the warfarin dosage.
+
+- **Lifestyle Recommendations:**  
+  - Encourage the patient to maintain a balanced diet, continue regular exercise, and ensure adequate sleep hygiene. Discuss strategies to improve sleep quality.
+
+- **Patient Education:**  
+  - Provide education on the importance of regular INR monitoring and adherence to the anticoagulation regimen. Discuss potential side effects of warfarin and dietary considerations.
+
+The patient is cooperative and expresses understanding and willingness to follow the recommended treatment plan. He agrees to attend the follow-up appointment and understands the importance of monitoring and managing his atrial fibrillation."|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Palpitations and fatigue.
+
+**History of Present Illness (HPI):**  
+The patient is a 65-year-old Caucasian male named John Anderson presenting with moderate palpitations and fatigue. These episodes have been ongoing for a few hours at a time and occur a few times per week. He also reports occasional dizziness and finds it difficult to concentrate, particularly affecting his ability to perform cognitive tasks. Despite maintaining a balanced diet with low sodium intake and exercising by walking three times a week, his symptoms persist.
+
+**Review of Systems (ROS):**  
+- Cardiovascular: Endorses palpitations, reports no episodes of chest pain.
+- Neurological: Occasional dizziness, no syncopal events.
+- Constitutional: Reports fatigue and restless sleep averaging 6 hours per night.
+
+**2. Objective:**
+
+**Vital Signs:**  
+- Blood Pressure: 138/85 mmHg  
+- Heart Rate: Irregular rhythm  
+- Respiratory Rate: 16 breaths per minute  
+
+**Physical Examination:**  
+- Cardiovascular: Irregular heart rhythm consistent with atrial fibrillation, no peripheral edema.
+- Neurological: Non-focal, alert, and oriented x3.
+
+**3. Assessment:**  
+Unspecified Atrial Fibrillation  
+- The patient presents with symptomatic atrial fibrillation characterized by palpitations, fatigue, and occasional dizziness. His past medical history includes hypertension and hyperlipidemia, for which he is currently on lisinopril and atorvastatin. Given his history and symptoms, the initiation of anticoagulation therapy is recommended.
+
+**4. Plan:**
+
+- **Medical Treatment:**  
+  - Initiate Warfarin 5 mg orally once daily. Adjust the dose based on INR results to maintain therapeutic levels.
+
+- **Additional Testing:**  
+  - Order blood work to monitor INR levels for anticoagulation management.
+  - Await completion of ECG and Holter monitor for detailed characterization of atrial fibrillation episodes.
+
+- **Referrals:**  
+  - Refer to Dr. Emily Carter, a cardiologist specializing in electrophysiology, for comprehensive management of atrial fibrillation.
+
+- **Follow-up:**  
+  - A follow-up appointment is scheduled in 2 weeks to review INR levels and make any necessary adjustments to the warfarin dosage.
+
+- **Lifestyle Recommendations:**  
+  - Encourage the patient to maintain a balanced diet, continue regular exercise, and ensure adequate sleep hygiene. Discuss strategies to improve sleep quality.
+
+- **Patient Education:**  
+  - Provide education on the importance of regular INR monitoring and adherence to the anticoagulation regimen. Discuss potential side effects of warfarin and dietary considerations.
+
+The patient is cooperative and expresses understanding and willingness to follow the recommended treatment plan. He agrees to attend the follow-up appointment and understands the importance of monitoring and managing his atrial fibrillation."|ablation|Cardiologist
+UNSPECIFIED ATRIAL FIBRILLATION|"ROLE: Cardiologist
+
+1) Medical Outcome: 
+   - Diagnosis: Unspecified Atrial Fibrillation
+   - Prescribed Treatment: 
+     - Medication: Apixaban 5 mg, oral, twice daily, quantity 60.
+     - Beta-blocker: Atenolol 25 mg, oral, once daily, quantity 30.
+   - Follow-up Recommendations: Return in 1 month for follow-up and echocardiogram review. Smoking cessation counseling recommended.
+   - Referral: Electrophysiologist for potential ablation consideration, Dr. Robert Hamilton.
+
+2) Medical History: 
+   - Previous Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), Osteoarthritis.
+   - Family Medical History: Brother with atrial fibrillation, mother with heart failure.
+   - Allergies: Penicillin.
+   - Chronic Conditions: COPD.
+
+3) Symptom Description: 
+   - Severity: Moderate palpitations and significant shortness of breath.
+   - Duration: Symptoms present for 5 weeks.
+   - Associated Symptoms: Occasional chest discomfort.
+   - Frequency: Daily, varying in intensity.
+   - Impact on Daily Activities: Difficulty with daily chores and moderate physical activity.
+
+4) Patient’s self-reported habits and lifestyle: 
+   - Sleep: Reports disrupted sleep due to nocturnal palpitations.
+   - Diet: High-sodium diet; prefers convenience meals.
+   - Exercise: Minimal due to shortness of breath.
+   - Tobacco Use: Current smoker, 1 pack per day for 30 years. Advised to quit smoking for health improvement.
+   - Alcohol Consumption: Denies alcohol use.
+
+5) Demographic Information: 
+   - Age: 72
+   - Gender: Female
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Lower middle class
+   - Education Level: High school diploma
+   - Health Literacy: Moderate
+   - Job Status: Retired factory worker
+
+6) Patient's Behavior: 
+   - Willing but struggles to follow medical advice due to lifestyle challenges.
+
+7) Geographical Location: 
+   - Small City, Rural, Limited access to specialist care. Telemedicine follow-ups considered for convenience.
+
+8) Clinical Setting: 
+   - Community Health Services.
+
+9) Type of Encounter: 
+   - Chronic Disease Management.
+
+10) Treatment Disparities: 
+   - Concerns about cost of new medications impacting adherence.
+
+11) Native or Non-Native English Speaking Patient: 
+   - Non-Native English-speaking patient.
+
+12) Physical exams: 
+   - Cardiovascular Exam: Irregular heart rhythm, slightly elevated jugular venous pressure.
+   - Respiratory Exam: Wheezing noted bilaterally due to COPD.
+
+13) Investigation/Test results: 
+   - Awaiting results from echocardiogram to assess left atrial size and function."|"**1. Subjective:**
+
+- **Chief Complaint (CC):**  
+  - Palpitations and shortness of breath.
+
+- **History of Present Illness (HPI):**  
+  - The patient is a 72-year-old Hispanic female presenting with a 5-week history of moderate palpitations and significant shortness of breath, which occur daily with varying intensity. She also reports occasional chest discomfort. The symptoms have impacted her ability to perform daily chores and engage in moderate physical activities.
+
+- **Review of Systems (ROS):**  
+  - Cardiovascular: Palpitations, occasional chest discomfort.  
+  - Respiratory: Shortness of breath, nocturnal symptoms disrupting sleep.  
+  - Musculoskeletal: Joint discomfort attributed to osteoarthritis.
+
+- **Social History:**  
+  - Tobacco Use: Current smoker, 1 pack per day for 30 years, advised cessation.  
+  - Diet and Exercise: High-sodium diet, minimal exercise due to shortness of breath.  
+  - Alcohol Use: Denies consumption.  
+  - Sleep: Disrupted due to nocturnal palpitations.  
+  - Socio-economic Status: Lower middle class, retired factory worker with limited access to specialist care due to a rural location.  
+
+**2. Objective:**
+
+- **Vital Signs:**  
+  - Blood pressure: Not documented during this visit.  
+  - Heart rate: Irregularly irregular.
+
+- **Physical Examination:**  
+  - Cardiovascular: Irregular heart rhythm, slightly elevated jugular venous pressure.  
+  - Respiratory: Bilateral wheezing noted due to COPD.
+
+- **Test Results:**  
+  - Echocardiogram results are pending, particularly assessing the left atrial size and function.
+
+**3. Assessment:**
+
+- Diagnosed with unspecified atrial fibrillation, likely exacerbated by underlying COPD and lifestyle factors such as smoking and a high-sodium diet.
+- Chronic obstructive pulmonary disease, contributing to the respiratory symptoms.
+- Osteoarthritis, noted but not the primary focus of this visit.
+
+**4. Plan:**
+
+- **Medications:**  
+  - Prescribed Apixaban 5 mg orally, twice daily.  
+  - Prescribed Atenolol 25 mg orally, once daily.
+
+- **Lifestyle Modifications:**  
+  - Smoking cessation counseling is crucial. Referral to support services for assistance in quitting smoking.  
+  - Dietary advice to reduce sodium intake.
+
+- **Follow-up and Monitoring:**  
+  - Return visit in 1 month for follow-up and to review echocardiogram results.  
+  - Consideration for telemedicine follow-ups due to rural location and access issues.
+
+- **Referrals:**  
+  - Referral to an electrophysiologist, Dr. Robert Hamilton, for potential ablation consideration, understanding the geographical challenges.
+
+- **Treatment Cost Management:**  
+  - Discuss financial concerns and explore options for medication cost assistance programs to ensure adherence. 
+
+- **Counseling:**  
+  - Provided education on symptom management and importance of medication adherence despite lifestyle challenges. 
+
+- **Additional Notes:**  
+  - Patient is engaged but struggling with adherence due to lifestyle factors and cost considerations. Efforts to address these barriers are ongoing."|"**1. Subjective:**
+
+- **Chief Complaint (CC):**  
+  - Palpitations and shortness of breath.
+
+- **History of Present Illness (HPI):**  
+  - The patient is a 72-year-old Hispanic female named Maria Gonzalez, presenting with a 5-week history of moderate palpitations and significant shortness of breath, which occur daily with varying intensity. She also reports occasional chest discomfort. The symptoms have impacted her ability to perform daily chores and engage in moderate physical activities.
+
+- **Review of Systems (ROS):**  
+  - Cardiovascular: Palpitations, occasional chest discomfort.  
+  - Respiratory: Shortness of breath, nocturnal symptoms disrupting sleep.  
+  - Musculoskeletal: Joint discomfort attributed to osteoarthritis.
+
+- **Social History:**  
+  - Tobacco Use: Current smoker, 1 pack per day for 30 years, advised cessation.  
+  - Diet and Exercise: High-sodium diet, minimal exercise due to shortness of breath.  
+  - Alcohol Use: Denies consumption.  
+  - Sleep: Disrupted due to nocturnal palpitations.  
+  - Socio-economic Status: Lower middle class, retired factory worker with limited access to specialist care due to a rural location.  
+
+**2. Objective:**
+
+- **Vital Signs:**  
+  - Blood pressure: Not documented during this visit.  
+  - Heart rate: Irregularly irregular.
+
+- **Physical Examination:**  
+  - Cardiovascular: Irregular heart rhythm, slightly elevated jugular venous pressure.  
+  - Respiratory: Bilateral wheezing noted due to COPD.
+
+**3. Assessment:**
+
+- Diagnosed with unspecified atrial fibrillation, likely exacerbated by underlying COPD and lifestyle factors such as smoking and a high-sodium diet.
+- Chronic obstructive pulmonary disease, contributing to the respiratory symptoms.
+- Osteoarthritis, noted but not the primary focus of this visit.
+
+**4. Plan:**
+
+- **Medications:**  
+  - Prescribed Apixaban 5 mg orally, twice daily.  
+  - Prescribed Atenolol 25 mg orally, once daily.
+
+- **Lifestyle Modifications:**  
+  - Smoking cessation counseling is crucial. Referral to support services for assistance in quitting smoking.  
+  - Dietary advice to reduce sodium intake.
+
+- **Follow-up and Monitoring:**  
+  - Return visit in 1 month for follow-up and to review echocardiogram results.  
+  - Consideration for telemedicine follow-ups due to rural location and access issues.
+
+- **Referrals:**  
+  - Referral to an electrophysiologist, Dr. Robert Hamilton, for potential ablation consideration, understanding the geographical challenges.
+
+- **Treatment Cost Management:**  
+  - Discuss financial concerns and explore options for medication cost assistance programs to ensure adherence. 
+
+- **Counseling:**  
+  - Provided education on symptom management and importance of medication adherence despite lifestyle challenges. 
+
+- **Additional Notes:**  
+  - Patient is engaged but struggling with adherence due to lifestyle factors and cost considerations. Efforts to address these barriers are ongoing."|ablation|Cardiologist
+UNSPECIFIED ATRIAL FIBRILLATION|"ROLE: Cardiologist
+
+1) Medical Outcome: Diagnosis: Unspecified Atrial Fibrillation. Prescribed treatment: Initiate anticoagulation therapy with Warfarin 5 mg, oral, once daily, to reduce stroke risk. Order blood work: Complete Blood Count (CBC) and Liver Function Test (LFT) for monitoring before starting therapy. Referral to further tests: 24-hour Holter monitor to evaluate rhythm disturbances.
+
+2) Medical History: Previous Diagnoses: Hypertension and Hyperlipidemia. Family Medical History: Father had a myocardial infarction at 60. Allergies: NKDA. Chronic Conditions: Hypertension.
+
+3) Symptom Description: Reports palpitations with a severity of 7/10 that have been occurring intermittently over the past 3 months. Associated symptoms include shortness of breath and occasional dizziness. Episodes last about 15-20 minutes. Symptoms interfere with daily activities, such as brisk walking and climbing stairs.
+
+4) Patient’s self-reported habits and lifestyle: Sleep: 7-8 hours per night. Diet: Generally balanced diet but high sodium intake. Exercise: Moderate exercise once a week. Tobacco Use: Quit 10 years ago. Alcohol Consumption: Occasionally drinks wine.
+
+5) Demographic Information: 68-year-old Caucasian male, Retired engineer, High school education, Resides in a suburban area, High health literacy.
+
+6) Patient's Behavior: The patient is cooperative and motivated to manage his condition.
+
+7) Geographical Location: Suburban area, well-served by transit, and access to local healthcare facilities.
+
+8) Clinical Setting: Cardiology clinic.
+
+9) Type of Encounter: Initial Consultation.
+
+10) Treatment Disparities: N/A.
+
+11) Native or Non-Native English Speaking Patient: Native English-speaking patient.
+
+12) Physical exams: Cardiovascular exam reveals an irregularly irregular pulse, no heart murmurs detected.
+
+13) Investigation/Test results: Awaiting results from 24-hour Holter monitoring to confirm rhythm pattern."|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Palpitations with associated shortness of breath and occasional dizziness.
+
+**History of Present Illness (HPI):**  
+The patient is a 68-year-old Caucasian male with a history of hypertension and hyperlipidemia, presenting for initial cardiology consultation due to episodes of palpitations. These episodes have been occurring intermittently over the past 3 months, with a severity of 7/10. Each episode lasts about 15-20 minutes. The palpitations are accompanied by shortness of breath and occasional dizziness, significantly interfering with daily activities such as brisk walking and climbing stairs. The patient has a balanced diet with high sodium intake and engages in moderate exercise once a week. He quit smoking 10 years ago and occasionally consumes wine.
+
+**Review of Systems (ROS):**  
+- Cardiovascular: Reports palpitations and shortness of breath. Denies chest pain or severe fatigue.
+- Respiratory: Denies cough or wheezing.
+- Neurological: Reports occasional dizziness. Denies syncope or headaches.
+
+**2. Objective:**
+
+**Vital Signs:**  
+- Blood Pressure: 138/85 mmHg  
+- Heart Rate: Irregularly irregular
+
+**Physical Examination:**  
+- Cardiovascular: Irregularly irregular pulse noted, no heart murmurs detected.
+- Respiratory: Clear to auscultation bilaterally.
+
+**Tests:**  
+- Awaiting results from 24-hour Holter monitoring to confirm rhythm pattern.
+- Order placed for Complete Blood Count (CBC) and Liver Function Test (LFT) for baseline monitoring before starting anticoagulation therapy.
+
+**3. Assessment:**
+
+The patient presents with symptoms suggestive of atrial fibrillation. There is a history of hypertension, increasing his risk for cardiovascular complications. Clinical findings include an irregularly irregular pulse, consistent with atrial fibrillation.
+
+**Diagnosis:**  
+Unspecified Atrial Fibrillation.
+
+**4. Plan:**
+
+- **Medical Treatment:** Initiate anticoagulation therapy with Warfarin 5 mg orally once daily to reduce stroke risk.
+- **Lifestyle Modifications:** Advise on reducing dietary sodium intake and increasing physical activity frequency.
+- **Monitoring:** Pending results of 24-hour Holter monitor for rhythm evaluation.
+- **Additional Testing:** Conduct CBC and LFT before starting Warfarin.
+- **Follow-up:** Schedule follow-up appointment in 4 weeks to review Holter monitor results and adjust Warfarin dosage as necessary.
+- **Education:** Discuss the importance of adherence to Warfarin therapy and regular monitoring to prevent thromboembolic events. Encourage ongoing monitoring of blood pressure and cholesterol levels.
+
+Patient concurs with the treatment plan and is motivated to manage his condition effectively."|"**1. Subjective:**
+
+**Chief Complaint (CC):**  
+Palpitations with associated shortness of breath and occasional dizziness.
+
+**History of Present Illness (HPI):**  
+The patient is a 68-year-old Caucasian male named John Anderson with a history of hypertension and hyperlipidemia, presenting for initial cardiology consultation due to episodes of palpitations. These episodes have been occurring intermittently over the past 3 months, with a severity of 7/10. Each episode lasts about 15-20 minutes. The palpitations are accompanied by shortness of breath and occasional dizziness, significantly interfering with daily activities such as brisk walking and climbing stairs. The patient has a balanced diet with high sodium intake and engages in moderate exercise once a week. He quit smoking 10 years ago and occasionally consumes wine.
+
+**Review of Systems (ROS):**  
+- Cardiovascular: Reports palpitations and shortness of breath. Denies chest pain or severe fatigue.
+- Respiratory: Denies cough or wheezing.
+- Neurological: Reports occasional dizziness. Denies syncope or headaches.
+
+**2. Objective:**
+
+**Vital Signs:**  
+- Blood Pressure: 138/85 mmHg  
+- Heart Rate: Irregularly irregular
+
+**Physical Examination:**  
+- Cardiovascular: Irregularly irregular pulse noted, no heart murmurs detected.
+- Respiratory: Clear to auscultation bilaterally.
+
+**3. Assessment:**
+
+The patient presents with symptoms suggestive of atrial fibrillation. There is a history of hypertension, increasing his risk for cardiovascular complications. Clinical findings include an irregularly irregular pulse, consistent with atrial fibrillation.
+
+**Diagnosis:**  
+Unspecified Atrial Fibrillation.
+
+**4. Plan:**
+
+- **Medical Treatment:** Initiate anticoagulation therapy with Warfarin 5 mg orally once daily to reduce stroke risk.
+- **Lifestyle Modifications:** Advise on reducing dietary sodium intake and increasing physical activity frequency.
+- **Monitoring:** Pending results of 24-hour Holter monitor for rhythm evaluation.
+- **Additional Testing:** Conduct CBC and LFT before starting Warfarin.
+- **Follow-up:** Schedule follow-up appointment in 4 weeks to review Holter monitor results and adjust Warfarin dosage as necessary.
+- **Education:** Discuss the importance of adherence to Warfarin therapy and regular monitoring to prevent thromboembolic events. Encourage ongoing monitoring of blood pressure and cholesterol levels.
+
+Patient concurs with the treatment plan and is motivated to manage his condition effectively."|ablation|Cardiologist
+UNSPECIFIED ATRIAL FIBRILLATION|"ROLE: Cardiologist
+
+1) Medical Outcome: 
+   - Diagnosis: Unspecified Atrial Fibrillation
+   - Prescribed Treatment: 
+     - Medication: Warfarin 5 mg, oral, once daily, quantity 30, monitor INR weekly.
+     - Beta-blocker: Metoprolol 50 mg, oral, twice daily, quantity 60.
+   - Follow-up Recommendations: Return in 2 weeks for follow-up and INR check.
+   - Referral: None.
+   - Medications Adjustment: Review during next follow-up based on INR results.
+
+2) Medical History: 
+   - Previous Diagnoses: Hypertension, Type 2 Diabetes.
+   - Family Medical History: Father with coronary artery disease, mother with hypertension.
+   - Allergies: None reported.
+   - Chronic Conditions: Hypertension, Type 2 Diabetes (on Metformin).
+
+3) Symptom Description: 
+   - Severity: Intermittent palpitations with dizziness.
+   - Duration: Symptoms started 3 weeks ago.
+   - Associated Symptoms: Mild fatigue, shortness of breath.
+   - Frequency: Episodic, occurring 2-3 times a week.
+   - Impact on Daily Activities: Reduced exercise tolerance.
+
+4) Patient’s self-reported habits and lifestyle: 
+   - Sleep: Reports restful sleep, 7 hours per night.
+   - Diet: Balanced diet but occasionally skips meals.
+   - Exercise: Walks 3 times a week, reduced intensity due to symptoms.
+   - Tobacco Use: Quit smoking 5 years ago.
+   - Alcohol Consumption: Occasional, 1-2 glasses of wine per week.
+
+5) Demographic Information: 
+   - Age: 68
+   - Gender: Male
+   - Ethnicity: Caucasian
+   - Socio-economic Status: Middle class
+   - Education Level: College graduate
+   - Health Literacy: Good
+   - Job Status: Retired
+
+6) Patient's Behavior: 
+   - Cooperative and willing to follow the treatment plan.
+
+7) Geographical Location: 
+   - Big City, Urban, Well-served by Transit.
+
+8) Clinical Setting: 
+   - Private Practice.
+
+9) Type of Encounter: 
+   - Initial Consultation.
+
+10) Treatment Disparities: 
+   - No apparent disparities; treatment plan in line with standard guidelines.
+
+11) Native or Non-Native English Speaking Patient: 
+   - Native English-speaking patient.
+
+12) Physical exams: 
+   - Cardiovascular Exam: Irregularly irregular heart rate, normal heart sounds.
+   - Respiratory Exam: Clear to auscultation bilaterally.
+
+13) Investigation/Test results: 
+   - ECG: Atrial Fibrillation noted without acute ischemic changes.
+   - Awaiting results from recent Holter monitor test to assess frequency and duration of AF episodes."|Rejected|Rejected|Rejected|Rejected
+UNSPECIFIED ATRIAL FIBRILLATION|"ROLE: Cardiologist
+
+1) Medical Outcome: 
+   - Diagnosis: Unspecified Atrial Fibrillation
+   - Prescribed Treatment: 
+     - Medication: Apixaban 5 mg, oral, twice daily, quantity 60.
+     - Beta-blocker: Atenolol 25 mg, oral, once daily, quantity 30.
+   - Follow-up Recommendations: Return in 1 month for follow-up and echocardiogram review.
+   - Referral: Electrophysiologist for potential ablation consideration, Dr. Robert Hamilton.
+
+2) Medical History: 
+   - Previous Diagnoses: Chronic Obstructive Pulmonary Disease (COPD), Osteoarthritis.
+   - Family Medical History: Brother with atrial fibrillation, mother with heart failure.
+   - Allergies: Penicillin.
+   - Chronic Conditions: COPD.
+
+3) Symptom Description: 
+   - Severity: Moderate palpitations and significant shortness of breath.
+   - Duration: Symptoms present for 5 weeks.
+   - Associated Symptoms: Occasional chest discomfort.
+   - Frequency: Daily, varying in intensity.
+   - Impact on Daily Activities: Difficulty with daily chores and moderate physical activity.
+
+4) Patient’s self-reported habits and lifestyle: 
+   - Sleep: Reports disrupted sleep due to nocturnal palpitations.
+   - Diet: High-sodium diet; prefers convenience meals.
+   - Exercise: Minimal due to shortness of breath.
+   - Tobacco Use: Current smoker, 1 pack per day for 30 years.
+   - Alcohol Consumption: Denies alcohol use.
+
+5) Demographic Information: 
+   - Age: 72
+   - Gender: Female
+   - Ethnicity: Hispanic
+   - Socio-economic Status: Lower middle class
+   - Education Level: High school diploma
+   - Health Literacy: Moderate
+   - Job Status: Retired factory worker
+
+6) Patient's Behavior: 
+   - Willing but struggles to follow medical advice due to lifestyle challenges.
+
+7) Geographical Location: 
+   - Small City, Rural, Limited access to specialist care.
+
+8) Clinical Setting: 
+   - Community Health Services.
+
+9) Type of Encounter: 
+   - Chronic Disease Management.
+
+10) Treatment Disparities: 
+   - Concerns about cost of new medications impacting adherence.
+
+11) Native or Non-Native English Speaking Patient: 
+   - Non-Native English-speaking patient.
+
+12) Physical exams: 
+   - Cardiovascular Exam: Irregular heart rhythm, slightly elevated jugular venous pressure.
+   - Respiratory Exam: Wheezing noted bilaterally.
+
+13) Investigation/Test results: 
+   - Awaiting results from echocardiogram to assess left atrial size and function."|Rejected|Rejected|Rejected|Rejected

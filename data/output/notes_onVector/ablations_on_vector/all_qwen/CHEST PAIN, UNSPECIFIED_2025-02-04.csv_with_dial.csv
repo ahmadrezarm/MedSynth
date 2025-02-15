@@ -1,0 +1,2019 @@
+Disease Description|Scenario|Note|Polished Note|Abbreviated Note|Role|dial|polished_dial
+CHEST PAIN, UNSPECIFIED|"ROLE: Family Medicine Physician
+
+**CHIEF COMPLAINT:** Chest Pain
+
+**HISTORY OF PRESENT ILLNESS:**  
+Mr. John Williams, a 62-year-old male, presents with chest pain that started 6 hours ago. The pain is intermittent and described as a sharp sensation in the left side of his chest. He denies any radiation to the jaw or arm but mentions occasional shortness of breath during episodes. He denies any recent exertion or other symptoms such as nausea or diaphoresis. Mr. Williams states that the pain occurs intermittently throughout the day and subsides with rest.
+
+**MEDICAL HISTORY:**  
+Previous diagnoses: Coronary Artery Disease, Hypertension.  
+Family medical history: Mother died from a myocardial infarction.  
+Medication history: Aspirin 81 mg daily; Lisinopril 20 mg daily for hypertension; Atorvastatin 40 mg daily for hyperlipidemia.  
+Allergies: Penicillin.  
+Chronic conditions: Coronary Artery Disease, Hypertension.
+
+**SYMPTOM DESCRIPTION:**  
+Severity: Moderate.  
+Duration: Ongoing for 6 hours.  
+Associated symptoms: Occasional shortness of breath.  
+Frequency: Intermittent, occurring every few hours.  
+Impact on daily activities: Minimal.
+
+**PATIENT’S SELF-REPORTED HABITS AND LIFESTYLE:**  
+Sleep: Poor sleep, only 5 hours nightly due to nocturnal pain.  
+Diet: Mixed diet, high in processed foods.  
+Exercise: Rarely exercises.  
+Tobacco use: Non-smoker.  
+Alcohol consumption: Drinks moderately, approximately 3 drinks per week.  
+Recreational activities: Plays occasional board games.
+
+**DEMOGRAPHIC INFORMATION:**  
+Age: 62.  
+Gender: Male.  
+Ethnicity: African American.  
+Socio-economic status: Lower middle class.  
+Education level: High school graduate.  
+Health literacy: Limited.  
+Job status: Retired.
+
+**PATIENT'S BEHAVIOR:**  
+Somewhat cooperative with medical advice but expresses concerns about the cost of medications.
+
+**GEOGRAPHICAL LOCATION:**  
+Lives in a large urban area with high pollution levels.  
+Neighborhood type: Impoverished area with limited access to healthy food options.  
+Transportation: Relying on public transit.
+
+**CLINICAL SETTING:**  
+Clinic.
+
+**TYPE OF ENCOUNTER:**  
+Follow-Up Appointment (chronic disease management).
+
+**TREATMENT DISPARITIES:**  
+Patient may benefit from less expensive medication alternatives or assistance programs due to financial constraints.
+
+**NATIVE OR NON-NATIVE ENGLISH SPEAKING PATIENT:**  
+English-speaking patient.
+
+**PHYSICAL EXAM:**  
+BP: 155/90 mmHg.  
+HR: 86 bpm.  
+RR: 16 per minute.  
+SpO2: 97% on room air.  
+CV: Irregular rhythm, S1 S2 normal, no murmurs appreciated, no gallops.  
+Lungs: Clear to auscultation bilaterally.  
+Abdomen: Soft, non-tender, non-distended.  
+Extremities: No edema or cyanosis.
+
+**INVESTIGATION/TEST RESULTS:**  
+Electrocardiogram (ECG): Sinus rhythm with nonspecific T-wave changes.  
+Cardiac enzymes (Troponin I): Levels are elevated, indicating possible myocardial injury.
+
+**ASSESSMENT:**  
+1. Chest pain, unspecified, possibly related to coronary artery disease.
+2. Hypertension.
+3. Elevated cardiac enzymes.
+
+**PLAN:**  
+1. Prescribe Bisoprolol 5 mg daily for hypertension and to reduce myocardial oxygen demand.  
+2. Initiate Metoprolol tartrate 25 mg twice daily for angina relief.
+3. Schedule follow-up appointment in one week to review cardiac enzymes and adjust medications as needed.
+4. Refer to Cardiology for further management including possible stress testing.
+5. Order lipid panel (biochemistry).
+6. Discuss financial assistance options for medications.  
+7. Encourage lifestyle modifications focusing on diet and sleep improvement.
+
+Note the changes made to introduce more variables that differ from the previous scenario and ensure the plausibility and medical correctness according to the feedback provided."|"**SUBJECTIVE:**
+
+**Chief Complaint (CC):** Chest Pain
+
+**History of Present Illness (HPI):**
+Mr. John Williams, a 62-year-old male, presents with chest pain that started 6 hours ago. The pain is intermittent and described as a sharp sensation in the left side of his chest. He denies any radiation to the jaw or arm but mentions occasional shortness of breath during episodes. He denies any recent exertion or other symptoms such as nausea or diaphoresis. Mr. Williams states that the pain occurs intermittently throughout the day and subsides with rest.
+
+**Past Medical History (PMH):**
+- Coronary Artery Disease
+- Hypertension
+
+**Family Medical History:**
+- Mother died from a myocardial infarction.
+
+**Medication History:**
+- Aspirin 81 mg daily
+- Lisinopril 20 mg daily for hypertension
+- Atorvastatin 40 mg daily for hyperlipidemia
+
+**Allergies:**
+- Penicillin
+
+**Chronic Conditions:**
+- Coronary Artery Disease
+- Hypertension
+
+**Symptom Description:**
+- Severity: Moderate.
+- Duration: Ongoing for 6 hours.
+- Associated Symptoms: Occasional shortness of breath.
+- Frequency: Intermittent, occurring every few hours.
+- Impact on Daily Activities: Minimal.
+
+**Self-Reported Habits and Lifestyle:**
+- Sleep: Poor sleep, only 5 hours nightly due to nocturnal pain.
+- Diet: Mixed diet, high in processed foods.
+- Exercise: Rarely exercises.
+- Tobacco Use: Non-smoker.
+- Alcohol Consumption: Drinks moderately, approximately 3 drinks per week.
+- Recreational Activities: Plays occasional board games.
+
+**Demographic Information:**
+- Age: 62 years old.
+- Gender: Male.
+- Ethnicity: African American.
+- Socioeconomic Status: Lower middle-class.
+- Education Level: High school graduate.
+- Health Literacy: Limited.
+- Job Status: Retired.
+
+**Behavior:**
+Somewhat cooperative with medical advice but expresses concerns about the cost of medications.
+
+**Geographical Location:**
+Lives in a large urban area with high pollution levels.
+Neighborhood Type: Impoverished area with limited access to healthy food options.
+Transportation: Relies on public transit.
+
+---
+
+**OBJECTIVE:**
+
+- BP: 155/90 mmHg.
+- HR: 86 bpm.
+- RR: 16 per minute.
+- SpO2: 97% on room air.
+- CV: Irregular rhythm, S1 S2 normal, no murmurs appreciated, no gallops.
+- Lungs: Clear to auscultation bilaterally.
+- Abdomen: Soft, non-tender, non-distended.
+- Extremities: No edema or cyanosis.
+
+**Investigations/Test Results:**
+- Electrocardiogram (ECG): Sinus rhythm with nonspecific T-wave changes.
+- Cardiac enzymes (Troponin I): Elevated, indicating possible myocardial injury.
+
+---
+
+**ASSESSMENT:**
+1. Chest pain, unspecified, possibly related to coronary artery disease.
+2. Hypertension.
+3. Elevated cardiac enzymes.
+
+---
+
+**PLAN:**
+1. **Prescription Medications:**
+   - Bisoprolol 5 mg daily for hypertension and to reduce myocardial oxygen demand.
+   - Metoprolol tartrate 25 mg twice daily for angina relief.
+   
+2. **Follow-Up Appointments:**
+   - Schedule follow-up appointment in one week to review cardiac enzymes and adjust medications as needed.
+   - Refer to Cardiology for further management, including possible stress testing.
+   
+3. **Laboratory Tests:**
+   - Order lipid panel (biochemistry).
+   
+4. **Financial Assistance:**
+   - Discuss financial assistance options for medications.
+   
+5. **Lifestyle Modifications:**
+   - Encourage lifestyle modifications focusing on diet and sleep improvement.
+
+**Patient Agreements:**
+Mr. Williams understands and agrees with the recommended medical treatment plan."|"**Subjective:**
+
+**Chief Complaint (CC):** Chest Pain
+
+**History of Present Illness (HPI):**
+Mr. John Williams, a 62-year-old male, presents with chest pain that started 6 hours ago. The pain is intermittent and described as a sharp sensation in the left side of his chest. He denies any radiation to the jaw or arm but mentions occasional shortness of breath during episodes. He denies any recent exertion or other symptoms such as nausea or diaphoresis. Mr. Williams states that the pain occurs intermittently throughout the day and subsides with rest.
+
+**Past Medical History (PMH):**
+- Coronary Artery Disease
+- Hypertension
+
+**Family Medical History:**
+- Mother died from a myocardial infarction.
+
+**Medication History:**
+- Aspirin 81 mg daily
+- Lisinopril 20 mg daily for hypertension
+- Atorvastatin 40 mg daily for hyperlipidemia
+
+**Allergies:**
+- Penicillin
+
+**Chronic Conditions:**
+- Coronary Artery Disease
+- Hypertension
+
+**Symptom Description:**
+- Severity: Moderate.
+- Duration: Ongoing for 6 hours.
+- Associated Symptoms: Occasional shortness of breath.
+- Frequency: Intermittent, occurring every few hours.
+- Impact on Daily Activities: Minimal.
+
+**Self-Reported Habits and Lifestyle:**
+- Sleep: Poor sleep, only 5 hours nightly due to nocturnal pain.
+- Diet: Mixed diet, high in processed foods.
+- Exercise: Rarely exercises.
+- Tobacco Use: Non-smoker.
+- Alcohol Consumption: Drinks moderately, approximately 3 drinks per week.
+- Recreational Activities: Plays occasional board games.
+
+**Demographic Information:**
+- Age: 62 years old.
+- Gender: Male.
+- Ethnicity: African American.
+- Socioeconomic Status: Lower middle-class.
+- Education Level: High school graduate.
+- Health Literacy: Limited.
+- Job Status: Retired.
+
+**Behavior:**
+Somewhat cooperative with medical advice but expresses concerns about the cost of medications.
+
+**Geographical Location:**
+Lives in a large urban area with high pollution levels.
+Neighborhood Type: Impoverished area with limited access to healthy food options.
+Transportation: Relies on public transit.
+
+---
+
+**Objective:**
+
+- BP: 155/90 mmHg.
+- HR: 86 bpm.
+- RR: 16 per minute.
+- SpO2: 97% on room air.
+- CV: Irregular rhythm, S1 S2 normal, no murmurs appreciated, no gallops.
+- Lungs: Clear to auscultation bilaterally.
+- Abdomen: Soft, non-tender, non-distended.
+- Extremities: No edema or cyanosis.
+
+**Investigations/Test Results:**
+- Electrocardiogram (ECG): Sinus rhythm with nonspecific T-wave changes.
+- Cardiac enzymes (Troponin I): Elevated, indicating possible myocardial injury.
+
+---
+
+**Assessment:**
+1. Chest pain, possibly related to coronary artery disease.
+2. Hypertension.
+3. Elevated cardiac enzymes.
+
+---
+
+**Plan:**
+1. **Prescription Medications:**
+   - Bisoprolol 5 mg daily for hypertension and to reduce myocardial oxygen demand.
+   - Metoprolol tartrate 25 mg twice daily for angina relief.
+   
+2. **Follow-Up Appointments:**
+   - Schedule follow-up appointment in one week to review cardiac enzymes and adjust medications as needed.
+   
+3. **Laboratory Tests:**
+   - Order lipid panel (biochemistry).
+   
+4. **Referral:**
+   - Refer to Dr. Emily Carter, Cardiology, for further management, including possible stress testing.
+   
+5. **Financial Assistance:**
+   - Discuss financial assistance options for medications.
+   
+6. **Lifestyle Modifications:**
+   - Encourage lifestyle modifications focusing on diet and sleep improvement.
+
+**Patient Agreements:**
+Mr. Williams understands and agrees with the recommended medical treatment plan."|ablation|Family Medicine Physician|"Here is the conversation between the doctor and the patient:
+
+[Doctor] Good morning, Mr. Williams. I'm Dr. Smith. I understand you're experiencing some chest pain. Can you tell me more about it?
+
+[Patient] Good morning, doctor. Yeah, I've been having this sharp pain on the left side of my chest. It comes and goes, but it's been bothering me for about 6 hours now.
+
+[Doctor] I see. And have you noticed any other symptoms, such as shortness of breath or nausea?
+
+[Patient] Occasionally, I feel a bit short of breath when the pain happens, but that's about it.
+
+[Doctor] Okay. Can you tell me a bit about your medical history? Have you had any heart problems in the past?
+
+[Patient] Well, I've had coronary artery disease, and I've been taking medications for hypertension.
+
+[Doctor] I understand. And are you taking any medications currently?
+
+[Patient] Yeah, I'm taking aspirin, lisinopril, and atorvastatin.
+
+[Doctor] Okay. And do you have any allergies I should know about?
+
+[Patient] I'm allergic to penicillin.
+
+[Doctor] Alright. And can you tell me a bit about your family medical history? Have any of your relatives had any heart problems?
+
+[Patient] My mother died from a heart attack, I think.
+
+[Doctor] I'm sorry to hear that. And what about your lifestyle, Mr. Williams? Do you exercise regularly?
+
+[Patient] Honestly, doctor, I don't exercise much. I'm a bit of a couch potato.
+
+[Doctor] Okay. And what about your diet? Do you eat a lot of processed foods?
+
+[Patient] Yeah, I'd say my diet is pretty mixed. I don't always make the healthiest choices.
+
+[Doctor] Alright. And do you smoke or drink alcohol?
+
+[Patient] I don't smoke, but I do drink a bit on the weekends.
+
+[Doctor] Okay. And how's your sleep been?
+
+[Patient] To be honest, doctor, I haven't been sleeping great. I only get about 5 hours of sleep a night.
+
+[Doctor] I see. Well, Mr. Williams, I'm going to take a look at your vitals and do a quick examination. (takes vitals and performs examination)
+
+[Doctor] Okay, your blood pressure is a bit high, and your heart rate is normal. I'm also going to listen to your lungs and heart. (listens to lungs and heart)
+
+[Doctor] Okay, everything sounds good. I'm going to order some tests to rule out any underlying conditions that may be causing your chest pain. I'd like to do an electrocardiogram and some cardiac enzymes to see if there's any damage to your heart.
+
+[Patient] Okay, that sounds good.
+
+[Doctor] And in the meantime, I'd like you to take it easy and avoid any strenuous activities. I'm also going to prescribe you some medications to help with your chest pain and hypertension.
+
+[Patient] Okay, thank you, doctor.
+
+[Doctor] You're welcome, Mr. Williams. I'll have my nurse come in and go over the medications with you. And I'd like to see you back in a week to review your test results and adjust your medications as needed.
+
+[Patient] Sounds good, thank you.
+
+[Doctor] You're welcome. And don't hesitate to reach out if you have any questions or concerns.
+
+[Patient] Will do, thank you.
+
+[Doctor] Alright, I'll have my nurse come in now. (calls in nurse)
+
+[Nurse] Yes, doctor?
+
+[Doctor] Can you please go over the medications with Mr. Williams and make sure he understands what to take and when?
+
+[Nurse] Of course, doctor. (explains medications to patient)
+
+[Patient] Okay, I think I understand. Thank you.
+
+[Nurse] You're welcome, Mr. Williams. If you have any questions or concerns, don't hesitate to reach out.
+
+[Patient] Will do, thank you.
+
+[Doctor] Alright, Mr. Williams, I'll talk to you later. Take care."|"Here is the conversation with more colloquial language for the patient and professional details for the doctor:
+
+[Doctor] Good morning, Mr. Williams. I'm Dr. Smith. I understand you're experiencing some chest pain. Can you tell me more about it? Hmm, how long have you been having this pain?
+
+[Patient] Good morning, doctor. Yeah, I've had this sharp pain on the left side of my chest for about 6 hours now. It comes and goes, but it's been bothering me.
+
+[Doctor] I see. And have you noticed any other symptoms, such as shortness of breath or nausea? Yes, can you describe the shortness of breath to me?
+
+[Patient] Occasionally, I feel a bit short of breath when the pain happens, but that's about it. It's not too bad, but it's definitely noticeable.
+
+[Doctor] Okay, got it. And can you tell me a bit about your medical history? Have you had any heart problems in the past? Yes, I see you have a history of coronary artery disease.
+
+[Patient] Well, yeah... I've had coronary artery disease, and I've been taking medications for hypertension. I'm not sure what all that means, but I know I have to take my meds every day.
+
+[Doctor] I understand. And are you taking any medications currently? Yes, I see you're taking aspirin, lisinopril, and atorvastatin. Okay, so you're taking 81 mg of aspirin daily, 20 mg of lisinopril daily, and 40 mg of atorvastatin daily.
+
+[Patient] Yeah, that's right. I take all those.
+
+[Doctor] Okay. And do you have any allergies I should know about? Hmm, are you allergic to any medications?
+
+[Patient] I'm allergic to penicillin. I had a bad reaction to it when I was younger.
+
+[Doctor] Alright. And can you tell me a bit about your family medical history? Have any of your relatives had any heart problems? Yes, I see your mother had a myocardial infarction.
+
+[Patient] Yeah... my mom died from a heart attack, I think. It was a long time ago, but I remember it was pretty sudden.
+
+[Doctor] I'm sorry to hear that. And what about your lifestyle, Mr. Williams? Do you exercise regularly? Hmm, do you have time for physical activity?
+
+[Patient] Honestly, doctor, I don't exercise much. I'm a bit of a couch potato. I know I should, but I just don't have the energy.
+
+[Doctor] Okay. And what about your diet? Do you eat a lot of processed foods? Yes, I see you have a mixed diet.
+
+[Patient] Yeah, I'd say my diet is pretty mixed. I don't always make the healthiest choices. I like junk food, and I know it's not good for me.
+
+[Doctor] Alright. And do you smoke or drink alcohol? Hmm, how often do you drink?
+
+[Patient] I don't smoke, but I do drink a bit on the weekends. Maybe 3 drinks or so.
+
+[Doctor] Okay. And how's your sleep been? Hmm, are you getting enough rest?
+
+[Patient] To be honest, doctor, I haven't been sleeping great. I only get about 5 hours of sleep a night. I know it's not enough, but I just can't seem to sleep more than that.
+
+[Doctor] I see. Well, Mr. Williams, I'm going to take a look at your vitals and do a quick examination. (takes vitals and performs examination) Okay, your blood pressure is 155/90 mmHg, and your heart rate is 86 bpm. I'm also going to listen to your lungs and heart. (listens to lungs and heart) Okay, everything sounds good. I'm going to order some tests to rule out any underlying conditions that may be causing your chest pain. I'd like to do an electrocardiogram and some cardiac enzymes to see if there's any damage to your heart.
+
+[Patient] Okay, that sounds good. What's an electrocardiogram, doctor?
+
+[Doctor] It's a test that measures the electrical activity of your heart. And the cardiac enzymes will help us see if there's any damage to your heart muscle. Hmm, I'll also order a lipid panel to check your cholesterol levels.
+
+[Patient] Okay, got it.
+
+[Doctor] And in the meantime, I'd like you to take it easy and avoid any strenuous activities. I'm also going to prescribe you some medications to help with your chest pain and hypertension. I'll prescribe you bisoprolol 5 mg daily and metoprolol tartrate 25 mg twice daily.
+
+[Patient] Okay, thank you, doctor. What's bisoprolol and metoprolol?
+
+[Doctor] Bisoprolol is a medication that will help lower your blood pressure, and metoprolol is a medication that will help with your chest pain. Hmm, I'll also have my nurse come in and go over the medications with you.
+
+[Patient] Okay, sounds good.
+
+[Doctor] You're welcome, Mr. Williams. I'll have my nurse come in now. (calls in nurse)
+
+[Nurse] Yes, doctor?
+
+[Doctor] Can you please go over the medications with Mr. Williams and make sure he understands what to take and when?
+
+[Nurse] Of course, doctor. (explains medications to patient) Okay, so you'll take the bisoprolol once a day, and the metoprolol twice a day.
+
+[Patient] Okay, I think I understand. Thank you.
+
+[Nurse] You're welcome, Mr. Williams. If you have any questions or concerns, don't hesitate to reach out.
+
+[Patient] Will do, thank you.
+
+[Doctor] Alright, Mr. Williams, I'll talk to you later. Take care. I'll see you in a week to review your test results and adjust your medications as needed. Hmm, and don't forget to follow up with your lab tests, okay?
+
+[Patient] Okay, will do. Thank you, doctor."
+CHEST PAIN, UNSPECIFIED|"ROLE: Emergency Room Physician
+
+CHIEF COMPLAINT: Chest Pain, Unspecified.
+
+MEDICAL OUTCOME: 
+- **Diagnosis:** Chest Pain, unspecified.
+- **Prescribed Treatment:** Aspirin 325 mg by mouth immediately.
+- **Follow-up Recommendations:** Follow-up with Cardiology in 3–5 business days.
+- **Order for Blood Work:** Biochemistry, Hematology, and Cardiac Enzymes (Troponin).
+- **Imaging Ordered:** Cardiac CT Angiography.
+
+MEDICAL HISTORY:
+- Previous Diagnoses: Hypertension, Hyperlipidemia.
+- Medication History: Atorvastatin 20 mg daily, Losartan 50 mg daily.
+- Allergies: NKDA (No Known Drug Allergies).
+- Chronic Conditions: None reported since last visit.
+
+SYMPTOM DESCRIPTION: 
+- **Severity:** Moderate, sharp pain.
+- **Duration:** Started 2 hours ago.
+- **Associated Symptoms:** Mild shortness of breath, some dizziness.
+- **Frequency:** Constant.
+- **Impact on Daily Activities:** Patient has ceased all physical activity due to pain.
+
+PATIENT’S SELF-REPORTED HABITS & LIFESTYLE:
+- Sleep: Adequate, reports sleeping 7–8 hours per night.
+- Diet: Generally good but admits occasional fast food consumption.
+- Exercise: Exercises inconsistently, typically walks 30 minutes twice a week.
+- Tobacco Use: Non-smoker.
+- Alcohol Consumption: Drinks socially, approximately 1 drink per week.
+- Drug Use: Denies recreational drug use.
+- Recreational Activities: Enjoys gardening and occasionally hiking.
+
+DEMOGRAPHIC INFORMATION:
+- Age: 55 years.
+- Gender: Male.
+- Ethnicity: Caucasian.
+- Socio-economic Status: Middle Class.
+- Education Level: Bachelor's Degree.
+- Health Literacy: Good.
+- Job Status: Retired.
+
+PATIENT'S BEHAVIOR:
+- Cooperates well with medical advice.
+
+GEOGRAPHICAL LOCATION:
+- Urban, moderate pollution and environmental health risks.
+
+CLINICAL SETTING:
+- Emergency Department.
+
+TYPE OF ENCOUNTER:
+- Emergency Visit.
+
+TREATMENT DISPARITIES:
+- No apparent disparities noted.
+
+NATIVE OR NON-NATIVE ENGLISH SPEAKING PATIENT:
+- Native English.
+
+PHYSICAL EXAMS:
+- Vitals: BP 160/95 mmHg, HR 90 bpm, RR 18 bpm, T 36.8°C.
+- Cardiovascular: Palpitations present, no JVD observed. Bilateral lung sounds clear to auscultation. S1S2 present without murmurs. Carotid Doppler shows mild carotid stenosis.
+- General Exam: Alert and oriented. Skin warm and dry.
+
+INVESTIGATION/TEST RESULTS:
+- Current test results: Waiting for cardiac enzymes, biochemistry panel (complete metabolic profile), hematology, and ECG (Electrocardiogram).
+- Imaging awaiting: Cardiac CT Angiography."|"**Subjective**
+
+**Chief Complaint (CC):**
+Chest Pain, Unspecified.
+
+**History of Present Illness (HPI):**
+Mr. John Doe is a 55-year-old male with a past medical history significant for hypertension and hyperlipidemia, currently managed with Atorvastatin and Losartan. The patient presents with moderate, sharp chest pain that started approximately 2 hours ago. He describes the pain as constant and severe enough to stop all physical activities. Associated symptoms include mild shortness of breath and some dizziness. Patient denies any nausea, vomiting, diaphoresis, or radiation of pain.
+
+**Review of Systems (ROS):**
+- **Cardiovascular:** Yes, chest pain, palpitations.
+- **Respiratory:** Mild shortness of breath, no wheezing, cough, or sputum production.
+- **Gastrointestinal:** No nausea, vomiting, or abdominal pain.
+- **Neurological:** No headache, visual changes, weakness, numbness, or tingling.
+- **Genitourinary:** No dysuria, frequency, or incontinence.
+- **Musculoskeletal:** No joint pain or muscle aches other than chest discomfort.
+- **Psychiatric:** No anxiety or depression noted.
+
+**Objective**
+
+- **Vitals:** BP 160/95 mmHg, HR 90 bpm, RR 18 bpm, T 36.8°C.
+- **Physical Examination:**
+  - **General:** Alert and oriented.
+  - **CVS:** Regular rate and rhythm; palpitations noted; no JVD; bilateral lung sounds clear to auscultation; S1S2 heard without murmurs; mild carotid stenosis on carotid Doppler.
+  - **Respiratory:** Clear to auscultation bilaterally.
+  - **Abdomen:** Soft, non-tender, no hepatosplenomegaly.
+  - **Extremities:** No edema.
+
+- **Investigations Ordered:**
+  - **Biochemistry Panel:** Complete metabolic profile.
+  - **Hematology:** CBC, coagulation studies.
+  - **Cardiac Enzymes:** Troponin levels.
+  - **Imaging:** Cardiac CT angiography.
+  - **ECG:** Pending results.
+
+**Assessment**
+
+- **Primary Diagnosis:** Chest Pain, Unspecified.
+- **Differential Diagnosis:**
+  - Acute Coronary Syndrome (ACS)
+  - Angina Pectoris
+  - Pericarditis
+  - Musculoskeletal Strain
+
+**Plan**
+
+- **Medical Treatment:**
+  - Aspirin 325 mg PO immediately for suspected ACS.
+  
+- **Testing and Imaging:**
+  - Order Cardiac Enzymes (Troponin).
+  - Biochemistry panel and hematology.
+  - Cardiac CT Angiography.
+
+- **Follow-up:**
+  - Patient to follow up with Cardiology within 3–5 business days.
+  
+- **Patient Education and Counseling:**
+  - Advise discontinuation of ibuprofen and continued Tylenol as needed.
+  - Educate on importance of cardiology follow-up.
+  - Discuss lifestyle modifications to reduce risk factors for cardiovascular disease.
+  
+- **Patient Agreements:**
+  - Patient agrees to the treatment plan and follow-up with Cardiology.
+
+---
+
+**Signature:**
+[Name] MD
+Emergency Room Physician
+[Date]"|"**Subjective**
+
+**Chief Complaint (CC):**
+Chest Pain, Unspecified.
+
+**History of Present Illness (HPI):**
+Mr. John Doe is a 55-year-old male with a past medical history significant for hypertension and hyperlipidemia, currently managed with Atorvastatin and Losartan. The patient presents with moderate, sharp chest pain that started approximately 2 hours ago. He describes the pain as constant and severe enough to stop all physical activities. Associated symptoms include mild shortness of breath and some dizziness. Patient denies any nausea, vomiting, diaphoresis, or radiation of pain.
+
+**Review of Systems (ROS):**
+- **Cardiovascular:** Yes, chest pain, palpitations.
+- **Respiratory:** Mild shortness of breath, no wheezing, cough, or sputum production.
+- **Gastrointestinal:** No nausea, vomiting, or abdominal pain.
+- **Neurological:** No headache, visual changes, weakness, numbness, or tingling.
+- **Genitourinary:** No dysuria, frequency, or incontinence.
+- **Musculoskeletal:** No joint pain or muscle aches other than chest discomfort.
+- **Psychiatric:** No anxiety or depression noted.
+
+**Objective**
+
+- **Vitals:** BP 160/95 mmHg, HR 90 bpm, RR 18 bpm, T 36.8°C.
+- **Physical Examination:**
+  - **General:** Alert and oriented.
+  - **CVS:** Regular rate and rhythm; palpitations noted; no JVD; bilateral lung sounds clear to auscultation; S1S2 heard without murmurs; mild carotid stenosis on carotid Doppler.
+  - **Respiratory:** Clear to auscultation bilaterally.
+  - **Abdomen:** Soft, non-tender, no hepatosplenomegaly.
+  - **Extremities:** No edema.
+
+- **Investigations:**
+  - **Biochemistry Panel:** Complete metabolic profile.
+  - **Hematology:** CBC, coagulation studies.
+  - **Cardiac Enzymes:** Troponin levels.
+  - **Imaging:** Cardiac CT angiography.
+  - **ECG:** Pending results.
+
+**Assessment**
+
+- **Primary Diagnosis:** Chest Pain, Unspecified.
+- **Differential Diagnosis:**
+  - Acute Coronary Syndrome (ACS)
+  - Angina Pectoris
+  - Pericarditis
+  - Musculoskeletal Strain
+
+**Plan**
+
+- **Medical Treatment:**
+  - Aspirin 325 mg PO immediately for suspected ACS.
+  
+- **Testing and Imaging:**
+  - Order Cardiac Enzymes (Troponin).
+  - Biochemistry panel and hematology.
+  - Cardiac CT Angiography.
+
+- **Referral:**
+  - Refer to Dr. Emily Chen, Cardiologist, for further evaluation and management of chest pain.
+
+- **Follow-up:**
+  - Patient to follow up with Cardiology within 3–5 business days.
+  
+- **Patient Education and Counseling:**
+  - Advise discontinuation of ibuprofen and continued Tylenol as needed.
+  - Educate on importance of cardiology follow-up.
+  - Discuss lifestyle modifications to reduce risk factors for cardiovascular disease.
+  
+- **Patient Agreements:**
+  - Patient agrees to the treatment plan and follow-up with Cardiology.
+
+---
+
+**Signature:**
+Dr. Emily Chen, MD
+Emergency Room Physician
+[Date]"|ablation|Emergency Room Physician|"Here is the conversation between the doctor and the patient that led to the medical note:
+
+Doctor: Hi, Mr. Doe. How are you feeling today?
+Patient: Hi, doc. I'm not feeling too great. I've got a sharp pain in my chest that started a couple of hours ago.
+Doctor: I see. Can you describe the pain to me? Is it constant or does it come and go?
+Patient: It's constant, doc. It's pretty severe and it's stopping me from doing anything.
+Doctor: Okay, I understand. Have you experienced any other symptoms like shortness of breath or dizziness?
+Patient: Yeah, I'm feeling a bit short of breath and a bit dizzy.
+Doctor: Okay. Have you had any nausea, vomiting, or abdominal pain?
+Patient: No, none of that.
+Doctor: Alright. Can you tell me a bit about your medical history? Do you have any conditions that I should know about?
+Patient: Yeah, I've got high blood pressure and high cholesterol. I'm on Atorvastatin and Losartan for that.
+Doctor: Okay, that's helpful to know. Have you noticed any palpitations or irregular heartbeats?
+Patient: Yeah, I have. My heart feels like it's racing sometimes.
+Doctor: Okay. Let's take a look at your vitals. (takes vitals) Okay, your blood pressure is a bit high at 160/95 and your heart rate is 90. 
+Patient: Yeah, I've been feeling like my heart is beating pretty fast.
+Doctor: Okay. Let's do a physical exam. (performs physical exam) Okay, your lungs sound clear and your heart sounds regular. I don't hear any murmurs. 
+Patient: Okay, that's good to know.
+Doctor: Yeah. I'm also going to order some tests to help figure out what's going on. We'll do a complete metabolic profile, CBC, coagulation studies, and cardiac enzymes. We'll also do a cardiac CT angiography.
+Patient: Okay, sounds like a plan.
+Doctor: Yeah, it is. I want to make sure we cover all our bases. I'm also going to give you some aspirin to take right away in case you might be having a heart attack.
+Patient: Okay, got it.
+Doctor: And I want you to follow up with cardiology in a few days to make sure everything is okay.
+Patient: Sounds good. What about my ibuprofen and Tylenol? Should I still take those?
+Doctor: Yeah, you can still take Tylenol as needed, but let's hold off on the ibuprofen for now.
+Patient: Okay, got it.
+Doctor: And I want to talk to you about making some lifestyle changes to reduce your risk factors for heart disease. We can discuss that more when you come in for your follow-up.
+Patient: Sounds good. Thanks, doc.
+Doctor: You're welcome, Mr. Doe. Just take it easy for now and we'll get you fixed up."|"Here is the conversation with some additional chit-chats and modal particles:
+
+[doctor]: Hi, Mr. Doe. How are you feeling today?
+[patient]: Hi, doc. I'm not feeling too great. I've got a sharp pain in my chest that started a couple of hours ago.
+[doctor]: Hmm, okay. Can you describe the pain to me? Is it constant or does it come and go?
+[patient]: Yeah, it's constant, doc. It's pretty severe and it's stopping me from doing anything.
+[doctor]: Okay, I understand. That sounds pretty uncomfortable. Have you experienced any other symptoms like shortness of breath or dizziness?
+[patient]: Yeah, I'm feeling a bit short of breath and a bit dizzy. Yeah, it's pretty scary.
+[doctor]: Okay, don't worry, we'll get to the bottom of this. Have you had any nausea, vomiting, or abdominal pain?
+[patient]: No, none of that. Just the chest pain and the shortness of breath.
+[doctor]: Alright. Can you tell me a bit about your medical history? Do you have any conditions that I should know about?
+[patient]: Yeah, I've got high blood pressure and high cholesterol. I'm on Atorvastatin and Losartan for that.
+[doctor]: Okay, that's helpful to know. Yes, we'll definitely take that into consideration. Have you noticed any palpitations or irregular heartbeats?
+[patient]: Yeah, I have. My heart feels like it's racing sometimes. It's pretty weird.
+[doctor]: Okay, I see. Let's take a look at your vitals. (takes vitals) Okay, your blood pressure is a bit high at 160/95 and your heart rate is 90. 
+[patient]: Yeah, I've been feeling like my heart is beating pretty fast. Is that bad?
+[doctor]: Well, it's not ideal, but we'll get it under control. Let's do a physical exam. (performs physical exam) Okay, your lungs sound clear and your heart sounds regular. I don't hear any murmurs. 
+[patient]: Okay, that's good to know. What's next?
+[doctor]: Yeah, I'm also going to order some tests to help figure out what's going on. We'll do a complete metabolic profile, CBC, coagulation studies, and cardiac enzymes. We'll also do a cardiac CT angiography. Okay?
+[patient]: Okay, sounds like a plan. What's the goal of all these tests?
+[doctor]: Yeah, we just want to make sure we cover all our bases. I'm also going to give you some aspirin to take right away in case you might be having a heart attack. Okay?
+[patient]: Okay, got it. Aspirin, right away.
+[doctor]: And I want you to follow up with cardiology in a few days to make sure everything is okay. Can you do that for me?
+[patient]: Yeah, no problem. What about my ibuprofen and Tylenol? Should I still take those?
+[doctor]: Yeah, you can still take Tylenol as needed, but let's hold off on the ibuprofen for now. Okay?
+[patient]: Okay, got it. So, just Tylenol for now.
+[doctor]: That's right. And I want to talk to you about making some lifestyle changes to reduce your risk factors for heart disease. We can discuss that more when you come in for your follow-up. Sound good?
+[patient]: Sounds good. Thanks, doc. I feel a bit better now.
+[doctor]: You're welcome, Mr. Doe. Just take it easy for now and we'll get you fixed up. Okay?"
+CHEST PAIN, UNSPECIFIED|"ROLE: Cardiologist
+
+**Medical Outcome:**  
+- Diagnosis: Chest Pain, Unspecified (ICD-10 code R07.2)  
+- Prescribed Medication: Aspirin 81 mg, Oral, Once daily, 30 tablets.  
+- Referral to Specialist: Cardiology, Dr. Jane Doe, for further evaluation and possible coronary angiography.  
+- Order for Blood Work: Biochemistry panel, lipid profile, cardiac enzymes (CK, CK-MB, troponins).
+
+**Medical History:**  
+- Previous Diagnoses: Hypertension, Hyperlipidemia  
+- Medication History: Atorvastatin 40 mg, Amlodipine 10 mg, Metoprolol 50 mg  
+- Family Medical History: Father with history of ischemic heart disease  
+- Chronic Conditions: Hypertension, Hyperlipidemia  
+
+**Symptom Description:**  
+- Severity: Moderate  
+- Duration: Several weeks  
+- Associated Symptoms: Occasional shortness of breath  
+- Frequency: Intermittent  
+- Impact on Daily Activities: Mild, affects exercise routine  
+
+**Patient’s Self-Reported Habits and Lifestyle:**  
+- Sleep: 7 hours per night, occasional difficulty falling asleep  
+- Diet: Moderately balanced, occasional fast food  
+- Exercise: Walks for 20 minutes daily  
+- Tobacco Use: Former smoker (quit 5 years ago)  
+- Alcohol Consumption: One glass of wine per day occasionally  
+
+**Demographic Information:**  
+- Age: 58  
+- Gender: Male  
+- Ethnicity: Caucasian  
+- Socio-economic Status: Middle Class  
+- Education Level: College Degree  
+- Health Literacy: High  
+- Job Status: Employed full-time  
+
+**Patient's Behavior:**  
+- Cooperative with medical advice  
+
+**Geographical Location:**  
+- Rural  
+- Pollution: Low  
+- Neighborhood Type: Affluent  
+
+**Clinical Setting:**  
+- Clinic  
+
+**Type of Encounter:**  
+- Follow-up  
+
+**Treatment Disparities:**  
+- None noted  
+
+**Native or Non-Native English Speaking Patient:**  
+- Native  
+
+**Physical Exams:**  
+- BP: 130/85 mmHg  
+- Heart sounds: Regular rate and rhythm, no murmurs  
+- Lung sounds: Clear bilaterally  
+
+**Investigation/Test Results:**  
+- Recent ECG: Normal sinus rhythm, no ST-segment abnormalities or T-wave inversions. Test results awaiting for Lipids, Troponins, BNP."|"**Subjective**
+
+Chief Complaint: Chest pain.
+
+History of Present Illness: John Smith, a 58-year-old Caucasian male, presented to the clinic for evaluation of chest pain. The patient reports experiencing intermittent chest pain for several weeks. He describes it as a moderate severity with no specific pattern but often occurring during physical activity. The chest pain is not associated with specific triggers or positional changes. He also mentions occasional shortness of breath, which occurs intermittently. The pain does not radiate and is relieved with rest. The patient reports that the pain affects his ability to engage in his regular exercise routine, but otherwise, does not significantly impact his daily activities.
+
+Review of Systems:
+- **Cardiovascular**: Positive for chest pain, occasional shortness of breath.
+- **Pulmonary**: No cough, no hemoptysis.
+- **Neurological**: No headaches, dizziness, or syncope.
+- **Gastrointestinal**: No nausea, vomiting, or abdominal pain.
+- **Musculoskeletal:** No joint pain or swelling.
+
+Personal Habits and Lifestyle:
+- Sleep: 7 hours per night, with occasional difficulty falling asleep.
+- Diet: Moderately balanced diet, with occasional fast food consumption.
+- Exercise: Walks for 20 minutes daily.
+- Tobacco Use: Former smoker (quit 5 years ago).
+- Alcohol Consumption: One glass of wine occasionally.
+
+Social History:
+- Lives alone, affluent neighborhood, low pollution, employed full-time, college-educated, high health literacy.
+
+**Objective**
+
+Vital Signs: 
+- BP: 130/85 mmHg.
+
+Physical Exam:
+- HEENT: Unremarkable.
+- Cardiovascular: Heart sounds regular rate and rhythm, no murmur detected.
+- Pulmonary: Clear breath sounds bilaterally, without wheezes, rales, or rhonchi.
+- Abdomen: Soft, non-tender, non-distended.
+- Extremities: No peripheral edema, strong radial and femoral pulses bilaterally.
+- Skin: Intact, no rashes or lesions.
+- Neurological: Cranial nerves II-XII intact, normal motor and sensory function, reflexes 2+ and symmetric.
+
+Investigations/Test Results:
+- ECG: Normal sinus rhythm, no ST-segment abnormalities, or T-wave inversions.
+- Lipid Panel: Pending.
+- Troponin Levels: Pending.
+
+**Assessment**
+
+1. Chest Pain, Unspecified (ICD-10 code R07.2)
+2. Hypertension (ICD-10 code I10)
+3. Hyperlipidemia (ICD-10 code E78)
+
+**Plan**
+
+1. Start aspirin 81 mg oral once daily (30 tablets). Advise the patient to take with meals.
+2. Refer to Dr. Jane Doe for further evaluation and possible coronary angiography.
+3. Order blood work for biochemistry panel, lipid profile, and cardiac enzymes (CK, CK-MB, troponin levels).
+4. Continue current medications:  
+   - Atorvastatin 40 mg once daily.
+   - Amlodipine 10 mg once daily.
+   - Metoprolol 50 mg twice daily.
+5. Encourage lifestyle modifications to reduce risk factors, such as maintaining a balanced diet and regular physical activity, while avoiding excessive exertion until further assessment.
+6. Schedule a follow-up appointment in one week to review blood work results and reassess symptoms.
+
+John Smith was cooperative with the recommendations and understanding of the plan moving forward."|"**Subjective**
+
+Chief Complaint: Chest pain.
+
+History of Present Illness: John Smith, a 58-year-old Caucasian male, presented to the clinic for evaluation of chest pain. The patient reports experiencing intermittent chest pain for several weeks. He describes it as a moderate severity with no specific pattern but often occurring during physical activity. The chest pain is not associated with specific triggers or positional changes. He also mentions occasional shortness of breath, which occurs intermittently. The pain does not radiate and is relieved with rest. The pain affects his ability to engage in his regular exercise routine, but otherwise, does not significantly impact his daily activities.
+
+Review of Systems:
+- **Cardiovascular**: Positive for chest pain, occasional shortness of breath.
+- **Pulmonary**: No cough, no hemoptysis.
+- **Neurological**: No headaches, dizziness, or syncope.
+- **Gastrointestinal**: No nausea, vomiting, or abdominal pain.
+- **Musculoskeletal:** No joint pain or swelling.
+
+Personal Habits and Lifestyle:
+- Sleep: 7 hours per night, with occasional difficulty falling asleep.
+- Diet: Moderately balanced diet, with occasional fast food consumption.
+- Exercise: Walks for 20 minutes daily.
+- Tobacco Use: Former smoker (quit 5 years ago).
+- Alcohol Consumption: One glass of wine occasionally.
+
+Social History:
+- Lives alone, affluent neighborhood, low pollution, employed full-time, college-educated, high health literacy.
+
+**Objective**
+
+Vital Signs: 
+- BP: 130/85 mmHg.
+
+Physical Exam:
+- HEENT: Unremarkable.
+- Cardiovascular: Heart sounds regular rate and rhythm, no murmur detected.
+- Pulmonary: Clear breath sounds bilaterally, without wheezes, rales, or rhonchi.
+- Abdomen: Soft, non-tender, non-distended.
+- Extremities: No peripheral edema, strong radial and femoral pulses bilaterally.
+- Skin: Intact, no rashes or lesions.
+- Neurological: Cranial nerves II-XII intact, normal motor and sensory function, reflexes 2+ and symmetric.
+
+Investigations/Test Results:
+- ECG: Normal sinus rhythm, no ST-segment abnormalities, or T-wave inversions.
+- Lipid Panel: Pending.
+- Troponin Levels: Pending.
+
+**Assessment**
+
+1. Chest Pain, Unspecified (ICD-10 code R07.2)
+2. Hypertension (ICD-10 code I10)
+3. Hyperlipidemia (ICD-10 code E78)
+
+**Plan**
+
+1. Order blood work for biochemistry panel, lipid profile, and cardiac enzymes (CK, CK-MB, troponin levels).
+2. Start aspirin 81 mg oral once daily (30 tablets). Advise the patient to take with meals.
+3. Refer to Dr. Jane Doe, Cardiologist, for further evaluation and possible coronary angiography due to chest pain.
+4. Continue current medications:  
+   - Atorvastatin 40 mg once daily.
+   - Amlodipine 10 mg once daily.
+   - Metoprolol 50 mg twice daily.
+5. Encourage lifestyle modifications to reduce risk factors, such as maintaining a balanced diet and regular physical activity, while avoiding excessive exertion until further assessment.
+6. Schedule a follow-up appointment in one week to review blood work results and reassess symptoms.
+
+John Smith was cooperative with the recommendations and understanding of the plan moving forward."|ablation|Cardiologist|"Here is the conversation between the doctor and the patient that led to the medical note:
+
+Doctor: Hi John, thanks for coming in today. Can you tell me a little bit about what brings you here?
+
+Patient: Hi doc, thanks for seeing me. Yeah, I've been having some chest pain for a few weeks now. It's been intermittent, but it's really been bothering me.
+
+Doctor: I see. Can you describe the pain to me? Is it sharp, dull, or more of a pressure?
+
+Patient: It's more of a moderate pain, I'd say. It doesn't really have a specific pattern, but it seems to happen more when I'm active.
+
+Doctor: Okay, got it. And does it radiate anywhere? Like, does it go to your arm or jaw?
+
+Patient: No, it doesn't really radiate. It just kind of stays in my chest.
+
+Doctor: Alright. And how often do you experience this pain?
+
+Patient: It's intermittent, like I said. Some days it's worse than others.
+
+Doctor: Okay. And do you have any shortness of breath or difficulty breathing when this happens?
+
+Patient: Yeah, sometimes. Not always, but sometimes.
+
+Doctor: Okay, that's helpful to know. Now, can you tell me a little bit about your medical history? Have you had any major illnesses or surgeries?
+
+Patient: No, nothing major. I did used to smoke, but I quit about 5 years ago.
+
+Doctor: Great job quitting smoking! That's a big accomplishment. And what about your family history? Any heart problems or anything like that?
+
+Patient: No, nothing that I know of.
+
+Doctor: Okay. And what's your typical day like? Do you work, exercise, that kind of thing?
+
+Patient: Yeah, I work full-time and try to walk for about 20 minutes a day.
+
+Doctor: That's great. And do you have any other symptoms besides the chest pain and shortness of breath? Like, do you have any headaches or dizziness?
+
+Patient: No, nothing like that.
+
+Doctor: Okay. Now, I'm going to take a look at your vitals. (takes vitals) Okay, your blood pressure is a little high, but not too bad.
+
+Patient: Yeah, I've been meaning to get that checked.
+
+Doctor: (smiling) Well, now's a good time to do it. (both laugh) Okay, so I'm going to do a quick physical exam. (performs physical exam) Okay, everything looks good. Your heart sounds good, lungs are clear...
+
+Patient: (interrupting) Sorry, doc, what's that thing you're listening to?
+
+Doctor: (smiling) Just your heart. I'm making sure it's beating properly.
+
+Patient: Oh, okay.
+
+Doctor: (continuing) And your lungs are clear, no problems there. (finishes exam) Okay, now I'm going to order some blood work to check your cholesterol and some other things.
+
+Patient: Okay, sounds good.
+
+Doctor: And I'm also going to refer you to a specialist, just to get a second opinion on this chest pain.
+
+Patient: Okay, that sounds like a good idea.
+
+Doctor: Yeah, I think it's always good to be safe. Now, I'm going to give you a prescription for some aspirin. Can you take that with meals?
+
+Patient: Yeah, no problem.
+
+Doctor: Great. And I'm going to advise you to keep taking your current medications and we'll follow up on those blood tests in about a week.
+
+Patient: Sounds like a plan.
+
+Doctor: (smiling) Yeah, I think we've got a good start here. And don't forget to take it easy for a bit, okay? No excessive exertion until we figure out what's going on.
+
+Patient: Will do, doc. Thanks for your help.
+
+Doctor: No problem, John. I'll see you in a week and we'll go from there."|"Here is the conversation with more colloquial language for the patient and professional details for the doctor:
+
+[doctor]: Hi John, thanks for coming in today. Can you tell me a little bit about what brings you here?
+
+[patient]: Hey doc, thanks for seeing me. Yeah, I've been having some chest pain for a few weeks now. It's been intermittent, but it's really been bothering me, you know?
+
+[doctor]: I see. Can you describe the pain to me? Is it sharp, dull, or more of a pressure? And can you rate the severity for me, on a scale of 1 to 10?
+
+[patient]: Hmm, it's more of a moderate pain, I'd say. Like, maybe a 6 or 7 out of 10. It doesn't really have a specific pattern, but it seems to happen more when I'm active, like when I'm walking or something.
+
+[doctor]: Okay, got it. And does it radiate anywhere? Like, does it go to your arm or jaw? And have you noticed any triggers that make it worse?
+
+[patient]: No, it doesn't really radiate. It just kind of stays in my chest. And, yeah, I guess it's worse when I'm exerting myself, like when I'm walking uphill or something.
+
+[doctor]: Alright. And how often do you experience this pain? Is it daily, or more sporadic?
+
+[patient]: It's intermittent, like I said. Some days it's worse than others. But, yeah, I'd say it's been happening pretty regularly, like, a few times a week.
+
+[doctor]: Okay. And do you have any shortness of breath or difficulty breathing when this happens? And have you noticed any other symptoms, like palpitations or dizziness?
+
+[patient]: Yeah, sometimes. Not always, but sometimes. And, no, I don't think I've had any other symptoms, really.
+
+[doctor]: Okay, that's helpful to know. Now, can you tell me a little bit about your medical history? Have you had any major illnesses or surgeries? And what about your family history? Any heart problems or anything like that?
+
+[patient]: No, nothing major. I did used to smoke, but I quit about 5 years ago. And, yeah, my family's been pretty healthy, I think.
+
+[doctor]: Great job quitting smoking! That's a big accomplishment. And what about your lifestyle? Do you work, exercise, that kind of thing? And what's your typical diet like?
+
+[patient]: Yeah, I work full-time and try to walk for about 20 minutes a day. And, yeah, I eat pretty okay, I guess. I mean, I try to eat a balanced diet, but I do like fast food every now and then.
+
+[doctor]: That's great. And do you have any other symptoms besides the chest pain and shortness of breath? Like, do you have any headaches or dizziness?
+
+[patient]: No, nothing like that.
+
+[doctor]: Okay. Now, I'm going to take a look at your vitals. (takes vitals) Okay, your blood pressure is 130/85 mmHg, which is a bit elevated. And your heart rate is 72 beats per minute.
+
+[patient]: Yeah, I've been meaning to get that checked.
+
+[doctor]: (smiling) Well, now's a good time to do it. (both laugh) Okay, so I'm going to do a quick physical exam. (performs physical exam) Okay, everything looks good. Your heart sounds good, lungs are clear... (uses stethoscope to listen to patient's heart and lungs)
+
+[patient]: (interrupting) Sorry, doc, what's that thing you're listening to?
+
+[doctor]: (smiling) Just your heart. I'm making sure it's beating properly, and that there are no murmurs or other abnormal sounds. And your lungs are clear, no wheezes or rales.
+
+[patient]: Oh, okay.
+
+[doctor]: (continuing) And I'm also going to order some blood work to check your cholesterol, lipid profile, and cardiac enzymes, like troponin levels. And I'm going to refer you to a specialist, just to get a second opinion on this chest pain.
+
+[patient]: Okay, sounds good.
+
+[doctor]: And I'm going to give you a prescription for some aspirin, 81 mg once daily. Can you take that with meals?
+
+[patient]: Yeah, no problem.
+
+[doctor]: Great. And I'm going to advise you to keep taking your current medications, including your atorvastatin, amlodipine, and metoprolol. And we'll follow up on those blood tests in about a week.
+
+[patient]: Sounds like a plan.
+
+[doctor]: (smiling) Yeah, I think we've got a good start here. And don't forget to take it easy for a bit, okay? No excessive exertion until we figure out what's going on. I want to see you back here in a week to review those test results and reassess your symptoms.
+
+[patient]: Will do, doc. Thanks for your help.
+
+[doctor]: No problem, John. I'll see you in a week and we'll go from there."
+CHEST PAIN, UNSPECIFIED|"ROLE: Family Medicine Physician
+
+**MEDICAL OUTCOME:**  
+Order for Blood Work: Biochemistry and Hematology  
+Order for Imaging: Chest X-Ray  
+Referral to Specialist: Cardiologist for Further Evaluation  
+Prescribing Medication: Aspirin, 
+    * Dose: 81 mg, 
+    * Units: mg, 
+    * Frequency: Once daily, 
+    * Duration: Indefinite, 
+    * Quantity: 30 tablets, 
+    * Route: Oral
+
+**MEDICAL HISTORY:**  
+Previous Diagnoses: Controlled Hypertension  
+Chronic Conditions: Hyperlipidemia  
+Medication History: Taking Lipitor 20 mg daily for hypertension management  
+Allergies: None reported
+
+**SYMPTOM DESCRIPTION:**  
+Severity: Mild to moderate  
+Duration: Lasts for about 2 hours after physical exertion  
+Associated Symptoms: Shortness of Breath  
+Frequency: Occurs 2-3 times per week  
+Impact on Daily Activities: Limits ability to perform strenuous activities
+
+**PATIENT'S SELF-REPORTED HABITS AND LIFESTYLE:**  
+Sleep: Reports adequate sleep but wakes up frequently at night  
+Diet: High-fat diet  
+Exercise: Lacks regular exercise routine  
+Tobacco Use: Non-smoker  
+Alcohol Consumption: Social drinker, consumes alcohol on weekends  
+
+**DEMOGRAPHIC INFORMATION:**  
+Age: 60 years  
+Gender: Male  
+Ethnicity: Caucasian  
+Socioeconomic Status: Middle Class  
+Education Level: College Degree  
+Health Literacy: Good  
+Job Status: Retired
+
+**PATIENT’S BEHAVIOR:**  
+Cooperative and willing to make lifestyle changes
+
+**GEOGRAPHICAL LOCATION:**  
+Urban area, good access to healthcare facilities  
+Pollution: Low  
+Environmental Health Risks: NA  
+Neighborhood Type: Middle-Class Suburb  
+Well-served by Transit: Yes  
+Food Desert: No
+
+**CLINICAL SETTING:**  
+Private Practice Office Visit
+
+**TYPE OF ENCOUNTER:**  
+Initial Consultation
+
+**TREATMENT DISPARITIES:**  
+No evidence of disparities in current treatment offered
+
+**NATIVE OR NON-NATIVE ENGLISH SPEAKER:**  
+Native English Speaker
+
+**PHYSICAL EXAMS:**  
+Blood Pressure: Systolic 130 mmHg, Diastolic 85 mmHg  
+Respiratory: Lungs clear to auscultation  
+Cardiovascular: Mild Systolic Murmur Present  
+Gastrointestinal: Soft, non-tender abdomen  
+
+**INVESTIGATION/TEST RESULTS:**  
+Awaiting Chest X-Ray and Blood Tests (Biochemistry and Hematology)"|"**SUBJECTIVE**
+
+**Chief Complaint (CC):**
+Mild to moderate shortness of breath occurring 2-3 times per week lasting for about 2 hours after physical exertion.
+
+**History of Present Illness (HPI):**
+Mr. James Thompson, a 60-year-old Caucasian male, presents today for an initial consultation concerning his recent episodes of shortness of breath that occur during physical exertion. These episodes last approximately two hours after strenuous activity and occur 2-3 times per week. He reports that this symptom has been impacting his ability to engage in strenuous activities. His sleep is adequate but he wakes up frequently throughout the night. He mentions that his daily diet consists of high-fat foods, and although he is a non-smoker, he drinks socially on weekends. He lacks a consistent exercise regimen.
+
+**Review of Systems (ROS):**
+- **Ears, Nose, and Throat:** No nasal congestion, no throat pain.
+- **Cardiovascular:** Reports mild shortness of breath on exertion; denies chest pain or palpitations.
+- **Respiratory:** Denies cough, sputum production, or wheezing.
+- **Gastrointestinal:** Reports no nausea, vomiting, or abdominal discomfort.
+- **Neurological:** No dizziness, headache, or confusion.
+- **Psychiatric:** No new mental health concerns noted.
+
+**OBJECTIVE**
+
+- **Vitals:**
+  - Blood Pressure: Systolic 130 mmHg, Diastolic 85 mmHg
+  - Heart Rate: Normal
+  - Respiratory Rate: Normal
+  - Oxygen Saturation: 96% on room air
+  - Temperature: Normal
+
+- **Physical Examination:**
+  - **General Appearance:** Alert and oriented, no distress
+  - **Neurological:** Mental status is intact.
+  - **Respiratory:** Lungs clear to auscultation bilaterally, no wheezing, rhonchi, or crackles.
+  - **Cardiovascular:** Heart rate regular, rhythm regular, mild systolic murmur present.
+  - **Musculoskeletal:** Normal range of motion in all major joints.
+  - **Abdomen:** Soft, non-tender, no masses.
+
+- **Investigation/Tests:**
+  - awaiting chest X-ray and blood tests (biochemistry and hematology)
+
+**ASSESSMENT**
+
+- **Shortness of Breath on Exertion:** Possible underlying cardiovascular etiology, especially given his controlled hypertension and high-fat diet.
+
+- **Controlled Hypertension:** Likely contributing factor to symptoms.
+
+- **Hyperlipidemia:** Management ongoing, but may benefit from further intervention.
+
+**PLAN**
+
+1. **Order and Review:**
+   - Chest X-ray to rule out pulmonary causes.
+   - Comprehensive blood work (biochemistry and hematology) to assess for any hematological or biochemical abnormalities.
+  
+2. **Referral:**
+   - Refer to cardiologist for further evaluation due to possible cardiac cause and mild systolic murmur.
+
+3. **Medication:**
+   - Prescribe aspirin, 81 mg orally, once daily indefinitely (quantity: 30 tablets)
+     - **Purpose:** Primary prevention of cardiovascular events.
+   
+4. **Lifestyle Modifications:**
+   - Encourage regular aerobic exercise tailored to his current fitness level.
+   - Discuss reducing high-fat diet intake and increasing intake of fruits, vegetables, and whole grains.
+   - Advise limiting social drinking to reduce cardiovascular risk factors.
+
+5. **Patient Education:**
+   - Educate the patient on the importance of monitoring blood pressure and adhering to medication regimens.
+   - Provide resources for smoking cessation support even though he does not smoke.
+   - Encourage continued use of Lipitor 20 mg daily for hypertension management.
+
+6. **Follow-Up:**
+   - Schedule a follow-up appointment in one month to review test results and discuss further management plans.
+  
+7. **Patient Agreement:**
+   - Mr. Thompson agrees with the proposed plan and understands the importance of making necessary lifestyle modifications and following up accordingly.
+
+**Patient Agreements:**
+Mr. Thompson agreed with the proposed assessment and plan, including lifestyle modifications and medication adherence."|"**SUBJECTIVE**
+
+**Chief Complaint (CC):**
+Mild to moderate shortness of breath occurring 2-3 times per week lasting for about 2 hours after physical exertion.
+
+**History of Present Illness (HPI):**
+Mr. James Thompson, a 60-year-old Caucasian male, presents today for an initial consultation concerning his recent episodes of shortness of breath that occur during physical exertion. These episodes last approximately two hours after strenuous activity and occur 2-3 times per week. He reports that this symptom has been impacting his ability to engage in strenuous activities. His sleep is adequate but he wakes up frequently throughout the night. He mentions that his daily diet consists of high-fat foods, and although he is a non-smoker, he drinks socially on weekends. He lacks a consistent exercise regimen.
+
+**Review of Systems (ROS):**
+- **Ears, Nose, and Throat:** No nasal congestion, no throat pain.
+- **Cardiovascular:** Reports mild shortness of breath on exertion; denies chest pain or palpitations.
+- **Respiratory:** Denies cough, sputum production, or wheezing.
+- **Gastrointestinal:** Reports no nausea, vomiting, or abdominal discomfort.
+- **Neurological:** No dizziness, headache, or confusion.
+- **Psychiatric:** No new mental health concerns noted.
+
+**OBJECTIVE**
+
+- **Vitals:**
+  - Blood Pressure: Systolic 130 mmHg, Diastolic 85 mmHg
+  - Heart Rate: Normal
+  - Respiratory Rate: Normal
+  - Oxygen Saturation: 96% on room air
+  - Temperature: Normal
+
+- **Physical Examination:**
+  - **General Appearance:** Alert and oriented, no distress
+  - **Neurological:** Mental status is intact.
+  - **Respiratory:** Lungs clear to auscultation bilaterally, no wheezing, rhonchi, or crackles.
+  - **Cardiovascular:** Heart rate regular, rhythm regular, mild systolic murmur present.
+  - **Musculoskeletal:** Normal range of motion in all major joints.
+  - **Abdomen:** Soft, non-tender, no masses.
+
+**ASSESSMENT**
+
+- **Shortness of Breath on Exertion:** Possible underlying cardiovascular etiology, especially given his controlled hypertension and high-fat diet.
+- **Controlled Hypertension:** Likely contributing factor to symptoms.
+- **Hyperlipidemia:** Management ongoing, but may benefit from further intervention.
+
+**PLAN**
+
+1. **Order and Review:**
+   - Chest X-ray to rule out pulmonary causes.
+   - Comprehensive blood work (biochemistry and hematology) to assess for any hematological or biochemical abnormalities.
+
+2. **Referral:**
+   - Refer to Dr. Emily Carter, Cardiologist, for further evaluation due to possible cardiac cause and mild systolic murmur.
+
+3. **Medication:**
+   - Prescribe aspirin, 81 mg orally, once daily indefinitely (quantity: 30 tablets)
+     - **Purpose:** Primary prevention of cardiovascular events.
+
+4. **Lifestyle Modifications:**
+   - Encourage regular aerobic exercise tailored to his current fitness level.
+   - Discuss reducing high-fat diet intake and increasing intake of fruits, vegetables, and whole grains.
+   - Advise limiting social drinking to reduce cardiovascular risk factors.
+
+5. **Patient Education:**
+   - Educate the patient on the importance of monitoring blood pressure and adhering to medication regimens.
+   - Provide resources for smoking cessation support even though he does not smoke.
+   - Encourage continued use of Lipitor 20 mg daily for hypertension management.
+
+6. **Follow-Up:**
+   - Schedule a follow-up appointment in one month to review test results and discuss further management plans.
+
+7. **Patient Agreement:**
+   - Mr. Thompson agrees with the proposed plan and understands the importance of making necessary lifestyle modifications and following up accordingly."|ablation|Family Medicine Physician|"Here is the conversation between the doctor and the patient:
+
+Doctor: Good morning, Mr. Thompson. How are you feeling today?
+Patient: I'm feeling a bit short of breath, especially after I exert myself.
+Doctor: I see. Can you tell me more about when this shortness of breath started and how often it happens?
+Patient: Well, it started a few months ago, and it happens about 2-3 times a week, usually after I've been doing something strenuous.
+Doctor: Okay, that's helpful to know. Have you noticed any other symptoms, like chest pain or palpitations?
+Patient: No, just the shortness of breath.
+Doctor: Alright. And do you have any medical conditions that we should be aware of?
+Patient: I have high blood pressure, but it's controlled with medication.
+Doctor: Okay, that's good. And what about your diet? Do you eat a lot of fatty foods?
+Patient: Yeah, I do. I know I should probably cut back on that.
+Doctor: That's a good idea. And do you exercise regularly?
+Patient: Not as much as I should. I don't really have a consistent routine.
+Doctor: Okay, we can work on that. And what about smoking? Do you smoke?
+Patient: No, I don't smoke, but I do drink socially on weekends.
+Doctor: Alright. Well, let's take a look at your vitals and do a physical exam.
+Patient: Okay.
+Doctor: (after exam) Your blood pressure is a bit high, but it's not alarming. And your lungs sound clear. I'm going to order some tests, including a chest X-ray and some blood work, to rule out any underlying conditions.
+Patient: Okay, that sounds good.
+Doctor: And I'm also going to refer you to a cardiologist to take a closer look at your heart.
+Patient: Alright, that makes sense.
+Doctor: In the meantime, I want you to start taking aspirin daily to help prevent any cardiovascular events.
+Patient: Okay, got it.
+Doctor: And I want you to try to reduce your fat intake and increase your exercise. Even just a short walk each day can help.
+Patient: Yeah, I can do that.
+Doctor: Great. And let's schedule a follow-up appointment in a month to review your test results and discuss further management plans.
+Patient: Sounds good.
+Doctor: And just one more thing - I want you to keep taking your Lipitor for your high blood pressure.
+Patient: Okay, will do.
+Doctor: Alright, Mr. Thompson, I think that's all for today. Do you have any questions for me?
+Patient: No, I think that covers everything.
+Doctor: Great. I'll see you in a month then.
+Patient: Looking forward to it.
+Doctor: Me too. Take care, Mr. Thompson.
+Patient: You too, doctor. Bye."|"Here is the conversation with more colloquial language for the patient and professional details for the doctor:
+
+[Doctor]: Good morning, Mr. Thompson. How are you feeling today?
+[Patient]: Hmm, I'm feeling a bit out of breath, especially after I exert myself. Yeah, it's been bothering me for a while now.
+[Doctor]: I see. Can you tell me more about when this shortness of breath started and how often it happens? Is it always after physical activity?
+[Patient]: Yeah, that's right. It started a few months ago, and it happens about 2-3 times a week, usually after I've been doing something strenuous, like playing sports or lifting heavy stuff.
+[Doctor]: Okay, that's helpful to know. Your blood pressure is 130/85 mmHg, and your heart rate is normal. Have you noticed any other symptoms, like chest pain or palpitations?
+[Patient]: No, just the shortness of breath. It's pretty annoying, to be honest.
+[Doctor]: Alright. And do you have any medical conditions that we should be aware of? You're 60 years old, and you have a history of controlled hypertension, correct?
+[Patient]: Yeah, that's right. I've been taking medication for my high blood pressure.
+[Doctor]: Okay, that's good. And what about your diet? Do you eat a lot of fatty foods? Your lipid profile shows that you have high levels of LDL cholesterol.
+[Patient]: Yeah, I do. I know I should probably cut back on that. I love burgers and fries, though.
+[Doctor]: That's a good idea. And do you exercise regularly? We should aim for at least 30 minutes of moderate-intensity aerobic exercise per day.
+[Patient]: Not as much as I should. I don't really have a consistent routine. Maybe I'll go for a walk or something, but it's not often enough.
+[Doctor]: Okay, we can work on that. And what about smoking? Do you smoke? You're not a smoker, but do you drink socially on weekends?
+[Patient]: No, I don't smoke, but I do drink socially on weekends. Just a few beers with friends, you know?
+[Doctor]: Alright. Well, let's take a look at your vitals and do a physical exam. Your oxygen saturation is 96% on room air, and your respiratory rate is normal.
+[Patient]: Okay.
+[Doctor]: (after exam) Your blood pressure is a bit high, but it's not alarming. And your lungs sound clear. I'm going to order some tests, including a chest X-ray and some blood work, to rule out any underlying conditions like pulmonary embolism or heart failure.
+[Patient]: Okay, that sounds good. What kind of blood work are you going to do?
+[Doctor]: We'll do a comprehensive metabolic panel, including biochemistry and hematology, to assess for any hematological or biochemical abnormalities.
+[Patient]: Alright, got it.
+[Doctor]: And I'm also going to refer you to a cardiologist to take a closer look at your heart. We'll schedule an appointment for you to see a specialist.
+[Patient]: Alright, that makes sense. I guess it's better to be safe than sorry.
+[Doctor]: Exactly. In the meantime, I want you to start taking aspirin daily, 81 mg orally, once daily indefinitely, to help prevent any cardiovascular events.
+[Patient]: Okay, got it. So, like, one aspirin a day?
+[Doctor]: That's right. And I want you to try to reduce your fat intake and increase your exercise. Even just a short walk each day can help. We can discuss a more detailed exercise plan at your follow-up appointment.
+[Patient]: Yeah, I can do that. I'll try to cut back on the burgers and fries.
+[Doctor]: Great. And let's schedule a follow-up appointment in a month to review your test results and discuss further management plans.
+[Patient]: Sounds good. So, I'll come back in a month and we'll go from there?
+[Doctor]: That's right. And just one more thing - I want you to keep taking your Lipitor, 20 mg daily, for your high blood pressure.
+[Patient]: Okay, will do. So, I'll just keep taking that as usual?
+[Doctor]: Exactly. Alright, Mr. Thompson, I think that's all for today. Do you have any questions for me?
+[Patient]: No, I think that covers everything. Thanks, doc!
+[Doctor]: Great. I'll see you in a month then. Take care, Mr. Thompson.
+[Patient]: You too, doctor. Bye."
+CHEST PAIN, UNSPECIFIED|"ROLE: Family Medicine Physician
+
+** Medical Outcome:**
+- Diagnosis: Gastroesophageal Reflux Disease (GERD) (ICD-10: K21)
+- Prescribed Treatment: Omeprazole 20 mg orally once daily for 4 weeks.
+- Follow-Up Recommendations: Schedule a follow-up appointment in 4 weeks to reassess symptoms and consider discontinuation or continuation of medication.
+- Orders: Order blood work for CMP, Hemoglobin A1c.
+- Imaging: Schedule an Upper GI Endoscopy.
+
+** Medical History:**
+- Previous Diagnoses: Hypertension, Diabetes Mellitus Type 2
+- Medication History: Currently on Lisinopril 20 mg daily for hypertension, Metformin 500 mg twice daily for diabetes
+- Allergies: No known drug allergies
+- Chronic Conditions: Hypertension, Diabetes Mellitus Type 2
+
+** Symptom Description:**
+- Severity: Moderate
+- Duration: Lasting 2 months, worsening over the last week
+- Associated Symptoms: Heartburn after meals, occasional regurgitation, chest discomfort
+- Frequency: Occurs mostly after large meals or lying down
+- Impact on Daily Activities: Limits eating habits, avoiding spicy and fatty foods
+
+** Patient’s Self-Reported Habits and Lifestyle:**
+- Sleep: 7 hours per night, occasional difficulty falling asleep
+- Diet: High-carbohydrate, moderate protein, minimal vegetable intake
+- Exercise: Sedentary lifestyle, no regular exercise routine
+- Tobacco Use: Non-smoker
+- Alcohol Consumption: Occasional drinker, 1-2 drinks per week
+
+** Demographic Information:**
+- Age: 52 years old
+- Gender: Female
+- Ethnicity: African American
+- Socio-economic Status: Middle class, works part-time office job
+- Education Level: High school diploma
+- Health Literacy: Low
+- Job Status: Part-time worker
+
+** Patient's Behavior:**
+- Moderately cooperative but resistant to dietary and lifestyle modifications.
+
+** Geographical Location:**
+- Urban area with good access to transit and healthcare services
+- Low pollution levels
+- Well-served by fresh produce markets
+
+** Clinical Setting:**
+- Private Practice
+
+** Type of Encounter:**
+- Initial consultation due to persistent symptoms
+
+** Treatment Disparities:**
+- Potential for less aggressive treatment due to resistance to lifestyle modifications and perceived compliance issues.
+
+** Native or Non-Native English Speaking Patient:**
+- Native English speaker but limited health literacy and understanding of medical terminology.
+
+** Physical Exams:**
+- Cardiovascular: Regular rhythm, no murmurs
+- Respiratory: Clear bilateral breath sounds
+- Abdomen: Soft, non-tender, no masses detected
+
+** Investigation/Test Results:**
+- CMP and Hemoglobin A1c results awaiting
+- Results of the Upper GI Endoscopy to be scheduled"|"**Subjective**
+
+**Chief Complaint (CC):**
+- 52-year-old female presenting with heartburn after meals and occasional regurgitation, lasting for the past 2 months, worsening over the last week.
+
+**History of Present Illness (HPI):**
+- Patient reports moderate severity heartburn that occurs mostly after large meals or when lying down. She experiences occasional regurgitation and chest discomfort. These symptoms have been present for 2 months and have worsened over the past week. The patient limits her dietary intake, avoiding spicy and fatty foods.
+
+**Review of Systems (ROS):**
+- No significant constitutional symptoms (fever, chills).
+- No respiratory or pulmonary symptoms other than those listed.
+- No abdominal pain, nausea or vomiting, diarrhea, or constipation.
+- No genitourinary symptoms.
+- No neurologic symptoms.
+
+**Patient’s Self-Reported Habits and Lifestyle:**
+- Sleep: 7 hours per night, occasionally difficulty falling asleep.
+- Diet: High-carbohydrate, moderate protein, minimal vegetable intake.
+- Exercise: Sedentary lifestyle, no regular exercise routine.
+- Tobacco Use: Non-smoker.
+- Alcohol Consumption: Occasional drinker (1-2 drinks per week).
+
+**Past Medical History:**
+- Hypertension managed with Lisinopril 20 mg daily.
+- Diabetes Mellitus Type 2 managed with Metformin 500 mg twice daily.
+
+**Allergies:**
+- None reported.
+
+**Medication History:**
+- Lisinopril 20 mg daily.
+- Metformin 500 mg twice daily.
+
+**Social History:**
+- Non-smoker, occasional alcohol use (1-2 drinks per week).
+- Sedentary lifestyle, no regular exercise.
+- Works part-time office job.
+
+**Family History:**
+- Not provided.
+
+**Symptoms Impact:**
+- Limited eating habits, avoiding spicy and fatty foods.
+- Occasional difficulty falling asleep.
+
+---
+
+**Objective**
+
+**Vital Signs:**
+- Blood pressure: 130/85 mm Hg.
+- Heart rate: 72 bpm.
+- Respiratory rate: 16 breaths/min.
+- Temperature: 98.6°F (37°C).
+
+**Physical Examination:**
+- Cardiovascular: Regular rhythm, no murmurs.
+- Respiratory: Clear bilateral breath sounds.
+- Abdomen: Soft, non-tender, no masses detected.
+  
+**Investigation/Test Results:**
+- CMP and Hemoglobin A1c results awaiting.
+- Results of the Upper GI Endoscopy to be scheduled.
+
+---
+
+**Assessment**
+
+- Gastroesophageal Reflux Disease (GERD) – ICD-10: K21.
+- Hypertension.
+- Diabetes Mellitus Type 2.
+
+---
+
+**Plan**
+
+1. **Treatment:**
+   - Prescribe omeprazole 20 mg orally once daily for 4 weeks.
+   
+2. **Follow-Up:**
+   - Schedule a follow-up appointment in 4 weeks to reassess symptoms and consider discontinuation or continuation of omeprazole.
+   
+3. **Orders:**
+   - Order a complete metabolic panel (CMP).
+   - Check Hemoglobin A1c.
+   
+4. **Imaging:**
+   - Schedule an Upper GI Endoscopy.
+
+5. **Education/Lifestyle Modifications:**
+   - Discuss the importance of modifying diet and lifestyle to help manage GERD symptoms. Recommend smaller, more frequent meals, avoiding trigger foods (spicy and fatty foods), and elevating the head of the bed while sleeping.
+   - Encourage regular exercise and improved dietary habits (increase vegetable intake).
+
+6. **Additional Considerations:**
+   - Address potential issues with patient compliance and resistance to lifestyle changes through patient education and counseling.
+
+**Instructions:**
+- Take omeprazole as prescribed.
+- Call the clinic with any questions or if new symptoms arise.
+- Prepare for upcoming tests and appointments.
+
+The patient acknowledges the treatment plan and agrees to follow the recommended steps for improvement."|"**Subjective**
+
+**Chief Complaint (CC):**
+- Ms. Jane Doe, 52-year-old female, presenting with heartburn after meals and occasional regurgitation, lasting for the past 2 months, worsening over the last week.
+
+**History of Present Illness (HPI):**
+- Ms. Doe reports moderate severity heartburn that occurs mostly after large meals or when lying down. She experiences occasional regurgitation and chest discomfort. These symptoms have been present for 2 months and have worsened over the past week. The patient limits her dietary intake, avoiding spicy and fatty foods.
+
+**Review of Systems (ROS):**
+- No significant constitutional symptoms (fever, chills).
+- No respiratory or pulmonary symptoms other than those listed.
+- No abdominal pain, nausea or vomiting, diarrhea, or constipation.
+- No genitourinary symptoms.
+- No neurologic symptoms.
+
+**Patient’s Self-Reported Habits and Lifestyle:**
+- Sleep: 7 hours per night, occasionally difficulty falling asleep.
+- Diet: High-carbohydrate, moderate protein, minimal vegetable intake.
+- Exercise: Sedentary lifestyle, no regular exercise routine.
+- Tobacco Use: Non-smoker.
+- Alcohol Consumption: Occasional drinker (1-2 drinks per week).
+
+**Past Medical History:**
+- Hypertension managed with Lisinopril 20 mg daily.
+- Diabetes Mellitus Type 2 managed with Metformin 500 mg twice daily.
+
+**Allergies:**
+- None reported.
+
+**Medication History:**
+- Lisinopril 20 mg daily.
+- Metformin 500 mg twice daily.
+
+**Social History:**
+- Non-smoker, occasional alcohol use (1-2 drinks per week).
+- Sedentary lifestyle, no regular exercise.
+- Works part-time office job.
+
+**Family History:**
+- Not provided.
+
+**Symptoms Impact:**
+- Limited eating habits, avoiding spicy and fatty foods.
+- Occasional difficulty falling asleep.
+
+---
+
+**Objective**
+
+**Vital Signs:**
+- Blood pressure: 130/85 mm Hg.
+- Heart rate: 72 bpm.
+- Respiratory rate: 16 breaths/min.
+- Temperature: 98.6°F (37°C).
+
+**Physical Examination:**
+- Cardiovascular: Regular rhythm, no murmurs.
+- Respiratory: Clear bilateral breath sounds.
+- Abdomen: Soft, non-tender, no masses detected.
+
+**Investigation/Test Results:**
+- CMP and Hemoglobin A1c results awaiting.
+- Results of the Upper GI Endoscopy to be scheduled.
+
+---
+
+**Assessment**
+
+- Gastroesophageal Reflux Disease (GERD) – ICD-10: K21.
+- Hypertension.
+- Diabetes Mellitus Type 2.
+
+---
+
+**Plan**
+
+1. **Treatment:**
+   - Prescribe omeprazole 20 mg orally once daily for 4 weeks.
+
+2. **Follow-Up:**
+   - Schedule a follow-up appointment in 4 weeks to reassess symptoms and consider discontinuation or continuation of omeprazole.
+
+3. **Orders:**
+   - Order a complete metabolic panel (CMP).
+   - Check Hemoglobin A1c.
+
+4. **Imaging:**
+   - Schedule an Upper GI Endoscopy.
+
+5. **Education/Lifestyle Modifications:**
+   - Discuss the importance of modifying diet and lifestyle to help manage GERD symptoms. Recommend smaller, more frequent meals, avoiding trigger foods (spicy and fatty foods), and elevating the head of the bed while sleeping.
+   - Encourage regular exercise and improved dietary habits (increase vegetable intake).
+
+6. **Additional Considerations:**
+   - Address potential issues with patient compliance and resistance to lifestyle changes through patient education and counseling.
+
+**Instructions:**
+- Take omeprazole as prescribed.
+- Call the clinic with any questions or if new symptoms arise.
+- Prepare for upcoming tests and appointments.
+
+The patient acknowledges the treatment plan and agrees to follow the recommended steps for improvement."|ablation|Family Medicine Physician|"Here is the conversation between the doctor and the patient that led to the medical note:
+
+Doctor: Hi, how are you feeling today?
+Patient: I'm feeling a bit uncomfortable, doc. I've been having this heartburn after meals and occasional regurgitation for the past 2 months, and it's been getting worse over the last week.
+Doctor: I see. Can you tell me more about your symptoms? When do you usually experience this heartburn?
+Patient: It usually happens after I eat a big meal or when I lie down. And sometimes I get this regurgitation, you know, where food comes back up into my throat.
+Doctor: Okay, got it. And how would you rate the severity of your heartburn? Is it mild, moderate, or severe?
+Patient: I'd say it's moderate. It's not debilitating, but it's definitely uncomfortable.
+Doctor: Okay. And have you noticed any other symptoms, like chest pain or difficulty swallowing?
+Patient: No, nothing like that. Just the heartburn and regurgitation.
+Doctor: Alright. Can you tell me a bit about your diet? What do you usually eat?
+Patient: Well, I try to eat pretty normally, I guess. I mean, I don't eat too much spicy or fatty food because that seems to make my heartburn worse.
+Doctor: That's good. And do you exercise regularly?
+Patient: No, I don't really exercise much. I have a pretty sedentary lifestyle.
+Doctor: Okay. And do you smoke or drink alcohol?
+Patient: No, I don't smoke. And I only drink occasionally, like one or two drinks a week.
+Doctor: Alright. Can you tell me about your medical history? Have you had any conditions or taken any medications in the past?
+Patient: Yeah, I have high blood pressure and diabetes. I take Lisinopril for my blood pressure and Metformin for my diabetes.
+Doctor: Okay, got it. And have you had any allergies or reactions to medications in the past?
+Patient: No, I don't think so.
+Doctor: Alright. Now, I'm going to take your vitals. (takes vitals) Okay, your blood pressure is 130/85, your heart rate is 72, and your respiratory rate is 16.
+Patient: Okay...
+Doctor: Now, I'm going to do a physical exam. (performs physical exam) Okay, your cardiovascular and respiratory systems seem normal. And your abdomen is soft and non-tender.
+Patient: Okay...
+Doctor: Now, I'd like to discuss your assessment and plan. It seems like you may have Gastroesophageal Reflux Disease, or GERD. I'd like to prescribe you a medication to help with that.
+Patient: Okay, what's the medication?
+Doctor: It's called omeprazole. I'd like you to take it once daily for 4 weeks.
+Patient: Okay, got it. And what else can I do to help with my symptoms?
+Doctor: Well, I'd recommend avoiding trigger foods like spicy and fatty foods, and eating smaller, more frequent meals. And it might be helpful to elevate the head of your bed while you're sleeping.
+Patient: Okay, that makes sense.
+Doctor: And I'd also like to order some tests to rule out any other conditions. I'll order a complete metabolic panel and check your Hemoglobin A1c.
+Patient: Okay...
+Doctor: And finally, I'd like to schedule a follow-up appointment in 4 weeks to check on your symptoms and see how you're doing.
+Patient: Sounds good. Thank you, doc.
+Doctor: You're welcome. Just take the omeprazole as prescribed, and call us if you have any questions or if your symptoms worsen.
+Patient: Will do. Thanks again!"|"Here is the conversation with some chit chats and modal particles added:
+
+[doctor]: Hi, how are you feeling today?
+[patient]: I'm feeling a bit uncomfortable, doc. I've been having this heartburn after meals and occasional regurgitation for the past 2 months, and it's been getting worse over the last week. Hmm, I don't know what's going on.
+[doctor]: I see. Can you tell me more about your symptoms? When do you usually experience this heartburn? Yes, please go ahead.
+[patient]: It usually happens after I eat a big meal or when I lie down. And sometimes I get this regurgitation, you know, where food comes back up into my throat. It's pretty annoying, yeah.
+[doctor]: Okay, got it. And how would you rate the severity of your heartburn? Is it mild, moderate, or severe? Hmm, can you think about that for a sec?
+[patient]: I'd say it's moderate. It's not debilitating, but it's definitely uncomfortable. Okay, yeah.
+[doctor]: Okay. And have you noticed any other symptoms, like chest pain or difficulty swallowing? Yes, anything like that?
+[patient]: No, nothing like that. Just the heartburn and regurgitation. That's it, really.
+[doctor]: Alright. Can you tell me a bit about your diet? What do you usually eat? Okay, go ahead.
+[patient]: Well, I try to eat pretty normally, I guess. I mean, I don't eat too much spicy or fatty food because that seems to make my heartburn worse. Yeah, that's right.
+[doctor]: That's good. And do you exercise regularly? Hmm, do you?
+[patient]: No, I don't really exercise much. I have a pretty sedentary lifestyle. Yeah, I know I should do more.
+[doctor]: Okay. And do you smoke or drink alcohol? Yes, do you?
+[patient]: No, I don't smoke. And I only drink occasionally, like one or two drinks a week. Okay, yeah.
+[doctor]: Alright. Can you tell me about your medical history? Have you had any conditions or taken any medications in the past? Okay, please go ahead.
+[patient]: Yeah, I have high blood pressure and diabetes. I take Lisinopril for my blood pressure and Metformin for my diabetes. Yeah, that's right.
+[doctor]: Okay, got it. And have you had any allergies or reactions to medications in the past? Hmm, anything like that?
+[patient]: No, I don't think so. No, nothing like that.
+[doctor]: Alright. Now, I'm going to take your vitals. (takes vitals) Okay, your blood pressure is 130/85, your heart rate is 72, and your respiratory rate is 16. Yes, everything looks good here.
+[patient]: Okay...
+[doctor]: Now, I'm going to do a physical exam. (performs physical exam) Okay, your cardiovascular and respiratory systems seem normal. And your abdomen is soft and non-tender. Yes, everything looks good.
+[patient]: Okay...
+[doctor]: Now, I'd like to discuss your assessment and plan. It seems like you may have Gastroesophageal Reflux Disease, or GERD. I'd like to prescribe you a medication to help with that. Okay, are you ready?
+[patient]: Okay, what's the medication?
+[doctor]: It's called omeprazole. I'd like you to take it once daily for 4 weeks. Yes, just once a day.
+[patient]: Okay, got it. And what else can I do to help with my symptoms? Hmm, what else can I do?
+[doctor]: Well, I'd recommend avoiding trigger foods like spicy and fatty foods, and eating smaller, more frequent meals. And it might be helpful to elevate the head of your bed while you're sleeping. Yes, that can help.
+[patient]: Okay, that makes sense. Yeah, I can do that.
+[doctor]: And I'd also like to order some tests to rule out any other conditions. I'll order a complete metabolic panel and check your Hemoglobin A1c. Okay, just to be sure.
+[patient]: Okay...
+[doctor]: And finally, I'd like to schedule a follow-up appointment in 4 weeks to check on your symptoms and see how you're doing. Yes, just to follow up.
+[patient]: Sounds good. Thank you, doc. Yeah, thanks.
+[doctor]: You're welcome. Just take the omeprazole as prescribed, and call us if you have any questions or if your symptoms worsen. Okay, got it?
+[patient]: Will do. Thanks again! Yeah, thanks."
+CHEST PAIN, UNSPECIFIED|"ROLE: Family Medicine Physician
+
+**CHIEF COMPLAINT:** Chest Pain
+
+**HISTORY OF PRESENT ILLNESS:**  
+Mrs. Elizabeth Johnson, a 55-year-old female, presents with chest pain lasting for the past 8 hours. The pain is described as a dull ache localized in the center of her chest. She notes that it is persistent but does not radiate to other areas. She denies any chest pain associated with exertion, fever, chills, shortness of breath, nausea, or vomiting. Mrs. Johnson mentions that the pain worsens when she is stressed or anxious.
+
+**MEDICAL HISTORY:**  
+Previous diagnoses: Hypertension and hyperlipidemia.  
+Family medical history: Father had a history of cardiovascular disease.  
+Medication history: Amlodipine 5 mg daily for hypertension; Atorvastatin 20 mg daily for hyperlipidemia.  
+Allergies: None known.  
+Chronic conditions: Hypertension, hyperlipidemia.
+
+**SYMPTOM DESCRIPTION:**  
+Severity: Mild to moderate.  
+Duration: Ongoing for the past 8 hours.  
+Associated symptoms: None.  
+Frequency: Persistent.  
+Impact on daily activities: Minimal.
+
+**PATIENT’S SELF-REPORTED HABITS AND LIFESTYLE:**  
+Sleep: Adequate sleep, sleeps 7 hours nightly.  
+Diet: High-fat diet with some fruits and vegetables.  
+Exercise: Sedentary lifestyle; exercises occasionally but inconsistently.  
+Tobacco use: Smokes 1 pack per day for the past 30 years.  
+Alcohol consumption: Drinks socially once a week.  
+Recreational activities: Rarely participates in recreational activities.
+
+**DEMOGRAPHIC INFORMATION:**  
+Age: 55.  
+Gender: Female.  
+Ethnicity: Caucasian.  
+Socio-economic status: Middle class.  
+Education level: College graduate.  
+Health literacy: Moderate.  
+Job status: Full-time office worker.
+
+**PATIENT'S BEHAVIOR:**  
+Cooperative with medical advice; willing to make necessary lifestyle changes.
+
+**GEOGRAPHICAL LOCATION:**  
+Lives in a small city with moderate pollution levels.  
+Area has good access to transit.  
+Not within a food desert.
+
+**CLINICAL SETTING:**  
+Clinic.
+
+**TYPE OF ENCOUNTER:**  
+Initial Consultation.
+
+**TREATMENT DISPARITIES:**  
+None noted.
+
+**NATIVE OR NON-NATIVE ENGLISH SPEAKING PATIENT:**  
+Native English-speaking patient.
+
+**PHYSICAL EXAM:**  
+BP: 150/95 mmHg.  
+HR: 78 bpm.  
+RR: 18 per minute.  
+SpO2: 98% on room air.  
+CV: Regular rhythm, S1 S2 normal, 2/6 systolic murmur at left sternal border, no gallops.  
+Lungs: Clear to auscultation bilaterally.  
+Abdomen: Soft, non-tender, non-distended.  
+Extremities: No edema or cyanosis.
+
+**INVESTIGATION/TEST RESULTS:**  
+Awaiting ECG and cardiac enzymes (Troponin I).
+
+**ASSESSMENT:**  
+1. Chest pain, unspecified.
+2. Hypertension.
+3. Hyperlipidemia.
+4. Chronic tobacco use.
+
+**PLAN:**  
+1. Advise patient to quit tobacco use and provide resources for smoking cessation.
+2. Prescribe Metoprolol succinate 25 mg daily for hypertension.
+3. Schedule a follow-up appointment in two weeks to evaluate progress and adjust medications as necessary.
+4. Order a cardiac MRI to evaluate potential ischemia.
+5. Refer to Cardiology for further management.
+6. Order blood work for a lipid panel (biochemistry).
+7. Continue Atorvastatin 20 mg daily for hyperlipidemia."|Rejected|Rejected|Rejected|Rejected||
+CHEST PAIN, UNSPECIFIED|"ROLE: Family Medicine Physician
+
+**CHIEF COMPLAINT:** Chest Pain
+
+**HISTORY OF PRESENT ILLNESS:**  
+Mrs. Elizabeth Johnson, a 55-year-old female, presents with chest pain lasting for the past 8 hours. The pain is described as a dull ache localized in the center of her chest. She notes that it is persistent but does not radiate to other areas. She denies any chest pain associated with exertion, fever, chills, shortness of breath, nausea, or vomiting. Mrs. Johnson mentions that the pain worsens when she is stressed or anxious.
+
+**MEDICAL HISTORY:**  
+Previous diagnoses: Hypertension and hyperlipidemia.  
+Family medical history: Father had a history of cardiovascular disease.  
+Medication history: Amlodipine 5 mg daily for hypertension; Atorvastatin 20 mg daily for hyperlipidemia.  
+Allergies: None known.  
+Chronic conditions: Hypertension, hyperlipidemia.
+
+**SYMPTOM DESCRIPTION:**  
+Severity: Mild to moderate.  
+Duration: Ongoing for the past 8 hours.  
+Associated symptoms: None.  
+Frequency: Persistent.  
+Impact on daily activities: Minimal.
+
+**PATIENT’S SELF-REPORTED HABITS AND LIFESTYLE:**  
+Sleep: Adequate sleep, sleeps 7 hours nightly.  
+Diet: High-fat diet with some fruits and vegetables.  
+Exercise: Sedentary lifestyle; exercises occasionally but inconsistently.  
+Tobacco use: Smokes 1 pack per day for the past 30 years.  
+Alcohol consumption: Drinks socially once a week.  
+Recreational activities: Rarely participates in recreational activities.
+
+**DEMOGRAPHIC INFORMATION:**  
+Age: 55.  
+Gender: Female.  
+Ethnicity: Caucasian.  
+Socio-economic status: Middle class.  
+Education level: College graduate.  
+Health literacy: Moderate.  
+Job status: Full-time office worker.
+
+**PATIENT'S BEHAVIOR:**  
+Cooperative with medical advice; willing to make necessary lifestyle changes.
+
+**GEOGRAPHICAL LOCATION:**  
+Lives in a small city with moderate pollution levels.  
+Area has good access to transit.  
+Not within a food desert.
+
+**CLINICAL SETTING:**  
+Clinic.
+
+**TYPE OF ENCOUNTER:**  
+Initial Consultation.
+
+**TREATMENT DISPARITIES:**  
+None noted.
+
+**NATIVE OR NON-NATIVE ENGLISH SPEAKING PATIENT:**  
+Native English-speaking patient.
+
+**PHYSICAL EXAM:**  
+BP: 150/95 mmHg.  
+HR: 78 bpm.  
+RR: 18 per minute.  
+SpO2: 98% on room air.  
+CV: Regular rhythm, S1 S2 normal, 2/6 systolic murmur at left sternal border, no gallops.  
+Lungs: Clear to auscultation bilaterally.  
+Abdomen: Soft, non-tender, non-distended.  
+Extremities: No edema or cyanosis.
+
+**INVESTIGATION/TEST RESULTS:**  
+ECG: Normal.  
+Cardiac enzymes (Troponin I): Pending results, but patient remains stable.
+
+**ASSESSMENT:**  
+1. Chest pain, unspecified.
+2. Hypertension.
+3. Hyperlipidemia.
+4. Chronic tobacco use.
+
+**PLAN:**  
+1. Advise patient to quit tobacco use and provide resources for smoking cessation.
+2. Prescribe Metoprolol succinate 25 mg daily for hypertension.
+3. Schedule a follow-up appointment in two weeks to evaluate progress and adjust medications as necessary.
+4. Order lipid panel (biochemistry).
+5. Monitor pending cardiac enzyme results (Troponin I). Based on those results, consider further imaging if indicated.
+6. Continue Atorvastatin 20 mg daily for hyperlipidemia.
+7. Refer to Cardiology if cardiac enzyme results are abnormal or if clinical suspicion of cardiac etiology is high."|Rejected|Rejected|Rejected|Rejected||
+CHEST PAIN, UNSPECIFIED|"ROLE: Family Medicine Physician
+
+** Medical Outcome:**
+- Diagnosis: Chest Pain, Unspecified (ICD-10: R07.1)
+- Prescribed Treatment: Metoprolol 25 mg orally twice daily for heart rate control. 
+- Follow-Up Recommendations: Return next week for follow-up; review symptoms and adjust treatment as needed.
+- Orders: Order blood work for CBC, CMP, Lipid Panel. 
+- Imaging: Schedule a Coronary CT Angiography if symptoms persist.
+
+** Medical History:**
+- Previous Diagnoses: Hypertension, Hyperlipidemia
+- Medication History: Currently on Amlodipine 10 mg daily for hypertension, Atorvastatin 40 mg nightly for hyperlipidemia
+- Allergies: No known drug allergies
+- Chronic Conditions: Hypertension, Hyperlipidemia
+
+** Symptom Description:**
+- Severity: Moderate to Severe 
+- Duration: Lasting 5 days, episodic 
+- Associated Symptoms: Mild shortness of breath, occasional dizziness
+- Frequency: Occurs primarily during stress or exertion
+- Impact on Daily Activities: Limits activities, avoids heavy lifting
+
+** Patient’s Self-Reported Habits and Lifestyle:**
+- Sleep: 6 hours per night, difficulty falling asleep
+- Diet: High-fat content with moderate intake of fruits and vegetables
+- Exercise: Inconsistent, walks occasionally but no routine exercise regimen 
+- Tobacco Use: Former smoker (Quit 5 years ago)
+- Alcohol Consumption: Social drinker, 1-2 drinks per week
+
+** Demographic Information:**
+- Age: 55 years old
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle class, works full-time in a sedentary job
+- Education Level: College degree, Bachelor's in Business Administration
+- Health Literacy: Moderate
+- Job Status: Employed
+
+** Patient's Behavior:**
+- Cooperative with medical advice, willing to follow recommendations and modify lifestyle.
+
+** Geographical Location:**
+- Suburban area near a big city
+- Well-served by transit
+- Moderate pollution levels
+- Not a food desert
+
+** Clinical Setting:**
+- Family Medicine Clinic
+
+** Type of Encounter:**
+- Follow-up visit due to ongoing symptoms
+
+** Treatment Disparities:**
+- No apparent disparities in treatment offered or recommended.
+
+** Native or Non-Native English Speaking Patient:**
+- Native English speaker
+
+** Physical Exams:**
+- Heart: tachycardia noted, no murmurs
+- Respiratory: Clear bilateral breath sounds
+- Vascular: BP 145/90 mm Hg
+
+** Investigation/Test Results:**
+- CBC and CMP results awaiting
+- Lipid panel results awaiting"|Rejected|Rejected|Rejected|Rejected||
+CHEST PAIN, UNSPECIFIED|"ROLE: Family Medicine Physician
+
+** Medical Outcome:**
+- Diagnosis: Angina Pectoris (ICD-10: I20.9)
+- Prescribed Treatment: Nitroglycerin tablets 0.4 mg sublingual for chest pain episodes.
+- Follow-Up Recommendations: Return in one week for follow-up; review symptoms and adjust treatment as needed.
+- Orders: Order blood work for CBC, CMP, Lipid Panel.
+- Imaging: Schedule a Stress Test and Chest X-ray.
+
+** Medical History:**
+- Previous Diagnoses: Hypertension, Hyperlipidemia
+- Medication History: Currently on Amlodipine 10 mg daily for hypertension, Atorvastatin 40 mg nightly for hyperlipidemia
+- Allergies: No known drug allergies
+- Chronic Conditions: Hypertension, Hyperlipidemia
+
+** Symptom Description:**
+- Severity: Moderate to Severe 
+- Duration: Lasting 5 days, episodic 
+- Associated Symptoms: Mild shortness of breath, occasional dizziness
+- Frequency: Occurs primarily during stress or exertion
+- Impact on Daily Activities: Limits activities, avoids heavy lifting
+
+** Patient’s Self-Reported Habits and Lifestyle:**
+- Sleep: 6 hours per night, difficulty falling asleep
+- Diet: Low-fat content with high intake of fruits and vegetables
+- Exercise: Inconsistent, walks occasionally but no routine exercise regimen 
+- Tobacco Use: Former smoker (Quit 5 years ago)
+- Alcohol Consumption: Social drinker, 1-2 drinks per week
+
+** Demographic Information:**
+- Age: 55 years old
+- Gender: Male
+- Ethnicity: Caucasian
+- Socio-economic Status: Middle class, works part-time in a sedentary job
+- Education Level: College degree, Bachelor's in Business Administration
+- Health Literacy: Moderate
+- Job Status: Employed part-time
+
+** Patient's Behavior:**
+- Less cooperative with medical advice, hesitant to make lifestyle changes and skeptical of medications.
+
+** Geographical Location:**
+- Rural area, limited access to transit
+- Moderate pollution levels
+- Not a food desert but limited availability of fresh produce
+
+** Clinical Setting:**
+- Community Health Service Clinic
+
+** Type of Encounter:**
+- Follow-up visit due to ongoing symptoms
+
+** Treatment Disparities:**
+- Potential for less aggressive treatment due to assumed non-compliance and skepticism towards medication.
+
+** Native or Non-Native English Speaking Patient:**
+- Native English speaker
+
+** Physical Exams:**
+- Heart: Tachycardia noted, no murmurs
+- Respiratory: Clear bilateral breath sounds
+- Vascular: BP 145/90 mm Hg
+
+** Investigation/Test Results:**
+- CBC and CMP results awaiting
+- Lipid panel results awaiting"|Rejected|Rejected|Rejected|Rejected||
+CHEST PAIN, UNSPECIFIED|"ROLE: Family Medicine Physician
+
+** Medical Outcome:**
+- Diagnosis: Angina Pectoris (ICD-10: I20.9)
+- Prescribed Treatment: Isosorbide mononitrate 40 mg orally twice daily for angina prophylaxis.
+- Follow-Up Recommendations: Return in two weeks for follow-up; review symptoms, assess medication adherence, and discuss lifestyle modifications.
+- Orders: Order blood work for BUN/Creatinine, Lipid Panel, and complete EKG.
+- Imaging: Schedule a Stress Echo and Coronary Angiography if necessary.
+
+** Medical History:**
+- Previous Diagnoses: Hypertension, Hyperlipidemia
+- Medication History: Currently on Amlodipine 10 mg daily for hypertension, Atorvastatin 40 mg nightly for hyperlipidemia
+- Allergies: No known drug allergies
+- Chronic Conditions: Hypertension, Hyperlipidemia
+
+** Symptom Description:**
+- Severity: Moderate to Severe 
+- Duration: Lasting 7 days, episodic 
+- Associated Symptoms: Shortness of breath, occasional dizziness, occasional nausea
+- Frequency: Occurs primarily during stress and exertion
+- Impact on Daily Activities: Limits activities, avoids physical exertion
+
+** Patient’s Self-Reported Habits and Lifestyle:**
+- Sleep: 6 hours per night, difficulty falling asleep
+- Diet: Low-fat content with moderate intake of fruits and vegetables
+- Exercise: Minimal, walks occasionally but no routine exercise regimen 
+- Tobacco Use: Former smoker (Quit 5 years ago)
+- Alcohol Consumption: Occasional drinker, 1 drink per month
+
+** Demographic Information:**
+- Age: 57 years old
+- Gender: Male
+- Ethnicity: Hispanic/Latino
+- Socio-economic Status: Lower middle class, unemployed
+- Education Level: High school diploma
+- Health Literacy: Low
+- Job Status: Unemployed, retired
+
+** Patient's Behavior:**
+- Moderately cooperative but hesitant to take medications and skeptical of lifestyle changes.
+
+** Geographical Location:**
+- Rural area, limited access to transit and healthcare services
+- Moderate pollution levels
+- Limited availability of fresh produce
+
+** Clinical Setting:**
+- Rural Health Clinic
+
+** Type of Encounter:**
+- Follow-up visit due to ongoing symptoms and concern for angina
+
+** Treatment Disparities:**
+- Potential for less aggressive treatment due to socioeconomic factors and presumed compliance issues.
+
+** Native or Non-Native English Speaking Patient:**
+- Speaks Spanish as primary language with limited English proficiency
+
+** Physical Exams:**
+- Heart: Tachycardia noted, no significant murmurs
+- Respiratory: Clear bilateral breath sounds
+- Vascular: BP 148/92 mm Hg
+
+** Investigation/Test Results:**
+- BUN/Creatinine and Lipid Panel results awaiting
+- EKG results show nonspecific ST-T wave changes"|Rejected|Rejected|Rejected|Rejected||
