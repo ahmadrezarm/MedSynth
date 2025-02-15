@@ -1,7 +1,5 @@
 # Synthetic_Data_Gen
 
-# Synthetic_Data_Gen
-
 ## Envriornment setup:
 You can set up the conda envriorment using `environment.yml` file.
 
