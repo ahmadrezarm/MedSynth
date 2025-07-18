@@ -1,11 +1,0 @@
-Loading checkpoint shards:   0%|          | 0/17 [00:00<?, ?it/s]Loading checkpoint shards:   6%|▌         | 1/17 [00:03<00:57,  3.57s/it]Loading checkpoint shards:  12%|█▏        | 2/17 [00:07<00:57,  3.82s/it]Loading checkpoint shards:  18%|█▊        | 3/17 [00:11<00:57,  4.09s/it]Loading checkpoint shards:  24%|██▎       | 4/17 [00:15<00:52,  4.04s/it]Loading checkpoint shards:  29%|██▉       | 5/17 [00:19<00:46,  3.90s/it]Loading checkpoint shards:  35%|███▌      | 6/17 [00:23<00:41,  3.76s/it]Loading checkpoint shards:  41%|████      | 7/17 [00:26<00:37,  3.71s/it]Loading checkpoint shards:  47%|████▋     | 8/17 [00:30<00:33,  3.67s/it]Loading checkpoint shards:  53%|█████▎    | 9/17 [00:33<00:28,  3.61s/it]Loading checkpoint shards:  59%|█████▉    | 10/17 [00:37<00:24,  3.50s/it]Loading checkpoint shards:  65%|██████▍   | 11/17 [00:42<00:24,  4.12s/it]Loading checkpoint shards:  71%|███████   | 12/17 [00:48<00:23,  4.73s/it]Loading checkpoint shards:  76%|███████▋  | 13/17 [00:55<00:21,  5.29s/it]Loading checkpoint shards:  82%|████████▏ | 14/17 [01:01<00:16,  5.54s/it]Loading checkpoint shards:  88%|████████▊ | 15/17 [01:07<00:11,  5.82s/it]Loading checkpoint shards:  94%|█████████▍| 16/17 [01:14<00:05,  5.98s/it]Loading checkpoint shards: 100%|██████████| 17/17 [01:20<00:00,  6.04s/it]Loading checkpoint shards: 100%|██████████| 17/17 [01:20<00:00,  4.73s/it]
-Traceback (most recent call last):
-  File "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/get_qwen_relative_scores.py", line 252, in <module>
-    top_p= 0.9
-  File "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/get_qwen_relative_scores.py", line 240, in main
-    prompt,
-  File "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/get_qwen_relative_scores.py", line 193, in get_and_save_qwen_preference_scores
-    feedback = relative_judge_tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
-  File "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/get_qwen_relative_scores.py", line 162, in _save_qwen_relative_scores
-    
-AttributeError: module 'datetime' has no attribute 'now'

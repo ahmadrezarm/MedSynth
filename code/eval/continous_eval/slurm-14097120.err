@@ -1,82 +1,0 @@
-/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/huggingface_hub/file_download.py:1132: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
-  warnings.warn(
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:13<00:00, 13.53s/it]Processed prompts: 100%|██████████| 1/1 [00:13<00:00, 13.53s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 6636.56it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:13<00:00, 13.46s/it]Processed prompts: 100%|██████████| 1/1 [00:13<00:00, 13.46s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 7108.99it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:09<00:00,  9.39s/it]Processed prompts: 100%|██████████| 1/1 [00:09<00:00,  9.39s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 8905.10it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:12<00:00, 12.23s/it]Processed prompts: 100%|██████████| 1/1 [00:12<00:00, 12.23s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 7358.43it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:10<00:00, 10.95s/it]Processed prompts: 100%|██████████| 1/1 [00:10<00:00, 10.95s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 7898.88it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:10<00:00, 10.08s/it]Processed prompts: 100%|██████████| 1/1 [00:10<00:00, 10.08s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 8473.34it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:05<00:00,  5.68s/it]Processed prompts: 100%|██████████| 1/1 [00:05<00:00,  5.68s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 12192.74it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:14<00:00, 14.37s/it]Processed prompts: 100%|██████████| 1/1 [00:14<00:00, 14.37s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 6647.07it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:11<00:00, 11.38s/it]Processed prompts: 100%|██████████| 1/1 [00:11<00:00, 11.38s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 7913.78it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:08<00:00,  8.33s/it]Processed prompts: 100%|██████████| 1/1 [00:08<00:00,  8.33s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 9532.51it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:11<00:00, 11.35s/it]Processed prompts: 100%|██████████| 1/1 [00:11<00:00, 11.35s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 8097.11it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:11<00:00, 11.26s/it]Processed prompts: 100%|██████████| 1/1 [00:11<00:00, 11.26s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 7626.01it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:10<00:00, 10.78s/it]Processed prompts: 100%|██████████| 1/1 [00:10<00:00, 10.78s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 6978.88it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:12<00:00, 12.08s/it]Processed prompts: 100%|██████████| 1/1 [00:12<00:00, 12.09s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 6743.25it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:11<00:00, 11.49s/it]Processed prompts: 100%|██████████| 1/1 [00:11<00:00, 11.49s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 7943.76it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:11<00:00, 11.76s/it]Processed prompts: 100%|██████████| 1/1 [00:11<00:00, 11.76s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 7781.64it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:17<00:00, 17.08s/it]Processed prompts: 100%|██████████| 1/1 [00:17<00:00, 17.08s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 5622.39it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:13<00:00, 13.37s/it]Processed prompts: 100%|██████████| 1/1 [00:13<00:00, 13.37s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 6689.48it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:13<00:00, 13.17s/it]Processed prompts: 100%|██████████| 1/1 [00:13<00:00, 13.17s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 7084.97it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:12<00:00, 12.27s/it]Processed prompts: 100%|██████████| 1/1 [00:12<00:00, 12.28s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 7384.34it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:10<00:00, 10.80s/it]Processed prompts: 100%|██████████| 1/1 [00:10<00:00, 10.80s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 7913.78it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:15<00:00, 15.65s/it]Processed prompts: 100%|██████████| 1/1 [00:15<00:00, 15.65s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 6316.72it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:10<00:00, 10.22s/it]Processed prompts: 100%|██████████| 1/1 [00:10<00:00, 10.22s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 8322.03it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:21<00:00, 21.44s/it]Processed prompts: 100%|██████████| 1/1 [00:21<00:00, 21.44s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 5322.72it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:19<00:00, 19.96s/it]Processed prompts: 100%|██████████| 1/1 [00:19<00:00, 19.96s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 5377.31it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:10<00:00, 10.41s/it]Processed prompts: 100%|██████████| 1/1 [00:10<00:00, 10.41s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 8081.51it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:13<00:00, 13.59s/it]Processed prompts: 100%|██████████| 1/1 [00:13<00:00, 13.59s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 6990.51it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:15<00:00, 15.40s/it]Processed prompts: 100%|██████████| 1/1 [00:15<00:00, 15.40s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 6159.04it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:12<00:00, 12.92s/it]Processed prompts: 100%|██████████| 1/1 [00:12<00:00, 12.92s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 6177.18it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:12<00:00, 12.44s/it]Processed prompts: 100%|██████████| 1/1 [00:12<00:00, 12.44s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 7543.71it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:13<00:00, 13.94s/it]Processed prompts: 100%|██████████| 1/1 [00:13<00:00, 13.94s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 6853.44it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:11<00:00, 11.90s/it]Processed prompts: 100%|██████████| 1/1 [00:11<00:00, 11.90s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 6326.25it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:09<00:00,  9.69s/it]Processed prompts: 100%|██████████| 1/1 [00:09<00:00,  9.69s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 9157.87it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:13<00:00, 13.62s/it]Processed prompts: 100%|██████████| 1/1 [00:13<00:00, 13.62s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 7145.32it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:09<00:00,  9.99s/it]Processed prompts: 100%|██████████| 1/1 [00:09<00:00,  9.99s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 8665.92it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:13<00:00, 13.01s/it]Processed prompts: 100%|██████████| 1/1 [00:13<00:00, 13.01s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 7332.70it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:12<00:00, 12.81s/it]Processed prompts: 100%|██████████| 1/1 [00:12<00:00, 12.81s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 7133.17it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:12<00:00, 12.27s/it]Processed prompts: 100%|██████████| 1/1 [00:12<00:00, 12.27s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 6472.69it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:06<00:00,  6.72s/it]Processed prompts: 100%|██████████| 1/1 [00:06<00:00,  6.72s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 8924.05it/s]
-Processed prompts:   0%|          | 0/1 [00:00<?, ?it/s]Processed prompts: 100%|██████████| 1/1 [00:14<00:00, 14.94s/it]Processed prompts: 100%|██████████| 1/1 [00:14<00:00, 14.94s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 6636.56it/s]

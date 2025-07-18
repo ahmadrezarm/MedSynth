@@ -1,440 +1,0 @@
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:12:43 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [00:06<00:00,  6.29s/it][A100%|██████████| 1/1 [00:06<00:00,  6.29s/it]
-Processing batches: 100%|██████████| 1/1 [00:06<00:00,  6.29s/it]Processing batches: 100%|██████████| 1/1 [00:06<00:00,  6.29s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:13:49 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:06<00:00, 66.70s/it][A100%|██████████| 1/1 [01:06<00:00, 66.70s/it]
-Processing batches: 100%|██████████| 1/1 [01:06<00:00, 66.70s/it]Processing batches: 100%|██████████| 1/1 [01:06<00:00, 66.70s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 13273.11it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:14:56 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.04s/it][A100%|██████████| 1/1 [01:00<00:00, 60.04s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.04s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.04s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:15:56 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:05<00:00, 65.14s/it][A100%|██████████| 1/1 [01:05<00:00, 65.14s/it]
-Processing batches: 100%|██████████| 1/1 [01:05<00:00, 65.14s/it]Processing batches: 100%|██████████| 1/1 [01:05<00:00, 65.14s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 14413.42it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:17:01 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:18:01 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:06<00:00, 66.28s/it][A100%|██████████| 1/1 [01:06<00:00, 66.28s/it]
-Processing batches: 100%|██████████| 1/1 [01:06<00:00, 66.28s/it]Processing batches: 100%|██████████| 1/1 [01:06<00:00, 66.28s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 14413.42it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:19:07 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.04s/it][A100%|██████████| 1/1 [01:00<00:00, 60.04s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.04s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.04s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:20:07 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:05<00:00, 65.20s/it][A100%|██████████| 1/1 [01:05<00:00, 65.20s/it]
-Processing batches: 100%|██████████| 1/1 [01:05<00:00, 65.20s/it]Processing batches: 100%|██████████| 1/1 [01:05<00:00, 65.20s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 15141.89it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:21:12 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.03s/it][A100%|██████████| 1/1 [01:00<00:00, 60.03s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.03s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.03s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:22:12 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:04<00:00, 64.39s/it][A100%|██████████| 1/1 [01:04<00:00, 64.39s/it]
-Processing batches: 100%|██████████| 1/1 [01:04<00:00, 64.39s/it]Processing batches: 100%|██████████| 1/1 [01:04<00:00, 64.39s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 14463.12it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:23:17 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:24:17 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:09<00:00, 69.14s/it][A100%|██████████| 1/1 [01:09<00:00, 69.14s/it]
-Processing batches: 100%|██████████| 1/1 [01:09<00:00, 69.14s/it]Processing batches: 100%|██████████| 1/1 [01:09<00:00, 69.14s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 10565.00it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:25:26 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:26:26 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:07<00:00, 67.14s/it][A100%|██████████| 1/1 [01:07<00:00, 67.14s/it]
-Processing batches: 100%|██████████| 1/1 [01:07<00:00, 67.14s/it]Processing batches: 100%|██████████| 1/1 [01:07<00:00, 67.14s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 7928.74it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:27:33 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:28:33 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:09<00:00, 69.90s/it][A100%|██████████| 1/1 [01:09<00:00, 69.90s/it]
-Processing batches: 100%|██████████| 1/1 [01:09<00:00, 69.90s/it]Processing batches: 100%|██████████| 1/1 [01:09<00:00, 69.90s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 14027.77it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:29:43 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.05s/it][A100%|██████████| 1/1 [01:00<00:00, 60.05s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.05s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.05s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:30:43 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:05<00:00, 65.57s/it][A100%|██████████| 1/1 [01:05<00:00, 65.57s/it]
-Processing batches: 100%|██████████| 1/1 [01:05<00:00, 65.57s/it]Processing batches: 100%|██████████| 1/1 [01:05<00:00, 65.57s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 13797.05it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:31:49 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.04s/it][A100%|██████████| 1/1 [01:00<00:00, 60.04s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.04s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.04s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:32:49 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:08<00:00, 68.08s/it][A100%|██████████| 1/1 [01:08<00:00, 68.08s/it]
-Processing batches: 100%|██████████| 1/1 [01:08<00:00, 68.08s/it]Processing batches: 100%|██████████| 1/1 [01:08<00:00, 68.08s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 9776.93it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:33:57 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:34:57 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:06<00:00, 66.68s/it][A100%|██████████| 1/1 [01:06<00:00, 66.69s/it]
-Processing batches: 100%|██████████| 1/1 [01:06<00:00, 66.69s/it]Processing batches: 100%|██████████| 1/1 [01:06<00:00, 66.69s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 12520.31it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:36:04 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:37:04 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:05<00:00, 65.08s/it][A100%|██████████| 1/1 [01:05<00:00, 65.08s/it]
-Processing batches: 100%|██████████| 1/1 [01:05<00:00, 65.08s/it]Processing batches: 100%|██████████| 1/1 [01:05<00:00, 65.08s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 12865.96it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:38:09 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:39:09 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:06<00:00, 66.15s/it][A100%|██████████| 1/1 [01:06<00:00, 66.15s/it]
-Processing batches: 100%|██████████| 1/1 [01:06<00:00, 66.15s/it]Processing batches: 100%|██████████| 1/1 [01:06<00:00, 66.15s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 12985.46it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:40:15 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:41:15 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:10<00:00, 70.02s/it][A100%|██████████| 1/1 [01:10<00:00, 70.02s/it]
-Processing batches: 100%|██████████| 1/1 [01:10<00:00, 70.02s/it]Processing batches: 100%|██████████| 1/1 [01:10<00:00, 70.02s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 13189.64it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:42:25 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.03s/it][A100%|██████████| 1/1 [01:00<00:00, 60.04s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.04s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.04s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:43:25 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:08<00:00, 68.12s/it][A100%|██████████| 1/1 [01:08<00:00, 68.12s/it]
-Processing batches: 100%|██████████| 1/1 [01:08<00:00, 68.12s/it]Processing batches: 100%|██████████| 1/1 [01:08<00:00, 68.12s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 13189.64it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:44:33 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:45:34 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:07<00:00, 67.39s/it][A100%|██████████| 1/1 [01:07<00:00, 67.39s/it]
-Processing batches: 100%|██████████| 1/1 [01:07<00:00, 67.39s/it]Processing batches: 100%|██████████| 1/1 [01:07<00:00, 67.39s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 12826.62it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:46:41 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.04s/it][A100%|██████████| 1/1 [01:00<00:00, 60.04s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.04s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.04s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:47:41 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:08<00:00, 68.26s/it][A100%|██████████| 1/1 [01:08<00:00, 68.26s/it]
-Processing batches: 100%|██████████| 1/1 [01:08<00:00, 68.26s/it]Processing batches: 100%|██████████| 1/1 [01:08<00:00, 68.26s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 12710.01it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:48:49 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.02s/it][A100%|██████████| 1/1 [01:00<00:00, 60.02s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.02s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.02s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:49:49 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:10<00:00, 70.43s/it][A100%|██████████| 1/1 [01:10<00:00, 70.43s/it]
-Processing batches: 100%|██████████| 1/1 [01:10<00:00, 70.43s/it]Processing batches: 100%|██████████| 1/1 [01:10<00:00, 70.43s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 13273.11it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:51:00 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:52:00 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:17<00:00, 77.00s/it][A100%|██████████| 1/1 [01:17<00:00, 77.00s/it]
-Processing batches: 100%|██████████| 1/1 [01:17<00:00, 77.00s/it]Processing batches: 100%|██████████| 1/1 [01:17<00:00, 77.00s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 14413.42it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:53:17 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:54:17 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:07<00:00, 67.11s/it][A100%|██████████| 1/1 [01:07<00:00, 67.11s/it]
-Processing batches: 100%|██████████| 1/1 [01:07<00:00, 67.11s/it]Processing batches: 100%|██████████| 1/1 [01:07<00:00, 67.11s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 15534.46it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:55:24 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.02s/it][A100%|██████████| 1/1 [01:00<00:00, 60.02s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.02s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.02s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:56:24 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:08<00:00, 68.68s/it][A100%|██████████| 1/1 [01:08<00:00, 68.68s/it]
-Processing batches: 100%|██████████| 1/1 [01:08<00:00, 68.68s/it]Processing batches: 100%|██████████| 1/1 [01:08<00:00, 68.68s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 14820.86it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:57:33 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:58:33 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:07<00:00, 67.98s/it][A100%|██████████| 1/1 [01:07<00:00, 67.98s/it]
-Processing batches: 100%|██████████| 1/1 [01:07<00:00, 67.98s/it]Processing batches: 100%|██████████| 1/1 [01:07<00:00, 67.98s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 19065.02it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m18:59:41 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:00:41 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:09<00:00, 69.13s/it][A100%|██████████| 1/1 [01:09<00:00, 69.13s/it]
-Processing batches: 100%|██████████| 1/1 [01:09<00:00, 69.13s/it]Processing batches: 100%|██████████| 1/1 [01:09<00:00, 69.13s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 12710.01it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:01:50 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:02:50 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:26<00:00, 86.37s/it][A100%|██████████| 1/1 [01:26<00:00, 86.37s/it]
-Processing batches: 100%|██████████| 1/1 [01:26<00:00, 86.37s/it]Processing batches: 100%|██████████| 1/1 [01:26<00:00, 86.37s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 19328.59it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:04:16 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:05:16 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:12<00:00, 72.96s/it][A100%|██████████| 1/1 [01:12<00:00, 72.96s/it]
-Processing batches: 100%|██████████| 1/1 [01:12<00:00, 72.96s/it]Processing batches: 100%|██████████| 1/1 [01:12<00:00, 72.96s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 11586.48it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:06:29 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:07:29 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:08<00:00, 68.83s/it][A100%|██████████| 1/1 [01:08<00:00, 68.83s/it]
-Processing batches: 100%|██████████| 1/1 [01:08<00:00, 68.83s/it]Processing batches: 100%|██████████| 1/1 [01:08<00:00, 68.83s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 11522.81it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:08:38 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.06s/it][A100%|██████████| 1/1 [01:00<00:00, 60.06s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.06s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.06s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:09:38 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:06<00:00, 66.48s/it][A100%|██████████| 1/1 [01:06<00:00, 66.48s/it]
-Processing batches: 100%|██████████| 1/1 [01:06<00:00, 66.48s/it]Processing batches: 100%|██████████| 1/1 [01:06<00:00, 66.49s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 15307.68it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:10:45 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.02s/it][A100%|██████████| 1/1 [01:00<00:00, 60.02s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.02s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.02s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:11:45 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:02<00:00, 62.35s/it][A100%|██████████| 1/1 [01:02<00:00, 62.35s/it]
-Processing batches: 100%|██████████| 1/1 [01:02<00:00, 62.35s/it]Processing batches: 100%|██████████| 1/1 [01:02<00:00, 62.35s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 18001.30it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:12:47 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.03s/it][A100%|██████████| 1/1 [01:00<00:00, 60.03s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.03s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.03s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:13:47 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:08<00:00, 68.28s/it][A100%|██████████| 1/1 [01:08<00:00, 68.28s/it]
-Processing batches: 100%|██████████| 1/1 [01:08<00:00, 68.28s/it]Processing batches: 100%|██████████| 1/1 [01:08<00:00, 68.28s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 12300.01it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:14:55 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.02s/it][A100%|██████████| 1/1 [01:00<00:00, 60.02s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.02s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.02s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:15:56 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:28<00:00, 88.76s/it][A100%|██████████| 1/1 [01:28<00:00, 88.76s/it]
-Processing batches: 100%|██████████| 1/1 [01:28<00:00, 88.76s/it]Processing batches: 100%|██████████| 1/1 [01:28<00:00, 88.76s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 12483.05it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:17:24 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:18:24 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:18<00:00, 78.37s/it][A100%|██████████| 1/1 [01:18<00:00, 78.37s/it]
-Processing batches: 100%|██████████| 1/1 [01:18<00:00, 78.37s/it]Processing batches: 100%|██████████| 1/1 [01:18<00:00, 78.37s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 11650.84it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:19:43 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:20:43 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:10<00:00, 70.93s/it][A100%|██████████| 1/1 [01:10<00:00, 70.93s/it]
-Processing batches: 100%|██████████| 1/1 [01:10<00:00, 70.93s/it]Processing batches: 100%|██████████| 1/1 [01:10<00:00, 70.93s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 12264.05it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:21:54 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:22:54 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:15<00:00, 75.39s/it][A100%|██████████| 1/1 [01:15<00:00, 75.39s/it]
-Processing batches: 100%|██████████| 1/1 [01:15<00:00, 75.39s/it]Processing batches: 100%|██████████| 1/1 [01:15<00:00, 75.39s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 13842.59it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:24:09 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.02s/it][A100%|██████████| 1/1 [01:00<00:00, 60.02s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.02s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.02s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:25:09 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:11<00:00, 71.98s/it][A100%|██████████| 1/1 [01:11<00:00, 71.98s/it]
-Processing batches: 100%|██████████| 1/1 [01:11<00:00, 71.98s/it]Processing batches: 100%|██████████| 1/1 [01:11<00:00, 71.98s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 12945.38it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:26:21 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.02s/it][A100%|██████████| 1/1 [01:00<00:00, 60.02s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.02s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.02s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:27:21 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:14<00:00, 74.53s/it][A100%|██████████| 1/1 [01:14<00:00, 74.53s/it]
-Processing batches: 100%|██████████| 1/1 [01:14<00:00, 74.53s/it]Processing batches: 100%|██████████| 1/1 [01:14<00:00, 74.53s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 14614.30it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:28:36 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:29:36 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:09<00:00, 69.10s/it][A100%|██████████| 1/1 [01:09<00:00, 69.10s/it]
-Processing batches: 100%|██████████| 1/1 [01:09<00:00, 69.10s/it]Processing batches: 100%|██████████| 1/1 [01:09<00:00, 69.10s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 14217.98it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:30:45 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.06s/it][A100%|██████████| 1/1 [01:00<00:00, 60.06s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.06s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.06s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:31:45 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:18<00:00, 78.71s/it][A100%|██████████| 1/1 [01:18<00:00, 78.71s/it]
-Processing batches: 100%|██████████| 1/1 [01:18<00:00, 78.71s/it]Processing batches: 100%|██████████| 1/1 [01:18<00:00, 78.71s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 13400.33it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:33:04 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.02s/it][A100%|██████████| 1/1 [01:00<00:00, 60.02s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.02s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.02s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:34:04 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:07<00:00, 67.67s/it][A100%|██████████| 1/1 [01:07<00:00, 67.67s/it]
-Processing batches: 100%|██████████| 1/1 [01:07<00:00, 67.67s/it]Processing batches: 100%|██████████| 1/1 [01:07<00:00, 67.67s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 13797.05it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:35:11 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:36:11 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:11<00:00, 71.31s/it][A100%|██████████| 1/1 [01:11<00:00, 71.31s/it]
-Processing batches: 100%|██████████| 1/1 [01:11<00:00, 71.32s/it]Processing batches: 100%|██████████| 1/1 [01:11<00:00, 71.32s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 12122.27it/s]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:37:23 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:00<00:00, 60.07s/it][A100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]Processing batches: 100%|██████████| 1/1 [01:00<00:00, 60.07s/it]
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m19:38:23 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [01:08<00:00, 68.50s/it][A100%|██████████| 1/1 [01:08<00:00, 68.50s/it]
-Processing batches: 100%|██████████| 1/1 [01:08<00:00, 68.50s/it]Processing batches: 100%|██████████| 1/1 [01:08<00:00, 68.50s/it]
-Finalizing:   0%|          | 0/1 [00:00<?, ?it/s]Finalizing: 100%|██████████| 1/1 [00:00<00:00, 9198.04it/s]

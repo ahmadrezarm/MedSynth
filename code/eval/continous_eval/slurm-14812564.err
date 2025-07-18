@@ -1,7 +1,0 @@
-Traceback (most recent call last):
-  File "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/get_prometues_absolute_scores.py", line 2, in <module>
-    from utils.prometheus import get_and_save_prometheus_absolute_scores
-  File "/fs01/home/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/utils/prometheus.py", line 143
-    model_response_list= dial_summary_pairs_df["note"]#dial_summary_pairs_df["summary"], 
-                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-SyntaxError: invalid syntax. Perhaps you forgot a comma?

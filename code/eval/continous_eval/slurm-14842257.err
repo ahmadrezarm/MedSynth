@@ -1,31 +1,0 @@
-Processing batches:   0%|          | 0/1 [00:00<?, ?it/s]
-  0%|          | 0/1 [00:00<?, ?it/s][A[92m13:06:45 - LiteLLM:WARNING[0m: utils.py:338 - `litellm.set_verbose` is deprecated. Please set `os.environ['LITELLM_LOG'] = 'DEBUG'` for debug logs.
-
-100%|██████████| 1/1 [00:10<00:00, 10.12s/it][A100%|██████████| 1/1 [00:10<00:00, 10.12s/it]
-Processing batches: 100%|██████████| 1/1 [00:10<00:00, 10.12s/it]Processing batches: 100%|██████████| 1/1 [00:10<00:00, 10.12s/it]
-Traceback (most recent call last):
-  File "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/get_promethus_relative_score_GPT.py", line 106, in <module>
-    main()
-  File "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/get_promethus_relative_score_GPT.py", line 87, in main
-    get_and_save_prometheus_preference_scores_GPT(model_A_name= pair_data["model_A_name"],
-  File "/fs01/home/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/utils/prometheus.py", line 198, in get_and_save_prometheus_preference_scores_GPT
-    prometheus_preference_scores = get_preference_score_GPT(conversation_list= model_A_dial_summary_pairs_df["conversation"],
-  File "/fs01/home/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/utils/prometheus.py", line 66, in get_preference_score_GPT
-    feedback, score = relative_judge_gpt.single_relative_grade(**data)
-  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/prometheus_eval/judge.py", line 110, in single_relative_grade
-    feedbacks, scores = self.relative_grade(
-  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/prometheus_eval/judge.py", line 266, in relative_grade
-    feedbacks, scores = asyncio.run(
-  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/asyncio/runners.py", line 44, in run
-    return loop.run_until_complete(main)
-  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
-    return future.result()
-  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/prometheus_eval/utils.py", line 144, in async_batch_completions_with_retries
-    for output in tqdm(batched_outputs, desc="Finalizing"):
-  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/tqdm/std.py", line 1096, in __init__
-    self.sp = self.status_printer(self.fp)
-  File "/h/ahmad/.conda/envs/SynthDataGenEnv/lib/python3.10/site-packages/tqdm/std.py", line 449, in status_printer
-    getattr(sys.stdout, 'flush', lambda: None)()
-OSError: [Errno 122] Disk quota exceeded
-Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
-OSError: [Errno 122] Disk quota exceeded

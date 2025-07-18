@@ -1,6 +1,0 @@
-Sun Feb  9 00:37:22 EST 2025: Job 14812980 is allocated resource
-working on: ACI_Ahmad_246_Aci
-INFO 02-09 00:37:32 llm_engine.py:100] Initializing an LLM engine (v0.4.2) with config: model='prometheus-eval/prometheus-7b-v2.0', speculative_config=None, tokenizer='prometheus-eval/prometheus-7b-v2.0', skip_tokenizer_init=False, tokenizer_mode=auto, revision=None, tokenizer_revision=None, trust_remote_code=False, dtype=torch.bfloat16, max_seq_len=32768, download_dir=None, load_format=LoadFormat.AUTO, tensor_parallel_size=1, disable_custom_all_reduce=False, quantization=None, enforce_eager=False, kv_cache_dtype=auto, quantization_param_path=None, device_config=cuda, decoding_config=DecodingConfig(guided_decoding_backend='outlines'), seed=0, served_model_name=prometheus-eval/prometheus-7b-v2.0)
-INFO 02-09 00:37:33 utils.py:660] Found nccl from library /h/ahmad/.config/vllm/nccl/cu12/libnccl.so.2.18.1
-INFO 02-09 00:37:34 selector.py:27] Using FlashAttention-2 backend.
-INFO 02-09 00:37:34 weight_utils.py:199] Using model weights format ['*.safetensors']

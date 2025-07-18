@@ -1,6 +1,0 @@
-[rank0]: Traceback (most recent call last):
-[rank0]:   File "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/get_promethus_relative_score.py", line 167, in <module>
-[rank0]:     main()
-[rank0]:   File "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/code/eval/continous_eval/get_promethus_relative_score.py", line 146, in main
-[rank0]:     Note_2_Dial_get_and_save_prometheus_preference_scores(model_A_name= pair_data["model_A_name"],
-[rank0]: TypeError: Note_2_Dial_get_and_save_prometheus_preference_scores() got an unexpected keyword argument 'relative_judge_model'

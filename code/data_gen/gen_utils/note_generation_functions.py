@@ -80,7 +80,7 @@ def doctor_generate_scenario(condition, scenario_provider_memory, openai_client)
 
 
 ################### For ablation of No Judge begin #################
-""" 
+ 
 def judge_evaluate_scenario(scenario, judge_conversations_memory, openai_client):
     # Add system prompt and user scenario to memory
         judge_conversations_memory += [
@@ -110,9 +110,9 @@ def judge_evaluate_scenario(scenario, judge_conversations_memory, openai_client)
         print("len of judge_conversation_momory is: ",len(judge_conversations_memory))
         return decision, latest_message
 
-"""
 
-def judge_evaluate_scenario_no_judge(scenario, judge_conversations_memory, openai_client):
+
+def judge_evaluate_scenario_no_judge_ablation(scenario, judge_conversations_memory, openai_client):
      decision = "Go"
      latest_message = "Go"
      return decision, latest_message
@@ -168,12 +168,6 @@ HfFolder.save_token(HF_WRITE_TOKEN)
 from gen_utils import gen_constants
 
 MODEL_PATH = f"/model-weights/Llama-3.3-70B-Instruct"
-
-
-
-
-
-
 
 
 def load_local_model(MODEL_PATH):
@@ -514,270 +508,6 @@ def generate_and_save_medical_notes_all_llama3(disease_description, notes_count,
 
 ################ For ablation who epipeline with Llama 3.3 ends ############
 
-
-
-
-################ For ablation whole pipeline with deepseek-ai/DeepSeek-R1-Distill-Llama-70B begins ############
-# prompt template: https://aws.amazon.com/blogs/machine-learning/deploy-deepseek-r1-distilled-llama-models-with-amazon-bedrock-custom-model-import/
-        
-def judge_evaluate_scenario_with_deepseek(scenario, judge_conversations_memory, model, tokenizer):
-    """
-    Evaluates a scenario using a custom model and returns the decision and response.
-    
-    Args:
-        scenario (str): The scenario to evaluate.
-        judge_conversations_memory (list): The conversation memory to maintain context.
-        model: The model used for generation.
-        tokenizer: The tokenizer used for encoding and decoding.
-        generation_config (dict): Configuration for generation parameters.
-
-    Returns:
-        tuple: The decision (str) and the latest model response (str).
-    """
-
-    pre_prompt = [
-        {"role": "system", "content": gen_constants.SCENARIO_JUDGE_SYSTEM_PROMPT},
-        {"role": "user", "content": scenario}
-    ]
-    prompt= pre_prompt + judge_conversations_memory
-
-    text = tokenizer.apply_chat_template(
-        prompt,
-        tokenize=False,
-        add_generation_prompt=True
-    )
-
-    model_inputs = tokenizer([text], return_tensors="pt").to(model.device)
-
-    with torch.inference_mode():
-        generated_ids = model.generate(
-            **model_inputs,
-            max_new_tokens=gen_constants.scenario_judge_config["max_tokens"], #,
-            temperature= 0.001, #gen_constants.scenario_judge_config["temperature"]: Cannot be 0 in tranformers
-            top_p= gen_constants.scenario_judge_config["top_p"]
-        )
-
-    generated_ids = [
-        output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
-    ]
-
-    response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
-
-    start_index = response.rfind("</think>") + 8
-
-    latest_message = response[0][start_index:].strip()
-
-    # Extract the decision (e.g., the last word or a specific format)
-    decision = latest_message.split()[-1]
-
-    # Update the memory with the assistant's response
-    judge_conversations_memory.append({"role": "assistant", "content": latest_message})
-
-    # Debugging logs (optional)
-    print(f"Latest message: {latest_message}")
-    print(f"Decision: {decision}")
-    print(f"Updated conversation memory length: {len(judge_conversations_memory)}")
-
-    return decision, latest_message
-
-
-
-
-def doctor_generate_scenario_with_deepseek(condition, scenario_provider_memory, model, tokenizer):
-    aci_train_df= pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)
-    randome_index= random.randint(0, 66)
-    aci_note_sample= aci_train_df["note"][randome_index]
-
-    scenario_system_prompt= gen_constants.SCENARIO_PROVIDER_SYSTEM_PROMPT.format(EXAMPLE_NOTE=aci_note_sample)
-    # Use the prompt template
-
-    pre_prompt = [
-        {"role": "system", "content": scenario_system_prompt},
-        {"role": "user", "content": condition}
-    ]
-    prompt= pre_prompt + scenario_provider_memory
-
-    text = tokenizer.apply_chat_template(
-        prompt,
-        tokenize=False,
-        add_generation_prompt=True
-    )
-
-    model_inputs = tokenizer([text], return_tensors="pt").to(model.device)
-
-    with torch.inference_mode():
-        generated_ids = model.generate(
-            **model_inputs,
-            max_new_tokens=gen_constants.scenario_generator_config["max_tokens"], #,
-            temperature= gen_constants.scenario_generator_config["temperature"],
-            top_p= gen_constants.scenario_generator_config["top_p"]
-        )
-
-    generated_ids = [
-        output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
-    ]
-
-    response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
-
-    start_index = response.rfind("</think>") + 8
-
-    scenario = response[0][start_index:].strip()
-
-    print(f"len of scenario_provider_memory is: {len(scenario_provider_memory)}")
-
-    return scenario
-
-
-
-def doctor_generate_note_with_deepseek(scenario, model, tokenizer):
-    aci_train_df= pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)
-    randome_index= random.randint(0, 66)
-    aci_note_sample= aci_train_df["note"][randome_index]
-    note_generator_system_prompt= gen_constants.NOTE_GENERATOR_SYSTEM_PROMPT.format(EXAMPLE_NOTE=aci_note_sample)  
-
-    pre_prompt = [
-        {"role": "system", "content": note_generator_system_prompt},
-        {"role": "user", "content": scenario}
-    ]
-    prompt= pre_prompt 
-
-    text = tokenizer.apply_chat_template(
-        prompt,
-        tokenize=False,
-        add_generation_prompt=True
-    )
-
-    model_inputs = tokenizer([text], return_tensors="pt").to(model.device)
-
-    with torch.inference_mode():
-        generated_ids = model.generate(
-            **model_inputs,
-            max_new_tokens=gen_constants.note_generator_config["max_tokens"], 
-            temperature= gen_constants.note_generator_config["temperature"], 
-            top_p= gen_constants.note_generator_config["top_p"]
-        )
-
-    generated_ids = [
-        output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
-    ]
-
-    response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
-
-    start_index = response.rfind("</think>") + 8
-
-    note = response[0][start_index:].strip()
-
-    #note = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
-
-    return note
-
-
-
-def polish_note_with_deepseek(note, model, tokenizer):
-    note_polisher_system_prompt= gen_constants.NOTE_POLISHER_SYSTEM_PROMPT 
-    
-    pre_prompt = [
-        {"role": "system", "content": note_polisher_system_prompt},
-        {"role": "user", "content": note}
-    ]
-    prompt= pre_prompt 
-
-    text = tokenizer.apply_chat_template(
-        prompt,
-        tokenize=False,
-        add_generation_prompt=True
-    )
-
-    model_inputs = tokenizer([text], return_tensors="pt").to(model.device)
-
-    with torch.inference_mode():
-        generated_ids = model.generate(
-            **model_inputs,
-            max_new_tokens=gen_constants.note_polisher_config["max_tokens"], 
-            temperature= 0.001, #gen_constants.note_generator_config["temperature"], 
-            top_p= gen_constants.note_polisher_config["top_p"]
-        )
-
-    generated_ids = [
-        output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
-    ]
-
-    response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
-
-    start_index = response.rfind("</think>") + 8
-
-    polished_note = response[0][start_index:].strip()
-    #polished_note = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
-
-    return polished_note
-
-
-def abbreviate_note_all_deepseek():
-     return "ablation"
-
-
-def generate_and_save_medical_notes_all_deepseek(disease_description, notes_count, 
-                                                    model, tokenizer,
-                                                    path_to_save_notes):
-    
-    approved_notes = []
-    rejected_scenarios = []
-    judge_conversations_memory = []
-    scenario_provider_memory= []
-    try:
-        while True:
-            scenario = doctor_generate_scenario_with_deepseek(disease_description, scenario_provider_memory, model, tokenizer)
-
-            # if len(scenario_provider_memory) == 0:
-            #     scenario_provider_memory.append({"role": "user", "content": disease_description})
-                
-            scenario_provider_memory.append({"role": "assistant", "content": scenario})
-
-            decision, latest_message = judge_evaluate_scenario_with_deepseek(scenario, judge_conversations_memory, model, tokenizer)
-            print(decision)
-            print(latest_message)
-            if decision == "Go" or decision == "Go.":
-                role = _extract_role(scenario)
-                note = doctor_generate_note_with_deepseek(scenario, model, tokenizer)
-                polished_note = polish_note_with_deepseek(note, model, tokenizer)
-                abbreviated_note= abbreviate_note_all_deepseek()
-                approved_notes.append({"Disease Description": disease_description, "Scenario": scenario, "Note": note, "Polished Note": polished_note, "Abbreviated Note": abbreviated_note, "Role": role })
-                scenario_provider_memory = []
-                print(f"Note number {len(approved_notes)} has been generated!")
-            else:
-                rejected_scenarios.append({"Disease Description": disease_description, "Scenario": scenario, "Note": "Rejected", "Polished Note": "Rejected", "Abbreviated Note": "Rejected", "Role": "Rejected"})
-                # to save on input tokens: drop the rejected scenario from the memory
-                del judge_conversations_memory[-2:]
-
-                scenario_provider_memory.append({"role": "user", "content": latest_message})
-
-            # reset to respect the input token limit
-            # the second condition prevents the occurance of infinite loops of rejecting scenarios.
-            if  ((len(approved_notes) % 4) == 0) or (len(scenario_provider_memory) >= 6):
-                     judge_conversations_memory = []
-
-            # Respecting the number of needed approved notes
-            if len(approved_notes) >= notes_count:
-                break
-
-    except Exception as e:
-        print(f"An error occurred during note generation: {e}")
-    
-    finally:
-        # Combine the results
-        results = approved_notes + rejected_scenarios
-        current_date = datetime.now().strftime("%Y-%m-%d")
-        sanitized_description = sanitize_filename(disease_description)
-        results_df= pd.DataFrame(results)
-        full_path= f"{path_to_save_notes}/{sanitized_description}_{current_date}.csv"
-        results_df.to_csv(full_path, index=False, sep="|")
-
-
-
-
-
-
-################ For ablation whole pipeline withdeepseek-ai/DeepSeek-R1-Distill-Llama-70B ends ############
 
 
 

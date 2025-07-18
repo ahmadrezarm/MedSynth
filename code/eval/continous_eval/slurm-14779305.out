@@ -1,9 +1,0 @@
-Wed Feb  5 22:15:47 EST 2025: Job 14779305 is allocated resource
-🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
-Unsloth: If you want to finetune Gemma 2, upgrade flash-attn to version 2.6.3 or higher!
-Newer versions support faster and less memory usage kernels for Gemma 2's attention softcapping!
-To update flash-attn, do the below:
-
-pip install --no-deps --upgrade "flash-attn>=2.6.3"
-🦥 Unsloth Zoo will now patch everything to make training faster!
-Wed Feb 5 22:16:07 EST 2025: Job 14779305 finished running, exit code: 0
