@@ -12,5 +12,6 @@ data/output/notes_onVector/phase_2_to_12_combined
 code/data_gen/get_cosine_similarity_score_within_notes.py
 code/benchmarking
 code/data_gen/gen_utils/semantic_similarity_functions.py
-documents_and_paper
-data
+documents_and_paper/
+data/output/
+data/eval_results/
