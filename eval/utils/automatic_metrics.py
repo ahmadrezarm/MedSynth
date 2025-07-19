@@ -1,7 +1,6 @@
 import evaluate
 import numpy as np
 
-#from utils.medcon import UMLSScorer 
 
 class MetricsComputer:
     def __init__(self, prediction_list, gt_list):
@@ -29,13 +28,6 @@ class MetricsComputer:
         return results["meteor"]
     
     
-    # awaiting UML licence to install QuickUMLS
-    """ 
-    def compute_MEDCON(self):
-        medcon = UMLSScorer()
-        score_medcon = medcon(self.gt_list, self.pred_list)
-        return score_medcon
-    """ 
 
 
 
