@@ -363,34 +363,6 @@ def get_and_save_qwen_preference_scores(model_A_name, model_B_name,
 
 
 
-
-''' 
-comparisons_to_run_med42 = {
-                        "pair1": {"model_A_name": "MS_10k_and_Aci",
-                               "model_A_data_path": "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/eval_results/cont_eval/AhmadData_10k_samples_and_aci_train_model_2024-08-11.csv",
-                               "model_B_name": "NC_10k_and_Aci",
-                               "model_B_data_path": "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/eval_results/cont_eval/NoteChat_10k_samples_and_aci_train_model_2024-08-11.csv"},
-
-
-                        "pair2": {"model_A_name": "MS_10k_Only",
-                               "model_A_data_path": "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/eval_results/cont_eval/Ahmad_10k_samples_Only_model_2024-08-17.csv",
-                               "model_B_name": "NC_10k_Only",
-                               "model_B_data_path": "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/eval_results/cont_eval/NoteChat_10k_samples_Only_model_2024-08-16.csv"},
-
-
-                        "pair3": {"model_A_name": "MS_57_and_Aci",
-                               "model_A_data_path": "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/eval_results/cont_eval/ACI_Ahmad57_and_Aci_2024-12-14.csv",
-                               "model_B_name": "PriMock_and_Aci",
-                               "model_B_data_path": "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/eval_results/cont_eval/ACI_Primock57_and_Aci_2024-12-14.csv"},
-
-
-                        "pair4": {"model_A_name": "MS_57_Only",
-                               "model_A_data_path": "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/eval_results/cont_eval/ACI_Ahmad57_Only_2024-12-14.csv",
-                               "model_B_name": "PriMock_Only",
-                               "model_B_data_path": "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/eval_results/cont_eval/ACI_Primock57_Only_2024-12-14.csv"},
-
-                }
-''' 
 comparisons_to_run= {
                      "pair00": {"model_A_name": "MS_10k_and_Aci",
                                "model_A_data_path": "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/eval_results/cont_eval/AhmadData_10k_samples_and_aci_train_model_2024-08-11.csv",

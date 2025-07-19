@@ -42,76 +42,7 @@ class ModelEvaluatorAutoMetrics:
         # Using FastLanguageModel for fast inference
         FastLanguageModel.for_inference(self.model)
 
-    """ 
-    def _prepare_model(self, model):
 
-        # QLoRA config
-        bnb_config = BitsAndBytesConfig(
-            load_in_4bit=True,
-            bnb_4bit_quant_type="nf4",
-            bnb_4bit_compute_dtype=torch.float16, 
-            bnb_4bit_use_double_quant=True,
-        )
-
-        # Load tokenizer
-        tokenizer = AutoTokenizer.from_pretrained(model)
-
-        # Load model
-        model = AutoModelForCausalLM.from_pretrained(
-            model,
-            quantization_config=bnb_config,
-            device_map="auto",
-        )
-
-        return model, tokenizer
-    """ 
-
-
-    ''' 
-    def _prepare_messages(self, messages, tokenizer, model):
-            input_ids = tokenizer.apply_chat_template(
-                messages,
-                add_generation_prompt=True,
-                return_tensors="pt"
-            ).to(model.device)
-            
-            terminators = [
-            tokenizer.eos_token_id,
-            tokenizer.convert_tokens_to_ids("<|eot_id|>")
-            ]
-
-            return input_ids, terminators
-            
-
-    def get_model_responses(self):
-        #model, tokenizer = self._prepare_model(self.model)
-        dial_summary_pairs = {}
-        for idx, conversation in enumerate (self.test_dataset["dialogue"]):
-            print(f"processing idx: {idx}")
-            messages = [
-                {"role": "system", "content": self.summarizer_system_promt},
-                {"role": "user", "content": f"""{conversation}"""},
-            ]
-
-            input_ids, terminators= self._prepare_messages(messages, self.tokenizer, self.model)
-
-            outputs = self.model.generate(
-                input_ids,
-                max_new_tokens= self.generation_config["max_new_tokens"],
-                eos_token_id= terminators,
-                do_sample= self.generation_config["do_sample"],
-                temperature= self.generation_config["temperature"],
-                top_p= self.generation_config["top_p"],
-            )
-
-            response= outputs[0][input_ids.shape[-1]:]
-            summary= self.tokenizer.decode(response, skip_special_tokens=True)
-
-            dial_summary_pairs[idx]= {"conversation": conversation, "summary": summary}
-
-        return dial_summary_pairs
-        
-    ''' 
 
 
     def get_model_responses(self):

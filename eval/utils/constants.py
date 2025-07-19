@@ -16,8 +16,8 @@ dial_augmentor_system_prompt= """You are an assistant for medical professionals,
 base_model= "unsloth/llama-3-8b-Instruct" # changed to be consistent with the training.
 #"meta-llama/Meta-Llama-3-8B-Instruct"
 
-Aci_test_path = "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/input/clinicalnlp_taskC_test2.csv"
-Aci_train_path = "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/input/TaskC-TrainingSet.csv"
+Aci_test_path = "path_to/clinicalnlp_taskC_test2.csv"
+Aci_train_path = "path_to/TaskC-TrainingSet.csv"
 
 # useful link: https://huggingface.co/docs/transformers/main_classes/text_generation#transformers.GenerationConfig
 model_evaluator_generation_config = {"max_new_tokens":3000,
@@ -53,27 +53,6 @@ Here is the ground truth note:
 
 
 
- 
-OLD_prometheus_preference_rubric= """
-1. Completeness:
-    - Does the summary include all significant components of the SOAP format?
-    - Are there any crucial aspects of the conversation missing from the summary?
-2. Accuracy:
-    - How accurately does the summary reflect the details of the conversation as they were discussed?
-    - Are there any discrepancies between what was said and what is noted?
-3. Clarity and Structure:
-    - Is the summary well-organized, following the logical flow of Subjective, Objective, Assessment, Plan?
-    - Is the information presented in a clear and understandable manner?
-4. Use of Medical Terminology:
-    - Is medical terminology used correctly and effectively throughout the summary?
-    - Does the use of terminology enhance the clarity and precision of the summary?
-5. Evidence-Based Support:
-    - In the Assessment and Plan sections, are the conclusions and recommendations supported by appropriate medical guidelines or literature?
-    - Does the summary demonstrate a thoughtful and knowledgeable approach to patient care?
-"""
-
-
-
 
 prometheus_preference_rubric = """ 
 1. Hallucination:
@@ -95,15 +74,6 @@ prometheus_preference_rubric = """
     - Does the summary note accurately assign clinical information to the correct sections (e.g., patient-reported details in Subjective, objective findings in Objective, clinician insights in Assessment, and treatment strategies in Plan)?
 """
 
-DELETED_ITEMS= """ 
-3. Redundancy:
-    - Does the summary note present clinical information succinctly without unnecessary repetition or redundant details?
-    - Does every element contribute meaningfully to clarity and precision?
-
-
- include sections for Subjective, Objective, Assessment, and Plan? Subjective section can include or be subsituted by Chief Complaint (CC), History of Present Illness (HPI), History, Review of Systems (ROS), and Current Medications And Allergies.
-        Objective section can include or be substituted by Vital signs, Physical exam findings, Laboratory data, Imaging results, Other diagnostic data, and Recognition and review of the documentation of other clinicians.
-"""
 
 
 
@@ -277,5 +247,5 @@ tuning_config = {
 
 NOTE_CHAT_HF_PATH= "akemiH/NoteChat"
 NUM_NOTE_CHAT_SAMPLES= 500
-PATH_TO_SAVE_NOTE_CHAT_SAMPLES= "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/input/NoteChatSamples"
+PATH_TO_SAVE_NOTE_CHAT_SAMPLES= "your_path"
 NOTE_CHAT_SAMPLE_BASE_NAME= "note_chat_sample"
