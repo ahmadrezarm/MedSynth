@@ -1,0 +1,17 @@
+*.env*
+data/output/notes_onVector/phase_2_to_12_combined/total_data.csv
+eval/utils/outputs
+data/input/NoteChatSamples/Dial2Note
+data/input/AhmadData_Sample
+eval/outputs
+eval/outputs/
+aci_challenge_data
+aci_code
+data/input/PMC_Patents
+data/output/notes_onVector/phase_2_to_12_combined
+data_gen/get_cosine_similarity_score_within_notes.py
+benchmarking
+data_gen/gen_utils/semantic_similarity_functions.py
+documents_and_paper/
+data/output/
+data/eval_results/
