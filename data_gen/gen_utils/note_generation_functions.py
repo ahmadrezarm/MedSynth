@@ -120,31 +120,6 @@ def judge_evaluate_scenario_no_judge_ablation(scenario, judge_conversations_memo
 
 
 
-""" 
-def abbreviate_note(note, openai_client):
-        note_response = openai_client.chat.completions.create(
-                model=gen_constants.note_abbreviator_config["model"],
-                temperature = gen_constants.note_abbreviator_config["temperature"],
-                max_tokens = gen_constants.note_abbreviator_config["max_tokens"],
-                top_p = gen_constants.note_abbreviator_config["top_p"],
-                frequency_penalty = gen_constants.note_abbreviator_config["frequency_penalty"],
-                presence_penalty = gen_constants.note_abbreviator_config["presence_penalty"],
-                messages=[
-                    {
-                        "role": "system",
-                        "content": gen_constants.NOTE_ABBREVIATOR_SYSTEM_PROMPT 
-                    },
-                    {
-                        "role": "user",
-                        "content": note
-                    }
-                ]
-                )
-        return note_response.choices[0].message.content
-    """
-
-def abbreviate_note_judge_ablation(note, openai_client):
-     return "ablation"
 
 ################# For ablation No Judge end #####################
 
@@ -167,12 +142,7 @@ HfFolder.save_token(HF_WRITE_TOKEN)
 
 from gen_utils import gen_constants
 
-MODEL_PATH = f"/model-weights/Llama-3.3-70B-Instruct"
-
-
 def load_local_model(MODEL_PATH):
-
-
     quantization_config = BitsAndBytesConfig(
     load_in_4bit=True,
     bnb_4bit_quant_type="nf4",
@@ -190,18 +160,6 @@ def load_local_model(MODEL_PATH):
         )
     return model, tokenizer
 
-
-def load_unsloth_model(model_id):
-    model, tokenizer=  FastLanguageModel.from_pretrained(model_name = model,
-                                                                        max_seq_length = gen_constants.scenario_judge_config["max_tokens"],
-                                                                        dtype = torch.bfloat16,
-                                                                        load_in_4bit = False,
-                                                                        temperature= 0.001)
-
-    ############# add this to the next function instead ######
-    FastLanguageModel.for_inference(model)
-    ##########################################################
-    return model, tokenizer
 
 
 
@@ -292,12 +250,11 @@ def generate_and_save_medical_notes_llama3_as_judge(disease_description, notes_c
                 role = _extract_role(scenario)
                 note = doctor_generate_note(scenario, openai_client)
                 polished_note = polish_note(note, openai_client)
-                abbreviated_note= abbreviate_note_judge_ablation(polished_note, openai_client)
-                approved_notes.append({"Disease Description": disease_description, "Scenario": scenario, "Note": note, "Polished Note": polished_note, "Abbreviated Note": abbreviated_note, "Role": role })
+                approved_notes.append({"Disease Description": disease_description, "Scenario": scenario, "Note": note, "Polished Note": polished_note, "Role": role })
                 scenario_provider_memory = []
                 print(f"Note number {len(approved_notes)} has been generated!")
             else:
-                rejected_scenarios.append({"Disease Description": disease_description, "Scenario": scenario, "Note": "Rejected", "Polished Note": "Rejected", "Abbreviated Note": "Rejected", "Role": "Rejected"})
+                rejected_scenarios.append({"Disease Description": disease_description, "Scenario": scenario, "Note": "Rejected", "Polished Note": "Rejected", "Role": "Rejected"})
                 # to save on input tokens: drop the rejected scenario from the memory
                 del judge_conversations_memory[-2:]
 
@@ -445,13 +402,9 @@ def polish_note_with_lamma(note, model, tokenizer):
     return polished_note
 
 
-def abbreviate_note_all_lamma():
-     return "ablation"
 
 
-def generate_and_save_medical_notes_all_llama3(disease_description, notes_count, 
-                                                    model, tokenizer,
-                                                    path_to_save_notes):
+def generate_and_save_medical_notes_all_llama3(disease_description, notes_count, model, tokenizer,path_to_save_notes):
     
     approved_notes = []
     rejected_scenarios = []
@@ -473,12 +426,11 @@ def generate_and_save_medical_notes_all_llama3(disease_description, notes_count,
                 role = _extract_role(scenario)
                 note = doctor_generate_note_with_lamma(scenario, model, tokenizer)
                 polished_note = polish_note_with_lamma(note, model, tokenizer)
-                abbreviated_note= abbreviate_note_all_lamma()
-                approved_notes.append({"Disease Description": disease_description, "Scenario": scenario, "Note": note, "Polished Note": polished_note, "Abbreviated Note": abbreviated_note, "Role": role })
+                approved_notes.append({"Disease Description": disease_description, "Scenario": scenario, "Note": note, "Polished Note": polished_note, "Role": role })
                 scenario_provider_memory = []
                 print(f"Note number {len(approved_notes)} has been generated!")
             else:
-                rejected_scenarios.append({"Disease Description": disease_description, "Scenario": scenario, "Note": "Rejected", "Polished Note": "Rejected", "Abbreviated Note": "Rejected", "Role": "Rejected"})
+                rejected_scenarios.append({"Disease Description": disease_description, "Scenario": scenario, "Note": "Rejected", "Polished Note": "Rejected", "Role": "Rejected"})
                 # to save on input tokens: drop the rejected scenario from the memory
                 del judge_conversations_memory[-2:]
 
@@ -700,9 +652,6 @@ def polish_note_with_qwen(note, model, tokenizer):
     return polished_note
 
 
-def abbreviate_note_all_qwen():
-     return "ablation"
-
 
 def generate_and_save_medical_notes_all_qwen(disease_description, notes_count, 
                                                     model, tokenizer,
@@ -728,12 +677,11 @@ def generate_and_save_medical_notes_all_qwen(disease_description, notes_count,
                 role = _extract_role(scenario)
                 note = doctor_generate_note_with_qwen(scenario, model, tokenizer)
                 polished_note = polish_note_with_qwen(note, model, tokenizer)
-                abbreviated_note= abbreviate_note_all_qwen()
-                approved_notes.append({"Disease Description": disease_description, "Scenario": scenario, "Note": note, "Polished Note": polished_note, "Abbreviated Note": abbreviated_note, "Role": role })
+                approved_notes.append({"Disease Description": disease_description, "Scenario": scenario, "Note": note, "Polished Note": polished_note, "Role": role })
                 scenario_provider_memory = []
                 print(f"Note number {len(approved_notes)} has been generated!")
             else:
-                rejected_scenarios.append({"Disease Description": disease_description, "Scenario": scenario, "Note": "Rejected", "Polished Note": "Rejected", "Abbreviated Note": "Rejected", "Role": "Rejected"})
+                rejected_scenarios.append({"Disease Description": disease_description, "Scenario": scenario, "Note": "Rejected", "Polished Note": "Rejected", "Role": "Rejected"})
                 # to save on input tokens: drop the rejected scenario from the memory
                 del judge_conversations_memory[-2:]
 
@@ -869,12 +817,11 @@ def generate_and_save_medical_notes(disease_description, notes_count, openai_cli
                 role = _extract_role(scenario)
                 note = doctor_generate_note(scenario, openai_client)
                 polished_note = polish_note(note, openai_client)
-                abbreviated_note= abbreviate_note(polished_note, openai_client)
-                approved_notes.append({"Disease Description": disease_description, "Scenario": scenario, "Note": note, "Polished Note": polished_note, "Abbreviated Note": abbreviated_note, "Role": role })
+                approved_notes.append({"Disease Description": disease_description, "Scenario": scenario, "Note": note, "Polished Note": polished_note, "Role": role })
                 scenario_provider_memory = []
                 print(f"Note number {len(approved_notes)} has been generated!")
             else:
-                rejected_scenarios.append({"Disease Description": disease_description, "Scenario": scenario, "Note": "Rejected", "Polished Note": "Rejected", "Abbreviated Note": "Rejected", "Role": "Rejected"})
+                rejected_scenarios.append({"Disease Description": disease_description, "Scenario": scenario, "Note": "Rejected", "Polished Note": "Rejected", "Role": "Rejected"})
                 # to save on input tokens: drop the rejected scenario from the memory
                 del judge_conversations_memory[-2:]
 

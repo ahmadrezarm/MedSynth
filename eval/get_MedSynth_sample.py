@@ -1,4 +1,4 @@
-from code.eval.continous_eval.utils import MedSynth_data_hf_sampler
+from eval.utils import MedSynth_data_hf_sampler
 
 
 

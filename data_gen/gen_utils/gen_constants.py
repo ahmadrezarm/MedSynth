@@ -1,9 +1,9 @@
 import os
 
 
-OPENAI_API_KEY= "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" #os.getenv('TCAIREM_OPENAI_API_KEY')
+OPENAI_API_KEY= os.getenv('OPENAI_API_KEY')
 
-ACI_TRAIN_SET_PATH= "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/input/TaskC-TrainingSet.csv" #"/Users/ahmadrezaie/2_My_papers/Synthetic_Data_Gen_v2/MedSynth/data/input/TaskC-TrainingSet.csv"
+ACI_TRAIN_SET_PATH= "path_to/TaskC-TrainingSet.csv" 
 
 
 SCENARIO_PROVIDER_SYSTEM_PROMPT= """Assume you are a very experienced physician and you are conducting research. 
@@ -138,52 +138,9 @@ Just output the revised note, not anything else."""
 
 
 
-NOTE_ABBREVIATOR_SYSTEM_PROMPT= """Assume you are a very experienced physician and you are conducting research. 
-The research project is to generate synthetic medical notes from doctor-patient conversations. The notes must be in this format:
-    ** 1. Subjective: This section includes the patient's own description of their symptoms and complaints.
-    ** 2. Objective: This section includes observations and data gathered by the physician, such as vital signs, physical examination findings, and test results.
-    ** 3. Assessment: This section includes the physician's evaluation of the patient's condition, including a diagnosis or differential diagnosis.
-    ** 4. Plan: This section includes the physician's recommendations for treatment, management, and follow-up. 
-    
-You will be given a note. You taks is to make the note more similar to real notes by adding acronyms.
 
-Here is an example of replacement:
-Input Version:
-<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>
-    **4. Plan:** 
-    1. Medications: 
-    - Tramadol 50mg, oral, twice daily for severe pain if needed. 
-    2. Treatment: 
-    - Initiate physical therapy focused on pain management and improving range of motion. 
-    3. Investigations: 
-    - Order MRI of the thoracic spine to assess the extent of osteophytes and any spinal stenosis. 
-    4. Patient Education and Follow-Up: 
-    - Discussed the importance of adherence to prescribed medication and physical therapy. 
-    - Advised on the necessity of MRI for better diagnostic clarity and potential surgical planning. 
-    - Encouraged maintaining blood sugar and blood pressure control through medication and lifestyle changes. 
-    - Return visit in 2 weeks for reassessment and review of MRI results. 
-    
-    5. Referral: 
-    - Referral to a Neurosurgeon, Dr. Karen Mitchell, for further evaluation and to discuss potential surgical options if conservative measures fail. 
-<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>
 
-Output Version:
-<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>
-    Plan:
-    Rx'ed tramadol 50mg PO BID PRN
-    PT for pain mgmt and ROM
-    MRI t-spine ordered ?spinal stenosis
-    referred neurosx Dr K Mitchell for ?surgical options
-    patient educated
-<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>
-
-Try to use accronyms that are populare in medicine in the whole note, not only the "Plan" section. Also, try to 
-preserve the length of the note to at least 70 percent of the original lenth.
-
-You cannot add or remove any information from the note, you can just replace terms with acronyms.
-"""
-
-scenario_generator_config= {"model": "gpt-4o-2024-08-06", #"gpt-4o", # "gpt-4-1106-preview"
+scenario_generator_config= {"model": "gpt-4o-2024-08-06", 
                             "temperature": 1,
                             "max_tokens": 4000,
                             "top_p": 1,
@@ -191,7 +148,7 @@ scenario_generator_config= {"model": "gpt-4o-2024-08-06", #"gpt-4o", # "gpt-4-11
                             "presence_penalty": 0}
 
 
-scenario_judge_config= {"model": "gpt-4o-2024-08-06", #"gpt-4o" # "gpt-4-1106-preview"
+scenario_judge_config= {"model": "gpt-4o-2024-08-06", 
                             "temperature": 0,
                             "max_tokens": 4000,
                             "top_p": 1,
@@ -199,7 +156,7 @@ scenario_judge_config= {"model": "gpt-4o-2024-08-06", #"gpt-4o" # "gpt-4-1106-pr
                             "presence_penalty": 0}
 
 
-note_generator_config= {"model": "gpt-4o-2024-08-06", #"gpt-4o" # "gpt-4-1106-preview"
+note_generator_config= {"model": "gpt-4o-2024-08-06", 
                             "temperature": 0.9,
                             "max_tokens": 4000,
                             "top_p": 1,
@@ -207,7 +164,7 @@ note_generator_config= {"model": "gpt-4o-2024-08-06", #"gpt-4o" # "gpt-4-1106-pr
                             "presence_penalty": 0}
 
 
-note_polisher_config= {"model": "gpt-4o-2024-08-06", #"gpt-4o"# "gpt-4-1106-preview"
+note_polisher_config= {"model": "gpt-4o-2024-08-06", 
                             "temperature": 0,
                             "max_tokens": 4000,
                             "top_p": 1,
@@ -215,117 +172,12 @@ note_polisher_config= {"model": "gpt-4o-2024-08-06", #"gpt-4o"# "gpt-4-1106-prev
                             "presence_penalty": 0}
 
 
-note_abbreviator_config= {"model": "gpt-4o-2024-08-06", #"gpt-4o" # "gpt-4-1106-preview"
-                            "temperature": 0.2,
-                            "max_tokens": 4000,
-                            "top_p": 1,
-                            "frequency_penalty": 0,
-                            "presence_penalty": 0}
 
-
-
-PATH_TO_SAVE_NOTES= "/h/ahmad/SynthDataGen_v2/Synthetic_Data_Gen/data/output/notes_onVector/ablations_on_vector" #"/Users/ahmadrezaie/2_My_papers/Synthetic_Data_Gen_v2/MedSynth/data/output/notes_dial_pairs" #"/Users/ahmadrezaie/papers/Synthetic_Data_Gen/data/output/notes_onVector"
+PATH_TO_SAVE_NOTES= "your_path_to_save_notes" 
 
 
 # for semantic similarity
 embeding_model= "text-embedding-3-small" #source: https://openai.com/api/pricing/
-
-
-
-
-
-
-DELETE= """"
- ** 1. Subjective
-
-        This is the first heading of the SOAP note. Documentation under this heading comes from the “subjective” experiences, personal views or feelings of a patient or someone close to them. In the inpatient setting, interim information is included here. This section provides context for the Assessment and Plan.
-
-        *** Chief Complaint (CC)
-
-        The CC or presenting problem is reported by the patient. This can be a symptom, condition, previous diagnosis or another short statement that describes why the patient is presenting today. The CC is similar to the title of a paper, allowing the reader to get a sense of what the rest of the document will entail.
-
-        Examples: chest pain, decreased appetite, shortness of breath.
-        However, a patient may have multiple CC’s, and their first complaint may not be the most significant one. Thus, physicians should encourage patients to state all of their problems, while paying attention to detail to discover the most compelling problem. Identifying the main problem must occur to perform effective and efficient diagnosis.
-
-        *** History of Present Illness (HPI)
-
-        The HPI begins with a simple one line opening statement including the patient's age, sex and reason for the visit.
-
-        Example: 47-year old female presenting with abdominal pain.
-        This is the section where the patient can elaborate on their chief complaint. An acronym often used to organize the HPI is termed “OLDCARTS”:
-
-        Onset: When did the CC begin?
-        Location: Where is the CC located?
-        Duration: How long has the CC been going on for?
-        Characterization: How does the patient describe the CC?
-        Alleviating and Aggravating factors: What makes the CC better? Worse?
-        Radiation: Does the CC move or stay in one location?
-        Temporal factor: Is the CC worse (or better) at a certain time of the day?
-        Severity: Using a scale of 1 to 10, 1 being the least, 10 being the worst, how does the patient rate the CC?
-        It is important for clinicians to focus on the quality and clarity of their patient's notes, rather than include excessive detail.
-
-        *** History
-        You do not need to foloow the format below strictly, but you can inspire from it:
-
-        Medical history: Pertinent current or past medical conditions
-        Surgical history: Try to include the year of the surgery and surgeon if possible.
-        Family history: Include pertinent family history. Avoid documenting the medical history of every person in the patient's family.
-        Social History: An acronym that may be used here is HEADSS which stands for Home and Environment; Education, Employment, Eating; Activities; Drugs; Sexuality; and Suicide/Depression.
-        
-        *** Review of Systems (ROS)
-
-        This is a system based list of questions that help uncover symptoms not otherwise mentioned by the patient.
-        You do not need to foloow the format below strictly, but you can inspire from it:
-
-        General: Weight loss, decreased appetite
-        Gastrointestinal: Abdominal pain, hematochezia
-        Musculoskeletal: Toe pain, decreased right shoulder range of motion
-        Current Medications, Allergies
-
-        Current medications and allergies may be listed under the Subjective or Objective sections. However, it is important that with any medication documented, to include the medication name, dose, route, and how often. 
-        Example: Motrin 600 mg orally every 4 to 6 hours for 5 days
-
-    ** 2. Objective: 
-        This section documents the objective data from the patient encounter. This includes:
-        You do not need to foloow the format below strictly, but you can inspire from it:
-
-        Vital signs
-        Physical exam findings
-        Laboratory data
-        Imaging results
-        Other diagnostic data
-        Recognition and review of the documentation of other clinicians.
-        A common mistake is distinguishing between symptoms and signs. Symptoms are the patient's subjective description and should be documented under the subjective heading, 
-        while a sign is an objective finding related to the associated symptom reported by the patient. An example of this is a patient stating he has “stomach pain,” which is a symptom, 
-        documented under the subjective heading. Versus “abdominal tenderness to palpation,” an objective sign documented under the objective heading.
-        
-    ** 3. Assessment: 
-        This section documents the synthesis of “subjective” and “objective” evidence to arrive at a diagnosis. This is the assessment of the patient’s status through analysis of the problem, possible interaction of the problems, and changes in the status of the problems. Elements include the following.
-        You do not need to foloow the format below strictly, but you can inspire from it:
-        *** Problem
-        List the problem list in order of importance. A problem is often known as a diagnosis. Explain the reasons for the diagnoses. This is where the decision-making process is explained in depth.
-        *** Differential Diagnosis
-        This is a list of the different possible diagnosis, from most to least likely, and the thought process behind this list. This is where the decision-making process is explained in depth. Included should be the possibility of other diagnoses that may harm the patient, but are less likely.
-    ** 4. Plan:
-        This section details the need for additional testing and consultation with other clinicians to address the patient's illnesses. It also addresses any additional steps being taken to treat the patient. This section helps future physicians understand what needs to be done next. For each problem:
-        You do not need to foloow the format below strictly, but you can inspire from it:
-
-        *** State which testing is needed and the rationale for choosing each test to resolve diagnostic ambiguities; ideally what the next step would be if positive or negative
-        *** Therapy needed (medications)
-        *** Specialist referral(s) or consults
-        *** Patient education, counseling
-A comprehensive SOAP note has to take into account all subjective and objective information, and accurately assess it to create the patient-specific assessment and plan.
-Try to write the notes in complete scentiences, and only sometimes use bullet points. For example, 
-do not always list the objective sections as:
-        Vital signs
-        Physical exam findings
-        Laboratory data
-        Imaging results
-        Other diagnostic data
-        Recognition and review of the documentation of other clinicians.
-
-Try to write it in a paragraph and include all the information. You can sometimes use this lists, not always, to ensure diversity in the styles of the notes.
-"""
 
 
 
@@ -455,12 +307,9 @@ DIALOGUE_POLISHER_SYSTEM_PROMPT= """ Expand the conversation. You must add chit 
   <<<<<<<>>>>>>>>
   """
 
-"For example, the general logical order of the conversation is: first discussing symptoms, then discussing the medical history, followed by discussing testing and results, and finally discussing treatment options, conclusioin etc."
-DELETE_2= " If you find this conversation to be incoherent, you can try dividing it into two separate coherent conversations."
 
 
-
-dial_generator_config= {"model": "gpt-4o-2024-08-06", #"gpt-4o" # "gpt-4-1106-preview"
+dial_generator_config= {"model": "gpt-4o-2024-08-06", 
                             "temperature": 0.7,
                             "max_tokens": 4095,
                             "top_p": 1,
@@ -469,7 +318,7 @@ dial_generator_config= {"model": "gpt-4o-2024-08-06", #"gpt-4o" # "gpt-4-1106-pr
 
 
 
-dial_polisher_config= {"model": "gpt-4o-2024-08-06", #"gpt-4o" # "gpt-4-1106-preview"
+dial_polisher_config= {"model": "gpt-4o-2024-08-06",
                             "temperature": 0.5,
                             "max_tokens": 4095,
                             "top_p": 1,
