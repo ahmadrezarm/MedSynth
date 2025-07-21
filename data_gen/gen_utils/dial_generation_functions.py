@@ -42,8 +42,8 @@ def initialize_openai_client():
 
 
 
-def generate_dialogue(note, openai_client):
-        aci_train_df= pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)
+def generate_dialogue(note, openai_client, ACI_TRAIN_SET_PATH):
+        aci_train_df= pd.read_csv(ACI_TRAIN_SET_PATH)
         randome_index_1= random.randint(32, 66) # just aci
         randome_index_2= random.randint(32, 66) # just aci
         randome_index_3= random.randint(32, 66) # just aci
@@ -111,11 +111,11 @@ def polish_dialogue(dialogue, medical_not, openai_client):
 
 
 
-def generate_dialouge_for_df(note_df, openai_client):
+def generate_dialouge_for_df(note_df, openai_client, ACI_TRAIN_SET_PATH):
     filtered_df = note_df[note_df["Note"] != "Rejected"]
     for idx, row in filtered_df.iterrows():
         print(f"Generating dialogue for idx: {idx}")
-        dial = generate_dialogue(row["Note"], openai_client=openai_client)
+        dial = generate_dialogue(row["Note"], openai_client=openai_client, ACI_TRAIN_SET_PATH= ACI_TRAIN_SET_PATH)
         polished_dial = polish_dialogue(dialogue=dial, medical_not= row["Note"], openai_client=openai_client)
         note_df.at[idx, "dial"] = dial
         note_df.at[idx, "polished_dial"] = polished_dial
@@ -152,8 +152,8 @@ def load_local_model(MODEL_PATH):
     return model, tokenizer
 
 
-def generate_dialogue_lamma(note, model, tokenizer):
-        aci_train_df= pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)
+def generate_dialogue_lamma(note, model, tokenizer, ACI_TRAIN_SET_PATH):
+        aci_train_df= pd.read_csv(ACI_TRAIN_SET_PATH)
         randome_index_1= random.randint(32, 66) # just aci
         randome_index_2= random.randint(32, 66) # just aci
         randome_index_3= random.randint(32, 66) # just aci
@@ -249,8 +249,8 @@ def generate_dialouge_for_df_lamma(note_df, model, tokenizer):
 
 ############# Ablation all Qwen begins ################ 
 
-def generate_dialogue_qwen(note, model, tokenizer):
-        aci_train_df= pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)
+def generate_dialogue_qwen(note, model, tokenizer, ACI_TRAIN_SET_PATH):
+        aci_train_df= pd.read_csv(ACI_TRAIN_SET_PATH)
         randome_index_1= random.randint(32, 66) # just aci
         randome_index_2= random.randint(32, 66) # just aci
         randome_index_3= random.randint(32, 66) # just aci
