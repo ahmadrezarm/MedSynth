@@ -88,10 +88,6 @@ class ModelTuner:
                 seed = 42,
                 output_dir = self.tuning_config.get("training_config").get("output_dir"),
                 ),
-                #save_steps=200,  # Save checkpoint every 200 steps
-                #save_total_limit=4,  # Only keep the last 3 checkpoints
-                #load_best_model_at_end=True,
-                #resume_from_checkpoint=True,  # Automatically resume from the last checkpoint
                 
         )
 
@@ -103,16 +99,6 @@ class ModelTuner:
         self._prepare_model_for_peft()
         self._load_training_data()
         self._prepare_trainer()
-
-        # Check if there is a checkpoint to resume from
-        # last_checkpoint = None
-        # if torch.cuda.is_available() and torch.cuda.device_count() > 1:
-        #     last_checkpoint = TrainingArguments.get_last_checkpoint(self.tuning_config.get("training_config").get("output_dir"))
-        # if last_checkpoint is not None:
-        #     print(f"Resuming from checkpoint {last_checkpoint}")
-        #     self.trainer.train(resume_from_checkpoint=last_checkpoint)
-        # else:
-        #     self.trainer.train()
 
         self.trainer.train()
         # saving the model to the hub:
