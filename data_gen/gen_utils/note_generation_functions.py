@@ -46,9 +46,9 @@ def initialize_openai_client():
 
 
 
-def doctor_generate_scenario(condition, scenario_provider_memory, openai_client):
+def doctor_generate_scenario(condition, scenario_provider_memory, openai_client, ACI_TRAIN_SET_PATH):
 
-        aci_train_df= pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)
+        aci_train_df= pd.read_csv(ACI_TRAIN_SET_PATH)
         randome_index= random.randint(0, 66)
         aci_note_sample= aci_train_df["note"][randome_index]
         scenario_prompt= gen_constants.SCENARIO_PROVIDER_SYSTEM_PROMPT.format(EXAMPLE_NOTE=aci_note_sample)
@@ -133,7 +133,6 @@ from transformers import BitsAndBytesConfig
 from huggingface_hub import HfFolder
 import os
 
-from unsloth import FastLanguageModel
 
 HF_WRITE_TOKEN = os.getenv('MY_HF_WRITE_TOKEN')
 HF_READ_TOKEN = os.getenv('MY_HF_READ_TOKEN')
@@ -302,8 +301,8 @@ We need a few more functions for note generation:
         4. generate_and_save_medical_notes_all_llama
 """
 
-def doctor_generate_scenario_with_llama(condition, scenario_provider_memory, model, tokenizer):
-    aci_train_df= pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)
+def doctor_generate_scenario_with_llama(condition, scenario_provider_memory, model, tokenizer, ACI_TRAIN_SET_PATH):
+    aci_train_df= pd.read_csv(ACI_TRAIN_SET_PATH)
     randome_index= random.randint(0, 66)
     aci_note_sample= aci_train_df["note"][randome_index]
 
@@ -343,8 +342,8 @@ def doctor_generate_scenario_with_llama(condition, scenario_provider_memory, mod
 
 
 
-def doctor_generate_note_with_lamma(scenario, model, tokenizer):
-    aci_train_df= pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)
+def doctor_generate_note_with_lamma(scenario, model, tokenizer, ACI_TRAIN_SET_PATH):
+    aci_train_df= pd.read_csv(ACI_TRAIN_SET_PATH)
     randome_index= random.randint(0, 66)
     aci_note_sample= aci_train_df["note"][randome_index]
 
@@ -538,8 +537,8 @@ def judge_evaluate_scenario_with_qwen(scenario, judge_conversations_memory, mode
     return decision, latest_message
 
 
-def doctor_generate_scenario_with_qwen(condition, scenario_provider_memory, model, tokenizer):
-    aci_train_df= pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)
+def doctor_generate_scenario_with_qwen(condition, scenario_provider_memory, model, tokenizer, ACI_TRAIN_SET_PATH):
+    aci_train_df= pd.read_csv(ACI_TRAIN_SET_PATH)
     randome_index= random.randint(0, 66)
     aci_note_sample= aci_train_df["note"][randome_index]
 
@@ -580,8 +579,8 @@ def doctor_generate_scenario_with_qwen(condition, scenario_provider_memory, mode
 
 
 
-def doctor_generate_note_with_qwen(scenario, model, tokenizer):
-    aci_train_df= pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)
+def doctor_generate_note_with_qwen(scenario, model, tokenizer, ACI_TRAIN_SET_PATH):
+    aci_train_df= pd.read_csv(ACI_TRAIN_SET_PATH)
     randome_index= random.randint(0, 66)
     aci_note_sample= aci_train_df["note"][randome_index]
     note_generator_system_prompt= gen_constants.NOTE_GENERATOR_SYSTEM_PROMPT.format(EXAMPLE_NOTE=aci_note_sample)  
@@ -716,8 +715,8 @@ def generate_and_save_medical_notes_all_qwen(disease_description, notes_count,
 
 
 
-def doctor_generate_note(scenario, openai_client):
-        aci_train_df= pd.read_csv(gen_constants.ACI_TRAIN_SET_PATH)
+def doctor_generate_note(scenario, openai_client, ACI_TRAIN_SET_PATH):
+        aci_train_df= pd.read_csv(ACI_TRAIN_SET_PATH)
         randome_index= random.randint(0, 66)
         aci_note_sample= aci_train_df["note"][randome_index]
 
@@ -797,7 +796,7 @@ def sanitize_filename(filename):
 
 # given a disease_description and number of required notes, generates notes.
 def generate_and_save_medical_notes(disease_description, notes_count, openai_client,
-                                    path_to_save_notes):
+                                    path_to_save_notes, ACI_TRAIN_SET_PATH):
     
     approved_notes = []
     rejected_scenarios = []
@@ -805,7 +804,7 @@ def generate_and_save_medical_notes(disease_description, notes_count, openai_cli
     scenario_provider_memory= []
     try:
         while True:
-            scenario = doctor_generate_scenario(disease_description, scenario_provider_memory, openai_client)
+            scenario = doctor_generate_scenario(disease_description, scenario_provider_memory, openai_client, ACI_TRAIN_SET_PATH)
 
             # if len(scenario_provider_memory) == 0:
             #     scenario_provider_memory.append({"role": "user", "content": disease_description})
@@ -815,7 +814,7 @@ def generate_and_save_medical_notes(disease_description, notes_count, openai_cli
             decision, latest_message = judge_evaluate_scenario(scenario, judge_conversations_memory, openai_client)
             if decision == "Go" or decision == "Go.":
                 role = _extract_role(scenario)
-                note = doctor_generate_note(scenario, openai_client)
+                note = doctor_generate_note(scenario, openai_client, ACI_TRAIN_SET_PATH)
                 polished_note = polish_note(note, openai_client)
                 approved_notes.append({"Disease Description": disease_description, "Scenario": scenario, "Note": note, "Polished Note": polished_note, "Role": role })
                 scenario_provider_memory = []

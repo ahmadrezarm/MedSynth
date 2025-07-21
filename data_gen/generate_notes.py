@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 import argparse
+from pathlib import Path
 
 from gen_utils import note_generation_functions
 from gen_utils import gen_constants
@@ -16,6 +17,8 @@ def file_exists(disease_description, path_to_save_notes):
 def main():
     parser = argparse.ArgumentParser(description="Generate synthetic medical notes.")
     parser.add_argument("--output_dir", type=str, required=True, help="Path to save generated notes")
+    parser.add_argument("--icd_csv_path", type=str, default=None, help="Path to IQVIA_cleaned.csv")
+    parser.add_argument("--aci_train_path", type=str, default=None, help="Path to TaskC-TrainingSet.csv")
     parser.add_argument("--num_icd10", type=int, default=50, help="Number of ICD10 descriptions to use")
     parser.add_argument("--notes_per_icd10", type=int, default=5, help="Number of notes to generate per ICD10 description")
     args = parser.parse_args()
@@ -23,7 +26,9 @@ def main():
 
     openai_client= note_generation_functions.initialize_openai_client()
 
-    input_csv_path = os.path.join(os.path.dirname(__file__), "../../data/input/IQVIA/IQVIA_cleaned.csv")
+    input_csv_path = Path(args.icd_csv_path).expanduser().resolve()
+    aci_train_path = Path(args.aci_train_path).expanduser().resolve()
+
     df = pd.read_csv(input_csv_path, sep="|")
     top_n_icd10_desc = df['ICD10_desc'].head(args.num_icd10).tolist()
 
@@ -35,7 +40,8 @@ def main():
                 note_generation_functions.generate_and_save_medical_notes(disease_description= disease, 
                                                               notes_count= args.notes_per_icd10, 
                                                               openai_client= openai_client,
-                                                              path_to_save_notes= path_to_save_notes) 
+                                                              path_to_save_notes= path_to_save_notes, 
+                                                              ACI_TRAIN_SET_PATH= aci_train_path) 
             counter += 1
 
 
