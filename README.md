@@ -12,7 +12,7 @@ The data generation pipeline can be brokendown into note-generation and dialogue
 
 The note-generation pipeline is presented in figure below:
 
-![Alt text](note_gen.png)
+![MedSynth Note Generation Pipeline](note_gen.png)
 
 ### Environment Setup
 You can set up the Conda environment using the `environment.yml` file.
