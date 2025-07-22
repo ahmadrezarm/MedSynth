@@ -18,12 +18,18 @@ First, set your `OPENAI_API_KEY` as an environment variable.
 #### To Generate Synthetic Medical Notes
 You can use the code below to generte notes: 
 ```
+# --output_dir: where to save the results
+# --icd_csv_path: path to data/input/IQVIA/IQVIA_cleaned.csv
+# --aci_train_path: path to data/input/TaskC-TrainingSet.csv
+# --num_icd10: number of ICD10 codes to generate synthetic notes for
+# --notes_per_icd10: number of synthetic notes per ICD10 code
+
 python generate_notes.py \
-  --output_dir "path" \
-  --icd_csv_path "path"\
-  --aci_train_path "path" \
-  --num_icd10 50 \
-  --notes_per_icd10 5
+  --output_dir "path" \ 
+  --icd_csv_path "path"\ 
+  --aci_train_path "path" \ 
+  --num_icd10 50 \ 
+  --notes_per_icd10 5 
   ```
 
 Alternatively, you can use `slurm_generate_notes.sh` to generate notes. These will generate 5 notes per ICD-10 description by default, each saved as a separate `.csv` file in the specified directory.
@@ -32,6 +38,9 @@ If desired, you can change the number of notes per ICD-10 code by modifying `not
 #### To Generate Corresponding Synthetic Dialogues
 You can use the follwing code: 
 ```
+# --output_dir: where to save the results
+# --aci_train_path: path to data/input/TaskC-TrainingSet.csv
+
 python generate_dialogues.py \
   --path_to_input "path" \
   --aci_train_path "path"
