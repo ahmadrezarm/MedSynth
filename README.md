@@ -8,6 +8,12 @@ where open-access, privacy-compliant, and diverse training data are scarce.
 You can find an example of how to integrate MedSynth into a dialogue-to-note summarization pipeline in: `examples/dial2note_example.ipynb`. This example is configured to run on **Google Colab**.
 
 ## Reproducing Results and Generating Synthetic Data Using the Proposed Pipeline
+The data generation pipeline can be brokendown into note-generation and dialogue generation pipelines.
+
+The note-generation pipeline is presented in figure below:
+
+![Alt text](note_gen.png)
+
 ### Environment Setup
 You can set up the Conda environment using the `environment.yml` file.
 
