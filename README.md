@@ -1,5 +1,12 @@
 # MedSynth
 
+Physicians spend significant time documenting clinical encounters, a burden that contributes to professional burnout. To address this, robust automation tools for medical documentation are crucial. We introduce MedSynth – a novel dataset of synthetic medical dialogues and notes designed to advance the Dialogue-to-Note (Dial-2-Note) and Note-to-Dialogue (Note-2-Dial) tasks. Informed by an extensive analysis of disease distributions, this dataset includes over 10,000 dialogue-note pairs covering over 2000 ICD-10 codes. We demonstrate that our dataset markedly enhances the perormance of models in generating medical notes from dialogues, and dialogues from medical notes. The dataset provides a valuable resource in a field
+where open-access, privacy-compliant, and diverse training data are scarce. 
+
+## Example Integration into medical dialgouge-to-note summarization task:
+
+You can find an example of how to integrate MedSynth into dialogue-to-note summarization pipeline under: `examples/dial2note_example.ipynb`. The example is adjusted to work on **Google Colab**.
+
 ## Environment Setup:
 You can set up the Conda environment using the `environment.yml` file.
 
