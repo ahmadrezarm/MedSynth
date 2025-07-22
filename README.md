@@ -10,9 +10,11 @@ You can find an example of how to integrate MedSynth into a dialogue-to-note sum
 ## Reproducing Results and Generating Synthetic Data Using the Proposed Pipeline
 The data generation pipeline can be brokendown into note-generation and dialogue generation pipelines.
 
-The note-generation pipeline is presented in figure below:
+The note-generation pipeline is presented in figure below. Please refer to the paper for more details.
 
 ![MedSynth Note Generation Pipeline](note_gen.png)
+
+The dialogue generation pipeline has two agents: dialogue generator and dialogue polisher. Please refer to the paper for more details.
 
 ### Environment Setup
 You can set up the Conda environment using the `environment.yml` file.
