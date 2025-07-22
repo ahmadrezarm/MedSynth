@@ -9,21 +9,25 @@ First, set your `OPENAI_API_KEY` as an environment variable.
 
 ### To Generate Synthetic Medical Notes:
 You can use the code below to generte notes: 
-```python generate_notes.py \
+```
+python generate_notes.py \
   --output_dir "path" \
   --icd_csv_path "path"\
   --aci_train_path "path" \
   --num_icd10 50 \
-  --notes_per_icd10 5 ```
+  --notes_per_icd10 5
+  ```
 
 Alternatively, you can use `slurm_generate_notes.sh` to generate notes. These will generate 5 notes per ICD-10 description by default, each saved as a separate `.csv` file in the specified directory.
 If desired, you can change the number of notes per ICD-10 code by modifying `notes_count= 5`. 
 
 ### To Generate Corresponding Synthetic Dialogues:
 You can use the follwing code: 
-```python generate_dialogues.py \
+```
+python generate_dialogues.py \
   --path_to_input "path" \
-  --aci_train_path "path" ```
+  --aci_train_path "path"
+```
 
 Alternatively, you can use `slurm_generate_dialogue.sh`. These will generate corresponding dialogues for the notes in the directory.
 You can combine the resulting `.csv` files into a single `.csv` using `data_gen/extract_data_pairs_from_dfs.py`.
