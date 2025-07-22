@@ -22,8 +22,7 @@ source /pkgs/anaconda3/bin/activate path_to_your_env || conda activate path_to_y
 # put your command here
 python generate_dialogues.py \
   --path_to_input "path" \
-  --num_icd10 50 \
-
+  --aci_train_path "path" 
 
 
 echo `date`: "Job $SLURM_JOB_ID finished running, exit code: $?"

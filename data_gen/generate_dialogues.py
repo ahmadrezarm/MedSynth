@@ -10,7 +10,6 @@ def main():
     parser = argparse.ArgumentParser(description="Generate synthetic medical dialogues.")
     parser.add_argument("--path_to_input", type=str, required=True, help="Path to the directory you have notes in")
     parser.add_argument("--aci_train_path", type=str, default=None, help="Path to TaskC-TrainingSet.csv")
-    parser.add_argument("--num_icd10", type=int, default=50, help="Number of ICD10 descriptions to use")
     args = parser.parse_args()
 
     aci_train_path = Path(args.aci_train_path).expanduser().resolve()

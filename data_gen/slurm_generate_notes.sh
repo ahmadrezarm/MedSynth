@@ -22,6 +22,8 @@ source /pkgs/anaconda3/bin/activate path_to_your_env || conda activate path_to_y
 # put your command here
 python generate_notes.py \
   --output_dir "path" \
+  --icd_csv_path "path"\
+  --aci_train_path "path" \
   --num_icd10 50 \
   --notes_per_icd10 5
 
