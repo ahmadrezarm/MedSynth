@@ -37,14 +37,20 @@ You can combine the resulting `.csv` files into a single `.csv` using `data_gen/
 ## To evaluate the generated dialogue-note pairs with traditionl metrics:
 ### For Dialogue-2-Note task:
 1. First, the generated data must be converted into the required format for instruction fine-tuning and uploaded to Hugging Face. To do so, go to `eval/dial2_note_create_process_datasets.py`, update the paths, and run the script. It will prepare the dataset for instruction fine-tuning with Llama 3 and push it to Hugging Face.
+
 2. Go to `eval/run_tuning.py` aupdate the paths, and run it. This will fine-tune the model and upload the resulting checkpoint to Hugging Face. Alternatively, you can edit and use `eval/slurm_train_job_submit.sh`  to submit the tuning job to a slurm cluster. 
+
 3. Go to `eval/run_eval.py` update the paths, and run the script. It will evaluate the fine-tuned model and return both model responses and automatic metrics. You can also submit the evaluation job to a SLURM cluster using `eval/slurm_eval_job_submit.sh`.
+
 4. To repeat this process with the NoteChat dataset, first sample an equivalent number of datapoints using `eval/get_notechat_sample.py`. Then repeat steps 1 to 3 for tuning and evaluation.
 
 ### For Note-2-Dialogue task:
 1. First, the generated data must be converted into the required format for instrcution fine-tuning and be saved to huggingface. To do so, go to `eval/note2dial_create_process_datasets.py` and update the paths, then run it. It will create the dataset ready for instruction fine-tuning of Llama 3 and upload it to huggingface.
+
 2. Go to `eval/run_tuning.py` and update the paths, then run it. It will tune the model and save the tuned model to huggingface. Alternatively, you can edit and use `eval/slurm_train_job_submit.sh`  to submit the tuning job to a slurm cluster. 
+
 3. Go to `eval/run_eval.py` and edit the paths, then run it. It will evaluate the tuned model and return the model responses, as well as automatic metrics. Alternatively, you can submit the job to a slurm cluster using `eval/slurm_eval_job_note2dial.sh`.
+
 4. To repeat the same process with NoteChat dataset, you need to first take a sample from it with the same size as your generated data using `eval/get_notechat_sample.py`. Then repeat steps 1 to 3 for tuning and evaluation.
 
 
