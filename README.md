@@ -98,3 +98,25 @@ You can combine the resulting `.csv` files into a single `.csv` using `data_gen/
 2. Based on the task (dial-to-note or note-to-dial), uncomment the correct main function and run the script.
 
 
+
+## Citation:
+
+**BibTeX:** 
+
+@misc{mianroodi2025medsynthrealisticsyntheticmedical,
+      title={MedSynth: Realistic, Synthetic Medical Dialogue-Note Pairs}, 
+      author={Ahmad Rezaie Mianroodi and Amirali Rezaie and Niko Grisel Todorov and Cyril Rakovski and Frank Rudzicz},
+      year={2025},
+      eprint={2508.01401},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2508.01401}, 
+}
+
+ 
+
+**APA:** 
+
+Ahmad Rezaie Mianroodi, Amirali Rezaie, Niko Grisel Todorov, Cyril Rakovski, & Frank Rudzicz. (2025). MedSynth: Realistic, Synthetic Medical Dialogue-Note Pairs. 
+
+ 
