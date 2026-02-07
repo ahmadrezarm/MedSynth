@@ -461,6 +461,52 @@
           </div>
         </div>
 
+        <!-- Human Evaluation -->
+        <div class="eval-methodology" style="margin-top: 24px;">
+          <h3>👩‍⚕️ Human Expert Evaluation</h3>
+          <p>
+            To validate our LLM-based evaluation, <strong>three medical professionals</strong> evaluated <strong>40 samples</strong> 
+            on the most competitive comparison (MedSynth+Aci vs. NoteChat+Aci) in the Dial-2-Note task, 
+            achieving good inter-annotator agreement (<strong>ICC = 0.75</strong>).
+          </p>
+          <div class="table-wrap" style="margin-top: 16px;">
+            <table class="data-table compact">
+              <thead>
+                <tr>
+                  <th>Evaluation Method</th>
+                  <th>Metric</th>
+                  <th>MedSynth+Aci</th>
+                  <th>NoteChat+Aci</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>LLM Jury</td>
+                  <td>Samples preferred</td>
+                  <td class="pref-win">60.0%</td>
+                  <td>40.0%</td>
+                </tr>
+                <tr>
+                  <td>Human Experts (majority vote)</td>
+                  <td>Samples won</td>
+                  <td>50.0%</td>
+                  <td>50.0%</td>
+                </tr>
+                <tr>
+                  <td>Human Experts (individual votes)</td>
+                  <td>Vote share</td>
+                  <td class="pref-win">54.2%</td>
+                  <td>45.8%</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <p style="margin-top: 14px; font-size: 0.92rem;">
+            <strong>Key Finding:</strong> While the majority vote shows a tie, individual vote analysis reveals a slight preference for MedSynth (54.2%, 65/120 votes), 
+            consistent with the LLM jury's 60% preference—suggesting both humans and LLMs prefer MedSynth-trained models.
+          </p>
+        </div>
+
         <div class="results-grid">
           <!-- Dial-2-Note Results -->
           <div class="results-block">
