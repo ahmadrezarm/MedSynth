@@ -36,9 +36,10 @@
       </div>
 
       <nav class="top-nav" aria-label="Primary">
+        <a href="#problem">Problem</a>
         <a href="#abstract">Abstract</a>
-        <a href="#highlights">Highlights</a>
-        <a href="#dataset">Dataset</a>
+        <a href="#pipeline">Pipeline</a>
+        <a href="#comparison">Comparison</a>
         <a href="#results">Results</a>
       </nav>
     </div>
@@ -57,10 +58,42 @@
           </h1>
 
           <div class="paper-meta">
-            <div><span class="k">Authors:</span>
-              Ahmad Rezaie Mianroodi<sup>1,2</sup>, Amirali Rezaie<sup>3</sup>, Niko Grisel Todorov<sup>4</sup>, Cyril Rakovski<sup>3</sup>, Frank Rudzicz<sup>1,2</sup>
+            <div class="author-list" aria-label="Authors and affiliations">
+              <div class="author-block">
+                <div class="author-name">Ahmad Rezaie Mianroodi</div>
+                <div class="author-affiliation">Dalhousie University &amp; Vector Institute, Canada</div>
+              </div>
+
+              <div class="author-block">
+                <div class="author-name">Amirali Rezaie</div>
+                <div class="author-affiliation">Shahrood University of Technology, Iran</div>
+              </div>
+
+              <div class="author-block">
+                <div class="author-name">Niko Grisel Todorov</div>
+                <div class="author-affiliation">Chapman University, USA</div>
+              </div>
+
+              <div class="author-block">
+                <div class="author-name">
+                  Nadine A. Friedrich<br>
+                  Maria P Mogollon<br>
+                  Alexander Hernandez-Tirado<br>
+                  Guillermo Lopez Garcia
+                </div>
+                <div class="author-affiliation">Cedars-Sinai Medical Center, USA</div>
+              </div>
+
+              <div class="author-block">
+                <div class="author-name">Cyril Rakovski</div>
+                <div class="author-affiliation">Chapman University, USA</div>
+              </div>
+
+              <div class="author-block">
+                <div class="author-name">Frank Rudzicz</div>
+                <div class="author-affiliation">Dalhousie University &amp; Vector Institute, Canada</div>
+              </div>
             </div>
-            <div><span class="k">Affiliations:</span> <sup>1</sup>Dalhousie University, <sup>2</sup>Vector Institute, <sup>3</sup>Chapman University, <sup>4</sup>Lund University</div>
           </div>
 
           <div class="cta-row">
@@ -98,10 +131,55 @@
         <div class="callout callout-position">
           <div class="callout-icon">🩺</div>
           <div>
-            <div class="callout-title">The Problem</div>
+            <div class="callout-title">Addressing Physician Burnout</div>
             <p>
-              Physicians spend significant time documenting clinical encounters, contributing to <strong>professional burnout</strong>.
+              Physicians spend <strong>52–102 minutes daily</strong> on clinical note-taking—a task that detracts from direct patient care and contributes to <strong>professional burnout</strong>.
               Open-access, privacy-compliant, and diverse training data for medical documentation automation are scarce.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- PROBLEM SECTION -->
+    <section id="problem" class="section">
+      <div class="wrap">
+        <h2>The Problem We're Solving</h2>
+        
+        <div class="problem-grid">
+          <div class="problem-card">
+            <div class="problem-icon">⏰</div>
+            <div class="problem-title">Documentation Burden</div>
+            <p>
+              Electronic health records (EHRs) introduce a significant documentation burden. Physicians report spending 
+              <strong>52–102 minutes daily</strong> on clinical note-taking from patient encounters, detracting from direct patient care.
+            </p>
+          </div>
+
+          <div class="problem-card">
+            <div class="problem-icon">😓</div>
+            <div class="problem-title">Physician Burnout</div>
+            <p>
+              This extensive documentation requirement contributes significantly to <strong>physician burnout</strong>, 
+              highlighting an urgent need for solutions that can mitigate these demands while preserving quality of patient records.
+            </p>
+          </div>
+
+          <div class="problem-card">
+            <div class="problem-icon">🔒</div>
+            <div class="problem-title">Data Scarcity</div>
+            <p>
+              Developing automated documentation tools is hampered by the <strong>lack of large, open-access datasets</strong> 
+              that are both comprehensive and privacy-compliant. Existing datasets are limited in scope, lack standard medical formats, or are unavailable.
+            </p>
+          </div>
+
+          <div class="problem-card">
+            <div class="problem-icon">📋</div>
+            <div class="problem-title">Format Standardization</div>
+            <p>
+              Medical notes should adhere to standards like <strong>SOAP format</strong> (Subjective, Objective, Assessment, Plan) 
+              to ensure continuity of care. Many existing datasets lack this structure, limiting their utility.
             </p>
           </div>
         </div>
@@ -139,100 +217,354 @@
     <!-- HIGHLIGHTS -->
     <section id="highlights" class="section">
       <div class="wrap">
-        <h2>Key Highlights</h2>
+        <h2>Key Contributions</h2>
 
         <div class="three-col">
           <div class="card">
-            <div class="card-h">🔒 Privacy-Compliant</div>
+            <div class="card-h">📊 Large-Scale Dataset</div>
             <div class="card-b">
-              Fully synthetic data ensures no patient privacy concerns while maintaining clinical realism and utility.
+              Over <strong>10,000</strong> synthetic dialogue-note pairs covering <strong>2,000+ ICD-10</strong> codes with SOAP-formatted notes.
             </div>
           </div>
 
           <div class="card">
-            <div class="card-h">📈 Epidemiologically Informed</div>
+            <div class="card-h">🔄 Novel Pipeline</div>
             <div class="card-b">
-              Disease distributions based on extensive epidemiological analysis ensure realistic clinical coverage.
+              Multi-agent LLM pipeline for generating realistic, validated medical dialogue-note pairs with quality control.
             </div>
           </div>
 
           <div class="card">
-            <div class="card-h">🌐 Open Access</div>
+            <div class="card-h">🏆 State-of-the-Art</div>
             <div class="card-b">
-              Freely available on Hugging Face and GitHub to accelerate healthcare NLP research.
+              Fine-tuned models achieving SotA performance in Dial-2-Note and Note-2-Dial tasks.
             </div>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- DATASET -->
-    <section id="dataset" class="section alt">
+    <!-- GENERATION PIPELINE -->
+    <section id="pipeline" class="section alt">
       <div class="wrap">
-        <h2>Dataset Overview</h2>
+        <h2>Data Generation Pipeline</h2>
+        <p class="lead" style="margin-bottom: 24px;">
+          Our pipeline uses multiple LLM agents with Chain-of-Thought prompting and In-Context Learning. 
+          We first generate SOAP-formatted notes, then use these notes to generate corresponding dialogues.
+        </p>
         
-        <div class="dataset-content">
-          <div class="dataset-text">
-            <div class="dataset-block">
-              <h3>📋 What's Included</h3>
-              <ul class="bullets">
-                <li><strong>10,000+</strong> synthetic dialogue-note pairs</li>
-                <li><strong>2,000+</strong> ICD-10 diagnostic codes covered</li>
-                <li>Realistic physician-patient conversations</li>
-                <li>Corresponding clinical documentation notes</li>
-                <li>Diverse medical specialties and conditions</li>
-              </ul>
-            </div>
-
-            <div class="dataset-block">
-              <h3>🎯 Supported Tasks</h3>
-              <ul class="bullets">
-                <li><strong>Dial-2-Note:</strong> Generate clinical notes from doctor-patient dialogues</li>
-                <li><strong>Note-2-Dial:</strong> Generate realistic dialogues from clinical notes</li>
-                <li>Medical language model fine-tuning</li>
-                <li>Clinical NLP benchmarking</li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="dataset-diagram">
-            <div class="pipeline-box">
-              <div class="pipeline-title">MedSynth Pipeline</div>
-              <div class="pipeline-steps">
-                <div class="pipeline-step step-1">
-                  <span class="step-num">1</span>
-                  <span class="step-name">Disease Analysis</span>
-                  <span class="step-desc">ICD-10 distribution mapping</span>
+        <div class="pipeline-dual">
+          <!-- Note Generation Pipeline -->
+          <div class="pipeline-section">
+            <h3>📝 Note Generation Pipeline</h3>
+            <p>4-agent system with Chain-of-Thought prompting</p>
+            <div class="pipeline-agents">
+              <div class="agent-box note-agent">
+                <div class="agent-num">1</div>
+                <div class="agent-content">
+                  <div class="agent-name">Scenario Provider</div>
+                  <div class="agent-desc">Receives ICD-10 description, selects physician role, generates scenario with 13 clinical variables</div>
                 </div>
-                <div class="pipeline-connector">↓</div>
-                <div class="pipeline-step step-2">
-                  <span class="step-num">2</span>
-                  <span class="step-name">Dialogue Generation</span>
-                  <span class="step-desc">Realistic patient encounters</span>
+              </div>
+              <div class="agent-arrow">↓</div>
+              <div class="agent-box note-agent">
+                <div class="agent-num">2</div>
+                <div class="agent-content">
+                  <div class="agent-name">Scenario Judge</div>
+                  <div class="agent-desc">Validates medical accuracy, checks plausibility, ensures diversity from previous scenarios</div>
                 </div>
-                <div class="pipeline-connector">↓</div>
-                <div class="pipeline-step step-3">
-                  <span class="step-num">3</span>
-                  <span class="step-name">Note Generation</span>
-                  <span class="step-desc">Clinical documentation</span>
+              </div>
+              <div class="agent-arrow">↓</div>
+              <div class="agent-box note-agent">
+                <div class="agent-num">3</div>
+                <div class="agent-content">
+                  <div class="agent-name">Note Writer</div>
+                  <div class="agent-desc">Generates SOAP-formatted clinical note using One-Shot ICL with Aci-Bench examples</div>
                 </div>
-                <div class="pipeline-connector">↓</div>
-                <div class="pipeline-step step-4">
-                  <span class="step-num">4</span>
-                  <span class="step-name">Quality Validation</span>
-                  <span class="step-desc">Expert review & filtering</span>
+              </div>
+              <div class="agent-arrow">↓</div>
+              <div class="agent-box note-agent">
+                <div class="agent-num">4</div>
+                <div class="agent-content">
+                  <div class="agent-name">Note Polisher</div>
+                  <div class="agent-desc">Refines note, ensures correct section placement, adds missing referral details</div>
                 </div>
               </div>
             </div>
           </div>
+
+          <!-- Dialogue Generation Pipeline -->
+          <div class="pipeline-section">
+            <h3>💬 Dialogue Generation Pipeline</h3>
+            <p>2-agent system with Few-Shot In-Context Learning</p>
+            <div class="pipeline-agents">
+              <div class="agent-box dial-agent">
+                <div class="agent-num">1</div>
+                <div class="agent-content">
+                  <div class="agent-name">Dialogue Generator</div>
+                  <div class="agent-desc">Generates doctor-patient dialogue from medical note using Few-Shot ICL (n=3 examples)</div>
+                </div>
+              </div>
+              <div class="agent-arrow">↓</div>
+              <div class="agent-box dial-agent">
+                <div class="agent-num">2</div>
+                <div class="agent-content">
+                  <div class="agent-name">Dialogue Polisher</div>
+                  <div class="agent-desc">Adds realistic social chatter, verifies all note information is included, reduces hallucinations</div>
+                </div>
+              </div>
+            </div>
+            
+            <div class="pipeline-note">
+              <strong>Quality Variables:</strong> Our notes include 13 carefully selected variables based on expert survey: Medical Outcome, Medical History, Symptom Description, Patient Lifestyle, Demographics, Patient Behavior, Geography, Clinical Setting, Encounter Type, Treatment Disparities, Language, Physical Exams, and Investigation Results.
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- POSITIONING TABLE -->
+    <section id="comparison" class="section">
+      <div class="wrap">
+        <h2>Dataset Comparison</h2>
+        <p class="lead" style="margin-bottom: 18px;">Comparison of Dial-2-Note generation datasets. MedSynth offers the largest publicly available, ICD-10-diverse, SOAP-structured resource.</p>
+
+        <div class="table-wrap">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>Dataset</th>
+                <th>Description</th>
+                <th>Tasks</th>
+                <th>Dial. Len (tok/sent)</th>
+                <th>Note Len (tok/sent)</th>
+                <th># Pairs</th>
+                <th>Open</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>3M Health</td>
+                <td>Dialogue-note pairs; notes created using dialogues</td>
+                <td>Dial-2-Note, Note-2-Dial</td>
+                <td>—/—</td>
+                <td>—/— (HPI only)</td>
+                <td>1,342</td>
+                <td>❌</td>
+              </tr>
+              <tr>
+                <td>Abridge</td>
+                <td>Dialogue-note pairs; notes created using dialogues</td>
+                <td>Dial-2-Note, Note-2-Dial, ASR</td>
+                <td>1500/—</td>
+                <td>—/27</td>
+                <td>6,862</td>
+                <td>❌</td>
+              </tr>
+              <tr>
+                <td>Augmedix</td>
+                <td>Real clinical dialogue-note pairs</td>
+                <td>Clinical Dial-2-Note alignment</td>
+                <td>—/175</td>
+                <td>—/47</td>
+                <td>500</td>
+                <td>❌</td>
+              </tr>
+              <tr>
+                <td>EMR.AI</td>
+                <td>Real clinical dialogue-note pairs</td>
+                <td>Clinical form filling</td>
+                <td>616/1</td>
+                <td>550/—</td>
+                <td>9,875</td>
+                <td>❌</td>
+              </tr>
+              <tr>
+                <td>Nuance</td>
+                <td>Real clinical dialogue-note pairs</td>
+                <td>Dial-2-Note, Note-2-Dial</td>
+                <td>972/—</td>
+                <td>452/—</td>
+                <td>802k</td>
+                <td>❌</td>
+              </tr>
+              <tr>
+                <td>MTS-Dialogue</td>
+                <td>Dialogue-note snippets; dialogues from note sections</td>
+                <td>Dial-2-Note, Note-2-Dial</td>
+                <td>142/9</td>
+                <td>48/3</td>
+                <td>1,701</td>
+                <td>✅</td>
+              </tr>
+              <tr>
+                <td>PriMock57</td>
+                <td>Dialogue-note pairs; role-played by humans</td>
+                <td>Dial-2-Note, Note-2-Dial, ASR</td>
+                <td>1489/97</td>
+                <td>161/23</td>
+                <td>57</td>
+                <td>✅</td>
+              </tr>
+              <tr>
+                <td>Aci-Bench</td>
+                <td>Dialogue-note pairs; role-played by humans</td>
+                <td>Dial-2-Note, Note-2-Dial</td>
+                <td>1302/55</td>
+                <td>490/37</td>
+                <td>207</td>
+                <td>✅</td>
+              </tr>
+              <tr>
+                <td>NoteChat</td>
+                <td>Dialogue-note pairs; LLM role-played dialogues</td>
+                <td>Dial-2-Note, Note-2-Dial</td>
+                <td>561/27</td>
+                <td>301/14</td>
+                <td>207k</td>
+                <td>✅</td>
+              </tr>
+              <tr class="highlight-row">
+                <td><strong>MedSynth (ours)</strong></td>
+                <td>Dialogue-note pairs; LLM role-played (SOAP format)</td>
+                <td>Dial-2-Note, Note-2-Dial</td>
+                <td>1070/47</td>
+                <td>621/23</td>
+                <td>10,035</td>
+                <td>✅</td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </div>
     </section>
 
     <!-- RESULTS -->
-    <section id="results" class="section">
+    <section id="results" class="section alt">
       <div class="wrap">
-        <h2>Results & Impact</h2>
+        <h2>Experimental Results</h2>
+
+        <!-- Evaluation Methodology -->
+        <div class="eval-methodology">
+          <h3>🧪 LLM Jury Evaluation</h3>
+          <p>
+            Traditional metrics like BLEU and ROUGE don't correlate well with human judgment for medical text evaluation. 
+            We use an <strong>LLM jury</strong> with majority voting from three diverse models: <strong>Prometheus</strong>, <strong>GPT-4o</strong>, and <strong>Qwen2.5-32B-Instruct</strong>.
+          </p>
+          <div class="eval-rubrics">
+            <div class="rubric-box">
+              <strong>Dial-2-Note Rubric:</strong> Hallucination, Critical Omissions, Professional Tone, Logical Structure, SOAP Adherence, Section Relevance
+            </div>
+            <div class="rubric-box">
+              <strong>Note-2-Dial Rubric:</strong> Completeness, Accuracy, Naturalness & Flow, Medical Terminology, Evidence-Based Support
+            </div>
+          </div>
+        </div>
+
+        <div class="results-grid">
+          <!-- Dial-2-Note Results -->
+          <div class="results-block">
+            <h3>📝 Dial-2-Note Task</h3>
+            <p class="results-desc">LLM-based evaluation on Aci-Bench test set. Jury Preference Rate shows how often the jury of LLM judges preferred MedSynth-trained models.</p>
+            <table class="data-table compact">
+              <thead>
+                <tr>
+                  <th>Comparison</th>
+                  <th>Training Samples</th>
+                  <th>Jury Pref. Rate</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MedSynth+Aci vs. NoteChat+Aci</td>
+                  <td>10,102</td>
+                  <td class="pref-win">60.0%</td>
+                </tr>
+                <tr>
+                  <td>MedSynth Only vs. NoteChat Only</td>
+                  <td>10,035</td>
+                  <td class="pref-win strong">95.0%</td>
+                </tr>
+                <tr>
+                  <td>MedSynth+Aci vs. Aci Only</td>
+                  <td>10,102</td>
+                  <td class="pref-win">52.5%</td>
+                </tr>
+                <tr>
+                  <td>MedSynth+Aci vs. PriMock+Aci</td>
+                  <td>124</td>
+                  <td class="pref-win">57.5%</td>
+                </tr>
+                <tr>
+                  <td>MedSynth Only vs. PriMock Only</td>
+                  <td>57</td>
+                  <td class="pref-win strong">90.0%</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <!-- Note-2-Dial Results -->
+          <div class="results-block">
+            <h3>💬 Note-2-Dial Task</h3>
+            <p class="results-desc">Generating realistic dialogues from clinical notes. Results show consistent improvement when MedSynth is included in training.</p>
+            <table class="data-table compact">
+              <thead>
+                <tr>
+                  <th>Comparison</th>
+                  <th>Training Samples</th>
+                  <th>Jury Pref. Rate</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>MedSynth+Aci vs. NoteChat+Aci</td>
+                  <td>10,102</td>
+                  <td class="pref-win">55.0%</td>
+                </tr>
+                <tr>
+                  <td>MedSynth Only vs. NoteChat Only</td>
+                  <td>10,035</td>
+                  <td class="pref-win strong">87.5%</td>
+                </tr>
+                <tr>
+                  <td>MedSynth+Aci vs. Aci Only</td>
+                  <td>10,102</td>
+                  <td class="pref-win strong">80.0%</td>
+                </tr>
+                <tr>
+                  <td>MedSynth+Aci vs. PriMock+Aci</td>
+                  <td>124</td>
+                  <td class="pref-win">57.5%</td>
+                </tr>
+                <tr>
+                  <td>MedSynth Only vs. PriMock Only</td>
+                  <td>57</td>
+                  <td class="pref-win strong">97.5%</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Key Finding Callout -->
+        <div class="callout callout-position" style="margin-top: 24px;">
+          <div class="callout-icon">💡</div>
+          <div>
+            <div class="callout-title">Key Finding</div>
+            <p>
+              When trained <strong>exclusively</strong> on MedSynth vs. NoteChat, the performance gap widens significantly (95% vs 87.5% preference).
+              Models trained only on NoteChat <strong>failed to maintain SOAP format</strong>, a critical component of standard medical documentation.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- IMPACT -->
+    <section class="section">
+      <div class="wrap">
+        <h2>Impact & Applications</h2>
 
         <div class="action-grid">
           <div class="action-card">
@@ -241,7 +573,7 @@
               <h3>Performance Gains</h3>
             </div>
             <ul class="bullets">
-              <li>Marked improvement in Dial-2-Note generation quality</li>
+              <li>State-of-the-art Dial-2-Note generation</li>
               <li>Enhanced Note-2-Dial task performance</li>
               <li>Better generalization to real clinical scenarios</li>
             </ul>
@@ -255,7 +587,6 @@
             <ul class="bullets">
               <li>Reduces physician documentation burden</li>
               <li>Supports medical scribe automation</li>
-              <li>Enables clinical decision support tools</li>
             </ul>
           </div>
 
@@ -267,7 +598,6 @@
             <ul class="bullets">
               <li>Medical LLM fine-tuning and evaluation</li>
               <li>Clinical NLP benchmarking</li>
-              <li>Healthcare AI safety research</li>
             </ul>
           </div>
         </div>
@@ -280,7 +610,7 @@
         <h2>Citation</h2>
         <pre class="bib" id="bibBlock"><code>@article{mianroodi2025medsynth,
   title     = {MedSynth: Realistic, Synthetic Medical Dialogue-Note Pairs},
-  author    = {Rezaie Mianroodi, Ahmad and Rezaie, Amirali and Todorov, Niko Grisel and Rakovski, Cyril and Rudzicz, Frank},
+  author    = {Rezaie Mianroodi, Ahmad and Rezaie, Amirali and Todorov, Niko Grisel and Friedrich, Nadine A. and Mogollon, Maria P and Hernandez-Tirado, Alexander and Lopez Garcia, Guillermo and Rakovski, Cyril and Rudzicz, Frank},
   journal   = {arXiv preprint arXiv:2508.01401},
   year      = {2025},
   url       = {https://arxiv.org/abs/2508.01401},
